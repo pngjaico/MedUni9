@@ -50,7 +50,7 @@ Já que não tem conta matemática, como saber se o estudo é bom?
 
 ## Ponte com a Clínica
 
-No seu consultório, você faz pesquisa qualitativa o tempo todo. Ao perguntar "O que o senhor sente quando toma esse remédio?", você está buscando um **Significado**. Se o paciente responde que "sente que o remédio o deixa fraco para o trabalho", esse significado é o que vai determinar se ele vai continuar o tratamento ou não. A medicina de excelência une o dado frio do exame (Quantitativo) com a percepção do paciente (Qualitativa).
+No seu consultório, você faz pesquisa qualitativa o tempo todo. Ao perguntar "O que o senhor sente quando toma esse remédio?", você está buscando um **Significado**. Se o paciente responde que "sente que o remédio o deixa fraco para o trabalho", esse significado é o que vai determinar se ele vai continuar o tratamento ou não. A medicina de excelência une o dado frio do exame (Quantitativo) com a percepção do paciente (**Qualitativa**).
 
 ---
 
@@ -79,7 +79,7 @@ A Uninove adora a **Saturação**. Lembre-se: Você não precisa de 1.000 pessoa
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Qualitativa** | **Quantitativa** | Busca **Sentido/Porquê** vs Busca **Número/Quanto** |
+| **Qualitativa** | **Quantitativa** | **Sentido/Porquê** vs **Número/Quanto** |
 | **Entrevista** | **Grupo Focal** | **Privacidade/Profundidade** vs **Interação/Debate** |
 | **Saturação** | **Cálculo de Amostra (n)** | Para quando **Repete** vs Para quando chega no **Número** |
 | **Generalização** | **Transferibilidade** | Vale para **Todos** vs Vale para **Contextos Iguais** |

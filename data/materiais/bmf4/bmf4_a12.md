@@ -1,149 +1,93 @@
-# BMF4 — Aula 12: Neurotransmissão e Fibra Nervosa
+# BMF4 — Aula 12: Neurotransmissão e Fibra Nervosa — A Faísca da Vida
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+Entender a neurotransmissão é como entender a fiação elétrica de uma casa. Quase todos os remédios psiquiátricos e neurológicos agem aqui. Na prova, os temas centrais são o **Potencial de Ação**, o papel do **Cálcio** na liberação de vesículas e a diferença entre os tipos de **Fibras Nervosas** (especialmente **Fibras C e Aδ**).
+
+Na prática, cada sensação que você sente é um código elétrico. Quando você sente uma pontada aguda (como uma agulha), está usando fibras rápidas; quando sente uma queimação lenta e chata, está usando fibras lentas e sem gordura (**Amielínicas**). Saber qual fibra o paciente está usando te ajuda a diagnosticar o tipo de dor e como tratá-la.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Entender neurotransmissão é entender metade da farmacologia. Cada classe de droga psiquiátrica, anestésica ou neurológica atua num ponto desse processo: síntese, liberação, receptor ou recaptação. A Uninove cobra essa aula especialmente quando conecta ao mecanismo de doenças — miastenia gravis, parkinson, epilepsia, depressão. Saber o circuito completo — potencial de ação → vesícula → fenda → receptor → resposta — é o fundamento que sustenta toda neurologia e farmacologia que vem depois.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A12-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de sinapse química.
+- **O que mostrar:** O "Pulo da Sinapse": Um desenho de dois neurônios se encontrando. No primeiro, mostrar o **Cálcio** entrando e abrindo as "portas" (**Exocitose**) para as bolinhas de neurotransmissores. No segundo, mostrar os receptores recebendo o sinal.
+- **Tipo sugerido:** Infográfico de fluxo sináptico.
+- **Legenda (rascunho):** Sequência eletroquímica da transmissão de sinais entre neurônios.
 
+## 1. Fibras Nervosas: Rodovias de Velocidades Diferentes
 
-
-
----
-
-## A Fibra Nervosa — Estrutura e Classificação
-
-A **fibra nervosa** é o axônio acrescido de sua bainha. Fibras **mielinizadas** conduzem impulsos mais rapidamente por **condução saltatória**: o potencial salta de nódulo de Ranvier em nódulo de Ranvier, poupando energia e tempo. Nas fibras **amielinizadas**, a condução é contínua e muito mais lenta. O diâmetro do axônio e a presença de mielina são os dois determinantes da velocidade de condução.
-
-| Tipo | Mielina | Velocidade | Função principal |
-|------|---------|-----------|----------------|
-| Aα (Ia/Ib) | Sim | 70–120 m/s | Propriocepção e motor somático |
-| Aβ | Sim | 30–70 m/s | Tato fino e pressão |
-| Aδ | Sim | 5–30 m/s | Dor rápida, temperatura fria |
-| C | Não | 0,5–2 m/s | Dor lenta/difusa, temperatura quente |
-
-> **Dica de Prova:** A dor rápida e precisa ("pontada aguda") é mediada por fibras **Aδ**. A dor lenta e difusa ("queimação") é mediada por fibras **C** amielinizadas. A anestesia local bloqueia preferentemente fibras de menor calibre primeiro — por isso a temperatura vai antes da pressão.
+Nem todo nervo corre na mesma velocidade. Isso depende da **Mielina** (gordura isolante):
+- **Fibras Mielinizadas (Condução Saltatória):** O sinal pula de buraco em buraco (**Nódulos de Ranvier**), sendo extremamente rápido. Ex: **Fibras Aα** (motoras e equilíbrio).
+- **Fibras Amielinizadas (Condução Contínua):** O sinal tem que percorrer todo o caminho, sendo muito lento. Ex: **Fibras C** (dor de queimação, calor).
+- **Fato Curioso:** A anestesia local bloqueia primeiro as fibras finas. Por isso, você para de sentir dor antes de parar de sentir pressão ou movimento.
 
 ---
 
-## O Potencial de Ação — Do Estímulo à Propagação
+## 2. O Potencial de Ação: O Tudo ou Nada
 
-Um potencial de ação ocorre quando a membrana neuronal atinge o **limiar de despolarização** (~−55 mV, a partir de −70 mV de repouso). Canais de Na⁺ voltagem-dependentes abrem em massa, o sódio entra, a membrana despolariza até +30 mV. Em seguida, canais de K⁺ abrem e a repolarização ocorre — o interior volta ao negativo. O **período refratário absoluto** (canais de Na⁺ inativados) garante unidirecionalidade e limita a frequência de disparo.
-
-> **Pegadinha:** A lidocaína bloqueia canais de Na⁺ voltagem-dependentes. O neurônio está anatomicamente intacto — ele simplesmente não consegue propagar o sinal. Em overdose, pode atingir o coração e causar arritmia (os canais cardíacos têm cinética diferente, mas em concentrações altas são afetados).
-
----
-
-## A Sinapse Química — Etapas Obrigatórias
-
-A neurotransmissão química segue uma sequência rígida:
-
-```flow
-Potencial de ação chega ao botão terminal
-        ↓
-Abertura de canais de Ca²⁺ voltagem-dependentes
-        ↓
-Ca²⁺ entra → proteínas SNARE ancoram vesículas → exocitose
-        ↓
-Neurotransmissor na fenda sináptica (~20 nm)
-        ↓
-Liga-se ao receptor pós-sináptico → resposta
-        ↓
-Remoção: recaptação ativa / degradação enzimática / difusão
-```
-
-O **cálcio** é o gatilho da exocitose. A **toxina botulínica** cliva proteínas SNARE → impede fusão das vesículas de ACh → paralisia flácida sem déficit sensitivo.
+Para o neurônio disparar, ele precisa atingir um **Limiar de Despolarização**.
+- **Entrada de Sódio (Na+):** Quando o sinal chega, as comportas de sódio se abrem e o interior do neurônio fica positivo (**Despolarização**).
+- **Saída de Potássio (K+):** Logo depois, o potássio sai para o neurônio voltar ao normal (**Repolarização**).
+- **Lidocaína:** O anestésico local trava as portas de sódio. O neurônio tenta mandar a mensagem, mas a porta está trancada; por isso, a dor não chega ao cérebro.
 
 ---
 
-## Receptores: Ionotrópicos vs Metabotrópicos
+## 3. Sinapse: Onde a Eletricidade vira Química
 
-Essa distinção cai muito em prova. Os receptores pós-sinápticos são de dois tipos fundamentais:
-
-**Ionotrópicos** (canal+receptor no mesmo complexo): a ligação do neurotransmissor abre diretamente um canal iônico. Resposta rápida (milissegundos). Exemplos: receptor nicotínico de ACh (abre canal de Na⁺/K⁺), GABA-A (abre canal de Cl⁻), NMDA de glutamato (abre canal de Ca²⁺/Na⁺/K⁺).
-
-**Metabotrópicos** (receptor acoplado à proteína G): a ligação ativa uma proteína G intracelular, que gera segundo mensageiro (AMPc, IP3) e produz respostas mais lentas e prolongadas. Exemplos: receptor muscarínico de ACh, receptores dopaminérgicos D1/D2, receptores serotoninérgicos 5-HT1/5-HT2, receptores adrenérgicos α e β.
-
-> **Dica de Prova:** Na junção neuromuscular, o receptor de ACh é **nicotínico ionotrópico** — resposta rápida para contração muscular. No coração (nervo vago), o receptor de ACh é **muscarínico metabotrópico** — resposta mais lenta, bradicardia gradual.
+Na ponta do neurônio, o sinal elétrico precisa virar um sinal químico para atravessar o espaço:
+1.  O sinal chega e abre as portas de **Cálcio (Ca2+)**.
+2.  O cálcio entra e empurra as vesículas (bolinhas de remédio químico) para fora (**Exocitose**).
+3.  O neurotransmissor atravessa a fenda e se liga ao próximo neurônio.
+4.  **Toxina Botulínica (Botox):** Ela "corta" as cordas que puxam as vesículas. Resultado: a **acetilcolina** não sai, e o músculo não contrai (paralisia).
 
 ---
 
-## Principais Neurotransmissores e Patologias
+## 4. Receptores: Rapidez vs Duração
 
-| Neurotransmissor | Localização | Receptores | Patologia/fármaco |
-|-----------------|------------|-----------|-------------------|
-| **Acetilcolina** | JNM, SNA pré-ganglionar | Nicotínico, Muscarínico | Miastenia; botulismo; organofosforados |
-| **Dopamina** | Via nigroestriatal, mesolímbica | D1, D2 | Parkinson (↓); antipsicóticos (bloqueio D2) |
-| **Serotonina** | Núcleos da rafe | 5-HT1–7 | Depressão; ISRS; síndrome serotoninérgica |
-| **Noradrenalina** | Locus coeruleus | α1, α2, β1, β2 | Ansiedade; tricíclicos |
-| **GABA** | SNC — interneurônios | GABA-A (Cl⁻), GABA-B | Benzodiazepínicos; epilepsia |
-| **Glutamato** | Principal excitatório SNC | NMDA, AMPA, Cainato | Excitotoxicidade em AVC; ketamina |
-
----
-
-## Recaptação e Degradação — Onde os Fármacos Agem
-
-Após a liberação, o neurotransmissor deve ser removido da fenda. **Recaptação ativa** é o principal mecanismo para monoaminas (serotonina, dopamina, noradrenalina) — é o alvo dos ISRS, IRSN e antidepressivos tricíclicos. **Degradação enzimática**: acetilcolinesterase degrada ACh na fenda em microssegundos — organofosforados inibem essa enzima gerando crise colinérgica. **Difusão** contribui de forma menor para neurotransmissores como glutamato (captado por astrócitos vizinhos).
-
-> **Pegadinha:** Inibidores de acetilcolinesterase (neostigmina) são terapêuticos em miastenia gravis — aumentam ACh disponível para os receptores remanescentes. O mesmo princípio em dose tóxica (organofosforados) mata. A diferença é dose e reversibilidade da inibição enzimática.
-
----
-
-## Pontos-Chave para Prova
-
-- **Fibra C:** amielinizada, 0,5–2 m/s, dor difusa e queimação — a mais lenta.
-- **Fibra Aα:** mielinizada, até 120 m/s, propriocepção e motor somático — a mais rápida.
-- **Ca²⁺:** dispara exocitose vesicular — sem cálcio, sem neurotransmissão.
-- **Toxina botulínica:** cliva SNARE → bloqueia liberação de ACh na JNM → paralisia flácida.
-- **Miastenia gravis:** anticorpo anti-receptor nicotínico → fraqueza piora com esforço.
-- **Ionotrópico vs Metabotrópico:** JNM = nicotínico ionotrópico (rápido); coração = muscarínico metabotrópico (lento).
-- **GABA-A:** canal de Cl⁻; benzodiazepínico aumenta frequência de abertura.
-- **Glutamato/NMDA:** excitotoxicidade por entrada excessiva de Ca²⁺ em isquemia cerebral.
-- **ISRS:** inibe recaptação de serotonina → mais serotonina na fenda → efeito antidepressivo.
-- **Organofosforado:** inibe AChE → acúmulo de ACh → síndrome SLUDGE + bradicardia.
+Existem dois jeitos do próximo neurônio receber o sinal:
+- **Ionotrópicos (Rápidos):** O neurotransmissor abre um portão de íons na hora. Ex: **Receptores Nicotínicos** no músculo (você quer mover o braço e ele move no milissegundo).
+- **Metabotrópicos (Lentos):** O neurotransmissor ativa uma cascata de mensagens internas (**Proteína G**). A resposta demora mais, mas dura muito mais. Ex: Humor e sono.
 
 ---
 
 ## Ponte com a Clínica
 
-Intoxicação por organofosforados inibe acetilcolinesterase → acúmulo de ACh → síndrome colinérgica (SLUDGE: salivação, lacrimejamento, urina, diarreia, distúrbio GI, êmese). Tratamento: atropina (antagonista muscarínico) + pralidoxima (reativa a enzima antes da ligação envelhecer). Na doença de Parkinson, degeneração nigroestriatal reduz dopamina → levodopa repõe o precursor direto. ISRS + tramadol ou linezolida → síndrome serotoninérgica: hipertermia + tremor/mioclonia + agitação — potencialmente fatal.
+No seu pronto-atendimento, se chegar um paciente com **Intoxicação por Organofosforados** (veneno de rato ou agrotóxico), ele terá excesso de **Acetilcolina** no corpo. Isso acontece porque o veneno trava a "vassoura" (**Acetilcolinesterase**) que limpa a sinapse. O paciente fica babando, com pupilas minúsculas (miose) e coração lento (bradicardia). O tratamento é a **Atropina**, que bloqueia os receptores e impede o veneno de agir.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Fibra C**: Única fibra **Amielínica**; responsável pela dor crônica e queimação.
+- **Cálcio**: O íon indispensável para a liberação dos neurotransmissores na fenda sináptica.
+- **Condução Saltatória**: Ocorre apenas em fibras mielinizadas, aumentando drasticamente a velocidade.
+- **GABA**: O principal neurotransmissor canônico de **Inibição** no sistema nervoso central.
+- **Glutamato**: O principal neurotransmissor canônico de **Excitação** no sistema nervoso central.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Fibra C:** amielinizada, 0,5–2 m/s, dor lenta/difusa — bloqueada por último pela anestesia local.
-- **Fibra Aα:** mielinizada, 70–120 m/s, propriocepção e motor esquelético.
-- **Ca²⁺:** dispara exocitose vesicular — essencial para toda neurotransmissão química.
-- **Ionotrópico:** canal diretamente acoplado ao receptor (rápido). Nicotínico = ionotrópico.
-- **Metabotrópico:** via proteína G e 2º mensageiro (lento). Muscarínico = metabotrópico.
-- **Toxina botulínica:** cliva SNARE → sem ACh → paralisia flácida.
-- **Miastenia gravis:** anti-AChR nicotínico → fraqueza que piora com fadiga.
-- **Organofosforado:** inibe AChE → SLUDGE + bradicardia.
+
+Para gabaritar neurotransmissão, foque no fluxo de íons. 
+**Sódio** entra (liga), **Potássio** sai (desliga), **Cálcio** libera a vesícula. Se o problema é no músculo, o culpado quase sempre é a **Acetilcolina**.
+
+A Uninove adora a **Bainha de Mielina**. Lembre-se: Mais mielina = mais velocidade. As fibras **Aα** são os aviões a jato (motor); as fibras **C** são as carroças (dor lenta). Outro ponto forte: o **Botox** bloqueia a saída da acetilcolina; já a **Miastenia Gravis** destrói o lugar onde a acetilcolina se liga. Por fim, saiba que o **Lítio** e antidepressivos mexem na recaptação desses sinais para estabilizar o humor.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Miastenia gravis | Lambert-Eaton | MG: anti-AChR pós-sináptico; Lambert: anti-Ca²⁺ pré-sináptico |
-| Fibra Aδ | Fibra C | Aδ: dor rápida e localizada; C: dor lenta, difusa, queimação |
-| Receptor nicotínico | Receptor muscarínico | Nicotínico: ionotrópico, JNM e gânglios; Muscarínico: metabotrópico, coração e glândulas |
-| Toxina botulínica | Organofosforado | Botulinica: bloqueia liberação de ACh; Organofosfato: inibe degradação de ACh |
+| **Fibra Aδ** | **Fibra C** | **Dor Rápida** (Pontada) vs **Dor Lenta** (Queimação) |
+| **Ionotrópico** | **Metabotrópico** | Resposta **Instantânea** vs Resposta **Demorada/Longa** |
+| **Lidocaína** | **Toxina Botulínica** | Trava o **Canal de Sódio** vs Trava a **Saída da Vesícula** |
+| **GABA** | **Glutamato** | **Inibe** o cérebro vs **Excita** o cérebro |
+| **Repolarização** | **Depolarização** | **K+ Saindo** (volta ao repouso) vs **Na+ Entrando** (disparo) |
 
 ### Frase-âncora para não esquecer
-> "Sem cálcio, sem vesícula, sem sinal — Ca²⁺ é a chave que abre a porta da sinapse, e a toxina botulínica jogou a chave fora."
+
+> "Sódio entra pra ligar, potássio sai pra repousar. Cálcio chega pra soltar, a vesícula na fenda vai brilhar. Fibra C é devagar, Mielina faz saltar. Se o receptor for rápido, ionotrópico é o lugar."

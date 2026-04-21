@@ -1,6 +1,6 @@
 # BMF4 — Aula 10: Morfologia da Medula Espinal — A Autopista dos Sentidos
 
-A medula espinal é o grande cabo de conexão entre o cérebro e o corpo. Na prova, os temas centrais são os **Limites da Medula** (onde ela acaba e onde começa a Cauda Equina), a organização das **Substâncias Cinzenta e Branca** e as **Síndromes Medulares** (como a de Brown-Séquard).
+A medula espinal é o grande cabo de conexão entre o cérebro e o corpo. Na prova, os temas centrais são os **Limites da Medula** (onde ela acaba e onde começa a **Cauda Equina**), a organização das **Substâncias Cinzenta e Branca** e as **Síndromes Medulares** (como a de **Brown-Séquard**).
 
 Na prática, saber onde a medula termina é o que garante a segurança de procedimentos médicos. Quando você realiza uma **Punção Lombar** para colher líquor, faz isso sabendo exatamente que a medula já acabou naquela altura, evitando lesões neurológicas permanentes no paciente.
 
@@ -29,7 +29,7 @@ Diferente do que muitos pensam, a medula não vai até o final da coluna.
 No centro da medula, temos o processamento:
 - **Corno Posterior (Dorsal):** É a porta de entrada da **Sensibilidade**.
 - **Corno Anterior (Ventral):** É a sede dos **Neurônios Motores Inferiores** (os que mandam no músculo). Se lesionar aqui, o músculo fica flácido e perde o reflexo.
-- **Corno Lateral:** Só existe na região torácica e lombar alta (T1-L2). Cuida do sistema nervoso **Simpático**.
+- **Corno Lateral:** Só existe na região torácica e lombar alta (**T1-L2**). Cuida do sistema nervoso **Simpático**.
 
 ---
 
@@ -53,7 +53,7 @@ Esta é a síndrome de "meia-medula" (hemissecção):
 
 ## Ponte com a Clínica
 
-No seu exame de um paciente com trauma de coluna, se você encontrar um nível abaixo do qual ele não sente nada e não move nada, você identificou o **Nível Medular** da lesão. Se a lesão for acima de **C4**, o paciente perde o comando do diafragma (Nervo Frênico) e para de respirar. É uma emergência absoluta que exige ventilação mecânica imediata para salvar a vida do paciente.
+No seu exame de um paciente com trauma de coluna, se você encontrar um nível abaixo do qual ele não sente nada e não move nada, você identificou o **Nível Medular** da lesão. Se a lesão for acima de **C4**, o paciente perde o comando do diafragma (**Nervo Frênico**) e para de respirar. É uma emergência absoluta que exige ventilação mecânica imediata para salvar a vida do paciente.
 
 ---
 
@@ -82,7 +82,7 @@ A Uninove adora o **Funículo Posterior**. Lembre-se: Ele traz o tato chique (fi
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Cone Medular** | **Cauda Equina** | **Medula Sólida** (termina em L2) vs **Raízes Soltas** |
+| **Cone Medular** | **Cauda Equina** | **Medula Sólida** (termina em **L2**) vs **Raízes Soltas** |
 | **Corno Anterior** | **Corno Posterior** | **Eferente** (Motor) vs **Aferente** (Sensitivo) |
 | **Fas. Grácil** | **Fas. Cuneiforme** | Sensibilidade das **Pernas** vs Sensibilidade dos **Braços** |
 | **Subst. Branca** | **Subst. Cinzenta** | **Cabos** (Axônios) vs **Processadores** (Corpos) |

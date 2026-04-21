@@ -18,7 +18,7 @@ Na prática, os hormônios ditam o ritmo da vida. Se houver excesso, o corpo fic
 ## 1. Hipófise: A Glândula Maestra
 
 A hipófise fica bem no centro da cabeça e comanda as outras glândulas:
-- **Adeno-hipófise (Frente):** Fabrica hormônios que ativam a tireoide (TSH), a suprarrenal (ACTH) e os testículos/ovários (FSH/LH). Também produz o hormônio do crescimento (**GH**).
+- **Adeno-hipófise (Frente):** Fabrica hormônios que ativam a tireoide (**TSH**), a suprarrenal (**ACTH**) e os testículos/ovários (FSH/LH). Também produz o hormônio do crescimento (**GH**).
 - **Neuro-hipófise (Trás):** Ela apenas guarda e solta o que o cérebro (hipotálamo) produz: o **ADH** (segura água) e a **Ocitocina** (parto e leite).
 - **Importante:** Se um tumor crescer aqui, ele aperta o quiasma óptico bem em cima dele, fazendo o paciente perder a visão lateral.
 
@@ -36,8 +36,8 @@ A tireoide fica no pescoço e produz o **T3 e T4**:
 ## 3. Glândulas Suprarrenais: Estresse e Sal
 
 Ficam em cima dos rins e são divididas em "zonas" que você **Precisa** saber (Mnemônico **GFR**):
-- **Zona Glomerulosa (Externa):** Produz a Aldosterona. Ela segura o **Sal** (Sódio) e a pressão.
-- **Zona Fasciculada (Média):** Produz o Cortisol, o hormônio do estresse que aumenta o **Açúcar** no sangue.
+- **Zona Glomerulosa (Externa):** Produz a **Aldosterona**. Ela segura o **Sal (Sódio)** e a pressão.
+- **Zona Fasciculada (Média):** Produz o **Cortisol**, o hormônio do estresse que aumenta o **Açúcar** no sangue.
 - **Zona Reticular (Interna):** Produz hormônios do **Sexo** (andrógenos).
 - **Medula (Centro):** Solta a **Adrenalina** pura na corrente sanguínea em situações de perigo.
 
@@ -52,16 +52,16 @@ Ficam em cima dos rins e são divididas em "zonas" que você **Precisa** saber (
 
 ## Ponte com a Clínica
 
-No seu consultório, se chegar um paciente com **Síndrome de Cushing** (corpo gordo no centro, braços finos, rosto redondo como a lua e estrias roxas na barriga), você deve pensar imediatamente em excesso de **Cortisol**. Pode ser um tumor na suprarrenal ou, muito mais comum, o uso excessivo de remédios corticoides por conta própria para dores crônicas. O excesso de hormônio "derrete" os músculos e a pele para transformá-los em açúcar e gordura.
+No seu consultório, se chegar um paciente com **Síndrome de Cushing** (corpo gordo no centro, braços finos, rosto redondo como a lua e estrias roxas na barriga), você deve pensar imediatamente em excesso de **Cortisol**. Pode ser um tumor na suprarrenal ou, muito mais comum, o uso excessivo de remédios **corticoides** por conta própria para dores crônicas. O excesso de hormônio "derrete" os músculos e a pele para transformá-los em açúcar e gordura.
 
 ---
 
 ## Pontos-Chave para Prova
 
 - **Neuro-hipófise**: Não produz hormônios; apenas armazena o **ADH e a Ocitocina**.
-- **Zona Fasciculada da Adrenal**: A principal produtora de **Cortisol**; estimulada pelo ACTH hipofisário.
+- **Zona Fasciculada da Adrenal**: A principal produtora de **Cortisol**; estimulada pelo **ACTH** hipofisário.
 - **Células Beta do Pâncreas**: Fabricam a **Insulina**; sua destruição causa o Diabetes Tipo 1.
-- **PTH (Paratormônio)**: Hormônio hipercalcemiante (tira cálcio do osso para o sangue).
+- **PTH (Paratormônio)**: Hormônio hipercalcemiante (tira **cálcio** do osso para o sangue).
 - **Eixo Hipotálamo-Hipófise**: Sistema de feedback negativo onde o hormônio final avisa para parar de produzir o inicial.
 
 ---
@@ -83,8 +83,8 @@ A Uninove adora o **Hipotireoidismo de Hashimoto**. Lembre-se: O corpo ataca a t
 |------------|------------|-----------------|
 | **Hipotireoidismo** | **Hipertireoidismo** | Tudo **Lento/Frio** vs Tudo **Rápido/Quente** |
 | **Córtex Adrenal** | **Medula Adrenal** | **Hormônios Esteroides** vs **Adrenalina** |
-| **Insulina** | **Glucagon** | **Baixa** Glicemia vs **Sobe** Glicemia |
-| **PTH** | **Calcitonina** | **Sobe** Cálcio (Osso -> Sangue) vs **Baixa** Cálcio |
+| **Insulina** | **Glucagon** | **Baixa Glicemia** vs **Sobe Glicemia** |
+| **PTH** | **Calcitonina** | **Sobe Cálcio** (Osso -> Sangue) vs **Baixa Cálcio** |
 | **Diabetes Tipo 1** | **Diabetes Tipo 2** | Falta de **Produção** vs Falha na **Recepção/Resistência** |
 
 ### Frase-âncora para não esquecer

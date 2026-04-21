@@ -2,7 +2,7 @@
 
 A célula eucariótica é a unidade fundamental do corpo humano. Na prova, o tema central é entender as funções das **Organelas** (como Retículos, Golgi e Lisossomos) e do **Citoesqueleto**, correlacionando defeitos nessas estruturas com doenças genéticas como **Gaucher** ou a **Síndrome de Kartagener**.
 
-Na prática, entender como a célula funciona é a base para compreender como o câncer se espalha, como os vírus infectam o corpo e como as drogas agem no maquinário celular.
+Na prática, entender como a célula funciona é a base para compreender como o **câncer se espalha**, como os **vírus infectam o corpo** e como as drogas agem no maquinário celular.
 
 ---
 
@@ -31,7 +31,7 @@ Cada compartimento tem uma função específica para evitar o caos:
 |---|---|---|
 | **Núcleo** | Sede do DNA. | **Eucromatina** é o DNA "aberto" (trabalhando). |
 | **RER (Rugoso)** | Faz **Proteínas**. | Tem ribossomos e faz proteínas para exportação. |
-| **REL (Liso)** | Faz **Lipídios**. | Faz hormônios esteroides e limpa toxinas (detox). |
+| **REL (Liso)** | Faz **Lipídios**. | Faz hormônios esteroides e limpa toxinas (**detox**). |
 | **Golgi** | "Empacota" e envia. | Adiciona açúcar às proteínas (**Glicosilação**). |
 | **Mitocôndria** | Usina de **Energia**. | Tem DNA próprio e só vem da **Mãe**. |
 | **Lisossomo** | Digestão e Limpeza. | Defeito gera doenças de acúmulo (ex: **Gaucher**). |
@@ -41,18 +41,18 @@ Cada compartimento tem uma função específica para evitar o caos:
 ## 3. Citoesqueleto (O esqueleto e as ruas)
 
 A célula não é um saco de gelatina; ela tem sustentação:
-- **Microtúbulos:** Formados por **Tubulina**. Servem para a divisão celular (fuso) e formam o "rabinho" do espermatozoide (flagelo) e os cílios do pulmão.
-- **Síndrome de Kartagener:** É quando os cílios não batem direito (defeito na dineína). O homem fica infértil e a pessoa tem sinusites constantes.
-- **Microfilamentos:** Formados por **Actina**. Essenciais para o movimento da célula e contração muscular.
+- **Microtúbulos:** Formados por **Tubulina**. Servem para a **divisão celular** (fuso) e formam o "rabinho" do espermatozoide (**flagelo**) e os **cílios do pulmão**.
+- **Síndrome de Kartagener:** É quando os cílios não batem direito (defeito na **dineína**). O homem fica infértil e a pessoa tem sinusites constantes.
+- **Microfilamentos:** Formados por **Actina**. Essenciais para o movimento da célula e **contração muscular**.
 
 ---
 
 ## 4. Tráfego de Vesículas (Logística)
 
 As proteínas viajam em "caixas" chamadas vesículas:
-- **COPII:** Leva do Retículo para o Golgi (**C**hegando na **O**rgela **P**róxima).
-- **COPI:** Traz de volta do Golgi para o Retículo (Retrógrado).
-- **Clatrina:** Usada para a célula "comer" algo de fora (Endocitose), como o colesterol LDL.
+- **COPII:** Leva do Retículo para o Golgi (**Chegando na Orgela Próxima**).
+- **COPI:** Traz de volta do Golgi para o Retículo (**Retrógrado**).
+- **Clatrina:** Usada para a célula "comer" algo de fora (**Endocitose**), como o **colesterol LDL**.
 
 ---
 
@@ -88,10 +88,10 @@ Sobre o citoesqueleto, decore que os **Microtúbulos** são os alvos das drogas 
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **RER** | **REL** | Fábrica de Proteína vs **Fábrica de Lipídios/Detox** |
+| **RER** | **REL** | **Fábrica de Proteína** vs **Fábrica de Lipídios/Detox** |
 | **Microtúbulos** | **Microfilamentos** | Divisão/Cílios (Tubulina) vs **Movimento/Contração (Actina)** |
 | **COPII** | **COPI** | Indo para o Golgi vs **Voltando para o Retículo** |
-| **Eucromatina** | **Heterocromatina** | DNA ativo e claro vs **DNA inativo e escuro no núcleo** |
+| **Eucromatina** | **Heterocromatina** | **DNA ativo e claro** vs **DNA inativo e escuro no núcleo** |
 | **Autofagia** | **Apoptose** | Célula comendo suas partes vs **Célula se suicidando** |
 
 ### Frase-âncora para não esquecer

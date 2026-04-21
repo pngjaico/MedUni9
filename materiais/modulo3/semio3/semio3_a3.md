@@ -1,8 +1,8 @@
 # SEMIO3 — Aula 3: Semiologia Renal — Anamnese e Exame Físico
 
-A semiologia renal é o ponto onde a clínica e a urologia se encontram. Na prova, os temas centrais são a diferenciação entre **Infecção Urinária Baixa** (Cistite) e **Alta** (Pielonefrite), o reconhecimento da **Cólica Renal** e a interpretação do **Manobra de Giordano**.
+A semiologia renal é o ponto onde a clínica e a urologia se encontram. Na prova, os temas centrais são a diferenciação entre **Infecção Urinária Baixa** (**Cistite**) e **Alta** (**Pielonefrite**), o reconhecimento da **Cólica Renal** e a interpretação da **Manobra de Giordano**.
 
-Na prática, o médico deve ser um detetive da urina. Uma pergunta sobre a cor (clara vs "cor de coca-cola") ou sobre o ritmo do edema (acordar com o rosto inchado) pode ser a diferença entre diagnosticar uma simples desidratação ou uma doença renal crônica silenciosa que exige diálise imediata.
+Na prática, o médico deve ser um detetive da urina. Uma pergunta sobre a cor (clara vs "**cor de coca-cola**") ou sobre o ritmo do edema (**acordar com o rosto inchado**) pode ser a diferença entre diagnosticar uma simples desidratação ou uma **doença renal crônica** silenciosa que exige diálise imediata.
 
 ---
 

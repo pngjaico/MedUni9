@@ -33,9 +33,9 @@ O **Frêmito Toracovocal (FTV)** e a **Percussão** são os "desempatadores" das
 | **Consolidação (Pneumonia)** | Reduzida (Local) | **Aumentado** | **Macicez** |
 | **Derrame Pleural** | Reduzida (Base) | **Diminuído/Abolido** | **Macicez** |
 | **Pneumotórax** | Reduzida (Unilateral) | Diminuído | **Hipertimpanismo** |
-| **Enfisema** | Reduzida (Difusa) | Diminuído | Hipertimpanismo |
+| **Enfisema** | Reduzida (Difusa) | Diminuído | **Hipertimpanismo** |
 
-> **Dica de Prova:** A **Consolidação** é a ÚNICA síndrome onde o FTV aumenta, pois o som viaja melhor em meios sólidos (exudato) do que no ar.
+> **Dica de Prova:** A **Consolidação** é a ÚNICA síndrome onde o **FTV aumenta**, pois o som viaja melhor em meios sólidos (exudato) do que no ar.
 
 ---
 

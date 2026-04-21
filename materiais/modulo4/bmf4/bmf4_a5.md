@@ -61,7 +61,7 @@ No seu futuro estágio, se atender um paciente que sofreu um trauma no lado esqu
 - **Área de Wernicke**: Localizada no lobo temporal esquerdo; essencial para a **Compreensão** da linguagem.
 - **Lobo Occipital**: Lesões aqui causam cegueira ou alterações visuais, mesmo com os olhos perfeitos.
 - **Ínsula**: Lobo profundo responsável pela percepção de dor visceral e emoções.
-- **Corpo Caloso**: A maior comissura (ponte) do cérebro; feita de substância branca.
+- **Corpo Caloso**: A maior comissura (ponte) do cérebro; feita de **substância branca**.
 
 ---
 

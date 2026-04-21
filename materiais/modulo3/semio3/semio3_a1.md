@@ -2,7 +2,7 @@
 
 A queixa de "dor de barriga" é uma das mais comuns no pronto-socorro e, ao mesmo dizer, uma das mais perigosas. Na prova, os temas centrais são a aplicação dos mnemônicos **SOCRATES e OPQRST** para caracterizar a dor, a identificação dos **Red Flags** (sinais de alerta) e a diferenciação entre **Dor Visceral e Dor Somática**.
 
-Na prática, a anamnese abdominal bem feita poupa exames caros e tempo precioso. Pedir ao paciente para apontar com **Um Único Dedo** onde a dor começou e para onde ela foi é o passo mais importante para diferenciar uma apendicite de uma simples gastrite ou de uma emergência cirúrgica.
+Na prática, a anamnese abdominal bem feita poupa exames caros e tempo precioso. Pedir ao paciente para apontar com **Um Único Dedo** onde a dor começou e para onde ela foi é o passo mais importante para diferenciar uma **apendicite** de uma simples gastrite ou de uma **emergência cirúrgica**.
 
 ---
 
@@ -18,10 +18,10 @@ Na prática, a anamnese abdominal bem feita poupa exames caros e tempo precioso.
 ## 1. Caracterizando a Dor (Mnemônicos de Elite)
 
 Para não esquecer nada, use o **SOCRATES**:
-- **S (Site):** Local exato. Peça para apontar com o dedo.
-- **O (Onset):** Início. Foi súbito (segundos) ou progressivo (horas)?
+- **S (Site):** Local exato. Peça para apontar com o **dedo**.
+- **O (Onset):** Início. Foi **súbito** (segundos) ou progressivo (horas)?
 - **C (Character):** Tipo. É queimação, pontada, peso ou **Cólica** (ondas)?
-- **R (Radiation):** Irradiação. Vai para o dorso, ombro ou virilha?
+- **R (Radiation):** Irradiação. Vai para o **dorso**, **ombro** ou **virilha**?
 - **A (Associations):** Sintomas juntos (vômitos, febre, diarreia).
 - **T (Timing):** É constante ou vem e vai?
 - **E (Exacerbating/Relieving):** Piora ao caminhar? Melhora ao vomitar?
@@ -31,7 +31,7 @@ Para não esquecer nada, use o **SOCRATES**:
 
 ## 2. Tipos de Dor Abdominal
 
-- **Dor Visceral:** É profunda e mal localizada. O paciente não sabe apontar o ponto exato. É causada por distensão das vísceras.
+- **Dor Visceral:** É profunda e **mal localizada**. O paciente não sabe apontar o ponto exato. É causada por distensão das vísceras.
 - **Dor Somática (Parietal):** É aguda, intensa e **Bem Localizada**. O paciente aponta o ponto exato com o dedo. Piora muito com qualquer movimento (tosse, respiração, caminhar).
 - **Dor Referida:** Sentida longe da causa (ex: dor no ombro direito causada por problema na vesícula).
 
@@ -40,10 +40,10 @@ Para não esquecer nada, use o **SOCRATES**:
 ## 3. Red Flags: Quando Correr?
 
 Se o paciente apresentar qualquer um desses sinais, a investigação deve ser imediata:
-- **Início Súbito e Explosivo:** "A pior dor da vida" que começa em segundos (pensar em perfuração).
+- **Início Súbito e Explosivo:** "A pior dor da vida" que começa em segundos (pensar em **perfuração**).
 - **Vômito Bilioso (Verde/Amarelo):** Sinal clássico de **Obstrução Intestinal**.
-- **Síncope ou Desmaio:** Pode indicar sangramento interno (gravidez ectópica ou aneurisma).
-- **Febre Alta + Dor Localizada:** Sinal de infecção grave (abscesso ou peritonite).
+- **Síncope ou Desmaio:** Pode indicar **sangramento interno** (gravidez ectópica ou aneurisma).
+- **Febre Alta + Dor Localizada:** Sinal de infecção grave (abscesso ou **peritonite**).
 - **Parada de Eliminar Gases:** Indica que o intestino parou de funcionar.
 
 ---
@@ -51,9 +51,9 @@ Se o paciente apresentar qualquer um desses sinais, a investigação deve ser im
 ## 4. Antecedentes que Mudam Tudo
 
 Nunca esqueça de perguntar:
-- **Cirurgias Prévias:** Aumentam o risco de "bridas" (cicatrizes internas que prendem o intestino).
+- **Cirurgias Prévias:** Aumentam o risco de "**bridas**" (cicatrizes internas que prendem o intestino).
 - **Uso de AINEs (Ibuprofeno, Diclofenaco):** Risco altíssimo de **Úlcera Perfurada**.
-- **Data da Última Menstruação:** Em mulheres, dor abdominal é gravidez até que o teste prove o contrário.
+- **Data da Última Menstruação:** Em mulheres, dor abdominal é **gravidez** até que o teste prove o contrário.
 
 ---
 

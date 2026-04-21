@@ -2,7 +2,7 @@
 
 As doenças causadas por protozoários são grandes problemas de saúde pública no Brasil. Na prova, os temas centrais são o reconhecimento das fases da **Doença de Chagas**, o ciclo da **Malária** (vivax vs. falciparum) e o quadro sistêmico da **Leishmaniose Visceral (Calazar)**.
 
-Na prática, o diagnóstico precoce — seja por uma gota espessa ou por um eletrocardiograma — é essencial para evitar a progressão para formas graves e irreversíveis.
+Na prática, o diagnóstico precoce — seja por uma **gota espessa** ou por um **eletrocardiograma** — é essencial para evitar a progressão para formas graves e irreversíveis.
 
 ---
 
@@ -17,10 +17,10 @@ Na prática, o diagnóstico precoce — seja por uma gota espessa ou por um elet
 
 ## 1. Doença de Chagas (Trypanosoma cruzi)
 
-- **Vetor:** Barbeiro. A transmissão ocorre pelas fezes dele (quando a pessoa coça a picada).
+- **Vetor:** **Barbeiro**. A transmissão ocorre pelas fezes dele (quando a pessoa coça a picada).
 - **Fase Aguda:** Frequentemente passa despercebida. Pode ter o **Sinal de Romaña** ou o **Chagoma** (bolinha no local da picada). O diagnóstico é feito vendo o parasita no sangue (**Gota Espessa**).
 - **Fase Crônica (O perigo silencioso):**
-  - **Coração:** Causa o famoso "coração crescido" (miocardiopatia dilatada) e arritmias. Pista de prova: **BRD + BDASE** no eletro (é o sobrenome do Chagas no ECG).
+  - **Coração:** Causa o famoso "coração crescido" (**miocardiopatia dilatada**) e arritmias. Pista de prova: **BRD + BDASE** no eletro (é o sobrenome do Chagas no ECG).
   - **Digestão:** Dilatação do esôfago (**Megaesôfago**) e do intestino (**Megacólon**).
 
 ---
@@ -39,8 +39,8 @@ Na prática, o diagnóstico precoce — seja por uma gota espessa ou por um elet
 ## 3. Leishmaniose (Calazar e Tegumentar)
 
 - **Vetor:** Mosquito Palha.
-- **Leishmaniose Visceral (Calazar):** Ataca os órgãos internos. Tríade de prova: **Febre prolongada + Barriga grande (Baço imenso) + Sangue baixo (Pancitopenia)**.
-- **Leishmaniose Tegumentar:** Causa feridas na pele com **bordas elevadas** ("em moldura"). Pode atacar o nariz, destruindo a cartilagem (Nariz de Tapir).
+- **Leishmaniose Visceral (Calazar):** Ataca os órgãos internos. Tríade de prova: **Febre prolongada** + **Barriga grande (Baço imenso)** + **Sangue baixo (Pancitopenia)**.
+- **Leishmaniose Tegumentar:** Causa feridas na pele com **bordas elevadas** ("em moldura"). Pode atacar o nariz, destruindo a cartilagem (**Nariz de Tapir**).
 
 ---
 
@@ -76,9 +76,9 @@ No **Calazar (Leishmaniose Visceral)**, o paciente é pálido, tem febre há sem
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **P. vivax** | **P. falciparum** | **Tem Hipnozoíto (Recidiva)** vs Não tem (Grave) |
-| **Gota Espessa** | **Sorologia** | Vê o bicho (Fase aguda) vs **Vê a defesa** (Fase crônica) |
-| **Calazar** | **Esquistossomose** | Febre + Pancitopenia vs **Só Hepatoesplenomegalia** |
-| **Benznidazol** | **Cloroquina** | Trata Chagas vs **Trata Malária** |
+| **Gota Espessa** | **Sorologia** | **Vê o bicho (Fase aguda)** vs Vê a defesa (Fase crônica) |
+| **Calazar** | **Esquistossomose** | **Febre + Pancitopenia** vs Só Hepatoesplenomegalia |
+| **Benznidazol** | **Cloroquina** | **Trata Chagas** vs **Trata Malária** |
 | **Barbeiro (Triatoma)** | **Mosquito Palha** | Transmite Chagas vs **Transmite Leishmaniose** |
 
 ### Frase-âncora para não esquecer

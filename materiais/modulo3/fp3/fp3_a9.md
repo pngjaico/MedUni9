@@ -18,7 +18,7 @@ Na prática, o clínico deve saber que uma febre em um paciente fazendo quimiote
 ## 1. O Problema da Quimioterapia Clássica
 
 Os quimioterápicos tradicionais não sabem diferenciar uma célula de câncer de uma célula saudável que cresce rápido. Por isso, os efeitos colaterais são universais:
-- **Mielossupressão:** Ataque à medula óssea. Causa queda de neutrófilos (risco de infecção), plaquetas (risco de sangramento) e hemácias (anemia).
+- **Mielossupressão:** Ataque à medula óssea. Causa queda de **neutrófilos** (risco de infecção), **plaquetas** (risco de sangramento) e **hemácias** (anemia).
 - **Mucosite:** Feridas na boca e no intestino.
 - **Alopecia:** Queda de cabelo (o cabelo é um dos tecidos que mais cresce no corpo).
 
@@ -31,7 +31,7 @@ Eles "colam" no DNA e impedem a célula de se copiar.
     - **Cuidado:** Pode causar **Cistite Hemorrágica** (sangue na urina).
     - **Antídoto:** **Mesna** (protege a bexiga como um escudo químico).
 - **Cisplatina:** Agente potente à base de platina.
-    - **Toxicidade:** Ataca muito os **Rins** (Nefrotoxicidade) e a audição (Ototoxicidade). Exige muita hidratação na veia do paciente.
+    - **Toxicidade:** Ataca muito os **Rins** (Nefrotoxicidade) e a audição (**Ototoxicidade**). Exige muita hidratação na veia do paciente.
 
 ---
 
@@ -40,7 +40,7 @@ Eles "colam" no DNA e impedem a célula de se copiar.
 Eles fingem ser nutrientes para o DNA, mas travam a síntese.
 - **Metotrexato (MTX):** Rouba o lugar do ácido fólico.
     - **Uso:** Câncer, Lúpus e Artrite Reumatoide.
-    - **Antídoto:** **Leucovorina** (Ácido Folínico). É o "resgate" que protege as células saudáveis após a dose de ataque do quimioterápico.
+    - **Antídoto:** **Leucovorina** (Ácido Folínico). É o "**resgate**" que protege as células saudáveis após a dose de ataque do quimioterápico.
 - **5-Fluorouracil (5-FU):** Muito usado em câncer de intestino. Causa muita ferida na boca (mucosite).
 
 ---

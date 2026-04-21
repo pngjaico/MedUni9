@@ -1,140 +1,91 @@
 # FP3 — Aula 1: Patologia Geral — Lesão Celular e Morte Celular
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+A patologia celular é a base de toda a medicina: antes de o órgão falhar, a célula adoece. Na prova, os temas centrais são a diferenciação entre **Lesão Reversível** (edema) e **Irreversível** (morte), as diferenças entre **Necrose** (morte por acidente) e **Apoptose** (morte programada), e o reconhecimento dos 4 tipos principais de necrose e suas causas clínicas.
+
+Na prática, entender o "**ponto de não retorno**" da célula ajuda a compreender por que o **tempo é músculo** no infarto do coração e por que a reoxigenação rápida pode, por vezes, gerar os temidos **radicais livres** da lesão de reperfusão.
 
 ---
 
-## Relevância Clínica e Acadêmica
+### Figura sugerida
 
-Base da patologia clínica: diferenciação entre adaptação, lesão reversível e morte celular.
+**Figura-ID:** `FP3-A1-F01`
 
-Esse conteúdo cai com frequência em questões de caso clínico. O padrão da banca é apresentar sintoma + exame simples e pedir o mecanismo principal.
+- **Momento:** Seção de necrose vs apoptose.
+- **O que mostrar:** O "Destino da Célula": De um lado, a **Necrose**, com a célula inchando, a membrana estourando e liberando "lixo" inflamatório. Do outro, a **Apoptose**, com a célula murchando, embalando-se em pequenos pacotes (**Corpos Apoptóticos**) e sendo "comida" discretamente por um macrófago.
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Diferenças morfológicas entre os mecanismos de morte celular por necrose e apoptose.
 
-## Conceito Central
+## 1. O Espectro da Lesão: Do Inchaço à Morte
 
-A célula tenta se adaptar; quando o limite falha, surge lesão e morte por necrose ou apoptose.
+A célula tenta se adaptar ao estresse, mas se o limite for ultrapassado, ela sofre lesão.
+- **Lesão Reversível (Edema Celular):** É o primeiro sinal. A célula perde energia (**ATP**), a bomba de sódio para e a água entra. Se o sangue voltar a correr, a célula sobrevive. No microscópio, vemos a **Tumefação Turva**.
+- **Lesão Irreversível (Ponto de Não Retorno):** Ocorre quando a **mitocôndria explode** e as enzimas ácidas dos lisossomos vazam para dentro da própria célula, digerindo-a. A partir daqui, a **morte é inevitável**.
 
-## Eixos Essenciais
+---
 
-- Identificar síndrome dominante antes de nomear a doença final.
-- Relacionar sinal clínico ao mecanismo fisiopatológico principal.
-- Diferenciar condição aguda de condição crônica no enunciado.
-- Reconhecer marcador de gravidade que muda conduta imediata.
+## 2. Necrose: A Morte com Escândalo
 
-## Tabela de Integração para Prova
+A necrose é sempre **Patológica** e gera **Inflamação** (espalha o lixo para os vizinhos).
+- **Necrose Coagulativa:** O tecido fica firme. É a marca do **Infarto em Órgãos Sólidos** (Rins, Coração), exceto o cérebro.
+- **Necrose Liquefativa:** O tecido vira **pus** ou líquido. Ocorre em **Abscessos Bacterianos** e no **AVC Isquêmico (Cérebro)**.
+- **Necrose Caseosa:** Parece "queijo branco". É a marca registrada da **Tuberculose**.
+- **Necrose Gordurosa:** Ocorre na **Pancreatite Aguda**. As gorduras derretem e formam manchas brancas calcárias (**Saponificação**).
 
-| Situação Clínica | Mecanismo Fisiopatológico | Dica de Raciocínio |
-|------------------|---------------------------|--------------------|
-| Infarto agudo do miocárdio | Necrose coagulativa por hipóxia | Troponina elevada e dor típica |
-| Abscesso bacteriano | Necrose liquefativa | Pus e destruição tecidual |
-| Dano severo ao DNA | Apoptose | Fragmentação com menor inflamação |
+---
 
-## Armadilhas que Mais Derrubam
+## 3. Apoptose: A Morte Silenciosa
 
-- Começar pelo nome da doença sem fechar a síndrome.
-- Ignorar dado laboratorial simples que já aponta o mecanismo.
-- Confundir efeito terapêutico com efeito adverso da mesma classe.
-- Desconsiderar comorbidade que muda conduta (rim, fígado, risco trombótico).
-- Tratar marcador isolado sem interpretar contexto clínico.
+A apoptose é o "suicídio celular" planejado. Pode ser fisiológica (dedos que se separam no embrião) ou patológica (célula com câncer que decide morrer).
+- **Sem Inflamação:** A membrana continua inteira até o fim. A célula vira "corpos apoptóticos" que são limpos sem barulho.
+- **Vias:** Ativada por proteínas como a **p53** (quando o DNA está estragado) ou por comandos externos (via dos receptores de morte).
 
-## Fluxo de Decisão em 8 Passos
+---
 
-1. Defina o sistema-alvo principal.
-2. Classifique o processo como inflamatório, vascular, neoplásico ou farmacológico.
-3. Liste o mecanismo mais provável e um mecanismo alternativo.
-4. Compare com o exame laboratorial mais relevante.
-5. Busque sinal de gravidade imediata.
-6. Estabeleça diagnóstico sindrômico.
-7. Escolha conduta inicial segura.
-8. Planeje reavaliação de resposta.
+## 4. O Paradoxo da Reperfusão
 
-## Casos de Fixação
+Quando um vaso entupido é aberto (como no cateterismo pós-infarto), o sangue volta trazendo oxigênio e nutrientes. 
+- **O Problema:** Em tecidos muito lesionados, esse oxigênio novo gera um surto de **Radicais Livres de Oxigênio**.
+- **Consequência:** Esses radicais podem terminar o trabalho que a isquemia começou, matando células que ainda estavam lutando para sobreviver. Por isso, a reabertura do vaso deve ser o mais rápida e controlada possível (**Lesão de Reperfusão**).
 
-**Caso 1:** paciente com quadro clássico do tema e exame-chave alterado.  
-**Como pensar:** reconhecer síndrome dominante e excluir o principal diferencial cobrado.
-
-**Caso 2:** paciente em uso de medicamento da aula com evento adverso.  
-**Como pensar:** ligar receptor/alvo da droga ao efeito observado e ajustar estratégia.
-
-**Caso 3:** cenário de progressão rápida.  
-**Como pensar:** priorizar estabilização e só depois ampliar investigação etiológica.
-
-## Pontos-Chave para Prova
-
-- Mecanismo manda no raciocínio.
-- Síndrome manda na primeira decisão.
-- Gravidade manda na urgência da conduta.
-- Diferencial manda no acerto da questão.
-- Reavaliação manda na segurança terapêutica.
+---
 
 ## Ponte com a Clínica
 
-Na prática, o acerto vem de método, não de memória solta. Quando você organiza o caso por síndrome, mecanismo e gravidade, reduz erro diagnóstico e evita conduta precipitada.
+No consultório, você verá os resultados da **Necrose Gordurosa** na mama após um trauma (acidente de carro/cinto de segurança). A gordura lesada cicatriza e forma um nódulo duro que pode ser confundido com câncer na palpação. Saber que a gordura sofre esse processo de saponificação e fibrose tranquiliza a paciente e evita biópsias desnecessárias. Já na emergência, exames como **Troponina** só aparecem no sangue porque a membrana da célula do coração estourou (necrose), permitindo que as proteínas de dentro vazem para a circulação.
 
-Esse mesmo método melhora desempenho em prova porque transforma enunciado confuso em sequência lógica de decisão.
+---
+
+## Pontos-Chave para Prova
+
+- **Bomba de Na+/K+**: Sua falência causa o edema celular (lesão reversível).
+- **Isquemia**: Principal causa de lesão celular; falta de oxigênio interrompe o ATP.
+- **Puncta (Picnose / Cariorrexe / Cariólise)**: A sequência de destruição do núcleo na necrose.
+- **p53 (Maestro da Apoptose)**: Proteína que decide se a célula se recupera ou morre.
+- **Saponificação**: Processo químico da necrose gordurosa típico da pancreatite.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Síndrome dominante:** define direção do caso.
-- **Mecanismo principal:** explica sinais e exames.
-- **Diferencial crítico:** evita confusão em alternativas parecidas.
-- **Sinal de gravidade:** muda urgência da conduta.
-- **Conduta inicial:** deve ser segura e justificada.
+Para gabaritar Patologia Geral, foque nos tipos de necrose. 
+**Infarto de Rim/Coração** = Coagulativa. **Cérebro/Pus** = Liquefativa. **Tuberculose** = Caseosa. **Pancreátite** = Gordurosa. Lembrar que a lesão reversível é o inchaço (edema), enquanto a irreversível é o estouro da membrana e da mitocôndria.
+
+A Uninove adora a **Apoptose**. Lembre-se: ela NÃO causa inflamação. Se a questão citar o termo "corpos apoptóticos" ou "caspases", marque apoptose na hora. Outro ponto forte: o **Cérebro é a exceção**. Enquanto todos os outros órgãos sólidos fazem necrose coagulativa no infarto, o cérebro faz sempre liquefativa devido ao alto teor de gordura e pouca estrutura de sustentação. Por fim, a Isquemia mata por falta de oxigênio para fabricar ATP.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico mostra adaptação e progressão |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera tecido |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução |
+| **Necrose** | **Apoptose** | **Inflama** (Grita) vs **Não Inflama** (Sussurra) |
+| **Coagulativa** | **Liquefativa** | Mantém a **Arquitetura** vs Vira **Líquido/Pus** |
+| **Edema Celular** | **Lise Celular** | **Reversível** (Inchaço) vs **Morte** (Irreversível/Corte) |
+| **Gangrena Seca** | **Gangrena Úmida** | Só isquemia (**Coagulativa**) vs Isquemia + **Bactéria (Pus)** |
+| **Isquemia** | **Reperfusão** | Falta de comida vs **Surto de Radicais Livres** |
 
 ### Frase-âncora para não esquecer
 
-> "Quando a adaptação falha, o padrão de morte celular revela o mecanismo da doença."
-## Revisão Clínica Expandida
-
-### Erros que a banca força no enunciado
-
-- Trocar síndrome dominante por diagnóstico específico cedo demais.
-- Ignorar marcador laboratorial simples que já muda conduta.
-- Desconsiderar contexto de risco (idade, comorbidade, uso de fármacos).
-- Tratar achado isolado sem fechar mecanismo fisiopatológico.
-- Confundir gravidade clínica com duração do quadro.
-
-### Perguntas de checagem rápida
-
-- Qual é o mecanismo principal deste caso?
-- Qual achado mais fortalece esse mecanismo?
-- Qual diferencial mais próximo precisa ser descartado?
-- Há sinal de gravidade que muda urgência?
-- Qual conduta inicial é mais segura neste cenário?
-
-### Aplicação prática resumida
-
-- Em prova: primeiro feche a síndrome, depois escolha o mecanismo.
-- Em clínica: primeiro estabilize, depois refine etiologia.
-- Em farmacoterapia: ajuste pela função orgânica e risco individual.
-- Em seguimento: reavalie resposta e reclassifique risco.
-
-### Microtabela final de memorização
-
-| Chave | Lembrete |
-|------|----------|
-| Síndrome | Define direção inicial |
-| Mecanismo | Explica exame e sintoma |
-| Gravidade | Define urgência |
-| Conduta | Deve ser segura e justificável |
-| Reavaliação | Evita erro de manutenção |
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
+> "A necrose explode a ponte e chama a vizinhança para o protesto (inflamação). A apoptose recolhe os móveis e desliga a luz sem fazer barulho. O segredo está na membrana: se ela rompeu, a morte foi por necrose."

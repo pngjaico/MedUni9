@@ -1,8 +1,8 @@
 # MAD1 — Aula 23: Helmintíases e Cestoidoses
 
-Os helmintoses (doenças causadas por vermes) são extremamente prevalentes em locais com saneamento básico precário. Na prova, os temas centrais são a diferenciação crucial entre **Teníase e Cisticercose**, o ciclo de vida dos vermes que passam pelo pulmão (**Ciclo de Löffler**) e o perigo da **Estrongiloidíase** em pacientes que usam corticoides.
+Os helmintoses (doenças causadas por vermes) são extremamente prevalentes em locais com saneamento básico precário. Na prova, os temas centrais são a diferenciação crucial entre **Teníase e Cisticercose**, o ciclo de vida dos vermes que passam pelo pulmão (**Ciclo de Löffler**) e o perigo da **Estrongiloidíase** em pacientes que usam **corticoides**.
 
-Na prática, saber que "comer carne de porco" não causa cisticercose cerebral é uma das distinções mais importantes que um médico deve saber explicar.
+Na prática, saber que "comer carne de porco" não causa **cisticercose cerebral** é uma das distinções mais importantes que um médico deve saber explicar.
 
 ---
 
@@ -28,7 +28,7 @@ Na prática, saber que "comer carne de porco" não causa cisticercose cerebral �
 
 ### Strongyloides stercoralis
 - **O Perigo:** É o único que se reproduz sozinho dentro do corpo.
-- **Hiperinfestação:** Se o paciente tomar **Corticoide**, o verme se multiplica descontroladamente e espalha bactérias do intestino pelo sangue, causando sepse fulminante. **Sempre rastrear antes de dar corticoide!**
+- **Hiperinfestação:** Se o paciente tomar **Corticoide**, o verme se multiplica descontroladamente e espalha bactérias do intestino pelo sangue, causando **sepse fulminante**. **Sempre rastrear antes de dar corticoide!**
 
 ---
 
@@ -38,18 +38,18 @@ Esta é a pegadinha favorita das provas. Decore a diferença:
 
 | Doença | Como pega? | Onde o verme fica? |
 |---|---|---|
-| **Teníase** | Comendo **Carne** mal cozida com cisticerco. | No intestino (Verme solitária). |
-| **Cisticercose** | Ingerindo **Ovos** (mãos sujas/verduras). | No cérebro, músculos ou olhos. |
+| **Teníase** | Comendo **Carne** mal cozida com cisticerco. | No intestino (**Verme solitária**). |
+| **Cisticercose** | Ingerindo **Ovos** (mãos sujas/verduras). | No **cérebro**, músculos ou olhos. |
 
-> **Dica de Prova:** A **Neurocisticercose** (larva no cérebro) é a principal causa de epilepsia (convulsão) que começa na idade adulta no Brasil.
+> **Dica de Prova:** A **Neurocisticercose** (larva no cérebro) é a principal causa de **epilepsia** (**convulsão**) que começa na idade adulta no Brasil.
 
 ---
 
 ## 3. Esquistossomose (Xistose)
 
-- **Transmissão:** Penetração da cercária (larva) na pele em água doce (lagoas). "Se nadou e coçou, é porque o bicho entrou".
-- **Hospedeiro:** Caramujo *Biomphalaria*.
-- **Fase Crônica:** Causa o aumento do fígado e do baço (**Barriga D'água**) e varizes no esôfago que podem sangrar.
+- **Transmissão:** Penetração da **cercária** (larva) na pele em água doce (lagoas). "Se nadou e coçou, é porque o bicho entrou".
+- **Hospedeiro:** Caramujo ***Biomphalaria***.
+- **Fase Crônica:** Causa o aumento do fígado e do baço (**Barriga D'água**) e **varizes no esôfago** que podem sangrar.
 
 ---
 
@@ -85,10 +85,10 @@ A maior pegadinha: **Carne de porco dá Tênia no intestino (Teníase); Ovos da 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Teníase** | **Cisticercose** | Comeu Carne vs **Comeu Ovo (Higiene)** |
-| **Strongyloides** | **Ascaris** | Autoinfecção (Grave/Corticoide) vs **Ciclo Simples** |
-| **Hospedeiro Definitivo** | **Intermediário** | Onde o verme é adulto (Humano) vs Onde é larva (Porco/Boi) |
+| **Strongyloides** | **Ascaris** | **Autoinfecção (Grave/Corticoide)** vs Ciclo Simples |
+| **Hospedeiro Definitivo** | **Intermediário** | Onde o verme é adulto (**Humano**) vs Onde é larva (**Porco/Boi**) |
 | **Linfócitos** | **Eosinófilos** | Vírus vs **Vermes (Aumento na fase aguda)** |
-| **Praziquantel** | **Albendazol** | Xistose/Tênia vs **Maioria dos outros vermes** |
+| **Praziquantel** | **Albendazol** | **Xistose/Tênia** vs Maioria dos outros vermes |
 
 ### Frase-âncora para não esquecer
 

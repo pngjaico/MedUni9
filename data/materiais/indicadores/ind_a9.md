@@ -2,7 +2,7 @@
 
 A bioestatística é a ferramenta que o médico usa para não ser enganado por números. Na prova, os temas centrais são a diferenciação entre **População** e **Amostra**, e a classificação correta das **Variáveis** (Nominal, Ordinal, Discreta e Contínua). 
 
-Na prática, saber o tipo de variável que você está medindo é o primeiro passo para escolher o tratamento certo ou entender se um estudo científico é confiável.
+Na prática, saber o tipo de variável que você está medindo é o primeiro passo para escolher o **tratamento certo** ou entender se um estudo científico é confiável.
 
 ---
 
@@ -19,7 +19,7 @@ Na prática, saber o tipo de variável que você está medindo é o primeiro pas
 
 - **População:** É todo mundo que nos interessa (ex: todos os brasileiros com diabetes). Como é impossível estudar todo mundo, usamos a amostra.
 - **Amostra:** É o grupo que a gente realmente consegue medir (ex: 500 pacientes diabéticos de uma clínica).
-- **Parâmetro vs. Estatística:** O resultado da população chama-se Parâmetro; o resultado da amostra chama-se Estatística.
+- **Parâmetro vs. Estatística:** O resultado da população chama-se **Parâmetro**; o resultado da amostra chama-se **Estatística**.
 
 ---
 
@@ -28,18 +28,18 @@ Na prática, saber o tipo de variável que você está medindo é o primeiro pas
 Saber classificar a variável é essencial para não errar a conta na prova:
 
 ### Variáveis Qualitativas (Qualidades/Categorias)
-- **Nominal:** Apenas nomes, sem ordem (Sesso, Cor dos olhos, Tipo sanguíneo).
-- **Ordinal:** Tem uma ordem ou hierarquia (Grau de dor: leve, moderada, intensa; Estágio do câncer: I, II, III).
+- **Nominal:** Apenas nomes, sem ordem (**Sexo**, Cor dos olhos, Tipo sanguíneo).
+- **Ordinal:** Tem uma ordem ou hierarquia (**Grau de dor**: leve, moderada, intensa; **Estágio do câncer**: I, II, III).
 
 ### Variáveis Quantitativas (Números/Quantidades)
-- **Discreta:** Números inteiros, normalmente contagens (Número de filhos, número de batimentos por minuto). Não existe "meio filho".
-- **Contínua:** Números que podem ter vírgula, normalmente medidas (Peso, Altura, Pressão Arterial, Glicemia).
+- **Discreta:** Números inteiros, normalmente contagens (**Número de filhos**, número de batimentos por minuto). Não existe "meio filho".
+- **Contínua:** Números que podem ter vírgula, normalmente medidas (**Peso**, **Altura**, **Pressão Arterial**, **Glicemia**).
 
 ---
 
 ## 3. Erro Aleatório vs. Viés
 
-- **Erro Aleatório:** É o "azar". Acontece por acaso e diminui se você aumentar o tamanho da amostra (estudar mais gente).
+- **Erro Aleatório:** É o "**azar**". Acontece por acaso e diminui se você aumentar o tamanho da amostra (estudar mais gente).
 - **Viés (Erro Sistemático):** É um erro no método. Exemplo: balança descalibrada ou selecionar apenas os pacientes mais saudáveis para o estudo. **Aumentar a amostra não resolve o viés.**
 
 ---
@@ -77,10 +77,10 @@ Outro ponto que cai sempre: **Erro vs Viés**. Pense assim: o erro aleatório é
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Qualitativa** | **Quantitativa** | Categoria/Nome vs **Número/Quantidade** |
-| **Discreta** | **Contínua** | Números Inteiros vs **Números com Virgula** |
+| **Discreta** | **Contínua** | **Números Inteiros** vs **Números com Vírgula** |
 | **Nominal** | **Ordinal** | Sem hierarquia vs **Com hierarquia (ordem)** |
 | **População** | **Amostra** | O todo (alvo) vs **A parte (quem foi medido)** |
-| **Viés** | **Amostra Pequena** | Erro de método vs **Erro do acaso (aleatório)** |
+| **Viés** | **Amostra Pequena** | **Erro de método** vs **Erro do acaso (aleatório)** |
 
 ### Frase-âncora para não esquecer
 

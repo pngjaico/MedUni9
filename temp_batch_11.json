@@ -1,0 +1,1026 @@
+[
+  {
+    "id": 1201,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Pergunta típica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Indicador de saúde:: mede impacto real da política.",
+      "B) Lei sem execução:: não garante desfecho em saúde.",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) Equidade territorial:: prioridade em áreas vulneráveis."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "B": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "C": "Correta: Pergunta típica — Resposta em uma frase",
+      "D": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nB) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nC) CORRETA. Correta: Pergunta típica — Resposta em uma frase\nD) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+    "aula_id": "ind_a8"
+  },
+  {
+    "id": 1204,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Evolução metodológica:” está correta?",
+    "opcoes": [
+      "A) Epidemiologia:: estuda distribuição e determinantes de agravos.",
+      "B) Epidemiologia analítica:: testa hipóteses de associação causal.",
+      "C) passou do descritivo para análise de risco e causalidade.",
+      "D) Função prática:: orientar prevenção e controle de agravos."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Evolução metodológica:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.",
+      "B": "Incorreta: Epidemiologia analítica:: testa hipóteses de associação causal.",
+      "C": "Correta: passou do descritivo para análise de risco e causalidade.",
+      "D": "Incorreta: Função prática:: orientar prevenção e controle de agravos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Evolução metodológica:”.\nA) INCORRETA. Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.\nB) INCORRETA. Incorreta: Epidemiologia analítica:: testa hipóteses de associação causal.\nC) CORRETA. Correta: passou do descritivo para análise de risco e causalidade.\nD) INCORRETA. Incorreta: Função prática:: orientar prevenção e controle de agravos.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1205,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Narrativa histórica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Função prática:: orientar prevenção e controle de agravos.",
+      "B) Evolução metodológica:: passou do descritivo para análise de risco e causalidade.",
+      "C) Epidemiologia:: estuda distribuição e determinantes de agravos.",
+      "D) Narrativa histórica — Método epidemiológico atual — A história explica por que o método atual existe"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Narrativa histórica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Função prática:: orientar prevenção e controle de agravos.",
+      "B": "Incorreta: Evolução metodológica:: passou do descritivo para análise de risco e causalidade.",
+      "C": "Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.",
+      "D": "Correta: Narrativa histórica — Método epidemiológico atual — A história explica por que o método atual existe"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Narrativa histórica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Função prática:: orientar prevenção e controle de agravos.\nB) INCORRETA. Incorreta: Evolução metodológica:: passou do descritivo para análise de risco e causalidade.\nC) INCORRETA. Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.\nD) CORRETA. Correta: Narrativa histórica — Método epidemiológico atual — A história explica por que o método atual existe",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1206,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Uso de dados:” está correta?",
+    "opcoes": [
+      "A) tornou-se base para decisões de saúde pública.",
+      "B) Função prática:: orientar prevenção e controle de agravos.",
+      "C) Evolução metodológica:: passou do descritivo para análise de risco e causalidade.",
+      "D) Epidemiologia:: estuda distribuição e determinantes de agravos."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Uso de dados:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: tornou-se base para decisões de saúde pública.",
+      "B": "Incorreta: Função prática:: orientar prevenção e controle de agravos.",
+      "C": "Incorreta: Evolução metodológica:: passou do descritivo para análise de risco e causalidade.",
+      "D": "Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Uso de dados:”.\nA) CORRETA. Correta: tornou-se base para decisões de saúde pública.\nB) INCORRETA. Incorreta: Função prática:: orientar prevenção e controle de agravos.\nC) INCORRETA. Incorreta: Evolução metodológica:: passou do descritivo para análise de risco e causalidade.\nD) INCORRETA. Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1209,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Ação isolada” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Função prática:: orientar prevenção e controle de agravos.",
+      "B) Evolução metodológica:: passou do descritivo para análise de risco e causalidade.",
+      "C) Epidemiologia:: estuda distribuição e determinantes de agravos.",
+      "D) Ação isolada — Política orientada por evidência — A segunda usa análise epidemiológica para priorizar conduta"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Ação isolada” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Função prática:: orientar prevenção e controle de agravos.",
+      "B": "Incorreta: Evolução metodológica:: passou do descritivo para análise de risco e causalidade.",
+      "C": "Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.",
+      "D": "Correta: Ação isolada — Política orientada por evidência — A segunda usa análise epidemiológica para priorizar conduta"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ação isolada” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Função prática:: orientar prevenção e controle de agravos.\nB) INCORRETA. Incorreta: Evolução metodológica:: passou do descritivo para análise de risco e causalidade.\nC) INCORRETA. Incorreta: Epidemiologia:: estuda distribuição e determinantes de agravos.\nD) CORRETA. Correta: Ação isolada — Política orientada por evidência — A segunda usa análise epidemiológica para priorizar conduta",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1214,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Mediana:” está correta?",
+    "opcoes": [
+      "A) Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "B) Amplitude:: diferença entre maior e menor valor.",
+      "C) mais robusta a outliers.",
+      "D) Moda:: valor mais frequente no conjunto."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mediana:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "B": "Incorreta: Amplitude:: diferença entre maior e menor valor.",
+      "C": "Correta: mais robusta a outliers.",
+      "D": "Incorreta: Moda:: valor mais frequente no conjunto."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mediana:”.\nA) INCORRETA. Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.\nB) INCORRETA. Incorreta: Amplitude:: diferença entre maior e menor valor.\nC) CORRETA. Correta: mais robusta a outliers.\nD) INCORRETA. Incorreta: Moda:: valor mais frequente no conjunto.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1215,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Amplitude” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Moda:: valor mais frequente no conjunto.",
+      "B) Mediana:: mais robusta a outliers.",
+      "C) Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "D) Amplitude — Desvio-padrão — Amplitude usa extremos; desvio mede variação global"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Amplitude” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Moda:: valor mais frequente no conjunto.",
+      "B": "Incorreta: Mediana:: mais robusta a outliers.",
+      "C": "Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "D": "Correta: Amplitude — Desvio-padrão — Amplitude usa extremos; desvio mede variação global"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Amplitude” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Moda:: valor mais frequente no conjunto.\nB) INCORRETA. Incorreta: Mediana:: mais robusta a outliers.\nC) INCORRETA. Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.\nD) CORRETA. Correta: Amplitude — Desvio-padrão — Amplitude usa extremos; desvio mede variação global",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1218,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Desvio-padrão:” está correta?",
+    "opcoes": [
+      "A) Mediana:: mais robusta a outliers.",
+      "B) Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "C) quantifica dispersão em torno da média.",
+      "D) Moda:: valor mais frequente no conjunto."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Desvio-padrão:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mediana:: mais robusta a outliers.",
+      "B": "Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "C": "Correta: quantifica dispersão em torno da média.",
+      "D": "Incorreta: Moda:: valor mais frequente no conjunto."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Desvio-padrão:”.\nA) INCORRETA. Incorreta: Mediana:: mais robusta a outliers.\nB) INCORRETA. Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.\nC) CORRETA. Correta: quantifica dispersão em torno da média.\nD) INCORRETA. Incorreta: Moda:: valor mais frequente no conjunto.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1219,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Resumo parcial” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Moda:: valor mais frequente no conjunto.",
+      "B) Mediana:: mais robusta a outliers.",
+      "C) Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "D) Resumo parcial — Resumo adequado — Adequado inclui tendência central e dispersão"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Resumo parcial” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Moda:: valor mais frequente no conjunto.",
+      "B": "Incorreta: Mediana:: mais robusta a outliers.",
+      "C": "Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.",
+      "D": "Correta: Resumo parcial — Resumo adequado — Adequado inclui tendência central e dispersão"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Resumo parcial” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Moda:: valor mais frequente no conjunto.\nB) INCORRETA. Incorreta: Mediana:: mais robusta a outliers.\nC) INCORRETA. Incorreta: Pegadinha / contraste — Confusão entre taxa, proporção e razão.\nD) CORRETA. Correta: Resumo parcial — Resumo adequado — Adequado inclui tendência central e dispersão",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1222,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Hipótese nula:” está correta?",
+    "opcoes": [
+      "A) referência inicial do teste.",
+      "B) Pergunta típica — Resposta em uma frase",
+      "C) Erro tipo I:: falso positivo.",
+      "D) Significância estatística:: não substitui relevância clínica."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipótese nula:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: referência inicial do teste.",
+      "B": "Incorreta: Pergunta típica — Resposta em uma frase",
+      "C": "Incorreta: Erro tipo I:: falso positivo.",
+      "D": "Incorreta: Significância estatística:: não substitui relevância clínica."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipótese nula:”.\nA) CORRETA. Correta: referência inicial do teste.\nB) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase\nC) INCORRETA. Incorreta: Erro tipo I:: falso positivo.\nD) INCORRETA. Incorreta: Significância estatística:: não substitui relevância clínica.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1224,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Hipótese alternativa:” está correta?",
+    "opcoes": [
+      "A) Erro tipo I:: falso positivo.",
+      "B) Significância estatística:: não substitui relevância clínica.",
+      "C) cenário de diferença/associação.",
+      "D) Pergunta típica — Resposta em uma frase"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipótese alternativa:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Erro tipo I:: falso positivo.",
+      "B": "Incorreta: Significância estatística:: não substitui relevância clínica.",
+      "C": "Correta: cenário de diferença/associação.",
+      "D": "Incorreta: Pergunta típica — Resposta em uma frase"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipótese alternativa:”.\nA) INCORRETA. Incorreta: Erro tipo I:: falso positivo.\nB) INCORRETA. Incorreta: Significância estatística:: não substitui relevância clínica.\nC) CORRETA. Correta: cenário de diferença/associação.\nD) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1225,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Erro tipo I” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Pergunta típica — Resposta em uma frase",
+      "B) Erro tipo I:: falso positivo.",
+      "C) Significância estatística:: não substitui relevância clínica.",
+      "D) Erro tipo I — Erro tipo II — Tipo I é falso positivo; tipo II é falso negativo"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Erro tipo I” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pergunta típica — Resposta em uma frase",
+      "B": "Incorreta: Erro tipo I:: falso positivo.",
+      "C": "Incorreta: Significância estatística:: não substitui relevância clínica.",
+      "D": "Correta: Erro tipo I — Erro tipo II — Tipo I é falso positivo; tipo II é falso negativo"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Erro tipo I” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase\nB) INCORRETA. Incorreta: Erro tipo I:: falso positivo.\nC) INCORRETA. Incorreta: Significância estatística:: não substitui relevância clínica.\nD) CORRETA. Correta: Erro tipo I — Erro tipo II — Tipo I é falso positivo; tipo II é falso negativo",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1227,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “p-valor baixo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Significância estatística:: não substitui relevância clínica.",
+      "B) p-valor baixo — Efeito grande — p baixo não implica grande magnitude de efeito",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) Erro tipo I:: falso positivo."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “p-valor baixo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Significância estatística:: não substitui relevância clínica.",
+      "B": "Correta: p-valor baixo — Efeito grande — p baixo não implica grande magnitude de efeito",
+      "C": "Incorreta: Pergunta típica — Resposta em uma frase",
+      "D": "Incorreta: Erro tipo I:: falso positivo."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “p-valor baixo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Significância estatística:: não substitui relevância clínica.\nB) CORRETA. Correta: p-valor baixo — Efeito grande — p baixo não implica grande magnitude de efeito\nC) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase\nD) INCORRETA. Incorreta: Erro tipo I:: falso positivo.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1234,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Prevenção primária:” está correta?",
+    "opcoes": [
+      "A) HND:: sequência temporal do processo patológico.",
+      "B) Prevenção primária — Secundária — Primária evita ocorrência; secundária detecta cedo",
+      "C) age antes da doença instalada.",
+      "D) Prevenção secundária:: detecta precocemente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevenção primária:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HND:: sequência temporal do processo patológico.",
+      "B": "Incorreta: Prevenção primária — Secundária — Primária evita ocorrência; secundária detecta cedo",
+      "C": "Correta: age antes da doença instalada.",
+      "D": "Incorreta: Prevenção secundária:: detecta precocemente."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevenção primária:”.\nA) INCORRETA. Incorreta: HND:: sequência temporal do processo patológico.\nB) INCORRETA. Incorreta: Prevenção primária — Secundária — Primária evita ocorrência; secundária detecta cedo\nC) CORRETA. Correta: age antes da doença instalada.\nD) INCORRETA. Incorreta: Prevenção secundária:: detecta precocemente.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1235,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Secundária” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Prevenção secundária:: detecta precocemente.",
+      "B) HND:: sequência temporal do processo patológico.",
+      "C) Prevenção primária:: age antes da doença instalada.",
+      "D) Secundária — Terciária — Secundária antecipa diagnóstico; terciária reduz sequela"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Secundária” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Prevenção secundária:: detecta precocemente.",
+      "B": "Incorreta: HND:: sequência temporal do processo patológico.",
+      "C": "Incorreta: Prevenção primária:: age antes da doença instalada.",
+      "D": "Correta: Secundária — Terciária — Secundária antecipa diagnóstico; terciária reduz sequela"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Secundária” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Prevenção secundária:: detecta precocemente.\nB) INCORRETA. Incorreta: HND:: sequência temporal do processo patológico.\nC) INCORRETA. Incorreta: Prevenção primária:: age antes da doença instalada.\nD) CORRETA. Correta: Secundária — Terciária — Secundária antecipa diagnóstico; terciária reduz sequela",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1236,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Prevenção secundária:” está correta?",
+    "opcoes": [
+      "A) detecta precocemente.",
+      "B) HND:: sequência temporal do processo patológico.",
+      "C) Prevenção primária:: age antes da doença instalada.",
+      "D) Prevenção primária — Secundária — Primária evita ocorrência; secundária detecta cedo"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevenção secundária:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: detecta precocemente.",
+      "B": "Incorreta: HND:: sequência temporal do processo patológico.",
+      "C": "Incorreta: Prevenção primária:: age antes da doença instalada.",
+      "D": "Incorreta: Prevenção primária — Secundária — Primária evita ocorrência; secundária detecta cedo"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevenção secundária:”.\nA) CORRETA. Correta: detecta precocemente.\nB) INCORRETA. Incorreta: HND:: sequência temporal do processo patológico.\nC) INCORRETA. Incorreta: Prevenção primária:: age antes da doença instalada.\nD) INCORRETA. Incorreta: Prevenção primária — Secundária — Primária evita ocorrência; secundária detecta cedo",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1240,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Prevenção quaternária:” está correta?",
+    "opcoes": [
+      "A) evita iatrogenia e excesso de intervenção.",
+      "B) Prevenção secundária:: detecta precocemente.",
+      "C) HND:: sequência temporal do processo patológico.",
+      "D) Prevenção primária:: age antes da doença instalada."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevenção quaternária:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: evita iatrogenia e excesso de intervenção.",
+      "B": "Incorreta: Prevenção secundária:: detecta precocemente.",
+      "C": "Incorreta: HND:: sequência temporal do processo patológico.",
+      "D": "Incorreta: Prevenção primária:: age antes da doença instalada."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevenção quaternária:”.\nA) CORRETA. Correta: evita iatrogenia e excesso de intervenção.\nB) INCORRETA. Incorreta: Prevenção secundária:: detecta precocemente.\nC) INCORRETA. Incorreta: HND:: sequência temporal do processo patológico.\nD) INCORRETA. Incorreta: Prevenção primária:: age antes da doença instalada.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1242,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Transição demográfica:” está correta?",
+    "opcoes": [
+      "A) envelhecimento e queda de fecundidade.",
+      "B) Rede assistencial:: precisa adaptar oferta de cuidado.",
+      "C) Dupla carga:: crônicos e infecciosos podem coexistir.",
+      "D) Vigilância:: continua essencial em cenário de transição."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transição demográfica:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: envelhecimento e queda de fecundidade.",
+      "B": "Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.",
+      "C": "Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.",
+      "D": "Incorreta: Vigilância:: continua essencial em cenário de transição."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transição demográfica:”.\nA) CORRETA. Correta: envelhecimento e queda de fecundidade.\nB) INCORRETA. Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.\nC) INCORRETA. Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.\nD) INCORRETA. Incorreta: Vigilância:: continua essencial em cenário de transição.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1246,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Transição nutricional:” está correta?",
+    "opcoes": [
+      "A) aumento de sobrepeso sem fim total da desnutrição.",
+      "B) Transição demográfica:: envelhecimento e queda de fecundidade.",
+      "C) Rede assistencial:: precisa adaptar oferta de cuidado.",
+      "D) Dupla carga:: crônicos e infecciosos podem coexistir."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transição nutricional:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: aumento de sobrepeso sem fim total da desnutrição.",
+      "B": "Incorreta: Transição demográfica:: envelhecimento e queda de fecundidade.",
+      "C": "Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.",
+      "D": "Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transição nutricional:”.\nA) CORRETA. Correta: aumento de sobrepeso sem fim total da desnutrição.\nB) INCORRETA. Incorreta: Transição demográfica:: envelhecimento e queda de fecundidade.\nC) INCORRETA. Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.\nD) INCORRETA. Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1247,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Queda relativa de infecciosas” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Dupla carga:: crônicos e infecciosos podem coexistir.",
+      "B) Queda relativa de infecciosas — Erradicação de infecciosas — Queda não significa ausência",
+      "C) Transição demográfica:: envelhecimento e queda de fecundidade.",
+      "D) Rede assistencial:: precisa adaptar oferta de cuidado."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Queda relativa de infecciosas” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.",
+      "B": "Correta: Queda relativa de infecciosas — Erradicação de infecciosas — Queda não significa ausência",
+      "C": "Incorreta: Transição demográfica:: envelhecimento e queda de fecundidade.",
+      "D": "Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Queda relativa de infecciosas” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.\nB) CORRETA. Correta: Queda relativa de infecciosas — Erradicação de infecciosas — Queda não significa ausência\nC) INCORRETA. Incorreta: Transição demográfica:: envelhecimento e queda de fecundidade.\nD) INCORRETA. Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1249,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Perfil nacional médio” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Transição demográfica:: envelhecimento e queda de fecundidade.",
+      "B) Rede assistencial:: precisa adaptar oferta de cuidado.",
+      "C) Dupla carga:: crônicos e infecciosos podem coexistir.",
+      "D) Perfil nacional médio — Realidade local — Médias escondem desigualdades territoriais"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Perfil nacional médio” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Transição demográfica:: envelhecimento e queda de fecundidade.",
+      "B": "Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.",
+      "C": "Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.",
+      "D": "Correta: Perfil nacional médio — Realidade local — Médias escondem desigualdades territoriais"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Perfil nacional médio” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Transição demográfica:: envelhecimento e queda de fecundidade.\nB) INCORRETA. Incorreta: Rede assistencial:: precisa adaptar oferta de cuidado.\nC) INCORRETA. Incorreta: Dupla carga:: crônicos e infecciosos podem coexistir.\nD) CORRETA. Correta: Perfil nacional médio — Realidade local — Médias escondem desigualdades territoriais",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1252,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Indicador demográfico:” está correta?",
+    "opcoes": [
+      "A) exige numerador, denominador e tempo definidos.",
+      "B) Taxa vs número absoluto:: taxa permite comparação justa.",
+      "C) Taxa de natalidade:: nascidos vivos na população total.",
+      "D) Migração:: altera rapidamente necessidade de serviços."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Indicador demográfico:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: exige numerador, denominador e tempo definidos.",
+      "B": "Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.",
+      "C": "Incorreta: Taxa de natalidade:: nascidos vivos na população total.",
+      "D": "Incorreta: Migração:: altera rapidamente necessidade de serviços."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Indicador demográfico:”.\nA) CORRETA. Correta: exige numerador, denominador e tempo definidos.\nB) INCORRETA. Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.\nC) INCORRETA. Incorreta: Taxa de natalidade:: nascidos vivos na população total.\nD) INCORRETA. Incorreta: Migração:: altera rapidamente necessidade de serviços.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1255,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Número absoluto” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Taxa vs número absoluto:: taxa permite comparação justa.",
+      "B) Taxa de natalidade:: nascidos vivos na população total.",
+      "C) Migração:: altera rapidamente necessidade de serviços.",
+      "D) Número absoluto — Taxa ajustada — Taxa corrige efeito do tamanho populacional"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Número absoluto” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.",
+      "B": "Incorreta: Taxa de natalidade:: nascidos vivos na população total.",
+      "C": "Incorreta: Migração:: altera rapidamente necessidade de serviços.",
+      "D": "Correta: Número absoluto — Taxa ajustada — Taxa corrige efeito do tamanho populacional"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Número absoluto” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.\nB) INCORRETA. Incorreta: Taxa de natalidade:: nascidos vivos na população total.\nC) INCORRETA. Incorreta: Migração:: altera rapidamente necessidade de serviços.\nD) CORRETA. Correta: Número absoluto — Taxa ajustada — Taxa corrige efeito do tamanho populacional",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1256,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Natalidade e fecundidade:” está correta?",
+    "opcoes": [
+      "A) não são sinônimos.",
+      "B) Taxa vs número absoluto:: taxa permite comparação justa.",
+      "C) Taxa de natalidade:: nascidos vivos na população total.",
+      "D) Migração:: altera rapidamente necessidade de serviços."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Natalidade e fecundidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: não são sinônimos.",
+      "B": "Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.",
+      "C": "Incorreta: Taxa de natalidade:: nascidos vivos na população total.",
+      "D": "Incorreta: Migração:: altera rapidamente necessidade de serviços."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Natalidade e fecundidade:”.\nA) CORRETA. Correta: não são sinônimos.\nB) INCORRETA. Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.\nC) INCORRETA. Incorreta: Taxa de natalidade:: nascidos vivos na população total.\nD) INCORRETA. Incorreta: Migração:: altera rapidamente necessidade de serviços.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1257,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Crescimento vegetativo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Migração:: altera rapidamente necessidade de serviços.",
+      "B) Crescimento vegetativo — Migração líquida — Um depende de nascimentos/óbitos; outro de fluxo migratório",
+      "C) Taxa vs número absoluto:: taxa permite comparação justa.",
+      "D) Taxa de natalidade:: nascidos vivos na população total."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Crescimento vegetativo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Migração:: altera rapidamente necessidade de serviços.",
+      "B": "Correta: Crescimento vegetativo — Migração líquida — Um depende de nascimentos/óbitos; outro de fluxo migratório",
+      "C": "Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.",
+      "D": "Incorreta: Taxa de natalidade:: nascidos vivos na população total."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Crescimento vegetativo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Migração:: altera rapidamente necessidade de serviços.\nB) CORRETA. Correta: Crescimento vegetativo — Migração líquida — Um depende de nascimentos/óbitos; outro de fluxo migratório\nC) INCORRETA. Incorreta: Taxa vs número absoluto:: taxa permite comparação justa.\nD) INCORRETA. Incorreta: Taxa de natalidade:: nascidos vivos na população total.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1265,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Risco” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Morbidade:: mede ocorrência de doença não fatal na população.",
+      "B) Prevalência:: total de casos existentes.",
+      "C) Carga de doença:: refletida por prevalência.",
+      "D) Risco — Carga de doença — Risco é chance de surgir caso novo; carga é volume de casos"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Risco” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.",
+      "B": "Incorreta: Prevalência:: total de casos existentes.",
+      "C": "Incorreta: Carga de doença:: refletida por prevalência.",
+      "D": "Correta: Risco — Carga de doença — Risco é chance de surgir caso novo; carga é volume de casos"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Risco” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.\nB) INCORRETA. Incorreta: Prevalência:: total de casos existentes.\nC) INCORRETA. Incorreta: Carga de doença:: refletida por prevalência.\nD) CORRETA. Correta: Risco — Carga de doença — Risco é chance de surgir caso novo; carga é volume de casos",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1266,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Prevalência:” está correta?",
+    "opcoes": [
+      "A) total de casos existentes.",
+      "B) Morbidade:: mede ocorrência de doença não fatal na população.",
+      "C) Carga de doença:: refletida por prevalência.",
+      "D) Risco — Carga de doença — Risco é chance de surgir caso novo; carga é volume de casos"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevalência:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: total de casos existentes.",
+      "B": "Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.",
+      "C": "Incorreta: Carga de doença:: refletida por prevalência.",
+      "D": "Incorreta: Risco — Carga de doença — Risco é chance de surgir caso novo; carga é volume de casos"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevalência:”.\nA) CORRETA. Correta: total de casos existentes.\nB) INCORRETA. Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.\nC) INCORRETA. Incorreta: Carga de doença:: refletida por prevalência.\nD) INCORRETA. Incorreta: Risco — Carga de doença — Risco é chance de surgir caso novo; carga é volume de casos",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1267,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Doença aguda” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Carga de doença:: refletida por prevalência.",
+      "B) Doença aguda — Doença crônica — Aguda tende a menor prevalência relativa; crônica sustenta prevalência alta",
+      "C) Morbidade:: mede ocorrência de doença não fatal na população.",
+      "D) Prevalência:: total de casos existentes."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Doença aguda” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Carga de doença:: refletida por prevalência.",
+      "B": "Correta: Doença aguda — Doença crônica — Aguda tende a menor prevalência relativa; crônica sustenta prevalência alta",
+      "C": "Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.",
+      "D": "Incorreta: Prevalência:: total de casos existentes."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Doença aguda” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Carga de doença:: refletida por prevalência.\nB) CORRETA. Correta: Doença aguda — Doença crônica — Aguda tende a menor prevalência relativa; crônica sustenta prevalência alta\nC) INCORRETA. Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.\nD) INCORRETA. Incorreta: Prevalência:: total de casos existentes.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1269,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Medida temporal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Morbidade:: mede ocorrência de doença não fatal na população.",
+      "B) Prevalência:: total de casos existentes.",
+      "C) Carga de doença:: refletida por prevalência.",
+      "D) Medida temporal — Medida de estoque — Incidência depende do período; prevalência reflete momento/período"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Medida temporal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.",
+      "B": "Incorreta: Prevalência:: total de casos existentes.",
+      "C": "Incorreta: Carga de doença:: refletida por prevalência.",
+      "D": "Correta: Medida temporal — Medida de estoque — Incidência depende do período; prevalência reflete momento/período"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Medida temporal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Morbidade:: mede ocorrência de doença não fatal na população.\nB) INCORRETA. Incorreta: Prevalência:: total de casos existentes.\nC) INCORRETA. Incorreta: Carga de doença:: refletida por prevalência.\nD) CORRETA. Correta: Medida temporal — Medida de estoque — Incidência depende do período; prevalência reflete momento/período",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1274,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Mortalidade específica:” está correta?",
+    "opcoes": [
+      "A) Pergunta típica — Resposta em uma frase",
+      "B) Mortalidade específica:: óbitos por causa ou subgrupo.",
+      "C) detalha causas e grupos de risco.",
+      "D) Causa evitável:: prioridade para política de saúde."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mortalidade específica:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pergunta típica — Resposta em uma frase",
+      "B": "Incorreta: Mortalidade específica:: óbitos por causa ou subgrupo.",
+      "C": "Correta: detalha causas e grupos de risco.",
+      "D": "Incorreta: Causa evitável:: prioridade para política de saúde."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mortalidade específica:”.\nA) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase\nB) INCORRETA. Incorreta: Mortalidade específica:: óbitos por causa ou subgrupo.\nC) CORRETA. Correta: detalha causas e grupos de risco.\nD) INCORRETA. Incorreta: Causa evitável:: prioridade para política de saúde.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1279,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Comparação simples” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Mortalidade específica:: detalha causas e grupos de risco.",
+      "B) Causa evitável:: prioridade para política de saúde.",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) Comparação simples — Comparação contextualizada — Contextualizada considera idade, acesso e qualidade de dado"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Comparação simples” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mortalidade específica:: detalha causas e grupos de risco.",
+      "B": "Incorreta: Causa evitável:: prioridade para política de saúde.",
+      "C": "Incorreta: Pergunta típica — Resposta em uma frase",
+      "D": "Correta: Comparação simples — Comparação contextualizada — Contextualizada considera idade, acesso e qualidade de dado"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Comparação simples” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Mortalidade específica:: detalha causas e grupos de risco.\nB) INCORRETA. Incorreta: Causa evitável:: prioridade para política de saúde.\nC) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase\nD) CORRETA. Correta: Comparação simples — Comparação contextualizada — Contextualizada considera idade, acesso e qualidade de dado",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1280,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Causa evitável:” está correta?",
+    "opcoes": [
+      "A) foco prioritário de intervenção.",
+      "B) Mortalidade específica:: detalha causas e grupos de risco.",
+      "C) Causa evitável:: prioridade para política de saúde.",
+      "D) Pergunta típica — Resposta em uma frase"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Causa evitável:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: foco prioritário de intervenção.",
+      "B": "Incorreta: Mortalidade específica:: detalha causas e grupos de risco.",
+      "C": "Incorreta: Causa evitável:: prioridade para política de saúde.",
+      "D": "Incorreta: Pergunta típica — Resposta em uma frase"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Causa evitável:”.\nA) CORRETA. Correta: foco prioritário de intervenção.\nB) INCORRETA. Incorreta: Mortalidade específica:: detalha causas e grupos de risco.\nC) INCORRETA. Incorreta: Causa evitável:: prioridade para política de saúde.\nD) INCORRETA. Incorreta: Pergunta típica — Resposta em uma frase",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1281,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Pergunta típica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Causa evitável:: prioridade para política de saúde.",
+      "B) Mortalidade específica:: óbitos por causa ou subgrupo.",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) Mortalidade específica:: detalha causas e grupos de risco."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Causa evitável:: prioridade para política de saúde.",
+      "B": "Incorreta: Mortalidade específica:: óbitos por causa ou subgrupo.",
+      "C": "Correta: Pergunta típica — Resposta em uma frase",
+      "D": "Incorreta: Mortalidade específica:: detalha causas e grupos de risco."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Causa evitável:: prioridade para política de saúde.\nB) INCORRETA. Incorreta: Mortalidade específica:: óbitos por causa ou subgrupo.\nC) CORRETA. Correta: Pergunta típica — Resposta em uma frase\nD) INCORRETA. Incorreta: Mortalidade específica:: detalha causas e grupos de risco.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1282,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Mortalidade materna:” está correta?",
+    "opcoes": [
+      "A) marcador de qualidade da linha de cuidado obstétrico.",
+      "B) Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.",
+      "C) Sub-registro:: pode distorcer análise e planejamento.",
+      "D) Por que importa na prática — Uso em vigilância ou APS (o que o dado muda na conduta)."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mortalidade materna:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: marcador de qualidade da linha de cuidado obstétrico.",
+      "B": "Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.",
+      "C": "Incorreta: Sub-registro:: pode distorcer análise e planejamento.",
+      "D": "Incorreta: Por que importa na prática — Uso em vigilância ou APS (o que o dado muda na conduta)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mortalidade materna:”.\nA) CORRETA. Correta: marcador de qualidade da linha de cuidado obstétrico.\nB) INCORRETA. Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.\nC) INCORRETA. Incorreta: Sub-registro:: pode distorcer análise e planejamento.\nD) INCORRETA. Incorreta: Por que importa na prática — Uso em vigilância ou APS (o que o dado muda na conduta).",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1284,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Mortalidade infantil:” está correta?",
+    "opcoes": [
+      "A) Sub-registro:: pode distorcer análise e planejamento.",
+      "B) Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.",
+      "C) inclui componentes neonatal e pós-neonatal.",
+      "D) Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mortalidade infantil:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sub-registro:: pode distorcer análise e planejamento.",
+      "B": "Incorreta: Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.",
+      "C": "Correta: inclui componentes neonatal e pós-neonatal.",
+      "D": "Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mortalidade infantil:”.\nA) INCORRETA. Incorreta: Sub-registro:: pode distorcer análise e planejamento.\nB) INCORRETA. Incorreta: Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.\nC) CORRETA. Correta: inclui componentes neonatal e pós-neonatal.\nD) INCORRETA. Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1285,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Neonatal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.",
+      "B) Sub-registro:: pode distorcer análise e planejamento.",
+      "C) Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.",
+      "D) Neonatal — Pós-neonatal — Neonatal ocorre no início da vida; pós-neonatal é período seguinte"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Neonatal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.",
+      "B": "Incorreta: Sub-registro:: pode distorcer análise e planejamento.",
+      "C": "Incorreta: Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.",
+      "D": "Correta: Neonatal — Pós-neonatal — Neonatal ocorre no início da vida; pós-neonatal é período seguinte"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Neonatal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.\nB) INCORRETA. Incorreta: Sub-registro:: pode distorcer análise e planejamento.\nC) INCORRETA. Incorreta: Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.\nD) CORRETA. Correta: Neonatal — Pós-neonatal — Neonatal ocorre no início da vida; pós-neonatal é período seguinte",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1291,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual alternativa associa corretamente “Pergunta típica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Sub-registro:: pode distorcer análise e planejamento.",
+      "B) Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sub-registro:: pode distorcer análise e planejamento.",
+      "B": "Incorreta: Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.",
+      "C": "Correta: Pergunta típica — Resposta em uma frase",
+      "D": "Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Sub-registro:: pode distorcer análise e planejamento.\nB) INCORRETA. Incorreta: Mortalidade materna:: marcador de qualidade da linha de cuidado obstétrico.\nC) CORRETA. Correta: Pergunta típica — Resposta em uma frase\nD) INCORRETA. Incorreta: Mortalidade perinatal:: sensível à assistência no final da gestação e início da vida.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1292,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Sistema de informação:” está correta?",
+    "opcoes": [
+      "A) organiza dados para vigilância e gestão.",
+      "B) Decisão sanitária:: precisa de dado válido e oportuno.",
+      "C) Campo ignorado:: pode distorcer interpretação.",
+      "D) Qualidade do dado:: determina validade do indicador."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sistema de informação:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: organiza dados para vigilância e gestão.",
+      "B": "Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.",
+      "C": "Incorreta: Campo ignorado:: pode distorcer interpretação.",
+      "D": "Incorreta: Qualidade do dado:: determina validade do indicador."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sistema de informação:”.\nA) CORRETA. Correta: organiza dados para vigilância e gestão.\nB) INCORRETA. Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.\nC) INCORRETA. Incorreta: Campo ignorado:: pode distorcer interpretação.\nD) INCORRETA. Incorreta: Qualidade do dado:: determina validade do indicador.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1294,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Qualidade do dado:” está correta?",
+    "opcoes": [
+      "A) Campo ignorado:: pode distorcer interpretação.",
+      "B) Sub-registro:: gera falsa impressão de baixa ocorrência.",
+      "C) determina validade do indicador.",
+      "D) Decisão sanitária:: precisa de dado válido e oportuno."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Qualidade do dado:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Campo ignorado:: pode distorcer interpretação.",
+      "B": "Incorreta: Sub-registro:: gera falsa impressão de baixa ocorrência.",
+      "C": "Correta: determina validade do indicador.",
+      "D": "Incorreta: Decisão sanitária:: precisa de dado válido e oportuno."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Qualidade do dado:”.\nA) INCORRETA. Incorreta: Campo ignorado:: pode distorcer interpretação.\nB) INCORRETA. Incorreta: Sub-registro:: gera falsa impressão de baixa ocorrência.\nC) CORRETA. Correta: determina validade do indicador.\nD) INCORRETA. Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1299,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Sistema de informação” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Decisão sanitária:: precisa de dado válido e oportuno.",
+      "B) Campo ignorado:: pode distorcer interpretação.",
+      "C) Qualidade do dado:: determina validade do indicador.",
+      "D) Sistema de informação — Indicador final — Sistema gera base; indicador é produto analítico"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Sistema de informação” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.",
+      "B": "Incorreta: Campo ignorado:: pode distorcer interpretação.",
+      "C": "Incorreta: Qualidade do dado:: determina validade do indicador.",
+      "D": "Correta: Sistema de informação — Indicador final — Sistema gera base; indicador é produto analítico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sistema de informação” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.\nB) INCORRETA. Incorreta: Campo ignorado:: pode distorcer interpretação.\nC) INCORRETA. Incorreta: Qualidade do dado:: determina validade do indicador.\nD) CORRETA. Correta: Sistema de informação — Indicador final — Sistema gera base; indicador é produto analítico",
+    "aula_id": "ind_a8",
+    "essencial": false
+  },
+  {
+    "id": 1300,
+    "materia": "indicadores",
+    "tema": "ind_a8",
+    "enunciado": "Qual afirmação sobre “Oportunidade do registro:” está correta?",
+    "opcoes": [
+      "A) impacta resposta sanitária.",
+      "B) Decisão sanitária:: precisa de dado válido e oportuno.",
+      "C) Campo ignorado:: pode distorcer interpretação.",
+      "D) Qualidade do dado:: determina validade do indicador."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Oportunidade do registro:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: impacta resposta sanitária.",
+      "B": "Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.",
+      "C": "Incorreta: Campo ignorado:: pode distorcer interpretação.",
+      "D": "Incorreta: Qualidade do dado:: determina validade do indicador."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Oportunidade do registro:”.\nA) CORRETA. Correta: impacta resposta sanitária.\nB) INCORRETA. Incorreta: Decisão sanitária:: precisa de dado válido e oportuno.\nC) INCORRETA. Incorreta: Campo ignorado:: pode distorcer interpretação.\nD) INCORRETA. Incorreta: Qualidade do dado:: determina validade do indicador.",
+    "aula_id": "ind_a8",
+    "essencial": false
+  }
+]

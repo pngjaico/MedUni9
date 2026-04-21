@@ -2,7 +2,7 @@
 
 Entender as divisões do sistema nervoso é a base de toda a neurologia clínica. Na prova, os temas centrais são a distinção entre **SNC** e **SNP**, a organização do **Tronco Encefálico** e o funcionamento do **SNA Simpático e Parassimpático**.
 
-Na prática, o médico usa essa classificação para localizar lesões. Quando você identifica um reflexo alterado ou uma pupila dilatada, está testando vias específicas do sistema nervoso periférico ou central. Saber onde a via começa e onde ela termina é o que separa um diagnóstico correto de um erro crasso de conduta.
+Na prática, o médico usa essa classificação para localizar lesões. Quando você identifica um reflexo alterado ou uma pupila dilatada, está testando vias específicas do sistema nervoso periférico ou central. Saber onde a via começa e onde ela termina é o que separa um **diagnóstico correto** de um erro crasso de conduta.
 
 ---
 
@@ -51,15 +51,15 @@ O encéfalo não é apenas o cérebro. Ele se divide em:
 
 ## Ponte com a Clínica
 
-No seu futuro plantão, se atender um paciente com **Pupilas Anisocóricas** (uma maior que a outra) após um trauma, você deve pensar imediatamente em compressão de nervos cranianos ou lesão de tronco encefálico. O sistema nervoso central está sofrendo pressão. Entender a anatomia te diz que o problema está "dentro da caixa", exigindo uma tomografia de urgência e, possivelmente, intervenção neurocirúrgica imediata.
+No seu futuro plantão, se atender um paciente com **Pupilas Anisocóricas** (uma maior que a outra) após um trauma, você deve pensar imediatamente em compressão de nervos cranianos ou lesão de tronco encefálico. O sistema nervoso central está sofrendo pressão. Entender a anatomia te diz que o problema está "dentro da caixa", exigindo uma **tomografia de urgência** e, possivelmente, intervenção neurocirúrgica imediata.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Tronco Encefálico**: Composto por Mesencéfalo, Ponte e Bulbo (O cerebelo **NÃO** faz parte do tronco).
-- **SNA Simpático**: Origem toracolombar (T1 a L2).
-- **SNA Parassimpático**: Origem craniossacral (Nervos cranianos III, VII, IX, X e S2-S4).
+- **Tronco Encefálico**: Composto por **Mesencéfalo, Ponte e Bulbo** (O cerebelo **NÃO** faz parte do tronco).
+- **SNA Simpático**: Origem toracolombar (**T1 a L2**).
+- **SNA Parassimpático**: Origem **craniossacral** (Nervos cranianos III, VII, IX, X e S2-S4).
 - **Acetilcolina**: É o neurotransmissor de **Toda** fibra pré-ganglionar (tanto simpática quanto parassimpática).
 - **Substância Branca**: Deve sua cor à **Bainha de Mielina**, que acelera a condução do impulso nervoso.
 

@@ -26,7 +26,7 @@ A sífilis é a "grande simuladora", mudando de face a cada estágio:
 | **Terciária** | 2-30 anos | **Gomas**, Neurossífilis, Aneurisma de Aorta. |
 
 ### Diagnóstico Laboratorial
-- **FTA-Abs (Treponêmico):** É o primeiro a positivar e fica **Positivo para sempre** (Cicatriz Sorológica).
+- **FTA-Abs (Treponêmico):** É o primeiro a positivar e fica **Positivo para sempre** (**Cicatriz Sorológica**).
 - **VDRL (Não Treponêmico):** Serve para **Monitorar o Tratamento**. Se o tratamento funciona, o título cai (ex: de 1:64 para 1:4).
 
 ---
@@ -37,10 +37,10 @@ Frequentemente ocorrem juntas; na dúvida, trate ambas.
 
 | Característica | Neisseria gonorrhoeae | Chlamydia trachomatis |
 |---|---|---|
-| **Agente** | Diplococo Gram-Negativo. | Bactéria Intracelular Obrigatória. |
+| **Agente** | **Diplococo Gram-Negativo**. | **Bactéria Intracelular Obrigatória**. |
 | **Corrimento** | **Purulento** (Amarelo/Espesso). | Muco/Hialino (Claro/Fluido). |
 | **Gram** | Visível (Grãos de café). | **Não visível** no Gram comum. |
-| **Tratamento** | Ceftriaxona IM. | Azitromicina ou Doxiciclina. |
+| **Tratamento** | **Ceftriaxona IM**. | **Azitromicina** ou **Doxiciclina**. |
 
 > **Dica de Prova:** Se o enunciado fala em **Diplococos Gram-Negativos Intracelulares** (dentro de neutrófilos), a resposta é **Gonorreia**. Se o Gram é negativo (não mostra nada) mas o corrimento existe, pense em **Clamídia**.
 
@@ -50,7 +50,7 @@ Frequentemente ocorrem juntas; na dúvida, trate ambas.
 
 A transmissão vertical pode ser devastadora para o feto:
 - **Precoce (< 2 anos):** Rinite sanguinolenta, lesões na pele, sofrimento fetal.
-- **Tardia (> 2 anos):** **Dentes de Hutchinson**, Nariz em Sela e Surdez (Tríade de Hutchinson).
+- **Tardia (> 2 anos):** **Dentes de Hutchinson**, Nariz em Sela e Surdez (**Tríade de Hutchinson**).
 - **Prevenção:** Testagem obrigatória em todas as gestantes no pré-natal.
 
 ---
@@ -87,7 +87,7 @@ Na sífilis, o **VDRL** é o seu termômetro: se ele sobe, a doença está ativa
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Cancro Duro (Sífilis)** | **Cancro Mole** | **Indolor** vs Extremamente Doloroso |
-| **VDRL** | **FTA-Abs** | **Monitor de Cura** vs Cicatriz Sorológica |
+| **VDRL** | **FTA-Abs** | **Monitor de Cura** vs **Cicatriz Sorológica** |
 | **Gonorreia** | **Clamídia** | **Diplococo no Gram** vs Intracelular (não vê no Gram) |
 | **Sífilis Secundária** | **Sífilis Primária** | **Palmas e Plantas** afetadas vs Úlcera local única |
 | **Ceftriaxona** | **Penicilina** | Trata Gonorreia vs **Trata Sífilis** |

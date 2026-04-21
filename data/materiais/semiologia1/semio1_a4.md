@@ -7,9 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A palpação é a etapa que transforma queixa subjetiva em achado semiológico objetivo. Quando você localiza com precisão onde dói, em que plano anatômico dói e qual estímulo reproduz o sintoma, o raciocínio diagnóstico fica muito mais curto e mais seguro.
-
-Na prática, isso evita dois erros frequentes: chamar toda dor periarticular de "tendinite" e rotular toda limitação funcional como "artrose". Na prova, esse refinamento aparece em enunciados que exigem diferenciação entre dor de tendão, cápsula articular, bursa, nervo periférico e estruturas ósseas.
+A **Palpação** é o momento em que a queixa do paciente encontra a anatomia do médico. Diferente de apenas apertar, a palpação deve ser **progressiva**, **comparativa** e sistemática. Para a prova, domine a localização de pontos críticos como a **Tabaqueira Anatômica** e a **Interlinha Articular**. Na clínica, a presença de calor e edema ajuda a separar a **Dor Mecânica** da **Dor Inflamatória/Infecciosa**.
 
 ### Figura sugerida
 
@@ -24,9 +22,9 @@ Na prática, isso evita dois erros frequentes: chamar toda dor periarticular de 
 
 ## Técnica geral de palpação
 
-Antes de tocar, observe expressão facial, postura antálgica e proteção voluntária do segmento. O toque começa leve e progride em profundidade; começar com pressão intensa logo no ponto doloroso reduz a confiabilidade do exame.
+Antes de tocar, observe expressão facial, postura antálgica e proteção voluntária do segmento. O toque começa leve e **progride em profundidade**; começar com pressão intensa logo no ponto doloroso reduz a confiabilidade do exame.
 
-Use polpas digitais para estruturas pequenas, palma para massas musculares e dorso da mão para comparação térmica rápida. Sempre compare com o lado contralateral quando a anatomia permitir.
+Use **polpas digitais** para estruturas pequenas, palma para massas musculares e **dorso da mão** para **comparação térmica** rápida. Sempre compare com o lado contralateral quando a anatomia permitir.
 
 Em regiões muito dolorosas, palpe primeiro áreas vizinhas e deixe o ponto de máxima dor para o final. Isso melhora cooperação e reduz resposta de defesa.
 
@@ -40,13 +38,13 @@ Em regiões muito dolorosas, palpe primeiro áreas vizinhas e deixe o ponto de m
 
 No joelho, a palpação orientada já delimita hipóteses antes de qualquer teste especial. Dor em linha articular sugere menisco ou sinovite focal; dor no polo inferior da patela aponta para tendinopatia patelar; dor difusa com aumento de volume e calor local abre hipótese inflamatória ou infecciosa.
 
-| Estrutura palpada | Achado semiológico relevante | Hipótese principal |
-|-------------------|------------------------------|--------------------|
-| Linha articular medial/lateral | Dor focal à compressão | Lesão meniscal, sinovite localizada |
-| Tendão patelar | Dor no trajeto e dor à contração resistida | Tendinopatia patelar |
-| Bolsa pré-patelar | Flutuação superficial dolorosa | Bursite pré-patelar |
-| Região poplítea | Massa cística compressível | Cisto poplíteo |
-| Patela e facetas | Dor retropatelar à compressão | Síndrome femoropatelar |
+| Estrutura de Foco | Local da Palpação | Correlação "High-Yield" |
+|-------------------|-------------------|-------------------------|
+| **Linha Articular**| Espaço entre fêmur/tíbia| **Menisco** e Sinovite |
+| **Tendão Patelar** | Abaixo da patela | Salto ou corrida (Osgood-Schlatter) |
+| **Bolsa Pré-patelar**| Sobre a patela | Bursite por **trauma/ajoelhamento** |
+| **Pata de Ganso** | Face anteromedial tíbia | Tendinopatia Anserina (Obesidade) |
+| **Fossa Poplítea** | Atrás do joelho | **Cisto de Baker** |
 
 Quando houver trauma recente com dor intensa em ponto ósseo, a prioridade é excluir fratura. Nesses casos, palpação profunda repetida não agrega valor e pode piorar dor.
 
@@ -54,16 +52,17 @@ Quando houver trauma recente com dor intensa em ponto ósseo, a prioridade é ex
 
 ## Tendões, bursas e enteses: como não confundir
 
-Uma boa regra é separar estruturas por profundidade e por comportamento da dor. Tendão dói no movimento ativo contra resistência; bursa dói mais à compressão local e ao atrito; entese costuma doer na inserção óssea com gesto repetitivo.
+Uma boa regra é separar estruturas por profundidade e por comportamento da dor. Tendão dói no **movimento ativo contra resistência**; bursa dói mais à **compressão local e ao atrito**; entese costuma doer na **inserção óssea** com gesto repetitivo.
 
 Em esportistas, dor no calcâneo posterior com espessamento palpável sugere tendinopatia do Aquiles. No cotovelo, dor no epicôndilo lateral piora com extensão resistida do punho e caracteriza padrão de epicondilalgia lateral.
 
-| Região | O que palpar | Detalhe que cai em prova |
-|--------|---------------|--------------------------|
-| Aquiles | Espessamento, dor no corpo tendíneo, descontinuidade | Depressão palpável sugere ruptura |
-| Epicôndilo lateral | Dor pontual e irradiação para extensores | Associar com teste de Cozen |
-| Trocânter maior | Dor à compressão lateral do quadril | Difere de dor inguinal de quadril intra-articular |
-| Bursa anserina | Dor inferomedial ao joelho | Comum em sobrecarga e obesidade |
+| Região Crítica | Ponto de Palpação | Dica de Ouro para Prova |
+|----------------|-------------------|-------------------------|
+| **Trotânter Maior**| Lateral do quadril | Dor à pressão = **Bursite Trocantérica** |
+| **Tabaqueira** | Base do polegar | Dor aqui = **Fratura de Escafoide** |
+| **Epicôndilo Lat.**| Cotovelo lateral | "Cotovelo de tenista" (Extensão) |
+| **Epicôndilo Med.**| Cotovelo medial | "Cotovelo de golfista" (Flexão) |
+| **Aquiles** | Posterior do calcâneo | Espessamento ou vazio (**Ruptura**) |
 
 ### Figura sugerida
 
@@ -75,30 +74,30 @@ Briefing: ilustração da topografia palpável de epicôndilos, tendão patelar 
 
 ## Punho e mão: precisão topográfica
 
-No punho, poucos centímetros mudam completamente a hipótese diagnóstica. Dor na tabaqueira anatômica após queda sobre mão espalmada exige investigação de escafoide. Dor na estiloide radial associada a movimentos repetitivos do polegar favorece tenossinovite de De Quervain.
+No punho, poucos centímetros mudam completamente a hipótese diagnóstica. Dor na **tabaqueira anatômica** após queda sobre mão espalmada exige investigação de escafoide. Dor na **estiloide radial** associada a movimentos repetitivos do polegar favorece **tenossinovite de De Quervain**.
 
 Palpar articulações metacarpofalângicas e interfalângicas proximais bilateralmente também ajuda a distinguir padrão inflamatório simétrico de queixas mecânicas localizadas.
 
 | Área | Se dói aqui, pensar primeiro em | Armadilha comum |
 |------|----------------------------------|-----------------|
-| Tabaqueira anatômica | Fratura de escafoide | Radiografia inicial normal não exclui |
-| Estiloide radial | De Quervain | Confundir com artrose trapézio-metacarpiana |
-| Túnel do carpo | Neuropatia mediana | Dor isolada sem parestesia pode ter outra origem |
-| Articulação radiocárpica difusa | Sinovite/artrite | Chamar de "tendinite" sem exame global |
+| **Tabaqueira anatômica** | **Fratura de escafoide** | Radiografia inicial normal não exclui |
+| **Estiloide radial** | **De Quervain** | Confundir com artrose trapézio-metacarpiana |
+| **Túnel do carpo** | **Neuropatia mediana** | Dor isolada sem parestesia pode ter outra origem |
+| **Articulação radiocárpica** difusa | **Sinovite/artrite** | Chamar de "tendinite" sem exame global |
 
 ---
 
 ## Coluna vertebral: palpação com segurança clínica
 
-A palpação da coluna deve combinar estruturas ósseas e partes moles. Dor em musculatura paravertebral, sem sinais sistêmicos, favorece lombalgia mecânica. Já dor à percussão de processo espinhoso, especialmente após trauma, aumenta suspeita de fratura vertebral.
+A palpação da coluna deve combinar estruturas ósseas e partes moles. Dor em **musculatura paravertebral**, sem sinais sistêmicos, favorece lombalgia mecânica. Já dor à **percussão de processo espinhoso**, especialmente após trauma, aumenta suspeita de fratura vertebral.
 
 Se houver febre, perda ponderal, imunossupressão ou dor noturna progressiva, o exame físico deixa de ser apenas classificatório e passa a ser triagem de gravidade.
 
 | Achado palpável | Interpretação provável | Conduta inicial sugerida |
 |-----------------|------------------------|--------------------------|
-| Espasmo paravertebral difuso | Dor mecânica miofascial | Analgesia, mobilização orientada |
-| Dor pontual em processo espinhoso | Lesão óssea/fratura | Imagem conforme protocolo |
-| Dor profunda com calor local | Processo inflamatório/infeccioso | Avaliação laboratorial e imagem |
+| **Espasmo paravertebral** difuso | Dor mecânica miofascial | Analgesia, mobilização orientada |
+| **Dor pontual em processo espinhoso** | Lesão óssea/fratura | Imagem conforme protocolo |
+| **Dor profunda com calor local** | Processo inflamatório/infeccioso | Avaliação laboratorial e imagem |
 
 ---
 
@@ -112,10 +111,11 @@ Paciente com dor no punho após queda, sensibilidade importante na tabaqueira an
 
 ## Pontos-Chave para Prova
 
-- Palpação eficaz é progressiva, comparativa e ancorada em anatomia de superfície.
-- Dor em linha articular e dor tendínea têm topografias diferentes e implicações diagnósticas distintas.
-- Em trauma com dor óssea focal, excluir fratura vem antes de insistir em manobras de dor.
-- Febre, dor noturna progressiva e dor vertebral profunda mudam a prioridade para investigação de gravidade.
+- **Técnica:** Comece pela área indolor e avance para a mais dolorida (**Progressividade**).
+- **Escafoide:** Se houver dor na **Tabaqueira Anatômica**, imobilize mesmo se o RX for normal.
+- **Diferencial:** **Movimento Resistido** dói no tendão; **Linha Articular** dói ao apertar o espaço entre os ossos.
+- **Fratura Vertebral:** Percutir o **Processo Espinhoso** e sentir dor aguda é um sinal de alerta clássico.
+- **Calor Local:** Use o **Dorso da Mão** para comparar a temperatura entre os dois membros.
 
 ---
 
@@ -131,13 +131,17 @@ Em questões de joelho e cotovelo, a banca costuma cobrar localização da dor c
 
 No trauma, lembre que dor óssea pontual e dor na tabaqueira anatômica são sinais de alerta para fratura, mesmo quando a imagem inicial não confirma de imediato. Já em coluna, sinais sistêmicos associados à dor local profunda pedem investigação além da hipótese mecânica simples.
 
-### Diferenciações que a Uninove adora cobrar
+- **Tendinopatia:** A dor é no trajeto do tendão. Piora se você pedir para o paciente fazer força.
+- **Artrite:** A dor é em volta de toda a articulação. Frequentemente tem **Edema** e **Calor**.
+- **Tenossinovite de De Quervain:** Dor intensa bem em cima da **Estiloide Radial**.
+- **Cisto de Baker:** Abaulamento na fossa poplítea; fica mais tenso com o joelho esticado.
 
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Dor tendínea | Dor articular | Tendão: dor em trajeto e contra resistência; articulação: dor mais difusa com arco de movimento |
-| Bursite pré-patelar | Derrame intra-articular | Bursite é superficial e localizada; derrame tende a distender a articulação |
-| Cisto poplíteo | TVP de panturrilha | Cisto: massa posterior associada a joelho; TVP exige avaliação vascular e contexto clínico |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Tendão** | **Bursa** | Piora com **Movimento Resistido** vs Piora com **Pressão Direta** |
+| **Escafoide** | **Estiloide Radial** | **Tabaqueira** (Queda) vs Movimento Repetitivo |
+| **Aquiles** | **Fáscia Plantar** | Dor no calcanhar **atrás** vs Dor no calcanhar **embaixo** |
+| **Linfonodo** | **Cisto de Baker**| Fixos e irregulares vs Móvel e compressível |
 
 ### Frase-âncora para não esquecer
 

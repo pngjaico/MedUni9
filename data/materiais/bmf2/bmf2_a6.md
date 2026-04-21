@@ -9,7 +9,7 @@
 
 O eletrocardiograma (ECG) é o registro da atividade elétrica do coração e a ferramenta diagnóstica mais acessível na cardiologia. Nesta aula, o foco não é apenas identificar ondas, mas compreender a **correlação elétrico-mecânica**: como cada deflexão no papel antecipa um evento de contração, relaxamento ou abertura valvar.
 
-Na prática clínica, o ECG é vital para a decisão imediata em casos de **dor torácica**, **síncope** e **arritmias**. Dominar a lógica do traçado permite ao médico prever complicações hemodinâmicas: um atraso elétrico no nó AV (Intervalo PR) pode significar um prejuízo no enchimento ventricular, assim como uma alteração no Segmento ST pode ser o sinal precoce de um infarto em curso.
+Na prática clínica, o ECG é vital para a decisão imediata em casos de **dor torácica**, **síncope** e **arritmias**. Dominar a lógica do traçado permite ao médico prever complicações hemodinâmicas: um atraso elétrico no nó AV (**Intervalo PR**) pode significar um prejuízo no enchimento ventricular, assim como uma alteração no **Segmento ST** pode ser o sinal precoce de um infarto em curso.
 
 ---
 
@@ -43,8 +43,8 @@ Durante o **Segmento ST**, o coração está em plena fase de **ejeção ventric
 Alterações nos tempos de condução são as principais chaves diagnósticas no ECG básico. Se o **Intervalo PR** está aumentado (>200ms), estamos diante de um **Bloqueio Atrioventricular (BAV) de 1º Grau**, indicando um "atraso no freio" nodal. Se o QRS está alargado (>120ms), o sinal está encontrando resistência para percorrer os ventrículos, sugerindo um **Bloqueio de Ramo**.
 
 Pistas clínicas no traçado:
-*   **Ausência de Onda P:** Sugere que o ritmo não nasce no nó sinusal (ex: Fibrilação Atrial).
-*   **Alterações de ST:** Supra ou infradesnivelamentos indicam sofrimento miocárdico (Isquemia/Lesão).
+*   **Ausência de Onda P:** Sugere que o ritmo não nasce no nó sinusal (ex: **Fibrilação Atrial**).
+*   **Alterações de ST:** Supra ou infradesnivelamentos indicam sofrimento miocárdico (**Isquemia/Lesão**).
 *   **QT Prolongado:** Alerta para o risco de síncope por *Torsades de Pointes*.
 
 ---
@@ -86,5 +86,4 @@ Guardar os valores de referência é essencial: PR até 200ms e QRS até 120ms. 
 | **BAV 1º Grau** | **Fibrilação Atrial** | Tem P (mas PR longo) vs **Não tem P** (RR irregular) |
 
 ### Frase-âncora para não esquecer
-
 > "No coração, a eletricidade escreve o roteiro e a mecânica entra em cena logo depois."

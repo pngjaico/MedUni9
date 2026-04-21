@@ -1,155 +1,91 @@
-# Bioestatística — Aula 10: Estudo Caso-Controle
+# BIOE — Aula 10: Estudo Caso-Controle — Olhando para Trás
 
-**Disciplina:** Bioestatística e Estudos em Saúde
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+O estudo caso-controle é como um trabalho de detetive: o crime (a doença) já aconteceu, e agora precisamos descobrir o culpado (a causa). Na prova, os temas centrais são a seleção de quem já está **Doente (Casos)** vs **Saudáveis (Controles)**, o cálculo do **Odds Ratio (OR)** e o perigo do **Viés de Memória**.
+
+Na prática, o caso-controle é o "salvador" quando a doença é muito rara. Se você quiser estudar uma doença que atinge apenas 1 em cada 10.000 pessoas, você não pode esperar 20 anos numa coorte; você precisa achar os doentes hoje e perguntar o que eles fizeram no passado. É rápido, barato e foi o estudo que provou que o cigarro causa câncer de pulmão. Aprender a ler um caso-controle é aprender a reconstruir a história clínica para achar padrões de risco.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O estudo caso-controle é o design mais eficiente para investigar doenças raras e para gerar hipóteses etiológicas rapidamente. Foi com esse design que Doll e Hill (1950) estabeleceram a associação entre tabagismo e câncer de pulmão, e que epidemiologistas identificaram a causa da Síndrome da Imunodeficiência Adquirida antes mesmo do HIV ser conhecido. A Uninove cobra sua lógica, o cálculo do Odds Ratio (OR), a distinção em relação à coorte e as principais fontes de viés.
 
 ### Figura sugerida
 
 **Figura-ID:** `BIOE-A10-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de lógica do desenho.
+- **O que mostrar:** O "Detetive do Passado": Uma linha do tempo começando no "Agora". O pesquisador encontra dois grupos: **Casos** (com a doença) e **Controles** (sem a doença). Ele desenha uma seta voltando para o passado perguntando: "Quem foi exposto ao fator X?".
+- **Tipo sugerido:** Infográfico de desenho retrospectivo.
+- **Legenda (rascunho):** A lógica do estudo caso-controle: partindo do efeito (desfecho) em direção à causa (exposição passada).
 
+## 1. O Que é o Estudo Caso-Controle?
 
-
-
----
-
-## 1. Definição e Lógica do Desenho
-
-No estudo caso-controle, os participantes são selecionados com base no **desfecho** (doença), não na exposição. Os **casos** têm a doença; os **controles** não têm. Ambos os grupos são então interrogados (ou seus registros são consultados) para verificar qual foi a exposição no passado.
-
-O raciocínio temporal é "para trás no tempo" — parte do desfecho (efeito, presente) em direção à exposição (causa, passado). É um estudo retrospectivo por natureza. A medida de efeito não é o risco relativo, mas o **Odds Ratio (OR)** — razão entre as odds de ter sido exposto nos casos versus nos controles.
+- **O Método:** Você começa com o resultado final. Seleciona o grupo dos **Doentes** e procura um grupo parecido de pessoas que **Não estão doentes**.
+- **Direção:** Do presente para o passado (estudo **Retrospectivo**).
+- **O que ele mede:** O **OR (Odds Ratio)** ou Razão de Chances.
+- **Vantagem Master:** É o melhor estudo para **Doenças Raras** ou de longa latência (que demoram muito para aparecer, como tumores).
 
 ---
 
-## 2. Seleção de Casos e Controles
+## 2. O Cálculo do OR (Odds Ratio)
 
-### 2.1 Casos
-Devem ser casos incidentes (novos), não prevalentes, para evitar o viés de prevalência. Devem ser definidos por critérios diagnósticos claros e objetivos. Idealmente, são casos de base populacional (registro de câncer, registro hospitalar representativo).
-
-### 2.2 Controles
-Devem vir da mesma população-fonte que geraria os casos — ou seja, se um controle desenvolvesse a doença, seria elegível como caso. A seleção incorreta de controles é uma das maiores fontes de viés em estudos caso-controle.
-
-**Pareamento:** casos e controles podem ser pareados por características como sexo, idade ou comorbidades para controlar confundimento. O pareamento individual (1:1) ou em grupo pode aumentar a eficiência, mas exige análise estatística específica (McNemar para pareado).
+Como não sabemos quantas pessoas ficaram doentes ao longo do tempo (incidência), usamos as "chances":
+- **A Conta:** É o famoso **Produto Cruzado** da tabela 2x2.
+- **Fórmula:** **(Casos Expostos × Controles Não Expostos) ÷ (Casos Não Expostos × Controles Expostos)**.
+- **Interpretando:** Quando a doença é rara, o **OR** é praticamente igual ao **Risco Relativo (RR)**. Se OR = 4, a "chance" de ter sido exposto é 4 vezes maior nos doentes.
 
 ---
 
-## 3. Medida de Efeito: Odds Ratio (OR)
+## 3. O Inimigo: Viés de Memória (Recall Bias)
 
-O OR é a razão entre as odds de exposição nos casos e a odds de exposição nos controles:
-
-OR = (casos expostos / casos nao expostos) / (controles expostos / controles nao expostos)
-
-Usando a tabela 2x2:
-
-|  | Casos | Controles |
-|---|---|---|
-| **Expostos** | a | b |
-| **Nao expostos** | c | d |
-
-OR = (a x d) / (b x c) — produto cruzado
-
-- **OR = 1:** sem associação
-- **OR maior que 1:** exposição associada a maior odds da doença (fator de risco)
-- **OR menor que 1:** exposição associada a menor odds da doença (fator protetor)
-
-> **Dica de Prova:** Quando a doença é rara (prevalência menor que 10%), OR se aproxima do RR e pode ser interpretado quase da mesma forma. Quando a doença é comum, OR superestima (se OR maior que 1) ou subestima (se OR menor que 1) o verdadeiro RR.
+Este é o calcanhar de Aquiles do caso-controle:
+- **Viés de Memória (Recall Bias):** Uma pessoa que está doente (**Caso**) tenta desesperadamente lembrar o que causou o problema dela. Ela lembra de detalhes que uma pessoa saudável (**Controle**) esquece.
+- **O Erro:** Isso faz parecer que a pessoa doente teve muito mais exposição do que a saudável, apenas porque ela lembra mais, e não porque ela realmente se expôs mais.
 
 ---
 
-## 4. Vantagens do Estudo Caso-Controle
+## 4. Seleção dos Controles: O Grande Desafio
 
-**Eficiência para doenças raras:** como selecionamos os casos diretamente, é possível estudar doenças com incidência de 1:10.000 ou menor, o que exigiria coortes imensas.
-
-**Rapidez e custo:** o estudo é retrospectivo — os dados de exposição já existem (prontuários, entrevistas recordatórias). Não há período de espera pelo desfecho.
-
-**Estudo de múltiplas exposições para um único desfecho:** permite investigar dezenas de potenciais fatores de risco para uma doença de interesse em uma única análise.
-
-**Adequado para doenças com longa latência:** como cânceres ocupacionais, em que esperar décadas por uma coorte seria inviável.
-
----
-
-## 5. Limitações do Estudo Caso-Controle
-
-### 5.1 Viés de Recall (Memória)
-Casos tendem a recordar melhor (ou de forma diferente) suas exposições passadas do que controles, porque pensam ativamente nas possíveis causas de sua doença. Isso pode criar uma associação artificial. Exemplo: gestante com filho malformado tende a lembrar mais e relatar mais detalhes de exposições durante a gravidez do que gestante com filho saudável.
-
-### 5.2 Viés de Seleção de Controles
-A escolha inadequada dos controles é a principal causa de viés sistemático no caso-controle. Controles hospitalares podem não representar a população-fonte dos casos. Exemplos: controles com outra doença relacionada à exposição investigada (viés de Berkson).
-
-### 5.3 Impossibilidade de Calcular Incidência
-Como a proporção de casos e controles é definida pelo pesquisador (não pela natureza), não é possível calcular incidência nem RR diretamente — apenas OR.
-
-### 5.4 Não é Adequado para Exposições Raras
-Se a exposição é muito rara, poucos casos e controles terão sido expostos, tornando o estudo insuficientemente potente.
-
-> **Pegadinha:** O viés de recall afeta CASOS mais do que controles — por isso, subestima ou superestima a associação. Controles hospitalares introduzem viés de seleção especifico chamado viés de Berkson.
-
----
-
-## 6. Tabela Comparativa com a Coorte
-
-| Característica | Coorte | Caso-Controle |
-|---|---|---|
-| Seleção pela | Exposição | Desfecho |
-| Direção temporal | Causa para efeito | Efeito para causa |
-| Medida de efeito | RR (incidência) | OR (odds) |
-| Doenças raras | Inadequado | Ideal |
-| Doenças comuns | Adequado | Menos eficiente |
-| Viés principal | Perda de seguimento | Viés de recall |
-| Custo e tempo | Alto, longo | Menor, mais rápido |
-
----
-
-## Pontos-Chave para Prova
-
-- **Caso-controle:** seleciona pelo desfecho, investiga exposição passada.
-- **Medida:** OR = produto cruzado (a x d) / (b x c).
-- **OR aproxima RR quando a doença eh rara** (prevalência menor que 10%).
-- **Ideal para:** doenças raras, múltiplas exposições, estudo rápido.
-- **Viés de recall:** casos lembram mais das exposições do que controles.
-- **Viés de Berkson:** controles hospitalares podem estar associados à exposição por outra via.
-- **NAO calcula incidência** — apenas OR.
+O controle deve ser o "clone" saudável do caso:
+- Se você tira os doentes da UTI, seus controles não podem ser atletas de triatlo. Eles devem vir da mesma população.
+- **Viés de Berkson:** Se você pegar controles dentro de um hospital, eles podem ter outras doenças que também estão ligadas ao seu estudo, bagunçando todo o resultado.
 
 ---
 
 ## Ponte com a Clínica
 
-Na investigação de surtos e doenças emergentes, o caso-controle é o design de escolha quando o desfecho é raro ou a urgência não permite uma coorte. Na crise da talidomida (1959-1962), estudos caso-controle confirmaram rapidamente a associação entre talidomida e focomelia. Em surtos alimentares, o caso-controle compara dietas de quem adoeceu versus quem não adoeceu na mesma refeição — identificando o alimento contaminado em dias ou semanas.
+No pronto-socorro, no meio de um surto de intoxicação alimentar, você usará o raciocínio do caso-controle. Você vai pegar as 10 pessoas que estão com diarreia (**Casos**) e perguntar o que elas comeram no jantar. Depois, perguntará o que os amigos que não passaram mal (**Controles**) comeram. Se todos os doentes comeram a maionese e os saudáveis não, você achou o seu culpado. É a epidemiologia em ação no leito do paciente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Retrospectivo**: É a palavra-chave. Você olha para trás.
+- **Odds Ratio (OR)**: É a medida oficial de associação.
+- **Doenças Raras**: Se a questão fala de uma doença raríssima, o estudo de escolha é o Caso-Controle.
+- **Custo**: É muito mais barato que uma Coorte.
+- **Tabela 2x2**: Saiba fazer o "X" do **produto cruzado** (A x D / B x C).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Caso-controle:** casos (tem a doença) vs controles (nao tem). Compara exposicao passada.
-- **OR = (a x d) / (b x c)** — produto cruzado da tabela 2x2.
-- **OR aproxima RR quando doença rara** (prevalência menor que 10%).
-- **Ideal para doenças raras** — coorte seria impraticável.
-- **Viés de recall:** principal viés — casos recordam a exposição de forma diferente.
-- **NAO calcula incidência nem RR** diretamente.
 
-Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
+Para gabaritar caso-controle, foque na Partida. 
+**Desfecho → Exposição**. Você começa com o doente e pergunta o que ele fez.
+
+A Uninove adora o **Odds Ratio**. Lembre-se: Ele não é o risco real, é uma estimativa rápida. Outro ponto forte: o **Viés de Lembrança**. Se o estudo depende da memória do paciente, desconfie! Por fim, saiba que para doenças comuns na população (ex: gripe), o caso-controle é menos eficiente porque quase todo mundo (casos e controles) terá tido a exposição, o que "achata" o resultado.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Estudo A | Estudo B | Diferencial Crítico |
 |------------|------------|-----------------|
-| OR | RR | OR: caso-controle (odds); RR: coorte (riscos/incidências) |
-| Viés de recall | Viés de seleção | Recall: memória diferencial entre casos e controles; Seleção: controles nao representam a população-fonte |
-| Caso-controle para doença rara | Coorte para doença rara | Caso-controle: eficiente; Coorte: precisaria de n enorme |
-| Casos incidentes | Casos prevalentes | Incidentes: novos; Prevalentes: existentes — evitar prevalentes para nao ter vies de sobrevivencia |
+| **Caso-Controle** | **Coorte** | **Doente** vs **Saudável** |
+| **Odds Ratio (OR)**| **Risco Relativo (RR)** | **Chances** vs **Riscos** |
+| **Viés de Memória** | **Viés de Perda** | O paciente **Esquece** vs O paciente **Some** |
+| **Retrospectivo** | **Prospectivo** | Olha para o **Passado** vs Olha para o **Futuro** |
+| **Doença Rara** | **Exposição Rara** | Melhor para **Caso-Controle** vs Melhor para **Coorte** |
 
 ### Frase-âncora para não esquecer
-> "Caso-controle: do efeito para a causa, mede OR. Ideal para doenças raras. Viés de recall é o inimigo numero um."
+
+> "Caso-controle é o retrovisor da ciência: olho no doente e busco a evidência. No produto cruzado o OR aparece, e se a doença é rara a eficácia floresce. Cuidado com o recall que a mente inventa, e com o controle que a UTI apresenta. Se o passado explica o presente malvado, o detetive estatístico cumpriu seu legado."

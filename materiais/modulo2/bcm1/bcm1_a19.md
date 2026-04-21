@@ -2,7 +2,7 @@
 
 Os Erros Inatos do Metabolismo são "defeitos de fabricação" nas enzimas que processam o que comemos. Na prova, o tema central é a **Triagem Neonatal (Teste do Pezinho)** e as doenças clássicas como a **Fenilcetonúria (PKU)** e a **Galactosemia**, onde o acúmulo de uma substância simples se torna um veneno para o cérebro do bebê.
 
-Na prática, o diagnóstico precoce nos primeiros dias de vida é a única forma de evitar que uma criança nasça saudável e desenvolva uma deficiência intelectual grave apenas por tomar leite.
+Na prática, o **diagnóstico precoce** nos primeiros dias de vida é a única forma de evitar que uma criança nasça saudável e desenvolva uma deficiência intelectual grave apenas por tomar leite.
 
 ---
 
@@ -17,10 +17,10 @@ Na prática, o diagnóstico precoce nos primeiros dias de vida é a única forma
 
 ## 1. Fenilcetonúria (PKU): O Perigo na Proteína
 
-É a doença mais famosa do teste do pezinho. O corpo não consegue processar o aminoácido **Fenilalanina** (Phe), presente em quase todas as proteínas.
-- **Mecanismo:** A fenilalanina acumula no sangue e "envenena" o cérebro.
-- **Sinais:** O bebê costuma ter pele e olhos muito claros (falta de melanina) e a urina tem um cheiro forte de **Mofo ou Rato**.
-- **Tratamento:** Uma dieta rigorosa com leite especial e quase nenhuma proteína para o resto da vida. Se tratada, a criança se desenvolve normalmente.
+É a doença mais famosa do teste do pezinho. O corpo não consegue processar o aminoácido **Fenilalanina (Phe)**, presente em quase todas as proteínas.
+- **Mecanismo:** A fenilalanina acumula no sangue e "envenena" o **cérebro**.
+- **Sinais:** O bebê costuma ter **pele e olhos muito claros** (falta de melanina) e a urina tem um cheiro forte de **Mofo ou Rato**.
+- **Tratamento:** Uma **dieta rigorosa** com leite especial e quase nenhuma proteína para o resto da vida. Se tratada, a criança se desenvolve normalmente.
 
 ---
 
@@ -29,7 +29,7 @@ Na prática, o diagnóstico precoce nos primeiros dias de vida é a única forma
 O bebê não consegue processar a Galactose (um dos açúcares do leite).
 - **Mecanismo:** Diferente da PKU, aqui os sintomas aparecem em poucos dias: o bebê vomita, fica amarelo (**Icterícia**) e para de mamar.
 - **Sinais Clássicos:** O bebê desenvolve **Catarata** precocemente e tem um risco enorme de morrer por uma infecção generalizada (sepse) causada pela bactéria ***E. coli***.
-- **Tratamento:** Retirada total de leite de origem animal (incluindo o materno) e substituição por fórmulas de soja.
+- **Tratamento:** **Retirada total** de leite de origem animal (incluindo o materno) e substituição por fórmulas de soja.
 
 ---
 
@@ -37,8 +37,8 @@ O bebê não consegue processar a Galactose (um dos açúcares do leite).
 
 O corpo não processa os aminoácidos de cadeia ramificada (Leucina, Isoleucina e Valina).
 - **Mecanismo:** Esses aminoácidos são muito tóxicos para o cérebro.
-- **Sinal de Ouro:** A urina do bebê tem um cheiro adocicado, parecido com **Xarope de Bordo ou Caramelo queimado**.
-- **Gravidade:** É uma emergência! Se não tratada em dias, o bebê entra em coma e morre.
+- **Sinal de Ouro:** A urina do bebê tem um cheiro adocicado, parecido com **Xarope de Bordo** ou **Caramelo queimado**.
+- **Gravidade:** É uma **emergência**! Se não tratada em dias, o bebê entra em coma e morre.
 
 ---
 
@@ -82,8 +82,8 @@ Outro ponto que sempre cai: o diagnóstico da PKU é feito medindo a **Fenilalan
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **PKU** | **Galactosemia** | Problema na Proteína vs **Problema no Açúcar do Leite** |
-| **Xarope de Bordo** | **PKU** | Cheiro de Doce/Caramelo vs **Cheiro de Mofo/Rato** |
-| **Homocistinúria** | **Síndrome de Marfan** | Cristalino p/ baixo + Trombose vs **Cristalino p/ cima + Aorta** |
+| **Xarope de Bordo** | **PKU** | **Cheiro de Doce/Caramelo** vs **Cheiro de Mofo/Rato** |
+| **Homocistinúria** | **Síndrome de Marfan** | **Cristalino p/ baixo + Trombose** vs **Cristalino p/ cima + Aorta** |
 | **Icterícia Fisiológica** | **Galactosemia** | Normal no 3º dia vs **Grave, precoce e com vômitos** |
 | **Teste do Pezinho** | **Teste do Olhinho** | Vê o Sangue (Metabolismo) vs **Vê a Catarata/Reflexo Vermelho** |
 

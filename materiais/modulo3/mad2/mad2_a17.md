@@ -1,8 +1,8 @@
 # MAD2 — Aula 17: Antibióticos — Inibidores de Síntese Proteica
 
-Os inibidores de síntese proteica são os "sabotadores de máquinas" da bactéria. Na prova, os temas centrais são a divisão entre os que atacam a **Subunidade 30S** (Aminoglicosídeos e Tetraciclinas) e os que atacam a **Subunidade 50S** (Macrolídeos, Lincosamidas e Cloranfenicol), focando sempre nas interações e efeitos colaterais.
+Os inibidores de síntese proteica são os "sabotadores de máquinas" da bactéria. Na prova, os temas centrais são a divisão entre os que atacam a **Subunidade 30S** (**Aminoglicosídeos** e **Tetraciclinas**) e os que atacam a **Subunidade 50S** (**Macrolídeos, Lincosamidas e Cloranfenicol**), focando sempre nas interações e efeitos colaterais.
 
-Na prática, o clínico deve ter cuidado redobrado com o tempo de uso e com o perfil do paciente (idosos, crianças ou gestantes), pois o erro na escolha pode causar danos permanentes na audição, nos rins ou na formação dos dentes.
+Na prática, o clínico deve ter cuidado redobrado com o tempo de uso e com o perfil do paciente (idosos, crianças ou gestantes), pois o erro na escolha pode causar danos permanentes na **audição**, nos **rins** ou na formação dos **dentes**.
 
 ---
 
@@ -19,16 +19,16 @@ Na prática, o clínico deve ter cuidado redobrado com o tempo de uso e com o pe
 
 - **Aminoglicosídeos (Gentamicina / Amicacina):** São extremamente potentes contra Gram-negativos hospitalares. Diferente da maioria deste grupo, eles são **Bactericidas** (matam a bactéria).
     - **Cuidado:** São famosos pelos efeitos colaterais: **Nefrotoxicidade** (rim) e **Ototoxicidade** (surdez irreversível e vertigem).
-- **Tetraciclinas (Doxiciclina):** Excelentes para doenças atípicas (como Clamídia e Rickettsia).
+- **Tetraciclinas (Doxiciclina):** Excelentes para doenças **atípicas** (como Clamídia e Rickettsia).
     - **Contraindicação:** **Gestantes e Crianças menores de 8 anos**, pois grudam no cálcio e deixam os **Dentes Pretos ou Amarelos** para sempre.
 
 ---
 
 ## 2. O Time da Subunidade 50S: Os Macrolídeos e CIA
 
-- **Macrolídeos (Azitromicina / Claritromicina):** Muito usados em pneumonias comunitárias (pegam bactérias atípicas) e em substituição à penicilina em pacientes alérgicos.
-- **Lincosamidas (Clindamicina):** O antibiótico padrão para **Anaeróbios** acima do diafragma (abscessos de pulmão ou infecções de boca).
-    - **Perigo:** É a maior causa da diarreia por *Clostridioides difficile*.
+- **Macrolídeos (Azitromicina / Claritromicina):** Muito usados em **pneumonias comunitárias** (pegam bactérias atípicas) e em substituição à penicilina em pacientes alérgicos.
+- **Lincosamidas (Clindamicina):** O antibiótico padrão para **Anaeróbios acima do diafragma** (abscessos de pulmão ou infecções de boca).
+    - **Perigo:** É a maior causa da diarreia por ***Clostridioides difficile***.
 - **Cloranfenicol:** Um remédio antigo e potente, mas perigoso. Pode causar a **Síndrome do Bebê Cinzento** (em recém-nascidos) e anemia aplástica (destruição da medula).
 
 ---
@@ -37,7 +37,7 @@ Na prática, o clínico deve ter cuidado redobrado com o tempo de uso e com o pe
 
 A Linezolida é um inibidor especial que age no início da formação do ribossomo.
 - **Uso:** É reservada para Gram-positivos multirresistentes, como o **VRE** (Enterococo resistente à vancomicina).
-- **Atenção:** Pode causar queda de plaquetas (plaquetopenia) se usada por mais de 14 dias.
+- **Atenção:** Pode causar queda de plaquetas (**plaquetopenia**) se usada por mais de 14 dias.
 
 ---
 
@@ -84,7 +84,7 @@ A Uninove adora cobrar sobre a **Clindamicina**. Saiba que ela é ótima para Gr
 | **Clindamicina** | **Metronidazol** | Anaeróbios **Acima** do diafragma vs **Abaixo** (barriga) |
 | **Tetraciclina** | **Penicilina** | Riscos na **Infância/Dente** vs Risco de **Alergia** |
 | **Azitromicina** | **Ceftriaxona** | Pega bactérias **Atípicas** vs Pega bactérias comuns |
-| **Subunidade 30S** | **Subunidade 50S** | Alvo menor do ribossomo vs Alvo maior |
+| **Subunidade 30S** | **Subunidade 50S** | Alvo **menor** do ribossomo vs Alvo **maior** |
 
 ### Frase-âncora para não esquecer
 

@@ -1,0 +1,2408 @@
+[
+  {
+    "id": 712,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Idosa de 78 anos, com DM2 e HAS estáveis, mora sozinha e relata medo de cair ao se deslocar para a UBS. Na leitura em vulnerabilidade em saúde, qual dimensão abrange melhor o papel da idade, do sexo e da presença de doenças crônicas como fatores ligados à própria pessoa?",
+    "opcoes": [
+      "A) Vulnerabilidade programática, porque o medo demonstra barreira psicológica ao serviço.",
+      "B) Vulnerabilidade individual, pois integra atributos biológicos e pessoais (idade, sexo, condições de saúde).",
+      "C) Determinante social da saúde, pois toda morbidade crônica se reduz exclusivamente à renda familiar.",
+      "D) Prevenção secundária, pois o caso exige rastreio sistemático de queda e fratura."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A dimensão individual da vulnerabilidade agrupa idade, sexo, biologia e comportamentos; medo ou deslocamento podem conversar com outras dimensões, mas não substituem essa definição.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: medo e acesso dialogam com programática, mas o enunciado pede o eixo dos atributos pessoais/biológicos.",
+      "B": "Correta: idade, sexo e doenças crônicas compõem a vulnerabilidade individual no modelo em três dimensões.",
+      "C": "Incorreta: DSS são estruturais e não se confundem com o eixo individual; a alternativa ainda generaliza indevidamente.",
+      "D": "Incorreta: prevenção secundária é nível de prevenção (detecção precoce), não dimensão de vulnerabilidade."
+    },
+    "explicacao": "Resumo: fatores inerentes à pessoa (idade, sexo, biologia, morbidades) pautam a vulnerabilidade individual.\nA) INCORRETA. Mistura medo/barreira com programática sem responder ao núcleo da pergunta.\nB) CORRETA. Encaixa na definição clássica da dimensão individual.\nC) INCORRETA. Confunde DSS com vulnerabilidade individual e reducionismo econômico.\nD) INCORRETA. Confunde nível de prevenção com dimensão de vulnerabilidade.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 713,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Em campanha na escola, a equipe aplica vacina contra HPV em adolescentes assintomáticos, sem lesão citológica já conhecida. O desenho da ação corresponde, em primeiro lugar, a qual nível de prevenção?",
+    "opcoes": [
+      "A) Secundária, porque o vírus já circula na comunidade e a vacina compensa atraso de rastreio.",
+      "B) Terciária, pois o foco é limitar sequelas oncológicas após doença estabelecida.",
+      "C) Quaternária, já que toda imunização evita consultas futuras na especialidade.",
+      "D) Primária, pois busca reduzir a incidência do agravo antes da manifestação clínica relevante."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Imunização em indivíduos sem doença manifesta atua na redução da incidência, caracterizando prevenção primária.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: secundária pressupõe busca de caso ou diagnóstico precoce de doença já em curso; vacinação não é rastreio.",
+      "B": "Incorreta: terciária visa reduzir incapacidade quando há dano instalado; não descreve vacinação em população escolar saudável.",
+      "C": "Incorreta: quaternária refere-se a evitar intervenções desnecessárias ou iatrogenia; não define imunização de rotina.",
+      "D": "Correta: vacinação previne antes da doença se estabelecer, alinhando-se à prevenção primária."
+    },
+    "explicacao": "Resumo: vacinação em pessoas sem agravo clínico configurado é exemplo clássico de prevenção primária.\nA) INCORRETA. Confunde circulação viral assintomática com lógica de detecção precoce.\nB) INCORRETA. Confunde prevenção terciária com imunização primária.\nC) INCORRETA. Confunde quaternária (menos intervenção indevida) com vacinação indicada.\nD) CORRETA. Objetivo central é impedir o agravo antes que se manifeste.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 714,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Paciente relata violência doméstica, mora longe da família de origem e não encontra apoio para transporte aos cuidados. Qual dimensão da vulnerabilidade o cenário ilumina de forma mais imediata?",
+    "opcoes": [
+      "A) Social, ao evidenciar relações, suporte afetivo e violência como eixos do contexto vivido.",
+      "B) Programática exclusivamente, porque distância geográfica anula qualquer leitura relacional.",
+      "C) Individual apenas, já que violência seria atributo voluntário desligado do entorno.",
+      "D) Prevenção primária, pois o foco do caso é vacinação e saneamento básico."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Rede de apoio, isolamento relacional e violência figuram na dimensão social da vulnerabilidade; barreiras de serviço podem coexistir, mas o núcleo descrito é relacional.",
+    "explicacoes_opcoes": {
+      "A": "Correta: rede, isolamento e violência são componentes clássicos da dimensão social.",
+      "B": "Incorreta: distância e serviço remetem à programática, mas o texto destaca violência e rede — e “exclusivamente” é falso.",
+      "C": "Incorreta: atribuir violência só ao indivíduo ignora determinação social, contrariando o enfoque do SUS/APS.",
+      "D": "Incorreta: prevenção primária é nível de prevenção; não classifica dimensão de vulnerabilidade."
+    },
+    "explicacao": "Resumo: violência e rede de apoio configuram a dimensão social.\nA) CORRETA. Integra os elementos típicos do eixo social.\nB) INCORRETA. Reduz o caso a geografia e ignora o núcleo relacional; ainda usa “exclusivamente” de modo incorreto.\nC) INCORRETA. Naturaliza violência como “escolha” individual, fora do referencial de saúde coletiva.\nD) INCORRETA. Categoria equivocada (prevenção × vulnerabilidade).",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 715,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Mulher de 52 anos, assintomática, comparece à UBS para mamografia de rastreamento vigente na faixa etária, sem lesão palpável prévia. A lógica predominante da conduta é:",
+    "opcoes": [
+      "A) Prevenção primária, pois visa impedir que o câncer de mama ocorra na população.",
+      "B) Prevenção terciária, pois já há manejo de crônico com complicações esperadas.",
+      "C) Prevenção secundária, ao buscar diagnóstico precoce de doença que pode estar em curso sem sintomas.",
+      "D) Prevenção quaternária, porque exclui exames desnecessários na especialidade."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Rastreamento em pessoa assintomática, dentro de protocolo, visa detectar precocemente agravo em curso — prevenção secundária; confundir com primária é pegadinha frequente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: primária age antes da doença (vacina, saneamento); mamografia de rastreio não se classifica aqui.",
+      "B": "Incorreta: terciária reduz sequelas quando o agravo já causou dano; não descreve rastreamento.",
+      "C": "Correta: rastreamento com exame de imagem em população definida é exemplo típico de secundária.",
+      "D": "Incorreta: quaternária refere-se a evitar intervenção excessiva; rastreamento indicado não se enquadra assim."
+    },
+    "explicacao": "Resumo: rastreamento para diagnóstico precoce é prevenção secundária.\nA) INCORRETA. Confunde bloqueio da doença (primária) com detecção precoce.\nB) INCORRETA. Confunde limitação de sequelas (terciária) com rastreio.\nC) CORRETA. Alinha-se à lógica secundária (detectar e tratar cedo).\nD) INCORRETA. Quaternária não nomeia rastreamento protocolado.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 716,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Trabalhadora relata que perde atendimento porque a UBS não oferece horário compatível com o turno da fábrica e o transporte até a unidade é caro. Na tipologia da vulnerabilidade em saúde, esse conjunto de fatores situa-se sobretudo em qual dimensão?",
+    "opcoes": [
+      "A) Individual, porque a responsabilidade pela falta seria exclusivamente da paciente.",
+      "B) Social, pois se resume a preferências culturais sem relação com o serviço.",
+      "C) Relacionada apenas ao processo saúde-doença nosológico, sem dimensão estrutural.",
+      "D) Programática, ao envolver organização do serviço, acesso físico/econômico e oferta compatível com a vida cotidiana."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Barreiras geográficas, econômicas, culturais e administrativas ao cuidado integram a dimensão programática da vulnerabilidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: culpabilizar o indivíduo ignora barreiras estruturais — contraria o enfoque do SUS.",
+      "B": "Incorreta: turno, custo e oferta de horário são eixos de acesso ao serviço (programático), não apenas “cultura”.",
+      "C": "Incorreta: o caso descreve organização e acesso, não apenas classificação nosológica.",
+      "D": "Correta: coincide com a definição de vulnerabilidade programática do material (barreiras de acesso)."
+    },
+    "explicacao": "Resumo: filas, horário e custo de deslocamento são barreiras programáticas típicas.\nA) INCORRETA. Individualização indevida do problema.\nB) INCORRETA. Descaracteriza o papel do serviço e da logística.\nC) INCORRETA. Mistura eixo nosológico com o que é organização de cuidado.\nD) CORRETA. Agrupa elementos clássicos da dimensão programática.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 717,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Homem com sequela motora após evento vascular encefálico está em fisioterapia ambulatorial para recuperar marcha e prevenir úlcera por decúbito. A estratégia institucional concentra-se predominantemente em qual nível de prevenção?",
+    "opcoes": [
+      "A) Primária, porque impede o primeiro AVC na população jovem.",
+      "B) Terciária, ao limitar incapacidades e complicações após agravo instalado, com reabilitação e manejo de crônico.",
+      "C) Secundária, pois o fisioterapeuta realiza rastreio de trombose em todo paciente neurológico.",
+      "D) Quaternária, já que proíbe o uso de medicamentos no pós-AVC."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Após dano neurológico estabelecido, reabilitação e prevenção de novas complicações caracterizam prevenção terciária.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: primária seria antes do primeiro evento; o enunciado trata sequelas.",
+      "B": "Correta: reabilitação e prevenção de complicações após sequela encaixam na terciária.",
+      "C": "Incorreta: rastreio sistemático genérico não define o caso; secundária seria detecção precoce da doença aguda, não fase de reabilitação.",
+      "D": "Incorreta: quaternária trata de reduzir intervenções desnecessárias, não de proibir farmacoterapia."
+    },
+    "explicacao": "Resumo: reduzir incapacidade e complicações após o agravo é prevenção terciária.\nA) INCORRETA. Confunde prevenção primária com reabilitação pós-evento.\nB) CORRETA. Coerente com manejo de sequelas e complicações crônicas.\nC) INCORRETA. Descreve secundária de forma inadequada ao contexto de sequelas.\nD) INCORRETA. Equívoco sobre quaternária e uso de medicamentos.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 718,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Equipe discute um paciente com HAS controlada por anos que, após estresse familiar prolongado, evolui com ansiedade e adesão irregular à dieta, embora ainda não haja lesão de órgão-alvo nova. Qual conceito melhor organiza essa narrativa no campo da APS/SUS?",
+    "opcoes": [
+      "A) Determinantes sociais da saúde limitam-se a indicadores genéticos hereditários sem relação com contexto.",
+      "B) O processo saúde-doença dispensa biografia; basta o diagnóstico atual para definir cuidado.",
+      "C) O processo saúde-doença descreve trajetória dinâmica na qual contexto, tempo e práticas de cuidado se somam — não se resume a “estar doente ou não”.",
+      "D) Vulnerabilidade programática exclui qualquer influência emocional ou familiar na adesão."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "O processo saúde-doença integra vida, contexto e transições de estado de saúde; olhar só o binário saudável/doença empobrece o cuidado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DSS tratam de condições de vida, trabalho e estrutura social, não só genética.",
+      "B": "Incorreta: ignora trajetória — exatamente o que o processo saúde-doença corrige.",
+      "C": "Correta: reflete definição do material (mudanças ao longo da vida; contexto importa).",
+      "D": "Incorreta: emoção e rede familiar dialogam com vulnerabilidade social/programática; a negação é falsa."
+    },
+    "explicacao": "Resumo: narrativa longitudinal e contextual ilustra o processo saúde-doença.\nA) INCORRETA. Reduz DSS aos genes.\nB) INCORRETA. Contraria o conceito de trajetória.\nC) CORRETA. Capta dinâmica e não-reducionismo ao binário saúde-doença.\nD) INCORRETA. Superestima exclusividade da programática e nega fatores legítimos.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 719,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Homem de 66 anos está assintomático; o filho insiste em repetir painel de anticorpos virais e ressonâncias “para garantir” sem nova suspeita clínica, enquanto o paciente já usa cinco medicamentos prescritos por especialistas diferentes. Qual postura exemplifica melhor a prevenção quaternária?",
+    "opcoes": [
+      "A) Evitar exames e terapias sem indicação clara e revisar polifarmácia para reduzir danos iatrogênicos.",
+      "B) Ampliar o rastreio com exames de alta complexidade em rotina, independentemente de risco individual.",
+      "C) Transferir o caso integralmente ao pronto-socorro para acelerar solicitações de imagem.",
+      "D) Suspender todo tratamento farmacológico independentemente de revisão, só para reduzir número de comprimidos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Prevenção quaternária visa reduzir intervenções desnecessárias, incluindo exames e medicamentos sem propósito claro revisado clinicamente.",
+    "explicacoes_opcoes": {
+      "A": "Correta: revisão de indicação e polifarmácia exemplifica quaternária.",
+      "B": "Incorreta: “rastreio indiscriminado” acentua medicalização — oposto da quaternária.",
+      "C": "Incorreta: encaminhar para urgência sem critério não resolve sobreutilização de exames.",
+      "D": "Incorreta: parar tudo sem critério clínico também é iatrogenia; quaternária é racionalização, não abstenção cega."
+    },
+    "explicacao": "Resumo: quaternária protege contra excesso diagnóstico e terapêutico.\nA) CORRETA. Conduta de racionalização alinha-se à definição da aula.\nB) INCORRETA. Promove excesso de investigação.\nC) INCORRETA. Não aborda o problema da medicalização desnecessária.\nD) INCORRETA. Conduta irresponsável; não equivale a revisão criteriosa.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 720,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Gestante de 34 anos mora em periferia sem saneamento regular, trabalha informalmente em jornada longa e só conseguiu iniciar pré-natal tardiamente. Qual fenômeno os determinantes sociais da saúde ajudam a explicar nesse tipo de trajetória?",
+    "opcoes": [
+      "A) Reduzem o tema à escolha puramente individual, dispensando políticas públicas.",
+      "B) Apontam somente fatores genéticos maternos que tornariam o pré-natal opcional.",
+      "C) Demonstram que desigualdade social é irrelevante quando a UBS está geograficamente próxima.",
+      "D) Mostram como condições de vida, trabalho e oportunidades geram gradientes de saúde ao longo da vida."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "DSS descrevem onde e como as pessoas vivem e trabalham; desigualdades produzem diferentes riscos e desfechos — tema central .",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DSS são estruturais; não substituem política pública nem justificam culpabilização.",
+      "B": "Incorreta: genética não esgota o atraso no pré-natal descrito; o enunciado traz trabalho, saneamento e informalidade.",
+      "C": "Incorreta: proximidade geográfica não apaga desigualdade material e barreiras vividas.",
+      "D": "Correta: alinha-se à definição de DSS e gradientes presentes no material."
+    },
+    "explicacao": "Resumo: moradia, saneamento, trabalho informal e cuidado tardio dialogam com DSS e gradientes.\nA) INCORRETA. Visão individualista incorreta.\nB) INCORRETA. Ignora estrutura social descrita.\nC) INCORRETA. Subestima desigualdade.\nD) CORRETA. Integra conceito de DSS e inequidades em saúde.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 721,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Agente comunitário relata que hipertensa evita retornos porque falta creche; a médica só ajusta dose sem registrar o impasse logístico. Em contraste com o enfoque ampliado da APS/SUS, qual lacuna assistencial aparece com mais clareza?",
+    "opcoes": [
+      "A) Reduzir o cuidado ao ajuste medicamentoso no consultório, sem incorporar território, barreiras e continuidade articulada com a equipe.",
+      "B) Fortalecimento indevido da atenção especializada hospitalar como porta de entrada única.",
+      "C) Priorizar mapas epidemiológicos em detrimento absoluto do sigilo de dados.",
+      "D) Transferência automática da responsabilidade clínica exclusivamente ao agente comunitário."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "O material contrapõe olhar restrito (só o sintoma ou a receita) ao enfoque ampliado (contexto, território, equipe). Ignorar creche e adesão espelha o primeiro padrão.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ausência de registro e articulação com o vivido mantém prática centrada no biomédico estreito.",
+      "B": "Incorreta: o caso é da APS/UBS, não da internação como núcleo da falha.",
+      "C": "Incorreta: não há menção a quebra de sigilo nem à prioridade de vigilância sobre ética.",
+      "D": "Incorreta: o problema não é “passar a batata” ao ACS, e sim não integrar informação e cuidado."
+    },
+    "explicacao": "Resumo: o enfoque ampliado exige território, equipe e reconhecimento de determinantes; ausência disso é lacuna clássica.\nA) CORRETA. Descreve olhar restrito ao prescritivo sem territorialização.\nB) INCORRETA. Desloca o eixo assistencial para hospital sem relação com o enunciado.\nC) INCORRETA. Tema de vigilância/sigilo não é o núcleo do caso.\nD) INCORRETA. Distrai com papel do ACS em vez da integração multiprofissional.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 722,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No período da Colônia e do Império brasileiro, a assistência à saúde não era estruturada como um sistema público de direito. Qual era o principal pilar de auxílio aos enfermos pobres e a lógica de intervenção estatal na época?",
+    "opcoes": [
+      "A) Rede unificada de hospitais provinciais com financiamento centralizado.",
+      "B) Previdência social baseada em montepios para agricultores.",
+      "C) Caridade religiosa (Santas Casas) e intervenções pontuais contra epidemias em áreas urbanas.",
+      "D) Sistema de saúde baseado no modelo de seguro social de Bismarck."
+    ],
+    "explicacao_geral": "O período pré-republicano foi marcado pela ausência de rede pública e pelo domínio do caráter filantrópico-religioso.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não havia rede unificada ou financiamento centralizado de saúde no Império.",
+      "B": "[INCORRETA] A previdência social só surgiria formalmente no século XX.",
+      "C": "[CORRETA] A **Assistência Filantrópica** das **Santas Casas** era o único suporte para os desassistidos. O Estado só intervinha em **Campanhas Sanitárias** verticais quando epidemias ameaçavam o comércio/portos.",
+      "D": "[INCORRETA] O modelo bismarckiano de seguro social só influenciaria o Brasil a partir de 1923."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 723,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A **Primeira República (1889-1930)** ficou marcada pelo modelo de **Campanhas Sanitárias**. Qual era o objetivo central desse modelo e sua principal crítica sociopolítica?",
+    "opcoes": [
+      "A) Controle de pandemias (Febre Amarela, Varíola) em centros urbanos e portos para proteger a economia, usando métodos muitas vezes autoritários.",
+      "B) Criação de uma rede de Atenção Primária no interior do país para erradicar o analfabetismo.",
+      "C) Universalização do acesso hospitalar para todos os trabalhadores rurais.",
+      "D) Descentralização da gestão da saúde para as prefeituras de pequeno porte."
+    ],
+    "explicacao_geral": "O higienismo da época visava a proteção do capital e do saneamento das áreas estratégicas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Enfoque Higienista** priorizava a saúde dos portos para garantir o comércio exportador. As campanhas eram verticais (de cima para baixo) e focalizadas, sem preocupação com o direito universal.",
+      "B": "[INCORRETA] A atenção primária só se consolidaria como política nacional décadas depois.",
+      "C": "[INCORRETA] O período foi marcado pela exclusão quase total do trabalhador rural.",
+      "D": "[INCORRETA] A gestão era extremamente centralizada e verticalizada na Capital Federal e estados fortes."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 724,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A **Lei Eloy Chaves (1923)** é considerada o marco inicial da previdência social no Brasil. Qual era o arranjo organizativo das **Caixas de Aposentadoria e Pensão (CAPS)** criadas nesse período?",
+    "opcoes": [
+      "A) Instituições públicas nacionais que cobriam todos os funcionários do Estado.",
+      "B) Entidades organizadas por empresa, geridas e financiadas por trabalhadores e empregadores do setor privado (ferroviários, portuários).",
+      "C) Um sistema de seguro desemprego financiado exclusivamente pelo governo federal.",
+      "D) Hospitais militares que atendiam civis indigentes em tempo de guerra."
+    ],
+    "explicacao_geral": "A Lei Eloy Chaves segmentou a proteção social pelo vínculo direto com a empresa empregadora.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] As CAPS eram privadas e ligadas a empresas específicas, não a um sistema nacional público.",
+      "B": "[CORRETA] As **CAPS** eram caixas fundadas dentro das **empresas**. Somente o trabalhador contribuinte daquela empresa teria direito à assistência, criando um modelo **meritocrático-contributivo** e segmentado.",
+      "C": "[INCORRETA] O financiamento era bipartido (trabalhador/empresa), sem participação direta do Tesouro Nacional na época.",
+      "D": "[INCORRETA] Não tem relação com o propósito previdenciário da Lei Eloy Chaves."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 725,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na transição para a **Era Vargas (anos 30)**, as CAPS deram lugar aos **Institutos de Aposentadoria e Pensão (IAPs)**. Qual foi a principal mudança estrutural ocorrida nessa transição?",
+    "opcoes": [
+      "A) A saúde deixou de ser vinculada ao trabalho e passou a ser um direito universal.",
+      "B) As empresas passaram a ser o único ente financiador da saúde.",
+      "C) O governo proibiu a assistência curativa, focando apenas em prevenção.",
+      "D) A organização deixou de ser por empresa e passou a ser por categoria profissional (comerciários, industriários), com gestão centralizada no Estado."
+    ],
+    "explicacao_geral": "A criação dos IAPs representou a estatização e a unificação por categorias da previdência social.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A saúde continuou estritamente vinculada ao trabalho formal até 1988.",
+      "B": "[INCORRETA] O financiamento tornou-se tripartite (Governo, Patrão, Empregado).",
+      "C": "[INCORRETA] O foco permaneceu curativo e previdenciário.",
+      "D": "[CORRETA] Os **IAPs** unificaram os trabalhadores por **Categoria Profissional** e sob o controle do **Estado**. Isso deu ao governo maior poder político e financeiro sobre as massas trabalhadoras urbanas."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 726,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O período do **Regime Militar (1964-1984)** foi marcado pela hegemonia do **INAMPS**. Qual era a principal característica desse modelo assistencial, que gerou profunda crise social e sanitária?",
+    "opcoes": [
+      "A) Priorização total da Atenção Primária e da prevenção no campo.",
+      "B) Modelo Hospitalocêntrico, focado na cura, alta tecnologia e compra de serviços do setor privado.",
+      "C) Estatização completa de todos os hospitais filantrópicos e privados.",
+      "D) Implementação de orçamentos participativos para decidir as prioridades de saúde."
+    ],
+    "explicacao_geral": "O modelo do INAMPS privilegiou o setor privado e o tratamento hospitalar em detrimento da saúde pública.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A prevenção e a saúde pública foram negligenciadas em favor do tratamento curativo.",
+      "B": "[CORRETA] O **Modelo Hospitalocêntrico** privilegiava o hospital como centro do cuidado. O Estado contratava massivamente o setor privado para realizar exames e cirurgias, gerando um custo alto com baixa efetividade populacional.",
+      "C": "[INCORRETA] Pelo contrário, o Regime Militar incentivou o crescimento do setor hospitalar privado através de contratos com a previdência.",
+      "D": "[INCORRETA] Durante a ditadura militar não havia espaços de participação social ou orçamentos participativos."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 727,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Até 1988, o sistema de saúde brasileiro era formalmente **Dicotômico**. O que significa esse conceito no contexto histórico da saúde pública brasileira?",
+    "opcoes": [
+      "A) Divisão entre saúde física e saúde mental como pastas separadas.",
+      "B) Distribuição igualitária de recursos entre cidades e áreas rurais.",
+      "C) Separação institucional entre Saúde Pública (campanhas/prevenção para todos) e Assistência Médica Previdenciária (curativa apenas para quem tinha carteira).",
+      "D) Alternância obrigatória de gestão entre militares e civis a cada dois anos."
+    ],
+    "explicacao_geral": "A dicotomia entre prevenir (Ministério da Saúde) e curar (Ministério da Previdência) era a marca do modelo pré-SUS.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não se refere à especialidade, mas à estrutura política.",
+      "B": "[INCORRETA] A realidade era de profunda desigualdade territorial.",
+      "C": "[CORRETA] Havia dois Brasis: o da **Previdência (Assistência Médica)** para quem pagava, e o da **Saúde Pública (Vigilância/Campanhas)** para o resto. O SUS unificou essas funções sob o comando único do Estado como direito universal.",
+      "D": "[INCORRETA] Afirmação sem fundamento histórico."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 728,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Analise o caso de um trabalhador rural do sertão nordestino em 1950, acometido por Malária. Para onde ele deveria recorrer para obter tratamento, já que não possuía carteira assinada nem vínculo formal?",
+    "opcoes": [
+      "A) A uma Santa Casa de Misericórdia (filantropia) ou a ações pontuais de campanhas sanitárias estaduais/federais.",
+      "B) Ao seu Instituto de Aposentadoria e Pensão (IAP) de trabalhador rural.",
+      "C) À Unidade Básica de Saúde (UBS) de seu bairro, exercendo seu direito universal.",
+      "D) Ao hospital do INAMPS mais próximo, apresentando seu comprovante de residência."
+    ],
+    "explicacao_geral": "O trabalhador rural era um dos grupos mais excluídos do modelo previdenciário brasileiro.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem vínculo formal, ele era considerado **Indigente**. Sua única opção era a **Caridade/Filantropia** religiosa ou ser beneficiado por uma **Campanha Sanitária** focalizada que estivesse atuando naquela região específica.",
+      "B": "[INCORRETA] Não existiam IAPs para trabalhadores rurais na época; a proteção era voltada ao urbano.",
+      "C": "[INCORRETA] Não existia rede de UBS nem direito universal em 1950.",
+      "D": "[INCORRETA] O INAMPS só seria criado nos anos 70 e ainda assim exigia vínculo formal para atendimento pleno."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 729,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Um operário de uma metalúrgica em 1975 sofre um acidente de trabalho. Ele possui carteira assinada e contribui mensalmente. Segundo o modelo vigente (INAMPS), como seria o seu percurso assistencial?",
+    "opcoes": [
+      "A) Seria atendido por uma equipe multiprofissional da ESF no território.",
+      "B) Teria acesso garantido ao hospital (provavelmente privado contratado pelo INAMPS) para cirurgia, com foco na recuperação funcional para o retorno ao trabalho.",
+      "C) Teria direito apenas a ervas medicinais fornecidas pelo sindicato.",
+      "D) Seria encaminhado para a Santa Casa por ser considerado indigente previdenciário."
+    ],
+    "explicacao_geral": "O trabalhador formal tinha direito a um modelo de saúde curativo e focalizado no hospital.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A ESF e a lógica de território são princípios do SUS (pós-1988/1994).",
+      "B": "[CORRETA] Por ter **Vínculo Formal**, ele era segurado do **INAMPS**. O atendimento seria centrado na **Alta Complexidade Curativa** (hospitalocêntrico), visando reabilitar a força de trabalho.",
+      "C": "[INCORRETA] Havia assistência médica tecnológica para segurados; o sindicato não era o gestor da saúde.",
+      "D": "[INCORRETA] Como contribuinte, ele não era considerado indigente, tendo direito aos serviços da previdência."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 731,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A **8ª Conferência Nacional de Saúde (1986)** é citada como o 'divisor de águas'. Qual foi a principal inovação deste evento para a história do SUS?",
+    "opcoes": [
+      "A) Foi a primeira conferência aberta à participação popular (sociedade civil), consolidando as bases da Reforma Sanitária.",
+      "B) Foi nela que se decidiu que a saúde no Brasil passaria a ser totalmente paga pelo cidadão.",
+      "C) Decretou que o Exército passaria a gerir todos os postos de saúde do país.",
+      "D) Aboliu o uso de vacinas em todo o território nacional."
+    ],
+    "explicacao_geral": "A 8ª CNS foi o marco de democracia participativa que gestou as diretrizes do SUS.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **8ª CNS** rompeu com o modelo de cúpula. Pela primeira vez, usuários, trabalhadores e gestores debateram juntos o conceito ampliado de saúde e o **Direito Universal**, que seriam inscritos na CF/88.",
+      "B": "[INCORRETA] A conferência defendeu justamente o oposto: saúde pública e gratuita.",
+      "C": "[INCORRETA] A conferência ocorreu no processo de redemocratização, defendendo o controle civil da saúde.",
+      "D": "[INCORRETA] Afirmação sem sentido; as conferências sempre reforçaram a ciência e o SUS."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 732,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A **8ª Conferência Nacional de Saúde (1986)** é considerada o marco zero do SUS. Qual foi a principal inovação democrática deste evento?",
+    "opcoes": [
+      "A) Pela primeira vez, a sociedade civil (usuários) participou ativamente das decisões ao lado de gestores e trabalhadores.",
+      "B) Foi a primeira vez que o governo militar proibiu a entrada de médicos na conferência.",
+      "C) Estabeleceu que a saúde passaria a ser um serviço privado obrigatório para todos.",
+      "D) Definiu que apenas militares poderiam votar as resoluções de saúde pública."
+    ],
+    "explicacao_geral": "A 8ª CNS rompeu o modelo de cúpula e trouxe o povo para o debate.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **8ª CNS** consolidou o conceito de 'Saúde como Direito' e a participação social, servindo de base para o texto constitucional de 1988.",
+      "B": "[INCORRETA] Pelo contrário, foi um espaço de abertura e diálogo plural.",
+      "C": "[INCORRETA] O foco foi o fortalecimento do sistema público e gratuito.",
+      "D": "[INCORRETA] A conferência foi o pilar da redemocratização na saúde."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 733,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "O movimento da **Reforma Sanitária Brasileira** defendia uma mudança profunda no conceito de saúde. Qual era essa mudança?",
+    "opcoes": [
+      "A) A saúde deveria focar apenas na ausência de doenças infecciosas.",
+      "B) A saúde deveria ser centralizada no Ministério da Previdência Social.",
+      "C) Saúde como um conceito ampliado, resultante das condições de vida, trabalho, lazer e alimentação.",
+      "D) Saúde como uma mercadoria que deve ser regulada pelo mercado livre."
+    ],
+    "explicacao_geral": "A Reforma Sanitária propôs o 'Conceito Ampliado de Saúde'.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Isso é o conceito biomédico restrito, que o movimento combatia.",
+      "B": "[INCORRETA] O movimento queria unificar o sistema e tirar o caráter apenas previdenciário.",
+      "C": "[CORRETA] Este é o **Conceito Ampliado**, que entende que a saúde depende de fatores sociais e econômicos (determinantes sociais).",
+      "D": "[INCORRETA] O movimento via a saúde como direito social, oposto à lógica de mercado."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 734,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Durante a **Nova República**, antes da CF/88, qual estratégia foi criada para unificar as ações de saúde e começar a descentralização?",
+    "opcoes": [
+      "A) A criação do INAMPS.",
+      "B) As SUDS (Sistemas Unificados e Descentralizados de Saúde).",
+      "C) A Lei Eloy Chaves.",
+      "D) O Programa Mais Médicos."
+    ],
+    "explicacao_geral": "O SUDS foi o 'ensaio geral' para o SUS.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O INAMPS era o modelo antigo (ditadura) que se queria reformar.",
+      "B": "[CORRETA] O **SUDS** representou o repasse de verbas e responsabilidades do INAMPS para os Estados, antecipando o SUS.",
+      "C": "[INCORRETA] É de 1923, muito anterior.",
+      "D": "[INCORRETA] É uma política contemporânea (2013)."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 735,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Qual o principal artigo da **Constituição Federal de 1988** que define a saúde como 'direito de todos e dever do Estado'?",
+    "opcoes": [
+      "A) Artigo 5º.",
+      "B) Artigo 144.",
+      "C) Artigo 1º.",
+      "D) Artigo 196."
+    ],
+    "explicacao_geral": "O Art. 196 é a certidão de nascimento jurídica do SUS.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Refere-se a direitos fundamentais gerais, não especificamente à saúde.",
+      "B": "[INCORRETA] Refere-se à segurança pública.",
+      "C": "[INCORRETA] Trata dos fundamentos da República.",
+      "D": "[CORRETA] O **Artigo 196** é o pilar que garante a universalidade e a responsabilidade estatal pela saúde."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 736,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um grupo de moradores reclama que não há saneamento básico na Vila, gerando focos de dengue. Sob a luz da **Reforma Sanitária**, qual a resposta técnica correta?",
+    "opcoes": [
+      "A) O saneamento é parte integrante da saúde e deve ser pauta da gestão municipal do SUS.",
+      "B) A saúde só deve tratar a febre; o esgoto é problema exclusivo da engenharia.",
+      "C) Os moradores devem pagar pelo asfalto para terem direito à saúde.",
+      "D) O SUS não tem responsabilidade sobre doenças causadas pelo ambiente."
+    ],
+    "explicacao_geral": "A Reforma Sanitária vincula ambiente e saúde de forma indissociável.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Conceito Ampliado** exige que o gestor de saúde atue sobre os determinantes, como o saneamento, para prevenir doenças.",
+      "B": "[INCORRETA] Essa é la visão curativa superada pela reforma.",
+      "C": "[INCORRETA] O SUS é gratuito e o direito à saúde é incondicional.",
+      "D": "[INCORRETA] O SUS atua em Vigilância Ambiental exatamente por esse motivo."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 737,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A Constituição de 1988 estabeleceu que o setor privado poderia participar do SUS de que forma?",
+    "opcoes": [
+      "A) Como dono exclusivo do sistema, recebendo lucro do governo.",
+      "B) De forma proibida; não existe medicina privada no Brasil pós-1988.",
+      "C) De forma complementar, com preferência para entidades filantrópicas e sem fins lucrativos.",
+      "D) De forma aleatória, sem necessidade de contratos ou regras."
+    ],
+    "explicacao_geral": "A participação privada no SUS é permitida, mas sob regência pública.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS é público; o privado não é dono.",
+      "B": "[INCORRETA] A iniciativa privada é livre para existir paralelamente ao SUS.",
+      "C": "[CORRETA] O setor privado pode ser contratado pelo SUS quando a rede pública é insuficiente, devendo seguir as regras do sistema público.",
+      "D": "[INCORRETA] É necessário contrato público e obediência aos princípios do SUS."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 738,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Analise a situação: Em 1987, um gestor estadual recebe verbas federais para gerir hospitais que antes eram do INAMPS. Esse processo de transferência de poder para o estado descreve:",
+    "opcoes": [
+      "A) A centralização da ditadura militar.",
+      "B) A implementação do SUDS (descentralização antecipada).",
+      "C) A privatização da saúde nacional.",
+      "D) A criação dos planos de saúde privados."
+    ],
+    "explicacao_geral": "O SUDS transferiu a 'máquina' do INAMPS para os estados.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A ditadura centralizava; o SUDS descentralizava.",
+      "B": "[CORRETA] O SUDS foi a ponte entre o modelo previdenciário e o SUS, dando autonomia aos estados e municípios.",
+      "C": "[INCORRETA] Pelo contrário, fortalecia a gestão pública.",
+      "D": "[INCORRETA] Planos de saúde existem, mas não são o foco dessa transferência de gestão."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 739,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O lema 'Saúde é democracia e democracia é saúde' foi o símbolo de qual momento histórico?",
+    "opcoes": [
+      "A) 8ª Conferência Nacional de Saúde.",
+      "B) Inauguração da primeira Santa Casa.",
+      "C) Assinatura da Lei Eloy Chaves.",
+      "D) Criação do Ministério da Saúde em 1953."
+    ],
+    "explicacao_geral": "A saúde foi a vanguarda da redemocratização do Brasil.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O lema resume a ideia de que sem democracia não há saúde plena, pois o povo deve participar das decisões.",
+      "B": "[INCORRETA] As Santas Casas são do período colonial/imperial.",
+      "C": "[INCORRETA] Foi um marco previdenciário, mas sem o viés democrático moderno.",
+      "D": "[INCORRETA] Foi um marco administrativo, mas ainda num modelo centralizador."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 740,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A Constituição Federal de 1988 incluiu a saúde em qual capítulo maior da organização social?",
+    "opcoes": [
+      "A) Capítulo da Defesa Nacional.",
+      "B) Capítulo da Segurança Pública.",
+      "C) Capítulo da Seguridade Social (junto com Previdência e Assistência).",
+      "D) Capítulo do Comércio e Indústria."
+    ],
+    "explicacao_geral": "Saúde é um dos três pilares da Seguridade Social brasileira.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Saúde não é defesa militar.",
+      "B": "[INCORRETA] Embora relacionada, a saúde tem capítulo próprio na Seguridade.",
+      "C": "[CORRETA] O tripé da **Seguridade Social** é: Saúde (universal), Previdência (contributiva) e Assistência (para quem necessita).",
+      "D": "[INCORRETA] Saúde não é classificada como comércio na CF/88."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 741,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na transição para o SUS, o que aconteceu com o antigo INAMPS?",
+    "opcoes": [
+      "A) Tornou-se um banco privado.",
+      "B) Foi transformado no Ministério da Educação.",
+      "C) Continuou existindo paralelamente ao SUS até os dias de hoje.",
+      "D) Teve sua estrutura absorvida pelo Ministério da Saúde e pelas secretarias estaduais/municipais de saúde."
+    ],
+    "explicacao_geral": "O SUS unificou a gestão que antes era dividida.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Invenção sem base histórica.",
+      "B": "[INCORRETA] A estrutura foi para a saúde.",
+      "C": "[INCORRETA] O INAMPS foi extinto formalmente nos anos 90.",
+      "D": "[CORRETA] A unificação de recursos e hospitais foi o grande passo para o Comando Único do SUS."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 742,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No SUS, os princípios são divididos em **Doutrinários (Éticos)** e **Organizativos**. Qual das alternativas apresenta apenas princípios **Organizativos**?",
+    "opcoes": [
+      "A) Descentralização, Regionalização e Hierarquização.",
+      "B) Universalidade, Equidade e Integralidade.",
+      "C) Integralidade, Hierarquização e Universalidade.",
+      "D) Equidade, Descentralização e Regionalização."
+    ],
+    "explicacao_geral": "Doutrinários dizem 'o que o SUS é'; Organizativos dizem 'como o SUS se mexe'.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Estes são os princípios de **Engrenagem**: a gestão é **Descentralizada** (para o município), a rede é **Regionalizada** (por território) e o fluxo é **Hierarquizado** (da UBS para o Hospital).",
+      "B": "[INCORRETA] Estes são os princípios **Doutrinários** (os valores éticos do sistema).",
+      "C": "[INCORRETA] Integralidade e Universalidade são Doutrinários.",
+      "D": "[INCORRETA] Equidade é Doutrinário."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 742,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Segundo a Lei nº 8.080/1990, o princípio da universalidade implica que:",
+    "opcoes": [
+      "A) Todos têm direito ao acesso integral às ações e serviços de saúde.",
+      "B) Apenas segurados de planos privados utilizam o SUS.",
+      "C) O acesso é restrito a quem comprova pagamento de taxas municipais.",
+      "D) Somente gestantes e crianças integram o sistema."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Universalidade é pilar doutrinário da Lei 8.080.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Definição canônica do princípio.",
+      "B": "Incorreta: SUS é público e universal; plano não é requisito.",
+      "C": "Incorreta: Acesso universal não se condiciona a taxa comercial.",
+      "D": "Incorreta: Sistema abrange toda a população."
+    },
+    "explicacao": "Resumo: Universalidade é pilar doutrinário da Lei 8.080.\nA) CORRETA. Correta: Definição canônica do princípio.\nB) INCORRETA. Incorreta: SUS é público e universal; plano não é requisito.\nC) INCORRETA. Incorreta: Acesso universal não se condiciona a taxa comercial.\nD) INCORRETA. Incorreta: Sistema abrange toda a população.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 743,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "O princípio da **Equidade** é frequentemente confundido com Igualdade. No contexto do SUS, a Equidade prega que:",
+    "opcoes": [
+      "A) Todos devem receber exatamente o mesmo número de consultas por ano.",
+      "B) Os ricos devem pagar pelo atendimento dos mais pobres dentro do hospital público.",
+      "C) Deve-se oferecer mais recursos e atenção a quem possui maiores necessidades e riscos sociais ou clínicos.",
+      "D) O governo deve sortear as vagas de cirurgia para garantir que todos tenham a mesma chance."
+    ],
+    "explicacao_geral": "Equidade é justiça social: dar mais a quem tem menos ou precisa de mais cuidado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Isso seria igualdade formal, o que pode gerar injustiça (quem está morrendo precisa de mais que quem tem um resfriado).",
+      "B": "[INCORRETA] O financiamento é por impostos, não por cobrança direta no serviço.",
+      "C": "[CORRETA] A **Equidade** é o 'tratamento desigual dos desiguais'. Exemplos: priorizar um paciente com câncer em relação a um com uma cirurgia estética, ou investir mais em bairros com piores índices de saneamento.",
+      "D": "[INCORRETA] O sorteio ignora a necessidade clínica, ferindo a ética médica e do SUS."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 743,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "A Lei nº 8.142/1990 tem como foco típico de prova:",
+    "opcoes": [
+      "A) Somente critérios de internação hospitalar.",
+      "B) Participação da comunidade, conferências e conselhos de saúde e regras de transferência de recursos.",
+      "C) Definição exclusiva de protocolos de antibiótico.",
+      "D) Regulamentação de planos de saúde exclusivamente privados."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "8.142 normatiza controle social e instrumentos participativos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Internação é eixo da 8.080, não exclusivo da 8.142.",
+      "B": "Correta: Converge com o título da lei.",
+      "C": "Incorreta: Assistência farmacológica não é núcleo da 8.142.",
+      "D": "Incorreta: 8.142 não substitui a ANS; foco é participação e pactuação."
+    },
+    "explicacao": "Resumo: 8.142 normatiza controle social e instrumentos participativos.\nA) INCORRETA. Incorreta: Internação é eixo da 8.080, não exclusivo da 8.142.\nB) CORRETA. Correta: Converge com o título da lei.\nC) INCORRETA. Incorreta: Assistência farmacológica não é núcleo da 8.142.\nD) INCORRETA. Incorreta: 8.142 não substitui a ANS; foco é participação e pactuação.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 744,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um turista francês, de férias no Rio de Janeiro, sofre um acidente de trânsito e é levado pelo SAMU a um Hospital Municipal. O hospital deve cobrar pelo atendimento?",
+    "opcoes": [
+      "A) Sim, pois ele não é cidadão brasileiro e não paga impostos no Brasil.",
+      "B) Não, pois o princípio da Universalidade garante acesso a qualquer pessoa em território nacional, independentemente de nacionalidade ou contribuição.",
+      "C) Sim, mas apenas se ele não tiver um seguro de viagem internacional.",
+      "D) Não, mas os órgãos de saúde franceses deverão reembolsar o SUS obrigatoriamente."
+    ],
+    "explicacao_geral": "A Universalidade do SUS é incondicional ao cidadão que está no solo brasileiro.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS não exige cidadania formal para o atendimento de urgência ou eletivo.",
+      "B": "[CORRETA] O **Artigo 196 da CF/88** define o direito à saúde de forma universal. No SUS, a **Universalidade** garante que qualquer humano em solo brasileiro seja atendido gratuitamente.",
+      "C": "[INCORRETA] O seguro pode ser usado em rede privada, mas o SUS não condiciona o atendimento à sua existência.",
+      "D": "[INCORRETA] Embora existam acordos internacionais, o atendimento no ponto de serviço é gratuito e sem cobrança imediata ao paciente."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 744,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Equidade no SUS, diferencia-se de igualdade formal porque:",
+    "opcoes": [
+      "A) Ignora desigualdades históricas.",
+      "B) Trata todos exatamente igual mesmo com necessidades diferentes.",
+      "C) Exige ponderar desigualdades e diferenciar intervenções para tornar o acesso efetivo.",
+      "D) Restringe atendimento a quem tem maior renda."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Equidade corrige desigualdades; igualdade “cega” pode perpetuar injustiça.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Equidade supõe olhar às desigualdades.",
+      "B": "Incorreta: Isso descreve igualdade formal; equidade ajusta pelo grau de necessidade.",
+      "C": "Correta: Tratar desigualmente os desiguais na extensão da desigualdade.",
+      "D": "Incorreta: Princípio não privilegia renda, mas necessidade."
+    },
+    "explicacao": "Resumo: Equidade corrige desigualdades; igualdade “cega” pode perpetuar injustiça.\nA) INCORRETA. Incorreta: Equidade supõe olhar às desigualdades.\nB) INCORRETA. Incorreta: Isso descreve igualdade formal; equidade ajusta pelo grau de necessidade.\nC) CORRETA. Correta: Tratar desigualmente os desiguais na extensão da desigualdade.\nD) INCORRETA. Incorreta: Princípio não privilegia renda, mas necessidade.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 745,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "De acordo com a **Lei nº 8.142/1990**, para que um município possa receber recursos do Fundo Nacional de Saúde (repasses fundo a fundo), ele deve obrigatoriamente possuir:",
+    "opcoes": [
+      "A) Pelo menos um hospital de nível terciário com 100 leitos.",
+      "B) Convênio assinado com pelo menos cinco planos de saúde privados.",
+      "C) Um médico concursado para cada 1.000 habitantes.",
+      "D) Fundo de Saúde, Conselho de Saúde, Plano de Saúde e Relatórios de Gestão."
+    ],
+    "explicacao_geral": "Existem critérios de gestão básicos que o município precisa cumprir para ter autonomia financeira.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Municípios pequenos podem ter apenas APS e receber recursos.",
+      "B": "[INCORRETA] O SUS é público e não depende de convênios privados para receber sua própria verba.",
+      "C": "[INCORRETA] Embora o RH seja importante, não é o critério de repasse direto definido na lei.",
+      "D": "[CORRETA] A **Lei 8.142** exige a estrutura de gestão: **Fundo** (conta bancária), **Conselho** (participação), **Plano** (estratégia) e **Relatório** (prestação de contas)."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 745,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Integralidade, entre os princípios doutrinários do SUS (Lei 8.080), significa:",
+    "opcoes": [
+      "A) Cobrir apenas consultas médicas ambulatoriais.",
+      "B) Limitar-se a vacinação e puericultura.",
+      "C) Assistência fragmentada apenas no território central da capital.",
+      "D) Abranger promoção, prevenção, tratamento e reabilitação, sem reduzir a saúde ao episódio agudo."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Integralidade completa o cuidado ao longo do necessário, não só um nível assistencial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: APS é mais que consulta; integralidade inclui outros níveis e ações.",
+      "B": "Incorreta: Vacinas são parte, não o todo.",
+      "C": "Incorreta: Integralidade não é “espacialidade apenas”.",
+      "D": "Correta: Ciclo completo do cuidado em saúde."
+    },
+    "explicacao": "Resumo: Integralidade completa o cuidado ao longo do necessário, não só um nível assistencial.\nA) INCORRETA. Incorreta: APS é mais que consulta; integralidade inclui outros níveis e ações.\nB) INCORRETA. Incorreta: Vacinas são parte, não o todo.\nC) INCORRETA. Incorreta: Integralidade não é “espacialidade apenas”.\nD) CORRETA. Correta: Ciclo completo do cuidado em saúde.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 746,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A **Atenção Primária à Saúde (APS)** é descrita como a 'coordenadora do cuidado' e a 'ordenadora da rede'. Na prática do sistema **Hierarquizado**, isso significa que:",
+    "opcoes": [
+      "A) O paciente deve obrigatoriamente ir ao hospital primeiro e depois ser 'baixado' para o posto de saúde.",
+      "B) Somente o médico da UBS pode carimbar receitas de remédios controlados.",
+      "C) A UBS deve ser a porta de entrada preferencial, resolvendo a maioria dos casos e encaminhando para especialistas apenas o que for de maior complexidade.",
+      "D) O paciente tem o direito de escolher qual especialista quer visitar, bastando marcar diretamente no hospital sem passar pelo posto."
+    ],
+    "explicacao_geral": "A Hierarquização organiza o fluxo para que os hospitais não fiquem superlotados com casos simples.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É o contrário: o fluxo sobe da complexidade menor para a maior.",
+      "B": "[INCORRETA] Médicos especialistas também têm essa competência.",
+      "C": "[CORRETA] A **Hierarquização** otimiza recursos. A **APS** filtra as demandas, sendo resolutiva em 80-90% dos casos. Quando o caso exige tecnologia que a UBS não tem, ela encaminha de forma organizada via regulação.",
+      "D": "[INCORRETA] Isso é o 'modelo de livre escolha' dos planos privados, que no SUS geraria caos e filas desorganizadas."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 746,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "O art. 196 da CF/88 estabelece a saúde como direito de todos e dever do Estado, a ser garantido mediante políticas que visem, entre outros fins, a:",
+    "opcoes": [
+      "A) Redução do risco de doença e outros agravos e acesso universal e igualitário às ações de promoção, proteção e recuperação da saúde.",
+      "B) Privatização obrigatória de todos os hospitais públicos.",
+      "C) Exclusão de ações de prevenção do SUS.",
+      "D) Centralização da vigilância apenas em laboratório federal único."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Art. 196 sintetiza direito social e deveres correlatos de política pública.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Alinha-se à redação constitucional típica de prova.",
+      "B": "Incorreta: CF admite complementaridade privada limitada; não privatização oblíqua total.",
+      "C": "Incorreta: Prevenção é parte do dever estatal.",
+      "D": "Incorreta: Vigilância é compartilhada federativamente."
+    },
+    "explicacao": "Resumo: Art. 196 sintetiza direito social e deveres correlatos de política pública.\nA) CORRETA. Correta: Alinha-se à redação constitucional típica de prova.\nB) INCORRETA. Incorreta: CF admite complementaridade privada limitada; não privatização oblíqua total.\nC) INCORRETA. Incorreta: Prevenção é parte do dever estatal.\nD) INCORRETA. Incorreta: Vigilância é compartilhada federativamente.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 747,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Considerando as atribuições do SUS definidas na **Lei 8.080/1990**, assinale a alternativa que apresenta um campo de atuação que **também** é de responsabilidade do sistema, além da assistência médica:",
+    "opcoes": [
+      "A) Gestão do sistema de transporte público urbano.",
+      "B) Vigilância Sanitária e execução de ações de Saúde do Trabalhador.",
+      "C) Fiscalização de transações bancárias e seguros de vida.",
+      "D) Controle de preços de imóveis em áreas de risco de inundação."
+    ],
+    "explicacao_geral": "O SUS é muito mais que postos e hospitais; ele vigia o que comemos e onde trabalhamos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Responsabilidade de secretarias de transporte/obras.",
+      "B": "[CORRETA] A **Lei 8.080** expande o conceito de saúde. O SUS é responsável pela **Vigilância Sanitária** (alimentos, cosméticos, medicamentos) e pela **Saúde do Trabalhador** (prevenção de doenças ocupacionais).",
+      "C": "[INCORRETA] Responsabilidade do Banco Central e órgãos de seguros.",
+      "D": "[INCORRETA] Responsabilidade da Defesa Civil e Planejamento Urbano."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 747,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Em um município, acontece periodicamente assembleia ampla que elabora propostas para a saúde, enquanto outro colegiado fiscaliza execução e pactua metas ao longo do ano. Esse arranjo aproxima-se, respectivamente, de:",
+    "opcoes": [
+      "A) Conselho de ética médica e core bancário.",
+      "B) Conferência de saúde (debate ampliado) e conselho de saúde (deliberação/fiscalização continuada).",
+      "C) Comissão de internação e tribunal regional.",
+      "D) Apenas marketing institucional sem legitimidade."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "8.142 distingue conferência periódica de conselho permanente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Órgãos assistenciais não substituem instâncias de participação.",
+      "B": "Correta: Conferência mobiliza periodicamente; conselho é permanente.",
+      "C": "Incorreta: Internação e judiciário não são os instrumentos citados.",
+      "D": "Incorreta: Há base legal para participação social, não mero marketing."
+    },
+    "explicacao": "Resumo: 8.142 distingue conferência periódica de conselho permanente.\nA) INCORRETA. Incorreta: Órgãos assistenciais não substituem instâncias de participação.\nB) CORRETA. Correta: Conferência mobiliza periodicamente; conselho é permanente.\nC) INCORRETA. Incorreta: Internação e judiciário não são os instrumentos citados.\nD) INCORRETA. Incorreta: Há base legal para participação social, não mero marketing.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 748,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Dois pacientes aguardam em um pronto-atendimento. O paciente A tem 70 anos e dor torácica intensa; o paciente B tem 20 anos e uma escoriação leve no braço. O enfermeiro da triagem prioriza o atendimento do paciente A. Qual princípio do SUS está sendo aplicado?",
+    "opcoes": [
+      "A) Equidade clínica (atendimento conforme a gravidade/risco).",
+      "B) Igualdade formal (deveria ser por ordem de chegada).",
+      "C) Descentralização administrativa.",
+      "D) Regionalização assistencial."
+    ],
+    "explicacao_geral": "O risco clínico é um critério de equidade: casos graves precisam de rapidez maior que casos leves.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Ao priorizar quem tem maior risco de morte ou complicação, aplica-se a **Equidade**. Trata-se de dar respostas diferentes a necessidades de saúde diferentes.",
+      "B": "[INCORRETA] Ordem de chegada rigorosa em saúde pode causar mortes evitáveis e é antiética em urgências.",
+      "C": "[INCORRETA] Não tem relação com a distribuição de poder entre governos.",
+      "D": "[INCORRETA] Não tem relação com a divisão geográfica da saúde."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 748,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Homem de 60 anos com dor torácica estável é encaminhado direto ao pronto-socorro de hospital terciário sem passar pela UBS, sem critério de urgência e sem registro na APS. Sob a lógica do SUS, isso ilustra principalmente:",
+    "opcoes": [
+      "A) Uso adequado obrigatório da alta complexidade.",
+      "B) Fortalecimento automático da APS.",
+      "C) Desrespeito à hierarquização e à resolutividade na porta de entrada.",
+      "D) Exclusão necessária da regionalização."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "O sistema pressupõe APS como coordenadora e uso ordenado dos níveis de atenção.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Alta complexidade sem critério prejudica equidade e fluxo.",
+      "B": "Incorreta: Saltar a APS fragiliza coordenação.",
+      "C": "Correta: Hierarquia e referência/contrarreferência são princípios organizativos.",
+      "D": "Incorreta: Regionalização é instrumento de organização, não algo a “excluir”."
+    },
+    "explicacao": "Resumo: O sistema pressupõe APS como coordenadora e uso ordenado dos níveis de atenção.\nA) INCORRETA. Incorreta: Alta complexidade sem critério prejudica equidade e fluxo.\nB) INCORRETA. Incorreta: Saltar a APS fragiliza coordenação.\nC) CORRETA. Correta: Hierarquia e referência/contrarreferência são princípios organizativos.\nD) INCORRETA. Incorreta: Regionalização é instrumento de organização, não algo a “excluir”.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 749,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na reunião do **Conselho Nacional de Saúde**, ocorreu um impasse sobre a aprovação do relatório de gestão. O representante dos usuários votou contra, enquanto o representante dos gestores votou a favor. Qual é a característica do voto de um conselheiro?",
+    "opcoes": [
+      "A) O voto dos usuários vale o dobro por causa da paridade.",
+      "B) O voto do gestor sempre desempata as decisões.",
+      "C) Conselheiro não vota; ele apenas sugere ideias para o Secretário assinar.",
+      "D) O Conselho é uma instância Deliberativa, o que significa que seus membros decidem por votação e o resultado deve ser cumprido pelo gestor."
+    ],
+    "explicacao_geral": "Os Conselhos de Saúde têm poder real de decisão sobre as políticas de saúde.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A paridade é no número de cadeiras (50%), mas cada voto é individual e unitário.",
+      "B": "[INCORRETA] Não há tal regra de desempate automático na legislação federal.",
+      "C": "[INCORRETA] Essa seria uma instância puramente consultiva, o que o Conselho não é.",
+      "D": "[CORRETA] O caráter **Deliberativo** (Lei 8.142) confere ao Conselho o poder de aprovar ou rejeitar planos, contas e estratégias. O gestor (Secretário/Ministro) é quem preside, mas a vontade do colegiado deve ser homologada."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 749,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Qual diploma legal institui o Sistema Único de Saúde (SUS) no plano federal, segundo a aula?",
+    "opcoes": [
+      "A) Decreto municipal modelo.",
+      "B) Portaria ministerial exclusivamente administrativa.",
+      "C) Medida provisória de caráter trabalhista.",
+      "D) Lei nº 8.080, de 19 de setembro de 1990."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Lei 8.080 é a “lei-mãe” do desenho do SUS.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Base legal federal do SUS não é decreto local.",
+      "B": "Incorreta: Portaria não substitui a lei orgânica de criação.",
+      "C": "Incorreta: MP trabalhista não institui o SUS.",
+      "D": "Correta: Data e número memorizáveis de prova."
+    },
+    "explicacao": "Resumo: Lei 8.080 é a “lei-mãe” do desenho do SUS.\nA) INCORRETA. Incorreta: Base legal federal do SUS não é decreto local.\nB) INCORRETA. Incorreta: Portaria não substitui a lei orgânica de criação.\nC) INCORRETA. Incorreta: MP trabalhista não institui o SUS.\nD) CORRETA. Correta: Data e número memorizáveis de prova.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 750,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O princípio da **Regionalização** visa organizar o SUS de forma que um grupo de municípios próximos compartilhe infraestrutura. O objetivo central dessa estratégia é:",
+    "opcoes": [
+      "A) Facilitar a cobrança de IPTU dos moradores.",
+      "B) Garantir escala para serviços especializados (ex: hemodiálise) que um município pequeno sozinho não conseguiria manter.",
+      "C) Impedir que pacientes de um município entrem em outro para serem atendidos.",
+      "D) Reduzir o número de postos de saúde para economizar luz e água."
+    ],
+    "explicacao_geral": "Nem toda cidade pode ter um hospital de transplante; por isso as cidades se unem em regiões.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] IPTU é tributo municipal sem relação com a regionalização do SUS.",
+      "B": "[CORRETA] A **Regionalização** cria as 'Regiões de Saúde'. Um município pequeno cuida da APS, mas o hospital de referência atende toda a região, garantindo eficiência financeira e tecnológica.",
+      "C": "[INCORRETA] O SUS é universal; regionalização serve para organizar e não para barrar acesso.",
+      "D": "[INCORRETA] Ao contrário, a regionalização visa ampliar o acesso de forma inteligente."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 750,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Regionalização, como princípio organizativo do SUS, objetiva principalmente:",
+    "opcoes": [
+      "A) Organizar o cuidado em regiões de saúde, planejando oferta e reduzindo improviso e superlotação.",
+      "B) Impedir encaminhamentos entre municípios.",
+      "C) Substituir a APS por hospitais exclusivamente.",
+      "D) Eliminar conselhos de saúde."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Regionalização articula território, leitos e transporte sanitário.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Planejamento por região para coerência assistencial.",
+      "B": "Incorreta: Referência entre serviços permanece necessária.",
+      "C": "Incorreta: APS segue como porta de entrada preferencial.",
+      "D": "Incorreta: Participação social não é suprimida por regionalizar."
+    },
+    "explicacao": "Resumo: Regionalização articula território, leitos e transporte sanitário.\nA) CORRETA. Correta: Planejamento por região para coerência assistencial.\nB) INCORRETA. Incorreta: Referência entre serviços permanece necessária.\nC) INCORRETA. Incorreta: APS segue como porta de entrada preferencial.\nD) INCORRETA. Incorreta: Participação social não é suprimida por regionalizar.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 751,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Considerando a **Hierarquização**, qual nível de atenção é considerado o ordenador dos fluxos e responsável por garantir a continuidade do cuidado?",
+    "opcoes": [
+      "A) Atenção Terciária (Hospitais de Alta Complexidade).",
+      "B) Atenção Secundária (Ambulatórios de Especialidades).",
+      "C) Atenção Primária à Saúde (UBS e Estratégia Saúde da Família).",
+      "D) Unidades de Pronto Atendimento (UPAs)."
+    ],
+    "explicacao_geral": "A UBS conhece o paciente e sabe para onde e por que ele deve ser encaminhado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Hospitais são pontos finais/específicos da rede, não ordenadores.",
+      "B": "[INCORRETA] Especialidades resolvem problemas pontuais e retornam o paciente para a base.",
+      "C": "[CORRETA] A **Atenção Primária (APS)** detém o prontuário do paciente e o acompanha ao longo do tempo. Por isso, ela é quem deve dizer se o paciente precisa subir de nível ou se pode ser resolvido na base.",
+      "D": "[INCORRETA] UPAs resolvem urgências agudas, mas não ordenam o fluxo longitudinal do cuidado preventivo."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 751,
+    "materia": "sus",
+    "tema": "sus_a9",
+    "enunciado": "Na distinção pedagógica do material, “universalidade” e “equidade” relacionam-se assim:",
+    "opcoes": [
+      "A) Universalidade é só para quem reside em capitais.",
+      "B) Universalidade garante acesso a todos; equidade ajusta recursos segundo necessidades para efetivar o direito.",
+      "C) Equidade dispensa o público universal.",
+      "D) São sinônimos intercambiáveis em qualquer banca."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Universalidade abarca todos; equidade corrige desigualdades de necessidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Universalidade não tem recorte só capitalino.",
+      "B": "Correta: Combinação canônica de princípios doutrinários.",
+      "C": "Incorreta: Equidade operacionaliza universalidade, não a substitui.",
+      "D": "Incorreta: Conceitos são complementares, não idênticos."
+    },
+    "explicacao": "Resumo: Universalidade abarca todos; equidade corrige desigualdades de necessidade.\nA) INCORRETA. Incorreta: Universalidade não tem recorte só capitalino.\nB) CORRETA. Correta: Combinação canônica de princípios doutrinários.\nC) INCORRETA. Incorreta: Equidade operacionaliza universalidade, não a substitui.\nD) INCORRETA. Incorreta: Conceitos são complementares, não idênticos.",
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 752,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O **Pacto pela Saúde (2006)** substituiu o modelo anterior de habilitações (NOBs e NOAS). Ele é composto por três componentes fundamentais:",
+    "opcoes": [
+      "A) Pacto pela Atenção Básica, Pacto Hospitalar e Pacto de Vigilância.",
+      "B) Pacto pela Vida, Pacto em Defesa do SUS e Pacto de Gestão.",
+      "C) Pacto Financeiro, Pacto Territorial e Pacto Político.",
+      "D) Pacto de Humanização, Pacto de Medicamentos e Pacto de Consultas."
+    ],
+    "explicacao_geral": "O Pacto 2006 simplificou a gestão.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Áreas de atuação, não componentes do pacto.",
+      "B": "[CORRETA] **Pela Vida** (metas), **Defesa do SUS** (política) e **Gestão** (organização).",
+      "C": "[INCORRETA] Nomes extra-oficiais.",
+      "D": "[INCORRETA] Políticas específicas, não pilares do pacto."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 753,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual das alternativas apresenta prioridades originais do **Pacto pela Vida**?",
+    "opcoes": [
+      "A) Saúde do Idoso, Câncer de Colo e Mama, e Mortalidade Infantil e Materna.",
+      "B) Saúde Ocular, Transplantes e Cirurgias Plásticas.",
+      "C) Saúde Mental, Atenção Terciária e Redução de Filas.",
+      "D) Saúde do Homem, Combate à Obesidade e Saúde Escolar."
+    ],
+    "explicacao_geral": "O Pacto pela Vida definiu focos sanitários claros.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Prioridades: Idoso, Câncer, Materno-Infantil, Endemias, Promoção e APS.",
+      "B": "[INCORRETA] Não eram prioridades iniciais.",
+      "C": "[INCORRETA] Foco posterior.",
+      "D": "[INCORRETA] Políticas posteriores."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 754,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O problema de verbas fragmentadas em centenas de contas foi resolvido por qual inovação do **Pacto de Gestão**?",
+    "opcoes": [
+      "A) Devolução da verba ao Estado.",
+      "B) Cobrança de taxas dos usuários.",
+      "C) Extinção do Fundo Municipal.",
+      "D) Criação dos Blocos de Financiamento (unificação de repasses)."
+    ],
+    "explicacao_geral": "Os blocos deram autonomia ao gestor municipal.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Fere a descentralização.",
+      "B": "[INCORRETA] Fere a gratuidade.",
+      "C": "[INCORRETA] O Fundo é obrigatório.",
+      "D": "[CORRETA] Unifica verbas em blocos como 'Atenção Básica' e 'Vigilância'."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 755,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No contexto do **Pacto em Defesa do SUS**, qual o principal objetivo?",
+    "opcoes": [
+      "A) Reduzir médicos para economizar.",
+      "B) Exclusividade para quem não tem plano de saúde.",
+      "C) Mobilização social para garantir financiamento e saúde como direito de cidadania.",
+      "D) Transformar o SUS em seguro privado."
+    ],
+    "explicacao_geral": "É o lado político do sistema.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Busca aproximar o cidadão do sistema e lutar por recursos."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 756,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Mortalidade Infantil elevada por causas evitáveis (diarreia). Ação prioritária pelo **Pacto pela Vida**:",
+    "opcoes": [
+      "A) Fortalecer Atenção Básica (busca ativa, pré-natal, puericultura).",
+      "B) Novo hospital de transplantes.",
+      "C) Remoção aérea sistemática.",
+      "D) Panfletos sobre doenças raras."
+    ],
+    "explicacao_geral": "Indicadores direcionam a aplicação do recurso na APS.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O fortalecimento da rede básica é o caminho mais eficiente."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 757,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Instrumento que formaliza as responsabilidades na Região de Saúde:",
+    "opcoes": [
+      "A) Alvará Sanitário.",
+      "B) COAP (Contrato Organizativo de Ação Pública).",
+      "C) Estatuto do Servidor.",
+      "D) Código de Ética."
+    ],
+    "explicacao_geral": "COAP é o contrato interfederativo.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Detalha metas e recursos regionais."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 758,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Foco principal da 'Saúde do Idoso' no Pacto pela Vida:",
+    "opcoes": [
+      "A) Dentadura gratuita apenas.",
+      "B) Isolamento em abrigos.",
+      "C) Manutenção da autonomia e funcionalidade (avaliação multidimensional).",
+      "D) Cirurgias plásticas obrigatórias."
+    ],
+    "explicacao_geral": "Meta é o envelhecimento ativo.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Preservar a funcionalidade pelo maior tempo possível."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 759,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Aumento de mortalidade por Câncer de Colo Uterino. Ação prioritária pelo Pacto:",
+    "opcoes": [
+      "A) Leitos de UTI oncológica.",
+      "B) Seguros privados.",
+      "C) Entrega de perucas.",
+      "D) Cobertura de Papanicolau na Atenção Básica."
+    ],
+    "explicacao_geral": "Controle depende de rastreio precoce.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Papanicolau detecta lesões precocemente."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 760,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Exemplos de Promoção da Saúde no Pacto:",
+    "opcoes": [
+      "A) Atividade física regular e alimentação saudável.",
+      "B) Antibióticos preventivos.",
+      "C) Muros altos contra mosquitos.",
+      "D) Proibição de gordura por lei."
+    ],
+    "explicacao_geral": "Atua nos estilos de vida.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Foco em hábitos saudáveis."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 761,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Paciente UBS -> Hospital -> UBS. Exemplo de:",
+    "opcoes": [
+      "A) Burocracia inútil.",
+      "B) Centralização.",
+      "C) Referência e Contra-referência (Continuidade do Cuidado).",
+      "D) Abandono."
+    ],
+    "explicacao_geral": "Funcionamento das Redes de Atenção.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Integração de níveis garantindo o cuidado."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 762,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Para que um conjunto de municípios seja formalmente reconhecido como uma **Região de Saúde**, o Decreto nº 7.508/2011 exige que ele ofereça, no mínimo, ações e serviços de:",
+    "opcoes": [
+      "A) Atenção Primária, Urgência/Emergência, Atenção Psicossocial, Atenção Ambulatorial Especializada/Hospitalar e Vigilância em Saúde.",
+      "B) Apenas hospitais de alta complexidade e centros de imagem.",
+      "C) Atenção Primária, farmácia de manipulação e laboratório de genética.",
+      "D) Urgência/Emergência, odontologia estética e homeopatia."
+    ],
+    "explicacao_geral": "O Decreto define 5 serviços obrigatórios para a autossuficiência regional básica.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Este é o 'quinteto' obrigatório do Decreto 7.508. Sem qualquer um desses 5 eixos, o território não pode ser instituído como Região de Saúde.",
+      "B": "[INCORRETA] A Região deve começar pela base (APS) e contemplar a rede básica completa.",
+      "C": "[INCORRETA] Genética não é requisito mínimo obrigatório para formação de região.",
+      "D": "[INCORRETA] Estética e homeopatia não compõem o rol de serviços mínimos do Decreto."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 763,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "No SUS, os instrumentos que definem a relação nacional de **Serviços** de saúde e a relação nacional de **Medicamentos** são, respectivamente:",
+    "opcoes": [
+      "A) RENAME e RENASES.",
+      "B) RENASES e RENAME.",
+      "C) COAP e PPI.",
+      "D) Mapa da Saúde e RENASES."
+    ],
+    "explicacao_geral": "Siglas que definem o 'cardápio' do SUS (Ações e Remédios).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Inverteu a ordem (Medicamentos primeiro).",
+      "B": "[CORRETA] **RENASES** (Serviços/Ações) e **RENAME** (Medicamentos).",
+      "C": "[INCORRETA] COAP é contrato e PPI é programação.",
+      "D": "[INCORRETA] Mapa da Saúde é a descrição geográfica dos recursos existentes."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 764,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A instância de pactuação onde o governo do Estado se reúne com os secretários municipais de saúde para decidir regras regionais é a:",
+    "opcoes": [
+      "A) Comitê Gestor da SES.",
+      "B) CIT (Comissão Intergestores Tripartite).",
+      "C) CIB (Comissão Intergestores Bipartite).",
+      "D) Assembleia Legislativa Estadual."
+    ],
+    "explicacao_geral": "O SUS pactua em instâncias de secretários (gestores).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Comitê interno não é instância de pactuação interfederativa.",
+      "B": "[INCORRETA] A CIT acontece em Brasília entre União, Estados e Municípios (Tripartite).",
+      "C": "[CORRETA] A **CIB** ocorre no estado, entre a Secretaria Estadual de Saúde e os consórcios/municípios (Bipartite).",
+      "D": "[INCORRETA] É um órgão legislativo, não de pactuação técnica do SUS."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 765,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O principal diferencial de uma **Rede de Atenção à Saúde (RAS)** em relação a um conjunto desorganizado de serviços é:",
+    "opcoes": [
+      "A) O número total de hospitais com mais de 500 leitos.",
+      "B) A obrigatoriedade de todos os médicos serem especialistas em cirurgia.",
+      "C) A oferta exclusiva de serviços privados contratados.",
+      "D) A integração logística e clínica que garante o cuidado contínuo e a responsabilidade compartilhada pelo paciente."
+    ],
+    "explicacao_geral": "Cuidado em rede significa que o paciente não é 'jogado' de um lado para o outro.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Quantidade de leitos não define a qualidade da integração da rede.",
+      "B": "[INCORRETA] A rede depende fundamentalmente do generalista (APS) para coordenar.",
+      "C": "[INCORRETA] O SUS é público; o privado é apenas complementar.",
+      "D": "[CORRETA] A RAS organiza o fluxo para que a atenção seja contínua, oportuna e adequada, com a APS coordenando os demais pontos."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 766,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Segundo o Decreto 7.508/2011, quem deve atuar como o centro de comunicação da RAS e coordenadora do cuidado emocional e clínico do paciente?",
+    "opcoes": [
+      "A) A Atenção Primária à Saúde (APS).",
+      "B) O Hospital de Trauma de referência estadual.",
+      "C) O Ministério da Saúde em Brasília.",
+      "D) A ouvidoria do serviço de saúde."
+    ],
+    "explicacao_geral": "A APS é o 'GPS' do paciente no SUS.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O Decreto reforça que a **APS** é a instância que conhece o território e deve coordenar o percurso do paciente entre os especialistas.",
+      "B": "[INCORRETA] O hospital é um ponto de atenção pontual (específico), não ordenador contínuo.",
+      "C": "[INCORRETA] Gestão federal não faz coordenação clínica individual.",
+      "D": "[INCORRETA] Ouvidoria trata reclamações, não coordenação de cuidado clínico."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 767,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "São consideradas **Portas de Entrada** prioritárias de usuários às ações e aos serviços de saúde, EXCETO:",
+    "opcoes": [
+      "A) Atenção Primária (UBS).",
+      "B) Hospitais de Alta Complexidade sem agendamento prévio.",
+      "C) Atenção de Urgência e Emergência (UPAs/Prontos-Socorros).",
+      "D) Atenção Psicossocial (CAPS) e Serviços de Acesso Especializado (SAE)."
+    ],
+    "explicacao_geral": "O SUS define portas específicas para organizar o fluxo; o hospital terciário não é uma delas por padrão.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA/PORTA] A APS é a porta principal.",
+      "B": "[INCORRETA/NÃO É PORTA] O hospital terciário deve receber o paciente via **referência** (agendamento/regulação), não sendo porta de entrada livre para o público geral, salvo em situações de urgência traumática extrema regulada.",
+      "C": "[CORRETA/PORTA] Urgências são portas abertas 24h.",
+      "D": "[CORRETA/PORTA] CAPS e SAEs são portas de entrada para demandas específicas de saúde mental e doenças infectocontagiosas."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 768,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A **Programação Pactuada e Integrada (PPI)** é um processo que busca alinhar:",
+    "opcoes": [
+      "A) O horário de trabalho de todos os médicos do Brasil.",
+      "B) A cor das ambulâncias de cada estado.",
+      "C) A oferta de serviços de saúde com as necessidades reais da população de cada território.",
+      "D) O preço dos planos de saúde privados com a inflação."
+    ],
+    "explicacao_geral": "PPI é a matemática da gestão: quanta consulta/exame cada cidade deve oferecer baseada no povo que mora lá.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] PPI lida com produção de serviços, não com escala individual.",
+      "B": "[INCORRETA] Detalhe estético irrelevante para a PPI.",
+      "C": "[CORRETA] A **PPI** define o teto de recursos e ações que serão financiados para atender a demanda de uma região.",
+      "D": "[INCORRETA] A PPI regula o sistema público, não o privado direto."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 769,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um paciente com diabetes compensado é enviado pela UBS ao endocrinologista. O especialista ajusta a insulina, mas o paciente volta à UBS duas semanas depois sem nenhum documento, carta ou registro da nova conduta. Qual falha de gestão clínica ocorreu?",
+    "opcoes": [
+      "A) Falha de Contrarreferência, que interrompe a continuidade do cuidado pela APS.",
+      "B) Falha de Universalidade, pois o paciente foi atendido pelo especialista.",
+      "C) Excesso de burocracia, pois o paciente já sabe o que tomar.",
+      "D) Falha de Hierarquização, porque o endocrinologista deveria ter ficado com o paciente para sempre."
+    ],
+    "explicacao_geral": "O fluxo deve ser de ida (Referência) e volta comentada (Contrarreferência).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Contrarreferência** é o dever do especialista de informar à UBS (ordenadora) o que foi feito, para que o médico de família continue o seguimento com segurança.",
+      "B": "[INCORRETA] O paciente foi atendido, então a universalidade funcionou.",
+      "C": "[INCORRETA] A informação clínica não é burocracia, é segurança do paciente.",
+      "D": "[INCORRETA] A hierarquização prevê o retorno à base (UBS) após a resolução da demanda específica."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 770,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um conjunto de 10 municípios pequenos quer formar uma Região de Saúde. Eles possuem UBSs, Pronto-Atendimentos e CAPS, mas alegam que o hospital onde realizam partos fica em outra região distante, e não há monitoramento de doenças (vigilância). O que diz o Decreto 7.508 sobre este caso?",
+    "opcoes": [
+      "A) Eles podem ser região, pois os partos podem ser feitos em domicílio.",
+      "B) Eles NÃO podem ser região, pois faltam serviços obrigatórios de Vigilância em Saúde e Atenção Hospitalar.",
+      "C) Podem ser região se o prefeito de maior verba assinar um termo de responsabilidade.",
+      "D) Podem ser região se mudarem o nome para Distrito Sanitário."
+    ],
+    "explicacao_geral": "Os 5 requisitos mínimos do Decreto são cumulativos e obrigatórios.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS exige rede hospitalar estruturada para segurança.",
+      "B": "[CORRETA] Faltam dois dos 5 eixos (Vigilância e Hospitalar). Para ser Região, o território deve garantir o acesso a todos os 5 pilares.",
+      "C": "[INCORRETA] Verba ou termo não substituem a presença física ou pactuada dos serviços.",
+      "D": "[INCORRETA] Mudança de nome não resolve a falta de assistência técnica."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 771,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Houve um conflito entre o Secretário de Estado e o COSEMS (Secretários Municipais) sobre o repasse de verbas para ambulâncias regionais. Onde este conflito deve ser debatido e pactuado?",
+    "opcoes": [
+      "A) No Conselho Federal de Medicina.",
+      "B) No Supremo Tribunal Federal diretamente.",
+      "C) Na CIB (Comissão Intergestores Bipartite).",
+      "D) Em uma delegacia de polícia."
+    ],
+    "explicacao_geral": "Decisões técnicas e financeiras estaduais ocorrem na Bipartite.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O CFM regula ética e exercício profissional, não gestão do SUS.",
+      "B": "[INCORRETA] Instâncias administrativas (CIB) devem ser exauridas antes de qualquer ação judicial.",
+      "C": "[CORRETA] A **CIB** é o espaço de pactuação entre o ente estadual e os municípios do mesmo estado.",
+      "D": "[INCORRETA] Gestão pública resolve-se em instâncias colegiadas de gestão."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 772,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O **Pacto em Defesa do SUS** organiza-se em torno de três eixos fundamentais para garantir a sustentabilidade do sistema pública. São eles:",
+    "opcoes": [
+      "A) Repolitização da saúde, financiamento adequado e fortalecimento do controle social.",
+      "B) Contratação de planos privados, fim da gratuidade e centralização federal.",
+      "C) Redução de leitos, aumento de impostos e proibição de conselhos.",
+      "D) Privatização das UBS, foco em hospitais e fim da vigilância."
+    ],
+    "explicacao_geral": "O Pacto em Defesa foca no suporte político, financeiro e social do sistema.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O pacto busca **Repolitizar** (mobilizar a sociedade), garantir **Verba** (combater subfinanciamento) e fortalecer a **Participação Popular** (Conselhos/Conferências).",
+      "B": "[INCORRETA] O Pacto defende o caráter público e descentralizado do SUS.",
+      "C": "[INCORRETA] O objetivo é o oposto: ampliar a rede e garantir o direito social.",
+      "D": "[INCORRETA] O pacto reafirma o papel do Estado e da rede básica."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 773,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um dos lemas do Pacto em Defesa do SUS é transformar a saúde em uma **Política de Estado**, diferenciando-a de uma **Política de Governo**. Qual a principal diferença entre esses conceitos?",
+    "opcoes": [
+      "A) Política de Estado é aquela decidida apenas por militares.",
+      "B) Política de Estado é permanente, baseada na Constituição e direitos sociais; Política de Governo é temporária e depende do mandato do gestor atual.",
+      "C) Política de Governo é obrigatória, enquanto Política de Estado é opcional.",
+      "D) Não há diferença; o termo é apenas um slogan publicitário sem fundamento jurídico."
+    ],
+    "explicacao_geral": "O SUS deve ser protegido contra as variações políticas de cada eleição.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] No Brasil democrático, o Estado é gerido por civis eleitos sob a égide da Constituição.",
+      "B": "[CORRETA] Ao tratar o SUS como **Política de Estado**, o pacto visa garantir que o acesso à saúde não sofra rupturas toda vez que um novo prefeito, governador ou presidente assume o cargo.",
+      "C": "[INCORRETA] Pelo contrário, as obrigações de Estado (como o Art. 196) são as mais rígidas juridicamente.",
+      "D": "[INCORRETA] A diferença é estrutural e define o planejamento de longo prazo da rede."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 774,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O **subfinanciamento crônico** do SUS gera impactos diretos na qualidade da assistência. Qual fenômeno assistencial é um sinal típico dessa escassez de recursos?",
+    "opcoes": [
+      "A) Excesso de médicos concursados em todas as UBS.",
+      "B) Sobras de estoque de medicamentos de alto custo em todas as farmácias centrais.",
+      "C) Fim total das filas para cirurgias eletivas.",
+      "D) Rotatividade de profissionais devido a vínculos precários e filas prolongadas por falta de capacidade instalada."
+    ],
+    "explicacao_geral": "Falta de verba gera precarização do trabalho e gargalos assistenciais.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O subfinanciamento impede a realização de concursos e a fixação de RH.",
+      "B": "[INCORRETA] A falta de verba gera desabastecimento, não sobras.",
+      "C": "[INCORRETA] As filas aumentam quando o investimento não acompanha a demanda.",
+      "D": "[CORRETA] Sem financiamento estável, o sistema não consegue manter equipes fixas nem ampliar a rede para reduzir a espera do paciente."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 775,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O conceito de **Repolitização do SUS** no Pacto em Defesa refere-se a:",
+    "opcoes": [
+      "A) Mobilizar e conscientizar a sociedade civil sobre a saúde como um direito de cidadania e um dever do Estado.",
+      "B) Obrigar todos os usuários do SUS a se filiarem a um partido político.",
+      "C) Substituir todos os médicos por cabos eleitorais nas UBS.",
+      "D) Acabar com as discussões técnicas e focar apenas em propaganda eleitoral."
+    ],
+    "explicacao_geral": "A política aqui é entendida como 'ação cidadã', não 'partidarismo'.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Repolitizar significa trazer o debate da saúde de volta para a praça pública, mostrando que defender o SUS é defender um patrimônio social do povo brasileiro.",
+      "B": "[INCORRETA] O SUS é suprapartidário e universal.",
+      "C": "[INCORRETA] Isso é fisiologismo, o que o pacto e a boa gestão combatem.",
+      "D": "[INCORRETA] A gestão técnica deve ser fortalecida com apoio político social."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 776,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Um dos objetivos do Pacto em Defesa do SUS é fortalecer a **imagem institucional** do sistema. Por que isso é considerado estratégico?",
+    "opcoes": [
+      "A) Para poder vender o sistema para empresas multinacionais.",
+      "B) Para esconder as falhas de atendimento através de marketing caro.",
+      "C) Para criar um sentimento de pertencimento na população, garantindo que o cidadão se torne o principal defensor da saúde pública.",
+      "D) Para ganhar prêmios internacionais de design gráfico."
+    ],
+    "explicacao_geral": "O SUS só será protegido se for valorizado por quem o usa.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS é público, estatal e não negociável em bolsa.",
+      "B": "[INCORRETA] A defesa do SUS baseia-se na transparência e na melhoria real, não em omissão de falhas.",
+      "C": "[CORRETA] Quando a sociedade entende que o SUS resolve (vacinas, urgência, transplantes, vigilância), ela passa a lutar contra cortes de verbas e retrocessos.",
+      "D": "[INCORRETA] O foco é o vínculo social, não apenas a estética visual."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 777,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual é a característica fundamental dos **Conselhos de Saúde** reafirmada pelo Pacto em Defesa do SUS para garantir a participação social efetiva?",
+    "opcoes": [
+      "A) Eles são órgãos apenas consultivos - o gestor ouve, mas não precisa seguir nada.",
+      "B) Eles são compostos apenas por médicos concursados da prefeitura.",
+      "C) Suas reuniões são secretas para evitar pressões populares.",
+      "D) Eles possuem caráter Deliberativo, o que lhes confere poder de decisão real sobre o planejamento e a fiscalização das metas de saúde."
+    ],
+    "explicacao_geral": "Participação social no SUS tem poder de mandato.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A **Lei 8.142** define o conselho como deliberativo, ou seja, suas decisões têm força legal de cumprimento pelo gestor.",
+      "B": "[INCORRETA] Os conselhos são **paritários**: 50% de usuários, 25% trabalhadores e 25% gestores/prestadores.",
+      "C": "[INCORRETA] As reuniões devem ser públicas e transparentes.",
+      "D": "[CORRETA] O caráter deliberativo é o que separa a 'participação de fachada' da 'gestão participativa real' no SUS."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 778,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A **Intersetorialidade** é um conceito chave na defesa do SUS. Qual das situações abaixo exemplifica melhor este conceito na prática?",
+    "opcoes": [
+      "A) A Secretaria de Saúde se une à Secretaria de Assistência Social e de Habitação para garantir que um paciente de rua tenha onde dormir e comer para completar o tratamento de Tuberculose.",
+      "B) O médico da UBS decide trabalhar sozinho no consultório para evitar conversas com outros profissionais.",
+      "C) O governo federal proíbe que a escola fale sobre saúde para não confundir os alunos.",
+      "D) A farmácia do SUS se recusa a entregar remédios para quem mora em casas de aluguel."
+    ],
+    "explicacao_geral": "Saúde é resultado de fatores que vão além da medicina (determinantes sociais).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Intersetorialidade** reconhece que remédio sozinho não resolve problemas causados por falta de casa ou comida. Defender o SUS é articular essas várias políticas públicas.",
+      "B": "[INCORRETA] Isso é isolamento profissional, o oposto de trabalho em rede intersetorial.",
+      "C": "[INCORRETA] Educação em saúde nas escolas (PSE) é um pilar do SUS.",
+      "D": "[INCORRETA] O SUS é universal e a intersetorialidade visa ampliar, não restringir acesso."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 779,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um município apresenta 100% de rotatividade de seus médicos da APS a cada 6 meses. Os profissionais alegam falta de equipamentos básicos e contratos sem direitos trabalhistas. Sob a ótica do Pacto em Defesa do SUS, qual o diagnóstico da situação?",
+    "opcoes": [
+      "A) Excesso de zelo técnico dos médicos, que são muito exigentes.",
+      "B) Falha de sustentabilidade financeira e política (Subfinanciamento), impedindo a a consolidação de carreiras e a manutenção da qualidade.",
+      "C) Sorte excessiva, pois o município sempre consegue contratar novos médicos rapidamente.",
+      "D) Sucesso na gestão de custos, economizando dinheiro do pagador de impostos."
+    ],
+    "explicacao_geral": "Precarização do trabalho é o 'veneno' da continuidade do cuidado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Equipamento e contrato digno são requisitos básicos de qualidade, não exigência excessiva.",
+      "B": "[CORRETA] O **Subfinanciamento** produz vínculos precários. Sem verba estável para contratar via concurso ou contratos sólidos, o médico vira 'passageiro', quebrando o vínculo com a comunidade.",
+      "C": "[INCORRETA] Alta rotatividade é prejuízo clínico; não há sorte nisso.",
+      "D": "[INCORRETA] O 'barato sai caro' em saúde: a rotatividade impede a prevenção e sobrecarrega a alta complexidade."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 780,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Uma médica de família identifica que um grupo de gestantes em um bairro de alta vulnerabilidade social não está vindo às consultas de pré-natal por falta de dinheiro para o ônibus. Ao aplicar o princípio da **Equidade**, o que o gestor municipal deve fazer?",
+    "opcoes": [
+      "A) Multar as gestantes por faltarem às consultas obrigatórias.",
+      "B) Tratar as gestantes desse bairro exatamente igual às do bairro rico, que possuem carro próprio.",
+      "C) Criar uma estratégia de vouchers de transporte ou levar a equipe de saúde para realizar o atendimento dentro do território (UBS volante/Busca Ativa).",
+      "D) Cancelar o atendimento de pré-natal desse bairro para economizar recursos."
+    ],
+    "explicacao_geral": "Equidade é investir mais onde a necessidade é maior para igualar os resultados de saúde.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS não é punitivo, mas sim garantidor de acesso.",
+      "B": "[INCORRETA] Isso seria igualdade formal, que manteria a injustiça original.",
+      "C": "[CORRETA] A **Equidade** exige reconhecer a barreira e oferecer a 'escada' necessária para que essa gestante chegue ao mesmo nível de cuidado que o restante da população.",
+      "D": "[INCORRETA] Invenção absurda que fere o Art. 196 e a ética humana."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 781,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O Secretário Municipal de Saúde decidiu sozinho que a verba do SUS deste ano será usada apenas para pintar a fachada da prefeitura, ignorando o Plano de Saúde aprovado no ano anterior. O Conselho Municipal de Saúde votou e barrou a medida. O que acontece agora?",
+    "opcoes": [
+      "A) Nada, o Secretário manda sozinho e a votação do Conselho não vale nada.",
+      "B) O Conselho deve ser demitido pelo prefeito por insubordinação.",
+      "C) O Secretário deve ser preso imediatamente pela polícia militar no ato da reunião.",
+      "D) A decisão do Conselho é Soberana e Deliberativa, e o gestor deve acatar o Plano de Saúde aprovado, sob risco de responder por improbidade administrativa."
+    ],
+    "explicacao_geral": "O poder de decisão no SUS é compartilhado com a sociedade.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Fere o Art. 1º da Lei 8.142 e a base democrática do sistema.",
+      "B": "[INCORRETA] O Conselho é autônomo e paritário; não é subordinado hierárquico à prefeitura.",
+      "C": "[INCORRETA] Conflitos de gestão seguem ritos administrativos e judiciais próprios.",
+      "D": "[CORRETA] O **Caráter Deliberativo** garante que a voz da sociedade (usuários e trabalhadores) tenha poder real de veto e aprovação sobre o uso do Fundo de Saúde."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 782,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A **Atenção Primária à Saúde (APS)**, segundo a definição de Barbara Starfield, baseia-se em quatro **Atributos Essenciais**. Quais são eles?",
+    "opcoes": [
+      "A) Acesso (Primerio Contato), Longitudinalidade, Integralidade e Coordenação.",
+      "B) Rapidez, Baixo Custo, Especialização e Hierarquia.",
+      "C) Atendimento Domiciliar, Cirurgia de Médio Porte, Urgência e Internação.",
+      "D) Gratuidade, Exclusividade, Centralização e Prontuário Eletrônico."
+    ],
+    "explicacao_geral": "Os atributos de Starfield são a base teórica da APS moderna no SUS.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Esses 4 pilares definem a APS Forte: ser a **Porta de Entrada** (Acesso), ter **Vínculo** no tempo (Longitudinalidade), cuidar de **Tudo** (Integralidade) e organizar a **Rede** (Coordenação).",
+      "B": "[INCORRETA] Embora a APS busque eficiência, esses não são os atributos teóricos de Starfield.",
+      "C": "[INCORRETA] Refere-se a níveis de complexidade ou tipos de serviço, não atributos essenciais.",
+      "D": "[INCORRETA] Refere-se a princípios do SUS ou ferramentas tecnológicas."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 783,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O conceito de **Adscrição** de clientela na Estratégia Saúde da Família (ESF) é fundamental para a organização do cuidado. Ele significa:",
+    "opcoes": [
+      "A) O sorteio de pacientes que podem ser atendidos pela prefeitura este mês.",
+      "B) O vínculo de uma população específica (território) a uma equipe de saúde de referência, gerando responsabilidade sanitária.",
+      "C) A proibição de pacientes saírem de seu bairro para ir ao shopping.",
+      "D) A cobrança de uma taxa de cadastro para entrar no sistema do SUS."
+    ],
+    "explicacao_geral": "A adscrição cria um 'dono' para o cuidado do paciente: a sua equipe de referência.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS não sorteia pacientes; ele planeja territórios.",
+      "B": "[CORRETA] Ao **Adscrever**, a equipe sabe exatamente quem são as pessoas pelas quais ela é responsável, permitindo o planejamento de ações preventivas e o seguimento de crônicos.",
+      "C": "[INCORRETA] A adscrição organiza o fluxo de saúde, não a circulação civil.",
+      "D": "[INCORRETA] O SUS é universal e gratuito em todos os níveis."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 784,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O **Agente Comunitário de Saúde (ACS)** desempenha um papel estratégico na ESF. Qual das alternativas descreve sua função primordial ligada à vigilância do território?",
+    "opcoes": [
+      "A) Realizar cirurgias ambulatoriais de urgência no domicílio.",
+      "B) Prescrever antibióticos para crianças com febre na microárea.",
+      "C) Realizar a Busca Ativa de gestantes, crianças faltosas em vacinas e pacientes que abandonaram tratamentos.",
+      "D) Realizar a limpeza da Unidade Básica de Saúde diariamente."
+    ],
+    "explicacao_geral": "O ACS é o elo entre a comunidade e a clínica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O ACS não possui formação para atos cirúrgicos.",
+      "B": "[INCORRETA] Prescrição medicamentosa é ato de profissionais de saúde de nível superior (Médico/Enfermeiro conforme protocolos).",
+      "C": "[CORRETA] A **Busca Ativa** é a força motriz da ESF: o ACS identifica o problema no domicílio antes que ele vire uma emergência hospitalar.",
+      "D": "[INCORRETA] A função de limpeza compete aos auxiliares de serviços gerais."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 785,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual a diferença teórica cobrada em prova entre **Longitudinalidade** e continuidade do cuidado?",
+    "opcoes": [
+      "A) Não há diferença; são sinônimos perfeitos na PNAB.",
+      "B) Continuidade refere-se a consultas em um único dia; Longitudinalidade a consultas em dias diferentes.",
+      "C) Longitudinalidade é o atendimento hospitalar; Continuidade é o atendimento na UBS.",
+      "D) Longitudinalidade pressupõe vínculo e relação interpessoal duradoura entre profissional/equipe e paciente; Continuidade é apenas a sequência ininterrupta de atendimentos, mesmo que com médicos diferentes a cada vez."
+    ],
+    "explicacao_geral": "O acompanhamento pelo 'mesmo médico/equipe' que conhece sua história é o coração da APS.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Existe uma distinção clássica na literatura de saúde coletiva.",
+      "B": "[INCORRETA] A distinção baseia-se no vínculo e na identidade do cuidador.",
+      "C": "[INCORRETA] Ambas podem ocorrer em vários níveis, mas a longitudinalidade é atributo ouro da APS.",
+      "D": "[CORRETA] O diferencial da **Longitudinalidade** é o 'conhecer o paciente'. Isso reduz exames desnecessários e aumenta a adesão ao tratamento."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 786,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Considerando a **APS como Ordenadora da Rede**, qual a sua responsabilidade em relação aos encaminhamentos para especialistas?",
+    "opcoes": [
+      "A) Coordenar o fluxo, garantindo que o paciente retorne para a UBS com as informações do especialista e o Plano Terapêutico Singular (PTS) mantido.",
+      "B) Apenas entregar o papel do encaminhamento e deixar que o paciente se vire para achar o hospital.",
+      "C) Proibir que o paciente consulte especialistas para economizar dinheiro da prefeitura.",
+      "D) Delegar toda a responsabilidade clínica ao especialista, parando de acompanhar o paciente assim que ele sai da UBS."
+    ],
+    "explicacao_geral": "A UBS 'não abandona' o paciente quando ele vai para o especialista.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O atributo **Coordenação** exige que a APS seja o 'centro de comunicação'. Ela envia (**Referência**) e deve receber informações (**Contrarreferência**) para continuar o cuidado de longo prazo.",
+      "B": "[INCORRETA] Isso caracteriza a falha de gestão; a APS deve apoiar a regulação do acesso.",
+      "C": "[INCORRETA] O SUS garante a integralidade; se o especialista é necessário, o acesso deve ser provido.",
+      "D": "[INCORRETA] A APS mantém o acompanhamento longitudinal mesmo durante tratamentos especializados."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 787,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O suporte de equipes como o antigo **NASF (Núcleo de Apoio à Saúde da Família)**, agora reorganizado em arranjos de apoio matricial, visa:",
+    "opcoes": [
+      "A) Retirar o paciente da UBS e levá-lo para um centro de especialidade distante.",
+      "B) Oferecer suporte multiprofissional (Psico, Fisio, Nutri) às equipes de ESF para aumentar a resolutividade no próprio território.",
+      "C) Substituir o médico de família por um nutricionista em todos os atendimentos.",
+      "D) Criar uma nova fila de espera hospitalar para casos raros de genética."
+    ],
+    "explicacao_geral": "O matriciamento ajuda a equipe de ESF a resolver casos que antes ela encaminharia para fora.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O objetivo é manter o paciente no território o máximo possível.",
+      "B": "[CORRETA] Através do **Matriciamento**, as equipes de apoio discutem casos e atendem junto com a ESF, qualificando o cuidado local (Integralidade).",
+      "C": "[INCORRETA] As profissões são complementares, não substitutivas.",
+      "D": "[INCORRETA] O foco é a APS e o território, não a burocracia hospitalar."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 788,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Para garantir o **Acesso (Primeiro Contato)**, a PNAB recomenda que a agenda da UBS seja organizada de forma a equilibrar:",
+    "opcoes": [
+      "A) Apenas consultas pagas e consultas gratuitas.",
+      "B) Apenas atendimento de crianças e atendimento de idosos.",
+      "C) Demanda Espontânea (chegada no dia por agravo agudo) e Demanda Programada (consultas de rotina agendadas).",
+      "D) Atendimento por ordem alfabética e atendimento por sorteio manual."
+    ],
+    "explicacao_geral": "Se a agenda for 100% agendada, quem adoece hoje não consegue acesso; se for 100% espontânea, o pré-natal não acontece.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS é 100% gratuito.",
+      "B": "[INCORRETA] A APS deve atender a todas as faixas etárias e ciclos de vida.",
+      "C": "[CORRETA] O equilíbrio garante que a UBS seja resolutiva tanto na emergência leve (dor de garganta hoje) quanto na prevenção (exame preventivo marcado).",
+      "D": "[INCORRETA] CRitérios de triagem e risco devem ser clínicos, não alfabéticos."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 789,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Um paciente hipertenso e diabético vai ao Pronto Socorro (PS) toda vez que suas receitas acabam. Ele afirma que 'não gosta de ir ao postinho porque nunca é o mesmo médico e ninguém sabe quem ele é'. Qual atributo da APS está falhando neste cenário?",
+    "opcoes": [
+      "A) Acesso Geográfico, pois o posto é longe.",
+      "B) Longitudinalidade, pois não há vínculo nem acompanhamento duradouro com o mesmo profissional/equipe.",
+      "C) Universalidade, pois ele é atendido no PS.",
+      "D) Eficiência Administrativa, por falta de computadores na recepção."
+    ],
+    "explicacao_geral": "A confiança e o conhecimento histórico do caso (vínculo) são a marca da Longitudinalidade.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O paciente não reclama da distância, mas da qualidade da relação.",
+      "B": "[CORRETA] Se o paciente sente que 'é um estranho' e não encontra o mesmo profissional, o **Vínculo (Longitudinalidade)** foi quebrado, levando à peregrinação no pronto socorro.",
+      "C": "[INCORRETA] Ele está sendo atendido, mas de forma errada para uma doença crônica.",
+      "D": "[INCORRETA] Problemas de relação humana não se resolvem apenas com tecnologia de hardware."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 790,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O Agente Comunitário de Saúde (ACS) João, durante sua visita domiciliar mensal, identifica uma jovem de 16 anos que suspeita estar grávida, mas tem medo de ir à UBS. João a acolhe e já agenda sua primeira consulta de pré-natal com a enfermeira da equipe. Esta ação exemplifica:",
+    "opcoes": [
+      "A) Busca Ativa e Territorialização, garantindo o Acesso precoce ao sistema.",
+      "B) Quebra de sigilo ético ao forçar a jovem a ser atendida.",
+      "C) Exercício ilegal da medicina pelo agente.",
+      "D) Atendimento por demanda espontânea pura, sem interferência da equipe."
+    ],
+    "explicacao_geral": "A territorialização permite que a equipe vá ao encontro do paciente (pró-atividade).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O ACS conhece sua **Microárea** e identifica o risco social/clínico antes que surjam complicações, aproximando o usuário da unidade básica.",
+      "B": "[INCORRETA] O acolhimento é ético e visa o bem-estar da mãe e da criança.",
+      "C": "[INCORRETA] Agendar consulta não é ato médico, mas sin fluxo administrativo/clínico da equipe.",
+      "D": "[INCORRETA] Foi uma ação programada (visita domiciliar) que gerou a captação do caso (Busca Ativa)."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 791,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A médica de uma UBS encaminha um paciente com suspeita de glaucoma ao oftalmologista. Após 3 meses, o paciente retorna à UBS dizendo que está usando um colírio 'que o outro médico passou', mas não sabe o nome nem tem o laudo. O oftalmologista não enviou nenhuma nota. Qual componente da **Coordenação do Cuidado** falhou?",
+    "opcoes": [
+      "A) A Referência, pois a médica não deveria ter enviado o paciente.",
+      "B) A Universalidade, pois o acesso foi garantido.",
+      "C) A Contrarreferência, impedindo que a ordenadora da rede (UBS) tenha as informações necessárias para seguir o tratamento.",
+      "D) A Hierarquização, porque o oftalmologista deveria ter guardado o prontuário para si."
+    ],
+    "explicacao_geral": "Sem o retorno da informação, a rede é apenas um amontoado de ilhas isoladas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A referência foi correta frente à suspeita clínica.",
+      "B": "[INCORRETA] O acesso físico existiu, mas a integração clínica falhou.",
+      "C": "[CORRETA] A **Contrarreferência** é o dever ético e gerencial do especialista de devolver a informação ao médico que coordena o caso na APS.",
+      "D": "[INCORRETA] O prontuário é um direito do paciente e deve ser compartilhado pela rede para segurança do cuidado."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 792,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Para que um **Genograma** seja tecnicamente útil para rastrear padrões de doenças hereditárias e dinâmica familiar, a literatura de Medicina de Família exige que ele contenha, no mínimo, informações sobre:",
+    "opcoes": [
+      "A) Apenas os moradores da casa atual.",
+      "B) Três gerações da família.",
+      "C) Todos os vizinhos do mesmo quarteirão.",
+      "D) Apenas os familiares que possuem plano de saúde privado."
+    ],
+    "explicacao_geral": "O genograma mapeia a hereditariedade e a estrutura transgeracional.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A abordagem familiar exige olhar para o passado genético e relacional.",
+      "B": "[CORRETA] O padrão ouro do genograma é o desenho de **3 gerações** (Avós, Pais, Filhos), permitindo identificar recorrências de agravos e eventos vitais.",
+      "C": "[INCORRETA] Vizinhos são mapeados no Ecomapa, não no Genograma.",
+      "D": "[INCORRETA] O genograma é uma ferramenta clínica do SUS para todos os usuários."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 793,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No desenho de um Genograma, a representação de um homem e de uma mulher são feitas, respectivamente, pelos símbolos:",
+    "opcoes": [
+      "A) Círculo e Triângulo.",
+      "B) Estrela e Losango.",
+      "C) Quadrado e Círculo.",
+      "D) Cruz e Círculo."
+    ],
+    "explicacao_geral": "Simbologia universal padronizada para ferramentas familiares.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] **Quadrado** representa o sexo masculino e o **Círculo** representa o sexo feminino."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 794,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Ao analisar um Genograma, o médico observa uma **linha em zig-zag** conectando dois familiares. Esse símbolo indica que a relação entre essas pessoas é:",
+    "opcoes": [
+      "A) Muito forte e harmoniosa.",
+      "B) Inexistente ou de total distanciamento.",
+      "C) Uma relação baseada apenas em trocas financeiras.",
+      "D) Conflituosa ou tensa."
+    ],
+    "explicacao_geral": "As linhas relacionais descrevem a qualidade do vínculo afetivo.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Relação forte é representada por linha dupla.",
+      "B": "[INCORRETA] Distanciamento ou rompimento usa símbolos de corte/linhas pontilhadas específicas (variando conforme o manual).",
+      "C": "[INCORRETA] O foco é emocional e convivencial.",
+      "D": "[CORRETA] A linha em **Zigue-zague** (ou dente de serra) é o marcador universal de conflito na dinâmica familiar."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 795,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Diferente do Genograma, que foca na estrutura interna, o **Ecomapa** tem como principal objetivo pedagógico e clínico:",
+    "opcoes": [
+      "A) Mapear os vínculos da família com o meio externo (instituições, recursos comunitários, rede de apoio).",
+      "B) Contar quantas calorias a família consome por dia.",
+      "C) Desenhar a planta baixa da casa do paciente.",
+      "D) Identificar apenas os parentes que moram em outros estados."
+    ],
+    "explicacao_geral": "O Ecomapa posiciona a família no centro e a conecta com o território.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Ecomapa** revela o suporte social da família (igreja, escola, CAPS, CRAS, amigos), fundamental para identificar potências de cuidado comunitário.",
+      "B": "[INCORRETA] Não é um instrumento nutricional.",
+      "C": "[INCORRETA] A planta baixa não é o foco; o foco são as relações sociais.",
+      "D": "[INCORRETA] Familiares externos podem aparecer, mas o foco são as instituições e a rede de apoio."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 796,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O instrumento **APGAR Familiar** é amplamente utilizado na APS para avaliar:",
+    "opcoes": [
+      "A) A frequência cardíaca e a cor da pele de recém-nascidos no domicílio.",
+      "B) A satisfação dos membros da família com o suporte e o funcionamento familiar.",
+      "C) A quantidade de dinheiro que a família deve no banco.",
+      "D) A inteligência cognitiva de todos os membros da família."
+    ],
+    "explicacao_geral": "O APGAR familiar (Adaptação, Participação, Crescimento, Afeto e Resolução) mede a percepção de funcionalidade.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Este é o APGAR obstétrico/neonatal; o Familiar é outra ferramenta.",
+      "B": "[CORRETA] O **APGAR Familiar** classifica se a família é funcional ou se há algum grau de disfunção baseado na opinião dos próprios membros.",
+      "C": "[INCORRETA] Instrumentos de saúde não avaliam dívidas financeiras diretas.",
+      "D": "[INCORRETA] Não é um teste de QI."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 797,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A abordagem baseada na **Educação Popular em Saúde**, proposta por autores como Paulo Freire, baseia-se prioritariamente no(a):",
+    "opcoes": [
+      "A) Imposição de regras médicas de forma autoritária para mudar hábitos.",
+      "B) Uso de termos técnicos complexos para impressionar o paciente.",
+      "C) Construção compartilhada de saberes e valorização da autonomia e do contexto de vida do usuário.",
+      "D) Proibição de que o paciente fale durante a consulta."
+    ],
+    "explicacao_geral": "Educação popular busca o empoderamento e a pactuação de objetivos reais.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Isso é educação bancária/tradicional, criticada pela educação popular.",
+      "B": "[INCORRETA] Linguagem inacessível afasta o usuário e quebra a autonomia.",
+      "C": "[CORRETA] Na **Educação Popular**, entende-se que o usuário também sabe sobre sua vida, e a solução de saúde nasce do diálogo entre saber científico e saber popular.",
+      "D": "[INCORRETA] O diálogo é a ferramenta central da educação popular."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 798,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Ao lidar com Genogramas e Ecomapas em prontuários eletrônicos, o profissional de saúde deve ter cuidado ético redobrado com o **sigilo**, pois:",
+    "opcoes": [
+      "A) Desenhos de círculos e quadrados são ilegais no Brasil.",
+      "B) Outros profissionais não podem ter acesso ao prontuário para saber a dose do remédio.",
+      "C) O paciente pode se sentir importante demais ao ver seu desenho.",
+      "D) Essas ferramentas revelam informações sensíveis e relacionais que podem gerar situações de vulnerabilidade ou conflito se acessadas indevidamente."
+    ],
+    "explicacao_geral": "Abordagem familiar lida com o íntimo da família.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A técnica é padrão ouro em saúde.",
+      "B": "[INCORRETA] O prontuário deve ser compartilhado entre a equipe para continuidade do cuidado.",
+      "C": "[INCORRETA] A questão é de segurança e ética de dados.",
+      "D": "[CORRETA] Registrar lutos, conflitos ou orientações sexuais exige objetividade e ética para proteger a **privacidade** da família."
+    },
+    "caso_clinico": false,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 799,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um médico de família atende uma família com casos recorrentes de Diabetes em gerações passadas e suspeita de um padrão de comunicação violenta entre o pai e o filho adolescente. Qual ferramenta deve ser prioritariamente utilizada para visualizar essas conexões internas?",
+    "opcoes": [
+      "A) Genograma.",
+      "B) Ecomapa.",
+      "C) Planta Baixa da Residência.",
+      "D) Tabela de Índice de Massa Corporal (IMC)."
+    ],
+    "explicacao_geral": "Genética e relações afetivas internas são o território do genograma.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Genograma** permite ver ao mesmo tempo o histórico de doenças (Diabetes) e a qualidade das relações (comunicação violenta/zig-zag) em um mapa visual único.",
+      "B": "[INCORRETA] O Ecomapa veria a relação deles com a escola ou o CAPS, não a relação biológica/afetiva interna entre pai e filho.",
+      "C": "[INCORRETA] Ferramenta de engenharia/arquitetura.",
+      "D": "[INCORRETA] Ferramenta antropométrica."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  },
+  {
+    "id": 800,
+    "categoria": "inedita",
+    "materia": "sus",
+    "tema": "sus_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Uma paciente com depressão severa mora sozinha e afirma não ter apoio de ninguém. No entanto, ao construir o **Ecomapa**, o médico identifica que ela frenquenta assiduamente um grupo de artesanato no centro comunitário e possui um bom vínculo com o CRAS. Isso muda a conduta clínica porque:",
+    "opcoes": [
+      "A) Depressão não existe se a pessoa faz artesanato.",
+      "B) Revela uma Rede de Apoio externa que pode ser acionada como tático terapêutico e fonte de proteção social.",
+      "C) Mostra que a paciente está mentindo para o médico.",
+      "D) O CRAS deve passar a prescrever os antidepressivos da paciente."
+    ],
+    "explicacao_geral": "As potências do território são reveladas pelo Ecomapa.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A doença é real; o artesanato é recurso de suporte, não cura cega.",
+      "B": "[CORRETA] O **Ecomapa** ajudou a encontrar recursos que a própria paciente, em seu estado depressivo, não valorizava, permitindo uma articulação intersetorial de cuidado.",
+      "C": "[INCORRETA] O paciente deprimido muitas vezes tem uma visão distorcida (negativa) de sua própria rede; o médico ajuda a clarear isso.",
+      "D": "[INCORRETA] CRAS é assistência social; prescrição é ato médico/enfermeiro na saúde."
+    },
+    "caso_clinico": true,
+    "aula_id": "sus_a9"
+  }
+]

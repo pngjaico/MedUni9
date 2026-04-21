@@ -2,7 +2,7 @@
 
 O HIV não é apenas um vírus de imunodeficiência; ele é um invasor que sequestra o "maestro" do sistema imune. Na prova, os temas centrais são a diferenciação entre **Infecção pelo HIV** e a **AIDS**, o papel dos marcadores **CD4** e **Carga Viral**, e o manejo da **Janela Diagnóstica**.
 
-Na prática, entender que "Indetectável é igual a Intransmissível" (**I=I**) e saber diagnosticar precocemente é o que permite ao paciente ter uma vida normal e protege a saúde pública.
+Na prática, entender que "**Indetectável é igual a Intransmissível**" (**I=I**) e saber diagnosticar precocemente é o que permite ao paciente ter uma vida normal e protege a saúde pública.
 
 ---
 
@@ -19,16 +19,16 @@ Na prática, entender que "Indetectável é igual a Intransmissível" (**I=I**) 
 
 O HIV tem preferência absoluta pelos **Linfócitos T CD4**. 
 - **O Papel do CD4:** Essas células são as que coordenam todo o sistema imune. Sem elas, o corpo não sabe quando atacar uma bactéria, um fungo ou um câncer.
-- **AIDS vs HIV:** Ter o vírus HIV não é o mesmo que ter AIDS. A **AIDS** é o estágio avançado da doença, quando a imunidade está tão baixa (geralmente **CD4 < 200**) que o corpo começa a sofrer com infecções que não atacariam pessoas saudáveis.
+- **AIDS vs HIV:** Ter o vírus HIV não é o mesmo que ter AIDS. A **AIDS** é o estágio avançado da doença, quando a imunidade está tão baixa (geralmente **CD4 < 200**) que o corpo começa a sofrer com **infecções oportunistas** que não atacariam pessoas saudáveis.
 
 ---
 
 ## 2. As Fases da Doença
 
 A infecção pelo HIV se divide em tempos clínicos:
-- **Infecção Aguda (Síndrome Retroviral):** Ocorre semanas após o contato. O paciente sente sintomas de uma "gripe forte" (febre, dor de garganta, manchas). É a fase de maior carga viral e maior risco de transmissão.
-- **Fase de Latência:** O vírus continua se multiplicando silenciosamente nos linfonodos por anos. O paciente parece bem, mas o CD4 está caindo devagar.
-- **AIDS:** Quando surgem as **Infecções Oportunistas** (como tuberculose grave, neurotoxoplasmose ou pneumonia por *Pneumocystis*).
+- **Infecção Aguda (Síndrome Retroviral):** Ocorre semanas após o contato. O paciente sente sintomas de uma "gripe forte" (febre, dor de garganta, manchas). É a fase de **maior carga viral** e maior risco de transmissão.
+- **Fase de Latência:** O vírus continua se multiplicando silenciosamente nos linfonodos por anos. O paciente parece bem, mas o **CD4 está caindo** devagar.
+- **AIDS:** Quando surgem as **Infecções Oportunistas** (como **tuberculose** grave, **neurotoxoplasmose** ou pneumonia por ***Pneumocystis***).
 
 ---
 
@@ -80,9 +80,9 @@ A Uninove ama cobrar sobre **Infecções Oportunistas**. Saiba que a **Tuberculo
 |------------|------------|-----------------|
 | **Seropositivo (HIV)** | **Paciente com AIDS** | Tem o vírus vs **Tem a imunidade destruída (CD4 < 200)** |
 | **Carga Viral** | **Linfócito CD4** | Mostra o **Vírus** vs Mostra a **Defesa** |
-| **PEP** | **PrEP** | Remédio **Depois** do susto vs Remédio **Antes** do sexo de risco |
+| **PEP** | **PrEP** | Remédio **Depois** do susto vs Remédio **Antes** do risco |
 | **Janela Diagnóstica** | **Falso Negativo** | Vírus existe mas o teste não vê vs Vírus não existe mas o teste errou |
-| **I = I** | **Cura** | Supressão total (**Livre de transmissão**) vs Eliminação do vírus (não existe ainda) |
+| **I = I** | **Cura** | Supressão total (**Livre de transmissão**) vs Eliminação total do vírus |
 
 ### Frase-âncora para não esquecer
 

@@ -2,7 +2,7 @@
 
 As doenças exantemáticas (que causam manchas na pele) e as infecções do sistema nervoso são temas clássicos da pediatria e infectologia. Na prova, os temas centrais são o reconhecimento patognomônico do **Sarampo (Sinal de Koplik)**, as complicações da **Poliomielite** e a tríade da **Rubéola Congênita**.
 
-Na prática, a vacinação erradicou ou controlou a maioria dessas doenças, mas o ressurgimento de casos exige que o médico saiba diagnosticar rapidamente para evitar surtos.
+Na prática, a **vacinação** erradicou ou controlou a maioria dessas doenças, mas o ressurgimento de casos exige que o médico saiba diagnosticar rapidamente para evitar surtos.
 
 ---
 
@@ -19,7 +19,7 @@ Na prática, a vacinação erradicou ou controlou a maioria dessas doenças, mas
 
 É uma das doenças mais contagiosas que existem.
 - **Clínica:** Começa com febre alta, tosse, coriza e conjuntivite (os **3 Cs**).
-- **Sinal de Koplik:** Surge um ou dois dias antes das manchas na pele. Se você vir isso, o diagnóstico é Sarampo.
+- **Sinal de Koplik:** Surge um ou dois dias antes das manchas na pele. Se você vir isso, o diagnóstico é **Sarampo**.
 - **Exantema:** Começa atrás das orelhas e desce para o corpo (**Cefalocaudal**).
 - **Complicação Tardia:** **PESS** (Panencefalite Esclerosante Subaguda) – uma inflamação no cérebro que aparece anos depois e é fatal.
 
@@ -32,23 +32,23 @@ Para o adulto, a rubéola é leve (febre baixa e gânglios atrás da orelha). O 
 ### Tríade da Rubéola Congênita (Decore para a prova!)
 1. **Catarata**: O bebê nasce com o olho esbranquiçado.
 2. **Surdez**: É a complicação mais comum.
-3. **Cardiopatia**: Persistência do Canal Arterial (PCA).
+3. **Cardiopatia**: Persistência do Canal Arterial (**PCA**).
 
 ---
 
 ## 3. Poliomielite (Paralisia Infantil)
 
 - **O Alvo:** O vírus ataca os neurônios do **Corno Anterior da Medula**.
-- **Clínica:** Paralisia flácida, que não tem simetria (um lado é pior que o outro) e não afeta a sensibilidade.
+- **Clínica:** **Paralisia flácida**, que não tem simetria (um lado é pior que o outro) e não afeta a sensibilidade.
 - **Vacinas:**
   - **VIP (Salk/Injetável):** Vírus morto. Segura para todos.
-  - **VOP (Sabin/Gotinha):** Vírus vivo atenuado. Cria imunidade no intestino, mas tem risco raríssimo de causar a doença (Polio Vacinal).
+  - **VOP (Sabin/Gotinha):** Vírus vivo atenuado. Cria imunidade no intestino, mas tem risco raríssimo de causar a doença (**Polio Vacinal**).
 
 ---
 
 ## 4. Outras Doenças da Infância
 
-- **Roséola (Exantema Súbito):** A criança tem febre altíssima por 3 dias e, do nada, a febre some e o corpo fica todo pintadinho de rosa.
+- **Roséola (Exantema Súbito):** A criança tem febre altíssima por 3 dias e, do nada, a febre some e o corpo fica todo **pintadinho de rosa**.
 - **Eritema Infeccioso:** Chamada de "Doença da Bofetada" porque a criança fica com as bochechas muito vermelhas (**Sinal da face esbofeteada**). É causada pelo **Parvovírus B19**.
 
 ---
@@ -84,10 +84,10 @@ Nas "itites" cerebrais, decore o líquor: se for **Viral**, o líquor é clarinh
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Sinal de Koplik** | **Manchas de Forchheimer** | Sarampo (Patognomônico) vs **Rubéola (Pálato)** |
+| **Sinal de Koplik** | **Manchas de Forchheimer** | **Sarampo (Patognomônico)** vs **Rubéola (Pálato)** |
 | **VOP (Sabin)** | **VIP (Salk)** | Vírus Vivo (Gotinha) vs **Vírus Morto (Injetável)** |
 | **PESS** | **Encefalite Aguda** | Sequela anos depois vs **Ocorre na fase aguda** |
-| **Líquor Viral** | **Líquor Bacteriano** | Glicose Normal vs **Glicose Baixa** |
+| **Líquor Viral** | **Líquor Bacteriano** | **Glicose Normal** vs **Glicose Baixa** |
 | **Roséola** | **Sarampo** | Exantema após a febre sumir vs **Exantema com a febre alta** |
 
 ### Frase-âncora para não esquecer

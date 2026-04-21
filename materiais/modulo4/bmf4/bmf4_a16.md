@@ -21,7 +21,7 @@ Cada receptor na sua pele é especialista em um "idioma":
 - **Corpúsculo de Meissner:** Sente o toque leve e texturas (ex: ler Braille).
 - **Corpúsculo de Pacini:** Sente a vibração (ex: o celular vibrando no bolso).
 - **Terminações Livres:** Sentem a **Dor e Temperatura**.
-- **Propriocepção:** Receptores nos tendões e músculos (Fuso Muscular e Órgão de Golgi) que contam para o cérebro onde seus braços estão, mesmo de olhos fechados.
+- **Propriocepção:** Receptores nos tendões e músculos (**Fuso Muscular e Órgão de Golgi**) que contam para o cérebro onde seus braços estão, mesmo de olhos fechados.
 
 ---
 
@@ -29,7 +29,7 @@ Cada receptor na sua pele é especialista em um "idioma":
 
 Essa via leva as sensações mais refinadas (**Tato Fino, Vibração e Equilíbrio**):
 - **Caminho:** Sobe pelo mesmo lado da medula (**Ipsilateral**) até chegar no **Bulbo**.
-- **Cruzamento (Decussação):** Ela só cruza para o outro lado quando chega no bulbo.
+- **Cruzamento (Decussação):** Ela só cruza para o outro lado quando chega no **bulbo**.
 - **Clínica:** Se o paciente fecha os olhos e cai (**Sinal de Romberg**), ele perdeu essa via de equilíbrio.
 
 ---
@@ -46,8 +46,8 @@ Essa via leva as sensações de sobrevivência (**Dor e Temperatura**):
 ## 4. Dermátomos: O Mapa da Pele
 
 O corpo é dividido em faixas de inervação chamadas dermátomos. Memorize estes marcos:
-- **T4:** Altura dos mamilos.
-- **T10:** Altura do umbigo.
+- **T4:** Altura dos **mamilos**.
+- **T10:** Altura do **umbigo**.
 - **L1/L2:** Região da virilha.
 - **S1:** Calcanhar e lateral do pé.
 - **Marconi:** O vírus do **Herpes Zoster** (Cobreiro) "mora" na raiz do nervo e, quando ataca, ele desenha perfeitamente o dermátomo na pele do paciente.
@@ -62,7 +62,7 @@ No seu exame físico, se encontrar um paciente que perdeu a sensibilidade térmi
 
 ## Pontos-Chave para Prova
 
-- **Lemnisco Medial**: Responsável por tato discriminativo, vibração e propriocepção consciente.
+- **Lemnisco Medial**: Responsável por tato discriminativo, vibração e **propriocepção consciente**.
 - **Via Espinotalâmica Lateral**: Responsável pela transmissão de impulsos de **Dor e Temperatura**.
 - **Cruzamento**: O lemnisco medial cruza no **Bulbo**; a via espinotalâmica cruza na **Medula**.
 - **Sinal de Romberg**: Indica perda da sensibilidade proprioceptiva (via do funículo posterior).

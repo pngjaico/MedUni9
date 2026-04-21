@@ -2,7 +2,7 @@
 
 Os arbovírus (vírus transmitidos por artrópodes) são um dos maiores desafios de saúde pública no Brasil. Na prova, os temas centrais são o diagnóstico diferencial entre **Dengue, Zika e Chikungunya**, os **Sinais de Alarme da Dengue** e a contraindicação absoluta de **AAS e AINEs**.
 
-Na prática, saber identificar quando um paciente com dengue está prestes a entrar em choque é a diferença entre uma recuperação tranquila e um desfecho fatal.
+Na prática, saber identificar quando um paciente com **dengue** está prestes a entrar em **choque** é a diferença entre uma recuperação tranquila e um desfecho fatal.
 
 ---
 
@@ -17,13 +17,13 @@ Na prática, saber identificar quando um paciente com dengue está prestes a ent
 
 ## 1. Dengue
 
-A dengue possui 4 sorotipos. O maior perigo ocorre na **segunda infecção** por um sorotipo diferente, devido à amplificação da resposta imune (ADE).
+A dengue possui 4 sorotipos. O maior perigo ocorre na **segunda infecção** por um sorotipo diferente, devido à **amplificação da resposta imune (ADE)**.
 
 ### Sinais de Alarme (Sinal de que o paciente deve internar agora!)
-- Dor abdominal intensa e contínua.
-- Vômitos persistentes.
-- Acúmulo de líquidos (Ascite, Derrame Pleural).
-- Sangramento de mucosas.
+- **Dor abdominal intensa** e contínua.
+- **Vômitos persistentes**.
+- **Acúmulo de líquidos** (Ascite, Derrame Pleural).
+- **Sangramento de mucosas**.
 - **Aumento súbito do Hematócrito** (indica que o sangue está "grosso" porque o líquido vazou).
 
 > **REGRA DE OURO:** **NUNCA usar AAS ou Ibuprofeno** na suspeita de dengue. Eles aumentam drasticamente o risco de hemorragias graves. Use apenas Paracetamol ou Dipirona.
@@ -33,12 +33,12 @@ A dengue possui 4 sorotipos. O maior perigo ocorre na **segunda infecção** por
 ## 2. Zika e Chikungunya
 
 ### Zika: O perigo na gestação
-- **Marca Clínica:** Exantema (manchas vermelhas) que **pica/coça muito** e conjuntivite sem secreção.
-- **Microcefalia:** O vírus ataca o sistema nervoso do feto, especialmente se a infecção ocorrer no primeiro trimestre.
+- **Marca Clínica:** Exantema (manchas vermelhas) que **pica/coça muito** e **conjuntivite sem secreção**.
+- **Microcefalia:** O vírus ataca o sistema nervoso do feto, especialmente se a infecção ocorrer no **primeiro trimestre**.
 - Outra complicação é a **Síndrome de Guillain-Barré** (paralisia ascendente).
 
 ### Chikungunya: A dor que "entorta"
-- **Marca Clínica:** Febre alta e **Dor nas articulações** extremamente intensa e incapacitante.
+- **Marca Clínica:** Febre alta e **Dor nas articulações** extremamente intensa e **incapacitante**.
 - **Cronicidade:** A dor articular pode durar meses ou anos, exigindo fisioterapia e tratamento prolongado.
 
 ---
@@ -47,9 +47,9 @@ A dengue possui 4 sorotipos. O maior perigo ocorre na **segunda infecção** por
 
 | Exame | Quando Pedir? | O que ele vê? |
 |---|---|---|
-| **NS1** | Até o 5º dia. | Proteína do vírus (Fase Aguda). |
-| **PCR** | Até o 5º dia. | O DNA/RNA do vírus. |
-| **Sorologia (IgM)** | Após o 6º dia. | Os anticorpos que o corpo criou contra o vírus. |
+| **NS1** | **Até o 5º dia**. | Proteína do vírus (Fase Aguda). |
+| **PCR** | **Até o 5º dia**. | O DNA/RNA do vírus. |
+| **Sorologia (IgM)** | **Após o 6º dia**. | Os anticorpos que o corpo criou contra o vírus. |
 
 ---
 
@@ -84,11 +84,11 @@ No laboratório: **NS1** é pra hoje (até o 5º dia). **IgM** é pra semana que
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Dengue** | **Zika** | Febre Alta + Dor retro-ocular vs **Febre Baixa + Prurido/Coceira** |
+| **Dengue** | **Zika** | **Febre Alta + Dor retro-ocular** vs **Febre Baixa + Prurido/Coceira** |
 | **Sinal de Alarme** | **Dengue Grave** | Indica risco de choque vs **Presença de Choque/Falência** |
 | **Shift (Influenza)** | **ADE (Dengue)** | Salto viral (Pandemia) vs **Piorar na 2ª infecção** |
-| **NS1** | **IgM** | **Antígeno** (Início) vs Anticorpo (Tardio) |
-| **Microcefalia** | **Guillain-Barré** | Congênito (Bebê) vs **Neurológico (Adulto)** |
+| **NS1** | **IgM** | **Antígeno** (Início) vs **Anticorpo** (Tardio) |
+| **Microcefalia** | **Guillain-Barré** | **Congênito (Bebê)** vs **Neurológico (Adulto)** |
 
 ### Frase-âncora para não esquecer
 

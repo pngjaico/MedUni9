@@ -7,107 +7,113 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Metabolismo de Aminoácidos** gira em torno da gestão segura do **Nitrogênio**. Como a **Amônia** é neurotóxica, o corpo a converte em **Ureia** no fígado para excreção renal. Domine a diferença entre **ALT** e **AST**, e entenda por que a falha nesse ciclo leva à **Encefalopatia Hepática**. Na clínica, interpretamos as **Transaminases** como termômetro da integridade do hepatócito.
+O **Metabolismo de Aminoácidos** gira em torno da gestão segura do **Nitrogênio**. Como a **Amônia** (NH₃) é altamente neurotóxica, o corpo a converte em **Ureia** no fígado para permitir a sua excreção renal. Domine a diferença clínica entre **ALT** e **AST**, e entenda por que a falha nesse ciclo bioquímico leva à **Encefalopatia Hepática**. Na prática médica, interpretamos as **Transaminases** como o principal termômetro da integridade do hepatócito.
 
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `PMH-A10-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Após o bloco de relevância.
+- **O que mostrar:** Esquema do ciclo da ureia integrando a mitocôndria e o citosol, destacando a entrada de amônia e a saída de ureia.
+- **Tipo sugerido:** Fluxograma didático ou infográfico.
+- **Legenda (rascunho):** O Ciclo da Ureia: desintoxicação do nitrogênio.
 
 ---
 
 ## Transaminação: AST e ALT
 
-**Aminotransferases** transferem amino de aminoácidos a **α-cetoglutarato**, formando **glutamato**.
+As **Aminotransferases** transferem o grupo amino de aminoácidos para o **α-cetoglutarato**, formando **Glutamato**. Este processo requer a vitamina **B6 (Piridoxina)**.
 
-- **ALT (TGP):** mais **específica** do **fígado**.
-- **AST (TGO):** também **músculo**, **miocárdio**, outros tecidos.
+- **ALT (TGP):** Localizada predominantemente no citosol; é o marcador mais **específico** de lesão no **fígado**.
+- **AST (TGO):** Presente na mitocôndria e citosol; encontrada também no **músculo esquelético**, **miocárdio** e outros tecidos.
 
-> **Dica de Prova:** **AST/ALT >2** pode sugerir **álcool** (entre outras causas) — padrão clássico, não absoluto.
+> **Dica de Prova:** Uma relação **AST/ALT > 2** com transaminases não muito elevadas sugere frequentemente **doença hepática alcoólica**, embora não seja um critério diagnóstico isolado.
 
 ---
 
 ## Desaminação oxidativa
 
-**Glutamato desidrogenase** e fluxo para **amônia** (NH₃/NH₄⁺) no **hepatócito**. **Amônia** é **neurotóxica** — deve ser **captada** rapidamente pelo **ciclo da ureia**.
+Ocorre principalmente no fígado via **Glutamato Desidrogenase**. O excesso de nitrogênio é liberado como **Amônia (NH₃/NH₄⁺)**. Por ser extremamente **neurotóxica**, a amônia deve ser captada e processada imediatamente pelo **Ciclo da Ureia** para evitar danos ao sistema nervoso central.
 
 ---
 
 ## Ciclo da ureia: função e localização
 
-**Ornitina** ↔ **citrulina** ↔ **argininosuccinato** ↔ **arginina** → **ureia** + **ornitina**.
+O ciclo ocorre no hepatócito (mitocôndria + citosol) e segue a sequência:
+**Ornitina ↔ Citrulina ↔ Argininosuccinato ↔ Arginina → UREIA + Ornitina.**
 
-**Enzimas limitantes:** **carbamoil fosfato sintetase I** (mitocôndria), **ornitina transcarbamoilase (OTC)**, **arginase**.
+**Enzimas chaves de regulação:**
+- **Carbamoil Fosfato Sintetase I (CPS I):** Marcapasso mitocondrial.
+- **Ornitina Transcarbamoilase (OTC):** A enzima mais frequentemente associada a defeitos genéticos.
+- **Arginase:** O passo final que libera a ureia livre.
 
-**Defeitos** → **acúmulo de amônia** (hiperamonemia) e **ácido orgânico** conforme o passo.
-
-> **Pegadinha:** **OTC** é **ligada ao X** — heterozigotas podem ser **parcialmente** sintomáticas.
+> **Pegadinha de Prova:** A **OTC** possui herança **ligada ao X**. Embora afete mais homens, mulheres heterozigotas podem manifestar sintomas de hiperamonemia sob estresse metabólico.
 
 ---
 
 ## Alanina e gliconeogênese
 
-**Ciclo glicose-alanina:** músculo exporta **alanina** → fígado desamina → **piruvato** → **glicose** — liga **proteólise** a **glicemia** no jejum.
+No **Ciclo Glicose-Alanina**, o músculo em jejum exporta **Alanina** para o fígado. Lá, a alanina é desaminada, fornecendo **Piruvato** para a **gliconeogênese** e nitrogênio para a ureia. Isso conecta a quebra de proteínas musculares à manutenção da glicemia.
 
 ---
 
-## Glutamina: papel no rim e na mucosa
+## Glutamina: o transportador seguro
 
-**Glutamina** fornece **nitrogênio** para síntese e serve de **combustível** para **enterócitos** e **células do sistema imune** — relevante em **TPN** e **SII**.
+A **Glutamina** é o principal transportador de amônia dos tecidos periféricos para o fígado e rins. Além disso, serve como o combustível preferencial para os **enterócitos** e **células do sistema imune**, sendo vital em situações de estresse metabólico e recuperação cirúrgica.
 
 ---
 
-## Comparativo: marcadores de lesão
+## Comparativo: marcadores de lesão e função
 
-| Marcador | Localização Predominante | Significado Clínico |
+| Marcador | Localização Predominante | Significado Clínico Principal |
 |-----------|--------------------------|----------------------|
-| **ALT (TGP)** | **Hepatócito** (Citosol) | Indicador **específico** de lesão hepática |
-| **AST (TGO)** | Fígado, **Coração** e Músculo | Lesão tecidual inespecífica (Hepatite/IAM) |
-| **Amônia** | Sangue (Via ciclo da ureia) | **Neurotoxicidade**; Falência Hepática |
-| **Ureia** | Produção Hepática / Filtração Renal | Marcador de **Função Renal** e Hidratação |
+| **ALT (TGP)** | **Hepatócito** (Citosol) | Indicador **específico** de inflamação hepática |
+| **AST (TGO)** | Fígado, **Coração** e Músculo | Danos teciduais diversos (Hepatite / IAM) |
+| **Amônia** | Sangue (Via portossistêmica) | Marcador de **Neurotoxicidade** e falência do ciclo |
+| **Ureia** | Matriz extracelular / Urina | Resíduo de **Excreção Renal** e estado de hidratação |
 
 ---
 
 ## Ponte com a Clínica
 
-**Encefalopatia hepática** — **amônia** não é único fator, mas **monitorar** e **tratar precipitantes** (sangramento GI, infecção, diurético) é padrão. **Valproato** pode causar **hiperamonemia** por efeito na **mitocôndria**. **Lactante** com **vômitos** e **letargia** após proteína — pensar **defeito do ciclo da ureia**.
+A **Encefalopatia Hepática** ocorre quando a falência do fígado ou shunts portossistêmicos impedem a conversão da amônia em ureia. O tratamento foca em reduzir a produção intestinal de amônia (lactulose/antibióticos). Em recém-nascidos, a presença de **letargia e vômitos** após o início da amamentação deve levantar a suspeita diagnóstica imediata de um **Defeito do Ciclo da Ureia**.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **ALT vs AST:** A **ALT** é o padrão-ouro para detectar **inflamação hepática** primária.
-- **Ciclo da Ureia:** Transforma o "lixo" neurotóxico (**NH3**) em um resíduo inócuo e solúvel (**Ureia**).
-- **Enzima OTC:** A deficiência mais comum do ciclo; herança **Ligada ao X** (afeta mais homens).
-- **Alanina:** O elo entre o **músculo** (proteólise) e a **glicemia** (fígado) via Ciclo de Cori/Alanina.
-- **Encefalopatia:** Manifestação clínica clássica do excesso de **Amônia** no SNC.
+- **ALT vs AST:** A **ALT** é o padrão-ouro para detectar agressão ao parênquima hepático.
+- **Ciclo da Ureia:** É a única via que neutraliza a **Amônia** tóxica em um composto solúvel.
+- **B6 (Piridoxina):** Cofator indispensável para que as transaminases funcionem corretamente.
+- **Hiperamonemia:** A causa bioquímica da confusão mental e do coma na insuficiência hepática.
+- **OTC:** A deficiência enzimática do ciclo da ureia mais comum nas provas de residência.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **ALT (específica)** vs **AST (compartilhada)** na lesão hepática aguda.
-- **CPSI:** Enzima marcapasso do ciclo da ureia (mitocondrial).
-- **Amônia Gastrossegregada:** O sangramento GI aumenta a amônia porque as bactérias degradam a hemoglobina.
-- **Glutamina:** O principal transportador de amônia dos tecidos para o fígado.
+Foco total da **Uninove**:
+- **Marcadores:** ALT alto = Fígado sofrendo; Amônia alta = Cérebro em risco.
+- **CPS I:** A enzima que dá o "pontapé inicial" no ciclo (mitocondrial).
+- **Proteólise:** O sangramento gastrointestinal (ex: varizes) aumenta a amônia porque as bactérias do intestino degradam o sangue (proteína).
+- **Glutamina:** Se cair em prova que "o corpo precisa enviar amônia ao fígado sem intoxicar o sangue", a resposta é **Glutamina**.
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|----------------------|
-| **Transaminação** | **Desaminação** | **Troca** de grupo amina vs **Liberação** de amônia livre |
-| **ALT** | **AST** | **Fígado** (Citoplasma) vs **Múltiplos** (Mitocôndria) |
-| **Hiperamonemia** | **Ureia Alta** | Problema **Hepático** vs Problema **Renal** |
-| **Piridoxina (B6)**| **Cofator** | Essencial para todas as **Transaminases** |
+### Diferenciações Críticas
+
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Transaminação** | **Desaminação** | **Transferir** o grupo amina vs **Liberar** amônia |
+| **ALT (TGP)** | **AST (TGO)** | **Mais específico** do fígado vs Presente em muitos órgãos |
+| **Amônia Alta** | **Ureia Alta** | Insuficiência **Hepática** vs Insuficiência **Renal** |
+| **Vitamina B6** | **CPSI** | O **Cofator** necessário vs A **Enzima** marcapasso |
 
 ### Frase-âncora para não esquecer
 
-> “Nitrogênio vira ureia no fígado — ou vira problema na cabeça.”
+> **“O nitrogênio vira ureia para sair na urina; se ele ficar no sangue como amônia, ele desliga o cérebro.”**
+

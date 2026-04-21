@@ -1,136 +1,91 @@
-# Divisão do Sistema Nervoso — Anatômica e Funcional
+# BMF4 — Aula 1: Divisão do Sistema Nervoso — O Gabarito da Anatomia
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a1
+Entender as divisões do sistema nervoso é a base de toda a neurologia clínica. Na prova, os temas centrais são a distinção entre **SNC** e **SNP**, a organização do **Tronco Encefálico** e o funcionamento do **SNA Simpático e Parassimpático**.
+
+Na prática, o médico usa essa classificação para localizar lesões. Quando você identifica um reflexo alterado ou uma pupila dilatada, está testando vias específicas do sistema nervoso periférico ou central. Saber onde a via começa e onde ela termina é o que separa um **diagnóstico correto** de um erro crasso de conduta.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Entender as divisões do sistema nervoso é a base de toda a neurologia clínica. Quando um médico diz "lesão de NMS" ou "disfunção do SNA simpático", está usando essa classificação. A Uninove cobra a distinção entre as divisões em questões de localização de lesão e fisiologia autonômica.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de divisão funcional.
+- **O que mostrar:** O "Mapa do Comando": Um fluxograma dividindo o SN em Central (Encéfalo/Medula) e Periférico (Nervos/Gânglios). Dentro do Periférico, destacar a via **Somática** (Voluntária) e a via **Autônoma** (Luta/Fuga vs Repouso).
+- **Tipo sugerido:** Infográfico didático | Fluxograma circular.
+- **Legenda (rascunho):** Organização anatômica e funcional do Sistema Nervoso Humano.
 
+## 1. Divisão Anatômica: SNC vs SNP
 
-
-
----
-
-## Divisão Anatômica
-
-O sistema nervoso é dividido anatomicamente em duas grandes partes:
-
-**Sistema Nervoso Central (SNC):** encéfalo + medula espinal, protegidos pelo crânio e coluna vertebral, envoltos pelas meninges e banhados pelo LCR. Processa, integra e coordena informações.
-
-**Sistema Nervoso Periférico (SNP):** todos os nervos e gânglios fora do SNC. Inclui 12 pares de nervos cranianos, 31 pares de nervos espinais e gânglios autônomos. Conduz informações para e do SNC.
-
-> **Dica:** A distinção SNC vs. SNP é anatômica — não funcional. Um neurônio pode ter o corpo no SNC e o axônio no SNP (como os motoneurônios inferiores).
+O sistema nervoso é dividido por sua localização:
+- **Sistema Nervoso Central (SNC):** Composto pelo **Encéfalo** (Cérebro, Cerebelo e Tronco) e pela **Medula Espinal**. Fica protegido por osso (crânio e coluna).
+- **Sistema Nervoso Periférico (SNP):** Composto pelos **Nervos** (12 pares cranianos e 31 espinais) e pelos **Gânglios**. É o que leva a informação da periferia para o centro e vice-versa.
 
 ---
 
-## Divisão Funcional
+## 2. Divisão Funcional: O Controle do Corpo
 
-A divisão funcional organiza o sistema nervoso por função:
-
-| Divisão | Função | Exemplos |
-|---------|--------|---------|
-| Somático aferente | Sensação consciente do meio externo e do corpo | Dor cutânea, propriocepção |
-| Somático eferente | Controle voluntário do músculo esquelético | Movimentos dos membros |
-| Visceral aferente | Informações dos órgãos internos | Dor visceral, pressão arterial |
-| Visceral eferente (SNA) | Controle involuntário das vísceras | FC, motilidade intestinal |
-
-O **SNA** (visceral eferente) divide-se em:
-- **Simpático (toraco-lombar T1–L2):** luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo.
-- **Parassimpático (crânio-sacral):** repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.
-- **Entérico:** sistema nervoso do intestino, semi-autônomo — plexos de Auerbach e Meissner.
+- **Sistema Nervoso Somático:** Controla o que é **Voluntário** (músculo esquelético). Se você decide caminhar, usa essa via.
+- **Sistema Nervoso Autônomo (SNA):** Controla o que é **Involuntário** (visceral). Divide-se em:
+    - **Simpático:** Sistema de **Luta ou Fuga**. Dilata a pupila, aumenta a frequência cardíaca (FC) e inibe a digestão. Usa **Noradrenalina**.
+    - **Parassimpático:** Sistema de **Repouso e Digestão**. Contrai a pupila, diminui a FC e estimula a digestão. Usa **Acetilcolina**.
 
 ---
 
-## Organização Hierárquica do SNC
+## 3. Organização do Encéfalo
 
-O encéfalo divide-se em três regiões embriológicas e funcionais:
-
-**Prosencéfalo (encéfalo anterior):**
-- Telencéfalo: hemisférios cerebrais, córtex, núcleos da base.
-- Diencéfalo: tálamo, hipotálamo, epitálamo, subtálamo.
-
-**Mesencéfalo (tronco superior):**
-- Pedúnculos cerebrais, tubérculos quadrigêmeos, aqueduto de Sylvius.
-
-**Rombencéfalo (encéfalo posterior):**
-- Metencéfalo: ponte + cerebelo.
-- Mielencéfalo: bulbo.
-
-> **Pegadinha:** O tronco encefálico = mesencéfalo + ponte + bulbo. O cerebelo é parte do rombencéfalo mas NÃO do tronco encefálico — erro frequente em questões.
+O encéfalo não é apenas o cérebro. Ele se divide em:
+- **Cérebro:** Formado pelo **Telencéfalo** (hemisférios) e **Diencéfalo** (tálamo e hipotálamo).
+- **Cerebelo:** Responsável pelo **Equilíbrio e Coordenação**.
+- **Tronco Encefálico:** Formado pelo **Mesencéfalo, Ponte e Bulbo**. É onde ficam os centros vitais (respiração e batimento).
 
 ---
 
-## Substância Cinzenta vs. Branca
+## 4. Substância Cinzenta vs Branca
 
-**Substância cinzenta:** corpos celulares dos neurônios + dendritos + células gliais. No encéfalo, fica no córtex (exterior). Na medula, fica no interior (em "H" ou borboleta).
-
-**Substância branca:** axônios mielinizados. No encéfalo, fica no interior (abaixo do córtex). Na medula, fica no exterior (colunas).
-
-Esta inversão (cinzenta fora no encéfalo, cinzenta dentro na medula) é clássica de questão.
-
----
-
-## SNA — Neurotransmissores e Receptores
-
-| Divisão | Pré-ganglionar | Pós-ganglionar | Receptor no órgão |
-|---------|---------------|---------------|--------------------|
-| Simpático | ACh → nicotínico | Noradrenalina (maioria) | Adrenérgico (α, β) |
-| Parassimpático | ACh → nicotínico | ACh | Muscarínico (M1–M5) |
-| Medula suprarrenal | ACh → nicotínico | Adrenalina diretamente | Adrenérgico sistêmico |
-
-> **Dica:** Toda sinapse pré-ganglionar usa acetilcolina no receptor nicotínico — seja simpático ou parassimpático. O que diferencia é o pós-ganglionar.
-
----
-
-## Pontos-Chave
-
-- SNC = encéfalo + medula. SNP = nervos e gânglios periféricos.
-- Substância cinzenta: corpos neuronais. Branca: axônios mielinizados.
-- No encéfalo: cinzenta fora (córtex), branca dentro. Na medula: cinzenta dentro (H), branca fora.
-- SNA simpático: toracolomblar, noradrenalina pós-ganglionar, luta/fuga.
-- SNA parassimpático: crânio-sacral, ACh pós-ganglionar, repouso/digestão.
-- Todo pré-ganglionar (simpático e parassimpático) usa ACh e receptor nicotínico.
+- **Substância Cinzenta:** Onde ficam os **Corpos de Neurônios** (o processador).
+- **Substância Branca:** Onde ficam os **Axônios Mielinizados** (os fios de transmissão).
+- **Regra de Ouro:** No cérebro, a cinzenta fica **Fora** (córtex). Na medula, a cinzenta fica **Dentro** (formato de H).
 
 ---
 
 ## Ponte com a Clínica
 
-Entender o SNA é essencial para farmacologia: betabloqueadores (bloqueiam receptor β-adrenérgico = simpático), atropina (bloqueia M muscarínico = parassimpático), neostigmina (inibe acetilcolinesterase = potencializa parassimpático). A divisão anatômica explica por que lesões do SNC causam espasticidade (perde controle inibitório do NMS) enquanto lesões do SNP causam flacidez (perde o próprio NMI).
+No seu futuro plantão, se atender um paciente com **Pupilas Anisocóricas** (uma maior que a outra) após um trauma, você deve pensar imediatamente em compressão de nervos cranianos ou lesão de tronco encefálico. O sistema nervoso central está sofrendo pressão. Entender a anatomia te diz que o problema está "dentro da caixa", exigindo uma **tomografia de urgência** e, possivelmente, intervenção neurocirúrgica imediata.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Tronco Encefálico**: Composto por **Mesencéfalo, Ponte e Bulbo** (O cerebelo **NÃO** faz parte do tronco).
+- **SNA Simpático**: Origem toracolombar (**T1 a L2**).
+- **SNA Parassimpático**: Origem **craniossacral** (Nervos cranianos III, VII, IX, X e S2-S4).
+- **Acetilcolina**: É o neurotransmissor de **Toda** fibra pré-ganglionar (tanto simpática quanto parassimpática).
+- **Substância Branca**: Deve sua cor à **Bainha de Mielina**, que acelera a condução do impulso nervoso.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **SNC vs. SNP:** SNC = encéfalo + medula; SNP = nervos e gânglios.
-- **Cinzenta fora/branca dentro no encéfalo; cinzenta dentro/branca fora na medula.**
-- **Tronco encefálico = mesencéfalo + ponte + bulbo** (cerebelo é rombencéfalo mas não tronco).
-- **Simpático:** toracolumbar, noradrenalina pós-ganglionar, α e β receptores.
-- **Parassimpático:** crânio-sacral, ACh pós-ganglionar, receptor muscarínico.
-- **Todo pré-ganglionar = ACh + nicotínico**, independente da divisão.
+
+Para gabaritar a divisão do SN, foque na localização e no neurotransmissor. 
+**SNC** = Encéfalo + Medula. **SNP** = Nervos + Gânglios. No **Simpático**, o neurônio pós-ganglionar libera **Noradrenalina**. No **Parassimpático**, libera **Acetilcolina**.
+
+A Uninove adora a **Substância Cinzenta**. Lembre-se: No "Cão" (Cérebro), a cinzenta está no quintal (Fora). No "Medo" (Medula), a cinzenta está no coração (Dentro). Outro ponto forte: o **Bulbo** é quem controla a respiração; lesões ali são fatais. Por fim, saiba que o **Cerebelo** é responsável pelo refinamento do movimento; se o paciente erra o alvo no teste dedo-nasiz, a lesão é cerebelar.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Simpático | Parassimpático | Simpático: T1–L2, NA pós; Parassim.: crânio-sacral, ACh pós |
-| Substância cinzenta | Substância branca | Cinzenta: corpos; branca: axônios mielinizados |
-| Tronco encefálico | Cerebelo | Tronco = me+pon+bul; cerebelo é separado, mesmo no rombencéfalo |
-| SNC | SNP | SNC = dentro do crânio/coluna; SNP = fora |
+| **Simpático** | **Parassimpático** | **Luta/Fuga** (Midríase) vs **Repouso** (Miose) |
+| **SNC** | **SNP** | **Dentro** do osso vs **Fora** do osso |
+| **Cinzenta** | **Branca** | **Processamento** (Corpos) vs **Transmissão** (Axônios) |
+| **Telencéfalo** | **Diencéfalo** | **Córtex/Hemisférios** vs **Tálamo/Hipotálamo** |
+| **Mesencéfalo** | **Bulbo** | **Topo** do tronco vs **Base** do tronco (Vomito/Respirar) |
 
 ### Frase-âncora para não esquecer
-> "O cérebro inverteu a ordem: cinzenta por fora, branca por dentro. A medula faz o contrário."
+
+> "O Simpático te prepara para o perigo com adrenalina. O Parassimpático te acalma com acetilcolina. No Cérebro, a casca é cinza; na Medula, o recheio é cinza. Se o tronco falhar, a vida vai parar."

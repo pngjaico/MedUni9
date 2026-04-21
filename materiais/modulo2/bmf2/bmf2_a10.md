@@ -9,15 +9,15 @@
 
 O sistema respiratório é a interface vital entre o meio interno e o oxigênio atmosférico. Compreender sua anatomia e mecânica é o que permite ao médico interpretar desde um ruído na ausculta pulmonar até a gravidade de uma crise de asma ou de um pneumotórax.
 
-Na prática clínica, o domínio das vias aéreas e da barreira alvéolo-capilar é essencial para o manejo de patologias respiratórias comuns. Entender como o tórax expande e como os alvéolos permanecem abertos (via surfactante) é a base para o uso correto de oxigenoterapia e ventilação mecânica. Nesta aula, unimos a estrutura macroscópica da árvore brônquica com a física da ventilação pulmonar.
+Na prática clínica, o domínio das **vias aéreas** e da **barreira alvéolo-capilar** é essencial para o manejo de patologias respiratórias comuns. Entender como o tórax expande e como os alvéolos permanecem abertos (via **surfactante**) é a base para o uso correto de oxigenoterapia e ventilação mecânica. Nesta aula, unimos a estrutura macroscópica da árvore brônquica com a física da ventilação pulmonar.
 
 ---
 
 ## Arquitetura do Sistema Respiratório
 
-A árvore respiratória é dividida em dois grandes territórios funcionais. A **Zona de Condução**, que vai do nariz até os **bronquíolos terminais**, funciona como um sistema de tubulações que filtra, aquece e umidifica o ar, mas não realiza trocas gasosas. Estes tubos são revestidos por um epitélio ciliado que remove impurezas, o famoso "elevador mucociliar".
+A árvore respiratória é dividida em dois grandes territórios funcionais. A **Zona de Condução**, que vai do nariz até os **bronquíolos terminais**, funciona como um sistema de tubulações que filtra, aquece e umidifica o ar, mas não realiza trocas gasosas. Estes tubos são revestidos por um epitélio ciliado que remove impurezas, o famoso "**elevador mucociliar**".
 
-A partir dos **bronquíolos respiratórios**, entramos na **Zona Respiratória**. Aqui, as paredes das vias aéreas começam a apresentar alvéolos, permitindo o início da hematose. A troca gasosa atinge seu ápice nos alvéolos, que são envolvidos por uma densa rede de capilares. É importante não confundir: o bronquíolo terminal é o último segmento puramente condutor, enquanto o respiratório é o pioneiro nas trocas de gases.
+A partir dos **bronquíolos respiratórios**, entramos na **Zona Respiratória**. Aqui, as paredes das vias aéreas começam a apresentar alvéolos, permitindo o início da **hematose**. A troca gasosa atinge seu ápice nos **alvéolos**, que são envolvidos por uma densa rede de capilares. É importante não confundir: o bronquíolo terminal é o último segmento puramente condutor, enquanto o respiratório é o pioneiro nas trocas de gases.
 
 ### Tabela: Divisão das Vias Aéreas
 

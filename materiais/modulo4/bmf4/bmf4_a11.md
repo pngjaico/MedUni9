@@ -1,8 +1,8 @@
 # BMF4 — Aula 11: Histologia do Sistema Nervoso — Neurônios e Glia
 
-O sistema nervoso é feito de unidades de processamento (neurônios) e de suporte (glia). Na prova, os temas centrais são a estrutura do **Neurônio** (especialmente o Corpúsculo de Nissl), a diferença entre **Oligodendrócitos e Células de Schwann** e as funções da **Microglia e Astrócitos**.
+O sistema nervoso é feito de unidades de processamento (neurônios) e de suporte (glia). Na prova, os temas centrais são a estrutura do **Neurônio** (especialmente o **Corpúsculo de Nissl**), a diferença entre **Oligodendrócitos e Células de Schwann** e as funções da **Microglia e Astrócitos**.
 
-Na prática, a histologia explica as doenças. Quando um paciente tem **Esclerose Múltipla**, o alvo do sistema imune é a bainha de mielina no centro (SNC). Quando ele tem a **Síndrome de Guillain-Barré**, o alvo é a mielina na periferia (SNP). Entender quem produz a mielina em cada lugar te dá o diagnóstico da doença.
+Na prática, a histologia explica as doenças. Quando um paciente tem **Esclerose Múltipla**, o alvo do sistema imune é a bainha de mielina no centro (**SNC**). Quando ele tem a **Síndrome de Guillain-Barré**, o alvo é a mielina na periferia (**SNP**). Entender quem produz a mielina em cada lugar te dá o diagnóstico da doença.
 
 ---
 
@@ -21,7 +21,7 @@ O neurônio tem partes específicas:
 - **Corpo Celular (Pericário):** É a fábrica da célula. Contém os **Corpúsculos de Nissl** (RER), que são manchas que indicam síntese intensa de proteínas. 
 - **Dendritos:** São os "ouvidos" do neurônio, recebendo o sinal.
 - **Axônio:** É o "fio" que leva o sinal. Ele **NÃO** possui corpúsculos de Nissl.
-- **Cone de Implantação:** O início do axônio, onde o sinal elétrico (potencial de ação) realmente começa.
+- **Cone de Implantação:** O início do axônio, onde o sinal elétrico (**potencial de ação**) realmente começa.
 
 ---
 
@@ -29,7 +29,7 @@ O neurônio tem partes específicas:
 
 A mielina é uma capa de gordura que isola o axônio e acelera o sinal:
 - **Nódulos de Ranvier:** São os espaços sem mielina. O sinal "pula" de um nódulo para outro (**Condução Saltatória**). Isso torna a transmissão 100x mais rápida.
-- **Fibras Amielínicas:** Algumas fibras (tipo C, da dor crônica) não têm mielina e são muito lentas.
+- **Fibras Amielínicas:** Algumas fibras (**tipo C**, da dor crônica) não têm mielina e são muito lentas.
 
 ---
 
@@ -54,14 +54,14 @@ Como o corpo do neurônio está longe do fim do axônio, as proteínas viajam em
 
 ## Ponte com a Clínica
 
-Se você atender uma criança que sofreu uma mordida de cachorro e começa a apresentar sintomas neurológicos, lembre-se do **Transporte Retrógrado**. O vírus da raiva entrou pelo nervo periférico e viajou lentamente "de ré" (via dineína) até chegar ao sistema nervoso central. Por isso, a vacina e o soro devem ser aplicados o quanto antes: estamos em uma corrida contra a "carona" que o vírus pegou nos axônios.
+Se você atender uma criança que sofreu uma mordida de cachorro e começa a apresentar sintomas neurológicos, lembre-se do **Transporte Retrógrado**. O vírus da raiva entrou pelo nervo periférico e viajou lentamente "de ré" (via **dineína**) até chegar ao sistema nervoso central. Por isso, a vacina e o soro devem ser aplicados o quanto antes: estamos em uma corrida contra a "carona" que o vírus pegou nos axônios.
 
 ---
 
 ## Pontos-Chave para Prova
 
 - **Corpúsculo de Nissl**: Presente no corpo e dendritos, mas **Ausente no Axônio**.
-- **Astrócitos**: Formam a barreira hematoencefálica e controlam o ambiente químico dos neurônios.
+- **Astrócitos**: Formam a **barreira hematoencefálica** e controlam o ambiente químico dos neurônios.
 - **Microglia**: Única célula da glia com origem no **Mesênquima** (é um parente dos glóbulos brancos).
 - **Oligodendrócitos**: Alvos da destruição autoimune na **Esclerose Múltipla**.
 - **Células de Schwann**: Alvos da destruição autoimune na **Síndrome de Guillain-Barré**.

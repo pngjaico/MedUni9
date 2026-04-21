@@ -17,19 +17,19 @@ Na prática, uma entrevista dirigida que busca **Red Flags** ativamente reduz er
 
 ## Principais Queixas e Exploração Clínica
 
-### Dispneia (Falta de Ar)
+#### Dispneia (Falta de Ar)
 Deve-se graduar a dispneia pelo esforço e buscar sintomas de congestão:
 - **Ortopneia:** Dispneia ao deitar (melhora ao sentar).
 - **DPN (Dispneia Paroxística Noturna):** Paciente acorda subitamente com falta de ar após algumas horas de sono.
 - **Dispneia Súbita:** Sugere **TEP**, **Pneumotórax** ou **Edema Agudo**.
 
-### Dor Torácica
+#### Dor Torácica
 A dor deve ser estratificada pelo risco isquêmico:
 - **Dor Isquêmica Clássica:** Opressiva, retroesternal, irradia para braço esquerdo/mandíbula, piora com esforço.
 - **Dor Pleurítica:** Em pontada, piora com inspiração profunda ou tosse.
-- **Red Flags:** Sudorese fria, náusea, síncope ou dor que irradia para o dorso (dissecção).
+- **Red Flags:** Sudorese fria, náusea, síncope ou dor que irradia para o dorso (**dissecção**).
 
-### Hemoptise vs. Hematêmese
+#### Hemoptise vs. Hematêmese
 É crucial confirmar a origem do sangramento:
 - **Hemoptise:** Sangue vivo, espumoso, precedido por tosse (origem respiratória).
 - **Hematêmese:** Sangue escuro (borra de café) ou vivo, precedido por náusea/vômito (origem digestiva).
@@ -57,7 +57,7 @@ Conecte os sintomas ao perfil do paciente:
 - **Pulmonar:** Asma, DPOC, Tuberculose prévia, Exposição a poeiras.
 - **Tromboembólico:** Imobilização, Cirurgia recente, Viagens longas, Uso de estrogênio.
 
-> **Dica de Prova:** Em pacientes com tosse seca persistente, verifique sempre o uso de **IECA** (ex: Enalapril/Captopril) nos medicamentos em uso.
+> **Dica de Prova:** Em pacientes com tosse seca persistente, verifique sempre o uso de **IECA** (ex: **Enalapril**/**Captopril**) nos medicamentos em uso.
 
 ---
 

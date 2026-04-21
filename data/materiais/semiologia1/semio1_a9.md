@@ -32,9 +32,7 @@ Ela começa no problema central e termina com plano claro.
 ## Regra de ouro: gravidade antes de probabilidade
 
 Em casos musculoesqueléticos, o diagnóstico mais comum nem sempre é o mais perigoso.
-Na discussão inicial, primeiro exclua condições que ameaçam função ou vida,
-como artrite séptica, síndrome da cauda equina, fratura instável ou déficit neurológico progressivo.
-Depois disso, refine para hipóteses mais prevalentes.
+Na discussão inicial, primeiro exclua condições que ameaçam função ou vida, como **artrite séptica**, **síndrome da cauda equina**, **fratura instável** ou **déficit neurológico progressivo**. Depois disso, refine para hipóteses mais prevalentes.
 
 Essa lógica aparece repetidamente em questões discursivas:
 "qual hipótese deve ser afastada primeiro?".
@@ -47,10 +45,10 @@ Elas devem ser direcionadas para reduzir incerteza clínica real.
 
 | Pergunta | O que ela testa | Exemplo de impacto no plano |
 |----------|------------------|-----------------------------|
-| "Qual dado do exame enfraquece nossa hipótese principal?" | Robustez do raciocínio | Evita viés de confirmação |
-| "Há sinal de gravidade que exige urgência?" | Priorização de risco | Define necessidade de encaminhamento imediato |
-| "Qual exame complementa e realmente muda conduta?" | Uso racional de recursos | Evita solicitação automática de imagem |
-| "Qual alternativa diagnóstica não pode ser perdida?" | Segurança clínica | Organiza seguimento e retorno |
+| **Qual dado do exame enfraquece nossa hipótese principal?** | Robustez do raciocínio | Evita viés de confirmação |
+| **Há sinal de gravidade que exige urgência?** | Priorização de risco | Define necessidade de encaminhamento imediato |
+| **Qual exame complementa e realmente muda conduta?** | Uso racional de recursos | Evita solicitação automática de imagem |
+| **Qual alternativa diagnóstica não pode ser perdida?** | Segurança clínica | Organiza seguimento e retorno |
 
 ### Figura sugerida
 
@@ -89,10 +87,10 @@ Em avaliações com tempo restrito, um roteiro temporal ajuda muito.
 
 | Tempo | Conteúdo recomendado | Meta |
 |------|-----------------------|------|
-| 30 s | Queixa principal, mecanismo, evolução e impacto funcional | Definir problema |
-| 20 s | Achados físicos críticos (positivos e negativos úteis) | Sustentar hipótese |
-| 20 s | Duas hipóteses principais (gravidade + probabilidade) | Mostrar priorização |
-| 20 s | Plano inicial e critério de retorno/alarme | Encerrar com ação |
+| 30 s | **Queixa principal, mecanismo, evolução e impacto funcional** | Definir problema |
+| 20 s | **Achados físicos críticos** (positivos e negativos úteis) | Sustentar hipótese |
+| 20 s | **Hipóteses principais** (gravidade + probabilidade) | Mostrar priorização |
+| 20 s | **Plano inicial** e critério de retorno/alarme | Encerrar com ação |
 
 Treinar com cronômetro reduz divagação e melhora objetividade.
 Em banca, objetividade com consistência costuma pontuar mais que discurso longo.

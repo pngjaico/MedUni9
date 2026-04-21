@@ -2,7 +2,7 @@
 
 A anatomia do crânio é a base para entender traumas cranioencefálicos (TCE) e sangramentos cerebrais. Na prova, os temas centrais são as **Fontanelas** no bebê, a localização da **Artéria Meníngea Média** (e o hematoma extradural) e os forames da **Base do Crânio**.
 
-Na prática, o crânio não é apenas um osso sólido; ele é cheio de "buracos" (forames) por onde passam nervos e vasos vitais. Uma fratura na base do crânio pode causar desde a perda do olfato até a paralisia total dos olhos ou da face, dependendo de qual andar (fossa) foi atingido.
+Na prática, o crânio não é apenas um osso sólido; ele é cheio de "buracos" (forames) por onde passam nervos e vasos vitais. Uma fratura na base do crânio pode causar desde a perda do olfato até a paralisia total dos olhos ou da face, dependendo de qual andar (**fossa**) foi atingido.
 
 ---
 
@@ -20,7 +20,7 @@ Na prática, o crânio não é apenas um osso sólido; ele é cheio de "buracos"
 O crânio é dividido em duas partes principais:
 - **Neurocrânio:** A parte que protege o encéfalo. Inclui os ossos **Frontal, Parietais, Temporais, Occipital, Esfenoide e Etmoide**. 
 - **Viscerocrânio:** O esqueleto da face (maxila, mandíbula, zigomático).
-- **Fontanelas (Moleiras):** No bebê, os ossos não estão grudados. A **Fontanela Anterior** (Bregma) fecha por volta dos **18 meses**. Se estiver funda, indica desidratação; se estiver "estufada", indica pressão alta no cérebro.
+- **Fontanelas (Moleiras):** No bebê, os ossos não estão grudados. A **Fontanela Anterior (Bregma)** fecha por volta dos **18 meses**. Se estiver funda, indica desidratação; se estiver "estufada", indica pressão alta no cérebro.
 
 ---
 
@@ -28,7 +28,7 @@ O crânio é dividido em duas partes principais:
 
 A base do crânio é dividida como se fosse um prédio:
 1.  **Fossa Anterior:** Onde ficam os lobos frontais. Contém a **Lâmina Cribriforme**, por onde passam os nervos do olfato (**NC I**). Uma fratura aqui faz o LCR sair pelo nariz (**Rinorreia**).
-2.  **Fossa Média:** Onde fica a **Hipófise** (na Sela Túrcica) e o lobo temporal. Contém a maioria dos forames para os nervos dos olhos.
+2.  **Fossa Média:** Onde fica a **Hipófise** (na **Sela Túrcica**) e o lobo temporal. Contém a maioria dos forames para os nervos dos olhos.
 3.  **Fossa Posterior:** O andar mais baixo. Onde ficam o **Cerebelo e o Tronco Encefálico**. O maior buraco é o **Forame Magno**, por onde o bulbo vira medula.
 
 ---
@@ -37,14 +37,14 @@ A base do crânio é dividida como se fosse um prédio:
 
 Essa artéria passa por um forame bem pequeno na fossa média (forame espinhoso) e fica encostada no osso temporal (na região da têmpora).
 - **Hematoma Extradural (Epidural):** Uma pancada na lateral da cabeça pode quebrar o osso e romper essa artéria.
-- **Clínica:** O sangue se acumula rápido entre o osso e a duramáter. O paciente pode ter um **Intervalo Lúcido** (acorda, conversa e depois "apaga" e entra em coma). É uma emergência cirúrgica máxima!
+- **Clínica:** O sangue se acumula rápido entre o osso e a duramáter. O paciente pode ter um **Intervalo Lúcido** (acorda, conversa e depois "apaga" e entra em coma). É uma **emergência cirúrgica máxima**!
 
 ---
 
 ## 4. Seio Cavernoso: O Entroncamento Venoso
 
 O **Seio Cavernoso** é um reservatório de sangue ao lado da sela túrcica. Dentro dele passam:
-- **Nervos Cranianos:** III, IV, V1, V2 e VI (todos que movem o olho ou dão sensibilidade à face).
+- **Nervos Cranianos:** **III, IV, V1, V2 e VI** (todos que movem o olho ou dão sensibilidade à face).
 - **Artéria Carótida Interna.**
 - **Clínica:** Uma infecção no nariz ou olho pode gerar uma **Trombose de Seio Cavernoso**, paralisando todos os movimentos do olho e causando dor intensa.
 
@@ -52,13 +52,13 @@ O **Seio Cavernoso** é um reservatório de sangue ao lado da sela túrcica. Den
 
 ## Ponte com a Clínica
 
-No trauma, a fratura de base de crânio tem dois sinais clássicos que você deve procurar no exame físico: o **Sinal do Guaxinim** (hematoma ao redor dos olhos) e o **Sinal de Battle** (hematoma atrás da orelha). Se você vir isso, não passe sonda pelo nariz (sonda nasogástrica), pois a sonda pode atravessar a fratura de base e ir parar direto dentro do cérebro do paciente.
+No trauma, a fratura de base de crânio tem dois sinais clássicos que você deve procurar no exame físico: o **Sinal do Guaxinim** (hematoma ao redor dos olhos) e o **Sinal de Battle** (hematoma atrás da orelha). Se você vir isso, não passe **sonda nasogástrica**, pois a sonda pode atravessar a fratura de base e ir parar direto dentro do cérebro do paciente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Fontanela Anterior**: Fecha aos 18 meses; é o principal marcador de hidratação/pressão no lactante.
+- **Fontanela Anterior**: Fecha aos **18 meses**; é o principal marcador de hidratação/pressão no lactante.
 - **Forame Espinhoso**: Passagem da **Artéria Meníngea Média**; lesão gera hematoma epidural.
 - **Lâmina Cribriforme**: Localizada no osso etmoide; passagem do **Nervo Olfatório (NC I)**.
 - **Forame Magno**: Abertura para a transição do bulbo para a medula espinal.

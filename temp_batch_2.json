@@ -1,0 +1,2426 @@
+[
+  {
+    "id": 301,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A menção à hipertermia maligna ancora-se fisiologicamente em qual mecanismo?",
+    "opcoes": [
+      "A) Ausência total de Ca²⁺ no sarcoplasma",
+      "B) Bloqueio irreversível exclusivo de receptores muscarínicos cardíacos",
+      "C) Parada completa de ATP mitocondrial sem aumento de calor",
+      "D) Liberação descontrolada de Ca²⁺ relacionada ao receptor de rianodina e hipermetabolismo"
+    ],
+    "explicacao_geral": "Vínculo Ca²⁺ + RS — detalhes anestésicos ficam para especialidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o problema é excesso funcional de sinal de Ca²⁺.",
+      "B": "Incorreta: não é o eixo descrito.",
+      "C": "Incorreta: quadro é hipermetabólico.",
+      "D": "Correta: texto da seção integrativa."
+    },
+    "explicacao": "Conceito-chave: RyR descontrolado = bomba de calor e rigidez.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 302,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Paciente com trauma na região da cabeça da fíbula e fraqueza dos dorsiflexores. A marcha em ‘steppage’ e a ‘queda’ do pé sugerem comprometimento predominante de qual padrão inervador na perna?",
+    "opcoes": [
+      "A) Ramo fibular (comum/profundo) em contraste com o tibial (ex.: extensão do pé e marcha compensatória",
+      "B) Nervo femoral isolado no compartimento medial da coxa",
+      "C) Apenas nervo obturador sem ação no pé",
+      "D) Nervo tibial no túnel do tarso, com predomínio de déficit plantar"
+    ],
+    "explicacao_geral": "Fibular profundo inerva dorsiflexores; queda do pé e steppage são clássicos na integração .",
+    "explicacoes_opcoes": {
+      "A": "Correta: sintetiza a quadro comparativo da perna e a ponte clínica.",
+      "B": "Incorreta: femoral não explica padrão distal típico do pé.",
+      "C": "Incorreta: obturador não governa dorsiflexão.",
+      "D": "Incorreta: nível anatômico errado."
+    },
+    "explicacao": "Fibular profundo inerva dorsiflexores; queda do pé e steppage são clássicos na integração do conteúdo. Correta: sintetiza a quadro comparativo da perna e a ponte clínica.",
+    "aula_id": "bcm1_a3"
+  },
+  {
+    "id": 303,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Sobre o manguito do ombro no quadro comparativo , qual associação músculo–ação–nervo está correta?",
+    "opcoes": [
+      "A) Subescapular — rotação lateral — axilar",
+      "B) Supraespinhal — abdução iniciada (0–15°) — supraescapular",
+      "C) Infraespinhal — rotação medial — musculocutâneo",
+      "D) Redondo menor — abdução principal — supraescapular"
+    ],
+    "explicacao_geral": "Quatro músculos, três nervos — confundir rotações e nervos custa questão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: subescapular faz rotação medial e inerva-se por subescapular.",
+      "B": "Correta: linha explícita da quadro comparativo do manguito.",
+      "C": "Incorreta: infraespinhal é rotação lateral e supraescapular.",
+      "D": "Incorreta: abdução principal é deltoide; redondo menor é lateral com axilar."
+    },
+    "explicacao": "Quatro músculos, três nervos — confundir rotações e nervos custa questão. Correta: linha explícita da quadro comparativo do manguito.",
+    "aula_id": "bcm1_a3"
+  },
+  {
+    "id": 304,
+    "materia": "bmf4",
+    "tema": "bmf4_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual músculo realiza a abdução principal do ombro e qual nervo o conteúdo associa?",
+    "opcoes": [
+      "A) Peitoral maior — nervo peitoral medial",
+      "B) Redondo maior — supraescapular",
+      "C) Deltoide — axilar",
+      "D) Bíceps braquial — musculocutâneo exclusivamente"
+    ],
+    "explicacao_geral": "Lesão axilar pode afetar deltoide e área de sensibilidade lateral do braço.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: adução/flexão, não abdução principal.",
+      "B": "Incorreta: redondo maior não é ‘abdução principal’ do ombro.",
+      "C": "Correta: quadro comparativo deltoide .",
+      "D": "Incorreta: bíceps não é abdutor principal do ombro."
+    },
+    "explicacao": "Lesão axilar pode afetar deltoide e área de sensibilidade lateral do braço. Correta: quadro comparativo deltoide da conteúdo.",
+    "aula_id": "bmf4_a3",
+    "essencial": false
+  },
+  {
+    "id": 305,
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No membro inferior, o nervo ciático na coxa segue tipicamente para quais ramos principais na perna, segundo o texto?",
+    "opcoes": [
+      "A) Femoral e obturador exclusivamente",
+      "B) Tibial e safeno",
+      "C) Fibular profundo e fibular superficial",
+      "D) Tibial e fibular (comum), distribuindo compartimentos posteriores e anteriores/laterais conforme o mapa"
+    ],
+    "explicacao_geral": "Entender o ‘split’ do ciático organiza déficits distais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ramos da coxa anterior/medial.",
+      "B": "Incorreta: membros superiores.",
+      "C": "Incorreta: nervos de antebraço.",
+      "D": "Correta: ecoa a ênfase e das quadro comparativos."
+    },
+    "explicacao": "Entender o ‘split’ do ciático organiza déficits distais. Correta: ecoa a ênfase da conteúdo e das tabelas.",
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 306,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No braço, o compartimento posterior com tríceps braquial é inervado predominantemente por qual nervo?",
+    "opcoes": [
+      "A) Radial",
+      "B) Musculocutâneo",
+      "C) Mediano",
+      "D) Axilar"
+    ],
+    "explicacao_geral": "Extensores de cotovelo seguem mapa radial — integra com punho e dedos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: quadro comparativo braço anterior × posterior.",
+      "B": "Incorreta: flexores anteriores (bíceps/braquial).",
+      "C": "Incorreta: antebraço mediano em flexores profundos, não tríceps.",
+      "D": "Incorreta: ombro deltoide."
+    },
+    "explicacao": "Extensores de cotovelo seguem mapa radial — integra com punho e dedos. Correta: quadro comparativo braço anterior × posterior.",
+    "aula_id": "mad1_a2"
+  },
+  {
+    "id": 307,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na perna, os músculos fibulares (peroneais) longo e curto, responsáveis pela eversão, são inervados pelo:",
+    "opcoes": [
+      "A) Tibial na região posterior profunda",
+      "B) Fibular superficial",
+      "C) Fibular profundo",
+      "D) Femoral exclusivamente"
+    ],
+    "explicacao_geral": "Profundo = dorsiflexão; superficial = eversão — distinção cobrada junto com inversão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tibial inerva flexores plantares posteriores.",
+      "B": "Correta: quadro comparativo lateral da perna.",
+      "C": "Incorreta: profundo inerva anterior (ex.: tibial anterior).",
+      "D": "Incorreta: nível proximal errado."
+    },
+    "explicacao": "Profundo = dorsiflexão; superficial = eversão — distinção cobrada junto com inversão. Correta: quadro comparativo lateral da perna.",
+    "aula_id": "farm_a5"
+  },
+  {
+    "id": 308,
+    "materia": "eci8",
+    "tema": "eci8_a8",
+    "modulo": 8,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Tibial anterior e extensor longo dos dedos, no compartimento anterior da perna, relacionam-se principalmente com qual nervo?",
+    "opcoes": [
+      "A) Tibial (mesmo nome, mesmo compartimento)",
+      "B) Fibular superficial",
+      "C) Fibular profundo",
+      "D) Obturador"
+    ],
+    "explicacao_geral": "Confundir ‘tibial’ nervo com compartimento anterior é confusão comum de nomenclatura.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: nervo tibial segue compartimento posterior na distribuição clássica.",
+      "B": "Incorreta: lateral/eversores.",
+      "C": "Correta: mapa da quadro comparativo anterior da perna.",
+      "D": "Incorreta: adução da coxa."
+    },
+    "explicacao": "Confundir ‘tibial’ nervo com compartimento anterior é confusão comum de nomenclatura. Correta: mapa da quadro comparativo anterior da perna.",
+    "aula_id": "eci8_a8"
+  },
+  {
+    "id": 309,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Gastrocnêmio e sóleo, no compartimento superficial posterior da perna, são classicamente inervados pelo:",
+    "opcoes": [
+      "A) Fibular superficial",
+      "B) Fibular profundo",
+      "C) Femoral",
+      "D) Tibial"
+    ],
+    "explicacao_geral": "Flexão plantar e ‘força de empurrar’ — tríceps sural.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: lateral/eversão.",
+      "B": "Incorreta: dorsiflexão anterior.",
+      "C": "Incorreta: quadril/coxa anterior.",
+      "D": "Correta: quadro comparativo posterior superficial."
+    },
+    "explicacao": "Flexão plantar e ‘força de empurrar’ — tríceps sural. Correta: quadro comparativo posterior superficial.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 310,
+    "materia": "bmf3",
+    "tema": "bmf3_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A documentação de força pelo MRC 0–5 deve ser feita, segundo a ênfase , avaliando:",
+    "opcoes": [
+      "A) Apenas sensibilidade cutânea sem teste motor",
+      "B) Grupos musculares segmentares, não apenas ‘força boa’ de forma vaga",
+      "C) Somente articulações, sem músculos nomeáveis",
+      "D) Força global sem discriminar grupos musculares por segmento"
+    ],
+    "explicacao_geral": "Teste por segmento documenta déficit antes da imagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: semiologia combina motor e sensorial quando indicado.",
+      "B": "Correta: alinha-se ao ‘O que você PRECISA saber’.",
+      "C": "Incorreta: força muscular é o alvo do MRC.",
+      "D": "Incorreta: sem base na regra citada."
+    },
+    "explicacao": "Teste por segmento documenta déficit antes da imagem. Correta: alinha-se ao ‘O que você PRECISA saber’.",
+    "aula_id": "bmf3_a12",
+    "essencial": false
+  },
+  {
+    "id": 311,
+    "materia": "mad2",
+    "tema": "mad2_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na ponte com a clínica, qual conjunto de achados aproxima-se da suspeita de síndrome compartimental aguda de membro, em termos anatômicos/fisiopatológicos descritos?",
+    "opcoes": [
+      "A) Dor exclusivamente proporcional ao esforço voluntário sem dor à extensão passiva",
+      "B) Parestesia isolada sem possibilidade de déficit motor",
+      "C) Ausência total de dor em fratura exposta",
+      "D) Dor desproporcional com dor à extensão passiva do músculo do compartimento em contexto de pressão elevada no espaço limitado por fáscia"
+    ],
+    "explicacao_geral": "Emergência — anatomia do compartimento explica por que dor piora com estiramento passivo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: extensão passiva dolorosa é pista clássica.",
+      "B": "Incorreta: déficit pode evoluir.",
+      "C": "Incorreta: cenário não exclui compartimental.",
+      "D": "Correta: síntese do alerta da ponte com a clínica."
+    },
+    "explicacao": "Emergência — anatomia do compartimento explica por que dor piora com estiramento passivo. Correta: síntese do alerta da ponte com a clínica.",
+    "aula_id": "mad2_a1",
+    "essencial": false
+  },
+  {
+    "id": 312,
+    "materia": "mad1",
+    "tema": "mad1_a15",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na epiderme espessa, a sequência das camadas do superficial ao profundo, anatômico, é:",
+    "opcoes": [
+      "A) Estrato córneo → estrato granuloso → estrato espinhoso → estrato basal",
+      "B) Estrato basal → estrato espinhoso → estrato córneo → estrato granuloso",
+      "C) Estrato granuloso → estrato córneo → estrato basal → estrato espinhoso",
+      "D) Estrato espinhoso → estrato basal → estrato granuloso → estrato córneo"
+    ],
+    "explicacao_geral": "Ordem fixa em prova: córneo, granuloso, espinhoso, basal.",
+    "explicacoes_opcoes": {
+      "A": "Correta: coincide com a quadro comparativo .",
+      "B": "Incorreta: inverte o sentido superficial–profundo.",
+      "C": "Incorreta: mistura camadas fora da sequência clássica.",
+      "D": "Incorreta: basal não fica superficial ao córneo."
+    },
+    "explicacao": "Ordem fixa em prova: córneo, granuloso, espinhoso, basal. Correta: coincide com a quadro comparativo da conteúdo.",
+    "aula_id": "mad1_a15"
+  },
+  {
+    "id": 313,
+    "materia": "mad2",
+    "tema": "mad2_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A epiderme é descrita como avascular. Como oxigênio e nutrientes costumam chegar às camadas epidérmicas, anatômico?",
+    "opcoes": [
+      "A) Por transporte ativo direto dos vasos do estrato córneo",
+      "B) Por difusão a partir da derme, através da membrana basal",
+      "C) Exclusivamente por sudorese das glândulas écrinas",
+      "D) Por síntese mitocondrial independente em cada queratinócito, sem aporte externo"
+    ],
+    "explicacao_geral": "Derme vascularizada nutre por difusão — dica de prova explícita no material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: córneo não tem leito vascular próprio.",
+      "B": "Correta: alinha-se à ‘Dica de Prova’ do texto.",
+      "C": "Incorreta: função distinta (termorregulação/odor).",
+      "D": "Incorreta: não substitui aporte da derme."
+    },
+    "explicacao": "Derme vascularizada nutre por difusão — dica de prova explícita no material. Correta: alinha-se à ‘Dica de Prova’ do texto.",
+    "aula_id": "mad2_a10",
+    "essencial": false
+  },
+  {
+    "id": 314,
+    "materia": "mad2",
+    "tema": "mad2_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual distinção melhor resume o papel do melanócito frente ao queratinócito, na linha ?",
+    "opcoes": [
+      "A) Melanócito forma a barreira do estrato córneo; queratinócito não participa da queratinização",
+      "B) Queratinócito produz melanina; melanócito apenas reage ao UV sem transferir pigmento",
+      "C) Queratinócito participa da barreira epitelial; melanócito produz/transfere melanina às células vizinhas",
+      "D) Ambos são idênticos na função e só diferem pelo tamanho nuclear"
+    ],
+    "explicacao_geral": "Confundir tipos celulares é erro comum — texto contrasta explicitamente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte papéis.",
+      "B": "Incorreta: melanina vem do melanócito.",
+      "C": "Correta: condensa a seção de células não queratinócitos e a quadro comparativo revisão.",
+      "D": "Incorreta: funções distintas."
+    },
+    "explicacao": "Confundir tipos celulares é erro comum — texto contrasta explicitamente. Correta: condensa a seção de células não queratinócitos e a quadro comparativo revisão.",
+    "aula_id": "mad2_a12",
+    "essencial": false
+  },
+  {
+    "id": 315,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "As células de Langerhans na epiderme são destacadas principalmente por qual papel?",
+    "opcoes": [
+      "A) Mecanorrecepção de toque fino, como único sentido da pele",
+      "B) Produção de queratohialina no estrato granuloso",
+      "C) Síntese de melanina com transferência para queratinócitos",
+      "D) Apresentação antigênica (eixo imune de pele)"
+    ],
+    "explicacao_geral": "Langerhans — vigilância imunológica; não confundir com Merkel.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: atribui função a Merkel.",
+      "B": "Incorreta: grânulos de queratina/queratohialina são eixo queratinócito.",
+      "C": "Incorreta: anexo pilosebáceo, célula diferente.",
+      "D": "Correta: frase da seção de células não queratinócitos."
+    },
+    "explicacao": "Langerhans — vigilância imunológica; não confundir com Merkel. Correta: frase da seção de células não queratinócitos.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 316,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "As células de Merkel na epiderme são associadas, no texto, a qual função?",
+    "opcoes": [
+      "A) Mecanorrecepção",
+      "B) Secreção de sebo no folículo",
+      "C) Apresentação antigênica como Langerhans",
+      "D) Proliferação exclusiva no estrato córneo"
+    ],
+    "explicacao_geral": "Merkel — toque; Langerhans — imune — não trocar.",
+    "explicacoes_opcoes": {
+      "A": "Correta: uma frase .",
+      "B": "Incorreta: glândula sebácea.",
+      "C": "Incorreta: papel de Langerhans.",
+      "D": "Incorreta: proliferação basal, não córneo."
+    },
+    "explicacao": "Merkel — toque; Langerhans — imune — não trocar. Correta: uma frase da conteúdo.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 317,
+    "materia": "mad1",
+    "tema": "mad1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Sobre glândulas sudoríparas écrinas versus apócrinas, qual afirmação está mais alinhada à conteúdo?",
+    "opcoes": [
+      "A) Apócrinas são as únicas com distribuição ampla pelo tronco e termorregulação principal",
+      "B) Écrinas distribuem-se amplamente e são centrais na termorregulação; apócrinas, em regiões específicas, ligam-se ao odor após metabolismo bacteriano",
+      "C) Ambas são exclusivas de mucosas e não existem na pele pelada",
+      "D) Apócrinas predominam em palmas e plantas para termorregulação principal"
+    ],
+    "explicacao_geral": "Pontos-chave: distribuição e função — cai em prova.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte papéis de distribuição/foco.",
+      "B": "Correta: síntese do parágrafo de anexos.",
+      "C": "Incorreta: ambas descritas na pele.",
+      "D": "Incorreta: sebo é eixo sebáceo; unhas são anexo distinto."
+    },
+    "explicacao": "Pontos-chave: distribuição e função — cai em prova. Correta: síntese do parágrafo de anexos.",
+    "aula_id": "mad1_a6"
+  },
+  {
+    "id": 318,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A acne é contextualizada a partir de qual eixo fisiopatológico simplificado?",
+    "opcoes": [
+      "A) Apenas aumento de melanina no melanócito",
+      "B) Hiperqueratinização isolada do estrato córneo sem participação de folículo",
+      "C) Óleo–ducto–bactéria–inflamação (eixo glândula sebácea/folículo",
+      "D) Deficit exclusivo de sudorese écrina"
+    ],
+    "explicacao_geral": "Sebáceas associadas a folículos — base para acne.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pigmentação não resume acne.",
+      "B": "Incorreta: folículo e sebo entram no quadro.",
+      "C": "Correta: frase da seção de anexos.",
+      "D": "Incorreta: eixo sudoríparo distinto."
+    },
+    "explicacao": "Sebáceas associadas a folículos — base para acne. Correta: frase da seção de anexos.",
+    "aula_id": "bcm1_a3"
+  },
+  {
+    "id": 319,
+    "materia": "bmf2",
+    "tema": "bmf2_a13",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No quadro comparativo mucosas versus pele, o esôfago (porção muscular) aparece com qual epitélio típico?",
+    "opcoes": [
+      "A) Simples colunar com vilo, voltado à absorção",
+      "B) Simples colunar com células especializadas de secreção ácida",
+      "C) Estratificado escamoso queratinizado espesso como palma",
+      "D) Estratificado escamoso não queratinizado, protegendo sem dessecar"
+    ],
+    "explicacao_geral": "Esôfago = escamoso não queratinizado — contraste com pele.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: padrão intestinal.",
+      "B": "Incorreta: estômago.",
+      "C": "Incorreta: queratinização típica de pele espessa.",
+      "D": "Correta: linha da quadro comparativo ."
+    },
+    "explicacao": "Esôfago = escamoso não queratinizado — contraste com pele. Correta: linha da quadro comparativo da conteúdo.",
+    "aula_id": "bmf2_a13"
+  },
+  {
+    "id": 320,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Na ponte com a clínica, a úlcera de pressão é relacionada, em termos de mecanismo espacial, a:",
+    "opcoes": [
+      "A) Exposição exclusiva a radiação ionizante em mucosa oral",
+      "B) Isquemia em proeminências ósseas com necessidade de prevenção por mudança de decúbito e superfície de distribuição de pressão",
+      "C) Infecção primária por fungos no estrato córneo sem compressão",
+      "D) Maceração cutânea isolada sem relação com proeminências ósseas"
+    ],
+    "explicacao_geral": "Pressão + proeminência — prevenção comportamental e de superfície.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: cenário não descrito como núcleo.",
+      "B": "Correta: síntese do parágrafo clínico.",
+      "C": "Incorreta: não substitui mecânica de pressão.",
+      "D": "Incorreta: irrelevante ao mecanismo citado."
+    },
+    "explicacao": "Pressão + proeminência — prevenção comportamental e de superfície. Correta: síntese do parágrafo clínico.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 321,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A derme papilar, em relação à epiderme, é corretamente descrita como:",
+    "opcoes": [
+      "A) Camada avascular que não se projeta na epiderme",
+      "B) Região sem colágeno, apenas gordura subcutânea",
+      "C) Igual à derme reticular em textura, sem papilas",
+      "D) Tecido conjuntivo que projeta papilas dérmicas, aumentando área de troca e ancorando a epiderme"
+    ],
+    "explicacao_geral": "Papilar versus reticular — prova gosta do contraste.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: epiderme é que é avascular; papilar é dérmica e vascularizada no contexto global de derme.",
+      "B": "Incorreta: derme é conjuntivo resistente, não ‘só gordura’.",
+      "C": "Incorreta: nega papilas — oposto ao texto.",
+      "D": "Correta: parágrafo da seção derme e interface."
+    },
+    "explicacao": "Papilar versus reticular — prova gosta do contraste. Correta: parágrafo da seção derme e interface.",
+    "aula_id": "farm_a10"
+  },
+  {
+    "id": 322,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Em uma frase, a glândula exócrina difere da endócrina, anatômico, porque:",
+    "opcoes": [
+      "A) Possui ducto que conduz a secreção até superfície ou lúmen; a endócrina não usa ducto clássico para levar o produto à circulação",
+      "B) Secreta exclusivamente no espaço extracelular sem contato com epitélio",
+      "C) Não apresenta epitélio secretor organizado",
+      "D) É, por definição, sempre holócrina"
+    ],
+    "explicacao_geral": "Frase-âncora do material: sem ducto não é exócrina no sentido clássico.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinha-se aos pontos-chave e à quadro comparativo revisão.",
+      "B": "Incorreta: ignora ducto e lúmen.",
+      "C": "Incorreta: glândulas são epitélio especializado em secreção.",
+      "D": "Incorreta: holócrina é modo, não definição de exócrina."
+    },
+    "explicacao": "Frase-âncora do material: sem ducto não é exócrina no sentido clássico. Correta: alinha-se aos pontos-chave e à quadro comparativo revisão.",
+    "aula_id": "farm_a10"
+  },
+  {
+    "id": 323,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "No modo merócrino de secreção exócrina, o que ocorre e qual exemplo típico a conteúdo associa?",
+    "opcoes": [
+      "A) A célula inteira desintegra-se na secreção (holócrina",
+      "B) Vesícula libera o conteúdo e a célula permanece; exemplo: sudor écrino",
+      "C) Apenas a porção apical do citoplasma é perdida, sem exceções",
+      "D) Não há liberação vesicular; só difusão passiva transmembrana"
+    ],
+    "explicacao_geral": "Quadro comparativo de modos: merócrina = vesícula, célula íntegra.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve holócrina.",
+      "B": "Correta: coincide com a linha Merócrina da quadro comparativo.",
+      "C": "Incorreta: descreve melhor apócrina.",
+      "D": "Incorreta: contraria o mecanismo vesicular."
+    },
+    "explicacao": "Quadro comparativo de modos: merócrina = vesícula, célula íntegra. Correta: coincide com a linha Merócrina da quadro comparativo.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 324,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual é o modo de secreção da glândula sebácea, conforme a ênfase e a ‘Dica de Prova’ ?",
+    "opcoes": [
+      "A) Merócrina, como o sudor écrino",
+      "B) Apócrina exclusiva, sem renovação folicular",
+      "C) Holócrina — a célula inteira vira secreção",
+      "D) Endócrina, por liberação no sangue"
+    ],
+    "explicacao_geral": "Holócrina ↔ sebácea é par fixo para prova.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: écrino é merócrino.",
+      "B": "Incorreta: apócrino é outro modo.",
+      "C": "Correta: quadro comparativo + dica explícita.",
+      "D": "Incorreta: sebácea é exócrina com ducto folicular."
+    },
+    "explicacao": "Holócrina ↔ sebácea é par fixo para prova. Correta: quadro comparativo + dica explícita.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 325,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A secreção apócrina é caracterizada, por:",
+    "opcoes": [
+      "A) Perda da célula inteira como na sebácea",
+      "B) Liberação exclusiva por vesícula sem alteração do citoplasma",
+      "C) Ausência de participação de glândulas mamárias em qualquer contexto didático",
+      "D) Inclusão de porção apical do citoplasma na secreção; exemplos citados incluem glândulas mamárias (contexto) e sudor apócrino"
+    ],
+    "explicacao_geral": "Apócrina ≠ merócrina nem holócrina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: holócrina.",
+      "B": "Incorreta: merócrina.",
+      "C": "Incorreta: mamárias aparecem na linha da quadro comparativo.",
+      "D": "Correta: texto da quadro comparativo de modos."
+    },
+    "explicacao": "Apócrina ≠ merócrina nem holócrina. Correta: texto da quadro comparativo de modos.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 326,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Sobre a glândula parótida e a nota clínica , a afirmação mais adequada é:",
+    "opcoes": [
+      "A) É predominantemente mucosa, como a sublingual",
+      "B) É predominantemente serosa; o nervo facial (VII) segue trajeto relacionado — risco em cirurgia",
+      "C) Drena pelo ducto de Wharton",
+      "D) Predominantemente mucosa, com secreção mais viscosa"
+    ],
+    "explicacao_geral": "Parótida serosa + VII é clássico de prova e de cabeça/pescoço.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: parótida é serosa no quadro comparativo.",
+      "B": "Correta: quadro comparativo + coluna de nota clínica.",
+      "C": "Incorreta: Wharton é submandibular.",
+      "D": "Incorreta: exócrina tem ducto (Stensen na prática clínica)."
+    },
+    "explicacao": "Parótida serosa + VII é clássico de prova e de cabeça/pescoço. Correta: quadro comparativo + coluna de nota clínica.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 327,
+    "materia": "bmf3",
+    "tema": "bmf3_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A glândula submandibular, no quadro comparativo , apresenta predominância e ducto assim descritos:",
+    "opcoes": [
+      "A) Puramente serosa, sem componente mucoso",
+      "B) Puramente mucosa, como a sublingual",
+      "C) Mista; ducto de Wharton",
+      "D) Predominantemente serosa, com ducto de Stensen"
+    ],
+    "explicacao_geral": "Submandibular mista + Wharton — par memorizável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é puramente serosa.",
+      "B": "Incorreta: sublingual é mais mucosa.",
+      "C": "Correta: linha da quadro comparativo de glândulas salivares.",
+      "D": "Incorreta: é exócrina."
+    },
+    "explicacao": "Submandibular mista + Wharton — par memorizável. Correta: linha da quadro comparativo de glândulas salivares.",
+    "aula_id": "bmf3_a2"
+  },
+  {
+    "id": 328,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A glândula sublingual é descrita no quadro comparativo principalmente como:",
+    "opcoes": [
+      "A) Predominância serosa, idêntica à parótida",
+      "B) Mista com ducto único de Wharton",
+      "C) Mista com predomínio seroso e ducto principal único",
+      "D) Predominância mucosa; múltiplos ductos menores"
+    ],
+    "explicacao_geral": "Contraste parótida/sublingual cai no quadro comparativo revisão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: serosa é parótida.",
+      "B": "Incorreta: Wharton é submandibular.",
+      "C": "Incorreta: glândula habitualmente presente.",
+      "D": "Correta: células da quadro comparativo salivar."
+    },
+    "explicacao": "Contraste parótida/sublingual cai no quadro comparativo revisão. Correta: células da quadro comparativo salivar.",
+    "aula_id": "bcm1_a2"
+  },
+  {
+    "id": 329,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A sialolitíase (cálculo no ducto salivar) é contextualizada de forma compatível com:",
+    "opcoes": [
+      "A) Dor colica à mastigação e inchaço glandular — a anatomia do ducto e a posição da glândula explicam o quadro",
+      "B) Dor exclusivamente contínua, sem relação com mastigação",
+      "C) Acometimento típico exclusivo da tireoide",
+      "D) Resolução espontânea garantida sem avaliação de imagem"
+    ],
+    "explicacao_geral": "Obstrução de ducto → consequências — ponte com clínica.",
+    "explicacoes_opcoes": {
+      "A": "Correta: parágrafo sobre sialolitíase.",
+      "B": "Incorreta: mastigação é pista citada.",
+      "C": "Incorreta: contexto salivar.",
+      "D": "Incorreta: imagem e conduta não são descartadas no texto."
+    },
+    "explicacao": "Obstrução de ducto → consequências — ponte com clínica. Correta: parágrafo sobre sialolitíase.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 330,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na interface rápida com glândulas endócrinas, a conteúdo contrasta o transporte do produto com a exócrina. Qual opção melhor captura esse contraste?",
+    "opcoes": [
+      "A) Endócrinas liberam hormônios ao lúmen gastrointestinal por ductos principais",
+      "B) Endócrinas não dependem de leito vascular para atingir o sangue",
+      "C) Exócrinas secretam diretamente na circulação sem estrutura condutora",
+      "D) Hormônio endócrino chega ao sangue por capilares fenestrados ou sinusoides conforme o órgão — diferente da exócrina com ducto"
+    ],
+    "explicacao_geral": "Transporte rápido ao sangue vs ducto — seção endócrinas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ducto ao lúmen é exócrino.",
+      "B": "Incorreta: capilares são centrais ao conceito.",
+      "C": "Incorreta: inverte definições.",
+      "D": "Correta: síntese do parágrafo de endócrinas."
+    },
+    "explicacao": "Transporte rápido ao sangue vs ducto — seção endócrinas. Correta: síntese do parágrafo de endócrinas.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 331,
+    "materia": "bmf4",
+    "tema": "bmf4_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em microscopia e texto, a distinção entre secreção serosa e mucosa, anatômico, é que:",
+    "opcoes": [
+      "A) Mucosa é aquosa e rica em enzimas; serosa é espessa e apenas viscosa",
+      "B) Serosa tende a ser mais aquosa e rica em enzimas; mucosa é viscosa, com mucopolissacarídeos — diferença aparece em coloração e descrição",
+      "C) Não há diferença; são sinônimos",
+      "D) Somente secreção mucosa existe nas glândulas salivares humanas"
+    ],
+    "explicacao_geral": "Quadro comparativo revisão: serosa vs mucosa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte os papéis típicos.",
+      "B": "Correta: parágrafo de arquitetura + quadro comparativo de diferenciações.",
+      "C": "Incorreta: distinção é pedida em prova.",
+      "D": "Incorreta: componente seroso é relevante (ex.: parótida)."
+    },
+    "explicacao": "Quadro comparativo revisão: serosa vs mucosa. Correta: parágrafo de arquitetura + quadro comparativo de diferenciações.",
+    "aula_id": "bmf4_a3",
+    "essencial": false
+  },
+  {
+    "id": 332,
+    "materia": "bmf4",
+    "tema": "bmf4_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na interpretação da lâmina de pele em HE, a epiderme é descrita como avascular. A ‘Dica de Prova’ orienta que, se estruturas sugestivas de capilares parecerem na camada mais superficial, o aluno deve:",
+    "opcoes": [
+      "A) Reconsiderar se não é derme invaginando ou um recorte que simula vascularização epidérmica",
+      "B) Concluir que a epiderme irriga-se diretamente por capilares intraepidérmicos",
+      "C) Ignorar o limite epiderme/derme e focar só no estrato córneo",
+      "D) Considerar artefato técnico sem revisar a interface epiderme-derme"
+    ],
+    "explicacao_geral": "Epiderme sem vasos — confusão com derme é erro clássico de bancada.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ecoa a dica explícita do texto.",
+      "B": "Incorreta: contradiz a regra da epiderme avascular.",
+      "C": "Incorreta: o limite é justamente o primeiro passo do roteiro.",
+      "D": "Incorreta: artefato existe, mas a dica principal é revisar o que se está vendo."
+    },
+    "explicacao": "Epiderme sem vasos — confusão com derme é erro clássico de bancada. Correta: ecoa a dica explícita do texto.",
+    "aula_id": "bmf4_a2",
+    "essencial": false
+  },
+  {
+    "id": 333,
+    "materia": "bmf4",
+    "tema": "bmf4_a2",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "No roteiro sugerido para a lâmina de pele, o primeiro passo (etapa 1) é procurar:",
+    "opcoes": [
+      "A) Apenas o estrato córneo espessado, antes de qualquer limite",
+      "B) O limite epiderme/derme — com epiderme em geral mais basofílica",
+      "C) Diretamente folículos em corte oblíquo, sem definir interface",
+      "D) Somente tecido adiposo subcutâneo, ignorando epiderme"
+    ],
+    "explicacao_geral": "Quadro comparativo de etapas: começar pelo limite basal da epiderme.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: córneo é etapa posterior no roteiro.",
+      "B": "Correta: linha 1 da quadro comparativo .",
+      "C": "Incorreta: folículo é etapa 3.",
+      "D": "Incorreta: roteiro começa pela interface epiderme/derme."
+    },
+    "explicacao": "Quadro comparativo de etapas: começar pelo limite basal da epiderme. Correta: linha 1 da quadro comparativo da conteúdo.",
+    "aula_id": "bmf4_a2",
+    "essencial": false
+  },
+  {
+    "id": 334,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Por que o adipócito branco costuma parecer ‘vazio’ ou claro na rotina com hematoxilina-eosina?",
+    "opcoes": [
+      "A) Porque não há lipídios na célula",
+      "B) Porque o núcleo ocupa o centro do vacúolo",
+      "C) Porque o grande vacúolo de triglicerídeos dissolve-se no processamento, restando núcleo periférico achatado",
+      "D) Porque a coloração tingiu apenas a derme e não o adipócito"
+    ],
+    "explicacao_geral": "Revisão: explicar o ‘vazio’ no HE.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o conteúdo lipídico é justamente o que some.",
+      "B": "Incorreta: núcleo é periférico no branco.",
+      "C": "Correta: síntese do parágrafo de adiposo branco.",
+      "D": "Incorreta: a lógica é dissolução , não exclusão de tincão."
+    },
+    "explicacao": "Revisão: explicar o ‘vazio’ no HE. Correta: síntese do parágrafo de adiposo branco.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 335,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A derme papilar, em contraste com a reticular, é melhor caracterizada como:",
+    "opcoes": [
+      "A) Feixes grossos de colágeno com poucos vasos",
+      "B) Ausência de fibroblastos e ausência de vasos",
+      "C) Tecido denso sem transição com a epiderme",
+      "D) Conjuntivo frouxo, fibroblastos e vasos finos; reticular apresenta fibras de colágeno mais grossas e organizadas"
+    ],
+    "explicacao_geral": "Papilar frouxo; reticular denso — transição gradual.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve melhor reticular.",
+      "B": "Incorreta: papilar é vascularizada.",
+      "C": "Incorreta: papilar interage com epiderme (papilas).",
+      "D": "Correta: pontos-chave + parágrafo específico."
+    },
+    "explicacao": "Papilar frouxo; reticular denso — transição gradual. Correta: pontos-chave + parágrafo específico.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 336,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O tecido adiposo marrom difere do branco, em termos conceituais , principalmente por:",
+    "opcoes": [
+      "A) Vacúolo único gigante e função exclusivamente de reserva energética de longo prazo",
+      "B) Múltiplas gotículas lipídicas, mitocôndrias com UCP1 e termogênese não tremulante adaptativa",
+      "C) Ausência de vascularização em qualquer idade",
+      "D) Cor clara em lâmina com núcleo central redondo grande"
+    ],
+    "explicacao_geral": "Frase-âncora: branco um balão; marrom enxame de gotinhas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve adipócito branco.",
+      "B": "Correta: quadro comparativo e texto de adiposo marrom.",
+      "C": "Incorreta: tecido vivo é perfundido.",
+      "D": "Incorreta: marrom tende a aspecto mais granular/eosinofílico na comparação da quadro comparativo."
+    },
+    "explicacao": "Frase-âncora: branco um balão; marrom enxame de gotinhas. Correta: quadro comparativo e texto de adiposo marrom.",
+    "aula_id": "bcm1_a16"
+  },
+  {
+    "id": 337,
+    "materia": "bmf4",
+    "tema": "bmf4_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Segundo os ‘erros comuns na prática de bancada’, um folículo piloso em corte oblíquo pode ser confundido com:",
+    "opcoes": [
+      "A) Estrato basal isolado, sem outros estratos epidérmicos",
+      "B) Derme reticular pura, sem epiderme",
+      "C) Múltiplos círculos que lembram cisto — exige correlacionar sequência de camadas do folículo",
+      "D) Apenas bolha de montagem, sem outra hipótese"
+    ],
+    "explicacao_geral": "Corte oblíquo do folículo ≠ cisto — quadro comparativo revisão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o erro citado.",
+      "B": "Incorreta: não é o ponto do texto.",
+      "C": "Correta: parágrafo de erros comuns.",
+      "D": "Incorreta: bolha de montagem é outro artefato."
+    },
+    "explicacao": "Corte oblíquo do folículo ≠ cisto — quadro comparativo revisão. Correta: parágrafo de erros comuns.",
+    "aula_id": "bmf4_a3",
+    "essencial": false
+  },
+  {
+    "id": 338,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na diferenciação sugerida entre artefato de coração e bolha de montagem, o que o texto indica como critério?",
+    "opcoes": [
+      "A) Ambos são idênticos microscopicamente em qualquer lâmina",
+      "B) Bolha de montagem costuma ter borda refringente e não segue arquitetura tecidual",
+      "C) Artefato de coração não existe em pele",
+      "D) Contexto da borda da lâmina e interpretação cuidadosa — não confundir com cavidade patológica"
+    ],
+    "explicacao_geral": "Quadro comparativo revisão: artefato versus bolha.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a quadro comparativo pede como diferenciar.",
+      "B": "Incorreta: sem restrição a um órgão.",
+      "C": "Incorreta: generalização falsa.",
+      "D": "Correta: ideia de contexto (borda) versus patologia."
+    },
+    "explicacao": "Quadro comparativo revisão: artefato versus bolha. Correta: ideia de contexto (borda) versus patologia.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 339,
+    "materia": "mad1",
+    "tema": "mad1_a15",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na epiderme em corte, do ápice (superfície) à base, a sequência correta citada é:",
+    "opcoes": [
+      "A) Estrato córneo (anucleado, rosado), granuloso (grânulos), espinhoso (núcleo central), basal (paliçada",
+      "B) Basal primeiro, depois córneo, granuloso e espinhoso intercalados aleatoriamente",
+      "C) Espinhoso superficial ao córneo, com basal ausente na pele delgada",
+      "D) Granuloso sempre ausente em qualquer pele humana"
+    ],
+    "explicacao_geral": "Correlacionar nome com aspecto — superficial ao profundo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: parágrafo ‘Epiderme na lâmina’.",
+      "B": "Incorreta: inverte polaridade.",
+      "C": "Incorreta: basal não desaparece; delgada só afina córneo.",
+      "D": "Incorreta: camadas existem; finas podem ser menos evidentes."
+    },
+    "explicacao": "Correlacionar nome com aspecto — superficial ao profundo. Correta: parágrafo ‘Epiderme na lâmina’.",
+    "aula_id": "mad1_a15"
+  },
+  {
+    "id": 340,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Entre as funções atribuídas ao tecido adiposo branco incluem-se:",
+    "opcoes": [
+      "A) Hematopoiese ativa e armazenamento de cálcio",
+      "B) Reserva energética, isolamento mecânico e térmico e amortecimento (cushion) para órgãos",
+      "C) Termogênese não tremulante como função principal, acima de qualquer reserva",
+      "D) Síntese de queratina para o estrato córneo"
+    ],
+    "explicacao_geral": "Branco = reserva; marrom = calor adaptativo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é função do adiposo branco.",
+      "B": "Correta: lista do parágrafo de adiposo branco.",
+      "C": "Incorreta: termogênese é ênfase do marrom.",
+      "D": "Incorreta: queratinização é epidérmica."
+    },
+    "explicacao": "Branco = reserva; marrom = calor adaptativo. Correta: lista do parágrafo de adiposo branco.",
+    "aula_id": "farm_a7"
+  },
+  {
+    "id": 341,
+    "materia": "bmf2",
+    "tema": "bmf2_a9",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A diferença entre pele delgada e espessa, ao microscópio, é melhor resumida como:",
+    "opcoes": [
+      "A) Pele delgada não possui epiderme identificável",
+      "B) Pele espessa não apresenta estrato córneo",
+      "C) Apenas a derme muda; o córneo é idêntico em espessura em todos os sítios",
+      "D) Na pele delgada o estrato córneo é mais fino; na espessa há estrato córneo espessado — a histologia não ‘some’, apenas encolhe"
+    ],
+    "explicacao_geral": "Pontos-chave: córneo marca espessura relativa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: epiderme existe.",
+      "B": "Incorreta: espessa tem córneo proeminente.",
+      "C": "Incorreta: córneo varia entre sítios.",
+      "D": "Correta: frase do texto sobre pele delgada."
+    },
+    "explicacao": "Pontos-chave: córneo marca espessura relativa. Correta: frase do texto sobre pele delgada.",
+    "aula_id": "bmf2_a9"
+  },
+  {
+    "id": 342,
+    "materia": "bmf2",
+    "tema": "bmf2_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A inervacao motora principal da lingua, anatômico, e feita por:",
+    "opcoes": [
+      "A) Nervo hipoglosso (XII",
+      "B) Nervo lingual (ramo de V",
+      "C) Nervo facial (VII",
+      "D) Nervo glossofaringeo (IX"
+    ],
+    "explicacao_geral": "A confusão comum classica e confundir motor da lingua com sensibilidade geral.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ponto-chave explicito .",
+      "B": "Incorreta: lingual relaciona-se a sensibilidade geral.",
+      "C": "Incorreta: VII e ancora da parotida no conteudo.",
+      "D": "Incorreta: IX participa de reflexos/sensibilidade em regioes especificas."
+    },
+    "explicacao": "A confusão comum classica e confundir motor da lingua com sensibilidade geral. Correta: ponto-chave explicito da conteúdo.",
+    "aula_id": "bmf2_a9"
+  },
+  {
+    "id": 343,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Na protrusao, lesao de XII tende a desviar a lingua para qual lado, segundo o padrao classico citado?",
+    "opcoes": [
+      "A) Para o lado oposto ao lesado",
+      "B) Para o lado lesado",
+      "C) Sempre para a linha media",
+      "D) O desvio depende apenas da sensibilidade da lingua"
+    ],
+    "explicacao_geral": "A conteúdo pede memorizacao desse padrao para prova e clinica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o texto cita desvio para o lado lesado.",
+      "B": "Correta: descricao direta da secao de lingua.",
+      "C": "Incorreta: ha desvio no padrao classico.",
+      "D": "Incorreta: trata de componente motor."
+    },
+    "explicacao": "A conteúdo pede memorizacao desse padrao para prova e clinica. Correta: descricao direta da secao de lingua.",
+    "aula_id": "bmf1_a17"
+  },
+  {
+    "id": 344,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual alternativa diferencia corretamente musculos intrinsecos e extrinsecos da lingua?",
+    "opcoes": [
+      "A) Intrinsecos fixam a lingua no hioide; extrinsecos so mudam formato",
+      "B) Intrinsecos e extrinsecos sao sinonimos funcionais",
+      "C) Intrinsecos mudam o formato; extrinsecos posicionam/movem a lingua em relacao a estruturas como hioide e base do cranio",
+      "D) Somente os extrinsecos existem na lingua"
+    ],
+    "explicacao_geral": "A divisao funcional aparece logo na introducao da secao da lingua.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte papeis.",
+      "B": "Incorreta: a conteúdo separa claramente.",
+      "C": "Correta: corresponde ao texto.",
+      "D": "Incorreta: intrinsecos existem e sao relevantes."
+    },
+    "explicacao": "A divisao funcional aparece logo na introducao da secao da lingua. Correta: corresponde ao texto.",
+    "aula_id": "bmf1_a17",
+    "essencial": false
+  },
+  {
+    "id": 345,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Sobre a parotida, qual combinacao esta correta conforme quadro comparativo ?",
+    "opcoes": [
+      "A) Ducto de Wharton; predominio mucoso; sem relacao com VII",
+      "B) Varios ductos menores; acima do milo-hioideo; predominio misto",
+      "C) Ducto de Stensen medial ao assoalho oral; glossofaringeo atravessa a glandula",
+      "D) Ducto de Stensen atravessa o masseter e o nervo facial (VII) atravessa a glandula"
+    ],
+    "explicacao_geral": "Parotida + Stensen + VII e ancora anatomo-cirurgica central .",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve elementos da submandibular/sublingual.",
+      "B": "Incorreta: varios ductos menores e padrao da sublingual.",
+      "C": "Incorreta: trajetos/relacoes estao trocados.",
+      "D": "Correta: linha literal da quadro comparativo."
+    },
+    "explicacao": "Parotida + Stensen + VII e ancora anatomo-cirurgica central do conteúdo. Correta: linha literal da quadro comparativo.",
+    "aula_id": "bmf1_a17"
+  },
+  {
+    "id": 346,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A submandibular, anatômico, associa-se a qual descricao?",
+    "opcoes": [
+      "A) Serosa predominante, ducto de Stensen",
+      "B) Glandula mista com ducto de Wharton e relacao com regiao sublingual medial/proximidade ao milo-hioideo",
+      "C) Mucosa predominante com apenas ductos de Rivinus",
+      "D) Sem ducto principal nomeavel"
+    ],
+    "explicacao_geral": "Submandibular = mista + Wharton e contraste com parotida/sublingual.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve parotida.",
+      "B": "Correta: integra quadro comparativo e pontos-chave.",
+      "C": "Incorreta: descreve sublingual.",
+      "D": "Incorreta: exocrina com ducto principal."
+    },
+    "explicacao": "Submandibular = mista + Wharton e contraste com parotida/sublingual. Correta: integra quadro comparativo e pontos-chave.",
+    "aula_id": "bmf1_a17"
+  },
+  {
+    "id": 347,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A sublingual e melhor reconhecida, no material, por:",
+    "opcoes": [
+      "A) Predominio seroso e ducto unico de Stensen",
+      "B) Predominio misto e ducto de Wharton",
+      "C) Predominio mucoso e varios ductos menores (Bartholin/Rivinus), acima do milo-hioideo",
+      "D) Relacao principal com nervo facial no interior da glandula"
+    ],
+    "explicacao_geral": "Conteúdo reforca contraste histologico e topografico entre as tres grandes salivares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: perfil da parotida.",
+      "B": "Incorreta: perfil da submandibular.",
+      "C": "Correta: quadro comparativo .",
+      "D": "Incorreta: ancora do VII e classica da parotida."
+    },
+    "explicacao": "Conteúdo reforca contraste histologico e topografico entre as tres grandes salivares. Correta: quadro comparativo da conteúdo.",
+    "aula_id": "bmf1_a17"
+  },
+  {
+    "id": 348,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Quanto as porcoes da faringe, qual alternativa esta correta?",
+    "opcoes": [
+      "A) Orofaringe fica atras das coanas",
+      "B) Laringofaringe fica entre palato mole e epiglote",
+      "C) Nasofaringe localiza-se atras da laringe",
+      "D) Nasofaringe esta atras das coanas; orofaringe entre palato mole e epiglote; laringofaringe atras da laringe"
+    ],
+    "explicacao_geral": "As tres porcoes e suas referencias anatomicas aparecem de forma direta no texto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso define nasofaringe.",
+      "B": "Incorreta: isso define orofaringe.",
+      "C": "Incorreta: atras da laringe e laringofaringe.",
+      "D": "Correta: sequencia exata ."
+    },
+    "explicacao": "As tres porcoes e suas referencias anatomicas aparecem de forma direta no texto. Correta: sequencia exata da conteúdo.",
+    "aula_id": "bmf1_a17",
+    "essencial": false
+  },
+  {
+    "id": 349,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A sialolitase, na ponte com a clinica, e descrita como quadro de:",
+    "opcoes": [
+      "A) Dor colica a mastigacao com inchaco glandular por obstrucao de ducto",
+      "B) Dor lingual motora isolada sem relacao com saliva",
+      "C) Dor glandular sem piora às refeições e sem edema local",
+      "D) Lesao tipica do nervo hipoglosso sem edema glandular"
+    ],
+    "explicacao_geral": "Obstrucao ductal explica dor evocada pela mastigacao e edema.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sintese do paragrafo clinico.",
+      "B": "Incorreta: mistura eixo motor da lingua com patologia ductal.",
+      "C": "Incorreta: salivares sao exocrinas.",
+      "D": "Incorreta: hipoglosso nao define sialolitase."
+    },
+    "explicacao": "Obstrucao ductal explica dor evocada pela mastigacao e edema. Correta: sintese do paragrafo clinico.",
+    "aula_id": "bmf1_a17"
+  },
+  {
+    "id": 350,
+    "materia": "bmf1",
+    "tema": "bmf1_a17",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Na parotidectomia, por que a conteúdo destaca mapear o VII?",
+    "opcoes": [
+      "A) Porque o VII fornece toda sensibilidade da lingua",
+      "B) Porque o nervo facial atravessa a parotida e pode ser lesionado em procedimento cirurgico",
+      "C) Porque o VII e o ducto principal da submandibular",
+      "D) Porque o VII acompanha o ducto de Wharton no assoalho oral"
+    ],
+    "explicacao_geral": "Mapa rapido do modulo: VII com parotida e XII com lingua.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: sensibilidade geral da lingua envolve sobretudo V no ponto da confusão comum.",
+      "B": "Correta: relacao cirurgica principal da quadro comparativo.",
+      "C": "Incorreta: ducto da submandibular e Wharton.",
+      "D": "Incorreta: sem base anatomofuncional no conteudo."
+    },
+    "explicacao": "Mapa rapido do modulo: VII com parotida e XII com lingua. Correta: relacao cirurgica principal da quadro comparativo.",
+    "aula_id": "bmf1_a17"
+  },
+  {
+    "id": 351,
+    "materia": "mad1",
+    "tema": "mad1_a15",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual alternativa traduz corretamente a confusão comum de prova sobre lingua, palato e faringe mencionada ?",
+    "opcoes": [
+      "A) Motor da lingua e do palato depende apenas de V",
+      "B) Sensibilidade geral da lingua e exclusivamente do VII",
+      "C) IX e X nao participam de reflexos de faringe",
+      "D) Nao se deve misturar motor da lingua (XII) com sensibilidade geral (V) e com participacao de IX/X em palato-faringe/reflexos"
+    ],
+    "explicacao_geral": "A secao de confusão comum existe para evitar troca entre dominios motor e sensorial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: simplificacao errada.",
+      "B": "Incorreta: contradiz confusão comum do texto.",
+      "C": "Cita IX e X no reflexo.",
+      "D": "Correta: integra os eixos sem confundir funcoes."
+    },
+    "explicacao": "A secao de confusão comum existe para evitar troca entre dominios motor e sensorial. Correta: integra os eixos sem confundir funcoes.",
+    "aula_id": "mad1_a15"
+  },
+  {
+    "id": 352,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a8",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A ordem geral das camadas da parede anterolateral do abdome, do superficial ao profundo, e:",
+    "opcoes": [
+      "A) Pele -> fascia superficial -> musculos -> fascia transversal -> peritonio parietal",
+      "B) Pele -> musculos -> fascia superficial -> peritonio visceral -> fascia transversal",
+      "C) Fascia superficial -> pele -> peritonio parietal -> musculos",
+      "D) Pele -> peritonio visceral -> fascia transversal -> musculos"
+    ],
+    "explicacao_geral": "A sequencia de planos orienta exame fisico, incisao e interpretacao de colecoes.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde ao resumo .",
+      "B": "Incorreta: troca a ordem de fascia superficial e musculos e confunde planos peritoneais.",
+      "C": "Incorreta: inverte superficialidade.",
+      "D": "Incorreta: peritonio visceral nao reveste a parede."
+    },
+    "explicacao": "A sequencia de planos orienta exame fisico, incisao e interpretacao de colecoes. Correta: corresponde ao resumo da conteúdo.",
+    "aula_id": "farm_a8"
+  },
+  {
+    "id": 353,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Sobre o reto abdominal e os musculos da parede lateral, a alternativa correta e:",
+    "opcoes": [
+      "A) Reto abdominal e lateral, enquanto obliquos ficam na linha media",
+      "B) Reto abdominal ocupa a linha mediana; obliquo externo, obliquo interno e transverso predominam na parede lateral",
+      "C) Transverso e o unico musculo anterolateral relevante",
+      "D) Reto abdominal compõe a parede lateral profunda, abaixo do transverso do abdome"
+    ],
+    "explicacao_geral": "A conteúdo reforca esse mapa topografico para prova e exame fisico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: topografia invertida.",
+      "B": "Correta: ponto-chave explicito.",
+      "C": "Incorreta: ha tres camadas laterais classicas.",
+      "D": "Incorreta: nao e classificacao correta."
+    },
+    "explicacao": "A conteúdo reforca esse mapa topografico para prova e exame fisico. Correta: ponto-chave explicito.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 354,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Sobre a linha alba, assinale a alternativa correta:",
+    "opcoes": [
+      "A) Sempre avascular e sem risco de aderencias",
+      "B) Principal referencia para incisao lateral no flanco",
+      "C) Ponto relativamente avascular para incisao mediana, mas com possibilidade de aderencias e variacoes",
+      "D) Limite entre peritonio visceral e retroperitonio"
+    ],
+    "explicacao_geral": "A linha alba costuma ser relativamente menos vascular, mas nao elimina risco de variacoes ou aderencias.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: 'sempre' torna a afirmacao absoluta e anatomicamente insegura.",
+      "B": "Incorreta: a linha alba e referencia de linha media, nao de acesso lateral.",
+      "C": "Correta: combina utilidade cirurgica com as limitacoes reais da anatomia.",
+      "D": "Incorreta: essa fronteira nao e definida pela linha alba."
+    },
+    "explicacao": "A linha alba costuma ser relativamente menos vascular, mas nao elimina risco de variacoes ou aderencias. Correta: combina utilidade cirurgica com as limitacoes reais da anatomia.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 355,
+    "materia": "mad2",
+    "tema": "mad2_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No canal inguinal, o conceito basico enfatizado para BMF1 e:",
+    "opcoes": [
+      "A) E um canal reto sem relacao com hernias",
+      "B) Contem os mesmos elementos nos dois sexos",
+      "C) Corresponde a um trajeto transversal curto na parede, sem obliquidade definida",
+      "D) E um tunel obliquo na parede inferior; no homem passa ducto deferente com vasos e na mulher o ligamento redondo"
+    ],
+    "explicacao_geral": "Conteúdo pede fixar localizacao, obliquidade e conteudo por sexo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: obliquidade e central no conceito.",
+      "B": "Incorreta: conteudos diferem por sexo.",
+      "C": "Incorreta: e tema recorrente em hernia.",
+      "D": "Correta: sintese do paragrafo do canal."
+    },
+    "explicacao": "Conteúdo pede fixar localizacao, obliquidade e conteudo por sexo. Correta: sintese do paragrafo do canal.",
+    "aula_id": "mad2_a5",
+    "essencial": false
+  },
+  {
+    "id": 356,
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A diferenca entre peritonio parietal e visceral e melhor descrita como:",
+    "opcoes": [
+      "A) Parietal reveste orgaos e visceral reveste parede da cavidade",
+      "B) Parietal adere a parede abdominal; visceral recobre a superficie dos orgaos",
+      "C) Ambos revestem apenas estruturas retroperitoneais",
+      "D) Sao sinonimos em anatomia clinica"
+    ],
+    "explicacao_geral": "Diferenciacao classica da quadro comparativo de revisão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: invertido.",
+      "B": "Correta: definicao textual .",
+      "C": "Incorreta: escopo incorreto.",
+      "D": "Incorreta: ha diferenca funcional e topografica."
+    },
+    "explicacao": "Diferenciacao classica da quadro comparativo de revisão. Correta: definicao textual da conteúdo.",
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 357,
+    "materia": "bmf3",
+    "tema": "bmf3_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual afirmacao sobre o mesenterio esta correta?",
+    "opcoes": [
+      "A) E uma dobra sem relacao com vasos",
+      "B) E exclusivamente ligamentar no figado",
+      "C) Funciona como ancora do intestino delgado ao retroperitonio",
+      "D) E sinonimo de peritonio parietal"
+    ],
+    "explicacao_geral": "Mesenterio aparece como ancora com implicacoes de mobilidade e propagacao patologica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: organiza vias vasculares e fixacao.",
+      "B": "Incorreta: restringe de forma indevida.",
+      "C": "Correta: ponto-chave explicito.",
+      "D": "Incorreta: sao estruturas relacionadas, mas nao sinonimos."
+    },
+    "explicacao": "Mesenterio aparece como ancora com implicacoes de mobilidade e propagacao patologica. Correta: ponto-chave explicito.",
+    "aula_id": "bmf3_a6",
+    "essencial": false
+  },
+  {
+    "id": 358,
+    "materia": "mad2",
+    "tema": "mad2_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No contraste intraperitoneal versus retroperitoneal, essa diferenca altera principalmente:",
+    "opcoes": [
+      "A) Apenas a inervacao cutanea de dermatomos",
+      "B) Somente a composicao da fascia superficial",
+      "C) Predomínio da drenagem linfática da parede abdominal superficial",
+      "D) Mobilidade de orgaos e padrao de disseminacao/colecao (ex.: abscessos"
+    ],
+    "explicacao_geral": "Topografia peritoneal orienta imagem e conduta clinica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: foco principal nao e esse.",
+      "B": "Incorreta: nao e o eixo da diferenciacao.",
+      "C": "Incorreta: sem relacao direta.",
+      "D": "Correta: reproduz o conceito do texto."
+    },
+    "explicacao": "Topografia peritoneal orienta imagem e conduta clinica. Correta: reproduz o conceito do texto.",
+    "aula_id": "mad2_a10",
+    "essencial": false
+  },
+  {
+    "id": 359,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual alternativa identifica corretamente a regiao e marco de superficie descritos no quadro comparativo?",
+    "opcoes": [
+      "A) Regiao inguinal: ligamento inguinal e aneis profundo/superficial; relevancia para hernias e canal inguinal",
+      "B) Flanco: acima da sinfise pubica, com referencia principal a bexiga",
+      "C) Hipogastrio: entre costelas e crista iliaca",
+      "D) Regiao inguinal: delimitada apenas pelo reto abdominal"
+    ],
+    "explicacao_geral": "Quadro comparativo inicial de regioes e marcos e alvo frequente de questoes.",
+    "explicacoes_opcoes": {
+      "A": "Correta: linha da quadro comparativo de superficie.",
+      "B": "Incorreta: descreve hipogastrio de forma errada.",
+      "C": "Incorreta: descreve flanco.",
+      "D": "Incorreta: simplificacao anatomica inadequada."
+    },
+    "explicacao": "Quadro comparativo inicial de regioes e marcos e alvo frequente de questoes. Correta: linha da quadro comparativo de superficie.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 360,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Na ponte com a clinica, a laparotomia e a paracentese exigem respeito as camadas porque:",
+    "opcoes": [
+      "A) Todas as fascias se comportam de forma identica quanto a hematoma e disseminacao",
+      "B) A ruptura de fascias e planos define se colecoes/hematomas ficam limitados ou se difundem, e orienta via segura de acesso",
+      "C) O peritonio elimina qualquer risco de perfuracao oca",
+      "D) A vascularizacao superficial e irrelevante no planejamento"
+    ],
+    "explicacao_geral": "Conteúdo relaciona anatomia de planos a risco de complicacoes e escolha de trajeto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: comportamento varia por plano.",
+      "B": "Correta: sintetiza o paragrafo clinico.",
+      "C": "Incorreta: perfuracao oca e justamente um alerta de pneumoperitonio.",
+      "D": "Incorreta: vascularizacao deve ser considerada."
+    },
+    "explicacao": "Conteúdo relaciona anatomia de planos a risco de complicacoes e escolha de trajeto. Correta: sintetiza o paragrafo clinico.",
+    "aula_id": "farm_a11"
+  },
+  {
+    "id": 361,
+    "materia": "bmf2",
+    "tema": "bmf2_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "No contexto de imagem, pneumoperitonio livre em radiografia sugere principalmente:",
+    "opcoes": [
+      "A) Lesao muscular isolada da parede, sem risco visceral",
+      "B) Obstrucao exclusiva do canal inguinal",
+      "C) Alteracao funcional sem correlacao anatomica",
+      "D) Possivel perfuracao de viscera oca, exigindo busca da origem conforme topografia abdominal"
+    ],
+    "explicacao_geral": "O texto usa pneumoperitonio como exemplo de traducao anatomia-imagem-clinica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: nao explica ar livre peritoneal.",
+      "B": "Incorreta: nao e o mecanismo descrito.",
+      "C": "Incorreta: ha correlacao topografica clara.",
+      "D": "Correta: corresponde a ponte com a clinica."
+    },
+    "explicacao": "O texto usa pneumoperitonio como exemplo de traducao anatomia-imagem-clinica. Correta: corresponde a ponte com a clinica.",
+    "aula_id": "bmf2_a3"
+  },
+  {
+    "id": 362,
+    "materia": "bmf3",
+    "tema": "bmf3_a9",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual alternativa descreve corretamente o duodeno e seus marcos anatômicos principais?",
+    "opcoes": [
+      "A) Tem trajeto em C ao redor da cabeca do pancreas, com parte superior intraperitoneal e segmentos descendente/horizontal predominantemente retroperitoneais",
+      "B) Situa-se apenas na fossa iliaca direita, sem relacao com pancreas",
+      "C) E inteiramente intraperitoneal e sem referencia endoscopica",
+      "D) Nao se relaciona com papila maior"
+    ],
+    "explicacao_geral": "Duodeno em C e referencia anatomica central do modulo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: resume a quadro comparativo do delgado.",
+      "B": "Incorreta: descreve melhor territorio ileal.",
+      "C": "Incorreta: simplifica de forma errada a peritonizacao.",
+      "D": "Incorreta: papila maior e citada como marco."
+    },
+    "explicacao": "Duodeno em C e referencia anatomica central do modulo. Correta: resume a quadro comparativo do delgado.",
+    "aula_id": "bmf3_a9",
+    "essencial": false
+  },
+  {
+    "id": 363,
+    "materia": "bmf2",
+    "tema": "bmf2_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual caracteristica favorece o reconhecimento geral do jejuno em relacao ao ileo, anatômico?",
+    "opcoes": [
+      "A) Alcas mais finas no quadrante inferior com termino na valvula ileocecal",
+      "B) Predominio em quadrante superior esquerdo, alcas mais largas e plicas mais altas (tendencia",
+      "C) Posicao fixa ao redor da cabeca do pancreas",
+      "D) Presenca de taenias e haustra como no colon"
+    ],
+    "explicacao_geral": "A diferenciacao jejuno versus ileo e classica em prova.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: perfil do ileo.",
+      "B": "Correta: sintese da linha do jejuno.",
+      "C": "Incorreta: descreve duodeno.",
+      "D": "Incorreta: taenias/haustra sao marcas do grosso."
+    },
+    "explicacao": "A diferenciacao jejuno versus ileo e classica em prova. Correta: sintese da linha do jejuno.",
+    "aula_id": "bmf2_a12"
+  },
+  {
+    "id": 364,
+    "materia": "bmf2",
+    "tema": "bmf2_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A valvula ileocecal, no contexto anatômico, corresponde a:",
+    "opcoes": [
+      "A) Transicao entre estomago e duodeno",
+      "B) Limite entre reto e canal anal",
+      "C) Transicao funcional e anatomica entre ileo e ceco",
+      "D) Abertura principal do ducto pancreatico no jejuno"
+    ],
+    "explicacao_geral": "Conteúdo destaca a valvula na passagem delgado-grosso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso e piloro.",
+      "B": "Incorreta: regiao distal do grosso.",
+      "C": "Correta: ponto-chave explicito.",
+      "D": "Incorreta: papila maior fica no duodeno descendente."
+    },
+    "explicacao": "Conteúdo destaca a valvula na passagem delgado-grosso. Correta: ponto-chave explicito.",
+    "aula_id": "bmf2_a12"
+  },
+  {
+    "id": 365,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "As marcas externas classicas do colon, uteis em peca e imagem, sao:",
+    "opcoes": [
+      "A) Plicas altas e mesenterio amplo",
+      "B) Pregas circulares altas e vaso reto longo como marcas típicas do cólon",
+      "C) Apenas uma camada muscular circular sem bandas",
+      "D) Taenias, haustra e apendices epiploicos"
+    ],
+    "explicacao_geral": "Conteúdo diferencia grosso de delgado por esse trio anatomico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: favorece descricao do delgado.",
+      "B": "Incorreta: mistura referencia duodenal com histologia.",
+      "C": "Incorreta: ignora as bandas longitudinais.",
+      "D": "Correta: trio caracteristico do colon."
+    },
+    "explicacao": "Conteúdo diferencia grosso de delgado por esse trio anatomico. Correta: trio caracteristico do colon.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 366,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A variacao de posicao do apendice (ex.: retrocecal ou pelvica) ajuda a explicar clinicamente:",
+    "opcoes": [
+      "A) Ausencia completa de dor na apendicite",
+      "B) Diferentes localizacoes da dor e sinais na apendicite, apesar da base apendicular no ceco",
+      "C) Quadro tipico de ulcera duodenal por contiguidade anatomica obrigatoria",
+      "D) Dor invariavelmente restrita ao hipocondrio esquerdo"
+    ],
+    "explicacao_geral": "Topografia do apendice orienta interpretacao de abdome agudo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: apendicite costuma cursar com dor.",
+      "B": "Correta: corresponde ao texto sobre variacao de sitio doloroso.",
+      "C": "Incorreta: nao e a apresentacao esperada de variacao posicional apendicular.",
+      "D": "Incorreta: a dor pode variar, mas nao fica obrigatoriamente nesse territorio."
+    },
+    "explicacao": "Topografia do apendice orienta interpretacao de abdome agudo. Correta: corresponde ao texto sobre variacao de sitio doloroso.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 367,
+    "materia": "bmf4",
+    "tema": "bmf4_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Sobre o mesenterio do delgado, a afirmacao correta e:",
+    "opcoes": [
+      "A) Nao participa da mobilidade intestinal",
+      "B) Existe apenas no colon sigmoide",
+      "C) Ancoragem do delgado pela raiz mesenterica explica mobilidade e parte da fisiopatologia de volvo/isquemia",
+      "D) E equivalente ao omento maior em definicao"
+    ],
+    "explicacao_geral": "Conceito-chave: fixacao e mobilidade dependem do mesenterio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: influencia mobilidade.",
+      "B": "Incorreta: o foco e delgado.",
+      "C": "Correta: sintese da secao de mesenterio e fixacao.",
+      "D": "Incorreta: estruturas diferentes."
+    },
+    "explicacao": "Conceito-chave: fixacao e mobilidade dependem do mesenterio. Correta: sintese da secao de mesenterio e fixacao.",
+    "aula_id": "bmf4_a1",
+    "essencial": false
+  },
+  {
+    "id": 368,
+    "materia": "mad2",
+    "tema": "mad2_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No grosso, a sequencia anatomica geral ensinada e:",
+    "opcoes": [
+      "A) Reto -> ceco -> colon ascendente -> sigmoide",
+      "B) Ceco -> colon descendente -> ascendente -> transverso",
+      "C) Ceco -> reto -> colon transverso -> sigmoide",
+      "D) Ceco -> colon ascendente -> transverso -> descendente -> sigmoide -> reto"
+    ],
+    "explicacao_geral": "A moldura colica organiza orientacao em imagem e cirurgia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ordem invertida.",
+      "B": "Incorreta: ascendente vem antes de descendente.",
+      "C": "Incorreta: reta nao antecede transverso.",
+      "D": "Correta: trajetoria anatomica padrao."
+    },
+    "explicacao": "A moldura colica organiza orientacao em imagem e cirurgia. Correta: trajetoria anatomica padrao.",
+    "aula_id": "mad2_a10",
+    "essencial": false
+  },
+  {
+    "id": 369,
+    "materia": "bmf3",
+    "tema": "bmf3_a12",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na diferenca entre delgado e grosso, assinale a opcao correta:",
+    "opcoes": [
+      "A) Delgado com mesenterio amplo; grosso identificado por taenias e haustra",
+      "B) Delgado com taenias e haustra; grosso com plicas altas do jejuno",
+      "C) Delgado sem relacao com valvula ileocecal",
+      "D) Grosso sempre central e delgado em moldura periferica"
+    ],
+    "explicacao_geral": "Diferenciacao morfologica evita erros de identificacao.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reproduz a quadro comparativo de diferenciacoes.",
+      "B": "Incorreta: trocou caracteristicas.",
+      "C": "Incorreta: ileo termina na regiao ileocecal.",
+      "D": "Incorreta: disposicao geral e oposta."
+    },
+    "explicacao": "Diferenciacao morfologica evita erros de identificacao. Correta: reproduz a quadro comparativo de diferenciacoes.",
+    "aula_id": "bmf3_a12",
+    "essencial": false
+  },
+  {
+    "id": 370,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em obstrucao intestinal, por que distinguir se o acometimento e de delgado ou grosso acelera a hipotese diagnostica?",
+    "opcoes": [
+      "A) Porque ambos se comportam de forma identica em distensao e niveis hidroaereos",
+      "B) Porque topografia e padrao de distensao/alcas ajudam a inferir o segmento comprometido e orientar conduta inicial",
+      "C) Porque o grosso nao gera niveis hidroaereos",
+      "D) Porque o delgado nunca distende"
+    ],
+    "explicacao_geral": "Ponte com clinica integra anatomia com leitura de imagem e sindrome obstrutiva.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ha diferencas de padrao.",
+      "B": "Correta: corresponde ao texto de obstrucao.",
+      "C": "Incorreta: pode haver niveis no grosso.",
+      "D": "Incorreta: delgado pode distender."
+    },
+    "explicacao": "Ponte com clinica integra anatomia com leitura de imagem e sindrome obstrutiva. Correta: corresponde ao texto de obstrucao.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 371,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "No contexto de colonoscopia, quais curvaturas nomeadas aparecem como referencia anatomica de laudo?",
+    "opcoes": [
+      "A) Curvaturas pylorica e ileocecal",
+      "B) Curvaturas duodenal superior e inferior",
+      "C) Flexuras ileocecal e retossigmoidea como referências principais de colonoscopia",
+      "D) Curvaturas hepatica e esplenica"
+    ],
+    "explicacao_geral": "Vocabulário anatomico de colon e util na comunicacao clinica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: nao e nomenclatura classica do colon.",
+      "B": "Incorreta: refere-se a outro segmento.",
+      "C": "Incorreta: nao corresponde ao texto.",
+      "D": "Correta: sao as flexuras colicas nomeadas na pratica."
+    },
+    "explicacao": "Vocabulário anatomico de colon e util na comunicacao clinica. Correta: sao as flexuras colicas nomeadas na pratica.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 372,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Em uma úlcera gástrica profunda, a perda do revestimento expõe tecido rico em matriz extracelular, vasos e células de defesa. Esse tecido é:",
+    "opcoes": [
+      "A) Epitélio simples cilíndrico",
+      "B) Tecido muscular estriado",
+      "C) Cartilagem elástica",
+      "D) Tecido conjuntivo"
+    ],
+    "explicacao_geral": "Abaixo do epitélio, o estroma conjuntivo oferece suporte, nutrição e resposta inflamatória.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: epitélio é tecido de revestimento.",
+      "B": "Incorreta: não é o tecido predominante no leito da úlcera.",
+      "C": "Incorreta: cartilagem não compõe a mucosa gástrica normal.",
+      "D": "Correta: o conjuntivo subjacente contém matriz, vasos e células imunes."
+    },
+    "explicacao": "Quando a mucosa se rompe, o compartimento exposto é o conjuntivo, não tecido muscular ou cartilaginoso.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 373,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual característica é típica do epitélio de revestimento?",
+    "opcoes": [
+      "A) Polaridade apical-basal e função de barreira",
+      "B) Matriz mineralizada abundante",
+      "C) Contração voluntária predominante",
+      "D) Condução elétrica como função principal"
+    ],
+    "explicacao_geral": "Epitélios revestem superfícies e controlam trocas com o meio.",
+    "explicacoes_opcoes": {
+      "A": "Correta: polaridade celular e barreira são marcas do epitélio.",
+      "B": "Incorreta: isso descreve tecido ósseo.",
+      "C": "Incorreta: essa função é do músculo.",
+      "D": "Incorreta: essa função é típica do tecido nervoso."
+    },
+    "explicacao": "A função principal do epitélio é revestir e regular passagem de substâncias, com organização polarizada.",
+    "aula_id": "bcm1_a4"
+  },
+  {
+    "id": 374,
+    "materia": "bmf3",
+    "tema": "bmf3_a12",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Na cicatrização inicial, qual tipo de colágeno tende a predominar no tecido de granulação?",
+    "opcoes": [
+      "A) Colágeno tipo II",
+      "B) Colágeno tipo I exclusivo",
+      "C) Colágeno tipo III",
+      "D) Ausência de colágeno"
+    ],
+    "explicacao_geral": "A matriz inicial é mais imatura e rica em colágeno tipo III, com remodelação posterior.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tipo II é mais associado à cartilagem.",
+      "B": "Incorreta: o tipo I aumenta mais na fase de maturação.",
+      "C": "Correta: é o padrão típico da fase proliferativa inicial.",
+      "D": "Incorreta: já há deposição de matriz nessa fase."
+    },
+    "explicacao": "A sequência comum é matriz inicial com colágeno III e, depois, reforço mecânico com maior proporção de colágeno I.",
+    "aula_id": "bmf3_a12",
+    "essencial": false
+  },
+  {
+    "id": 375,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual descrição corresponde ao músculo liso em comparação ao esquelético?",
+    "opcoes": [
+      "A) Estriado e multinucleado periférico",
+      "B) Estriado e de controle voluntário",
+      "C) Com discos intercalares típicos",
+      "D) Não estriado, com núcleo central e controle involuntário"
+    ],
+    "explicacao_geral": "Músculo liso e esquelético diferem por morfologia, localização e controle neural.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: essa é a descrição do músculo esquelético.",
+      "B": "Incorreta: músculo liso é involuntário e visceral.",
+      "C": "Incorreta: discos intercalares são do músculo cardíaco.",
+      "D": "Correta: resume as características clássicas do músculo liso."
+    },
+    "explicacao": "No músculo liso, as células são fusiformes, sem estriações visíveis e com núcleo central.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 376,
+    "materia": "mad2",
+    "tema": "mad2_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Na desmielinização do sistema nervoso central, qual célula é responsável pela mielina?",
+    "opcoes": [
+      "A) Célula de Schwann",
+      "B) Oligodendrócito",
+      "C) Astrócito protoplasmático",
+      "D) Micróglia"
+    ],
+    "explicacao_geral": "No SNC, a mielina é produzida por oligodendrócitos; no SNP, por células de Schwann.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Schwann atua no sistema nervoso periférico.",
+      "B": "Correta: é a célula mielinizante do SNC.",
+      "C": "Incorreta: astrócitos têm função de suporte e homeostase.",
+      "D": "Incorreta: micróglia atua principalmente em vigilância imune."
+    },
+    "explicacao": "A distinção entre oligodendrócito (SNC) e Schwann (SNP) é central para interpretar doenças desmielinizantes.",
+    "aula_id": "mad2_a10",
+    "essencial": false
+  },
+  {
+    "id": 377,
+    "materia": "bmf2",
+    "tema": "bmf2_a4",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Nas primeiras horas da inflamação aguda em uma ferida, qual leucócito predomina?",
+    "opcoes": [
+      "A) Neutrófilo",
+      "B) Linfócito T",
+      "C) Eosinófilo",
+      "D) Monócito"
+    ],
+    "explicacao_geral": "A resposta inflamatória inicial é dominada por neutrófilos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: neutrófilos chegam precocemente ao foco inflamatório.",
+      "B": "Incorreta: linfócitos predominam mais em respostas adaptativas ou crônicas.",
+      "C": "Incorreta: eosinófilos são mais relacionados a alergia e parasitose.",
+      "D": "Incorreta: plasmócitos são tardios e ligados à produção de anticorpos."
+    },
+    "explicacao": "A cronologia celular da inflamação aguda começa com neutrófilos e evolui para maior participação de macrófagos.",
+    "aula_id": "bmf2_a4"
+  },
+  {
+    "id": 378,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Em urticária aguda mediada por hipersensibilidade imediata, qual célula libera histamina de forma central?",
+    "opcoes": [
+      "A) Macrófago",
+      "B) Mastócito",
+      "C) Fibroblasto",
+      "D) Célula endotelial"
+    ],
+    "explicacao_geral": "Mastócitos contêm grânulos com mediadores vasoativos, incluindo histamina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: macrófagos participam da inflamação, mas não são a principal fonte imediata de histamina.",
+      "B": "Correta: desgranulação mastocitária explica edema e prurido rápidos.",
+      "C": "Incorreta: fibroblastos atuam sobretudo na matriz e reparo.",
+      "D": "Incorreta: endotélio responde aos mediadores, mas não é o principal efetor da fase imediata."
+    },
+    "explicacao": "A rápida instalação de urtica e angioedema é compatível com ativação e desgranulação de mastócitos.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 379,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O endotélio dos capilares alveolares é classificado como:",
+    "opcoes": [
+      "A) Epitélio estratificado pavimentoso",
+      "B) Epitélio simples cúbico baixo",
+      "C) Epitélio simples pavimentoso",
+      "D) Epitélio simples cúbico"
+    ],
+    "explicacao_geral": "A barreira alvéolo-capilar é extremamente delgada para favorecer difusão gasosa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: múltiplas camadas dificultariam a troca gasosa.",
+      "B": "Incorreta: esse padrão é típico de vias aéreas condutoras.",
+      "C": "Correta: camada única de células achatadas.",
+      "D": "Incorreta: epitélio cúbico é mais espesso que o ideal para difusão alveolar."
+    },
+    "explicacao": "Endotélio capilar pulmonar e pneumócitos tipo I compartilham morfologia pavimentosa simples para maximizar eficiência de trocas.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 380,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Sobre o epitélio do esôfago, qual afirmação está correta?",
+    "opcoes": [
+      "A) Todo epitélio estratificado é necessariamente queratinizado",
+      "B) O esôfago é revestido por epitélio estratificado pavimentoso não queratinizado",
+      "C) O esôfago normal é revestido por epitélio simples colunar",
+      "D) Possui epitélio de transição"
+    ],
+    "explicacao_geral": "A mucosa esofágica precisa resistir à abrasão, sem o padrão de queratinização intensa da pele.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: estratificação e queratinização são conceitos diferentes.",
+      "B": "Correta: é o padrão histológico usual do esôfago.",
+      "C": "Incorreta: epitélio simples colunar predomina no estômago e intestino.",
+      "D": "Incorreta: esse padrão não corresponde ao esôfago normal."
+    },
+    "explicacao": "O revestimento estratificado não queratinizado oferece proteção mecânica em ambiente úmido.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 381,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual diferença conceitual entre metaplasia e displasia está correta?",
+    "opcoes": [
+      "A) São termos equivalentes para o mesmo processo",
+      "B) Displasia é sempre fisiológica e reversível sem risco",
+      "C) Metaplasia representa apenas aumento do número celular",
+      "D) Metaplasia é substituição adaptativa de um tipo celular maduro por outro; displasia envolve atipia e desorganização arquitetural"
+    ],
+    "explicacao_geral": "Metaplasia e displasia podem coexistir, mas não são sinônimos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: os conceitos são distintos.",
+      "B": "Incorreta: displasia pode ter significado pré-neoplásico.",
+      "C": "Incorreta: isso descreve hiperplasia.",
+      "D": "Correta: esta é a distinção fundamental entre os dois processos."
+    },
+    "explicacao": "Metaplasia é adaptação fenotípica; displasia é alteração de maturação e arquitetura celular com potencial de progressão neoplásica.",
+    "aula_id": "farm_a11"
+  },
+  {
+    "id": 382,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No mapa arterial do TGI, qual territorio e atribuido principalmente ao tronco celiaco, anatômico?",
+    "opcoes": [
+      "A) Esofago abdominal, estomago, figado, baco e duodeno proximal",
+      "B) Delgado distal e colon esquerdo ate reto superior",
+      "C) Jejuno-ileo e todo reto inferior",
+      "D) Pâncreas, duodeno distal, jejuno e cólon ascendente"
+    ],
+    "explicacao_geral": "Tronco celiaco irriga derivados do intestino anterior no contexto .",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde a quadro comparativo de territorios.",
+      "B": "Incorreta: mistura territorio de AMS/AMI.",
+      "C": "Incorreta: descreve distribuicao impropria.",
+      "D": "Incorreta: territorio muito restrito e errado."
+    },
+    "explicacao": "Tronco celiaco irriga derivados do intestino anterior no contexto do conteúdo. Correta: corresponde a quadro comparativo de territorios.",
+    "aula_id": "farm_a11"
+  },
+  {
+    "id": 383,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A AMS, em linhas gerais, irriga principalmente:",
+    "opcoes": [
+      "A) Estomago e figado como territorio dominante",
+      "B) Delgado (exceto proximal) e colon proximal ate a flexura esplenica",
+      "C) Colon distal e reto superior exclusivamente",
+      "D) Apenas o esofago abdominal"
+    ],
+    "explicacao_geral": "AMS corresponde ao territorio medio, com zona de transicao na flexura esplenica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: perfil de tronco celiaco.",
+      "B": "Correta: linha da quadro comparativo arterial.",
+      "C": "Incorreta: perfil de AMI.",
+      "D": "Incorreta: descricao incompleta e incorreta."
+    },
+    "explicacao": "AMS corresponde ao territorio medio, com zona de transicao na flexura esplenica. Correta: linha da quadro comparativo arterial.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 384,
+    "materia": "bmf4",
+    "tema": "bmf4_a2",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A AMI e mais relacionada a irrigacao de qual segmento?",
+    "opcoes": [
+      "A) Duodeno proximal e estomago",
+      "B) Jejuno proximal e flexura hepatica",
+      "C) Colon distal e reto superior",
+      "D) Cólon transverso proximal e jejuno-íleo proximal"
+    ],
+    "explicacao_geral": "AMI cobre o territorio caudal do tubo digestorio no conteudo .",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: territorio celiaco.",
+      "B": "Incorreta: nao e o padrao da AMI.",
+      "C": "Correta: coincide com a quadro comparativo.",
+      "D": "Incorreta: fora do territorio em foco."
+    },
+    "explicacao": "AMI cobre o territorio caudal do tubo digestorio no conteudo do conteúdo. Correta: coincide com a quadro comparativo.",
+    "aula_id": "bmf4_a2",
+    "essencial": false
+  },
+  {
+    "id": 385,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A flexura esplenica representa:",
+    "opcoes": [
+      "A) Unico ponto de drenagem linfatica do delgado",
+      "B) Regiao sem anastomose arterial",
+      "C) Territorio exclusivo do tronco celiaco",
+      "D) Zona de transicao entre territorios arteriais com risco de isquemia de limite"
+    ],
+    "explicacao_geral": "A flexura esplenica e uma area de fronteira vascular e, por isso, relativamente vulneravel em hipoperfusao.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: linfatica nao e o foco da confusão comum.",
+      "B": "Incorreta: ha redes anastomoticas de fronteira.",
+      "C": "Incorreta: nao e territorio celiaco exclusivo.",
+      "D": "Correta: sintese da observacao ."
+    },
+    "explicacao": "A flexura esplenica e uma area de fronteira vascular e, por isso, relativamente vulneravel em hipoperfusao. Correta: sintese da observacao da conteúdo.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 386,
+    "materia": "bmf4",
+    "tema": "bmf4_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A veia porta, no conceito minimo exigido, e melhor definida por:",
+    "opcoes": [
+      "A) Drenar sangue intestinal diretamente para a cava inferior sem passar pelo figado",
+      "B) Conduzir sangue venoso nutritivo do TGI ao figado apos confluencia esplenomesenterica",
+      "C) Ser formada apenas pela veia renal esquerda",
+      "D) Pertencer ao sistema arterial mesenterico"
+    ],
+    "explicacao_geral": "Origem e destino do fluxo portal sao pontos de prova recorrentes.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o figado e o primeiro filtro metabolico nesse eixo.",
+      "B": "Correta: descreve composicao e destino no nivel .",
+      "C": "Incorreta: formacao portal nao e essa.",
+      "D": "Incorreta: porta e sistema venoso."
+    },
+    "explicacao": "Origem e destino do fluxo portal sao pontos de prova recorrentes. Correta: descreve composicao e destino no nivel da conteúdo.",
+    "aula_id": "bmf4_a3",
+    "essencial": false
+  },
+  {
+    "id": 387,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No tubo digestorio, o parassimpatico (vago/sacral) tem efeito global de:",
+    "opcoes": [
+      "A) Reduzir motilidade e secrecao em resposta de estresse",
+      "B) Vasoconstricao mesenterica intensa como efeito principal",
+      "C) Aumentar motilidade e secrecao",
+      "D) Predominar sobre reflexos entéricos locais em todas as situações, suprimindo peristalse segmentar"
+    ],
+    "explicacao_geral": "Conteúdo contrasta parassimpatico pro-motilidade versus simpatico vasoconstritor.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: perfil mais simpatico.",
+      "B": "Incorreta: descricao do eixo simpatico.",
+      "C": "Correta: corresponde a quadro comparativo de inervacao.",
+      "D": "Incorreta: nao e bloqueio absoluto do enterico."
+    },
+    "explicacao": "Conteúdo contrasta parassimpatico pro-motilidade versus simpatico vasoconstritor. Correta: corresponde a quadro comparativo de inervacao.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 388,
+    "materia": "mad1",
+    "tema": "mad1_a15",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O simpatico esplancnico, no contexto , tende a:",
+    "opcoes": [
+      "A) Aumentar secrecao e peristalse como efeito dominante",
+      "B) Atuar apenas na mucosa sem efeito vascular",
+      "C) Substituir a funcao dos plexos entericos",
+      "D) Promover vasoconstricao mesenterica e reduzir motilidade em estresse"
+    ],
+    "explicacao_geral": "Simpatico e associado a resposta de estresse com freio funcional digestorio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: efeito oposto ao esperado.",
+      "B": "Incorreta: ha efeito vascular importante.",
+      "C": "Incorreta: nao substitui o sistema enterico.",
+      "D": "Correta: resumo direto da quadro comparativo."
+    },
+    "explicacao": "Simpatico e associado a resposta de estresse com freio funcional digestorio. Correta: resumo direto da quadro comparativo.",
+    "aula_id": "mad1_a15"
+  },
+  {
+    "id": 389,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual alternativa diferencia corretamente os plexos entericos de Auerbach e Meissner?",
+    "opcoes": [
+      "A) Auerbach (mioenterico) relaciona-se mais a motilidade na camada muscular; Meissner (submucoso) regula secrecao/funcao local da mucosa",
+      "B) Auerbach e exclusivamente vascular, enquanto Meissner e linfatico",
+      "C) Meissner localiza-se na muscular própria e Auerbach na submucosa",
+      "D) Ambos sao plexos somaticos motores da parede abdominal"
+    ],
+    "explicacao_geral": "Conteúdo pede localizacao e funcao geral dos dois plexos do sistema enterico.",
+    "explicacoes_opcoes": {
+      "A": "Correta: condensa localizacao e papel funcional classicos.",
+      "B": "Incorreta: classificacao sem base no conteudo.",
+      "C": "Incorreta: localizacoes anatomicas erradas.",
+      "D": "Incorreta: nao sao somaticos da parede."
+    },
+    "explicacao": "Conteúdo pede localizacao e funcao geral dos dois plexos do sistema enterico. Correta: condensa localizacao e papel funcional classicos.",
+    "aula_id": "farm_a10"
+  },
+  {
+    "id": 390,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Paciente com suspeita de isquemia mesenterica apresenta dor abdominal desproporcional ao exame. A conduta diagnostica deve priorizar:",
+    "opcoes": [
+      "A) Apenas antiacido e observacao sem imagem",
+      "B) Correlacao do territorio arterial/venoso acometido com exame de imagem para confirmar oclusao e definir possibilidade de revascularizacao",
+      "C) Tratar como dor funcional sem considerar perfusao",
+      "D) Focar somente em etiologia biliar, independentemente de perfusao intestinal"
+    ],
+    "explicacao_geral": "A correlacao entre territorio vascular e imagem agiliza confirmacao diagnostica e estrategia terapeutica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: subestima urgencia potencial.",
+      "B": "Correta: integra anatomia vascular e tomada de decisao.",
+      "C": "Incorreta: ignora sinal de gravidade.",
+      "D": "Incorreta: restringe indevidamente o raciocinio."
+    },
+    "explicacao": "A correlacao entre territorio vascular e imagem agiliza confirmacao diagnostica e estrategia terapeutica. Correta: integra anatomia vascular e tomada de decisao.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 391,
+    "materia": "mad1",
+    "tema": "mad1_a20",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual sintese integra melhor o eixo arterial-venoso-neural do TGI?",
+    "opcoes": [
+      "A) Um unico tronco arterial irriga todo o intestino, sem zonas de fronteira",
+      "B) O retorno venoso digestorio vai direto a cava sem filtro metabolico",
+      "C) Simpatico e parassimpatico produzem efeitos identicos na motilidade",
+      "D) Tres territorios arteriais (celiaco, AMS, AMI) organizam a perfusao; sangue nutritivo segue pela porta ao figado; modulacao neural resulta do equilibrio enterico/autonomico"
+    ],
+    "explicacao_geral": "Questao de integracao: mapa arterial, eixo portal e controle autonomico-enterico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: existem territorios e zonas de transicao.",
+      "B": "Incorreta: fluxo portal precede retorno sistemico.",
+      "C": "Incorreta: efeitos sao globalmente opostos.",
+      "D": "Correta: integra os tres pilares ."
+    },
+    "explicacao": "Questao de integracao: mapa arterial, eixo portal e controle autonomico-enterico. Correta: integra os tres pilares da conteúdo.",
+    "aula_id": "mad1_a20"
+  },
+  {
+    "id": 392,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Sobre a anatomia externa hepatica, qual afirmacao esta correta?",
+    "opcoes": [
+      "A) O lobo direito e maior, e a vesicula biliar se relaciona com sua fossa na face visceral",
+      "B) O ligamento falciforme separa os segmentos funcionais de Couinaud de forma definitiva",
+      "C) O lobo esquerdo contem obrigatoriamente a vesicula",
+      "D) A face diafragmatica abriga a porta hepatica"
+    ],
+    "explicacao_geral": "BMF1 prioriza ancoras macroscopicas: lobos, fossa da vesicula e superficies.",
+    "explicacoes_opcoes": {
+      "A": "Correta: coincide com os pontos-chave.",
+      "B": "Incorreta: segmentacao funcional e tema avancado e nao se resume ao falciforme superficial.",
+      "C": "Incorreta: vesicula nao fica no lobo esquerdo.",
+      "D": "Incorreta: porta hepatica e referencia da face visceral."
+    },
+    "explicacao": "BMF1 prioriza ancoras macroscopicas: lobos, fossa da vesicula e superficies. Correta: coincide com os pontos-chave.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 393,
+    "materia": "bmf2",
+    "tema": "bmf2_a9",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Na porta hepatica, qual disposicao relativa e a mais classica para memorizar?",
+    "opcoes": [
+      "A) Ducto biliar posterior, veia porta anterior",
+      "B) Veia porta mais posterior, com arteria hepatica e ducto biliar em posicao anterior (com variacoes",
+      "C) Apenas veias hepatica direita e esquerda",
+      "D) Veias hepáticas e ducto cístico constituem a tríade portal principal"
+    ],
+    "explicacao_geral": "Conteúdo recomenda imagem mental do arranjo portal, aceitando variacoes anatomicas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte relacoes habituais.",
+      "B": "Correta: resume o arranjo ensinado.",
+      "C": "Incorreta: veias hepaticas drenam para cava, nao compoem a triade portal no hilo.",
+      "D": "Incorreta: nao e a triade anatomica padrao."
+    },
+    "explicacao": "Conteúdo recomenda imagem mental do arranjo portal, aceitando variacoes anatomicas. Correta: resume o arranjo ensinado.",
+    "aula_id": "bmf2_a9"
+  },
+  {
+    "id": 394,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual sequencia descreve corretamente a formacao do coledoco?",
+    "opcoes": [
+      "A) Ducto pancreatico principal + ducto cistico",
+      "B) Ducto hepatocoledociano + veia porta",
+      "C) Ducto cistico unindo-se ao ducto hepatico comum",
+      "D) Ducto hepatico esquerdo unindo-se diretamente ao duodeno"
+    ],
+    "explicacao_geral": "Arvore biliar extra-hepatica e cobranca recorrente em anatomia aplicada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: mistura via pancreatica com biliar primaria.",
+      "B": "Incorreta: termo e relacao incorretos.",
+      "C": "Correta: define o ponto de origem do coledoco.",
+      "D": "Incorreta: nao ha drenagem direta assim."
+    },
+    "explicacao": "Arvore biliar extra-hepatica e cobranca recorrente em anatomia aplicada. Correta: define o ponto de origem do coledoco.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 395,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Em caso de obstrucao distal do coledoco, qual consequencia anatomoclinica e esperada?",
+    "opcoes": [
+      "A) Drenagem biliar direta para cava inferior sem ictericia",
+      "B) Esvaziamento biliar preservado por via principal alternativa sem dilatacao",
+      "C) Isquemia mesenterica imediata como evento dominante",
+      "D) Ictericia obstrutiva com dilatacao de vias biliares a montante, dependendo do nivel da obstrucao"
+    ],
+    "explicacao_geral": "A conteúdo liga local do bloqueio no eixo biliar ao padrao de imagem e laboratorio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: nao existe esse desvio fisiologico.",
+      "B": "Incorreta: em obstrucao relevante, ha repercussao proximal.",
+      "C": "Incorreta: mecanismo principal e biliar, nao mesenterico.",
+      "D": "Correta: traduz a fisiopatologia anatomica do bloqueio."
+    },
+    "explicacao": "A conteúdo liga local do bloqueio no eixo biliar ao padrao de imagem e laboratorio. Correta: traduz a fisiopatologia anatomica do bloqueio.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 396,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual relacao anatomica do pancreas esta correta no nivel deste contexto?",
+    "opcoes": [
+      "A) A cabeca pancreatica fica distante do duodeno",
+      "B) A cabeca encaixa-se no C duodenal, enquanto a cauda projeta-se em direcao ao baco",
+      "C) O corpo pancreatico termina no hilo renal direito",
+      "D) A cauda pancreatica projeta-se preferencialmente para o hilo hepatico"
+    ],
+    "explicacao_geral": "Topografia pancreatica e base para interpretar dor, massa e imagem axial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: contradiz a relacao classica.",
+      "B": "Correta: corresponde aos pontos-chave .",
+      "C": "Incorreta: relacao anatomica inadequada.",
+      "D": "Incorreta: a relacao classica da cauda e com o territorio esplenico."
+    },
+    "explicacao": "Topografia pancreatica e base para interpretar dor, massa e imagem axial. Correta: corresponde aos pontos-chave da conteúdo.",
+    "aula_id": "bmf1_a21",
+    "essencial": false
+  },
+  {
+    "id": 397,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No encontro hepatopancreatico-duodenal, a alternativa correta e:",
+    "opcoes": [
+      "A) O ducto de Wirsung drena, por regra, no jejuno proximal",
+      "B) O coledoco termina no piloro",
+      "C) O ducto pancreatico principal geralmente desemboca na papila maior, frequentemente em conjunto funcional com o coledoco (ampola de Vater",
+      "D) A papila menor e obrigatoria e substitui a maior"
+    ],
+    "explicacao_geral": "Relacao entre coledoco, Wirsung e papila maior e ancora de prova e de clinica biliar.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: nao e o trajeto classico.",
+      "B": "Incorreta: termino e no duodeno descendente.",
+      "C": "Correta: descricao com variacao anatomica esperavel.",
+      "D": "Incorreta: papila menor e acessoria, nao obrigatoria substitutiva."
+    },
+    "explicacao": "Relacao entre coledoco, Wirsung e papila maior e ancora de prova e de clinica biliar. Correta: descricao da conteúdo com variacao anatomica esperavel.",
+    "aula_id": "bmf1_a21",
+    "essencial": false
+  },
+  {
+    "id": 398,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Sobre o fluxo sanguineo hepatico, qual frase integra corretamente entrada e saida?",
+    "opcoes": [
+      "A) Veia porta sai do figado para cava inferior",
+      "B) Veia hepatica leva sangue do intestino ao figado",
+      "C) Arteria hepatica drena para cava pelas veias supra-hepaticas",
+      "D) Veia porta e arteria hepatica entram na porta hepatica; drenagem final sai por veias hepaticas para a cava inferior"
+    ],
+    "explicacao_geral": "Diferenciar entrada portal/nutritiva de saida sistemica evita erro conceitual frequente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: porta e aferente ao figado.",
+      "B": "Incorreta: veias hepaticas fazem saida para cava.",
+      "C": "Incorreta: arteria e aferente arterial.",
+      "D": "Correta: sintetiza anatomia vascular basica hepatica."
+    },
+    "explicacao": "Diferenciar entrada portal/nutritiva de saida sistemica evita erro conceitual frequente. Correta: sintetiza anatomia vascular basica hepatica.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 399,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Paciente com dor em hipocondrio direito pos-prandial gorduroso e ultrassom com calculo em vesicula. Qual mecanismo anatomico explica o colico biliar?",
+    "opcoes": [
+      "A) Contracao vesicular contra obstrucao no eixo cistico/biliar, elevando pressao intraluminal e gerando dor",
+      "B) Oclusao da AMS como evento inicial obrigatorio",
+      "C) Bloqueio do ducto pancreatico acessorio como unica causa",
+      "D) Distensão gástrica pós-prandial com irritação diafragmática reflexa"
+    ],
+    "explicacao_geral": "A anatomia da vesicula e dos ductos explica padrao de dor pos-prandial na colelitiase.",
+    "explicacoes_opcoes": {
+      "A": "Correta: relaciona contracao vesicular e obstrucao de via biliar.",
+      "B": "Incorreta: mecanismo vascular mesenterico nao define colico biliar.",
+      "C": "Incorreta: nao e o eixo principal do quadro.",
+      "D": "Incorreta: sem relacao com via biliar."
+    },
+    "explicacao": "A anatomia da vesicula e dos ductos explica padrao de dor pos-prandial na colelitiase. Correta: relaciona contracao vesicular e obstrucao de via biliar.",
+    "aula_id": "bmf1_a21"
+  },
+  {
+    "id": 400,
+    "materia": "bmf1",
+    "tema": "bmf1_a21",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A distincao entre ducto hepatico comum e coledoco e corretamente dada por:",
+    "opcoes": [
+      "A) Sao sinonimos para o mesmo segmento anatomico",
+      "B) Ducto hepatico comum existe antes da uniao com o cistico; apos essa uniao, o segmento passa a ser chamado coledoco",
+      "C) Coledoco e apenas o ramo esquerdo intra-hepatico",
+      "D) Ducto hepatico comum desemboca diretamente na segunda porcao do duodeno"
+    ],
+    "explicacao_geral": "Nomenclatura por segmentos da arvore biliar e classica em prova e em laudo de imagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: nomes referem-se a segmentos diferentes.",
+      "B": "Correta: definicao anatomo-nominal padrao.",
+      "C": "Incorreta: confunde via extra-hepatica com ramo intra-hepatico.",
+      "D": "Incorreta: quem desemboca no duodeno e o coledoco, geralmente via papila maior."
+    },
+    "explicacao": "Nomenclatura por segmentos da arvore biliar e classica em prova e em laudo de imagem. Correta: definicao anatomo-nominal padrao.",
+    "aula_id": "bmf1_a21"
+  }
+]

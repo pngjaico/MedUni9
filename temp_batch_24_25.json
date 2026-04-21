@@ -1,0 +1,2452 @@
+[
+  {
+    "id": 2501,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "A temperatura corporal em graus Celsius é classificada como variável em qual escala de medida?",
+    "opcoes": [
+      "A) Intervalar.",
+      "B) Nominal.",
+      "C) Ordinal.",
+      "D) Razão."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Intervalar.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Intervalar.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2502,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Peso corporal (kg) e pressão arterial (mmHg) são exemplos de variáveis em qual escala?",
+    "opcoes": [
+      "A) Ordinal.",
+      "B) Intervalar.",
+      "C) Razão.",
+      "D) Nominal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Razão.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Razão.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2503,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual fibra conduz tato fino e pressão com velocidade intermediária e mielina presente?",
+    "opcoes": [
+      "A) Aα",
+      "B) Aβ",
+      "C) Aδ",
+      "D) C"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: Aβ.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: Aβ.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2504,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação às fibras aferentes somatossensitivas, qual alternativa descreve corretamente a fibra Aα?",
+    "opcoes": [
+      "A) Amielínica, condução muito lenta (menor que 2 m/s), relacionada à dor lenta e calor",
+      "B) Mielinizada, alta velocidade de condução (aprox. 70-120 m/s), associada à propriocepção e a aferências primárias do fuso muscular",
+      "C) Mielinizada, condução intermediária (aprox. 30-70 m/s), relacionada principalmente a tato fino cutâneo",
+      "D) Pouco mielinizada, condução lenta (aprox. 5-30 m/s), relacionada à dor rápida e frio"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Correta: Mielinizada, alta velocidade de condução (aprox. 70-120 m/s), associada à propriocepção e a aferências primárias do fuso muscular",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) CORRETA. Correta: Mielinizada, alta velocidade de condução (aprox. 70-120 m/s), associada à propriocepção e a aferências primárias do fuso muscular\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2508,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Na intoxicação botulínica, o mecanismo primário da fraqueza muscular é:",
+    "opcoes": [
+      "A) Bloqueio pós-sináptico do receptor nicotínico",
+      "B) Inibição de canais de Ca2+ por autoanticorpos",
+      "C) Clivagem de proteínas SNARE com redução da liberação de ACh",
+      "D) Aumento da acetilcolinesterase sináptica"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Correta: Clivagem de proteínas SNARE com redução da liberação de ACh.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é C porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) CORRETA. Correta: Clivagem de proteínas SNARE com redução da liberação de ACh.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2511,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em um estudo com alfa de 5%, o pesquisador rejeitou H0 quando ela era verdadeira. Esse erro corresponde a:",
+    "opcoes": [
+      "A) Erro tipo I (falso positivo).",
+      "B) Erro tipo II (falso negativo).",
+      "C) Aumento do poder estatístico.",
+      "D) Viés de memória."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Erro tipo I (falso positivo).",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Erro tipo I (falso positivo).\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2512,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Paciente com anosmia após trauma craniofacial. Qual nervo craniano e forame de saída estão mais relacionados ao quadro?",
+    "opcoes": [
+      "A) VII (facial) - forame estilomastoideo - mímica facial",
+      "B) X (vago) - forame jugular - motricidade faríngea",
+      "C) I (olfatório) - lâmina cribriforme - olfação",
+      "D) II (óptico) - canal óptico - visão"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Correta: I (olfatório) - lâmina cribriforme - olfação.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é C porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) CORRETA. Correta: I (olfatório) - lâmina cribriforme - olfação.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2513,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Na lesão do forame jugular com queda do ombro ipsilateral, qual nervo está mais envolvido?",
+    "opcoes": [
+      "A) III - inerva trapézio",
+      "B) VI - conduz sensibilidade da face",
+      "C) XI - inerva esternocleidomastoideo e trapézio",
+      "D) IX - inerva músculos extraoculares"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Correta: XI - inerva esternocleidomastoideo e trapézio.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é C porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) CORRETA. Correta: XI - inerva esternocleidomastoideo e trapézio.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2514,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Paciente com paralisia facial periférica à direita. Qual achado favorece lesão periférica (e não central) do VII?",
+    "opcoes": [
+      "A) Fraqueza apenas de terço inferior da face, fronte poupada",
+      "B) Fraqueza de hemiface inteira direita, incluindo fronte",
+      "C) Desvio de língua para direita sem alteração facial",
+      "D) Ptose e midríase direitas isoladas"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: Fraqueza de hemiface inteira direita, incluindo fronte.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: Fraqueza de hemiface inteira direita, incluindo fronte.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2517,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Assinale a alternativa que correlaciona corretamente “II” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical.",
+      "B) II — Óptico — S — Canal óptico — Visão",
+      "C) NC III comprimido em herniação uncal: midríase ipsilateral — urgência neurológica.",
+      "D) XI — Acessório — M — Forame jugular — Esternocleidomastoideo e trapézio"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa é a que combina “II” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical.",
+      "B": "Correta: II — Óptico — S — Canal óptico — Visão",
+      "C": "Incorreta: NC III comprimido em herniação uncal: midríase ipsilateral — urgência neurológica.",
+      "D": "Incorreta: XI — Acessório — M — Forame jugular — Esternocleidomastoideo e trapézio"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “II” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical.\nB) CORRETA. Correta: II — Óptico — S — Canal óptico — Visão\nC) INCORRETA. Incorreta: NC III comprimido em herniação uncal: midríase ipsilateral — urgência neurológica.\nD) INCORRETA. Incorreta: XI — Acessório — M — Forame jugular — Esternocleidomastoideo e trapézio",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2520,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação a “Lesão de NC X:” está correta?",
+    "opcoes": [
+      "A) rouquidão + disfagia + ausência de reflexo de tosse.",
+      "B) NC III comprimido em herniação uncal: midríase ipsilateral — urgência neurológica.",
+      "C) XI — Acessório — M — Forame jugular — Esternocleidomastoideo e trapézio",
+      "D) Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Lesão de NC X:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: rouquidão + disfagia + ausência de reflexo de tosse.",
+      "B": "Incorreta: NC III comprimido em herniação uncal: midríase ipsilateral — urgência neurológica.",
+      "C": "Incorreta: XI — Acessório — M — Forame jugular — Esternocleidomastoideo e trapézio",
+      "D": "Incorreta: Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Lesão de NC X:”.\nA) CORRETA. Correta: rouquidão + disfagia + ausência de reflexo de tosse.\nB) INCORRETA. Incorreta: NC III comprimido em herniação uncal: midríase ipsilateral — urgência neurológica.\nC) INCORRETA. Incorreta: XI — Acessório — M — Forame jugular — Esternocleidomastoideo e trapézio\nD) INCORRETA. Incorreta: Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2522,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em neuroanatomia venosa intracraniana, qual é a principal drenagem do seio sagital superior?",
+    "opcoes": [
+      "A) Território cortical lateral irrigado pela ACM",
+      "B) Superfície superomedial dos hemisférios cerebrais",
+      "C) Sistema venoso profundo do tálamo e núcleos da base",
+      "D) Região orbitária e seio cavernoso exclusivamente"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Correta: Superfície superomedial dos hemisférios cerebrais",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) CORRETA. Correta: Superfície superomedial dos hemisférios cerebrais\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2524,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Considerando “Seio reto:” está correta?",
+    "opcoes": [
+      "A) Confluência dos seios (tórcula): junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.",
+      "B) ACM: irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum.",
+      "C) drena veia cerebral magna (Galeno) — drena estruturas profundas.",
+      "D) ACA: irriga face medial do hemisfério → déficit no membro inferior contralateral."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta expressa com precisão “Seio reto:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Confluência dos seios (tórcula): junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.",
+      "B": "Incorreta: ACM: irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum.",
+      "C": "Correta: drena veia cerebral magna (Galeno) — drena estruturas profundas.",
+      "D": "Incorreta: ACA: irriga face medial do hemisfério → déficit no membro inferior contralateral."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Seio reto:”.\nA) INCORRETA. Incorreta: Confluência dos seios (tórcula): junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.\nB) INCORRETA. Incorreta: ACM: irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum.\nC) CORRETA. Correta: drena veia cerebral magna (Galeno) — drena estruturas profundas.\nD) INCORRETA. Incorreta: ACA: irriga face medial do hemisfério → déficit no membro inferior contralateral.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2527,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual combinação é mais típica de oclusão de ACM dominante?",
+    "opcoes": [
+      "A) Hemianopsia bitemporal isolada",
+      "B) Disfagia e rouquidão isoladas",
+      "C) Hemiparesia face-braço contralateral + afasia",
+      "D) Paresia predominante de perna contralateral sem afasia"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Hemiparesia face-braço contralateral + afasia",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Hemiparesia face-braço contralateral + afasia\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2528,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual alternativa descreve corretamente a confluência dos seios da dura-máter (tórcula)?",
+    "opcoes": [
+      "A) União funcional de seios venosos durais com escoamento para seios transversos",
+      "B) Anastomose arterial entre ACA, ACM e ACP na base do crânio",
+      "C) Canal exclusivo de drenagem do seio cavernoso para jugular externa",
+      "D) Compartimento liquórico entre pia-máter e córtex cerebral"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: União funcional de seios venosos durais com escoamento para seios transversos",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: União funcional de seios venosos durais com escoamento para seios transversos\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2530,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Considerando “Círculo de Willis:” está correta?",
+    "opcoes": [
+      "A) anastomose entre sistema carotídeo (anterior) e vertebrobasilar (posterior). Em 50% é incompleto.",
+      "B) ACA: irriga face medial do hemisfério → déficit no membro inferior contralateral.",
+      "C) Confluência dos seios (tórcula): junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.",
+      "D) ACM: irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta expressa com precisão “Círculo de Willis:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: anastomose entre sistema carotídeo (anterior) e vertebrobasilar (posterior). Em 50% é incompleto.",
+      "B": "Incorreta: ACA: irriga face medial do hemisfério → déficit no membro inferior contralateral.",
+      "C": "Incorreta: Confluência dos seios (tórcula): junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.",
+      "D": "Incorreta: ACM: irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Círculo de Willis:”.\nA) CORRETA. Correta: anastomose entre sistema carotídeo (anterior) e vertebrobasilar (posterior). Em 50% é incompleto.\nB) INCORRETA. Incorreta: ACA: irriga face medial do hemisfério → déficit no membro inferior contralateral.\nC) INCORRETA. Incorreta: Confluência dos seios (tórcula): junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.\nD) INCORRETA. Incorreta: ACM: irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2532,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre a dura-máter craniana, assinale a alternativa correta.",
+    "opcoes": [
+      "A) Não participa da formação de pregas intracranianas",
+      "B) No crânio, possui camada periosteal e meníngea, formando seios venosos entre elas",
+      "C) É a meninge mais interna e aderida diretamente ao córtex cerebral",
+      "D) Contém o LCR no espaço subdural fisiológico"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Correta: No crânio, possui camada periosteal e meníngea, formando seios venosos entre elas",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) CORRETA. Correta: No crânio, possui camada periosteal e meníngea, formando seios venosos entre elas\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2534,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre “Espaço epidural crânio:” está correta?",
+    "opcoes": [
+      "A) Granulações aracnoides comprometidas: hidrocefalia comunicante.",
+      "B) BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.",
+      "C) praticamente virtual; hematoma epidural = artéria meníngea média.",
+      "D) BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Espaço epidural crânio:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Granulações aracnoides comprometidas: hidrocefalia comunicante.",
+      "B": "Incorreta: BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.",
+      "C": "Correta: praticamente virtual; hematoma epidural = artéria meníngea média.",
+      "D": "Incorreta: BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Espaço epidural crânio:”.\nA) INCORRETA. Incorreta: Granulações aracnoides comprometidas: hidrocefalia comunicante.\nB) INCORRETA. Incorreta: BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.\nC) CORRETA. Correta: praticamente virtual; hematoma epidural = artéria meníngea média.\nD) INCORRETA. Incorreta: BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2535,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Na punção lombar de meningite bacteriana, qual achado é mais esperado?",
+    "opcoes": [
+      "A) Ausência de células com proteína muito baixa",
+      "B) Predomínio de neutrófilos e hipoglicorraquia",
+      "C) Predomínio linfocitário com glicose normal",
+      "D) Pleocitose eosinofílica com proteína normal"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Correta: Predomínio de neutrófilos e hipoglicorraquia",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) CORRETA. Correta: Predomínio de neutrófilos e hipoglicorraquia\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2538,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação a “Espaço subaracnoideo:” está correta?",
+    "opcoes": [
+      "A) Granulações aracnoides comprometidas: hidrocefalia comunicante.",
+      "B) BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.",
+      "C) LCR; hemorragia aqui = aneurisma até prova em contrário.",
+      "D) BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Espaço subaracnoideo:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Granulações aracnoides comprometidas: hidrocefalia comunicante.",
+      "B": "Incorreta: BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.",
+      "C": "Correta: LCR; hemorragia aqui = aneurisma até prova em contrário.",
+      "D": "Incorreta: BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Espaço subaracnoideo:”.\nA) INCORRETA. Incorreta: Granulações aracnoides comprometidas: hidrocefalia comunicante.\nB) INCORRETA. Incorreta: BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.\nC) CORRETA. Correta: LCR; hemorragia aqui = aneurisma até prova em contrário.\nD) INCORRETA. Incorreta: BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2541,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Hemorragia subaracnoide” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Granulações aracnoides comprometidas: hidrocefalia comunicante.",
+      "B) BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.",
+      "C) Hemorragia subaracnoide — Xantocrômico/sanguinolento — ↑ — Normal — Hemácias",
+      "D) BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa é a que combina “Hemorragia subaracnoide” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Granulações aracnoides comprometidas: hidrocefalia comunicante.",
+      "B": "Incorreta: BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.",
+      "C": "Correta: Hemorragia subaracnoide — Xantocrômico/sanguinolento — ↑ — Normal — Hemácias",
+      "D": "Incorreta: BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Hemorragia subaracnoide” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Granulações aracnoides comprometidas: hidrocefalia comunicante.\nB) INCORRETA. Incorreta: BHE: junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.\nC) CORRETA. Correta: Hemorragia subaracnoide — Xantocrômico/sanguinolento — ↑ — Normal — Hemácias\nD) INCORRETA. Incorreta: BHE saudável — BHE inflamada — Inflamada: maior permeabilidade → antibióticos penetram melhor",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2542,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Lemnisco medial:” está correta?",
+    "opcoes": [
+      "A) Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "B) propriocepção + vibração + tato fino; decussa no bulbo → déficit ipsilateral na lesão medular.",
+      "C) Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "D) Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: propriocepção + vibração + tato fino; decussa no bulbo → déficit ipsilateral na lesão medular..",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: propriocepção + vibração + tato fino; decussa no bulbo → déficit ipsilateral na lesão medular..\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2544,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação a “Via espinotalâmica:” está correta?",
+    "opcoes": [
+      "A) Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "B) Lemnisco medial: propriocepção + vibração + tato fino; decussa no bulbo → déficit ipsilateral na lesão medular.",
+      "C) dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "D) Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Via espinotalâmica:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "B": "Incorreta: Lemnisco medial: propriocepção + vibração + tato fino; decussa no bulbo → déficit ipsilateral na lesão medular.",
+      "C": "Correta: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "D": "Incorreta: Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Via espinotalâmica:”.\nA) INCORRETA. Incorreta: Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.\nB) INCORRETA. Incorreta: Lemnisco medial: propriocepção + vibração + tato fino; decussa no bulbo → déficit ipsilateral na lesão medular.\nC) CORRETA. Correta: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.\nD) INCORRETA. Incorreta: Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2545,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Corpúsculo de Meissner” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "B) Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.",
+      "C) Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "D) Corpúsculo de Meissner — Pele glabra (dedos, lábios) — Rápida — Tato leve, textura"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é a que apresenta “Corpúsculo de Meissner” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "B": "Incorreta: Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.",
+      "C": "Incorreta: Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "D": "Correta: Corpúsculo de Meissner — Pele glabra (dedos, lábios) — Rápida — Tato leve, textura"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Corpúsculo de Meissner” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.\nB) INCORRETA. Incorreta: Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.\nC) INCORRETA. Incorreta: Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.\nD) CORRETA. Correta: Corpúsculo de Meissner — Pele glabra (dedos, lábios) — Rápida — Tato leve, textura",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2549,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Marque a alternativa que integra corretamente “Corpúsculo de Pacini” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "B) Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.",
+      "C) Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "D) Corpúsculo de Pacini — Profundo, periosteu — Muito rápida — Vibração, pressão"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Está correta a alternativa que traz “Corpúsculo de Pacini” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.",
+      "B": "Incorreta: Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.",
+      "C": "Incorreta: Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.",
+      "D": "Correta: Corpúsculo de Pacini — Profundo, periosteu — Muito rápida — Vibração, pressão"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Corpúsculo de Pacini” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Via espinotalâmica: dor + temperatura; decussa na medula (comissura anterior) → déficit contralateral.\nB) INCORRETA. Incorreta: Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.\nC) INCORRETA. Incorreta: Fuso muscular (Ia): comprimento do músculo; Golgi (Ib): tensão do tendão.\nD) CORRETA. Correta: Corpúsculo de Pacini — Profundo, periosteu — Muito rápida — Vibração, pressão",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2550,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Paciente com instabilidade da marcha e piora ao fechar os olhos apresenta lesão do funículo posterior. Qual déficit é mais esperado?",
+    "opcoes": [
+      "A) Perda de propriocepção e vibração, com Romberg positivo",
+      "B) Perda térmica e dolorosa bilateral em distribuição em capa",
+      "C) Paralisia facial periférica ipsilateral isolada",
+      "D) Afasia de expressão sem déficit sensitivo associado"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Perda de propriocepção e vibração, com Romberg positivo",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Perda de propriocepção e vibração, com Romberg positivo\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2553,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual estrutura pertence à túnica vascular (úvea) do olho?",
+    "opcoes": [
+      "A) Retina neural",
+      "B) Nervo óptico",
+      "C) Coroide",
+      "D) Esclera"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Correta: Coroide.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é C porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) CORRETA. Correta: Coroide.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2554,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre fotorreceptores da retina, assinale a alternativa correta.",
+    "opcoes": [
+      "A) Bastonetes têm maior acuidade espacial que cones em iluminação diurna",
+      "B) Cones concentram-se na fóvea, têm maior acuidade visual e participam da visão de cores",
+      "C) Bastonetes predominam na fóvea central e são os principais responsáveis pela visão de cores",
+      "D) Cones só funcionam em baixa luminosidade e são ausentes na mácula"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Correta: Cones concentram-se na fóvea, têm maior acuidade visual e participam da visão de cores",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) CORRETA. Correta: Cones concentram-se na fóvea, têm maior acuidade visual e participam da visão de cores\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2556,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação a “Adenoma hipofisário:” está correta?",
+    "opcoes": [
+      "A) Cones: fóvea, cor, acuidade. Bastonetes: periferia, visão noturna. Vit A → bastonetes.",
+      "B) Glaucoma: bloqueio de drenagem do humor aquoso pelo canal de Schlemm → pressão intraocular elevada.",
+      "C) Cóclea: base = altas frequências; ápice = baixas. Aminoglicosídeos: perda de altas primeiro.",
+      "D) comprime quiasma → hemianopsia bitemporal."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Correta: comprime quiasma → hemianopsia bitemporal.."
+    },
+    "explicacao": "Resumo: A alternativa correta é D porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) CORRETA. Correta: comprime quiasma → hemianopsia bitemporal..",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2558,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre “Cóclea:” está correta?",
+    "opcoes": [
+      "A) Glaucoma: bloqueio de drenagem do humor aquoso pelo canal de Schlemm → pressão intraocular elevada.",
+      "B) Paladar 2/3 ant.: NC VII (corda do tímpano); 1/3 post.: NC IX.",
+      "C) base = altas frequências; ápice = baixas. Aminoglicosídeos: perda de altas primeiro.",
+      "D) Cones: fóvea, cor, acuidade. Bastonetes: periferia, visão noturna. Vit A → bastonetes."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Cóclea:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Glaucoma: bloqueio de drenagem do humor aquoso pelo canal de Schlemm → pressão intraocular elevada.",
+      "B": "Incorreta: Paladar 2/3 ant.: NC VII (corda do tímpano); 1/3 post.: NC IX.",
+      "C": "Correta: base = altas frequências; ápice = baixas. Aminoglicosídeos: perda de altas primeiro.",
+      "D": "Incorreta: Cones: fóvea, cor, acuidade. Bastonetes: periferia, visão noturna. Vit A → bastonetes."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Cóclea:”.\nA) INCORRETA. Incorreta: Glaucoma: bloqueio de drenagem do humor aquoso pelo canal de Schlemm → pressão intraocular elevada.\nB) INCORRETA. Incorreta: Paladar 2/3 ant.: NC VII (corda do tímpano); 1/3 post.: NC IX.\nC) CORRETA. Correta: base = altas frequências; ápice = baixas. Aminoglicosídeos: perda de altas primeiro.\nD) INCORRETA. Incorreta: Cones: fóvea, cor, acuidade. Bastonetes: periferia, visão noturna. Vit A → bastonetes.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2561,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual comparação entre bastonetes e cones está correta?",
+    "opcoes": [
+      "A) Bastonetes: mais numerosos, visão escotópica; cones: maior acuidade e cores",
+      "B) Cones: mais periféricos e noturnos; bastonetes: fóvea e cores",
+      "C) Bastonetes e cones têm distribuição uniforme na retina",
+      "D) Cones não participam da visão diurna"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Bastonetes: mais numerosos, visão escotópica; cones: maior acuidade e cores.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é A porque corresponde ao conceito central cobrado.\nA) CORRETA. Correta: Bastonetes: mais numerosos, visão escotópica; cones: maior acuidade e cores.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2562,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual alternativa caracteriza corretamente a adeno-hipófise (hipófise anterior)?",
+    "opcoes": [
+      "A) Produz apenas hormônios gonadotróficos, sem eixo corticotrófico",
+      "B) Origem na bolsa de Rathke e secreção de GH, TSH, ACTH, FSH, LH e prolactina",
+      "C) Origem neuroectodérmica com liberação local de ADH e ocitocina sintetizados no lobo anterior",
+      "D) Estrutura exclusivamente armazenadora de hormônios tireoidianos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Correta: Origem na bolsa de Rathke e secreção de GH, TSH, ACTH, FSH, LH e prolactina",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) CORRETA. Correta: Origem na bolsa de Rathke e secreção de GH, TSH, ACTH, FSH, LH e prolactina\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2563,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual eixo está corretamente pareado?",
+    "opcoes": [
+      "A) FSH -> córtex adrenal -> cortisol",
+      "B) PRL -> tireoide -> calcitonina",
+      "C) TSH -> tireoide -> T4/T3",
+      "D) ACTH -> adrenal medular -> adrenalina"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Correta: TSH -> tireoide -> T4/T3.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é C porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) CORRETA. Correta: TSH -> tireoide -> T4/T3.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2564,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre a neuro-hipófise (hipófise posterior), assinale a alternativa correta.",
+    "opcoes": [
+      "A) Secreta diretamente T3 e T4 em resposta ao TRH",
+      "B) Armazena e libera ADH e ocitocina sintetizados nos núcleos hipotalâmicos",
+      "C) Sintetiza GH, ACTH, TSH, FSH, LH e prolactina",
+      "D) Origina-se da bolsa de Rathke e produz hormônios tróficos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Correta: Armazena e libera ADH e ocitocina sintetizados nos núcleos hipotalâmicos",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) CORRETA. Correta: Armazena e libera ADH e ocitocina sintetizados nos núcleos hipotalâmicos\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2565,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual alternativa descreve corretamente o principal eixo funcional do GH (somatotropina)?",
+    "opcoes": [
+      "A) Estimula diretamente células C da tireoide para secretar calcitonina",
+      "B) Inibe síntese proteica muscular para reduzir demanda energética",
+      "C) Estimula fígado e outros tecidos a produzirem IGF-1, mediando crescimento somático",
+      "D) Atua primariamente no córtex adrenal para síntese de cortisol"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Correta: Estimula fígado e outros tecidos a produzirem IGF-1, mediando crescimento somático",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) CORRETA. Correta: Estimula fígado e outros tecidos a produzirem IGF-1, mediando crescimento somático\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2566,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Considerando “Osso:” está correta?",
+    "opcoes": [
+      "A) Temperatura — Intolerância ao frio — Intolerância ao calor",
+      "B) Cortex adrenal — \"GFR = Sal, Açúcar, Sexo\": Glomerulosa = aldosterona; Fasciculada = cortisol; Reticular = andrógenos.",
+      "C) estimula osteoclastos → libera cálcio (e fósforo).",
+      "D) Hipófise anterior: GH, TSH, ACTH, FSH, LH, PRL. Posterior: ADH e ocitocina."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: estimula osteoclastos → libera cálcio (e fósforo).",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: estimula osteoclastos → libera cálcio (e fósforo).\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2569,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Selecione a alternativa que relaciona corretamente “FSH, LH” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Osso: estimula osteoclastos → libera cálcio (e fósforo).",
+      "B) Hipófise anterior: GH, TSH, ACTH, FSH, LH, PRL. Posterior: ADH e ocitocina.",
+      "C) Temperatura — Intolerância ao frio — Intolerância ao calor",
+      "D) FSH, LH — Gônadas — Estrogênio, progesterona, testosterona"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é a que apresenta “FSH, LH” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Osso: estimula osteoclastos → libera cálcio (e fósforo).",
+      "B": "Incorreta: Hipófise anterior: GH, TSH, ACTH, FSH, LH, PRL. Posterior: ADH e ocitocina.",
+      "C": "Incorreta: Temperatura — Intolerância ao frio — Intolerância ao calor",
+      "D": "Correta: FSH, LH — Gônadas — Estrogênio, progesterona, testosterona"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “FSH, LH” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Osso: estimula osteoclastos → libera cálcio (e fósforo).\nB) INCORRETA. Incorreta: Hipófise anterior: GH, TSH, ACTH, FSH, LH, PRL. Posterior: ADH e ocitocina.\nC) INCORRETA. Incorreta: Temperatura — Intolerância ao frio — Intolerância ao calor\nD) CORRETA. Correta: FSH, LH — Gônadas — Estrogênio, progesterona, testosterona",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2570,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Qual efeito da vitamina D ativa no intestino?",
+    "opcoes": [
+      "A) Aumenta absorção de cálcio e fósforo",
+      "B) Diminui absorção de cálcio para preservar osso",
+      "C) Estimula secreção de PTH",
+      "D) Bloqueia transporte ativo de fosfato"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Aumenta absorção de cálcio e fósforo.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é A porque corresponde ao conceito central cobrado.\nA) CORRETA. Correta: Aumenta absorção de cálcio e fósforo.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2572,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Neuróporo anterior (cranial):” está correta?",
+    "opcoes": [
+      "A) SNP sensitivo — Gânglios da raiz dorsal (DRG), gânglios cranianos sensitivos",
+      "B) fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).",
+      "C) Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "D) Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: fecha no 25.º dia. Falha → anencefalia (incompatível com a vida)..",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: fecha no 25.º dia. Falha → anencefalia (incompatível com a vida)..\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2573,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Recém-nascido com malformação de fossa posterior. Qual associação embriológica está correta?",
+    "opcoes": [
+      "A) Mesencéfalo -> cerebelo",
+      "B) Mielencéfalo -> hemisférios cerebrais",
+      "C) Metencéfalo -> ponte e cerebelo",
+      "D) Telencéfalo -> ponte e bulbo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Metencéfalo -> ponte e cerebelo",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Metencéfalo -> ponte e cerebelo\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2574,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação a “Neuróporo posterior (caudal):” está correta?",
+    "opcoes": [
+      "A) Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "B) Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto",
+      "C) fecha no 27.º dia. Falha → espinha bífida (meningocele, mielomeningocele).",
+      "D) Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida)."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Neuróporo posterior (caudal):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "B": "Incorreta: Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto",
+      "C": "Correta: fecha no 27.º dia. Falha → espinha bífida (meningocele, mielomeningocele).",
+      "D": "Incorreta: Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida)."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Neuróporo posterior (caudal):”.\nA) INCORRETA. Incorreta: Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges\nB) INCORRETA. Incorreta: Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto\nC) CORRETA. Correta: fecha no 27.º dia. Falha → espinha bífida (meningocele, mielomeningocele).\nD) INCORRETA. Incorreta: Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2579,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Medula suprarrenal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).",
+      "B) Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "C) Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto",
+      "D) Medula suprarrenal — Células cromafins (secretam adrenalina"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Está correta a alternativa que traz “Medula suprarrenal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).",
+      "B": "Incorreta: Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "C": "Incorreta: Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto",
+      "D": "Correta: Medula suprarrenal — Células cromafins (secretam adrenalina"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Medula suprarrenal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).\nB) INCORRETA. Incorreta: Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges\nC) INCORRETA. Incorreta: Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto\nD) CORRETA. Correta: Medula suprarrenal — Células cromafins (secretam adrenalina",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2580,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Ácido fólico:” está correta?",
+    "opcoes": [
+      "A) periconcepcional, reduz defeitos do tubo neural.",
+      "B) Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).",
+      "C) Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "D) Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Ácido fólico:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: periconcepcional, reduz defeitos do tubo neural.",
+      "B": "Incorreta: Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).",
+      "C": "Incorreta: Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges",
+      "D": "Incorreta: Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Ácido fólico:”.\nA) CORRETA. Correta: periconcepcional, reduz defeitos do tubo neural.\nB) INCORRETA. Incorreta: Neuróporo anterior (cranial): fecha no 25.º dia. Falha → anencefalia (incompatível com a vida).\nC) INCORRETA. Incorreta: Mielomeningocele — Meningocele — Mielomeningocele: exposição de medula; meningocele: apenas meninges\nD) INCORRETA. Incorreta: Mesencéfalo — Mesencéfalo (não subdivide) — Pedúnculos, tubérculos quadrigêmeos, aqueduto",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2582,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre “Ramo dorsal:” está correta?",
+    "opcoes": [
+      "A) L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico",
+      "B) Cervicais — 8 (C1–C8",
+      "C) L1 — Virilha",
+      "D) inervação do dorso (músculos profundos do dorso e pele)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Correta: inervação do dorso (músculos profundos do dorso e pele).."
+    },
+    "explicacao": "Resumo: A alternativa correta é D porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) CORRETA. Correta: inervação do dorso (músculos profundos do dorso e pele)..",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2585,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Durante exame neurológico segmentar, qual afirmação sobre nervos cervicais está correta?",
+    "opcoes": [
+      "A) Existem 7 nervos cervicais (C1-C7), um para cada vértebra",
+      "B) C8 emerge abaixo de T1, por isso pertence aos nervos torácicos",
+      "C) Todos os nervos cervicais emergem abaixo da vértebra correspondente",
+      "D) Existem 8 nervos cervicais (C1-C8), apesar de 7 vértebras cervicais"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Correta: Existem 8 nervos cervicais (C1-C8), apesar de 7 vértebras cervicais"
+    },
+    "explicacao": "Resumo: A alternativa correta é D por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) CORRETA. Correta: Existem 8 nervos cervicais (C1-C8), apesar de 7 vértebras cervicais",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2588,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre “Plexo braquial (C5–T1):” está correta?",
+    "opcoes": [
+      "A) Cervicais — 8 (C1–C8",
+      "B) L1 — Virilha",
+      "C) inervação do membro superior. Troncos → divisões → fascículos → nervos terminais (musculocutâneo, mediano, ulnar, radial, axilar).",
+      "D) L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Plexo braquial (C5–T1):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cervicais — 8 (C1–C8",
+      "B": "Incorreta: L1 — Virilha",
+      "C": "Correta: inervação do membro superior. Troncos → divisões → fascículos → nervos terminais (musculocutâneo, mediano, ulnar, radial, axilar).",
+      "D": "Incorreta: L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Plexo braquial (C5–T1):”.\nA) INCORRETA. Incorreta: Cervicais — 8 (C1–C8)\nB) INCORRETA. Incorreta: L1 — Virilha\nC) CORRETA. Correta: inervação do membro superior. Troncos → divisões → fascículos → nervos terminais (musculocutâneo, mediano, ulnar, radial, axilar).\nD) INCORRETA. Incorreta: L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2590,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Considerando “Plexo lombar (L1–L4):” está correta?",
+    "opcoes": [
+      "A) femoral, obturador, nervo cutâneo lateral da coxa.",
+      "B) L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico",
+      "C) Cervicais — 8 (C1–C8",
+      "D) L1 — Virilha"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta expressa com precisão “Plexo lombar (L1–L4):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: femoral, obturador, nervo cutâneo lateral da coxa.",
+      "B": "Incorreta: L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico",
+      "C": "Incorreta: Cervicais — 8 (C1–C8",
+      "D": "Incorreta: L1 — Virilha"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Plexo lombar (L1–L4):”.\nA) CORRETA. Correta: femoral, obturador, nervo cutâneo lateral da coxa.\nB) INCORRETA. Incorreta: L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico\nC) INCORRETA. Incorreta: Cervicais — 8 (C1–C8)\nD) INCORRETA. Incorreta: L1 — Virilha",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2591,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Sacrais” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cervicais — 8 (C1–C8",
+      "B) L1 — Virilha",
+      "C) Sacrais — 5 (S1–S5",
+      "D) L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Está correta a alternativa que traz “Sacrais” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cervicais — 8 (C1–C8",
+      "B": "Incorreta: L1 — Virilha",
+      "C": "Correta: Sacrais — 5 (S1–S5",
+      "D": "Incorreta: L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Sacrais” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cervicais — 8 (C1–C8)\nB) INCORRETA. Incorreta: L1 — Virilha\nC) CORRETA. Correta: Sacrais — 5 (S1–S5)\nD) INCORRETA. Incorreta: L4 (hérnia L3–L4) — L5 (hérnia L4–L5) — L4: reflexo patelar; L5: sem reflexo específico",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2592,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Em relação a “Sutura coronal:” está correta?",
+    "opcoes": [
+      "A) Forame jugular — NC IX, X, XI + seio sigmoide",
+      "B) separa o frontal dos parietais.",
+      "C) Sutura lambdoide: separa os parietais do occipital.",
+      "D) Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: separa o frontal dos parietais..",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: separa o frontal dos parietais..\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2594,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Sutura sagital:” está correta?",
+    "opcoes": [
+      "A) Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.",
+      "B) Forame jugular — NC IX, X, XI + seio sigmoide",
+      "C) une os dois parietais na linha mediana.",
+      "D) Sutura lambdoide: separa os parietais do occipital."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Sutura sagital:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.",
+      "B": "Incorreta: Forame jugular — NC IX, X, XI + seio sigmoide",
+      "C": "Correta: une os dois parietais na linha mediana.",
+      "D": "Incorreta: Sutura lambdoide: separa os parietais do occipital."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Sutura sagital:”.\nA) INCORRETA. Incorreta: Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.\nB) INCORRETA. Incorreta: Forame jugular — NC IX, X, XI + seio sigmoide\nC) CORRETA. Correta: une os dois parietais na linha mediana.\nD) INCORRETA. Incorreta: Sutura lambdoide: separa os parietais do occipital.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2597,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Marque a alternativa que integra corretamente “Fissura orbital superior” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Forame jugular — NC IX, X, XI + seio sigmoide",
+      "B) Fissura orbital superior — NC III, IV, V1, VI + veias oftálmicas",
+      "C) Sutura lambdoide: separa os parietais do occipital.",
+      "D) Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Está correta a alternativa que traz “Fissura orbital superior” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Forame jugular — NC IX, X, XI + seio sigmoide",
+      "B": "Correta: Fissura orbital superior — NC III, IV, V1, VI + veias oftálmicas",
+      "C": "Incorreta: Sutura lambdoide: separa os parietais do occipital.",
+      "D": "Incorreta: Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação."
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Fissura orbital superior” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Forame jugular — NC IX, X, XI + seio sigmoide\nB) CORRETA. Correta: Fissura orbital superior — NC III, IV, V1, VI + veias oftálmicas\nC) INCORRETA. Incorreta: Sutura lambdoide: separa os parietais do occipital.\nD) INCORRETA. Incorreta: Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2600,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "enunciado": "Sobre “Com afundamento:” está correta?",
+    "opcoes": [
+      "A) empurra fragmento para dentro → risco de contusão ou laceração cortical → neurocirurgia.",
+      "B) Sutura lambdoide: separa os parietais do occipital.",
+      "C) Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.",
+      "D) Forame jugular — NC IX, X, XI + seio sigmoide"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Com afundamento:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: empurra fragmento para dentro → risco de contusão ou laceração cortical → neurocirurgia.",
+      "B": "Incorreta: Sutura lambdoide: separa os parietais do occipital.",
+      "C": "Incorreta: Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.",
+      "D": "Incorreta: Forame jugular — NC IX, X, XI + seio sigmoide"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Com afundamento:”.\nA) CORRETA. Correta: empurra fragmento para dentro → risco de contusão ou laceração cortical → neurocirurgia.\nB) INCORRETA. Incorreta: Sutura lambdoide: separa os parietais do occipital.\nC) INCORRETA. Incorreta: Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação.\nD) INCORRETA. Incorreta: Forame jugular — NC IX, X, XI + seio sigmoide",
+    "aula_id": "bmf4_a4",
+    "essencial": false
+  },
+  {
+    "id": 2601,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em dor neuropática facial na distribuição mandibular, qual estrutura atravessa o forame oval?",
+    "opcoes": [
+      "A) Nervo mandibular (V3",
+      "B) Nervo maxilar (V2",
+      "C) Nervo óptico (II",
+      "D) Nervos IX, X e XI"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Nervo mandibular (V3",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Nervo mandibular (V3)\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2603,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Após AVC, paciente apresenta afasia de expressão. Qual lobo/área é mais provável?",
+    "opcoes": [
+      "A) Lobo occipital, área visual primária",
+      "B) Lobo parietal não dominante, giro angular",
+      "C) Ínsula posterior bilateral",
+      "D) Lobo frontal dominante, área de Broca"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Correta: Lobo frontal dominante, área de Broca."
+    },
+    "explicacao": "Resumo: A alternativa correta é D porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) CORRETA. Correta: Lobo frontal dominante, área de Broca.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2605,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Sobre o lobo frontal, assinale a alternativa correta:",
+    "opcoes": [
+      "A) fica posterior ao sulco central e abriga o córtex somatossensorial primário",
+      "B) situa-se anterior ao sulco central e participa do planejamento motor, funções executivas e linguagem expressiva no hemisfério dominante",
+      "C) é delimitado inferiormente pelo sulco calcarino e é responsável pelo processamento visual primário",
+      "D) corresponde à principal área de recepção auditiva primária no giro temporal superior"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Correta: situa-se anterior ao sulco central e participa do planejamento motor, funções executivas e linguagem expressiva no hemisfério dominante",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) CORRETA. Correta: situa-se anterior ao sulco central e participa do planejamento motor, funções executivas e linguagem expressiva no hemisfério dominante\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2606,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Sobre “Face inferior (basal):” está correta?",
+    "opcoes": [
+      "A) repousa sobre a base do crânio.",
+      "B) Corno occipital: no lobo occipital.",
+      "C) Sulco calcarino: face medial do occipital, flanqueado pelo córtex visual primário (V1).",
+      "D) Globo pálido: GPe (externo) + GPi (interno). Saída para o tálamo."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Face inferior (basal):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: repousa sobre a base do crânio.",
+      "B": "Incorreta: Corno occipital: no lobo occipital.",
+      "C": "Incorreta: Sulco calcarino: face medial do occipital, flanqueado pelo córtex visual primário (V1).",
+      "D": "Incorreta: Globo pálido: GPe (externo) + GPi (interno). Saída para o tálamo."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Face inferior (basal):”.\nA) CORRETA. Correta: repousa sobre a base do crânio.\nB) INCORRETA. Incorreta: Corno occipital: no lobo occipital.\nC) INCORRETA. Incorreta: Sulco calcarino: face medial do occipital, flanqueado pelo córtex visual primário (V1).\nD) INCORRETA. Incorreta: Globo pálido: GPe (externo) + GPi (interno). Saída para o tálamo.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2610,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em neuroanatomia funcional, qual afirmação sobre o sulco lateral (de Sylvius) está correta?",
+    "opcoes": [
+      "A) Separa frontal/parietal do temporal e recobre a ínsula nos opérculos",
+      "B) Separa os dois hemisférios cerebrais ao longo da linha média",
+      "C) Delimita diretamente o córtex visual primário no lobo occipital",
+      "D) Divide o cerebelo em hemisférios e vermis"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Separa frontal/parietal do temporal e recobre a ínsula nos opérculos",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Separa frontal/parietal do temporal e recobre a ínsula nos opérculos\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2611,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em exame neurológico, lesão no lobo occipital esquerdo é mais associada a qual déficit principal?",
+    "opcoes": [
+      "A) afasia de expressão por comprometimento de área de Broca",
+      "B) déficit motor contralateral predominante por lesão do córtex motor primário",
+      "C) hemianopsia homônima direita por comprometimento de vias/córtex visual",
+      "D) apraxia ideomotora isolada por lesão pré-motora bilateral"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Correta: hemianopsia homônima direita por comprometimento de vias/córtex visual",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) CORRETA. Correta: hemianopsia homônima direita por comprometimento de vias/córtex visual\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2613,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "No neocórtex, qual camada recebe majoritariamente aferência talâmica específica?",
+    "opcoes": [
+      "A) VI (multiforme",
+      "B) I (molecular",
+      "C) II (granular externa",
+      "D) IV (granular interna"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Correta: IV (granular interna)."
+    },
+    "explicacao": "Resumo: A alternativa correta é D porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) CORRETA. Correta: IV (granular interna).",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2614,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Considerando “Córtex granular (koniocórtex):” está correta?",
+    "opcoes": [
+      "A) Área 4: M1, giro pré-central. Área 6: planejamento motor.",
+      "B) 18–19 — Occipital adj. — V2–V5 — áreas visuais secundárias",
+      "C) camadas II e IV muito espessas. Regimes sensoriais: V1 (área 17), S1, A1.",
+      "D) Alocórtex: córtex mais primitivo (hipocampo, olfatório) com 3 camadas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta expressa com precisão “Córtex granular (koniocórtex):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Área 4: M1, giro pré-central. Área 6: planejamento motor.",
+      "B": "Incorreta: 18–19 — Occipital adj. — V2–V5 — áreas visuais secundárias",
+      "C": "Correta: camadas II e IV muito espessas. Regimes sensoriais: V1 (área 17), S1, A1.",
+      "D": "Incorreta: Alocórtex: córtex mais primitivo (hipocampo, olfatório) com 3 camadas."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Córtex granular (koniocórtex):”.\nA) INCORRETA. Incorreta: Área 4: M1, giro pré-central. Área 6: planejamento motor.\nB) INCORRETA. Incorreta: 18–19 — Occipital adj. — V2–V5 — áreas visuais secundárias\nC) CORRETA. Correta: camadas II e IV muito espessas. Regimes sensoriais: V1 (área 17), S1, A1.\nD) INCORRETA. Incorreta: Alocórtex: córtex mais primitivo (hipocampo, olfatório) com 3 camadas.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2615,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em histologia cortical, a camada I caracteriza-se principalmente por:",
+    "opcoes": [
+      "A) Neurônios piramidais gigantes com projeção bulbar",
+      "B) Baixa densidade neuronal, predominância de fibras e interneurônios horizontais",
+      "C) Predomínio de células de Betz e saída corticoespinal",
+      "D) Principal entrada talâmica específica"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Correta: Baixa densidade neuronal, predominância de fibras e interneurônios horizontais",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) CORRETA. Correta: Baixa densidade neuronal, predominância de fibras e interneurônios horizontais\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2616,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em relação a “Alocórtex:” está correta?",
+    "opcoes": [
+      "A) córtex mais primitivo (hipocampo, olfatório) com 3 camadas.",
+      "B) Área 4: M1, giro pré-central. Área 6: planejamento motor.",
+      "C) 18–19 — Occipital adj. — V2–V5 — áreas visuais secundárias",
+      "D) 17 — Sulco calcarino occipital — V1 — córtex visual primário"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Alocórtex:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: córtex mais primitivo (hipocampo, olfatório) com 3 camadas.",
+      "B": "Incorreta: Área 4: M1, giro pré-central. Área 6: planejamento motor.",
+      "C": "Incorreta: 18–19 — Occipital adj. — V2–V5 — áreas visuais secundárias",
+      "D": "Incorreta: 17 — Sulco calcarino occipital — V1 — córtex visual primário"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Alocórtex:”.\nA) CORRETA. Correta: córtex mais primitivo (hipocampo, olfatório) com 3 camadas.\nB) INCORRETA. Incorreta: Área 4: M1, giro pré-central. Área 6: planejamento motor.\nC) INCORRETA. Incorreta: 18–19 — Occipital adj. — V2–V5 — áreas visuais secundárias\nD) INCORRETA. Incorreta: 17 — Sulco calcarino occipital — V1 — córtex visual primário",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2617,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em citoarquitetura do neocórtex, qual descrição da camada II está correta?",
+    "opcoes": [
+      "A) Camada granular externa, com neurônios pequenos e integração cortico-cortical",
+      "B) Camada molecular acelular, principal origem da via piramidal",
+      "C) Camada piramidal interna, com células de Betz predominantes",
+      "D) Camada multiforme, principal destino de aferências talâmicas específicas"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Camada granular externa, com neurônios pequenos e integração cortico-cortical",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Camada granular externa, com neurônios pequenos e integração cortico-cortical\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2622,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em um ensaio clínico com grande tamanho amostral, foi observada diferença pequena na dor (0,3 ponto em escala de 0 a 10), com p<0,001. Qual é a melhor interpretação?",
+    "opcoes": [
+      "A) O resultado prova que a hipótese nula é falsa.",
+      "B) Com p<0,05, não é necessário avaliar tamanho de efeito.",
+      "C) A diferença é estatisticamente significativa, mas pode não ter relevância clínica.",
+      "D) O p<0,001 confirma benefício clínico importante."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: A diferença é estatisticamente significativa, mas pode não ter relevância clínica.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: A diferença é estatisticamente significativa, mas pode não ter relevância clínica.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2624,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "No sistema ventricular, o aqueduto cerebral (de Sylvius) conecta diretamente:",
+    "opcoes": [
+      "A) ventrículos laterais ao quarto ventrículo",
+      "B) ventrículos laterais ao terceiro ventrículo",
+      "C) terceiro ventrículo ao quarto ventrículo",
+      "D) quarto ventrículo ao espaço subaracnóideo pelas granulações aracnoideas"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Correta: terceiro ventrículo ao quarto ventrículo",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) CORRETA. Correta: terceiro ventrículo ao quarto ventrículo\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2629,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Hemianopsia homônima sem acometimento cortical primário sugere lesão de qual núcleo talâmico da via visual?",
+    "opcoes": [
+      "A) MGN",
+      "B) LGN",
+      "C) VPM",
+      "D) Núcleo dorsomedial"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: LGN.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: LGN.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2630,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Sobre “Pineal — Síndrome de Parinaud:” está correta?",
+    "opcoes": [
+      "A) paralisia do olhar para cima.",
+      "B) Supraquiasmático — Ritmo circadiano (sincronizado pela luz via retina",
+      "C) LGN (geniculado lateral) — V1 occipital — Via visual",
+      "D) Hipotálamo lateral = fome; ventromedial = saciedade.: ADH = núcleo supra-óptico; ocitocina = para-ventricular."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Pineal — Síndrome de Parinaud:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: paralisia do olhar para cima.",
+      "B": "Incorreta: Supraquiasmático — Ritmo circadiano (sincronizado pela luz via retina",
+      "C": "Incorreta: LGN (geniculado lateral) — V1 occipital — Via visual",
+      "D": "Incorreta: Hipotálamo lateral = fome; ventromedial = saciedade.: ADH = núcleo supra-óptico; ocitocina = para-ventricular."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Pineal — Síndrome de Parinaud:”.\nA) CORRETA. Correta: paralisia do olhar para cima.\nB) INCORRETA. Incorreta: Supraquiasmático — Ritmo circadiano (sincronizado pela luz via retina)\nC) INCORRETA. Incorreta: LGN (geniculado lateral) — V1 occipital — Via visual\nD) INCORRETA. Incorreta: Hipotálamo lateral = fome; ventromedial = saciedade.: ADH = núcleo supra-óptico; ocitocina = para-ventricular.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2631,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Um estudo encontrou p=0,12 na comparação entre dois tratamentos. Qual frase está tecnicamente correta?",
+    "opcoes": [
+      "A) Não rejeitamos a hipótese nula ao nível de significância adotado.",
+      "B) Aceitamos a hipótese nula como verdadeira.",
+      "C) Provamos que os tratamentos são idênticos.",
+      "D) O estudo mostrou ausência definitiva de efeito."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Não rejeitamos a hipótese nula ao nível de significância adotado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: Não rejeitamos a hipótese nula ao nível de significância adotado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2632,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual alternativa descreve corretamente o significado do valor-p em um teste de hipótese?",
+    "opcoes": [
+      "A) É a probabilidade de o tratamento ser eficaz.",
+      "B) É a magnitude do efeito observado.",
+      "C) É a probabilidade de observar dados tão extremos quanto os obtidos, assumindo H0 verdadeira.",
+      "D) É a probabilidade de H0 ser verdadeira após ver os dados."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: É a probabilidade de observar dados tão extremos quanto os obtidos, assumindo H0 verdadeira.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: É a probabilidade de observar dados tão extremos quanto os obtidos, assumindo H0 verdadeira.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2633,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual achado diferencia melhor síndrome de Weber de síndrome de Wallenberg?",
+    "opcoes": [
+      "A) Weber: perda de dor/temperatura facial ipsilateral + corporal contralateral",
+      "B) Wallenberg: hemiparesia motora pura contralateral proeminente",
+      "C) Wallenberg: paralisia completa do III nervo",
+      "D) Weber: paralisia do III ipsilateral + hemiparesia contralateral"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Correta: Weber: paralisia do III ipsilateral + hemiparesia contralateral."
+    },
+    "explicacao": "Resumo: A alternativa correta é D porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) CORRETA. Correta: Weber: paralisia do III ipsilateral + hemiparesia contralateral.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2634,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "No mesencéfalo, os colículos inferiores participam principalmente de:",
+    "opcoes": [
+      "A) regulação primária do ciclo sono-vigília via núcleo supraquiasmático",
+      "B) geração de movimentos sacádicos horizontais na ponte",
+      "C) integração auditiva e reflexos auditivos no tronco encefálico",
+      "D) controle voluntário da motricidade fina de membros"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Correta: integração auditiva e reflexos auditivos no tronco encefálico",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) CORRETA. Correta: integração auditiva e reflexos auditivos no tronco encefálico\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2636,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual conjunto de achados é mais compatível com lesão do nervo oculomotor (III)?",
+    "opcoes": [
+      "A) diplopia vertical pior ao descer escadas, com inclinação cefálica compensatória",
+      "B) incapacidade de abdução ocular isolada",
+      "C) hipoestesia de hemiface com fraqueza de mastigação",
+      "D) ptose, midríase e desvio do olho para baixo e para fora"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Correta: ptose, midríase e desvio do olho para baixo e para fora"
+    },
+    "explicacao": "Resumo: A alternativa correta é D por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) CORRETA. Correta: ptose, midríase e desvio do olho para baixo e para fora",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2640,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Sobre o nervo trigêmeo (V), assinale a alternativa correta:",
+    "opcoes": [
+      "A) emerge da face lateral da ponte e conduz sensibilidade da face, além de componente motor da mastigação",
+      "B) emerge da fossa interpeduncular e controla pupila e quatro músculos extraoculares",
+      "C) é o único nervo craniano que emerge dorsalmente do tronco encefálico",
+      "D) inerva esternocleidomastoideo e trapézio por raízes bulbares e espinais"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Correta: emerge da face lateral da ponte e conduz sensibilidade da face, além de componente motor da mastigação",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência clínica e anatomo-funcional no microtema.\nA) CORRETA. Correta: emerge da face lateral da ponte e conduz sensibilidade da face, além de componente motor da mastigação\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2642,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Para estimar a proporção de hipertensos controlados em uma unidade de saúde, qual abordagem é a mais indicada?",
+    "opcoes": [
+      "A) Análise de discurso de entrevistas abertas.",
+      "B) Grupo focal como método principal.",
+      "C) Pesquisa quantitativa com medida de proporção.",
+      "D) Etnografia com observação participante."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Pesquisa quantitativa com medida de proporção.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Pesquisa quantitativa com medida de proporção.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2643,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual pedúnculo cerebelar conduz majoritariamente fibras córtico-ponto-cerebelares aferentes?",
+    "opcoes": [
+      "A) Inferior",
+      "B) Corpo restiforme contralateral",
+      "C) Superior",
+      "D) Médio"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é D porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Correta: Médio."
+    },
+    "explicacao": "Resumo: A alternativa correta é D porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) CORRETA. Correta: Médio.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2646,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em relação a “Floculus e nódulo (lobo floculonodular)” está correta?",
+    "opcoes": [
+      "A) arquicerebelo, mais primitivo, controla o equilíbrio e a integração vestibular.",
+      "B) Célula de Purkinje — Célula granular — Purkinje: saída inibitória; granular: fibras paralelas (entrada",
+      "C) Molecular — Células estreladas e em cesto — Inibição lateral",
+      "D) Granular — Células granulares (mais numerosas do SNC) — Fibras paralelas"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta descreve adequadamente “Floculus e nódulo (lobo floculonodular)”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: arquicerebelo, mais primitivo, controla o equilíbrio e a integração vestibular.",
+      "B": "Incorreta: Célula de Purkinje — Célula granular — Purkinje: saída inibitória; granular: fibras paralelas (entrada",
+      "C": "Incorreta: Molecular — Células estreladas e em cesto — Inibição lateral",
+      "D": "Incorreta: Granular — Células granulares (mais numerosas do SNC) — Fibras paralelas"
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Floculus e nódulo (lobo floculonodular)”.\nA) CORRETA. Correta: arquicerebelo, mais primitivo, controla o equilíbrio e a integração vestibular.\nB) INCORRETA. Incorreta: Célula de Purkinje — Célula granular — Purkinje: saída inibitória; granular: fibras paralelas (entrada)\nC) INCORRETA. Incorreta: Molecular — Células estreladas e em cesto — Inibição lateral\nD) INCORRETA. Incorreta: Granular — Células granulares (mais numerosas do SNC) — Fibras paralelas",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2649,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Sobre o pedúnculo cerebelar inferior, assinale a alternativa correta.",
+    "opcoes": [
+      "A) Conecta cerebelo à ponte e conduz majoritariamente fibras córtico-ponto-cerebelares",
+      "B) Conecta cerebelo ao bulbo e conduz aferências proprioceptivas e vestibulares",
+      "C) É a principal via eferente para núcleo rubro e tálamo",
+      "D) Conduz exclusivamente fibras eferentes cerebelares"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Correta: Conecta cerebelo ao bulbo e conduz aferências proprioceptivas e vestibulares",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é B por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) CORRETA. Correta: Conecta cerebelo ao bulbo e conduz aferências proprioceptivas e vestibulares\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2650,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Em pesquisa qualitativa, qual afirmação caracteriza melhor a grounded theory?",
+    "opcoes": [
+      "A) A teoria é construída progressivamente a partir da análise dos dados.",
+      "B) A hipótese é fixada no início e apenas testada ao final.",
+      "C) A análise se limita à contagem de palavras por software.",
+      "D) A amostra deve ser probabilística para validade do método."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A teoria é construída progressivamente a partir da análise dos dados.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: A teoria é construída progressivamente a partir da análise dos dados.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2653,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "D) Isquemia e infarto:: aparece em cenários de conduta prática."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2656,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual afirmação sobre “Distúrbios circulatórios: edema, trombose e embolia:” está correta?",
+    "opcoes": [
+      "A) orienta segurança e manejo de risco.",
+      "B) Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "C) Isquemia e infarto:: aparece em cenários de conduta prática.",
+      "D) Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Distúrbios circulatórios: edema, trombose e embolia:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "C": "Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Distúrbios circulatórios: edema, trombose e embolia:”.\nA) CORRETA. Correta: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.\nC) INCORRETA. Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2657,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual alternativa associa corretamente “Conduta inicial” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.",
+      "B) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C) Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "D) Isquemia e infarto:: aparece em cenários de conduta prática."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Conduta inicial” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Correta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C": "Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Conduta inicial” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Choque e reperfusão:: sustenta justificativa clínica da melhor alternativa.\nB) CORRETA. Correta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nC) INCORRETA. Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2660,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual afirmação sobre “Choque e reperfusão:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "C) Isquemia e infarto:: aparece em cenários de conduta prática.",
+      "D) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Choque e reperfusão:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.",
+      "C": "Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Choque e reperfusão:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Necrose e apoptose:: diferencia quadros parecidos em questão objetiva.\nC) INCORRETA. Incorreta: Isquemia e infarto:: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2662,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Eixo hipotálamo-hipófise:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+      "C) Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.",
+      "D) Eixo hipotálamo-hipófise:: conceito-base para orientar o restante."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Eixo hipotálamo-hipófise:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+      "C": "Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Eixo hipotálamo-hipófise:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.\nC) INCORRETA. Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2663,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+      "D) Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2667,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual alternativa associa corretamente “Conduta inicial” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+      "B) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C) Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+      "D) Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Conduta inicial” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+      "B": "Correta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C": "Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Conduta inicial” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.\nB) CORRETA. Correta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nC) INCORRETA. Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2671,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.",
+      "B) Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.",
+      "B": "Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Acromegalia e Cushing hipofisário:: aparece em cenários de conduta prática.\nB) INCORRETA. Incorreta: Eixo hipotálamo-hipófise:: conceito-base para orientar o restante.\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Adenomas funcionantes e não funcionantes:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2672,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Insuficiência adrenal:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+      "C) Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+      "D) Hiperplasia adrenal congênita:: sustenta justificativa clínica da melhor alternativa."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insuficiência adrenal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+      "C": "Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+      "D": "Incorreta: Hiperplasia adrenal congênita:: sustenta justificativa clínica da melhor alternativa."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insuficiência adrenal:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.\nC) INCORRETA. Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.\nD) INCORRETA. Incorreta: Hiperplasia adrenal congênita:: sustenta justificativa clínica da melhor alternativa.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2673,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insuficiência adrenal:: estrutura o raciocínio da aula.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+      "D) Hiperaldosteronismo:: ponto de segurança clínica obrigatório."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insuficiência adrenal:: estrutura o raciocínio da aula.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+      "D": "Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insuficiência adrenal:: estrutura o raciocínio da aula.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.\nD) INCORRETA. Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2675,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+      "B) Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+      "C) Insuficiência adrenal:: estrutura o raciocínio da aula.",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+      "C": "Incorreta: Insuficiência adrenal:: estrutura o raciocínio da aula.",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.\nC) INCORRETA. Incorreta: Insuficiência adrenal:: estrutura o raciocínio da aula.\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2681,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+      "B) Insuficiência adrenal:: estrutura o raciocínio da aula.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Hiperaldosteronismo:: orienta segurança e manejo de risco."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.",
+      "B": "Incorreta: Insuficiência adrenal:: estrutura o raciocínio da aula.",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hiperaldosteronismo:: ponto de segurança clínica obrigatório.\nB) INCORRETA. Incorreta: Insuficiência adrenal:: estrutura o raciocínio da aula.\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Hiperaldosteronismo:: orienta segurança e manejo de risco.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2683,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Resistência insulínica:: diferencia quadros parecidos em questão objetiva.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "D) Insulina e glucagon:: estrutura o raciocínio da aula."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2686,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual afirmação sobre “DM1 versus DM2:” está correta?",
+    "opcoes": [
+      "A) orienta segurança e manejo de risco.",
+      "B) Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "C) Insulina e glucagon:: estrutura o raciocínio da aula.",
+      "D) Resistência insulínica:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “DM1 versus DM2:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "C": "Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.",
+      "D": "Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “DM1 versus DM2:”.\nA) CORRETA. Correta: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.\nC) INCORRETA. Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.\nD) INCORRETA. Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2689,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Benefício estatístico” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "B) Insulina e glucagon:: estrutura o raciocínio da aula.",
+      "C) Resistência insulínica:: diferencia quadros parecidos em questão objetiva.",
+      "D) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Benefício estatístico” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "B": "Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.",
+      "C": "Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva.",
+      "D": "Correta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Benefício estatístico” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.\nB) INCORRETA. Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.\nC) INCORRETA. Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva.\nD) CORRETA. Correta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2690,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Emergências hiperglicêmicas:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "C) Insulina e glucagon:: estrutura o raciocínio da aula.",
+      "D) Resistência insulínica:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Emergências hiperglicêmicas:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.",
+      "C": "Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.",
+      "D": "Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Emergências hiperglicêmicas:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Complicações micro e macrovasculares:: aparece em cenários de conduta prática.\nC) INCORRETA. Incorreta: Insulina e glucagon:: estrutura o raciocínio da aula.\nD) INCORRETA. Incorreta: Resistência insulínica:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2692,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Metformina e classes orais:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "C) Insulina basal e prandial:: orienta segurança e manejo de risco.",
+      "D) Agonistas GLP-1 e SGLT2:: diferenciação mais cobrada na Uninove."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Metformina e classes orais:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "C": "Incorreta: Insulina basal e prandial:: orienta segurança e manejo de risco.",
+      "D": "Incorreta: Agonistas GLP-1 e SGLT2:: diferenciação mais cobrada na Uninove."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Metformina e classes orais:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante\nC) INCORRETA. Incorreta: Insulina basal e prandial:: orienta segurança e manejo de risco.\nD) INCORRETA. Incorreta: Agonistas GLP-1 e SGLT2:: diferenciação mais cobrada na Uninove.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2695,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Metformina e classes orais:: estrutura o raciocínio da aula.",
+      "B) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "C) Insulina basal e prandial:: orienta segurança e manejo de risco.",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Metformina e classes orais:: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "C": "Incorreta: Insulina basal e prandial:: orienta segurança e manejo de risco.",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Metformina e classes orais:: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante\nC) INCORRETA. Incorreta: Insulina basal e prandial:: orienta segurança e manejo de risco.\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2696,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Qual afirmação sobre “Insulina basal e prandial:” está correta?",
+    "opcoes": [
+      "A) orienta segurança e manejo de risco.",
+      "B) Metformina e classes orais:: estrutura o raciocínio da aula.",
+      "C) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "D) Agonistas GLP-1 e SGLT2:: diferenciação mais cobrada na Uninove."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insulina basal e prandial:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Metformina e classes orais:: estrutura o raciocínio da aula.",
+      "C": "Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "D": "Incorreta: Agonistas GLP-1 e SGLT2:: diferenciação mais cobrada na Uninove."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insulina basal e prandial:”.\nA) CORRETA. Correta: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Metformina e classes orais:: estrutura o raciocínio da aula.\nC) INCORRETA. Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante\nD) INCORRETA. Incorreta: Agonistas GLP-1 e SGLT2:: diferenciação mais cobrada na Uninove.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  },
+  {
+    "id": 2700,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a13",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Individualização de metas:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Metformina e classes orais:: estrutura o raciocínio da aula.",
+      "C) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "D) Insulina basal e prandial:: orienta segurança e manejo de risco."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Individualização de metas:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Metformina e classes orais:: estrutura o raciocínio da aula.",
+      "C": "Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+      "D": "Incorreta: Insulina basal e prandial:: orienta segurança e manejo de risco."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Individualização de metas:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Metformina e classes orais:: estrutura o raciocínio da aula.\nC) INCORRETA. Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante\nD) INCORRETA. Incorreta: Insulina basal e prandial:: orienta segurança e manejo de risco.",
+    "aula_id": "ff4_a13",
+    "essencial": false
+  }
+]

@@ -2,7 +2,7 @@
 
 A replicação do DNA é a garantia de que as informações da vida passem adiante sem erros. Na prova, o tema central é entender as enzimas da replicação (como a **Helicase** e a **Topoisomerase**) e como a tecnologia da **PCR** (Reação em Cadeia da Polimerase) imita esse processo natural para diagnosticar doenças como a COVID-19 e o HIV.
 
-Na prática, entender a replicação é entender como remédios combatem bactérias (inibindo a Topoisomerase) e como o câncer se torna "imortal" usando a enzima **Telomerase**.
+Na prática, entender a replicação é entender como remédios combatem bactérias (inibindo a **Topoisomerase**) e como o câncer se torna "imortal" usando a enzima **Telomerase**.
 
 ---
 
@@ -45,9 +45,9 @@ As pontas do DNA (Telômeros) encurtam um pouquinho a cada vez que a célula se 
 ## 4. PCR: A Replicação no Tubo de Ensaio
 
 A PCR usa calor para fazer milhões de cópias de um pedaço de DNA em poucas horas:
-- **95°C (Desnaturação):** O calor separa as fitas (faz o papel da helicase).
-- **~60°C (Anelamento):** Os iniciadores (primers) grudam no DNA.
-- **72°C (Extensão):** Uma polimerase especial (Taq) faz a cópia.
+- **95°C (Desnaturação):** O calor separa as fitas (faz o papel da **helicase**).
+- **~60°C (Anelamento):** Os iniciadores (**primers**) grudam no DNA.
+- **72°C (Extensão):** Uma polimerase especial (**Taq**) faz a cópia.
 - **Dica de Prova:** Para detectar vírus de RNA (como COVID ou HIV), usamos a **RT-PCR**, que primeiro transforma o RNA em DNA (cDNA) para depois amplificar.
 
 ---

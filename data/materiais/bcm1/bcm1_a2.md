@@ -1,8 +1,8 @@
 # BCM1 — Aula 2: Tampões Biológicos e Gasometria
 
-A gasometria arterial é o exame "rei" das UTIs e Pronto-Socorros. Na prova, o tema central é a interpretação dos distúrbios **Ácido-Base** (Acidose e Alcalose) e como o corpo usa o **Bicarbonato** e o **Pulmão** para manter o pH do sangue em equilíbrio (7,35 a 7,45).
+A gasometria arterial é o exame "rei" das UTIs e Pronto-Socorros. Na prova, o tema central é a interpretação dos distúrbios **Ácido-Base** (Acidose e Alcalose) e como o corpo usa o **Bicarbonato** e o **Pulmão** para manter o pH do sangue em equilíbrio (**7,35 a 7,45**).
 
-Na prática, saber ler uma gasometria é o que diferencia o médico que salva um paciente em choque daquele que apenas olha para os números sem entender a gravidade.
+Na prática, saber ler uma **gasometria** é o que diferencia o médico que salva um paciente em choque daquele que apenas olha para os números sem entender a gravidade.
 
 ---
 
@@ -18,9 +18,9 @@ Na prática, saber ler uma gasometria é o que diferencia o médico que salva um
 ## 1. Valores de Referência (O que é normal?)
 
 Para começar a ler uma gasometria, você deve decorar estes três números:
-- **pH:** 7,35 a 7,45 (Abaixo é **Acidose**, acima é **Alcalose**).
-- **pCO₂ (Pulmão):** 35 a 45 mmHg.
-- **HCO₃⁻ (Rim/Bicarbonato):** 22 a 26 mEq/L (Média 24).
+- **pH:** **7,35 a 7,45** (Abaixo é **Acidose**, acima é **Alcalose**).
+- **pCO₂ (Pulmão):** **35 a 45 mmHg**.
+- **HCO₃⁻ (Rim/Bicarbonato):** **22 a 26 mEq/L** (Média 24).
 
 ---
 
@@ -37,9 +37,9 @@ Para começar a ler uma gasometria, você deve decorar estes três números:
 
 ## 3. O Ânion Gap (AG)
 
-Sempre que vir uma **Acidose Metabólica**, você deve calcular o AG para saber de onde vem o ácido:
-- **Fórmula:** Na⁺ − (Cl⁻ + HCO₃⁻). O normal é entre 8 e 12.
-- **AG Alto (MUDPILES):** Significa que tem um ácido "estranho" no sangue (Metanol, Uremia, Cetoacidose, Lactato).
+Sempre que vir uma **Acidose Metabólica**, você deve calcular o **AG** para saber de onde vem o ácido:
+- **Fórmula:** **Na⁺ − (Cl⁻ + HCO₃⁻)**. O normal é entre **8 e 12**.
+- **AG Alto (MUDPILES):** Significa que tem um ácido "estranho" no sangue (**Metanol, Uremia, Cetoacidose, Lactato**).
 - **AG Normal:** Significa que o paciente está perdendo bicarbonato (ex: Diarreia) e o cloro subiu para compensar (**Acidose Hiperclorêmica**).
 
 ---
@@ -48,7 +48,7 @@ Sempre que vir uma **Acidose Metabólica**, você deve calcular o AG para saber 
 
 - **Pulmão:** Responde em minutos (Aumenta ou diminui a velocidade da respiração).
 - **Rins:** Respondem em dias (Poupam ou jogam fora o bicarbonato).
-- **Regra:** Se o distúrbio é metabólico, o pulmão tenta compensar. Se é respiratório, o rim tenta compensar.
+- **Regra:** Se o distúrbio é **metabólico**, o pulmão tenta compensar. Se é **respiratório**, o rim tenta compensar.
 
 ---
 
@@ -85,11 +85,11 @@ Dica de ouro: a compensação vai sempre no **mesmo sentido** do distúrbio prim
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Acidose Metabólica** | **Acidose Respiratória** | HCO₃⁻ Baixo vs **pCO₂ Alto** |
+| **Acidose Metabólica** | **Acidose Respiratória** | **HCO₃⁻ Baixo** vs **pCO₂ Alto** |
 | **Ânion Gap Alto** | **Ânion Gap Normal** | Ganho de ácido (Lactato) vs **Perda de Bicarbonato (Diarreia)** |
-| **Vômito** | **Diarreia** | Alcalose Metabólica vs **Acidose Metabólica** |
+| **Vômito** | **Diarreia** | **Alcalose Metabólica** vs **Acidose Metabólica** |
 | **Kussmaul** | **DPOC** | Tentativa de compensar acidose vs **Causa de acidose respiratória** |
-| **pH 7,40** | **Gasometria Normal** | Pode ser um pH normalizado por dois distúrbios mistos opostos! |
+| **pH 7,40** | **Gasometria Normal** | Pode ser um pH normalizado por **dois distúrbios mistos opostos**! |
 
 ### Frase-âncora para não esquecer
 

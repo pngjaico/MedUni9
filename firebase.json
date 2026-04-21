@@ -25,6 +25,7 @@
       "package.json",
       "package-lock.json",
       "data/questoes_antigas_teste.json",
+      "data/codigos.json",
       "models_list.json",
       "**/*.bak",
       "**/*.cjs",
@@ -81,7 +82,8 @@
       {
         "source": "/data/**",
         "headers": [
-          { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+          { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" },
+          { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
         ]
       },
       {

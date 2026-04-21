@@ -1,108 +1,95 @@
 # MAD2 — Aula 13: Protozooses — Malária, Chagas e Toxoplasmose
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+As protozooses são doenças causadas por seres unicelulares complexos que desafiam o sistema imune. Na prova, os temas centrais são o ciclo da **Malária** (e sua febre em picos), a evolução da **Doença de Chagas** (da picada à **insuficiência cardíaca**) e os riscos da **Toxoplasmose** para fetos e pacientes com HIV.
+
+Na prática, o médico deve saber que a história de onde o paciente mora ou por onde viajou é tão importante quanto o exame de sangue para fechar o diagnóstico dessas doenças tropicais.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Protozooses são cobradas por ciclo de transmissão, fase clínica e impacto sistêmico tardio.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo fisiopatológico, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A13-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Malária.
+- **O que mostrar:** O "Gráfico da Febre": Um gráfico mostrando a temperatura subindo e descendo em intervalos exatos (Terçã ou Quartã), correlacionando com o momento em que as hemácias explodem e liberam os parasitas no sangue.
+- **Tipo sugerido:** Gráfico explicativo didático.
+- **Legenda (rascunho):** Ciclo eritrocitário do Plasmodium e picos febris característicos.
 
-## Conceito Central
+## 1. Malária: A Febre em Picos
 
-Doenças protozoárias apresentam padrões distintos de invasão tecidual e resposta imune do hospedeiro.
+A malária é causada pelo *Plasmodium* e transmitida pelo mosquito *Anopheles*.
+- **O Ciclo:** O parasita invade o fígado e depois as **Hemácias** (glóbulos vermelhos).
+- **A Febre:** Quando as hemácias se rompem ao mesmo tempo, o paciente tem calafrios e febre altíssima. 
+    - **Febre Terçã (P. vivax/falciparum):** Febre a cada 48 horas.
+    - **Febre Quartã (P. malariae):** Febre a cada 72 horas.
+- **Destaque:** O ***P. falciparum*** é o mais perigoso, pois pode causar a **Malária Cerebral**, uma emergência médica.
 
-## Eixo 1
+---
 
-Malária: ciclo eritrocitário com febre e risco de complicação grave.
+## 2. Doença de Chagas: Do Barbeiro ao Coração
 
-## Eixo 2
+Causada pelo *Trypanosoma cruzi*, a doença tem duas fases muito distintas:
+- **Fase Aguda:** Pode passar despercebida ou apresentar o **Sinal de Romaña** (olho inchado) se a entrada foi pela mucosa ocular. É a fase em que o parasita está no sangue.
+- **Fase Crônica:** Ocorre décadas depois. Os parasitas se escondem nos músculos.
+    - **Coração:** Causa a **Cardiomiopatia Dilatada** (coração grande e fraco).
+    - **Digestivo:** Causa o **Megaesôfago** e o **Megacólon** (órgãos "entupidos" e dilatados pela destruição dos nervos).
 
-Chagas: fase aguda e crônica com repercussão cardíaca e digestiva.
+---
 
-## Eixo 3
+## 3. Toxoplasmose: O Perigo nas Fezes do Gato
 
-Toxoplasmose: relevância em gestação e imunossuprimidos.
+Causada pelo *Toxoplasma gondii*, é uma infecção muito comum e geralmente leve, exceto em dois grupos:
+- **Imunossuprimidos (HIV):** O parasita "acorda" no cérebro e causa a **Neurotoxoplasmose** (lesões que parecem "**alvos**" na tomografia), causando convulsão e fraqueza.
+- **Gestantes:** Se a mãe pegar a doença pela primeira vez na gravidez, o bebê pode nascer com a **Tríade de Sabin**: **Coriorretinite** (cegueira), **Hidrocefalia** e **Calcificações cerebrais**.
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Febre periódica em área endêmica | Parasitismo eritrocitário | Pensar em malária |
-| Cardiomiopatia dilatada tardia | Doença de Chagas crônica | Correlacionar história epidemiológica |
-| Gestante com soroconversão | Risco fetal | Estratificar idade gestacional |
+## 4. Diagnóstico Rápido para a Prova
 
-## Checklist de Raciocínio
+- **Malária:** O exame padrão-ouro é a **Gota Espessa** (ver o parasita no microscópio).
+- **Chagas Agudo:** Ver o parasita no sangue (**Exame Direto**).
+- **Chagas Crônico:** Ver anticorpos no sangue (**Sorologia** — Elisa/IFI).
+- **Toxoplasmose:** Sorologia **IgM e IgG**. Se a gestante tiver **IgM positivo**, precisa de investigação urgente.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-A história epidemiológica é peça diagnóstica central em protozooses e não pode ser negligenciada.
+No consultório, saiba que a **Toxoplasmose** não é transmitida apenas por gatos. A maioria das pessoas se infecta comendo **Carne Malpassada** ou verduras mal lavadas com cistos do parasita. Já na **Malária**, todo paciente com febre que voltou da região amazônica nos últimos 30 dias deve ser testado. Ignorar a malária em um viajante pode levar à morte por falência de múltiplos órgãos em poucos dias.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **Febre Periódica**: Marca da malária; coincide com a ruptura das hemácias.
+- **Gota Espessa**: Exame de escolha para diagnóstico de malária no Brasil.
+- **Cardiomiopatia Dilatada**: Principal causa de morte na fase crônica de Chagas.
+- **Tríade de Sabin**: Consequências graves da toxoplasmose congênita.
+- **Neurotoxoplasmose**: Principal causa de lesão expansiva no SNC de pacientes com HIV.
+
+---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Síndrome dominante:** define direção da hipótese principal.
-- **Mecanismo-chave:** explica sinais e exames mais relevantes.
-- **Diferencial crítico:** separa alternativas muito parecidas.
-- **Marcador de gravidade:** muda urgência e nível de cuidado.
-- **Conduta inicial:** precisa ser segura e justificável.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Protozooses, foque na epidemiologia. 
+Se a questão fala de um paciente que veio do Norte/Amazônia com **Febre e Calafrio**, a resposta é Malária. Se fala de um paciente do interior com **Coração Crescido** ou dificuldade para engolir, a resposta é Chagas. Na gestante, o medo é a **Toxoplasmose**. Lembre-se: Malária destrói hemácias (Anemia); Chagas destrói fibras musculares/nervosas (Dilatação).
+
+A Uninove ama cobrar sobre a **Fase de Chagas**. Agudo = Parasita no sangue (vejo no microscópio). Crônico = Parasita no tecido (só vejo o "rastro" dele pela sorologia). Na Malária, o **P. falciparum** é o vilão que causa a forma grave. Por fim, na toxoplasmose de paciente com HIV, se você vir uma imagem de "anel" no cérebro na tomografia, o tratamento é com Sulfadiazina e Pirimetamina.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Malária** | **Leptospirose** | Febre em **Picos/Calafrio** vs Febre contínua + dor na panturrilha |
+| **Chagas Aguda** | **Chagas Crônica** | **Parasitemia alta** vs Parasitas escondidos (Sorologia +) |
+| **Sinal de Romaña** | **Chagoma**| Inchaço no **Olho** vs Inchaço na **Pele** (local da picada) |
+| **IgM Positivo** | **IgG Positivo** | Infecção **Agora** (Perigo p/ feto) vs Infecção **Antiga** (Imunidade) |
+| **P. vivax** | **P. falciparum** | Forma mais comum (benigna) vs **Forma mais Grave** |
 
 ### Frase-âncora para não esquecer
-> "Em protozoose, território e fase clínica valem tanto quanto o exame."
+
+> "A malária estoura a hemácia e faz a febre subir no relógio. Chagas morde o coração e o esôfago décadas depois. O gato traz a toxo, mas é na barriga da grávida ou no cérebro do doente que o estrago se faz maior."

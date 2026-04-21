@@ -1,0 +1,1925 @@
+[
+  {
+    "id": 1001,
+    "category": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em um maratonista de Elite, espera-se que os músculos posturais e das pernas apresentem uma predominância de quais tipos de fibras ao microscópio?",
+    "opcoes": [
+      "A) Fibras Tipo II (Brancas), ricas em glicogênio para explosão rápida.",
+      "B) Fibras Tipo I (Vermelhas), ricas em mitocôndrias e mioglobina para resistência aeróbica prolongada.",
+      "C) Fibras lisas para controle da velocidade do sangue.",
+      "D) Apenas fibras cardíacas ectópicas para bombear mais sangue."
+    ],
+    "explicacao_geral": "Adaptação histológica ao treinamento.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] As fibras **Tipo I** são lentas e resistentes, o motor ideal para maratonas e manutenção da postura."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1002,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No músculo esquelético, o início da contração depende de uma cascata de sinalização iônica. Relacione corretamente o **Cálcio** com os seus alvos regulatórios no sarcômero:",
+    "opcoes": [
+      "A) O Cálcio liga-se à Troponina C, que muda de forma e puxa a Tropomiosina, expondo os sítios de ligação na actina.",
+      "B) O Cálcio liga-se diretamente à Miosina para quebrar o ATP.",
+      "C) O Cálcio liga-se à Actina para destruir o anel fibroso.",
+      "D) O Cálcio liga-se à Acetilcolina na fenda sináptica."
+    ],
+    "explicacao_geral": "O mecanismo de 'desbloqueio' da contração.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Troponina** atua como o sensor de Cálcio que libera a barreira física (Tropomiosina) para que a miosina possa se ligar."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1003,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O fenômeno do **Rigor Mortis** (rigidez cadavérica) demonstra uma necessidade bioquímica fundamental para o **Relaxamento Muscular**. O que falta no cadáver para que o músculo relaxe?",
+    "opcoes": [
+      "A) Falha no nervo motor primário.",
+      "B) Excesso de sangue oxigenado.",
+      "C) Falta de ATP, necessário para que a cabeça da miosina se desprenda da actina.",
+      "D) Falta de cálcio livre no citoplasma."
+    ],
+    "explicacao_geral": "O relaxamento muscular é um processo que consome energia.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Sem **ATP**, as 'pontes cruzadas' (ligação miosina-actina) não conseguem se desfazer, travando o músculo no estado contraído."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1004,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Diferencie o **Recrutamento de Unidades Motoras** (Espacial) da **Somação Temporal (Tétano)**:",
+    "opcoes": [
+      "A) Recrutamento é a velocidade do choque; Somação é o número de músculos.",
+      "B) Recrutamento é o aumento do número de unidades motoras ativas; Somação é o aumento da frequência de disparos elétricos.",
+      "C) Ambos são sinônimos para a mesma função nervosa.",
+      "D) Recrutamento ocorre apenas no coração e Somação apenas nos braços."
+    ],
+    "explicacao_geral": "Mecanismos de controle de força muscular.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O cérebro regula a força chamando mais 'operários' (recrutamento) ou mandando-os trabalhar mais rápido (frequência/somação)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1005,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Por que o processo de **Relaxamento Muscular** é considerado um evento metabolicamente 'caro' (que gasta muito ATP)?",
+    "opcoes": [
+      "A) Porque o cálcio precisa explodir dentro do sarcômero.",
+      "B) Porque os tendões precisam diminuir de tamanho.",
+      "C) Porque a acetilcolina é transformada em glicose.",
+      "D) Porque exige ATP para dissociar a miosina da actina e para bombear o Cálcio de volta para o RS (via bombas SERCA)."
+    ],
+    "explicacao_geral": "Bioenergética do relaxamento.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Manter o gradiente de Cálcio (baixo no citoplasma) e soltar as cabeças de miosina são passos ativos que consomem energia."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1006,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "No ciclo da ponte cruzada, o 'Golpe de Força' (Power Stroke) — momento em que a cabeça da miosina traciona a actina — ocorre imediatamente após qual evento bioquímico?",
+    "opcoes": [
+      "A) A chegada de um novo ATP.",
+      "B) A liberação do Fosfato Inorgânico (Pi) da cabeça da miosina.",
+      "C) A entrada de sódio pelo Túbulo T.",
+      "D) O relaxamento total da troponina."
+    ],
+    "explicacao_geral": "Fisiologia molecular da contração.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A energia já estava armazenada (hidrolisada); a **liberação de Pi** dispara a mudança conformacional que puxa a actina."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1007,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A **Contração Excêntrica** é fundamental para a locomoção humana. Qual a sua principal função mecânica e um risco associado?",
+    "opcoes": [
+      "A) Aceleração explosiva; risco de falta de ar.",
+      "B) Manter a temperatura estável; risco de sudorese.",
+      "C) Unir ossos quebrados; risco de calo ósseo.",
+      "D) Amortecimento e Freio do movimento; alto risco de microlesões e dor muscular tardia."
+    ],
+    "explicacao_geral": "Biomecânica e lesão muscular.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Descer escadas ou frear uma corrida é trabalho excêntrico. O músculo alonga sob tensão, o que gera grande estresse nas fibras Z."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1008,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Conforme a fisiologia comparada (Uninove), qual a principal diferença na fonte de **Cálcio** para a contração entre o músculo **Esquelético** e o **Cardíaco**?",
+    "opcoes": [
+      "A) O esquelético pega cálcio do ar e o cardíaco da água.",
+      "B) O cardíaco usa cálcio apenas do Retículo Sarcoplasmático.",
+      "C) O esquelético depende quase 100% do Cálcio do Retículo Sarcoplasmático, enquanto o cardíaco depende fortemente do influxo de Cálcio Extracelular.",
+      "D) Não há diferença; ambos usam apenas Cálcio do citoplasma."
+    ],
+    "explicacao_geral": "Acoplamento excitação-contração por tecido.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Sem o cálcio que vem 'de fora', o músculo cardíaco para de bater (por isso bloqueadores de canais de cálcio agem no coração)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1009,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Durante uma cirurgia eletiva, após a administração de Halotano (anestésico), o paciente apresenta rigidez muscular generalizada e temperatura corporal subindo rapidamente para 41ºC. O diagnóstico é **Hipertermia Maligna**. Qual o defeito fisiológico primário?",
+    "opcoes": [
+      "A) Defeito nos canais de Rianodina, provocando liberação maciça e descontrolada de Cálcio do Retículo Sarcoplasmático.",
+      "B) Bloqueio total dos receptores de acetilcolina.",
+      "C) Morte súbita das mitocôndrias.",
+      "D) Excesso de ATP que causa explosões térmicas."
+    ],
+    "explicacao_geral": "Farmacologia e fisiologia muscular.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O cálcio inundando o citoplasma causa contração sustentada e queima de ATP, gerando calor letal."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1010,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um atleta de endurance apresenta cãibras severas no final de uma prova de 42km. Explique a causa fisiológica provável desse 'travamento' muscular:",
+    "opcoes": [
+      "A) Excesso de ATP impedindo a miosina de grudar.",
+      "B) Exaustão de ATP, que impede as bombas SERCA de retornar o cálcio para o RS e impede a miosina de soltar a actina.",
+      "C) Redução drástica da temperatura para 30ºC.",
+      "D) Conversão do músculo em tecido adiposo por falta de glicose."
+    ],
+    "explicacao_geral": "Fadiga e falha nos mecanismos de relaxamento.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Sem energia (ATP), o músculo não consegue 'limpar' o cálcio e nem 'soltar' as pontes, resultando em contração involuntária (cãibra)."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1011,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na UTI, um paciente recebe um **Bloqueador Neuromuscular** curarizante para facilitar a ventilação mecânica. Qual o mecanismo de ação dessa droga e que cuidado a equipe deve ter?",
+    "opcoes": [
+      "A) Bloqueia o nervo ciático; o paciente pode gritar.",
+      "B) Ativa todos os músculos ao mesmo tempo; perigo de febre.",
+      "C) Mata as células musculares; o paciente ficará paraplégico.",
+      "D) Compeite com a Acetilcolina pelos receptores nicotínicos, impedindo a despolarização; requer sedação profunda pois o paciente fica paralisado, mas ainda sente dor."
+    ],
+    "explicacao_geral": "Aplicação clínica de farmacodinâmica muscular.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A droga impede a contração muscular, mas não tem efeito analgésico ou sedativo. Paralisar sem sedar é um erro grave."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1012,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Em condições fisiológicas, qual sequência descreve melhor a propagação ordenada do estímulo elétrico no coração?",
+    "opcoes": [
+      "A) Início no feixe de His, seguido do nó sinoatrial e depois dos ventrículos.",
+      "B) Disparo no nó atrioventricular, com condução retrógrada prioritária para os átrios.",
+      "C) Origem no nó sinoatrial, condução pelos átrios, nó atrioventricular, feixe de His e rede de Purkinje.",
+      "D) Sincronização ventricular precedendo sempre a despolarização atrial."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O sistema de condução organiza a ativação elétrica em série: o impulso nasce no nó SA, atravessa os átrios, sofre atraso útil no nó AV e segue por His–Purkinje para despolarizar os ventrículos de forma coordenada.",
+    "explicacoes_opcoes": {
+      "A": "Inverte a ordem fisiológica: o ritmo basal em repouso começa no nó SA, não no feixe de His.",
+      "B": "O marcapasso com maior frequência de disparo em repouso é o nó SA; o nó AV não inicia o ritmo fisiológico nem prioriza condução retrógrada.",
+      "C": "Corresponde à arquitetura descrita : SA → vias atriais → AV → His → Purkinje, garantindo sequência atrial e ventricular.",
+      "D": "Na condução fisiológica, a ativação atrial precede a ventricular; o atraso no nó AV permite enchimento antes da sístole ventricular."
+    },
+    "explicacao": "Resumo: A condução cardíaca normal segue o eixo SA → átrios → AV → His–Purkinje, e não o inverso.\nA) INCORRETA. O primeiro disparo fisiológico é no nó SA, não no feixe de His.\nB) INCORRETA. O ritmo em repouso costuma originar-se no nó SA; o nó AV não é o gerador basal nem conduz prioritariamente de forma retrógrada.\nC) CORRETA. Reflete a sequência que organiza despolarização atrial e ventricular.\nD) INCORRETA. Os átrios são ativados antes dos ventrículos; não há inversão fisiológica sistemática dessa ordem.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1013,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Homem de 58 anos, assintomático, em consulta de rotina. Ao explicar de onde vem o ritmo cardíaco em repouso, qual estrutura deve ser citada como principal geradora do impulso em condições fisiológicas?",
+    "opcoes": [
+      "A) Nó sinoatrial.",
+      "B) Nó atrioventricular.",
+      "C) Junção atrioventricular distal.",
+      "D) Miocárdio ventricular livre."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O nó sinoatrial é o marcapasso fisiológico principal: apresenta automatismo mais rápido em repouso e impõe o ritmo aos demais elementos com capacidade de disparo espontâneo.",
+    "explicacoes_opcoes": {
+      "A": "Correto: o nó SA é descrito como principal marcapasso fisiológico.",
+      "B": "O nó AV conduz e atrasa o impulso; não é o gerador basal de maior frequência em repouso.",
+      "C": "A região juncional pode assumir ritmo em certas situações, mas não substitui o papel fisiológico dominante do nó SA em condições normais.",
+      "D": "O miocárdio ventricular trabalhador não funciona como marcapasso dominante na fisiologia basal."
+    },
+    "explicacao": "Resumo: Em repouso, o ritmo costuma ser imposto pelo nó SA pelo seu automatismo relativamente mais elevado.\nA) CORRETA. É o principal marcapasso fisiológico.\nB) INCORRETA. Tem papel de condução e atraso, não de gerador basal dominante.\nC) INCORRETA. Não descreve o marcapasso habitual em condições fisiológicas.\nD) INCORRETA. O ventrículo não inicia o ritmo basal típico.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1014,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Qual função do nó atrioventricular é mais importante para a mecânica cardíaca durante a diástole?",
+    "opcoes": [
+      "A) Maximizar a frequência de disparo espontâneo acima do nó sinoatrial.",
+      "B) Propagar o impulso aos ventrículos com a maior velocidade possível logo na entrada do feixe de His.",
+      "C) Bloquear completamente qualquer condução atrioventricular em repouso.",
+      "D) Introduzir atraso na condução, permitindo enchimento ventricular antes da sístole ventricular."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O atraso no nó AV é fisiologicamente útil: prolonga o intervalo entre contração atrial eficaz e ejeção ventricular, favorecendo enchimento.",
+    "explicacoes_opcoes": {
+      "A": "Quem costuma impor frequência basal mais alta em repouso é o nó SA, não o nó AV.",
+      "B": "A condução mais veloz para a massa ventricular ocorre especialmente nas fibras de Purkinje, não no nó AV, cuja função marcante é o atraso.",
+      "C": "Bloqueio completo não é fisiológico; o nó AV atrasa, mas conduz o impulso na situação normal.",
+      "D": "Corresponde ao papel descrito: atraso útil para sincronizar enchimento ventricular."
+    },
+    "explicacao": "Resumo: O nó AV atrasa o estímulo de modo a alinhar contração atrial e enchimento ventricular.\nA) INCORRETA. O nó AV não supera o nó SA como gerador basal em repouso.\nB) INCORRETA. Alta velocidade intraventricular é mais característica do sistema de Purkinje.\nC) INCORRETA. Conduz o impulso, com atraso, em vez de interrompê-lo totalmente.\nD) CORRETA. O atraso no nó AV favorece o enchimento ventricular adequado.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1015,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Homem idoso com bloqueio de ramo à esquerda no ECG. O cardiologista lembra que parte do sistema de condução é responsável por disseminar rapidamente o estímulo pelo miocárdio ventricular. Qual característica define melhor as fibras de Purkinje?",
+    "opcoes": [
+      "A) Frequência espontânea de disparo superior à do nó sinoatrial em repouso.",
+      "B) Alta velocidade de condução intraventricular.",
+      "C) Atraso elétrico proeminente equivalente ao do nó atrioventricular.",
+      "D) Ausência de potencial de ação com fase de platô prolongada nos ventrículos."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "As fibras de Purkinje formam rede de condução rápida no endocárdio, permitindo despolarização quase simultânea da massa ventricular.",
+    "explicacoes_opcoes": {
+      "A": "O maior automatismo em repouso é do nó SA; Purkinje não dispara mais rápido que o SA na fisiologia basal.",
+      "B": "Correto: Purkinje destaca-se pela condução veloz dentro dos ventrículos.",
+      "C": "O atraso marcante ocorre no nó AV; Purkinje prioriza velocidade de propagação.",
+      "D": "Miócitos ventriculares exibem platô prolongado por influxo de cálcio; a afirmação nega indevidamente esse perfil."
+    },
+    "explicacao": "Resumo: Purkinje acelera a condução para sincronizar a ativação ventricular.\nA) INCORRETA. O nó SA domina a frequência basal, não as fibras de Purkinje.\nB) CORRETA. Condução rápida intraventricular é a marca das fibras de Purkinje.\nC) INCORRETA. Confunde o papel do nó AV (atraso) com o de Purkinje (velocidade).\nD) INCORRETA. O platô prolongado é típico do miócito contrátil ventricular, não algo ausente genericamente.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1016,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Comparando células marcapasso e miócitos contráteis ventriculares, qual achado diferencia as células marcapasso?",
+    "opcoes": [
+      "A) Potencial de ação com platô prolongado dependente de influxo de cálcio.",
+      "B) Ausência de despolarização em resposta a estímulo elétrico.",
+      "C) Despolarização diastólica espontânea progressiva.",
+      "D) Impossibilidade de gerar impulso após o período refratário relativo."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Células marcapasso apresentam despolarização espontânea na diástole; miócitos contráteis ventriculares têm platô prolongado por cálcio e perfil de potencial de ação distinto.",
+    "explicacoes_opcoes": {
+      "A": "Descreve melhor o miócito contrátil com platô, não o marcapasso.",
+      "B": "Ambos os tipos podem ser excitáveis; a diferença central é o automatismo e o formato do potencial de ação.",
+      "C": "Correto: marcapasso apresenta despolarização diastólica espontânea progressiva.",
+      "D": "Ambos apresentam ciclos refratários; a alternativa não captura o contraste fisiológico principal."
+    },
+    "explicacao": "Resumo: Marcapasso = disparo espontâneo na diástole; ventrículo trabalhador = platô e refratariedade típicos de miócito contrátil.\nA) INCORRETA. Platô por cálcio é marca dos miócitos contráteis, não do marcapasso.\nB) INCORRETA. Não há ausência global de resposta elétrica como critério diferencial.\nC) CORRETA. A despolarização espontânea progressiva define o marcapasso.\nD) INCORRETA. Não é o contraste principal entre os dois tipos celulares.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1017,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "O prolongamento da fase de platô no potencial de ação ventricular, relacionado à entrada de cálcio, contribui principalmente para:",
+    "opcoes": [
+      "A) Converter o nó atrioventricular no marcapasso dominante em repouso.",
+      "B) Acelerar a condução através do nó atrioventricular.",
+      "C) Impedir a ocorrência de período refratário no ventrículo.",
+      "D) Prolongar a refratariedade e reduzir o risco de contração sustentada inadequada (como tetania)."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O platô ventricular prolonga a refratariedade, o que impede reexcitação prematura em sequência e protege contra mecânica sustentada patológica.",
+    "explicacoes_opcoes": {
+      "A": "O marcapasso basal em repouso é o nó SA; o platô ventricular não transfere domínio para o nó AV.",
+      "B": "O platô ocorre no miócito ventricular; não acelera a condução nodal.",
+      "C": "O ventrículo permanece refratário durante parte do ciclo; o platô contribui para refratariedade, não a elimina.",
+      "D": "Corresponde à ideia de que refratariedade prolongada tem papel protetivo frente a estímulos repetidos."
+    },
+    "explicacao": "Resumo: Platô e refratariedade ventricular limitam frequência de disparo mecânico repetido.\nA) INCORRETA. Não altera qual é o marcapasso dominante em repouso.\nB) INCORRETA. Não descreve efeito sobre velocidade nodal.\nC) INCORRETA. Refratividade não desaparece; o platô participa dela.\nD) CORRETA. Refratariedade prolongada evita resposta contrátil sustentada a estímulos em rápida sucessão.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1018,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Estudante confunde “quem gera o impulso” com “quem conduz mais rápido”. Qual afirmação corrige o equívoco de forma precisa?",
+    "opcoes": [
+      "A) O nó sinoatrial conduz mais rápido que as fibras de Purkinje.",
+      "B) Maior velocidade de condução implica, por definição, maior frequência de disparo automático.",
+      "C) Automatismo e velocidade de condução são sinônimos no miocárdio.",
+      "D) Automatismo refere-se à geração do impulso; condução refere-se à sua propagação ao longo das vias."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A “pegadinha” clássica é separar geração (automatismo, com destaque para o nó SA) de transmissão (velocidade variável ao longo de átrios, nó AV e Purkinje).",
+    "explicacoes_opcoes": {
+      "A": "O nó SA inicia o ritmo, mas a condução mais veloz ocorre especialmente em Purkinje, não no SA.",
+      "B": "Velocidade de condução e frequência de disparo automático são dimensões diferentes.",
+      "C": "São conceitos distintos: origem versus trajeto/velocidade de propagação.",
+      "D": "Correto: automatismo é geração; condução é propagação."
+    },
+    "explicacao": "Resumo: Quem dispara primeiro não é quem conduz mais rápido.\nA) INCORRETA. Inverte a relação de velocidades entre nó SA e Purkinje.\nB) INCORRETA. Confunde frequência de disparo com velocidade de propagação.\nC) INCORRETA. Não são sinônimos.\nD) CORRETA. Define separadamente geração e condução do impulso.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1019,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Em relação a condução fisiológica e bloqueio de condução, qual alternativa está correta?",
+    "opcoes": [
+      "A) Bloqueio de condução ocorre quando o nó atrioventricular acelera indevidamente o impulso.",
+      "B) Condução fisiológica pressupõe ausência de atividade elétrica nos ventrículos.",
+      "C) Bloqueio de condução interrompe ou retarda a transmissão do impulso além do esperado para a condução fisiológica.",
+      "D) Condução fisiológica é equivalente a qualquer ritmo irregular persistente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Na fisiologia, o impulso percorre vias definidas com tempos compatíveis com enchimento e ejeção; bloqueio altera esse trajeto ou tempo de forma patológica.",
+    "explicacoes_opcoes": {
+      "A": "Bloqueio retarda ou interrompe, não acelera a condução pelo nó AV.",
+      "B": "Condução fisiológica inclui ativação ventricular ordenada; não implica ventrículos silenciosos.",
+      "C": "Correto: bloqueio patológico vai além do atraso fisiológico útil do nó AV.",
+      "D": "Ritmo irregular persistente não define condução fisiológica."
+    },
+    "explicacao": "Resumo: Condução fisiológica segue arquitetura e tempos normais; bloqueio perturba transmissão.\nA) INCORRETA. Bloqueio não é aceleração do nó AV.\nB) INCORRETA. Ventrículos são ativados na condução normal.\nC) CORRETA. Bloqueio interrompe ou retarda transmissão de modo patológico.\nD) INCORRETA. Confunde ritmo irregular com condução fisiológica.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1020,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Jovem de 22 anos refere palpitações durante provas. A equipe comenta que muitas arritmias envolvem alteração de automatismo ou de condução. Qual opção contrasta melhor os dois mecanismos?",
+    "opcoes": [
+      "A) Alteração de automatismo muda origem ou frequência de disparo; alteração de condução muda trajeto, tempo ou continuidade da propagação do impulso.",
+      "B) Ambos os termos descrevem apenas bloqueio atrioventricular de alto grau.",
+      "C) Automatismo anormal existe só em células marcapasso; condução anormal só em miócitos ventriculares.",
+      "D) Condução alterada nunca se associa a taquiarritmias."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Arritmias podem refletir foco ectópico ou alteração de automatismo, ou distúrbios de condução (atraso, bloqueio, circuitos de reentrada), muitas vezes combinados.",
+    "explicacoes_opcoes": {
+      "A": "Correto: automatismo diz respeito à geração; condução, à propagação.",
+      "B": "Bloqueio AV é um subtipo de alteração de condução, não o único significado dos termos.",
+      "C": "Excitabilidade e condução anômalas podem envolver várias regiões, não compartimentos exclusivos.",
+      "D": "Reentrada e circuitos rápidos são exemplos em que condução anormal gera taquiarritmia."
+    },
+    "explicacao": "Resumo: Foco na distinção entre gerar o impulso e conduzi-lo.\nA) CORRETA. Separa origem/frequência de trajeto/tempo de propagação.\nB) INCORRETA. Reduz conceitos amplos a um único tipo de bloqueio.\nC) INCORRETA. Limita indevidamente os tecidos envolvidos.\nD) INCORRETA. Condução anormal pode participar de taquiarritmias (ex.: reentrada).",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1021,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Homem de 65 anos com insuficiência cardíaca descompensada e frequência cardíaca irregular à ausculta. A desorganização da ativação elétrica pode comprometer o desempenho de bomba. Por que o sistema de condução fisiológico é essencial para eficiência mecânica?",
+    "opcoes": [
+      "A) Porque garante que o nó atrioventricular dispare com frequência maior que o nó sinoatrial.",
+      "B) Porque organiza a ativação elétrica sequencial de átrios e ventrículos, permitindo enchimento coordenado e ejeção eficaz.",
+      "C) Porque elimina a refratariedade do miocárdio ventricular.",
+      "D) Porque impede o enchimento ventricular ao encurtar apenas a diástole atrial."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A sequência SA–AV–His–Purkinje alinha contração atrial, enchimento ventricular e sístole ventricular; perder essa coordenação reduz débito e tolerância hemodinâmica.",
+    "explicacoes_opcoes": {
+      "A": "Em repouso o nó SA impõe frequência; o nó AV não deve superar o SA como gerador basal.",
+      "B": "Correto: condução ordenada sustenta sincronia mecânica entre câmaras.",
+      "C": "Refratariedade é propriedade fisiológica importante; o sistema de condução não a elimina.",
+      "D": "O atraso AV favorece enchimento; a alternativa descreve efeito oposto ao fisiológico."
+    },
+    "explicacao": "Resumo: Eficiência depende de timing entre átrios e ventrículos e de condução intraventricular rápida.\nA) INCORRETA. Frequência basal maior é do nó SA, não do nó AV.\nB) CORRETA. Ativação sequencial coordena enchimento e ejeção.\nC) INCORRETA. Refratariedade não é abolida pelo sistema de condução.\nD) INCORRETA. Confunde consequências: o objetivo é enchimento adequado, não bloqueá-lo.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1022,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A epiderme é um epitélio estratificado pavimentoso queratinizado organizado em estratos. Qual a função primordial do **Estrato Basal**?",
+    "opcoes": [
+      "A) Fornecer uma barreira impermeável de células mortas.",
+      "B) Promover a renovação constante da epiderme através de mitoses nas células-tronco.",
+      "C) Detectar vibrações profundas através de receptores de Pacini.",
+      "D) Armazenar gordura para isolamento térmico."
+    ],
+    "explicacao_geral": "Fisiologia da regeneração epitelial.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Estrato Basal** é a camada germinativa; é dali que nascem todos os queratinócitos que migrarão para o topo."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1023,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Ao analisar uma lâmina histológica, você identifica a presença de um **Estrato Lúcido** entre o granuloso e o córneo. Onde esta amostra foi coletada?",
+    "opcoes": [
+      "A) Pálpebras (pele extremamente fina).",
+      "B) Couro cabeludo.",
+      "C) Palmas das mãos ou plantas dos pés (Pele Espessa).",
+      "D) Mucosa interna da bochecha."
+    ],
+    "explicacao_geral": "Diferencial histológico de pele espessa.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O **Estrato Lúcido** é uma camada translúcida adicional exclusiva da pele espessa, que sofre alto atrito."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1024,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O conceito de **Unidade Melânica Epidérmica** é fundamental para entender a proteção solar da pele. Como ela é definida?",
+    "opcoes": [
+      "A) Um Melanócito associado a um grupo fixo de Queratinócitos (cerca de 36) para os quais ele transfere melanina.",
+      "B) Um conjunto de glândulas sebáceas que produzem pigmento.",
+      "C) A união de 10 melanócitos para formar uma sarda.",
+      "D) A camada de gordura que protege o melanócito do frio."
+    ],
+    "explicacao_geral": "Biologia do melanócito.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O melanócito estende seus prolongamentos para 'alimentar' vários queratinócitos vizinhos com melanina, protegendo seus núcleos contra o UV."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1025,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A epiderme é um tecido **avascular**. Como ocorre o suprimento de oxigênio e nutrientes para as células das camadas mais profundas (Estrato Basal e Espinhoso)?",
+    "opcoes": [
+      "A) Através de minúsculos vasos sanguíneos que perfuram a queratina.",
+      "B) Pela absorção direta da água da chuva ou do banho.",
+      "C) Pela produção de glicose pelos próprios queratinócitos.",
+      "D) Por difusão a partir dos capilares situados na Derme Papilar, facilitada pelas ondulações das Papilas Dérmicas."
+    ],
+    "explicacao_geral": "Fisiologia da nutrição epitelial.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A interdigitação entre derme e epiderme aumenta a área de contato, garantindo que o nutriente chegue por difusão às células vivas da base."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1026,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Além dos queratinócitos e melanócitos, a epiderme abriga células de vigilância e sensoriais. Diferencie a função das células de **Langerhans** e de **Merkel**:",
+    "opcoes": [
+      "A) Langerhans produz suor; Merkel produz óleo.",
+      "B) Langerhans realizam defesa imune (fagocitose); Merkel funcionam como mecanorreceptores de tato fino.",
+      "C) Langerhans são células mortas; Merkel são células-tronco.",
+      "D) Ambas produzem queratina para endurecer a pele."
+    ],
+    "explicacao_geral": "Citologia epidérmica especializada.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] As células de **Langerhans** são as sentinelas do sistema imune na pele; as de **Merkel** estão ligadas a terminações nervosas para percepção táctil."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1027,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual a principal diferença funcional entre as glândulas sudoríparas **Écrinas** e as **Apócrinas**?",
+    "opcoes": [
+      "A) Écrinas servem para a termorregulação (frias e aquosas); Apócrinas estão ligadas ao odor e surgem na puberdade em áreas restritas.",
+      "B) Écrinas só existem na axila; Apócrinas no corpo todo.",
+      "C) Écrinas produzem sebo e Apócrinas produzem lágrimas.",
+      "D) Não há diferença; ambas despejam suor diretamente no pelo."
+    ],
+    "explicacao_geral": "Anexos e glândulas cutâneas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] As **Écrinas** são vitais para resfriar o corpo; as **Apócrinas** liberam secreção mais viscosa que, ao sofrer ação bacteriana, gera o odor corporal."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1028,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Por que o **Estrato Espinhoso** recebe este nome na microscopia óptica tradicional e qual a sua importância mecânica?",
+    "opcoes": [
+      "A) Porque contém espinhos de queratina que furam bactérias.",
+      "B) Porque as células são pontiagudas para evitar o contato com a derme.",
+      "C) Devido aos numerosos Desmossomos (pontes intercelulares) que mantêm as células unidas, conferindo resistência ao atrito e tração.",
+      "D) Porque é a camada que produz o pelo (espinhos corporais)."
+    ],
+    "explicacao_geral": "Ultraestrutura e resistência epitelial.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Os **Desmossomos** são grampos proteicos que garantem que a epiderme não se rasgue ou se descole facilmente sob pressão mecânica."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1029,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente sofre queimadura grave por fogo. A área afetada está esbranquiçada, de textura 'couro', e o paciente refere **ausência total de dor** no local. Por que este ferimento exigirá um enxerto de pele?",
+    "opcoes": [
+      "A) Porque a dor é necessária para a cicatrização.",
+      "B) Porque a destruição atingiu o Estrato Basal e a Derme profunda, eliminando as células-tronco e os nervos, impedindo a regeneração espontânea.",
+      "C) Porque o calor transformou a pele em osso.",
+      "D) Porque a queratina evaporou e não pode ser fabricada novamente."
+    ],
+    "explicacao_geral": "Clínica de queimaduras e estratificação cutânea.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Queimaduras de 3º grau destroem a 'fábrica' (Estrato Basal). Sem estas células, o corpo só consegue fechar a ferida com cicatriz fibrosa, exigindo enxerto."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1030,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na avaliação diagnóstica de um **Melanoma**, o patologista documenta o **Índice de Breslow**. O que este índice mede e por que ele é o fator prognóstico mais importante?",
+    "opcoes": [
+      "A) O número de pelos na mancha.",
+      "B) A cor exata da lesão (preto vs marrom).",
+      "C) A largura da mancha em centímetros.",
+      "D) A profundidade da invasão tumoral na derme, indicando a probabilidade de as células atingirem vasos sanguíneos e linfáticos para causar metástase."
+    ],
+    "explicacao_geral": "Oncologia e histologia tegumentar.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Quanto mais fundo o tumor 'mergulha' na derme vascularizada, maior o risco de espalhamento sistêmico."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1031,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente idoso e acamado desenvolve uma ferida profunda na região do sacro (**Úlcera de Pressão**). Qual a fisiopatologia histológica essencial desse quadro?",
+    "opcoes": [
+      "A) É uma infecção por falta de banho matinal.",
+      "B) É uma alergia ao lençol de algodão.",
+      "C) Compressão prolongada dos vasos da derme pelo peso do osso, causando isquemia e morte dos tecidos sobrejacentes (necrose).",
+      "D) O suor apócrino corroeu as camadas da pele."
+    ],
+    "explicacao_geral": "Impacto clínico de isquemia tecidual por pressão.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A pressão mecânica esmaga os capilares dérmicos que deveriam nutrir a epiderme e a própria derme, levando à morte tecidual em camadas."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1032,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "As glândulas exócrinas são classificadas pelo seu modo de secreção. Qual tipo de glândula é considerada 'suicida', onde a célula inteira morre e se desintegra para liberar seu conteúdo?",
+    "opcoes": [
+      "A) Glândulas Merócrinas (ex: pâncreas).",
+      "B) Glândulas Apócrinas (ex: mamária).",
+      "C) Glândulas Endócrinas (ex: tireoide).",
+      "D) Glândulas Holócrinas (ex: sebácea)."
+    ],
+    "explicacao_geral": "Mecanismos de secreção exócrina.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Nas glândulas **Holócrinas**, a célula se enche de produto e explode; esse resto celular misturado ao óleo é o que chamamos de sebo."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1033,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "As glândulas **Endócrinas** perderam sua conexão com os epitélios de revestimento. Como os seus hormônios atingem os órgãos-alvos?",
+    "opcoes": [
+      "A) Através de ductos longos que perfuram a pele.",
+      "B) Por liberação direta nos Capilares Fenestrados que circundam as células glandulares.",
+      "C) Via receptores de toque na epiderme.",
+      "D) Através do sistema linfático apenas."
+    ],
+    "explicacao_geral": "Diferenciação morfofuncional sistemática.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Glândulas endócrinas são 'ductless' (sem ductos). Elas despejam o hormônio no sangue através de vasos com 'janelas' (fenestras)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1034,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Ao analisar três lâminas de glândulas salivares maiores, você observa uma que apresenta exclusivamente ácinos **Serosos** (escuros e com enzimas). Qual glândula é esta?",
+    "opcoes": [
+      "A) Parótida.",
+      "B) Sublingual.",
+      "C) Glândula Lacrimal.",
+      "D) Submandibular."
+    ],
+    "explicacao_geral": "Histologia das glândulas salivares.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Parótida** é puramente serosa. A sublingual é mucosa e a submandibular é mista."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1035,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Histologicamente, por que a **Acne** é uma doença exclusiva das regiões que possuem folículos pilosos?",
+    "opcoes": [
+      "A) Porque o pelo atrai bactérias pelo seu magnetismo.",
+      "B) Porque o suor apócrino derrete o pelo.",
+      "C) Porque as glândulas sebáceas (holócrinas) drenam para dentro do folículo, e o resto celular morto da secreção pode obstruir o poro.",
+      "D) Porque a pele sem pelo não possui derme reticular."
+    ],
+    "explicacao_geral": "Correlação entre modo de secreção e patologia.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O modo **holócrino** gera detritos celulares. O entupimento desse canal leva à inflamação e formação da acne."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1036,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na coloração de Hematoxilina e Eosina (HE), como se diferenciam visualmente as células produtoras de **Proteínas (Serosas)** das produtoras de **Muco (Mucosas)**?",
+    "opcoes": [
+      "A) Serosas são verdes; Mucosas são azuis.",
+      "B) Serosas são escuras/basofílicas (rico em ribossomos); Mucosas são claras/vácuas (muco não cora bem no HE).",
+      "C) Mucosas são sempre maiores que as serosas.",
+      "D) Não há diferença visível sob o microscópio comum."
+    ],
+    "explicacao_geral": "Afinidade tintorial e função celular.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O muco é hidrofílico e 'lava' no processamento, deixando a célula clara com núcleo achatado na base. As serosas são densas e coram forte."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1037,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual a importância clínica do trajeto do **Nervo Facial (VII par)** em relação à glândula Parótida?",
+    "opcoes": [
+      "A) O nervo facial inerva a secreção da parótida.",
+      "B) O nervo facial protege a parótida de infecções.",
+      "C) O nervo facial não tem relação com a parótida.",
+      "D) O nervo facial atravessa o parênquima da parótida, sendo uma estrutura de alto risco em cirurgias de remoção de tumores salivares."
+    ],
+    "explicacao_geral": "Anatomia cirúrgica tegumentar.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A secção acidental desse nervo durante uma parotidectomia causa paralisia facial periférica (boca torta, falta de fechamento do olho)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1038,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A **Célula Caliciforme** é um exemplo clássico de glândula do tipo:",
+    "opcoes": [
+      "A) Endócrina pluricelular.",
+      "B) Exócrina unicelular.",
+      "C) Holócrina estratificada.",
+      "D) Apócrina alveolar."
+    ],
+    "explicacao_geral": "Classificação morfológica das glândulas.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Uma única célula que fabrica muco e o joga na superfície do epitélio (trato respiratório e intestinal)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1039,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Paciente relata dor aguda na região mandibular toda vez que começa a comer. Ao examinar o assoalho da boca, o médico percebe um cálculo endurecido na saída do **Ducto de Wharton**. Qual glândula está obstruída?",
+    "opcoes": [
+      "A) Glândula Submandibular.",
+      "B) Glândula Parótida.",
+      "C) Glândula Sublingual.",
+      "D) Pâncreas endócrino."
+    ],
+    "explicacao_geral": "Clínica de sialolitíase.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Submandibular** é a campeã de cálculos (sialólitos) devido à viscosidade de sua saliva mista e ao ducto de Wharton, que drena contra a gravidade."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1040,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Paciente submetido a cirurgia de retirada de tumor na parótida acorda sem conseguir fechar o olho esquerdo e com a boca desviada para o lado direito. Qual a estrutura lesada iatrogenicamente?",
+    "opcoes": [
+      "A) Nervo Trigêmeo.",
+      "B) Nervo Glossofaríngeo.",
+      "C) Nervo Facial (VII Par Craniano).",
+      "D) Artéria Carótida interna."
+    ],
+    "explicacao_geral": "Complicações pós-operatórias em glândulas.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A paralisia facial pós-parotidectomia é um risco clássico pela localização íntima do nervo facial com a glândula."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1041,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Cenário: Ao examinar uma criança, o pediatra nota uma 'bolha' azulada e indolor no assoalho da boca, abaixo da língua. O diagnóstico é de **Rânula**. Qual a causa histológica dessa lesão?",
+    "opcoes": [
+      "A) Tumor maligno de ossos da face.",
+      "B) Infecção por vírus da caxumba.",
+      "C) Acúmulo de sangue por trauma dentário.",
+      "D) Extravasamento ou retenção de muco por obstrução dos pequenos ductos excretores da Glândula Sublingual."
+    ],
+    "explicacao_geral": "Patologia de glândulas menores e sublingual.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A **Rânula** é um pseudocisto mucoide típico do assoalho bucal, ligado à glândula sublingual."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1042,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Ao comparar os dois tipos de tecido adiposo ao microscópio, um apresenta células com uma **gota única e gigante de lipídio** (unilocular) e outro apresenta células com **múltiplas gotículas** (multilocular). Qual a correta associação?",
+    "opcoes": [
+      "A) Unilocular = Gordura Marrom; Multilocular = Gordura Branca.",
+      "B) Unilocular = Tecido Adiposo Branco; Multilocular = Tecido Adiposo Marrom.",
+      "C) Unilocular = Célula Muscular; Multilocular = Célula Óssea.",
+      "D) Ambos são uniloculares, diferindo apenas na cor do núcleo."
+    ],
+    "explicacao_geral": "Morfologia dos adipócitos.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Adipócito Branco** estoca energia em uma única gota que empurra o núcleo; o **Marrom** possui várias gotas para facilitar a queima rápida."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1043,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual o componente molecular e a organela predominante que permitem ao **Tecido Adiposo Marrom** gerar calor em vez de energia química (ATP)?",
+    "opcoes": [
+      "A) Hemoglobina e Ribossomos.",
+      "B) Insulina e Retículo Endoplasmático.",
+      "C) Queratina e Complexo de Golgi.",
+      "D) Termogenina (UCP-1) e Mitocôndrias abundantes."
+    ],
+    "explicacao_geral": "Biologia molecular da termogênese.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A **Termogenina** desacopla a produção de ATP nas **Mitocôndrias**, fazendo com que toda a energia da gordura seja liberada na forma de calor."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1044,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na microscopia de pele (HE), a **Derme Reticular** apresenta uma cor rosa intenso. Qual o tipo de tecido e a proteína responsável por essa aparência?",
+    "opcoes": [
+      "A) Tecido Conjuntivo Denso Irregular; Colágeno Tipo I (Eosinofílico).",
+      "B) Tecido Epitelial Simples; Queratina.",
+      "C) Tecido Adiposo; Leptina.",
+      "D) Tecido Conjuntivo Frouxo; Fibras Elásticas apenas."
+    ],
+    "explicacao_geral": "Histologia da derme profunda.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A derme reticular é a camada de força, lotada de feixes de **Colágeno** que coram fortemente com a Eosina (rosa)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1045,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Ao olhar rapidamente uma lâmina de pele em HE, como você diferencia a **Epiderme** da **Derme** apenas pelas cores predominantes?",
+    "opcoes": [
+      "A) Epiderme é rosa (colágeno) e Derme é roxa (núcleos).",
+      "B) Ambas são brancas e vazias.",
+      "C) Epiderme é basofílica (roxo/azul devido à alta densidade de núcleos); Derme é eosinofílica (rosa devido ao colágeno).",
+      "D) A epiderme não tem cor pois é transparente."
+    ],
+    "explicacao_geral": "Princípios de coloração HE na prática.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Os estratos da epiderme são aglomerados de células (núcleos basofílicos); a derme é matriz extracelular (proteína eosinofílica)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1046,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Você localiza **Vasos Sanguíneos** abundantes numa camada da pele. Isso confirma que você **NÃO** está em qual região?",
+    "opcoes": [
+      "A) Na Derme Papilar.",
+      "B) Na Epiderme (que é 100% avascular).",
+      "C) Na Hipoderme.",
+      "D) Na Derme Reticular."
+    ],
+    "explicacao_geral": "Anatomia vascular da pele.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Epiderme** é uma das poucas estruturas do corpo que não possui vasos; ela 'bebe' nutrientes por difusão da derme abaixo."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1047,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O tecido adiposo branco é um importante órgão endócrino. Qual o papel da **Leptina** produzida por essas células e o que ocorre na obesidade?",
+    "opcoes": [
+      "A) Ela aumenta a fome; na obesidade há falta de leptina.",
+      "B) Ela derrete ossos para liberar cálcio.",
+      "C) Ela produz suor para resfriar a gordura.",
+      "D) Ela sinaliza saciedade no cérebro; na obesidade grave, o corpo desenvolve resistência à leptina."
+    ],
+    "explicacao_geral": "Fisiopatologia metabólica da gordura.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A leptina avisa o hipotálamo que as reservas de energia estão cheias. O obeso produz muita leptina, mas o cérebro 'para de ouvir' o sinal."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1048,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Por que o adipócito branco unilocular é chamado de **'Célula em Anel de Sinete'** na histologia?",
+    "opcoes": [
+      "A) Porque a grande gota de gordura empurra o núcleo e o pouco citoplasma para a extremidade, lembrando a joia de um anel.",
+      "B) Porque a célula tem o formato de uma joia redonda.",
+      "C) Porque ela se une a outras células formando um círculo perfeito.",
+      "D) Porque o conteúdo de gordura cora intensamente de azul metálico."
+    ],
+    "explicacao_geral": "Morfologia descritiva microscópica.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A gota lipídica central ocupa mais de 90% da célula, restando apenas um 'filete' periférico onde fica o núcleo."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1049,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Um recém-nascido é exposto a ambiente frio e, mesmo sem tremer, mantém sua temperatura corporal estável. Qual o mecanismo histológico protetor?",
+    "opcoes": [
+      "A) Produção de calafrios intensos mediada pelo osso.",
+      "B) Presença de uma epiderme muito grossa rica em queratina.",
+      "C) Queima de gordura no Tecido Adiposo Marrom (multilocular) através da Termogenina.",
+      "D) Espessamento súbito do colágeno da derme para isolar o frio."
+    ],
+    "explicacao_geral": "Clínica neonatal e termogênese química.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Bebês têm depósitos de **Gordura Marrom** no pescoço e costas; esse tecido 'queima' combustível para gerar calor direto, protegendo da hipotermia."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1050,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente diabético que aplica insulina na mesma região da barriga há 10 anos apresenta um 'afundamento' ou endurecimento no local (lipoatrofia). Onde essa droga deve ser aplicada para ser absorvida corretamente?",
+    "opcoes": [
+      "A) Na Epiderme (camada basal).",
+      "B) Na Hipoderme (Tecido Subcutâneo), onde os adipócitos permitem absorção lenta e constante.",
+      "C) No músculo reto abdominal diretamente.",
+      "D) Entre os dedos para evitar dor."
+    ],
+    "explicacao_geral": "Via de administração subcutânea e hipoderme.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Hipoderme** é o local de eleição para insulina; a lesão por falta de rodízio destrói os adipócitos locais, prejudicando o tratamento."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1051,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A **obesidade central** (visceral) é considerada perigosa porque esse tecido adiposo branco produz citocinas inflamatórias. Qual a consequência sistêmica desse estado histológico?",
+    "opcoes": [
+      "A) Melhora da performance esportiva.",
+      "B) Aumento da audição e visão.",
+      "C) Fortalecimento imediato dos dentes.",
+      "D) Desenvolvimento de Síndrome Metabólica e aumento do risco de Diabetes Tipo 2 e doenças cardiovasculares."
+    ],
+    "explicacao_geral": "Impacto clínico sistêmico do tecido adiposo inflamatório.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Gordura em excesso não é só reserva; ela funciona como uma glândula inflamada que atrapalha o metabolismo de todo o corpo."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1052,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A língua é um órgão muscular extremamente móvel. Qual o nervo responsável pelo **controle motor** absoluto de quase todos os músculos intrínsecos e extrínsecos da língua?",
+    "opcoes": [
+      "A) Nervo Facial (VII).",
+      "B) Nervo Hipoglosso (XII).",
+      "C) Nervo Trigêmeo (V3).",
+      "D) Nervo Glossofaríngeo (IX)."
+    ],
+    "explicacao_geral": "Inervação motora da cavidade oral.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **XII par craniano (Hipoglosso)** é o grande motor da língua. Lesões nele resultam em paralisia e atrofia muscular lingual."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1053,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A glândula **Parótida** e a **Submandibular** drenam sua secreção por canais específicos. Identifique a correspondência correta entre glândula e ducto:",
+    "opcoes": [
+      "A) Parótida = Ducto de Stensen; Submandibular = Ducto de Wharton.",
+      "B) Parótida = Ducto de Wharton; Submandibular = Ducto de Stensen.",
+      "C) Parótida = Ducto de Rivinus; Submandibular = Ducto Colédoco.",
+      "D) Ambas drenam pelo Ducto Cístico diretamente na bochecha."
+    ],
+    "explicacao_geral": "Anatomia dos canais salivares.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O ducto de **Stensen** sai da parótida e perfura o músculo bucinador; o de **Wharton** sai da submandibular e termina abaixo da língua."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1054,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As tonsilas (amígdalas) fazem parte do sistema de defesa imunológica. Onde se localizam, respectivamente, a **Tonsila Faríngea (Adenoide)** e as **Tonsilas Palatinas**?",
+    "opcoes": [
+      "A) Ambas na boca, ao lado da úvula.",
+      "B) Faríngea na língua; Palatinas no nariz.",
+      "C) Faríngea no teto da Nasofaringe; Palatinas entre os arcos do Istmo das Fauces (Orofaringe).",
+      "D) Faríngea no esôfago; Palatinas na laringe."
+    ],
+    "explicacao_geral": "Anatomia linfática da faringe.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A adenoide fica na parte mais alta da faringe; as palatinas são as que enxergamos ao abrir a boca e olhar para a garganta."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1055,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A inervação sensorial da língua é um 'quebra-cabeça' anatômico. Como ela se divide para os **2/3 anteriores** da língua?",
+    "opcoes": [
+      "A) Tato pelo Facial; Gosto pelo Trigêmeo.",
+      "B) Sensibilidade Geral (Tato/Dor/Temp) pelo Nervo Lingual (V3); Sensibilidade Especial (Gosto) pelo Nervo Facial (VII - Corda do Tímpano).",
+      "C) Todo o controle é feito exclusivamente pelo Glossofaríngeo (IX).",
+      "D) O Hipoglosso faz o gosto e o Vago faz o tato."
+    ],
+    "explicacao_geral": "Neuroanatomia sensorial lingual.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **V3** (ramo lingual) traz o tato; o **VII** (via corda do tímpano) traz o paladar da parte frontal da língua."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1058,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual a relação anatômica crítica entre o **Nervo Facial (VII)** e a glândula **Parótida**?",
+    "opcoes": [
+      "A) O nervo atravessa o parênquima da glândula, dividindo-a morfologicamente em lobos superficial e profundo.",
+      "B) O nervo nasce dentro da glândula e vai para o cérebro.",
+      "C) A glândula secreta o nervo facial para lubrificar o rosto.",
+      "D) Não há relação; o nervo passa por trás da orelha longe da parótida."
+    ],
+    "explicacao_geral": "Anatomia topográfica e risco cirúrgico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A parótida 'abraça' o nervo facial. Isso é fundamental para cirurgiões, pois qualquer manipulação na glândula pode lesionar o controle motor da mímica facial."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1062,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A parede abdominal anterolateral é formada por camadas musculares sobrepostas. Qual o músculo cujas fibras correm em sentido horizontal e formam o plano **mais profundo** da parede?",
+    "opcoes": [
+      "A) Oblíquo Externo.",
+      "B) Oblíquo Interno.",
+      "C) Reto Abdominal.",
+      "D) Transverso do Abdome."
+    ],
+    "explicacao_geral": "Anatomia das camadas da parede abdominal.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O **Transverso** é a camada mais interna e profunda, atuando como uma cinta natural que mantém a pressão intra-abdominal."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1064,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As vísceras abdominais podem ser classificadas conforme sua relação com o peritônio. Assinale a alternativa que contém apenas órgãos **Retroperitoneais** (localizados atrás da bolsa parietal):",
+    "opcoes": [
+      "A) Estômago e Jejuno.",
+      "B) Fígado e Vesícula Biliar.",
+      "C) Rins e a maior parte do Pâncreas.",
+      "D) Baço e Apêndice Cecal."
+    ],
+    "explicacao_geral": "Organização do espaço peritoneal.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Estruturas retroperitoneais ficam fixas na parede posterior do abdome, cobertas pelo peritônio apenas em sua face anterior."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1066,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual o critério anatômico que diferencia a **Hérnia Inguinal Direta** da **Indireta**, tomando como referência os Vasos Epigástricos Inferiores?",
+    "opcoes": [
+      "A) Direta é Medial aos vasos (Triângulo de Hesselbach); Indireta é Lateral aos vasos.",
+      "B) Direta é Lateral aos vasos; Indireta é Medial aos vasos.",
+      "C) Direta passa por cima do umbigo; Indireta passa por baixo.",
+      "D) Não há vasos envolvidos no canal inguinal."
+    ],
+    "explicacao_geral": "Diferencial cirúrgico de hérnias.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A hérnia indireta sai pelo anel inguinal profundo (lateral aos vasos); a direta empurra a parede medialmente aos vasos."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1067,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Por que a **Linha Alba** é a via de acesso preferencial para grandes cirurgias abdominais (Laparotomia)?",
+    "opcoes": [
+      "A) Porque ela é feita de gordura mole e fácil de cortar.",
+      "B) Porque ela esconde as vísceras do cirurgião.",
+      "C) Porque ela é a única que cicatriza em 24 horas.",
+      "D) Porque é uma zona avascular (pobre em sangue) e permite uma abertura ampla sem seccionar fibras musculares."
+    ],
+    "explicacao_geral": "Anatomia cirúrgica da parede abdominal.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Localizada entre os dois músculos retos, a linha alba é uma rafe fibrosa que minimiza sangramentos e danos neurológicos musculares."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1068,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O **Omento Maior** é frequentemente chamado de 'Policial do Abdome'. Qual sua principal função biológica?",
+    "opcoes": [
+      "A) Produzir hormônios que causam a fome matinal.",
+      "B) Deslocar-se e aderir a órgãos inflamados ou perfurados, isolando infecções (foco de peritonite).",
+      "C) Filtrar o sangue que vai para o coração.",
+      "D) Nenhuma; é apenas um excesso de gordura sem função."
+    ],
+    "explicacao_geral": "Funções do peritônio e epíplon.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O omento é uma membrana móvel e vascularizada que tenta bloquear furos no estômago ou apêndice inflamado para evitar a contaminação de toda a barriga."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1072,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Ao examinar macroscopicamente o **Intestino Grosso**, quais as três estruturas clássicas que o diferenciam do Intestino Delgado?",
+    "opcoes": [
+      "A) Tênias, Haustras e Apêndices Epiploicos.",
+      "B) Microvilosidades, Válvulas coniventes e Píloro.",
+      "C) Cápsula de Glisson, Ducto Cístico e Vesícula.",
+      "D) Cápsula de Bowman, Glomérulo e Alça de Henle."
+    ],
+    "explicacao_geral": "Anatomia macroscópica diferencial do TGI.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] As **Tênias** (fitas), **Haustras** (sacos) e **Apêndices Epiploicos** (gotas de gordura) são marcas exclusivas do intestino grosso."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1073,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Anatomicamente, como se diferenciam o **Jejuno** e o **Íleo** quanto à sua morfologia e localização?",
+    "opcoes": [
+      "A) Jejuno é fino e pálido na fossa ilíaca; Íleo é grosso no quadrante superior.",
+      "B) Jejuno é mais calibroso, avermelhado (mais vasos) e fica no quadrante superior esquerdo; Íleo é mais fino e fica no quadrante inferior direito.",
+      "C) Ambos são idênticos, mudando apenas o nome por convenção.",
+      "D) Jejuno possui o apêndice cefálico e o Íleo possui o divertículo de Zenker."
+    ],
+    "explicacao_geral": "Anatomia do intestino delgado.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A parede do **Jejuno** é mais robusta e vascularizada devido à sua alta função absortiva primária."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1074,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A primeira porção do intestino delgado é o **Duodeno**. Qual a sua relação anatômica mais importante?",
+    "opcoes": [
+      "A) Fica solto na barriga pendurado pelo mesentério.",
+      "B) Atravessa o diafragma junto com o esôfago.",
+      "C) Possui formato em 'C' e abraça a cabeça do Pâncreas, sendo fixado na cavidade retroperitoneal.",
+      "D) É a única parte do intestino que armazena fezes."
+    ],
+    "explicacao_geral": "Topografia do duodeno e pâncreas.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O duodeno é quase inteiramente **retroperitoneal** e mantém uma relação íntima de vizinhança com o pâncreas, compartilhando vasos sanguíneos."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1076,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Como são formadas as **Haustras** (saculações) do Intestino Grosso?",
+    "opcoes": [
+      "A) Pela contração das Tênias, que são fitas musculares longitudinais mais curtas que o próprio intestino.",
+      "B) Pela pressão do ar que o paciente engole.",
+      "C) Pela presença de ossos internos que dão o formato.",
+      "D) São cicatrizes de infecções passadas."
+    ],
+    "explicacao_geral": "Mecânica estrutural do colon.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Como a 'fita' (tênia) é menor que o 'tecido' (parede do colon), o intestino fica franzido, criando as famosas bolsas chamadas haustras."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1077,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Diferencie a fixação peritoneal entre o **Duodeno** e o restante do Intestino Delgado (**Jejuno e Íleo**):",
+    "opcoes": [
+      "A) O duodeno é móvel e o jejuno é fixo.",
+      "B) O duodeno é predominantemente Retroperitoneal (fixo atrás); Jejuno e Íleo são Intraperitoneais (móveis e presos pelo Mesentério).",
+      "C) Ambos são retroperitoneais e não se movem.",
+      "D) Ambos estão soltos e podem subir para o pulmão."
+    ],
+    "explicacao_geral": "Relações peritoneais do TGI.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Mesentério** é o leque de peritônio que permite que as alças do delgado se movam livremente para evitar torções simples."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2",
+    "essencial": false
+  },
+  {
+    "id": 1082,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A vascularização do trato gastrointestinal é dividida entre três grandes troncos arteriais que nascem da aorta abdominal. Qual a correspondência correta entre artéria e território?",
+    "opcoes": [
+      "A) Tronco Celíaco = Intestino Delgado; Mesentérica Superior = Estômago.",
+      "B) Tronco Celíaco = Estômago, Fígado e Baço; Mesentérica Superior = Delgado e Início do Grosso.",
+      "C) Mesentérica Inferior = Esôfago; Tronco Celíaco = Reto.",
+      "D) Todas as artérias alimentam apenas o pâncreas."
+    ],
+    "explicacao_geral": "Organização do suprimento arterial abdominal.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Tronco Celíaco** domina o abdome superior (foregut); a **Mesentérica Superior** domina as alças do delgado e colon ascendente (midgut)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1083,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O Sistema Nervoso Entérico possui dois plexos intrínsecos principais. Diferencie as funções do **Plexo de Auerbach (Mioentérico)** e do **Plexo de Meissner (Submucoso)**:",
+    "opcoes": [
+      "A) Auerbach controla a motilidade (movimento); Meissner controla a secreção e o fluxo sanguíneo local.",
+      "B) Auerbach controla a cor das fezes; Meissner controla o apetite.",
+      "C) Auerbach fica na pele da barriga; Meissner fica dentro da veia porta.",
+      "D) Ambos fazem a mesma coisa, mudando apenas a localização no estômago."
+    ],
+    "explicacao_geral": "Fisiologia da regulação nervosa intrínseca.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O plexo de **Auerbach** situa-se entre as camadas musculares (movimento); o de **Meissner** situa-se abaixo da mucosa (secreção)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1084,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A **Veia Porta** é um vaso vital que transporta nutrientes do intestino para o fígado. Como ela é formada anatomicamente?",
+    "opcoes": [
+      "A) União da Veia Cava com a Veia Renal.",
+      "B) União das Veias Jugulares com as Subclávias.",
+      "C) União da Veia Esplênica com a Veia Mesentérica Superior.",
+      "D) União da Veia Femoral com a Veia Ilíaca."
+    ],
+    "explicacao_geral": "Anatomia do sistema porta-hepático.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O sangue do baço (esplênica) e do intestino (AMS) converge para formar o tronco da porta, levando tudo ao processamento hepático."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1085,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Por que o sangue venoso do sistema digestório passa pelo **Fígado (via Sistema Porta)** antes de retornar ao coração pela Veia Cava?",
+    "opcoes": [
+      "A) Para o fígado esfriar o sangue vindo da digestão.",
+      "B) Para que o fígado atue como uma 'alfândega', filtrando toxinas, processando nutrientes e realizando o metabolismo de primeira passagem.",
+      "C) Porque o coração não aceita sangue vindo de intestinos.",
+      "D) Para o sangue ganhar oxigênio no fígado."
+    ],
+    "explicacao_geral": "Justificativa fisiológica do sistema porta.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O fígado protege o organismo de substâncias nocivas absorvidas na alimentação antes que elas atinjam a circulação sistêmica."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1086,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O controle autonômico extrínseco do trato gastrointestinal é feito pelo Parassimpático e pelo Simpático. Qual o papel do nervo **Vago (X Par)**?",
+    "opcoes": [
+      "A) Ele desliga a digestão em momentos de estresse intenso.",
+      "B) Ele inerva apenas a língua e não chega ao abdome.",
+      "C) Ele controla exclusivamente a pressão arterial do rim.",
+      "D) Ele é o principal componente parassimpático, estimulando a secreção de suco gástrico e aumentando a motilidade intestinal."
+    ],
+    "explicacao_geral": "Regulação nervosa extrínseca da digestão.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O **Vago** 'acorda' o sistema digestório para realizar o trabalho de quebra e transporte do alimento."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1087,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Em pacientes com cirrose hepática, o fígado torna-se rígido, aumentando a pressão na veia porta (**Hipertensão Portal**). Qual a consequência clínica mais grave desse fenômeno no canal alimentar?",
+    "opcoes": [
+      "A) Desenvolvimento de Varizes de Esôfago, que podem se romper e causar hemorragias fatais.",
+      "B) Aumento da produção de saliva na boca.",
+      "C) Fortalecimento dos músculos da mastigação.",
+      "D) Melhora na absorção de vitaminas."
+    ],
+    "explicacao_geral": "Correlação clínica entre vasos e patologia hepática.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O sangue, impedido de passar pelo fígado, busca 'atalhos' (shunts) nas veias do esôfago, que dilatam e ficam propensas a sangramentos massivos."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1088,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Histologicamente, por que o uso crônico de analgésicos fortes (Opioides) causa constipação (prisão de ventre) severa?",
+    "opcoes": [
+      "A) Porque os remédios entopem fisicamente o intestino.",
+      "B) Porque eles transformam a água em óleo dentro do ceco.",
+      "C) Porque os opioides agem nos receptores dos plexos entéricos, inibindo a motilidade e aumentando a absorção de água, tornando as fezes endurecidas.",
+      "D) Porque eles matam todas as bactérias do intestino grosso."
+    ],
+    "explicacao_geral": "Aproveitamento clínico de farmacologia e sistema entérico.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A droga 'desliga' o relógio biológico intestinal (plexo de Auerbach), parando os movimentos peristálticos."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1089,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente idoso apresenta dor abdominal súbita de forte intensidade, desproporcional ao que o médico encontra no exame físico (barriga parece normal ao apalpar). O paciente tem histórico de arritmia cardíaca. Qual o diagnóstico provável?",
+    "opcoes": [
+      "A) Gases por comer feijão de má qualidade.",
+      "B) Isquemia Mesentérica Aguda (Infarto do Intestino), geralmente causada por um coágulo que entope a Artéria Mesentérica Superior.",
+      "C) Crise de ansiedade leve.",
+      "D) Infecção de pele na parede abdominal."
+    ],
+    "explicacao_geral": "Emergências vasculares abdominais.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A dor é terrível porque a alça está morrendo sem oxigênio, mas como a inflamação ainda não atingiu o peritônio de fora, o exame físico parece 'calmo' inicialmente."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1090,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Cenário: Paciente portador de cirrose alcoólica chega vomitando sangue vivo em grande quantidade (hematemese). Qual a base vascular dessa complicação?",
+    "opcoes": [
+      "A) Rompimento de capilares da ponta da língua.",
+      "B) Úlcera no pé que subiu para a boca.",
+      "C) Sangramento das veias pulmonares no pulmão.",
+      "D) Ruptura de Varizes Esofágicas secundárias à Hipertensão Portal (congestão do sistema venoso porta)."
+    ],
+    "explicacao_geral": "Impacto clínico da circulação colateral.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O sangue 'represado' no sistema porta busca as veias do esôfago para tentar voltar ao coração, levando à sua dilatação perigosa."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1091,
+    "categoria": "inedita",
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Em estados de choque ou baixa vascularização prolongada, ocorre a **Translocação Bacteriana**. Em termos de histologia e vasos, o que isso significa?",
+    "opcoes": [
+      "A) Que a falha no suprimento das artérias mesentéricas destrói a barreira mucosa, permitindo que bactérias e toxinas do intestino entrem diretamente nos vasos sanguíneos.",
+      "B) Que as bactérias se transformam em vírus benéficos.",
+      "C) Que o sangue do intestino vira muco para proteger o fígado.",
+      "D) Que o oxigênio mata as bactérias boas."
+    ],
+    "explicacao_geral": "Fisiopatologia da barreira intestinal e sepse.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem sangue (**Isquemia**), as células do intestino morrem e as 'portas' se abrem, levando à infecção generalizada (sepse)."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1092,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Qual definição melhor descreve a excitabilidade do miocárdio?",
+    "opcoes": [
+      "A) Capacidade de gerar impulso espontâneo sem estímulo externo.",
+      "B) Capacidade de transmitir o estímulo elétrico entre células adjacentes.",
+      "C) Capacidade de responder a estímulo elétrico adequado com despolarização.",
+      "D) Capacidade de desenvolver força de contração após influxo de cálcio."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Excitabilidade é a propriedade de responder a estímulo; automatismo é geração espontânea; contratilidade é força mecânica.",
+    "explicacoes_opcoes": {
+      "A": "Descreve automatismo, mais marcado no tecido marcapasso, não a definição geral de excitabilidade.",
+      "B": "Corresponde à condutibilidade ou propagação do impulso.",
+      "C": "Correto: excitabilidade é responder a estímulo com potencial de ação.",
+      "D": "Refere-se à contratilidade e ao acoplamento excitação-contração."
+    },
+    "explicacao": "Resumo: Excitabilidade é resposta elétrica a estímulo adequado.\nA) INCORRETA. É automatismo.\nB) INCORRETA. É condutibilidade.\nC) CORRETA.\nD) INCORRETA. É contratilidade.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1093,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Mulher de 62 anos com insuficiência cardíaca. Ao comparar miocárdio com músculo esquelético, qual distinção é mais importante clinicamente?",
+    "opcoes": [
+      "A) O miocárdio apresenta refratariedade prolongada que impede tetania sustentada.",
+      "B) O músculo esquelético carece de discos intercalares.",
+      "C) O miocárdio não depende de cálcio para contrair.",
+      "D) O músculo esquelético não pode aumentar a força com estímulo simpático."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A refratariedade longa do ventrículo evita somação de estímulos e tetania, diferentemente do esquelético.",
+    "explicacoes_opcoes": {
+      "A": "Correto: tetania cardíaca sustentada não ocorre como no esquelético.",
+      "B": "Verdadeiro que o esquelético não tem discos intercalares, mas o contraste central pedido é refratariedade e tetania.",
+      "C": "Incorreto: o cálcio é central na contratilidade cardíaca.",
+      "D": "Incorreto: o esquelético modula força por recrutamento e frequência."
+    },
+    "explicacao": "Resumo: Refratariedade protege o coração de contração contínua tipo tetania.\nA) CORRETA.\nB) INCORRETA. Verdade parcial, mas não o contraste fisiológico central pedido.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1094,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Em qual tecido o automatismo é fisiologicamente mais evidente?",
+    "opcoes": [
+      "A) Miocárdio ventricular livre em repouso.",
+      "B) Sistema de condução especializado (tecido marcapasso).",
+      "C) Purkinje exclusivamente após bloqueio AV completo.",
+      "D) Endótelio valvar das cúspides."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Automatismo não domina todo cardiomiócito; é mais marcado no tecido marcapasso.",
+    "explicacoes_opcoes": {
+      "A": "O ventrículo trabalhador não é o principal gerador basal do ritmo.",
+      "B": "Correto.",
+      "C": "Fibras de Purkinje têm automatismo, mas a ideia geral é o sistema marcapasso, não só um cenário patológico.",
+      "D": "Endótelio valvar não é o foco de automatismo."
+    },
+    "explicacao": "Resumo: Automatismo predomina no sistema de condução especializado.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1095,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "A contratilidade miocárdica depende criticamente de qual íon no citoplasma?",
+    "opcoes": [
+      "A) Sódio, pela entrada massiva na plataforma.",
+      "B) Potássio, como principal catião do potencial de ação.",
+      "C) Cloro, pelo acoplamento direto aos filamentos contráteis.",
+      "D) Cálcio, ligado ao acoplamento excitação-contração."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O cálcio intracelular modula a ativação de filamentos e a força contrátil.",
+    "explicacoes_opcoes": {
+      "A": "Na despolarização o Na⁺ entra, mas a força contrátil depende fortemente de Ca²⁺.",
+      "B": "K⁺ participa do repouso e da repolarização, não como principal determinante da força.",
+      "C": "Sem papel central do cloro como principal na contratilidade.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Cálcio é a chave da contratilidade.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1096,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Qual propriedade propaga o impulso de forma ordenada pelo miocárdio?",
+    "opcoes": [
+      "A) Contratilidade.",
+      "B) Refratariedade.",
+      "C) Condutibilidade.",
+      "D) Automatismo."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Condutibilidade é a propagação coordenada do potencial de ação.",
+    "explicacoes_opcoes": {
+      "A": "Contratilidade é força mecânica.",
+      "B": "Refratariedade limita repetição de disparos, não define o sentido da propagação ordenada.",
+      "C": "Correto.",
+      "D": "Automatismo é geração de ritmo."
+    },
+    "explicacao": "Resumo: Propagação ordenada corresponde à condutibilidade.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1097,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Homem de 55 anos em uso de beta-agonista inalatório por asma (efeito sistêmico residual). Qual efeito cardiovascular esperado se houver aumento relevante do estímulo simpático cardíaco?",
+    "opcoes": [
+      "A) Redução da frequência cardíaca por predominância vagal.",
+      "B) Queda da contratilidade por bloqueio de canais de cálcio.",
+      "C) Aumento isolado da refratariedade absoluta sem cronotropismo.",
+      "D) Aumento da frequência e da força de contração (cronotropismo e inotropismo positivos)."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "O simpático aumenta cronotropismo e inotropismo, melhorando desempenho hemodinâmico quando apropriado.",
+    "explicacoes_opcoes": {
+      "A": "O vago reduz FC; o simpático tende a aumentar.",
+      "B": "Não descreve o efeito simpático típico sobre contratilidade.",
+      "C": "Refratariedade não é o efeito principal citado para aumento simpático.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Simpático aumenta FC e contratilidade.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1098,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Qual contraste está correto entre excitabilidade e contratilidade?",
+    "opcoes": [
+      "A) Excitabilidade refere-se à resposta elétrica; contratilidade à força mecânica gerada.",
+      "B) São sinônimos no miocárdio.",
+      "C) Contratilidade ocorre sem necessidade de despolarização.",
+      "D) Excitabilidade mede apenas o débito cardíaco."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Uma propriedade é elétrica (excitabilidade), outra é mecânica (contratilidade).",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Incorreto: conceitos distintos.",
+      "C": "A contração segue acoplamento excitação-contração após despolarização.",
+      "D": "Débito cardíaco é FC × volume sistólico, não definição de excitabilidade."
+    },
+    "explicacao": "Resumo: Eletricidade versus força contrátil.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1099,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Paciente com taquicardia sinusal e enchimento diastólico prejudicado. Qual princípio explica por que aumentar só a frequência nem sempre aumenta o débito cardíaco?",
+    "opcoes": [
+      "A) A contratilidade torna-se independente de cálcio.",
+      "B) Intervalos diastólicos mais curtos podem reduzir o enchimento ventricular e o volume sistólico.",
+      "C) A refratariedade desaparece em taquicardia.",
+      "D) O sistema marcapasso deixa de conduzir impulsos."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "FC elevada pode reduzir o tempo de enchimento e o volume ejetado por batimento.",
+    "explicacoes_opcoes": {
+      "A": "A contratilidade continua dependente de mecanismos iônicos, incluindo cálcio.",
+      "B": "Correto: menos diástole pode reduzir pré-carga efetiva e o volume sistólico.",
+      "C": "A refratariedade não desaparece.",
+      "D": "A condução pode alterar-se, mas essa não é a explicação central do enchimento."
+    },
+    "explicacao": "Resumo: Débito depende de FC e volume sistólico; o volume pode cair se a diástole encolhe demais.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 1100,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "enunciado": "Cronotropismo positivo altera principalmente qual parâmetro?",
+    "opcoes": [
+      "A) Resistência vascular sistêmica.",
+      "B) Pré-carga ventricular isolada.",
+      "C) Frequência cardíaca.",
+      "D) Permeabilidade capilar pulmonar."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cronotropismo refere-se à frequência; inotropismo à força.",
+    "explicacoes_opcoes": {
+      "A": "Resistência vascular não é cronotropismo.",
+      "B": "Pré-carga não define cronotropismo.",
+      "C": "Correto.",
+      "D": "Sem relação direta com cronotropismo."
+    },
+    "explicacao": "Resumo: Cronotropismo refere-se à frequência cardíaca.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a2"
+  }
+]

@@ -1,125 +1,92 @@
-# MAD2 — Aula 12: Infecções por Arbovírus
+# MAD2 — Aula 12: Infecções por Arbovírus (Dengue, Zika e Chikungunya)
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+As arboviroses (vírus transmitidos por insetos) são um desafio constante para a saúde pública brasileira. Na prova, o segredo é saber diferenciar a "assinatura" de cada uma: a gravidade da **Dengue**, a dor articular da **Chikungunya** e o risco gestacional da **Zika**.
+
+Na prática, o médico deve estar atento aos **sinais de alarme da dengue**, pois o paciente pode piorar subitamente no momento em que a febre vai embora, exigindo **hidratação imediata** para evitar o choque.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Arboviroses são tema obrigatório porque mostram como infectologia, imunologia, epidemiologia e clínica ambulatorial se misturam em problemas extremamente prevalentes no Brasil. Dengue, Zika e Chikungunya aparecem juntas porque costumam circular no mesmo território, compartilhar vetor e gerar confusão diagnóstica inicial, mas não são a mesma doença. O que a prova quer saber não é se você decorou febre e exantema. Ela quer saber se você consegue diferenciar padrão clínico, complicação central e impacto em saúde pública.
-
-Na vida real, esse assunto é importante porque o primeiro atendimento costuma ocorrer antes de qualquer confirmação laboratorial sofisticada. O médico precisa raciocinar com clínica, contexto epidemiológico e sinais de alarme. Na Uninove, a cobrança costuma seguir exatamente essa linha: reconhecer a síndrome provável, distinguir o que aponta para dengue, Zika ou Chikungunya, e entender quando a gravidade deixa de ser apenas sintomática e passa a exigir vigilância maior.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A12-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diferenciação clínica.
+- **O que mostrar:** O "Painel das Três": Uma tabela comparativa visual. A **Dengue** com foco no sangue (queda de plaquetas); a **Chikungunya** com foco nas articulações (inflamação e dor); e a **Zika** com foco no exantema (manchas vermelhas) e na gestação (bebê).
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Diferenciais clínicos entre Dengue, Zika e Chikungunya.
 
+## 1. Dengue: A Mais Perigosa
 
-
+A dengue é marcada por febre alta e dor no corpo, mas o perigo real é a **Síndrome do Extravasamento Plasmático**.
+- **Sinais de Alarme:** Ocorrem quando a febre está baixando (**Fase Crítica**). São eles: **dor abdominal intensa**, **vômitos persistentes**, **tontura ao levantar**, **sangramento de mucosas** e cansaço extremo.
+- **Exames:** O hemograma mostra o sangue "ficando grosso" (**Aumento do Hematócrito**) e as **Plaquetas caindo**.
+- **Manejo:** **Hidratação precoce** e vigorosa é a base do tratamento. **NUNCA** usar anti-inflamatórios ou AAS, pelo risco de sangramento.
 
 ---
 
-## O que une as arboviroses e por que isso confunde tanto
+## 2. Chikungunya: A Inimiga das Articulações
 
-Arbovírus são vírus transmitidos por artrópodes, e no contexto brasileiro a imagem clássica é o mosquito como vetor. Isso já cria a primeira semelhança importante entre dengue, Zika e Chikungunya: todas podem surgir em surtos urbanos, com múltiplos pacientes apresentando febre, rash, mialgia e mal-estar num mesmo período sazonal. O erro do estudante é tentar fechar diagnóstico cedo demais só porque encontrou uma pista compatível.
+O vírus Chikungunya causa uma inflamação articular que pode ser devastadora.
+- **Perfil Clínico:** Febre alta súbita e uma **Artralgia Incapacitante** (dor nas juntas tão forte que o paciente não consegue andar ou pentear o cabelo). 
+- **Cronificação:** Diferente da dengue, a **Chikungunya** pode deixar o paciente com dor nas articulações por meses ou **Anos** após a infecção inicial, exigindo fisioterapia e remédios para dor crônica.
 
-A melhor forma de pensar é lembrar que o início pode ser parecido, mas o peso relativo de alguns sintomas muda. Em uma doença, o risco hemorrágico e a fuga plasmática ganham destaque; em outra, a dor articular intensa chama mais atenção; em outra, o impacto sobre gestação e malformação congênita assume grande relevância. Esse tipo de raciocínio é muito mais forte do que uma lista seca de sinais.
+---
 
-> **Dica de Prova:** quando a questão coloca várias arboviroses como alternativas, a resposta costuma depender do sintoma que domina o quadro, não do sintoma que apenas aparece.
+## 3. Zika: O Risco para o Bebê
 
-> **Pegadinha:** achar que rash resolve o diagnóstico. Exantema pode ocorrer em mais de uma arbovirose; o que diferencia é o conjunto clínico e epidemiológico.
+A Zika costuma ser a mais "leve" para o paciente comum, mas a mais trágica epidemiologicamente.
+- **Sinais Clínicos:** Febre baixa (ou ausente), **conjuntivite sem pus** (olhos vermelhos) e muito **Prurido** (coceira) com manchas vermelhas que aparecem logo no primeiro dia.
+- **A Grande Complicação:** O vírus Zika consegue atravessar a placenta e atacar o cérebro do feto, causando **Microcefalia** e outras malformações neurológicas graves. Também está associado à **Síndrome de Guillain-Barré**.
 
-## Dengue: a arbovirose em que gravidade é palavra obrigatória
+---
 
-Dengue ocupa posição especial porque a prova quase sempre explora a transição entre quadro febril inicial e formas mais graves. O estudante precisa entender que o problema não é apenas a febre alta com dor no corpo. O que torna dengue decisiva é o risco de extravasamento plasmático, sangramento, choque e piora rápida em fase crítica.
+## 4. Diferenças Cruciais (O que a Uninove cobra)
 
-Isso significa que sinais de alarme têm muito mais valor do que o desconforto inespecífico do início. Dor abdominal intensa, vômitos persistentes, sangramento, letargia, hipotensão ou piora clínica após defervescência não podem ser lidos como detalhe. Em dengue, o momento em que a febre cai não é necessariamente o momento em que o paciente melhora. Essa inversão derruba muita gente em prova.
+| Doença | Febre | Dor Articular | Exantema (Manchas) | Sinais de Alarme |
+|---|---|---|---|---|
+| **Dengue** | Alta (39-40°C) | Moderada | 30-50% dos casos | **Muito Comuns** |
+| **Chikungunya** | Alta e súbita | **Intensíssima** | 50-80% dos casos | Raros |
+| **Zika** | Baixa ou s/ febre | Leve a Moderada | **Muito frequente / Coça** | Ausentes |
 
-Outro ponto clássico é a associação com trombocitopenia e hemoconcentração no contexto adequado. A banca gosta de testar se o aluno sabe que o risco maior não se resume à contagem de plaquetas isolada, mas ao conjunto clínico de permeabilidade vascular aumentada e repercussão hemodinâmica.
-
-## Chikungunya: quando a articulação rouba a cena
-
-Se na dengue a preocupação maior é gravidade hemodinâmica, na Chikungunya o quadro articular costuma dominar. Dor intensa, artralgia importante e dificuldade funcional marcam muito a apresentação. Esse é um daqueles temas em que o nome do agente deve imediatamente puxar a imagem do paciente que sofre com articulações dolorosas, por vezes persistentes.
-
-A relevância clínica está justamente no fato de a queixa não se limitar à fase aguda. Algumas pessoas mantêm artralgia prolongada, limitação funcional e impacto importante na qualidade de vida. Isso diferencia Chikungunya de leituras apressadas que tratam toda arbovirose como febre autolimitada com rash.
-
-> **Dica de Prova:** febre com dor articular muito intensa, desproporcional ao restante do quadro, favorece Chikungunya.
-
-## Zika: quadro geralmente mais brando no adulto, mas com enorme peso gestacional
-
-Zika costuma confundir porque o adulto muitas vezes apresenta doença mais branda do que na dengue, com exantema, prurido, febre mais baixa e quadro sistêmico menos tóxico. Se o aluno avaliar apenas intensidade da doença no indivíduo, pode subestimar o tema. O problema é que Zika ganhou enorme relevância pela associação com complicações neurológicas e, principalmente, pelo impacto fetal quando há infecção na gestação.
-
-É por isso que a prova gosta tanto de colocar Zika em contexto obstétrico. O raciocínio correto não é medir apenas o quanto a mãe está mal, mas o que a infecção representa para o desenvolvimento fetal. Essa lógica lembra a rubéola: quadro relativamente leve em um corpo pode significar risco muito maior para outro.
-
-| Arbovirose | Pista dominante do quadro | Complicação/impacto mais lembrado | Leitura de prova mais útil |
-|------------|---------------------------|-----------------------------------|----------------------------|
-| Dengue | Febre alta, mialgia, sinais de alarme | Extravasamento plasmático, choque, sangramento | Pensar em gravidade e fase crítica |
-| Chikungunya | Artralgia intensa e incapacitante | Dor articular persistente | A articulação domina o raciocínio |
-| Zika | Exantema, prurido, quadro mais brando | Risco gestacional e neurológico | Contexto obstétrico muda tudo |
-
-## Contexto epidemiológico: sem ele, a questão fica pela metade
-
-As arboviroses não são lidas no vazio. Circulação regional, sazonalidade, surto local e contato com áreas endêmicas aumentam ou reduzem a probabilidade diagnóstica. Em prova, isso costuma aparecer em uma frase aparentemente secundária, como menção a bairro com aumento de casos, familiar doente ou período epidêmico. Essa frase raramente está ali por acaso.
-
-O estudante maduro aprende a juntar três camadas: o vetor e o território, o sintoma dominante e a complicação que mais preocupa. Com isso, não fica preso a uma tentativa de diagnóstico por palavra isolada. A epidemiologia organiza a clínica, especialmente em doenças que compartilham o mesmo vetor.
-
-## Como a questão costuma ser montada
-
-Há três formatos muito comuns. O primeiro é o caso com sintomas sobrepostos e um detalhe que decide entre dengue, Zika e Chikungunya. O segundo é a questão de gravidade em dengue, cobrando sinais de alarme ou fase crítica. O terceiro é a associação de Zika com gestação ou de Chikungunya com artralgia persistente.
-
-Para responder bem, vale pensar assim: qual sintoma domina o quadro, qual complicação tem maior peso e qual contexto epidemiológico reforça a hipótese? Esse roteiro é simples, mas evita boa parte dos erros, especialmente quando a banca tenta induzir por sintomas genéricos compartilhados.
-
-> **Pegadinha:** chamar toda febre exantemática em área endêmica de dengue. Em arbovirose, o sintoma central e a complicação esperada orientam muito mais do que o rótulo automático.
+---
 
 ## Ponte com a Clínica
 
-No atendimento real, arbovirose exige triagem inteligente. O profissional precisa saber quem pode ir bem com conduta sintomática e acompanhamento e quem precisa de vigilância maior por risco de instabilidade, dor incapacitante prolongada ou repercussão gestacional. É exatamente por isso que essa aula vai além da virologia: ela ensina priorização clínica em cenário de alta prevalência.
+No pronto-socorro, o maior erro em um caso de dengue é dar alta para o paciente que diz: "Doutor, a febre passou hoje, estou melhor". É justamente no dia em que a **Febre Desfalece** (entre o 3º e 6º dia) que o paciente pode chocar. O médico deve orientar o paciente a retornar imediatamente se surgir dor abdominal ou tontura. A hidratação no "Grupo B" (pacientes com sintomas clássicos mas sem sinais de alarme) deve ser feita com **Soro Caseiro e Líquidos** em volumes generosos (cerca de 60-80ml/kg/dia).
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Arboviroses:** compartilham vetor, mas não compartilham o mesmo risco principal.
-- **Dengue:** exige atenção aos sinais de alarme e à fase crítica.
-- **Defervescência na dengue:** não significa automaticamente melhora clínica.
-- **Chikungunya:** é muito marcada por artralgia intensa e incapacitante.
-- **Dor articular persistente:** é pista importante para Chikungunya.
-- **Zika:** costuma ser mais branda no adulto, mas tem peso gestacional enorme.
-- **Contexto epidemiológico:** é parte do diagnóstico, não enfeite do enunciado.
-- **Sintoma dominante:** costuma ser a chave para diferenciar as arboviroses.
+- **Sinais de Alarme na Dengue**: Indicam necessidade de internação imediata; dor abdominal é o principal.
+- **Artralgia (Chikungunya)**: Dor articular intensa e simétrica, com risco de cronificação.
+- **Prurido (Zika)**: Coceira intensa e manchas precoces; febre baixa.
+- **Microcefalia**: Principal preocupação na infecção por Zika em gestantes.
+- **AAS e AINEs**: Proibidos em todas essas arboviroses pelo risco de plaquetopenia e sangramento (Dengue).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Mesmo vetor:** não significa mesma doença.
-- **Dengue:** pensa em gravidade e extravasamento.
-- **Queda da febre:** pode anteceder piora na dengue.
-- **Chikungunya:** pensa em artralgia intensa.
-- **Zika:** pensa em exantema e gestação.
-- **Contexto local:** pesa muito no diagnóstico.
-- **Sinal de alarme:** muda conduta na dengue.
-- **Dor persistente:** lembra Chikungunya.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Arboviroses, diferencie o sintoma principal. 
+**Dengue** = Febre + Dor atrás dos olhos + Risco de Sangramento. **Chikungunya** = Dor articular insuportável. **Zika** = Coceira + Olho vermelho + Manchas rápidas. Se o paciente tem a febre caindo e a dor na barriga subindo, o diagnóstico é **Dengue em Fase Crítica**.
+
+A Uninove adora o manejo da **Dengue**. Lembre-se dos grupos (A, B, C, D). Grupo C e D precisam de hidratação venosa urgente! Outro ponto forte: o exame para diagnóstico na primeira fase (até o 5º dia) é o **NS1** (antígeno viral); após o 6º dia, usamos a sorologia (IgM/IgG). Por fim, não esqueça: Zika em gestante exige acompanhamento ultrassonográfico rigoroso do bebê.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Dengue | Chikungunya | Dengue pesa por sinais de alarme; Chikungunya pela artralgia intensa |
-| Dengue | Zika | Zika costuma ser mais branda no adulto; dengue preocupa mais por gravidade hemodinâmica |
-| Zika | Rubéola | Ambas têm peso gestacional, mas Zika entra no contexto de arbovirose e vetor |
-| Sintoma genérico | Sintoma dominante | Em arbovirose, o sintoma que lidera o quadro geralmente decide a hipótese |
+| **Sinais de Alarme** | **Sinais de Choque** | Dor abdominal/Vômito vs **Hipotensão/Extremidades frias** |
+| **Fase Febril** | **Fase Crítica** | Primeiros 3 dias vs **Quando a febre cai (Extravasamento)** |
+| **NS1** | **IgM** | Exame de fase **Inicial** (vírus) vs Exame de fase **Tardia** (anticorpos) |
+| **Dengue** | **Chikungunya** | Preocupa o **Sangue/Pressão** vs Preocupa a **Articulação** |
+| **Zika** | **Rubéola** | Tem **Vetor (Mosquito)** vs Transmissão respiratória |
 
 ### Frase-âncora para não esquecer
-> "Nas arboviroses, o mosquito aproxima os diagnósticos; a complicação central é que separa cada um."
+
+> "Na dengue, se a febre cai e a barriga dói, o sangue vaza e o choque destrói. Chikungunya dobra o corpo em dor, e a Zika rouba do bebê o amanhã. Hidrate a dengue, trate a dor na junta e proteja a barriga da mamãe."

@@ -9,7 +9,7 @@
 
 A hematose, ou troca gasosa, é o objetivo final de todo o sistema cardiorrespiratório. Não basta o ar chegar ao alvéolo e o sangue chegar ao capilar; eles precisam estar em sintonia. Quando essa harmonia é quebrada, surgem as causas de hipoxemia que desafiam o médico na UTI e na emergência.
 
-Na prática médica, entender a **Difusão** e a **Relação V/Q** permite diagnosticar rapidamente se um paciente está com uma pneumonia (Shunt), um tromboembolismo (Espaço Morto) ou um edema (Barreira espessa). Esta aula detalha as leis físicas que regem a passagem do oxigênio para o sangue e como a hemoglobina transporta esse combustível até a célula.
+Na prática médica, entender a **Difusão** e a **Relação V/Q** permite diagnosticar rapidamente se um paciente está com uma pneumonia (**Shunt**), um tromboembolismo (**Espaço Morto**) ou um edema (Barreira espessa). Esta aula detalha as leis físicas que regem a passagem do oxigênio para o sangue e como a hemoglobina transporta esse combustível até a célula.
 
 ---
 
@@ -23,7 +23,7 @@ O CO2, apesar de ter um gradiente de pressão menor, atravessa a membrana 20 vez
 
 ## Relação Ventilação/Perfusão (V/Q) e Zonas de West
 
-O pulmão não é ventilado nem perfundido de forma homogênea. Devido à gravidade, tanto o ar quanto o sangue preferem a **Base** do pulmão. No entanto, o sangue é muito mais pesado que o ar, então o aumento da perfusão nas bases é desproporcional à ventilação. Isso cria as **Zonas de West**: no ápice, temos excesso de ar para pouco sangue (V/Q alto); na base, temos excesso de sangue para o ar disponível (V/Q baixo).
+O pulmão não é ventilado nem perfundido de forma homogênea. Devido à gravidade, tanto o ar quanto o sangue preferem a **Base** do pulmão. No entanto, o sangue é muito mais pesado que o ar, então o aumento da perfusão nas bases é desproporcional à ventilação. Isso cria as **Zonas de West**: no **ápice**, temos excesso de ar para pouco sangue (V/Q alto); na **base**, temos excesso de sangue para o ar disponível (V/Q baixo).
 
 O equilíbrio ideal (V/Q próximo a 1) ocorre na região média do pulmão. Entender essa distribuição é fundamental para posicionar pacientes: um paciente com pneumonia unilateral, por exemplo, deve ser deitado com o "pulmão bom para baixo" para que a gravidade leve o sangue para onde o ar realmente está chegando, otimizando a troca gasosa.
 
@@ -31,9 +31,9 @@ O equilíbrio ideal (V/Q próximo a 1) ocorre na região média do pulmão. Ente
 
 ## Shunt vs Espaço Morto: Os Extremos Fisiopatológicos
 
-Quando o acoplamento V/Q falha drasticamente, caímos em dois extremos. O **Shunt** ocorre quando o sangue passa por um alvéolo que não está ventilado (ex: pneumonia, atelectasia). É o "sangue que não vê o ar". A hipoxemia no shunt é perigosa porque responde mal ao oxigênio suplementar, já que o ar extra não chega ao sangue que está passando pelo local doente.
+Quando o acoplamento V/Q falha drasticamente, caímos em dois extremos. O **Shunt** ocorre quando o sangue passa por um alvéolo que não está ventilado (ex: **pneumonia**, **atelectasia**). É o "sangue que não vê o ar". A **hipoxemia** no shunt é perigosa porque responde mal ao oxigênio suplementar, já que o ar extra não chega ao sangue que está passando pelo local doente.
 
-O oposto é o **Espaço Morto**, onde temos ventilação, mas não há sangue chegando (ex: Tromboembolismo Pulmonar - TEP). É o "ar que não vê o sangue". Aqui, o trabalho respiratório aumenta porque o paciente está gastando energia para ventilar uma área que não contribui para a hematose. Em suma: o shunt desperdiça sangue, e o espaço morto desperdiça ar.
+O oposto é o **Espaço Morto**, onde temos ventilação, mas não há sangue chegando (ex: **Tromboembolismo Pulmonar - TEP**). É o "ar que não vê o sangue". Aqui, o trabalho respiratório aumenta porque o paciente está gastando energia para ventilar uma área que não contribui para a hematose. Em suma: o shunt desperdiça sangue, e o espaço morto desperdiça ar.
 
 ### Comparativo: Desequilíbrios V/Q
 
@@ -55,9 +55,9 @@ Certos fatores podem "empurrar" essa curva para a **Direita**, diminuindo a afin
 
 | Desvio para Direita (Solta O2) | Desvio para Esquerda (Prende O2) |
 |---------------------------------|-----------------------------------|
-| **Acidose (↓ pH)** | Alcalose (↑ pH) |
-| **Febre (↑ Temp)** | Hipotermia (↓ Temp) |
-| **Hipercapnia (↑ CO2)** | Hipocapnia (↓ CO2) |
+| **Acidose (↓ pH)** | **Alcalose (↑ pH)** |
+| **Febre (↑ Temp)** | **Hipotermia (↓ Temp)** |
+| **Hipercapnia (↑ CO2)** | **Hipocapnia (↓ CO2)** |
 | **↑ 2,3-DPG** | Hb Fetal |
 
 ---

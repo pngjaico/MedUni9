@@ -2,7 +2,7 @@
 
 A imunidade inata é a primeira linha de defesa, agindo de forma imediata e inespecífica por meio do reconhecimento de padrões moleculares (**PAMPs**). Na prova, os temas centrais são os **Receptores Toll-like (TLRs)**, o papel do **Neutrófilo** e o sistema **Complemento**.
 
-Na prática, a falha desse sistema resulta em infecções graves e rápidas (sepse), sendo a base da resposta inflamatória aguda.
+Na prática, a falha desse sistema resulta em infecções graves e rápidas (**sepse**), sendo a base da resposta inflamatória aguda.
 
 ---
 
@@ -26,7 +26,7 @@ O corpo utiliza barreiras físicas (pele, muco) e químicas (pH gástrico, lisoz
 | **TLR3** | Endossomo | **RNA viral**. |
 | **NOD1/2** | Citoplasma | Fragmentos bacterianos intracelulares. |
 
-> **Dica de Prova:** O LPS ativando o **TLR4** é o gatilho clássico para a liberação massiva de TNF-α, o que leva ao **Choque Séptico**.
+> **Dica de Prova:** O **LPS** ativando o **TLR4** é o gatilho clássico para a liberação massiva de **TNF-α**, o que leva ao **Choque Séptico**.
 
 ---
 
@@ -39,7 +39,7 @@ O corpo utiliza barreiras físicas (pele, muco) e químicas (pH gástrico, lisoz
 
 ### Macrófagos: Os Vigilantes
 - Derivam dos monócitos circundantes.
-- Atuam na fagocitose e como **APCs** (apresentadoras de antígeno via MHC II).
+- Atuam na fagocitose e como **APCs** (apresentadoras de antígeno via **MHC II**).
 - Produzem as citocinas da "trindade inflamatória": **IL-1, IL-6 e TNF-α**.
 
 ### Células NK (Natural Killer)
@@ -51,13 +51,13 @@ O corpo utiliza barreiras físicas (pele, muco) e químicas (pH gástrico, lisoz
 
 O complemento auxilia na lise e marcação de patógenos:
 1. **Opsonização (C3b):** Marca a bactéria para ser fagocitada.
-2. **Quimiotaxia (C3a/C5a):** Atrai neutrófilos e provoca inflamação (anafilatoxinas).
-3. **Lise (C5b-C9/MAC):** Perfura a membrana e causa lise osmótica.
+2. **Quimiotaxia (C3a/C5a):** Atrai neutrófilos e provoca inflamação (**anafilatoxinas**).
+3. **Lise (C5b-C9/MAC):** Perfura a membrana e causa **lise osmótica**.
 
-### Proteínas de Fase Aguda (Gatilho: IL-6)
+### Proteínas de Fase Aguda (Gatilho: **IL-6**)
 - **PCR (Proteína C Reativa):** Marcador clínico de inflamação.
-- **Fibrinogênio:** Aumenta a velocidade de sedimentação (VHS).
-- **Ferritina:** Sequestra o ferro para "matar a bactéria de fome".
+- **Fibrinogênio:** Aumenta a velocidade de sedimentação (**VHS**).
+- **Ferritina:** Sequestra o **ferro** para "matar a bactéria de fome".
 
 ---
 

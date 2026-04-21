@@ -2,7 +2,7 @@
 
 A prática de semiologia renal e reprodutora é o momento de aplicar o conhecimento com ética e segurança. Na prova (OSCE/OSPE), os temas centrais são a **Comunicação Clínica**, a obtenção do **Consentimento Informado** e a execução técnica das manobras em ambiente de total **Privacidade**.
 
-Na prática, não adianta saber diagnosticar se você não sabe se apresentar. O examinador observa se você lavou as mãos, se explicou ao paciente o que ia fazer e se pediu permissão antes de realizar um exame íntimo. No mundo real, essa postura é o que constrói a confiança necessária para que o paciente revele sintomas sensíveis.
+Na prática, não adianta saber diagnosticar se você não sabe se apresentar. O examinador observa se você **lavou as mãos**, se explicou ao paciente o que ia fazer e se **pediu permissão** antes de realizar um exame íntimo. No mundo real, essa postura é o que constrói a confiança necessária para que o paciente revele sintomas sensíveis.
 
 ---
 
@@ -20,8 +20,8 @@ Na prática, não adianta saber diagnosticar se você não sabe se apresentar. O
 Em uma prova prática, siga rigorosamente estes passos:
 - **Identificação:** Confirme o nome do paciente e apresente sua função.
 - **Explicação:** Diga exatamente o que vai examinar (ex: "Vou avaliar seus rins e sua bexiga").
-- **Consentimento Explícito:** Pergunte "Eu posso realizar esse exame agora?".
-- **Privacidade:** Certifique-se de que a porta está fechada e use um lençol para cobrir as partes que não estão sendo examinadas no momento.
+- **Consentimento Explícito:** Pergunte "**Eu posso realizar esse exame agora?**".
+- **Privacidade:** Certifique-se de que a porta está fechada e use um **lençol** para cobrir as partes que não estão sendo examinadas no momento.
 
 ---
 
@@ -30,7 +30,7 @@ Em uma prova prática, siga rigorosamente estes passos:
 Para garantir a nota máxima, execute nesta ordem:
 1.  **Avisar o paciente** antes de qualquer toque.
 2.  Realizar a **Punho-Percussão Lombar (Giordano)** bilateralmente.
-3.  Comparar sempre o lado direito com o esquerdo.
+3.  Comparar sempre o **lado direito com o esquerdo**.
 4.  Perguntar ao paciente sobre a presença de dor durante a manobra.
 5.  Observar a **Expressão Facial** do paciente (muitas vezes ele sente dor mas não fala).
 
@@ -40,7 +40,7 @@ Para garantir a nota máxima, execute nesta ordem:
 
 - **Masculino:** Realizar a palpação testicular com delicadeza (usando luvas). Avaliar testículo, epidídimo e cordão. **Atenção:** Em prova, nunca use força excessiva.
 - **Feminino:** Explicar o uso do espéculo e do toque bimanual. A presença de uma **Chaperona** (acompanhante profissional) é altamente recomendada e deve ser citada na prova.
-- **Toque Retal:** Explicar a necessidade (ex: "Preciso avaliar sua próstata para entender seu problema de urina"). Narrar o passo a passo com suavidade.
+- **Toque Retal:** Explicar a necessidade (ex: "Preciso avaliar sua próstata para entender seu problema de urina"). **Narrar o passo a passo** com suavidade.
 
 ---
 

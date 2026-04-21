@@ -1,0 +1,1640 @@
+[
+  {
+    "id": 3502,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Os cílios e flagelos das células eucarióticas têm uma organização interna característica chamada Axonema. Qual o arranjo de microtúbulos e a proteína responsável pelo batimento?",
+    "opcoes": [
+      "A) 10+5; Actina.",
+      "B) 3+2; Miosina.",
+      "C) 9+0; Queratina.",
+      "D) 9+2 (nove pares periféricos e dois centrais); Dineína ciliar."
+    ],
+    "explicacao_geral": "O deslizamento dos microtúbulos causado pela dineína gera o movimento de chicote ou batimento.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Configuraçao inexistente.",
+      "B": "[INCORRETA] Miosina atua na actina (músculo).",
+      "C": "[INCORRETA] 9+0 é a estrutura do centríolo basal.",
+      "D": "[CORRETA] O **Axonema 9+2** e a **Dineína** são o motor dos cílios respiratórios e do flagelo espermático."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3505,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Os microfilamentos são os componentes mais finos do citoesqueleto. Qual proteína os compõe?",
+    "opcoes": [
+      "A) Actina.",
+      "B) Miosina.",
+      "C) Tubulina.",
+      "D) Elastina."
+    ],
+    "explicacao_geral": "Os filamentos de actina são polímeros de actina-G que formam hélices de actina-F.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Actina** é a proteína formadora dos **microfilamentos**.",
+      "B": "[INCORRETA] É uma proteína motora que interage com a actina.",
+      "C": "[INCORRETA] Forma os microtúbulos.",
+      "D": "[INCORRETA] Proteína de matriz extracelular."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3506,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual a principal função dos 'Filamentos Intermediários' na célula?",
+    "opcoes": [
+      "A) Produzir ATP.",
+      "B) Transportar vesículas como trilhos.",
+      "C) Oferecer resistência mecânica contra estresses de tração e sustentar a integridade dos tecidos.",
+      "D) Mover a célula por meio de flagelos."
+    ],
+    "explicacao_geral": "Diferente dos outros, eles são mais estáveis e semelhantes a cabos de aço.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Função energética (mitocôndria).",
+      "B": "[INCORRETA] Função dos microtúbulos.",
+      "C": "[CORRETA] Os **Filamentos Intermediários** (Ex: Queratina) dão a **resistência mecânica**.",
+      "D": "[INCORRETA] Função dos microtúbulos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3513,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A matriz extracelular (MEC) preenche o espaço entre as células. Qual proteína é o principal componente estrutural da MEC, conferindo resistência à tração?",
+    "opcoes": [
+      "A) Actina muscular.",
+      "B) Colágeno (especialmente do tipo I).",
+      "C) Hemoglobina.",
+      "D) Insulina."
+    ],
+    "explicacao_geral": "O colágeno é a proteína mais abundante do reino animal e forma a ossada dos tecidos conjuntivos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Proteína intracelular do citoesqueleto.",
+      "B": "[CORRETA] O **Colágeno** é o grande componente da **Matriz Extracelular**.",
+      "C": "[INCORRETA] Proteína transportadora de gases no sangue.",
+      "D": "[INCORRETA] Hormônio circulante."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3520,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual a principal diferença funcional entre Desmossomos e Hemidessomos?",
+    "opcoes": [
+      "A) Desmossomos ligam células ao oxigênio; Hemidessomos ao sangue.",
+      "B) Desmossomos conectam células adjacentes (lateralmente); Hemidessomos conectam a célula à lâmina basal (ancoragem basal).",
+      "C) Ambos fazem a mesma coisa, mudando apenas o nome conforme a célula.",
+      "D) Desmossomos são feitos de lipídios; Hemidessomos de açúcar."
+    ],
+    "explicacao_geral": "Os hemidessomos utilizam integrinas para ligar o citoesqueleto à matriz extracelular (lâmina basal).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não transportam gases.",
+      "B": "[CORRETA] **Desmo = Célula-Célula**; **Hemi = Célula-Matriz**.",
+      "C": "[INCORRETA] Têm proteínas e funções distintas.",
+      "D": "[INCORRETA] Ambos são complexos proteicos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3526,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Células produtoras de hormônios esteroides (como as glândulas adrenais e gônadas) apresentam qual organela muito mais desenvolvida que o normal?",
+    "opcoes": [
+      "A) Lisossomos.",
+      "B) Retículo Endoplasmático Rugoso.",
+      "C) Mitocôndrias pequenas.",
+      "D) Retículo Endoplasmático Liso (REL)."
+    ],
+    "explicacao_geral": "Hormônios esteroides são derivados do colesterol (lipídios), sintetizados no REL.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Focados em digestão celular.",
+      "B": "[INCORRETA] Focados em proteínas (Ex: Pâncreas para insulina).",
+      "C": "[INCORRETA] Mitocôndrias produzem energia necessária, mas não são o sítio de síntese lipídica steroidogênica.",
+      "D": "[CORRETA] O **REL** é hipertrofiado em células que fabricam **esteroides**."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3527,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A 'N-glicosilação' é a adição de oligossacarídeos a resíduos de asparagina das proteínas. Onde este processo se INICIA no sistema de endomembranas?",
+    "opcoes": [
+      "A) No lúmen do Retículo Endoplasmático Rugoso.",
+      "B) No exterior da célula.",
+      "C) Dentro dos lisossomos.",
+      "D) No núcleo."
+    ],
+    "explicacao_geral": "O refinamento da glicosilação ocorre no Golgi, mas a base é montada no RER.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **RER** inicia o processo de **glicosilação** proteica.",
+      "B": "[INCORRETA] Processo interno estruturante.",
+      "C": "[INCORRETA] Lisossomos removem açúcares por digestão, não os adicionam na síntese.",
+      "D": "[INCORRETA] No núcleo ocorre a transcrição e processamento de RNA."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3530,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual das funções abaixo NÃO é realizada pelo Complexo de Golgi?",
+    "opcoes": [
+      "A) Modificação de cadeias de oligossacarídeos (Glicosilação tardia).",
+      "B) Empacotamento de proteínas em vesículas.",
+      "C) Tradução de RNA mensageiro em cadeias de aminoácidos.",
+      "D) Síntese de polissacarídeos (como a pectina em plantas ou GAGs animais)."
+    ],
+    "explicacao_geral": "O Golgi processa e endereça as proteínas, mas não as fabrica a partir do RNA.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Função central do Golgi.",
+      "B": "[INCORRETA] Função central do Golgi.",
+      "C": "[CORRETA] A **tradução** ocorre nos **ribossomos** (RER ou citoplasma), não no Golgi.",
+      "D": "[INCORRETA] O Golgi participa da biosíntese de carboidratos complexos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3533,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O 'Tráfego Retrógrado' utiliza vesículas revestidas por COP I. Qual a sua importância biológica para a célula?",
+    "opcoes": [
+      "A) Recuperar proteínas residentes do RE que 'escaparam' para o Golgi e reciclar porções de membrana de volta ao RE.",
+      "B) Levar comida para fora da célula.",
+      "C) Digerir o núcleo durante a morte celular.",
+      "D) Não tem importância, é um erro celular."
+    ],
+    "explicacao_geral": "A reciclagem de membranas e proteínas é essencial para a homeostase do sistema de endomembranas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Transporte Retrógrado (COP I)** mantém as organelas com seus componentes corretos.",
+      "B": "[INCORRETA] Exocitose faz isso.",
+      "C": "[INCORRETA] Funçao de nucleases/caspases em outros compartimentos.",
+      "D": "[INCORRETA] É um processo regulado e dinâmico."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3537,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Os lisossomos são organelas digestivas da célula. Qual o ambiente interno necessário para que suas enzimas (hidrolases ácidas) funcionem corretamente?",
+    "opcoes": [
+      "A) Ambiente básico (pH superior a 8).",
+      "B) Ambiente ácido (pH em torno de 5,0).",
+      "C) Ambiente neutro (pH 7,0).",
+      "D) O pH não importa para os lisossomos."
+    ],
+    "explicacao_geral": "O pH ácido é mantido por uma bomba de prótons que consome ATP.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Hidrolases são inativas/desnaturadas em pH básico.",
+      "B": "[CORRETA] O **pH ácido** é o 'interruptor' de ativação das **enzimas lisossomais**.",
+      "C": "[INCORRETA] No citoplasma (pH ~7,2), se um lisossomo estourar, as enzimas perdem força, protegendo a célula.",
+      "D": "[INCORRETA] O pH é o fator regulador central."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3543,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual a relação entre o processo de 'Fagocitose' e os lisossomos?",
+    "opcoes": [
+      "A) O fagossomo (com a bactéria) funde-se ao lisossomo para formar o fagolisossomo, onde ocorrerá a digestão do material extrínseco.",
+      "B) Os lisossomos jogam suas enzimas para fora da célula para comer a bactéria.",
+      "C) Os lisossomos não participam da fagocitose.",
+      "D) O lisossomo se transforma em uma bactéria."
+    ],
+    "explicacao_geral": "O lisossomo fornece o maquinário enzimático necessário para a destruição de patógenos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A fusão com o **lisossomo** finaliza a **fagocitose** via digestão ácida.",
+      "B": "[INCORRETA] Enzimas lisossomais agem apenas no compartimento intracelular (vácuo digestivo).",
+      "C": "[INCORRETA] Eles são o componente 'executor' do processo.",
+      "D": "[INCORRETA] Absurdo biológico."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3545,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "As mitocôndrias são as 'usinas de força' da célula. Qual a principal molécula energética produzida por elas?",
+    "opcoes": [
+      "A) Glicose.",
+      "B) Hemoglobina.",
+      "C) DNA.",
+      "D) ATP (Adenosina Trifosfato)."
+    ],
+    "explicacao_geral": "O ATP é a moeda energética universal que as células utilizam para realizar trabalho.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É o substrato que será quebrado para produzir ATP.",
+      "B": "[INCORRETA] Proteína de transporte de gases.",
+      "C": "[INCORRETA] Molécula de informação genética.",
+      "D": "[CORRETA] A produção de **ATP** via respiração celular é a **função mitocondrial** primária."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3546,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A Teoria Endossimbiótica sugere que as mitocôndrias originaram-se de bactérias ancestrais. Qual evidência estrutural apoia fortemente essa teoria?",
+    "opcoes": [
+      "A) As mitocôndrias possuem núcleo próprio.",
+      "B) As mitocôndrias possuem DNA circular e ribossomos próprios (70S), semelhantes aos das bactérias.",
+      "C) As mitocôndrias são feitas de açúcar.",
+      "D) Elas respiram oxigênio."
+    ],
+    "explicacao_geral": "A autonomia de replicação e o maquinário genético bacteriano são as principais evidências.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não possuem núcleo (envelope nuclear).",
+      "B": "[CORRETA] O **DNA circular** e a capacidade de fusão/fissão remetem à **origem bacteriana**.",
+      "C": "[INCORRETA] Possuem membrana lipídica e rica em proteínas.",
+      "D": "[INCORRETA] Muitas bactérias não respiram oxigênio, então o uso de O2 sozinho não prova a endossimbiose (embora as mitocôndrias usem)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3553,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "O núcleo é a organela que abriga o material genético. Qual a estrutura que isola o núcleo do citoplasma, permitindo apenas a passagem controlada de substâncias?",
+    "opcoes": [
+      "A) Membrana única plasmática.",
+      "B) Envelope Nuclear (Carioteca), uma membrana dupla com poros nucleares.",
+      "C) Uma parede de açúcar.",
+      "D) Não existe isolamento."
+    ],
+    "explicacao_geral": "Os poros nucleares são complexos proteicos gigantes que regulam o tráfego de proteínas e RNAs.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A carioteca é dupla (face interna e externa).",
+      "B": "[CORRETA] O **Envelope Nuclear** garante a separação entre transcrição e tradução nos eucariotos.",
+      "C": "[INCORRETA] Papel mecânico de plantas.",
+      "D": "[INCORRETA] O isolamento é fundamental para a regulação gênica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3557,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Proteínas sintetizadas no citoplasma que precisam entrar no núcleo (como as polimerases) devem possuir uma sequência específica. Qual é o nome dessa 'passagem'?",
+    "opcoes": [
+      "A) Sinal de secreção de Golgi.",
+      "B) Sinal de Localização Nuclear (NLS) reconhecido pelas Importinas.",
+      "C) Endereço residencial celular.",
+      "D) Marca de exportação lisossomal."
+    ],
+    "explicacao_geral": "O transporte via poros nucleares exige reconhecimento facilitado por proteínas carreadoras.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Endereça ao RE.",
+      "B": "[CORRETA] O **NLS** é o código de barras para **entrada no núcleo**.",
+      "C": "[INCORRETA] Termo inexistente.",
+      "D": "[INCORRETA] Endereça ao lisossomo (M6P)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3561,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A replicação do DNA é descrita como 'Semiconservativa'. O que isso significa?",
+    "opcoes": [
+      "A) Que apenas metade do DNA de uma célula é copiado.",
+      "B) Que cada nova molécula de DNA dupla-hélice é formada por uma fita original (molde) e uma fita recém-sintetizada.",
+      "C) Que o DNA original é destruído após o processo.",
+      "D) Que o DNA é guardado em conserva no frio."
+    ],
+    "explicacao_geral": "Este mecanismo garante a fidelidade da transmissão da informação genética.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Todo o genoma deve ser duplicado antes da divisão celular.",
+      "B": "[CORRETA] O termo **Semiconservativa** refere-se à manutenção de uma **fita parental** em cada cópia.",
+      "C": "[INCORRETA] O molde original permanece íntegro.",
+      "D": "[INCORRETA] Jogo de palavras sem sentido biológico."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3562,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual enzima é responsável por 'desenrolar' a dupla hélice de DNA, quebrando as pontes de hidrogênio e abrindo a forquilha de replicação?",
+    "opcoes": [
+      "A) Helicase.",
+      "B) Ligase.",
+      "C) DNA Polimerase.",
+      "D) Amilase."
+    ],
+    "explicacao_geral": "A helicase utiliza energia (ATP) para separar as fitas complementares.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Helicase** abre o caminho para o maquinário de replicação.",
+      "B": "[INCORRETA] Une fragmentos de DNA.",
+      "C": "[INCORRETA] Adiciona novos nucleotídeos à fita em crescimento.",
+      "D": "[INCORRETA] Enzima digestiva de carboidratos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3569,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A transcrição é o processo de síntese de RNA a partir de um molde de DNA. Qual enzima é a principal responsável pela síntese do RNA mensageiro (RNAm) em células humanas?",
+    "opcoes": [
+      "A) DNA Polimerase.",
+      "B) RNA Polimerase II.",
+      "C) Helicase.",
+      "D) Ribossomo."
+    ],
+    "explicacao_geral": "Diferentes RNA polimerases (I, II, III) sintetizam diferentes tipos de RNA nos eucariotos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Sintetiza o DNA na replicação.",
+      "B": "[CORRETA] A **RNA Polimerase II** é especializada na **transcrição de genes** que codificam proteínas.",
+      "C": "[INCORRETA] Abre a dupla hélice.",
+      "D": "[INCORRETA] Realiza a tradução no citoplasma, não a transcrição no núcleo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3570,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual a principal diferença química entre o DNA e o RNA?",
+    "opcoes": [
+      "A) O DNA usa Uracila e o RNA usa Timina.",
+      "B) O DNA possui 3 fitas e o RNA possui 4.",
+      "C) O RNA possui o açúcar Ribose e a base nitrogenada Uracila (em vez de Timina); o DNA possui Desoxirribose.",
+      "D) O RNA nunca pode sair do núcleo."
+    ],
+    "explicacao_geral": "A presença do oxigênio na ribose torna o RNA mais instável que o DNA.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É o contrário.",
+      "B": "[INCORRETA] DNA é dupla-fita; RNA é geralmente fita-única.",
+      "C": "[CORRETA] A **Ribose e a Uracila** são as marcas químicas do **RNA**.",
+      "D": "[INCORRETA] O RNAm é exportado para o citoplasma para ser traduzido."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3577,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A tradução é o processo de leitura do RNAm para a construção de uma proteína. Onde este processo ocorre predominantemente na célula?",
+    "opcoes": [
+      "A) No núcleo.",
+      "B) No citoplasma (em ribossomos livres ou no RER).",
+      "C) No interior dos lisossomos.",
+      "D) Na membrana plasmática externa."
+    ],
+    "explicacao_geral": "Os ribossomos servem como o andaime para o emparelhamento entre códon e anticódon.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] No núcleo ocorre a transcrição e o processamento.",
+      "B": "[CORRETA] A **tradução** é um evento **citoplasmático**.",
+      "C": "[INCORRETA] Lisossomos destroem proteínas, não as sintetizam.",
+      "D": "[INCORRETA] Secreção termina lá, mas a síntese é interna."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3584,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual a finalidade de um 'Polirribossomo' (vários ribossomos lendo simultaneamente um único RNAm)?",
+    "opcoes": [
+      "A) Digerir o RNAm mais rápido.",
+      "B) Produzir proteínas de cores diferentes.",
+      "C) Aumentar drasticamente a eficiência da síntese proteica, produzindo várias cópias da mesma proteína a partir de uma única mensagem genética em pouco tempo.",
+      "D) Armazenar material genético no citoplasma."
+    ],
+    "explicacao_geral": "É um mecanismo de amplificação da resposta informacional.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Aumentam a vida útil informacional daquele RNA via tradução.",
+      "B": "[INCORRETA] Idênticas em sequência.",
+      "C": "[CORRETA] Os **Polirribossomos** otimizam a **produção em escala** celular.",
+      "D": "[INCORRETA] RNAm é temporário e não serve para herança/armazenamento de longo prazo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3585,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "O ciclo celular é a série de eventos que levam à divisão da célula. Em qual fase ocorre a duplicação do material genético (DNA)?",
+    "opcoes": [
+      "A) Fase G1.",
+      "B) Fase S (Síntese).",
+      "C) Fase G2.",
+      "D) Mitose."
+    ],
+    "explicacao_geral": "A fase S garante que cada célula filha receba uma cópia completa do genoma.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Fase de crescimento e verificação metabólica inicial.",
+      "B": "[CORRETA] A **Fase S** é o momento da **replicação do DNA**.",
+      "C": "[INCORRETA] Fase de preparação final para a mitose.",
+      "D": "[INCORRETA] Momento da segregação física dos cromossomos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3588,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A 'Metáfase' é uma fase da mitose onde ocorre um evento visual característico. Qual é?",
+    "opcoes": [
+      "A) Os cromossomos desaparecem.",
+      "B) O núcleo se duplica em dez partes.",
+      "C) Alinhamento dos cromossomos no equador da célula (placa metafásica).",
+      "D) A célula explode."
+    ],
+    "explicacao_geral": "O alinhamento garante que as fibras do fuso tracionem as cromátides irmãs de forma igual.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Estão mais visíveis e condensados que nunca.",
+      "B": "[INCORRETA] Divisão binária típica.",
+      "C": "[CORRETA] A **Metáfase** é o momento de **alinhamento central** dos cromossomos.",
+      "D": "[INCORRETA] Evento patológico ou de lise, não mitótico normal."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3593,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "A 'Apoptose' é descrita como um suicídio celular programado. Qual a principal vantagem biológica deste processo?",
+    "opcoes": [
+      "A) Eliminar células indesejadas, danificadas ou velhas de forma limpa, sem causar inflamação no tecido ao redor.",
+      "B) Fazer a célula crescer infinitamente.",
+      "C) Atrair bactérias para comer a célula morta.",
+      "D) Produzir mais energia para as células vizinhas."
+    ],
+    "explicacao_geral": "A apoptose mantém a homeostase tecidual e remove células com potencial oncogênico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Apoptose** é um processo silencioso e **fisiológico** de renovação.",
+      "B": "[INCORRETA] Leva ao desaparecimento da célula.",
+      "C": "[INCORRETA] Corpos apoptóticos são fagocitados por macrófagos ou células vizinhas discretamente.",
+      "D": "[INCORRETA] A apoptose consome energia (ATP) para ocorrer."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3594,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "A 'Necrose' é uma forma de morte celular acidental. Qual a principal característica morfológica que a distingue da apoptose?",
+    "opcoes": [
+      "A) Diminuição do tamanho celular (Encolhimento).",
+      "B) Fragmentação controlada do DNA.",
+      "C) Ausência de inflamação.",
+      "D) Rompimento da membrana plasmática e extravasamento do conteúdo celular, gerando uma resposta inflamatória intensa."
+    ],
+    "explicacao_geral": "A necrose resulta de danos agudos como hipóxia severa, toxinas ou traumas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Característica da apoptose.",
+      "B": "[INCORRETA] Característica da apoptose.",
+      "C": "[INCORRETA] A necrose é fortemente pró-inflamatória.",
+      "D": "[CORRETA] O **extravasamento citoplasmático** na **Necrose** lesiona o tecido adjacente."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3604,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O 'Nó Sinoatrial' (Marcapasso Natural) localiza-se na parede de qual estrutura anatômica?",
+    "opcoes": [
+      "A) Ventrículo Esquerdo.",
+      "B) Ápice do coração.",
+      "C) Átrio Direito, próximo à abertura da veia cava superior.",
+      "D) Septo Interventricular."
+    ],
+    "explicacao_geral": "A despolarização cardíaca começa no átrio direito e se espalha para o restante do órgão.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Final da cadeia de estimulação mecânica.",
+      "B": "[INCORRETA] Extremidade inferior do coração.",
+      "C": "[CORRETA] O **Nodo SA** inicia o ritmo cardíaco no **Átrio Direito**.",
+      "D": "[INCORRETA] Local do Feixe de His e ramos direito/esquerdo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3608,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual vaso sanguíneo é o responsável por levar sangue rico em oxigênio dos pulmões para o Átrio Esquerdo?",
+    "opcoes": [
+      "A) Artérias Pulmonares.",
+      "B) Veia Cava Inferior.",
+      "C) Veias Pulmonares (4 veias).",
+      "D) Artéria Aorta."
+    ],
+    "explicacao_geral": "As veias pulmonares são as únicas no adulto que transportam sangue arterial (oxigenado).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Levam sangue venoso para o pulmão.",
+      "B": "[INCORRETA] Leva sangue venoso do abdome/pernas para o átrio direito.",
+      "C": "[CORRETA] As **Veias Pulmonares** trazem o **sangue arterial** de volta ao coração.",
+      "D": "[INCORRETA] Distribui sangue arterial para o corpo a partir do ventrículo esquerdo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3610,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Os vasos sanguíneos possuem túnicas em suas paredes. Qual túnica é composta principalmente por músculo liso e é responsável pelo controle do diâmetro do vaso?",
+    "opcoes": [
+      "A) Túnica Íntima.",
+      "B) Túnica Adventícia.",
+      "C) Serosa periférica.",
+      "D) Túnica Média."
+    ],
+    "explicacao_geral": "O controle da túnica média regula a resistência periférica e o fluxo sanguíneo.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Camada interna (endotélio).",
+      "B": "[INCORRETA] Camada externa de tecido conjuntivo.",
+      "C": "[INCORRETA] Termo não utilizado para descrição histológica de vasos típicos.",
+      "D": "[CORRETA] A **Túnica Média** é a camada de **músculo liso** e fibras elásticas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3613,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Vasa vasorum' é uma rede de pequenos vasos encontrada nas paredes de grandes artérias e veias. Qual a sua função?",
+    "opcoes": [
+      "A) Armazenar oxigênio reserva no vaso.",
+      "B) Nutrir as células das túnicas externa e média em vasos calibrosos onde a difusão a partir do lúmen não é suficiente.",
+      "C) Filtrar o sangue que passa no vaso principal.",
+      "D) Impedir que o sangue congele."
+    ],
+    "explicacao_geral": "Vasos grandes são tão espessos que as camadas externas precisam de sua própria rede de irrigação.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Sem função de armazenamento gasoso.",
+      "B": "[CORRETA] A **Vasa vasorum** é o 'vaso do vaso' que garante a **nutrição da parede vascular**.",
+      "C": "[INCORRETA] Não é um sistema de filtragem.",
+      "D": "[INCORRETA] Termorregulação é periférica e sistêmica, não isolada por vasa vasorum."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3619,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O 'Fluxo Turbulento' gera ruídos (como os sopros cardíacos). Qual parâmetro físico-químico é usado para prever a transição de fluxo laminar para turbulento?",
+    "opcoes": [
+      "A) Número de Reynolds (Re).",
+      "B) Velocidade da luz.",
+      "C) pH sanguíneo.",
+      "D) Temperatura corporal."
+    ],
+    "explicacao_geral": "Valores acima de 2000-3000 indicam alta probabilidade de turbulência.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Número de Reynolds** relaciona velocidade, diâmetro e viscosidade.",
+      "B": "[INCORRETA] Hemodinâmica é sub-sônica e clássica.",
+      "C": "[INCORRETA] Não define o padrão de fluxo mecânico.",
+      "D": "[INCORRETA] Altera a viscosidade, mas o parâmetro de predição é o Re."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3620,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Embora a velocidade do sangue seja alta na aorta, ela cai drasticamente nos capilares. Por que isso ocorre fisiologicamente?",
+    "opcoes": [
+      "A) Porque os capilares são muito estreitos.",
+      "B) Porque o coração para de bater nos capilares.",
+      "C) Devido à enorme área de secção transversal total de todos os capilares somados, o que reduz a velocidade para permitir as trocas gasosas.",
+      "D) Porque o sangue gela na periferia."
+    ],
+    "explicacao_geral": "Velocidade é inversamente proporcional à área de secção transversal (V = Q / A).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Vasos individuais são estreitos, mas a área TOTAL é gigantesca.",
+      "B": "[INCORRETA] O fluxo é contínuo em todo o circuito fechado.",
+      "C": "[CORRETA] A **baixa velocidade nos capilares** é essencial para a **difusão de nutrientes**.",
+      "D": "[INCORRETA] Termorregulação mantém a temperatura estável."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3626,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "No Potencial de Ação cardíaco de resposta rápida (músculo ventricular), a 'Fase 0' é caracterizada por qual evento iônico?",
+    "opcoes": [
+      "A) Saída de Potássio (K+).",
+      "B) Entrada de Cálcio (Ca++).",
+      "C) Entrada rápida de Sódio (Na+) através de canais dependentes de voltagem.",
+      "D) Fechamento de todos os canais."
+    ],
+    "explicacao_geral": "A fase 0 é a despolarização rápida da célula.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Promove a repolarização.",
+      "B": "[INCORRETA] Ocorre na fase 2 (platô).",
+      "C": "[CORRETA] A **Fase 0** é o pico de **entrada de Sódio**.",
+      "D": "[INCORRETA] É um momento de máxima condutância de membrana para o sódio."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3632,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O Complexo QRS no ECG é muito maior que a onda P. Por que?",
+    "opcoes": [
+      "A) Porque os ventrículos têm mais bactérias.",
+      "B) Porque o sangue nos ventrículos é arterial.",
+      "C) Porque a eletricidade dos ventrículos é mais quente.",
+      "D) Porque a massa muscular ventricular é muito maior que a atrial, gerando uma atividade elétrica somada de maior magnitude."
+    ],
+    "explicacao_geral": "O ECG mede a soma dos potenciais de ação de todas as células sob o eletrodo.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Absurdo.",
+      "B": "[INCORRETA] A natureza do sangue não altera a voltagem gerada pelo miocárdio.",
+      "C": "[INCORRETA] Não há diferença de 'calor' elétrico.",
+      "D": "[CORRETA] O **Complexo QRS** reflete a **massa ventricular** dominante."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3633,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "O ciclo cardíaco é composto por sístole e diástole. O que ocorre durante a fase de 'Enchimento Ventricular'?",
+    "opcoes": [
+      "A) As valvas semilunares abrem-se para o sangue sair.",
+      "B) As valvas atrioventriculares (Mitral e Tricúspide) abrem-se, permitindo a passagem do sangue dos átrios para os ventrículos relaxados.",
+      "C) O coração para de bater.",
+      "D) O sangue volta para as veias cavas."
+    ],
+    "explicacao_geral": "O enchimento ocorre principalmente de forma passiva no início da diástole.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ocorre na sístole (ejeção).",
+      "B": "[CORRETA] O **Enchimento Ventricular** define a **diástole**.",
+      "C": "[INCORRETA] O ciclo é contínuo.",
+      "D": "[INCORRETA] As válvulas das veias e a pressão atrial impedem o refluxo significativo em condições normais."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3635,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O 'Primeiro Ruído Cardíaco' (B1 - o 'Tum') ouvido no estetoscópio corresponde a qual evento mecânico?",
+    "opcoes": [
+      "A) Fechamento das valvas atrioventriculares (Mitral e Tricúspide) no início da sístole ventricular.",
+      "B) Fechamento das valvas semilunares (Aórtica e Pulmonar).",
+      "C) Abertura da valva mitral.",
+      "D) O sangue batendo no átrio."
+    ],
+    "explicacao_geral": "Os ruídos são gerados pela vibração das estruturas após o fechamento súbito das valvas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **B1** marca o **início da sístole**.",
+      "B": "[INCORRETA] Corresponde à B2 (o 'Tá').",
+      "C": "[INCORRETA] Aberturas valvares normais são silenciosas.",
+      "D": "[INCORRETA] Descrição imprecisa."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3646,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Quando o coração (átrios) fica muito cheio (estirado), ele libera o Hormônio PNA (Peptídeo Natriurético Atrial). Qual o efeito esperado dele?",
+    "opcoes": [
+      "A) Aumentar o apetite.",
+      "B) Causar sede intensa.",
+      "C) Estimular o sono.",
+      "D) Antagonizar o sistema SRAA, promovendo excreção de sódio e água na urina (natriurese) para reduzir a pressão e o volume sanguíneo."
+    ],
+    "explicacao_geral": "O PNA é o 'freio' natural contra a sobrecarga de volume.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Sem relação.",
+      "B": "[INCORRETA] Aldosterona/Angiotensina II estimulam a sede.",
+      "C": "[INCORRETA] Sem efeito hipnótico.",
+      "D": "[CORRETA] O **PNA** é o hormônio **hipotensor e diurético** natural do coração."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3648,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O hormônio ADH (Vasopressina) regula a pressão arterial no longo prazo. Como ele atua?",
+    "opcoes": [
+      "A) Fazendo o açúcar sair na urina.",
+      "B) Inserindo canais de água (Aquaporinas) nos túbulos renais para reabsorver água livre, aumentando o volume de sangue.",
+      "C) Impedindo o coração de bater.",
+      "D) Estimulando a digestão."
+    ],
+    "explicacao_geral": "O ADH é liberado pela neuro-hipófise em resposta à alta osmolaridade ou baixa pressão.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Função de transportadores SGLT.",
+      "B": "[CORRETA] O **ADH** é o hormônio 'Poupador de Água' (**Antidiurético**).",
+      "C": "[INCORRETA] Não tem efeito cronotrópico negativo primário.",
+      "D": "[INCORRETA] Sem relação gastrointestinal."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3655,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Anatomicamente, qual é o principal músculo responsável pela respiração tranquila e qual nervo o inerva?",
+    "opcoes": [
+      "A) Diafragma, inervado pelo Nervo Frênico (C3, C4, C5).",
+      "B) Músculo Peitoral Maior, inervado pelo nervo vago.",
+      "C) Abdominais, inervados pelo nervo simpático.",
+      "D) O coração respira sozinho."
+    ],
+    "explicacao_geral": "A contração do diafragma aumenta o volume da caixa torácica, reduzindo a pressão interna (inspiração).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Diafragma** é o motor respiratório primário controlado pelo **Nervo Frênico**.",
+      "B": "[INCORRETA] Músculo lateral e acessório.",
+      "C": "[INCORRETA] Importantes na expiração forçada ou tosse.",
+      "D": "[INCORRETA] Coração faz circulação; Diafragma faz ventilação mecânica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3656,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A traqueia estende-se da laringe até a sua bifurcação nos brônquios principais. Qual o nome anatômico dessa crista terminal na bifurcação?",
+    "opcoes": [
+      "A) Glote.",
+      "B) Epiglote.",
+      "C) Carina.",
+      "D) Hilo Pulmonar."
+    ],
+    "explicacao_geral": "A carina é uma área extremamente sensível que desencadeia o reflexo da tosse se tocada.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Abertura na laringe entre as cordas vocais.",
+      "B": "[INCORRETA] 'Tampa' da laringe.",
+      "C": "[CORRETA] A **Carina** é o ponto de **bifurcação traqueal**.",
+      "D": "[INCORRETA] Região média de entrada de vasos e brônquios no pulmão."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3659,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A Traqueia possui anéis incompletos de cartilagem. Qual é o tipo de cartilagem e qual estrutura fecha o anel na sua parte posterior?",
+    "opcoes": [
+      "A) Cartilagem Hialina (anéis em C) e Músculo Traqueal (liso).",
+      "B) Cartilagem Elástica e Tecido Ósseo.",
+      "C) Gordura e Pele.",
+      "D) Cartilagem Fibrosa e Epitélio estratificado."
+    ],
+    "explicacao_geral": "A ausência de cartilagem posterior permite a expansão do esôfago durante a deglutição.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Os **Anéis de Hialina** impedem o colapso traqueal durante a respiração.",
+      "B": "[INCORRETA] Erro de tecido.",
+      "C": "[INCORRETA] Não garantem sustentação mecânica.",
+      "D": "[INCORRETA] Tecido de discos intervertebrais, não de traqueia."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3664,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A 'Barreira Hemato-Aérea' é a estrutura que o oxigênio deve atravessar para chegar ao sangue. Quais são os seus três componentes principais na sua porção mais fina?",
+    "opcoes": [
+      "A) Cartilagem, Músculo e Gordura.",
+      "B) Pele, Mucosa e Linfa.",
+      "C) Citoplasma do Pneumócito Tipo I, Lâmina Basal fundida e Citoplasma da Célula Endotelial do capilar.",
+      "D) Muco, Cílios e Ar."
+    ],
+    "explicacao_geral": "A espessura média é de apenas 0,5 micrômetros, permitindo a difusão passiva ultrarrápida.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Bloqueariam a difusão gasosa.",
+      "B": "[INCORRETA] Componentes sistêmicos/externos.",
+      "C": "[CORRETA] A **Barreira Hemato-Aérea** minimiza a distância para a **troca gasosa**.",
+      "D": "[INCORRETA] Estão na superfície epitelial das vias de condução, não na área de troca alveolar fina."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3666,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Qual a principal característica da 'Expiração Normal' em repouso?",
+    "opcoes": [
+      "A) É um processo que gasta muito ATP.",
+      "B) Depende da contração dos músculos abdominais.",
+      "C) Ocorre quando o diafragma sobe ativamente.",
+      "D) É um processo passivo que depende da retração elástica dos pulmões após o relaxamento dos músculos inspiratórios."
+    ],
+    "explicacao_geral": "A energia potencial armazenada nas fibras elásticas durante a inspiração é liberada.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É passivo em repouso, economizando energia.",
+      "B": "[INCORRETA] Abdominais atuam na expiração forçada ou tosse.",
+      "C": "[INCORRETA] O diafragma sobe porque relaxa, não por contração ativa para subir.",
+      "D": "[CORRETA] A **Expiração em Repouso** é movida pelo **recuo elástico**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3672,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A 'Tensão Superficial' nos alvéolos tende a colapsá-los. De acordo com a Lei de Laplace aplicada à respiração, por que os alvéolos pequenos correriam mais risco sem surfactante?",
+    "opcoes": [
+      "A) Porque eles são mais pesados.",
+      "B) Porque neles a pressão é menor.",
+      "C) Porque quanto menor o raio, maior a pressão gerada pela tensão superficial (P = 2T/r), forçando o ar a sair para alvéolos maiores e colapsando o pequeno.",
+      "D) Porque o alvéolo pequeno não tem sangue."
+    ],
+    "explicacao_geral": "O surfactante reduz a tensão muito mais nos alvéolos pequenos que nos grandes, estabilizando-os.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Alvéolos são microscópicos e leves.",
+      "B": "[INCORRETA] Pelo contrário, neles a pressão de colapso é maior.",
+      "C": "[CORRETA] A **Lei de Laplace** explica a necessidade de **Surfactante em alvéolos pequenos**.",
+      "D": "[INCORRETA] Todos os alvéolos funcionais são ricamente vascularizados."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3673,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A troca de gases entre os alvéolos e o sangue (Hematose) ocorre por qual mecanismo físico?",
+    "opcoes": [
+      "A) Transporte Ativo (gasto de ATP).",
+      "B) Difusão Passiva a favor do gradiente de pressão parcial.",
+      "C) Osmose de gases.",
+      "D) Sucção mecânica."
+    ],
+    "explicacao_geral": "Os gases movem-se da região de maior pressão para a de menor pressão até o equilíbrio.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A hematose não consome energia celular direta.",
+      "B": "[CORRETA] A **Difusão** é o motor das **trocas gasosas** pulmonares.",
+      "C": "[INCORRETA] Osmose refere-se ao movimento de solvente (água).",
+      "D": "[INCORRETA] Termo não científico para o processo molecular."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3679,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Mioglobina' é uma proteína encontrada nos músculos. Como sua afinidade pelo oxigênio se compara à da hemoglobina?",
+    "opcoes": [
+      "A) É menor, para deixar o O2 sair rápido.",
+      "B) É muito maior, permitindo que ela 'roube' o oxigênio do sangue e o armazene para uso durante a contração muscular intensa.",
+      "C) É idêntica.",
+      "D) A mioglobina não se liga ao oxigênio."
+    ],
+    "explicacao_geral": "A curva da mioglobina é hiperbólica, enquanto a da hemoglobina é sigmoide.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Se fosse menor, o músculo não conseguiria captar o O2 do sangue efetivamente no repouso/estoque.",
+      "B": "[CORRETA] A **Mioglobina** é o **reservatório de O2** celular do músculo.",
+      "C": "[INCORRETA] Têm afinidades e funções distintas.",
+      "D": "[INCORRETA] É sua função primária."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3681,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Onde se localiza o 'Centro Respiratório' primário, responsável pelo controle rítmico automático da respiração?",
+    "opcoes": [
+      "A) No Bulbo (tronco encefálico).",
+      "B) No Cerebelo.",
+      "C) No Hipotálamo.",
+      "D) No Córtex motor frontal."
+    ],
+    "explicacao_geral": "O bulbo contém os grupos respiratórios dorsal e ventral que geram o ritmo básico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Bulbo** é o centro de controle autonômico da **respiração**.",
+      "B": "[INCORRETA] Coordena equilíbrio e movimento fino.",
+      "C": "[INCORRETA] Regula temperatura e sede.",
+      "D": "[INCORRETA] Responsável pelo controle respiratório voluntário (Ex: prender o folego)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3685,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O reflexo de 'Hering-Breuer' atua como um mecanismo protetor durante a respiração. Qual o seu objetivo?",
+    "opcoes": [
+      "A) Forçar a inspiração profunda o tempo todo.",
+      "B) Interromper a inspiração e iniciar a expiração quando os pulmões estão excessivamente estirados, prevenindo lesões por hiperinsuflação.",
+      "C) Acelerar o coração.",
+      "D) Fazer a pessoa tossir."
+    ],
+    "explicacao_geral": "Os receptores de estiramento nos pulmões enviam sinais via nervo vago ao bulbo.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Pelo contrário, ele limita a inspiração.",
+      "B": "[CORRETA] O **Reflexo de Hering-Breuer** é um **limitador protetor** da expansão pulmonar.",
+      "C": "[INCORRETA] Resposta autonômica complexa, mas não o foco do reflexo respiratório citado.",
+      "D": "[INCORRETA] Tossir depende de irritantes na via aérea."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3690,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Anatomicamente, o parênquima renal é dividido em duas regiões principais. Quais são?",
+    "opcoes": [
+      "A) Cabeça e corpo do rim.",
+      "B) Mucosa e submucosa.",
+      "C) Parte branca e parte preta.",
+      "D) Córtex (externo) e Medula (interna - contendo as pirâmides renais)."
+    ],
+    "explicacao_geral": "O córtex contém a maioria dos glomérulos; a medula contém as alças de Henle e ductos coletores.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Descrição de pâncreas/estômago.",
+      "B": "[INCORRETA] Descrição de órgãos ocos (tubo digestório).",
+      "C": "[INCORRETA] Sem fundamento anatômico.",
+      "D": "[CORRETA] O **Córtex e a Medula** organizam a arquitetura funcional do **Néfron**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3692,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A 'Bexiga Urinária' possui uma região triangular lisa no seu assoalho, cujos vértices são as aberturas dos ureteres e o óstio interno da uretra. Qual o nome dessa região?",
+    "opcoes": [
+      "A) Pirâmide de Malpighi.",
+      "B) Hilo vesical.",
+      "C) Trígono Vesical.",
+      "D) Carina."
+    ],
+    "explicacao_geral": "O trígono é clinicamente importante por ser local comum de infecções (cistites) e tumores.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Estrutura medular do rim.",
+      "B": "[INCORRETA] Termo não utilizado para a bexiga.",
+      "C": "[CORRETA] O **Trígono Vesical** é uma referência anatômica fixa da **bexiga**.",
+      "D": "[INCORRETA] Bifurcação da traqueia."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3698,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "O 'Túbulo Contorcido Proximal' (TCP) é revestido por um epitélio especializado. Qual a marca histológica dessa região?",
+    "opcoes": [
+      "A) Epitélio estratificado pavimentoso.",
+      "B) Ausência de células.",
+      "C) Células achatadas finas.",
+      "D) Epitélio simples cúbico com borda em escova (microvilosidades abundantes)."
+    ],
+    "explicacao_geral": "As microvilosidades aumentam a área de superfície para a reabsorção em massa de água e solutos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Característico de áreas de atrito.",
+      "B": "[INCORRETA] Órgãos são celulares.",
+      "C": "[INCORRETA] Característico do segmento delgado da alça de Henle.",
+      "D": "[CORRETA] A **Borda em Escova** é a marca da alta capacidade absortiva do **TCP**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3700,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A 'Mácula Densa' localiza-se em qual parte do túbulo renal?",
+    "opcoes": [
+      "A) Túbulo Proximal.",
+      "B) Alça de Henle descendente.",
+      "C) Porção inicial do Túbulo Contorcido Distal, em contato com o hilo do glomérulo.",
+      "D) Ducto Coletor papilar."
+    ],
+    "explicacao_geral": "As células da mácula densa são sensores de Cloreto de Sódio (NaCl) no filtrado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Início do sistema tubular.",
+      "B": "[INCORRETA] Permeável à água.",
+      "C": "[CORRETA] A **Mácula Densa** monitora a composição química do **filtrado distal**.",
+      "D": "[INCORRETA] Fim do sistema tubular."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3706,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Como o rim mantém uma TFG constante mesmo quando a pressão arterial sistêmica oscila entre 80 e 180 mmHg?",
+    "opcoes": [
+      "A) Ele para de funcionar quando a pressão sobe.",
+      "B) O sangue flui mais rápido sem ser filtrado.",
+      "C) Ele pede ajuda ao cérebro o tempo todo.",
+      "D) Através da Autorregulação Renal (Mecanismo Miogênico e Feedback Túbulo-Glomerular)."
+    ],
+    "explicacao_geral": "As arteríolas ajustam seu calibre para proteger o glomérulo de pressões excessivas ou insuficientes.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O rim é um órgão autorregulável.",
+      "B": "[INCORRETA] A filtração deve ser mantida para depurar toxinas.",
+      "C": "[INCORRETA] A autorregulação é intrínseca ao rim, independente de nervos externos (embora sofra influência).",
+      "D": "[CORRETA] A **Autorregulação** protege a **unidade funcional renal** das oscilações da PA."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3712,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A 'Clara de Creatinina' (Clearance) é usada rotineiramente para estimar a TFG. Por que a creatinina é um bom marcador?",
+    "opcoes": [
+      "A) Porque ela é livremente filtrada pelo glomérulo e quase não é reabsorvida ou secretada pelos túbulos renais.",
+      "B) Porque ela dá cor amarela à urina.",
+      "C) Porque ela é um hormônio do crescimento.",
+      "D) Porque é produzida no cérebro."
+    ],
+    "explicacao_geral": "Embora a Inulina seja o padrão-ouro, a creatinina (produto endógeno) é muito prática.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Clearance de Creatinina** reflete a **capacidade de limpeza** do rim.",
+      "B": "[INCORRETA] Cor deve-se a urocromos/urobilinas.",
+      "C": "[INCORRETA] Metabolito muscular.",
+      "D": "[INCORRETA] Produção muscular constante."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3714,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "A reabsorção de glicose no rim depende de transportadores específicos (SGLT). Qual íon é transportado junto com a glicose (simporte) para fornecer a energia necessária?",
+    "opcoes": [
+      "A) Potássio (K+).",
+      "B) Cálcio (Ca++).",
+      "C) Ferro (Fe++).",
+      "D) Sódio (Na+)."
+    ],
+    "explicacao_geral": "O gradiente de sódio gerado pela bomba Na+/K+ ATPase na membrana basolateral impulsiona o sódio para dentro da célula, trazendo a glicose junto.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Geralmente é secretado em troca de sódio no distal.",
+      "B": "[INCORRETA] Reabsorção via canais específicos e transporte transcelular complexo.",
+      "C": "[INCORRETA] Metabolismo de ferro não utiliza simporte tubular renal para glicose.",
+      "D": "[CORRETA] O **Sódio** fornece a energia do **transporte ativo secundário** da glicose."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3718,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual organela é extremamente abundante nas células do túbulo contorcido proximal para sustentar o transporte ativo?",
+    "opcoes": [
+      "A) Lisossomos.",
+      "B) Ribossomos livres.",
+      "C) Centríolos.",
+      "D) Mitocôndrias."
+    ],
+    "explicacao_geral": "A reabsorção ativa consome massivas quantidades de ATP.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Papel degradativo secundário aqui.",
+      "B": "[INCORRETA] Síntese proteica ocorre, mas não define a especialização tubular primária.",
+      "C": "[INCORRETA] Divisão celular.",
+      "D": "[CORRETA] As **Mitocôndrias** fornecem o **ATP** para o transporte de sódio."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3723,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A 'Vasa Recta' são capilares em forma de alça que acompanham a alça de Henle. Qual o seu papel vital?",
+    "opcoes": [
+      "A) Impedir que o gradiente osmótico medular seja 'lavado' pelo fluxo sanguíneo (Troca por Contracorrente).",
+      "B) Filtrar o potássio.",
+      "C) Produzir muco renal.",
+      "D) Suprir oxigênio exclusivamente para o córtex."
+    ],
+    "explicacao_geral": "O fluxo sanguíneo na vasa recta é lento e segue a curva da alça para manter o equilíbrio osmótico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Vasa Recta** preserva a **hipertonicidade da medula**.",
+      "B": "[INCORRETA] Trocas iônicas ocorrem, mas a função sistêmica de troca contracorrente é o foco.",
+      "C": "[INCORRETA] Rins não produzem muco funcional excretor.",
+      "D": "[INCORRETA] Elas se aprofundam na medula."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3725,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Ureia' não é apenas um resíduo, mas participa ativamente da concentração urinária. Qual o seu papel?",
+    "opcoes": [
+      "A) Matar as células da medula.",
+      "B) Ela é reciclada do ducto coletor para o interstício medular, contribuindo com cerca de 40-50% da osmolaridade da medula renal.",
+      "C) Impedir o crescimento de bactérias no rim.",
+      "D) Dar o cheiro forte da urina."
+    ],
+    "explicacao_geral": "Sem a ureia, o rim não conseguiria concentrar a urina ao máximo (1.200 mOsm/L).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É um soluto osmótico tolerado e vital.",
+      "B": "[CORRETA] A **Reciclagem da Ureia** é fundamental para o **gradiente osmótico**.",
+      "C": "[INCORRETA] Função do sistema imune e pH.",
+      "D": "[INCORRETA] A ureia em si é inodora; o cheiro vem de substâncias derivadas e crescimento bacteriano pós-micção."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3730,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "A Agenda 2030 da ONU estabelece 17 Objetivos de Desenvolvimento Sustentável (ODS). Qual ODS é focado especificamente em 'Saúde e Bem-Estar'?",
+    "opcoes": [
+      "A) ODS 1.",
+      "B) ODS 5.",
+      "C) ODS 10.",
+      "D) ODS 3."
+    ],
+    "explicacao_geral": "O ODS 3 visa assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Erradicação da pobreza.",
+      "B": "[INCORRETA] Igualdade de gênero.",
+      "C": "[INCORRETA] Redução das desigualdades.",
+      "D": "[CORRETA] O **ODS 3** é a meta central para a **Saúde Global**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3733,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Obsolescência Programada' é um dos grandes desafios da sustentabilidade. O que ela representa?",
+    "opcoes": [
+      "A) O avanço tecnológico natural.",
+      "B) A prática de fabricar produtos com vida útil curta ou que se tornam inúteis rapidamente para forçar o consumo de novos itens, gerando excesso de resíduos.",
+      "C) A reciclagem obrigatória de produtos velhos.",
+      "D) O conserto gratuito de eletrodomésticos."
+    ],
+    "explicacao_geral": "Este fenômeno impulsiona a economia linear (extrair, produzir, descartar), contrária à economia circular.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Avanço é melhorar; obsolescência programada é limitar propositalmente.",
+      "B": "[CORRETA] A **Obsolescência Programada** estimula o **descarte excessivo** e o consumo insustentável.",
+      "C": "[INCORRETA] Seria uma solução, não o problema citado.",
+      "D": "[INCORRETA] Desestimularia a recompra acelerada."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3743,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O 'Efeito Ilha de Calor' em cidades como São Paulo agrava problemas respiratórios e cardiovasculares. O que ele representa?",
+    "opcoes": [
+      "A) A construção de praias artificiais no centro.",
+      "B) O aumento da ventilação natural por causa dos prédios.",
+      "C) A falta de luz solar na capital.",
+      "D) O aumento da temperatura em áreas urbanas devido à excessiva impermeabilização do solo e falta de vegetação, o que retém calor e aumenta a poluição do ar."
+    ],
+    "explicacao_geral": "O calor excessivo aumenta a irritação das mucosas e a concentração de poluentes como o Ozônio (O3).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Sem relação.",
+      "B": "[INCORRETA] Prédios bloqueiam a ventilação (cânions urbanos).",
+      "C": "[INCORRETA] Insolação é alta, a retenção é que aquece a cidade.",
+      "D": "[CORRETA] A **Ilha de Calor** é um estresse **ambiental e clínico** crônico para o morador da metrópole."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3744,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No contexto da sustentabilidade, o que significa 'Justiça Ambiental' na saúde pública?",
+    "opcoes": [
+      "A) Garantir que populações vulneráveis (pobres, minorias) não sofram desproporcionalmente com os danos ambientais e tenham acesso igualitário a ambientes saudáveis.",
+      "B) Punir as árvores que caem nos carros.",
+      "C) Cobrar mais impostos de quem mora perto de parques.",
+      "D) Proibir o uso de qualquer remédio que polua o esgoto."
+    ],
+    "explicacao_geral": "Frequentemente, as áreas mais poluídas e degradadas são ocupadas por populações de baixa renda.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Justiça Ambiental** busca reduzir a **desigualdade** no impacto de danos ecológicos.",
+      "B": "[INCORRETA] Absurdo.",
+      "C": "[INCORRETA] Exacerbaria a desigualdade social no acesso ao verde.",
+      "D": "[INCORRETA] O foco é gestão de resíduos e acesso a direitos, não proibição absoluta de tratamentos necessários."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3747,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O 'Grupo B' de resíduos hospitalares refere-se a substâncias químicas. Qual o procedimento correto para o descarte de medicamentos quimioterápicos ou vencidos?",
+    "opcoes": [
+      "A) Devem ser segregados e enviados para tratamento específico (incineração ou aterro industrial), nunca descartados no esgoto comum.",
+      "B) Jogar no vaso sanitário.",
+      "C) Enterrar no jardim do hospital.",
+      "D) Doar para pacientes que não têm dinheiro."
+    ],
+    "explicacao_geral": "Resíduos químicos podem contaminar lençóis freáticos e causar danos ambientais graves.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Grupo B (Químico)** exige **gerenciamento rigoroso**.",
+      "B": "[INCORRETA] Contamina rios e águas.",
+      "C": "[INCORRETA] Crime ambiental.",
+      "D": "[INCORRETA] Medicamentos vencidos ou danificados são resíduos, não terapias seguras."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3751,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O lixo do 'Grupo C' (Radioativos) é gerado em quais setores de um hospital moderno?",
+    "opcoes": [
+      "A) Medicina Nuclear e Radioterapia.",
+      "B) Cozinha e refeitório.",
+      "C) Recepção e administrativo.",
+      "D) O grupo C não existe no Brasil."
+    ],
+    "explicacao_geral": "Resíduos radioativos exigem blindagem e desintegração controlada por tempo (meia-vida).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Grupo C (Radioativo)** exige protocolos da **CNEN** (Comissão Nacional de Energia Nuclear).",
+      "B": "[INCORRETA] Geram lixo comum (D).",
+      "C": "[INCORRETA] Geram lixo comum e reciclável (D).",
+      "D": "[INCORRETA] É uma categoria fundamental em hospitais oncológicos ou de diagnóstico por imagem avançado."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  }
+]

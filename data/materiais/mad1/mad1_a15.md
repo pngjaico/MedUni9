@@ -2,7 +2,7 @@
 
 As infecções por bactérias Gram-negativas e pela Tuberculose são grandes desafios clínicos. Na prova, os temas centrais são os **Patotipos de *E. coli*** (ETEC, EHEC), a resistência da ***Pseudomonas aeruginosa*** e o protocolo de diagnóstico e tratamento da **Tuberculose (RIPE)**.
 
-Na prática, identificar precocemente um caso de TB pulmonar e instituir o isolamento respiratório é fundamental para interromper a cadeia de transmissão na comunidade.
+Na prática, identificar precocemente um caso de **TB pulmonar** e instituir o isolamento respiratório é fundamental para interromper a cadeia de transmissão na comunidade.
 
 ---
 
@@ -23,7 +23,7 @@ Diferentes tipos de *E. coli* causam diferentes tipos de diarreia:
 |---|---|---|
 | **ETEC** | **Diarreia do Viajante** | Toxinas que causam diarreia aquosa e profusa. |
 | **EHEC** | **Diarreia com Sangue** | Toxina Shiga. Pode causar **SHU (Síndrome Hemolítica Urêmica)**. |
-| **EPEC** | Diarreia Infantil | Destrói as microvilosidades do intestino. |
+| **EPEC** | **Diarreia Infantil** | Destrói as microvilosidades do intestino. |
 
 > **Dica de Prova:** Na suspeita de **EHEC** (O157:H7), **NÃO use antibióticos**. O uso de ATB aumenta a liberação da toxina Shiga, o que pode levar à insuficiência renal grave (SHU).
 
@@ -40,16 +40,16 @@ Diferentes tipos de *E. coli* causam diferentes tipos de diarreia:
 
 ## 3. *Mycobacterium tuberculosis* (Tuberculose)
 
-- **O Agente:** BAAR (não cora no Gram). Bacilo aeróbio obrigatório (gosta dos **Ápices Pulmonares**, onde tem mais oxigênio).
+- **O Agente:** **BAAR** (não cora no Gram). Bacilo aeróbio obrigatório (gosta dos **Ápices Pulmonares**, onde tem mais oxigênio).
 - **Diagnóstico:** 
   - **BAAR no Escarro:** Rápido, mas pode dar falso negativo em 40% dos casos.
   - **GeneXpert (PCR):** O teste de escolha atual. Detecta o DNA da bactéria e se ela é resistente à rifampicina em poucas horas.
-  - **PPD:** Teste de pele. Indica se o paciente já teve contato com o bacilo (Imunidade Tipo IV).
+  - **PPD:** Teste de pele. Indica se o paciente já teve contato com o bacilo (Imunidade **Tipo IV**).
 
 ### Tratamento (Esquema RIPE - 6 meses)
-- **R**ifampicina: Cuidado com a cor da urina (laranja) e interação com anticoncepcionais.
-- **I**soniazida: Pode causar neuropatia (necessário repor Vitamina B6).
-- **P**irazinamida: Cuidado com pacientes com Gota (aumenta o ácido úrico).
+- **R**ifampicina: Cuidado com a cor da **urina (laranja)** e interação com anticoncepcionais.
+- **I**soniazida: Pode causar neuropatia (necessário repor **Vitamina B6**).
+- **P**irazinamida: Cuidado com pacientes com **Gota** (aumenta o ácido úrico).
 - **E**tambutol: Pode causar **Neurite Óptica** (perda da visão das cores).
 
 ---

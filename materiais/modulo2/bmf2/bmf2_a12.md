@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Dominar os volumes e capacidades pulmonares é entrar no coração do diagnóstico respiratório. Este tema é a base da **Espirometria**, o exame que permite ao médico diferenciar se um paciente tem um pulmão "entupido" (**Obstrução**, como na Asma) ou um pulmão "rígido" (**Restrição**, como na Fibrose).
+Dominar os volumes e capacidades pulmonares é entrar no coração do diagnóstico respiratório. Este tema é a base da **Espirometria**, o exame que permite ao médico diferenciar se um paciente tem um pulmão "entupido" (**Obstrução**, como na **Asma**) ou um pulmão "rígido" (**Restrição**, como na **Fibrose**).
 
 Na jornada acadêmica, entender a mecânica pulmonar evita confusões comuns entre volumes primários e capacidades compostas. Além disso, o conceito de **Complacência** e **Trabalho Respiratório** explica por que certas doenças cansam tanto o paciente. Nesta aula, traduzimos os números da espirometria para a realidade fisiológica da ventilação.
 
@@ -40,9 +40,9 @@ A **Capacidade Residual Funcional (CRF)** é o ponto de repouso do sistema. Ao f
 
 ## Espirometria e Padrões Funcionais
 
-A espirometria mede a velocidade e a quantidade de ar que o paciente consegue expulsar. O **VEF1** (volume expirado no 1º segundo) é o melhor marcador de obstrução. Se ele estiver baixo em relação ao total (Índice de Tiffeneau reduzido), significa que o ar está tendo dificuldade para sair, como se houvesse um "pedágio" nos brônquios.
+A espirometria mede a velocidade e a quantidade de ar que o paciente consegue expulsar. O **VEF1** (volume expirado no 1º segundo) é o melhor marcador de obstrução. Se ele estiver baixo em relação ao total (**Índice de Tiffeneau** reduzido), significa que o ar está tendo dificuldade para sair, como se houvesse um "pedágio" nos brônquios.
 
-Já nas doenças **Restritivas**, como a fibrose, o pulmão é pequeno e rígido. O paciente consegue soltar o ar rápido (VEF1 normal ou alto), mas o volume total (CVF) é pequeno. É um problema de "armazenamento", não de "trânsito". Entender essa diferença é o que permite ao médico decidir se o tratamento deve ser um broncodilatador ou uma investigação para doenças do tecido pulmonar.
+Já nas doenças **Restritivas**, como a fibrose, o pulmão é pequeno e rígido. O paciente consegue soltar o ar rápido (VEF1 normal ou alto), mas o volume total (**CVF**) é pequeno. É um problema de "armazenamento", não de "trânsito". Entender essa diferença é o que permite ao médico decidir se o tratamento deve ser um broncodilatador ou uma investigação para doenças do tecido pulmonar.
 
 ### Padrão Obstrutivo vs Restritivo
 
@@ -56,9 +56,9 @@ Já nas doenças **Restritivas**, como a fibrose, o pulmão é pequeno e rígido
 
 ## Física da Respiração: Complacência e Elastância
 
-A **Complacência** é a facilidade com que o pulmão se distende. Um pulmão complacente é "mole" e fácil de encher. A **Elastância** é o oposto: é a força de retorno elástico, a vontade que o pulmão tem de voltar ao tamanho original. No enfisema, a complacência é alta (fácil de encher), mas a elastância é baixa (difícil de esvaziar).
+A **Complacência** é a facilidade com que o pulmão se distende. Um pulmão complacente é "mole" e fácil de encher. A **Elastância** é o oposto: é a força de retorno elástico, a vontade que o pulmão tem de voltar ao tamanho original. No **enfisema**, a complacência é alta (fácil de encher), mas a elastância é baixa (difícil de esvaziar).
 
-Um pulmão com baixa complacência (rígido) exige um **Trabalho Respiratório** imenso. O paciente precisa gastar muita energia para vencer a resistência do tecido "duro". Isso explica por que pacientes com fibrose respiram rápido e curto (taquipneia superficial): é mecanicamente mais barato fazer várias respirações pequenas do que tentar expandir um pulmão que não quer esticar.
+Um pulmão com baixa complacência (rígido) exige um **Trabalho Respiratório** imenso. O paciente precisa gastar muita energia para vencer a resistência do tecido "duro". Isso explica por que pacientes com fibrose respiram rápido e curto (**taquipneia superficial**): é mecanicamente mais barato fazer várias respirações pequenas do que tentar expandir um pulmão que não quer esticar.
 
 ---
 

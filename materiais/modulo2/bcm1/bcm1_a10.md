@@ -1,8 +1,8 @@
 # BCM1 — Aula 10: Ciclo Celular — p53 e Rb
 
-O ciclo celular é como um relógio de precisão que controla o crescimento da célula. Na prova, o tema central é entender os "guardiões" que param esse relógio quando algo está errado: a **p53** (O Guarda do Genoma) e a **Rb** (O Freio do Ciclo), além das enzimas **CDKs** que funcionam como os motores da divisão.
+O **ciclo celular** é como um relógio de precisão que controla o crescimento da célula. Na prova, o tema central é entender os "guardiões" que param esse relógio quando algo está errado: a **p53** (O Guarda do Genoma) e a **Rb** (O Freio do Ciclo), além das enzimas **CDKs** que funcionam como os motores da divisão.
 
-Na prática, entender o ciclo celular é a base para compreender como os tratamentos de câncer modernos (Terapias-Alvo) funcionam ao travar esses motores em células tumorais.
+Na prática, entender o **ciclo celular** é a base para compreender como os tratamentos de **câncer** modernos (**Terapias-Alvo**) funcionam ao travar esses motores em células tumorais.
 
 ---
 
@@ -21,22 +21,22 @@ Na prática, entender o ciclo celular é a base para compreender como os tratame
 - **S (Síntese):** O DNA é **duplicado** (replicação).
 - **G2 (Revisão):** A célula checa se o DNA foi copiado sem erros.
 - **M (Mitose):** A célula se divide em duas filhas idênticas.
-- **G0 (Descanso):** Células que não querem se dividir (Ex: Neurônios).
+- **G0 (Descanso):** Células que não querem se dividir (Ex: **Neurônios**).
 
 ---
 
 ## 2. Os Motores: Ciclinas e CDKs
 
 As **CDKs** são os motores, mas elas só ligam se a **Ciclina** (a chave) estiver presente.
-- **Ciclina D + CDK4/6:** É a combinação mais importante para começar o ciclo (Fase G1).
-- **Uso Clínico:** Remédios para câncer de mama (Ex: **Palbociclibe**) bloqueiam essa CDK4/6 para impedir que o tumor cresça.
+- **Ciclina D + CDK4/6:** É a combinação mais importante para começar o ciclo (Fase **G1**).
+- **Uso Clínico:** Remédios para **câncer de mama** (Ex: **Palbociclibe**) bloqueiam essa **CDK4/6** para impedir que o tumor cresça.
 
 ---
 
 ## 3. Os Guardiões: p53 e Rb
 
 Eles são os freios de segurança:
-- **Rb (Proteína do Retinoblastoma):** Ela segura um fator chamado E2F. Enquanto a Rb estiver "ativada" (sem fósforo), a célula não entra na fase S. Ela é o **Ponto de Restrição**.
+- **Rb (Proteína do Retinoblastoma):** Ela segura um fator chamado **E2F**. Enquanto a Rb estiver "ativada" (sem fósforo), a célula não entra na fase S. Ela é o **Ponto de Restrição**.
 - **p53 (Guarda do Genoma):** Monitora danos no DNA. Se o DNA estiver estragado, a p53 manda fabricar a proteína **p21**, que para o ciclo na hora para o conserto.
   - **Dica de Prova:** Se o dano for irreparável, a p53 manda a célula se suicidar (**Apoptose**). Por isso ela é o supressor de tumor mais importante do corpo.
 
@@ -44,9 +44,9 @@ Eles são os freios de segurança:
 
 ## 4. HPV e o Ciclo Celular
 
-O vírus do HPV (causador do câncer de colo de útero) é perigoso porque ele traz duas proteínas vilãs:
-- **Proteína E6:** Destrói a p53 (Tira o fiscal).
-- **Proteína E7:** Inativa a Rb (Tira o freio).
+O vírus do **HPV** (causador do câncer de colo de útero) é perigoso porque ele traz duas proteínas vilãs:
+- **Proteína E6:** Destrói a **p53** (Tira o fiscal).
+- **Proteína E7:** Inativa a **Rb** (Tira o freio).
 - **Resultado:** A célula fica sem nenhuma proteção e se transforma em câncer rapidamente.
 
 ---
@@ -87,7 +87,7 @@ A Uninove adora cobrar o papel do **HPV** (Proteínas E6 e E7). Saiba também qu
 | **Ciclina** | **CDK** | Produzida e destruída em ciclos vs **Presente o tempo todo (precisa da ciclina)** |
 | **p21** | **p16** | Induzida pela p53 vs **Inibe especificamente CDK4/6 (frequente em Melanoma)** |
 | **G1** | **G2** | Decisão de começar vs **Decisão de dividir (pós-replicação)** |
-| **E6 (HPV)** | **E7 (HPV)** | Inativa p53 vs **Inativa Rb** |
+| **E6 (HPV)** | **E7 (HPV)** | **Inativa p53** vs **Inativa Rb** |
 
 ### Frase-âncora para não esquecer
 

@@ -19,7 +19,7 @@ Na prática, o médico usa os sentidos do paciente para localizar doenças. Se u
 
 - **Cones e Bastonetes:** Os **Cones** focam no centro (**Mácula**) e servem para ver cores e detalhes. Os **Bastonetes** ficam nas bordas e servem para ver no escuro (visão preto e branco).
 - **Glaucoma:** O olho produz um líquido (humor aquoso) que deve ser drenado pelo **Canal de Schlemm**. Se entupir, a pressão sobe e esmaga o nervo óptico, começando pela visão periférica.
-- **Quiasmo Óptico:** É o ponto de cruzamento. Fibras da parte interna de cada olho cruzam para o outro lado. Um tumor na hipófise (que fica logo abaixo) pode esmagar esse ponto, fazendo o paciente perder a visão lateral ("visão em túnel").
+- **Quiasmo Óptico:** É o ponto de cruzamento. Fibras da parte interna de cada olho cruzam para o outro lado. Um tumor na hipófise (que fica logo abaixo) pode esmagar esse ponto, fazendo o paciente perder a visão lateral ("**visão em túnel**").
 
 ---
 
@@ -57,7 +57,7 @@ No consultório, se um paciente idoso reclama que ouve as pessoas falarem mas n�
 ## Pontos-Chave para Prova
 
 - **Cones**: Localizados na fóvea; responsáveis pela visão de cores e alta definição.
-- **Quiasmo Óptico**: Local onde ocorre a decussação das fibras nasais (responsáveis pela visão lateral/temporal).
+- **Quiasmo Óptico**: Local onde ocorre a **decussação das fibras nasais** (responsáveis pela visão lateral/temporal).
 - **Surdez Condutiva**: O teste de **Weber** lateraliza para o lado acometido.
 - **Base da Cóclea**: Área responsável pela audição de frequências **Agudas** (primeira a ser lesada por medicamentos).
 - **Nervo Olfatório (NC I)**: Único sentido que não passa obrigatoriamente pelo tálamo antes do córtex.

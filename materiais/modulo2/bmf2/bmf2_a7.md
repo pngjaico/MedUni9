@@ -9,13 +9,13 @@
 
 O Débito Cardíaco (DC) e a Lei de Frank-Starling formam o núcleo da fisiologia cardiovascular aplicada. Compreender esses mecanismos é essencial para interpretar o estado hemodinâmico de pacientes em choque, insuficiência cardíaca ou durante o exercício físico extenuante.
 
-Na prática médica, a manipulação do DC é o objetivo central de intervenções como a reposição volêmica e o uso de drogas inotrópicas. A capacidade de prever como o coração responderá a uma carga extra de volume (Lei de Starling) separa o manejo seguro da sobrecarga volêmica iatrogênica. Nesta aula, exploramos as variáveis que ditam a oferta de oxigênio aos tecidos e os limites adaptativos da bomba.
+Na prática médica, a manipulação do DC é o objetivo central de intervenções como a **reposição volêmica** e o uso de **drogas inotrópicas**. A capacidade de prever como o coração responderá a uma carga extra de volume (**Lei de Starling**) separa o manejo seguro da sobrecarga volêmica iatrogênica. Nesta aula, exploramos as variáveis que ditam a oferta de oxigênio aos tecidos e os limites adaptativos da bomba.
 
 ---
 
 ## Determinantes do Débito Cardíaco
 
-O **Débito Cardíaco** é o volume de sangue ejetado por cada ventrículo no intervalo de um minuto, sendo o produto da **Frequência Cardíaca (FC)** pelo **Volume Sistólico (VS)**. Embora pareça uma conta simples, o equilíbrio entre essas variáveis é complexo: se a FC subir excessivamente, o tempo de diástole encurta, prejudicando o enchimento e podendo reduzir drasticamente o VS, o que anula o ganho esperado no débito final.
+O **Débito Cardíaco** é o volume de sangue ejetado por cada ventrículo no intervalo de um minuto, sendo o produto da **Frequência Cardíaca (FC)** pelo **Volume Sistólico (VS)**. Embora pareça uma conta simples, o equilíbrio entre essas variáveis é complexo: se a FC subir excessivamente, o **tempo de diástole** encurta, prejudicando o **enchimento** e podendo reduzir drasticamente o VS, o que anula o ganho esperado no débito final.
 
 O **Volume Sistólico**, por sua vez, é regido por uma tríade fundamental:
 *   **Pré-carga:** Corresponde ao grau de estiramento das fibras ao final da diástole (volume final).
@@ -26,9 +26,9 @@ O **Volume Sistólico**, por sua vez, é regido por uma tríade fundamental:
 
 | Determinante | O que é? | Influência no VS | Exemplo Clínico |
 |--------------|----------|------------------|-----------------|
-| **Pré-carga** | Estiramento diastólico | ↑ Estiramento = ↑ Força | Reposição de Soros |
-| **Pós-carga** | Resistência à saída | ↑ Resistência = ↓ VS | Hipertensão Arterial |
-| **Inotropismo**| Força intrínseca | ↑ Cálcio = ↑ Força | Dobutamina (fármaco) |
+| **Pré-carga** | **Estiramento diastólico** | ↑ Estiramento = ↑ Força | **Reposição de Soros** |
+| **Pós-carga** | **Resistência à saída** | ↑ Resistência = ↓ VS | **Hipertensão Arterial** |
+| **Inotropismo**| **Força intrínseca** | ↑ Cálcio = ↑ Força | **Dobutamina** (fármaco) |
 
 ---
 
@@ -42,9 +42,9 @@ No entanto, este mecanismo possui um limite superior, representado pelo platô d
 
 | Condição | Resposta ao Volume | Consequência Clínica |
 |----------|--------------------|----------------------|
-| **Coração Saudável**| Resposta linear e vigorosa | Ótima reserva para exercício |
-| **IC Sistólica** | Platô precoce e baixo | Congestão com pouco débito |
-| **Uso de Inotrópico**| Deslocamento para cima | Melhora da perfusão imediata |
+| **Coração Saudável**| **Resposta linear e vigorosa** | Ótima reserva para exercício |
+| **IC Sistólica** | **Platô precoce e baixo** | **Congestão** com pouco débito |
+| **Uso de Inotrópico**| **Deslocamento para cima** | **perfusão imediata** |
 
 ---
 
@@ -81,7 +81,7 @@ Diferencie bem os determinantes: **Pré-carga** é volume que chega; **Pós-carg
 | **Débito Cardíaco** | **Fração de Ejeção** | Volume total por min vs **Porcentagem** ejetada |
 | **Efeito Chronotrópico** | **Efeito Inotrópico** | Mexe na **Frequência** vs Mexe na **Força** |
 | **Frank-Starling** | **Inotropismo** | Força por **Estiramento** vs Força por **Cálcio/SNA** |
-| **Choque Hipovolêmico** | **Choque Cardiogênico** | Falta de Pré-carga vs Falta de Inotropismo |
+| **Choque Hipovolêmico** | **Choque Cardiogênico** | Falta de **Pré-carga** vs Falta de **Inotropismo** |
 
 ### Frase-âncora para não esquecer
 

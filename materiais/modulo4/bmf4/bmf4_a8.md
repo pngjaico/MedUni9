@@ -1,6 +1,6 @@
 # BMF4 — Aula 8: Morfologia do Tronco Encefálico — Os Centros Vitais
 
-O tronco encefálico é o "filtro" que conecta o cérebro à medula. Ele é pequeno, mas concentra funções vitais como a respiração e os batimentos cardíacos. Na prova, os temas centrais são a divisão em **Mesencéfalo, Ponte e Bulbo**, os nervos cranianos e a famosa **Síndrome Alterna** (assinatura clínica do tronco).
+O tronco encefálico é o "filtro" que conecta o cérebro à medula. Ele é pequeno, mas concentra funções vitais como a respiração e os batimentos cardíacos. Na prova, os temas centrais são a divisão em **Mesencéfalo, Ponte e Bulbo**, os **nervos cranianos** e a famosa **Síndrome Alterna** (assinatura clínica do tronco).
 
 Na prática, uma lesão de poucos milímetros no tronco pode ser fatal ou causar o **Enclausuramento (Locked-in)**, onde o paciente fica totalmente paralisado (exceto os olhos), mas totalmente consciente. É a região onde a anatomia é mais densa e cada nervo que sai indica exatamente a altura da lesão.
 
@@ -18,7 +18,7 @@ Na prática, uma lesão de poucos milímetros no tronco pode ser fatal ou causar
 ## 1. As Três Partes do Tronco
 
 O tronco é composto por três blocos:
-- **Mesencéfalo:** A parte mais alta. Contém a **Substância Negra** (que produz dopamina — sua falta causa o **Parkinson**) e os centros dos reflexos visuais e auditivos.
+- **Mesencéfalo:** A parte mais alta. Contem a **Substância Negra** (que produz dopamina — sua falta causa o **Parkinson**) e os centros dos reflexos visuais e auditivos.
 - **Ponte:** O bloco do meio. É uma grande ponte de fibras que conecta o cérebro ao cerebelo. Controla o **Olhar Horizontal** (se você olha para o lado, usa a ponte).
 - **Bulbo (Medula Oblonga):** A base do tronco. É onde ficam os centros da **Respiração e Pressão**. Nas pirâmides do bulbo ocorre a **Decussação** (cruzamento): o lado esquerdo do cérebro passa a mandar no lado direito do corpo.
 
@@ -44,13 +44,13 @@ Essa é a regra mais importante para diagnosticar lesões de tronco na prova e n
 
 ## 4. Reticular e Vigilância
 
-Dentro do tronco existe a **Formação Reticular**, que funciona como o botão de "Liga/Desliga" do cérebro (SARA — Sistema Ativador Reticular Ascendente). Se uma lesão atingir essa rede, o paciente entra em **Coma**, pois a "luz" do córtex é apagada pela falta de estímulo que vem do tronco.
+Dentro do tronco existe a **Formação Reticular**, que funciona como o botão de "Liga/Desliga" do cérebro (**SARA** — Sistema Ativador Reticular Ascendente). Se uma linha de lesão atingir essa rede, o paciente entra em **Coma**, pois a "luz" do córtex é apagada pela falta de estímulo que vem do tronco.
 
 ---
 
 ## Ponte com a Clínica
 
-No pronto-socorro, se atender um paciente com **AVC de Tronco** (especificamente a Síndrome de Wallenberg), ele apresentará uma combinação clássica: dificuldade para engolir e rouquidão, mas SEM paralisia nos braços e pernas. Isso ocorre porque o sangue parou de chegar na lateral do bulbo, atingindo os nervos da garganta, mas poupando as pirâmides motoras que ficam na frente. Anatomia é destino: o vaso entupido dita o sintoma.
+No pronto-socorro, se atender um paciente com **AVC de Tronco** (especificamente a **Síndrome de Wallenberg**), ele apresentará uma combinação clássica: dificuldade para engolir e rouquidão, mas SEM paralisia nos braços e pernas. Isso ocorre porque o sangue parou de chegar na lateral do bulbo, atingindo os nervos da garganta, mas poupando as pirâmides motoras que ficam na frente. Anatomia é destino: o vaso entupido dita o sintoma.
 
 ---
 

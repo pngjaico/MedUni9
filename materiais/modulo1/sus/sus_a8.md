@@ -37,7 +37,7 @@ Os **Atributos de Starfield** são a bíblia da APS. Memorize para a prova:
 3.  **Integralidade:** Atender todas as necessidades (Prevenção ao tratamento).
 4.  **Coordenação:** Organizar o fluxo do paciente na rede (Referência/Contrarreferência).
 
-> **Pulo do Gato:** Se a questão fala em "vínculo" e "acompanhamento por anos", o atributo é a **Longitudinalidade**. Se fala em "organizar a fila", é **Coordenação**.
+> **Pulo do Gato:** Se a questão fala em "**vínculo**" e "**acompanhamento por anos**", o atributo é a **Longitudinalidade**. Se fala em "**organizar a fila**", é **Coordenação**.
 
 > **Dica de Prova:** Se o enunciado descreve repetidas idas ao pronto atendimento por doença crônica sem seguimento, o problema central costuma ser falha de longitudinalidade e coordenação da APS.
 
@@ -47,11 +47,11 @@ Os **Atributos de Starfield** são a bíblia da APS. Memorize para a prova:
 
 ## PNAB na prática: da diretriz ao cotidiano da equipe
 
-A PNAB orienta o trabalho da atenção básica com foco em acesso, qualidade, vínculo e redução de iniquidades. Ela também articula planejamento local, educação permanente e avaliação de indicadores.
+A **PNAB** orienta o trabalho da atenção básica com foco em **acesso, qualidade, vínculo e redução de iniquidades**. Ela também articula planejamento local, educação permanente e avaliação de indicadores.
 
 No SUS real, isso aparece em ações como:
 
-- agenda combinando demanda espontânea e programada;
+- agenda combinando **demanda espontânea e programada**;
 - acompanhamento de linhas de cuidado prioritárias;
 - reuniões de equipe com discussão de casos complexos;
 - monitoramento de cobertura vacinal e condições crônicas;
@@ -61,7 +61,7 @@ No SUS real, isso aparece em ações como:
 
 ## ESF e composição de equipe: responsabilidade por território
 
-A equipe de ESF atua sobre população adscrita e precisa conhecer risco clínico e social do território. O arranjo multiprofissional aumenta resolutividade e evita cuidado episódico.
+A equipe de **ESF** atua sobre **população adscrita** e precisa conhecer **risco clínico e social** do território. O arranjo multiprofissional aumenta resolutividade e evita cuidado episódico.
 
 Além do núcleo mínimo, arranjos de apoio ampliam intervenção em saúde mental, reabilitação, nutrição e cuidado social, sempre com lógica de compartilhamento de caso e não mera soma de atendimentos paralelos.
 
@@ -78,9 +78,9 @@ Além do núcleo mínimo, arranjos de apoio ampliam intervenção em saúde ment
 
 ## Microárea, ACS e territorialização inteligente
 
-A microárea permite dividir responsabilidade sanitária e organizar vigilância ativa. O ACS é peça central para identificar gestantes sem pré-natal, abandono terapêutico, condições habitacionais críticas e barreiras de acesso.
+A **microárea** permite dividir responsabilidade sanitária e **organizar vigilância ativa**. O **ACS** é peça central para identificar gestantes sem pré-natal, abandono terapêutico, condições habitacionais críticas e barreiras de acesso.
 
-Sem territorialização, a APS tende a funcionar por demanda passiva; com territorialização, ela antecipa risco e atua preventivamente.
+Sem **territorialização**, a APS tende a funcionar por demanda passiva; com territorialização, ela antecipa risco e atua preventivamente.
 
 Exemplo prático no SUS real: aumento de faltas em consultas de puericultura pode sinalizar barreira de transporte ou conflito de horário com trabalho informal. A equipe replaneja agenda e ação comunitária em vez de apenas registrar "não adesão".
 
@@ -88,7 +88,7 @@ Exemplo prático no SUS real: aumento de faltas em consultas de puericultura pod
 
 ## Coordenação do cuidado e regulação
 
-Coordenar não é só encaminhar. É garantir que o usuário chegue ao ponto de atenção adequado, com informação clínica suficiente, e retorne para seguimento longitudinal na APS.
+Coordenar não é só encaminhar. É garantir que o usuário chegue ao ponto de atenção adequado, com informação clínica suficiente, e retorne para **seguimento longitudinal na APS**.
 
 Quando a coordenação funciona:
 
@@ -101,7 +101,7 @@ Quando a coordenação funciona:
 
 ## Ponte com a Clínica
 
-Paciente com hipertensão e diabetes descompensadas, múltiplas idas ao pronto atendimento e baixa adesão. A solução não é apenas intensificar prescrição: é reorganizar seguimento na ESF, mapear barreiras familiares e sociais, incluir educação em saúde e coordenar avaliação especializada quando necessário.
+Paciente com hipertensão e diabetes descompensadas, múltiplas idas ao pronto atendimento e baixa adesão. A solução não é apenas intensificar prescrição: é reorganizar seguimento na **ESF**, mapear barreiras familiares e sociais, incluir educação em saúde e coordenar avaliação especializada quando necessário.
 
 Esse é o núcleo da PNAB aplicada: cuidado contínuo, territorial e orientado por risco, com a APS como coordenadora da rede.
 
@@ -116,10 +116,10 @@ Esse é o núcleo da PNAB aplicada: cuidado contínuo, territorial e orientado p
 
 | Conceito A | Conceito B | Diferencial para Prova |
 |------------|------------|-------------------------|
-| **Longitudinalidade**| **Continuidade** | Vínculo no tempo vs Apenas não interromper |
-| **APS** | **Atenção Básica** | Termos usados como sinônimos no Brasil (PNAB)|
+| **Longitudinalidade**| **Continuidade** | **Vínculo no tempo** vs Apenas não interromper |
+| **APS** | **Atenção Básica** | **Termos usados como sinônimos** no Brasil (PNAB)|
 | **Integralidade** | **Integracionalidade**| Atender tudo vs Unir serviços da rede |
-| **Demanda Espontânea**| **Demanda Programada**| O que chega na hora vs O que é agendado |
+| **Demanda Espontânea**| **Demanda Programada**| **O que chega na hora** vs O que é agendado |
 
 ### Frase-âncora para não esquecer
 

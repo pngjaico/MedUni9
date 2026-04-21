@@ -9,7 +9,7 @@
 
 Indicadores em saúde do trabalhador transformam eventos dispersos em evidência para decisão. Sem indicadores, a equipe só reage a casos isolados; com indicadores, consegue identificar padrão de risco, priorizar prevenção e avaliar resultado de intervenção.
 
-A cobrança em avaliação costuma focar interpretação: diferença entre incidência e prevalência, leitura de coeficientes, subnotificação e limite de comparações entre setores com perfis ocupacionais distintos.
+A cobrança em avaliação costuma focar interpretação: diferença entre **incidência e prevalência**, leitura de coeficientes, **subnotificação** e limite de comparações entre setores com perfis ocupacionais distintos.
 
 ### Figura sugerida
 
@@ -42,11 +42,11 @@ Esse enquadramento evita confundir atividade realizada com resultado alcançado.
 
 ### Incidência de agravos ocupacionais
 
-Expressa casos novos em período definido, em população exposta. É útil para detectar aumento recente de risco após mudança de processo produtivo.
+Expressa **casos novos** em período definido, em população exposta. É útil para detectar aumento recente de risco após mudança de processo produtivo.
 
 ### Prevalência de adoecimento relacionado ao trabalho
 
-Mostra o total de casos existentes em determinado momento, incluindo quadros antigos. Ajuda a estimar carga de doença e necessidade assistencial contínua.
+Mostra o **total de casos existentes** em determinado momento, incluindo quadros antigos. Ajuda a estimar carga de doença e necessidade assistencial contínua.
 
 ### Taxa de frequência e gravidade de acidentes
 
@@ -99,11 +99,11 @@ Se, após três meses, cai a frequência de afastamentos e melhora a adesão a m
 
 ## Pontos-Chave para Prova
 
-- Indicadores de estrutura, processo e resultado respondem perguntas diferentes.
-- Incidência capta casos novos; prevalência capta carga total existente.
+- Indicadores de **estrutura, processo e resultado** respondem perguntas diferentes.
+- **Incidência** capta casos novos; **prevalência** capta carga total existente.
 - Taxa de frequência e gravidade de acidente são complementares, não concorrentes.
 - Qualidade de dado é condição para interpretação válida.
-- Subnotificação pode simular melhora artificial.
+- **Subnotificação** pode simular melhora artificial.
 - Banca valoriza leitura crítica, não apenas fórmula decorada.
 
 ---

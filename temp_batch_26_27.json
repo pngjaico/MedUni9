@@ -1,0 +1,2084 @@
+[
+  {
+    "id": 2703,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Raciocínio sindrômico:: conceito-base para orientar o restante.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Integração exame clínico e complementar:: orienta segurança e manejo de risco."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Raciocínio sindrômico:: conceito-base para orientar o restante.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Raciocínio sindrômico:: conceito-base para orientar o restante.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) INCORRETA. Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2704,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Probabilidade pré e pós-teste:” está correta?",
+    "opcoes": [
+      "A) Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) diferencia quadros parecidos em questão objetiva.",
+      "D) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Probabilidade pré e pós-teste:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Correta: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Probabilidade pré e pós-teste:”.\nA) INCORRETA. Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) CORRETA. Correta: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2705,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "B) Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "B": "Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+      "C": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nB) INCORRETA. Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.\nC) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2710,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Reavaliação dinâmica da conduta:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C) Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+      "D) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Reavaliação dinâmica da conduta:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C": "Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.",
+      "D": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Reavaliação dinâmica da conduta:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nC) INCORRETA. Incorreta: Integração exame clínico e complementar:: orienta segurança e manejo de risco.\nD) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2712,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Farmacocinética: ADME:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Janela terapêutica:: orienta segurança e manejo de risco.",
+      "C) Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.",
+      "D) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Farmacocinética: ADME:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Janela terapêutica:: orienta segurança e manejo de risco.",
+      "C": "Incorreta: Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.",
+      "D": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Farmacocinética: ADME:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Janela terapêutica:: orienta segurança e manejo de risco.\nC) INCORRETA. Incorreta: Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.\nD) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2715,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Janela terapêutica:: orienta segurança e manejo de risco.",
+      "B) Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Janela terapêutica:: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Janela terapêutica:: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2716,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Janela terapêutica:” está correta?",
+    "opcoes": [
+      "A) orienta segurança e manejo de risco.",
+      "B) Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Janela terapêutica:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Janela terapêutica:”.\nA) CORRETA. Correta: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Ajuste de dose em disfunção orgânica:: sustenta justificativa clínica da melhor alternativa.\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2720,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Ajuste de dose em disfunção orgânica:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Janela terapêutica:: orienta segurança e manejo de risco.",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ajuste de dose em disfunção orgânica:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Janela terapêutica:: orienta segurança e manejo de risco.",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ajuste de dose em disfunção orgânica:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Janela terapêutica:: orienta segurança e manejo de risco.\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2722,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “COX e ação anti-inflamatória:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+      "C) Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+      "D) Toxicidade gastrointestinal e renal:: ponto de segurança clínica obrigatório."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “COX e ação anti-inflamatória:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+      "C": "Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+      "D": "Incorreta: Toxicidade gastrointestinal e renal:: ponto de segurança clínica obrigatório."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “COX e ação anti-inflamatória:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.\nC) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.\nD) INCORRETA. Incorreta: Toxicidade gastrointestinal e renal:: ponto de segurança clínica obrigatório.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2724,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Eixo HHA e corticoides:” está correta?",
+    "opcoes": [
+      "A) COX e ação anti-inflamatória:: estrutura o raciocínio da aula.",
+      "B) Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+      "C) diferencia quadros parecidos em questão objetiva.",
+      "D) Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Eixo HHA e corticoides:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: COX e ação anti-inflamatória:: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+      "C": "Correta: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Eixo HHA e corticoides:”.\nA) INCORRETA. Incorreta: COX e ação anti-inflamatória:: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.\nC) CORRETA. Correta: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2729,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Benefício estatístico” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+      "B) COX e ação anti-inflamatória:: estrutura o raciocínio da aula.",
+      "C) Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+      "D) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Benefício estatístico” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+      "B": "Incorreta: COX e ação anti-inflamatória:: estrutura o raciocínio da aula.",
+      "C": "Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+      "D": "Correta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Benefício estatístico” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.\nB) INCORRETA. Incorreta: COX e ação anti-inflamatória:: estrutura o raciocínio da aula.\nC) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.\nD) CORRETA. Correta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2730,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Monitorização de eventos adversos:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+      "C) COX e ação anti-inflamatória:: estrutura o raciocínio da aula.",
+      "D) Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Monitorização de eventos adversos:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.",
+      "C": "Incorreta: COX e ação anti-inflamatória:: estrutura o raciocínio da aula.",
+      "D": "Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Monitorização de eventos adversos:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: aparece em cenários de conduta prática.\nC) INCORRETA. Incorreta: COX e ação anti-inflamatória:: estrutura o raciocínio da aula.\nD) INCORRETA. Incorreta: Bases da quimioterapia antineoplásica:: decisão com impacto imediato no desfecho.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2732,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “AVC isquêmico e hemorrágico:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+      "C) Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+      "D) Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “AVC isquêmico e hemorrágico:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+      "C": "Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+      "D": "Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “AVC isquêmico e hemorrágico:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.\nC) INCORRETA. Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.\nD) INCORRETA. Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2733,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+      "D) Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+      "D": "Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.\nD) INCORRETA. Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2734,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Penumbra isquêmica e tempo:” está correta?",
+    "opcoes": [
+      "A) Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+      "B) Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+      "C) diferencia quadros parecidos em questão objetiva.",
+      "D) Prevenção secundária:: sustenta justificativa clínica da melhor alternativa."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Penumbra isquêmica e tempo:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+      "B": "Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+      "C": "Correta: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Penumbra isquêmica e tempo:”.\nA) INCORRETA. Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.\nB) INCORRETA. Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.\nC) CORRETA. Correta: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2735,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+      "B) Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+      "C) Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.",
+      "C": "Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Prevenção secundária:: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Penumbra isquêmica e tempo:: diferenciação mais cobrada na Uninove.\nC) INCORRETA. Incorreta: Edema cerebral e pressão intracraniana:: decisão com impacto imediato no desfecho.\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2742,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Gliomas, meningiomas e adenomas:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Déficit focal e topografia:: ponto de segurança clínica obrigatório.",
+      "C) Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "D) Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Gliomas, meningiomas e adenomas:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório.",
+      "C": "Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "D": "Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Gliomas, meningiomas e adenomas:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório.\nC) INCORRETA. Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.\nD) INCORRETA. Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2745,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Déficit focal e topografia:: ponto de segurança clínica obrigatório.",
+      "B) Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "C) Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório.",
+      "B": "Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "C": "Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório.\nB) INCORRETA. Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.\nC) INCORRETA. Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2748,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Diagnóstico por imagem e histologia:” está correta?",
+    "opcoes": [
+      "A) Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "B) Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+      "C) aparece em cenários de conduta prática.",
+      "D) Déficit focal e topografia:: ponto de segurança clínica obrigatório."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Diagnóstico por imagem e histologia:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+      "C": "Correta: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Diagnóstico por imagem e histologia:”.\nA) INCORRETA. Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.\nC) CORRETA. Correta: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2751,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "B) Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Déficit focal e topografia:: ponto de segurança clínica obrigatório."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Déficit focal e topografia:: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Diagnóstico por imagem e histologia:: decisão com impacto imediato no desfecho.\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Déficit focal e topografia:: ponto de segurança clínica obrigatório.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2752,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Receptores adrenérgicos alfa e beta:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "C) Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+      "D) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Receptores adrenérgicos alfa e beta:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "C": "Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Receptores adrenérgicos alfa e beta:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.\nC) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2754,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Receptores muscarínicos e nicotínicos:” está correta?",
+    "opcoes": [
+      "A) Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "B) Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+      "C) diferencia quadros parecidos em questão objetiva.",
+      "D) Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Receptores muscarínicos e nicotínicos:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "B": "Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+      "C": "Correta: diferencia quadros parecidos em questão objetiva.",
+      "D": "Incorreta: Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Receptores muscarínicos e nicotínicos:”.\nA) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.\nB) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.\nC) CORRETA. Correta: diferencia quadros parecidos em questão objetiva.\nD) INCORRETA. Incorreta: Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2760,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Efeitos cardiovasculares e bronquiais:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula.",
+      "C) Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "D) Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Efeitos cardiovasculares e bronquiais:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula.",
+      "C": "Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "D": "Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Efeitos cardiovasculares e bronquiais:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula.\nC) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.\nD) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2761,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "B) Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.",
+      "B": "Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: decisão com impacto imediato no desfecho.\nB) INCORRETA. Incorreta: Anticolinérgicos e colinérgicos:: aparece em cenários de conduta prática.\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Receptores adrenérgicos alfa e beta:: estrutura o raciocínio da aula.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2762,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Bloqueio neuromuscular despolarizante e não despolarizante:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+      "C) Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.",
+      "D) Receptores opioides:: ponto de segurança clínica obrigatório."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Bloqueio neuromuscular despolarizante e não despolarizante:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+      "C": "Incorreta: Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.",
+      "D": "Incorreta: Receptores opioides:: ponto de segurança clínica obrigatório."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Bloqueio neuromuscular despolarizante e não despolarizante:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.\nC) INCORRETA. Incorreta: Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.\nD) INCORRETA. Incorreta: Receptores opioides:: ponto de segurança clínica obrigatório.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2765,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Achado de gravidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+      "B) Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.",
+      "C) Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.",
+      "D) Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+      "B": "Incorreta: Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.",
+      "C": "Incorreta: Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.",
+      "D": "Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Achado de gravidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.\nB) INCORRETA. Incorreta: Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.\nC) INCORRETA. Incorreta: Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.\nD) CORRETA. Correta: Achado de gravidade — Achado inespecífico — Gravidade muda conduta imediata; inespecífico só contextualiza",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2770,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Analgesia multimodal:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+      "C) Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.",
+      "D) Receptores opioides:: ponto de segurança clínica obrigatório."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Analgesia multimodal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+      "C": "Incorreta: Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.",
+      "D": "Incorreta: Receptores opioides:: ponto de segurança clínica obrigatório."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Analgesia multimodal:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.\nC) INCORRETA. Incorreta: Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.\nD) INCORRETA. Incorreta: Receptores opioides:: ponto de segurança clínica obrigatório.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2771,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.",
+      "B) Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Bloqueio neuromuscular despolarizante e não despolarizante:: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Analgesia multimodal:: sustenta justificativa clínica da melhor alternativa.\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Monitorização do bloqueio:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2778,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Monitorização perioperatória:” está correta?",
+    "opcoes": [
+      "A) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "B) Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+      "C) aparece em cenários de conduta prática.",
+      "D) Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Monitorização perioperatória:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "B": "Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+      "C": "Correta: aparece em cenários de conduta prática.",
+      "D": "Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Monitorização perioperatória:”.\nA) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nB) INCORRETA. Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.\nC) CORRETA. Correta: aparece em cenários de conduta prática.\nD) INCORRETA. Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2779,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Benefício estatístico” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+      "D) Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Benefício estatístico” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.",
+      "B": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+      "D": "Correta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Benefício estatístico” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.\nB) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.\nD) CORRETA. Correta: Benefício estatístico — Benefício clínico — Significância pode existir sem impacto clínico relevante",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2780,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Complicações e recuperação:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Complicações e recuperação:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.",
+      "C": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Complicações e recuperação:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.\nC) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2781,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+      "B) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Canais de sódio e anestésicos locais:: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Anestesia geral venosa e inalatória:: orienta segurança e manejo de risco.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2782,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Antidepressivos e latência terapêutica:” está correta?",
+    "opcoes": [
+      "A) estrutura o raciocínio da aula.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Antidepressivos e latência terapêutica:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura o raciocínio da aula.",
+      "B": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Antidepressivos e latência terapêutica:”.\nA) CORRETA. Correta: estrutura o raciocínio da aula.\nB) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) INCORRETA. Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2783,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Antidepressivos e latência terapêutica:: conceito-base para orientar o restante.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Antidepressivos e latência terapêutica:: conceito-base para orientar o restante.",
+      "B": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Antidepressivos e latência terapêutica:: conceito-base para orientar o restante.\nB) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) INCORRETA. Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2790,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Qual afirmação sobre “Síndrome serotoninérgica e efeitos extrapiramidais:” está correta?",
+    "opcoes": [
+      "A) sustenta justificativa clínica da melhor alternativa.",
+      "B) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D) Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome serotoninérgica e efeitos extrapiramidais:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sustenta justificativa clínica da melhor alternativa.",
+      "B": "Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "C": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+      "D": "Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome serotoninérgica e efeitos extrapiramidais:”.\nA) CORRETA. Correta: sustenta justificativa clínica da melhor alternativa.\nB) INCORRETA. Incorreta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nC) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica\nD) INCORRETA. Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2791,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Mecanismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva.",
+      "B) Antidepressivos e latência terapêutica:: conceito-base para orientar o restante.",
+      "C) Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D) Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva.",
+      "B": "Incorreta: Antidepressivos e latência terapêutica:: conceito-base para orientar o restante.",
+      "C": "Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente",
+      "D": "Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Mecanismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Antipsicóticos típicos e atípicos:: diferencia quadros parecidos em questão objetiva.\nB) INCORRETA. Incorreta: Antidepressivos e latência terapêutica:: conceito-base para orientar o restante.\nC) CORRETA. Correta: Mecanismo — Efeito clínico — Mecanismo descreve alvo; efeito descreve resultado no paciente\nD) INCORRETA. Incorreta: Conduta inicial — Conduta definitiva — Inicial estabiliza e reduz risco; definitiva exige confirmação diagnóstica",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2792,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Topografia primeiro:” está correta?",
+    "opcoes": [
+      "A) Em neurologia, localizar a lesão vem antes da etiologia.",
+      "B) Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+      "C) Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+      "D) Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Topografia primeiro:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Em neurologia, localizar a lesão vem antes da etiologia.",
+      "B": "Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+      "C": "Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+      "D": "Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Topografia primeiro:”.\nA) CORRETA. Correta: Em neurologia, localizar a lesão vem antes da etiologia.\nB) INCORRETA. Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.\nC) INCORRETA. Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.\nD) INCORRETA. Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2793,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Padrão clínico” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+      "B) Padrão clínico — Achado dominante — Topografia provável — Dado de maior peso",
+      "C) Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+      "D) Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Padrão clínico” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+      "B": "Correta: Padrão clínico — Achado dominante — Topografia provável — Dado de maior peso",
+      "C": "Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+      "D": "Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Padrão clínico” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal\nB) CORRETA. Correta: Padrão clínico — Achado dominante — Topografia provável — Dado de maior peso\nC) INCORRETA. Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.\nD) INCORRETA. Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2795,
+    "materia": "semiologia4",
+    "tema": "semio4_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Hemiparesia + afasia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+      "B) Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+      "C) Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+      "D) Hemiparesia + afasia — Déficit focal cortical — Hemisfério dominante — Linguagem alterada + sinal de trato longo"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Hemiparesia + afasia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+      "B": "Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+      "C": "Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+      "D": "Correta: Hemiparesia + afasia — Déficit focal cortical — Hemisfério dominante — Linguagem alterada + sinal de trato longo"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Hemiparesia + afasia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.\nB) INCORRETA. Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.\nC) INCORRETA. Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal\nD) CORRETA. Correta: Hemiparesia + afasia — Déficit focal cortical — Hemisfério dominante — Linguagem alterada + sinal de trato longo",
+    "aula_id": "semio4_a1",
+    "essencial": false
+  },
+  {
+    "id": 2801,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Fraqueza distal + hiporreflexia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+      "B) Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+      "C) Fraqueza distal + hiporreflexia — Padrão periférico — Raiz/nervo/polineuropatia — Reflexos reduzidos e ausência de sinal central",
+      "D) Exame útil é interpretativo:: manobra só tem valor quando muda hipótese."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Fraqueza distal + hiporreflexia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.",
+      "B": "Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal",
+      "C": "Correta: Fraqueza distal + hiporreflexia — Padrão periférico — Raiz/nervo/polineuropatia — Reflexos reduzidos e ausência de sinal central",
+      "D": "Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fraqueza distal + hiporreflexia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Padrão piramidal:: força alterada com sinais de trato longo sugere lesão central.\nB) INCORRETA. Incorreta: Síndrome piramidal — Síndrome periférica — Piramidal: sinais de trato longo; periférica: hiporreflexia distal\nC) CORRETA. Correta: Fraqueza distal + hiporreflexia — Padrão periférico — Raiz/nervo/polineuropatia — Reflexos reduzidos e ausência de sinal central\nD) INCORRETA. Incorreta: Exame útil é interpretativo:: manobra só tem valor quando muda hipótese.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2802,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Consentimento:” está correta?",
+    "opcoes": [
+      "A) explique o que é o exame neurológico antes de realizá-lo. \"Vou testar seus reflexos — pode sentir uma pancada leve.\"",
+      "B) Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+      "C) Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+      "D) Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Consentimento:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: explique o que é o exame neurológico antes de realizá-lo. \"Vou testar seus reflexos — pode sentir uma pancada leve.\"",
+      "B": "Incorreta: Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+      "C": "Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+      "D": "Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Consentimento:”.\nA) CORRETA. Correta: explique o que é o exame neurológico antes de realizá-lo. \"Vou testar seus reflexos — pode sentir uma pancada leve.\"\nB) INCORRETA. Incorreta: Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.\nC) INCORRETA. Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão\nD) INCORRETA. Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2803,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Aspecto” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+      "B) Aspecto — Laboratório — Ambulatório real",
+      "C) Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+      "D) Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Aspecto” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+      "B": "Correta: Aspecto — Laboratório — Ambulatório real",
+      "C": "Incorreta: Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+      "D": "Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Aspecto” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.\nB) CORRETA. Correta: Aspecto — Laboratório — Ambulatório real\nC) INCORRETA. Incorreta: Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.\nD) INCORRETA. Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2806,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual afirmação sobre “Comunicação de resultados:” está correta?",
+    "opcoes": [
+      "A) nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+      "B) Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+      "C) Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+      "D) Enxaqueca — Cefaleia tensional — Enxaqueca: pulsátil + náusea + fotofobia; tensional: compressiva bilateral, sem náusea"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Comunicação de resultados:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+      "B": "Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+      "C": "Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+      "D": "Incorreta: Enxaqueca — Cefaleia tensional — Enxaqueca: pulsátil + náusea + fotofobia; tensional: compressiva bilateral, sem náusea"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Comunicação de resultados:”.\nA) CORRETA. Correta: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.\nB) INCORRETA. Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão\nC) INCORRETA. Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.\nD) INCORRETA. Incorreta: Enxaqueca — Cefaleia tensional — Enxaqueca: pulsátil + náusea + fotofobia; tensional: compressiva bilateral, sem náusea",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2811,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Apoio” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+      "B) Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+      "C) Apoio — Supervisor próximo — Supervisor disponível mas não imediato",
+      "D) Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Apoio” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão",
+      "B": "Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.",
+      "C": "Correta: Apoio — Supervisor próximo — Supervisor disponível mas não imediato",
+      "D": "Incorreta: Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Apoio” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Surto de EM — Pseudosurto — Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão\nB) INCORRETA. Incorreta: Documentação padrão:: consciência → NCs → motor → sensitivo → cerebelar → marcha.\nC) CORRETA. Correta: Apoio — Supervisor próximo — Supervisor disponível mas não imediato\nD) INCORRETA. Incorreta: Comunicação de resultados:: nunca diga \"você tem Alzheimer\" sem protocolo de comunicação de más notícias. Use linguagem acessível.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2812,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Anamnese neurológica define direção diagnóstica” está correta?",
+    "opcoes": [
+      "A) antes de exame complementar.",
+      "B) \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+      "C) \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+      "D) Sinais de alarme neurológico definem urgência: e mudam prioridade de investigação."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anamnese neurológica define direção diagnóstica”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: antes de exame complementar.",
+      "B": "Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+      "C": "Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+      "D": "Incorreta: Sinais de alarme neurológico definem urgência: e mudam prioridade de investigação."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anamnese neurológica define direção diagnóstica”.\nA) CORRETA. Correta: antes de exame complementar.\nB) INCORRETA. Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real\nC) INCORRETA. Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo\nD) INCORRETA. Incorreta: Sinais de alarme neurológico definem urgência: e mudam prioridade de investigação.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2813,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Padrão de história” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+      "B) Padrão de história — Hipótese mais provável — Dado de reforço — Próximo passo lógico",
+      "C) Anamnese neurológica define direção diagnóstica: antes de exame complementar.",
+      "D) \"O que você deixou de fazer?\" — Quantifica impacto funcional real"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Padrão de história” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+      "B": "Correta: Padrão de história — Hipótese mais provável — Dado de reforço — Próximo passo lógico",
+      "C": "Incorreta: Anamnese neurológica define direção diagnóstica: antes de exame complementar.",
+      "D": "Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Padrão de história” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo\nB) CORRETA. Correta: Padrão de história — Hipótese mais provável — Dado de reforço — Próximo passo lógico\nC) INCORRETA. Incorreta: Anamnese neurológica define direção diagnóstica: antes de exame complementar.\nD) INCORRETA. Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2820,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Sinais de alarme” está correta?",
+    "opcoes": [
+      "A) mudam urgência e prioridade de conduta.",
+      "B) Anamnese neurológica define direção diagnóstica: antes de exame complementar.",
+      "C) \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+      "D) \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sinais de alarme”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mudam urgência e prioridade de conduta.",
+      "B": "Incorreta: Anamnese neurológica define direção diagnóstica: antes de exame complementar.",
+      "C": "Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+      "D": "Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sinais de alarme”.\nA) CORRETA. Correta: mudam urgência e prioridade de conduta.\nB) INCORRETA. Incorreta: Anamnese neurológica define direção diagnóstica: antes de exame complementar.\nC) INCORRETA. Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real\nD) INCORRETA. Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2821,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Dor radicular + déficit territorial” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+      "B) \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+      "C) Dor radicular + déficit territorial — Radiculopatia — Distribuição dermatomérica — Exame segmentar e correlação anatômica",
+      "D) Anamnese neurológica define direção diagnóstica: antes de exame complementar."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Dor radicular + déficit territorial” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real",
+      "B": "Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo",
+      "C": "Correta: Dor radicular + déficit territorial — Radiculopatia — Distribuição dermatomérica — Exame segmentar e correlação anatômica",
+      "D": "Incorreta: Anamnese neurológica define direção diagnóstica: antes de exame complementar."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Dor radicular + déficit territorial” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: \"O que você deixou de fazer?\" — Quantifica impacto funcional real\nB) INCORRETA. Incorreta: \"Em quanto tempo piorou?\" — Distingue curso súbito de progressivo\nC) CORRETA. Correta: Dor radicular + déficit territorial — Radiculopatia — Distribuição dermatomérica — Exame segmentar e correlação anatômica\nD) INCORRETA. Incorreta: Anamnese neurológica define direção diagnóstica: antes de exame complementar.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2822,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Alerta:” está correta?",
+    "opcoes": [
+      "A) responde a estímulos normais de voz.",
+      "B) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
+      "C) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
+      "D) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Alerta:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: responde a estímulos normais de voz.",
+      "B": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
+      "C": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
+      "D": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Alerta:”.\nA) CORRETA. Correta: responde a estímulos normais de voz.\nB) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.\nC) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nD) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2830,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “ECG ≤8:” está correta?",
+    "opcoes": [
+      "A) indica coma grave, necessidade de via aérea definitiva.",
+      "B) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
+      "C) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
+      "D) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ECG ≤8:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: indica coma grave, necessidade de via aérea definitiva.",
+      "B": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
+      "C": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
+      "D": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ECG ≤8:”.\nA) CORRETA. Correta: indica coma grave, necessidade de via aérea definitiva.\nB) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.\nC) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nD) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2831,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “NC” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
+      "B) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
+      "C) NC — Nome — Função principal — Como testar",
+      "D) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “NC” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
+      "B": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
+      "C": "Correta: NC — Nome — Função principal — Como testar",
+      "D": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “NC” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nB) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose\nC) CORRETA. Correta: NC — Nome — Função principal — Como testar\nD) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2832,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Músculo-proximal:” está correta?",
+    "opcoes": [
+      "A) deltóide (ombro), psoas (quadril).",
+      "B) Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+      "C) Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "D) Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea)."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Músculo-proximal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: deltóide (ombro), psoas (quadril).",
+      "B": "Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+      "C": "Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "D": "Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Músculo-proximal:”.\nA) CORRETA. Correta: deltóide (ombro), psoas (quadril).\nB) INCORRETA. Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.\nC) INCORRETA. Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).\nD) INCORRETA. Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2835,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “0” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+      "B) Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "C) Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).",
+      "D) 0 — Sem contração"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “0” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+      "B": "Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "C": "Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).",
+      "D": "Correta: 0 — Sem contração"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “0” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.\nB) INCORRETA. Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).\nC) INCORRETA. Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).\nD) CORRETA. Correta: 0 — Sem contração",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2838,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual afirmação sobre “Espasticidade:” está correta?",
+    "opcoes": [
+      "A) Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "B) Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).",
+      "C) aumento de tônus velocity-dependent, com \"clique\" (sinal do canivete) → lesão crônica de NMS.",
+      "D) Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Espasticidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "B": "Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).",
+      "C": "Correta: aumento de tônus velocity-dependent, com \"clique\" (sinal do canivete) → lesão crônica de NMS.",
+      "D": "Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Espasticidade:”.\nA) INCORRETA. Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).\nB) INCORRETA. Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).\nC) CORRETA. Correta: aumento de tônus velocity-dependent, com \"clique\" (sinal do canivete) → lesão crônica de NMS.\nD) INCORRETA. Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2840,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Rigidez:” está correta?",
+    "opcoes": [
+      "A) resistência igual em todo arco (rígido como cano de chumbo), ou \"dentada\" (Parkinson) → lesão de gânglios da base.",
+      "B) Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+      "C) Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "D) Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea)."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Rigidez:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: resistência igual em todo arco (rígido como cano de chumbo), ou \"dentada\" (Parkinson) → lesão de gânglios da base.",
+      "B": "Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.",
+      "C": "Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).",
+      "D": "Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Rigidez:”.\nA) CORRETA. Correta: resistência igual em todo arco (rígido como cano de chumbo), ou \"dentada\" (Parkinson) → lesão de gânglios da base.\nB) INCORRETA. Incorreta: Clônus:: contração rítmica ao manter dorsiflexão do pé forçada → NMS grave.\nC) INCORRETA. Incorreta: Reflexo palmomentual:: estímulo na palma → contração do mento ipsilateral → NMS (sinal de liberação frontal).\nD) INCORRETA. Incorreta: Catatonia:: resistência que se mantém na posição imposta pelo examinador (flexibilidade cérea).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2842,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “S3–S5:” está correta?",
+    "opcoes": [
+      "A) períneo e região perianal",
+      "B) Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "C) Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois",
+      "D) Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo)."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “S3–S5:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: períneo e região perianal",
+      "B": "Incorreta: Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "C": "Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois",
+      "D": "Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “S3–S5:”.\nA) CORRETA. Correta: períneo e região perianal\nB) INCORRETA. Incorreta: Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.\nC) INCORRETA. Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois\nD) INCORRETA. Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2843,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual alternativa associa corretamente “Modalidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).",
+      "B) Modalidade — Via — Entrada medular — Decussação",
+      "C) Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "D) Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Modalidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).",
+      "B": "Correta: Modalidade — Via — Entrada medular — Decussação",
+      "C": "Incorreta: Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "D": "Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Modalidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).\nB) CORRETA. Correta: Modalidade — Via — Entrada medular — Decussação\nC) INCORRETA. Incorreta: Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.\nD) INCORRETA. Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2844,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual afirmação sobre “Romberg positivo:” está correta?",
+    "opcoes": [
+      "A) Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).",
+      "B) Tato grosseiro — Espinotalâmico anterior — Idem — Contralateral",
+      "C) estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "D) Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Romberg positivo:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).",
+      "B": "Incorreta: Tato grosseiro — Espinotalâmico anterior — Idem — Contralateral",
+      "C": "Correta: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "D": "Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Romberg positivo:”.\nA) INCORRETA. Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).\nB) INCORRETA. Incorreta: Tato grosseiro — Espinotalâmico anterior — Idem — Contralateral\nC) CORRETA. Correta: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.\nD) INCORRETA. Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2850,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual afirmação sobre “Coluna posterior:” está correta?",
+    "opcoes": [
+      "A) vibração/propriocepção, ipsilateral até bulbo → lesão ipsilateral + Romberg positivo.",
+      "B) Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "C) Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois",
+      "D) Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo)."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coluna posterior:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: vibração/propriocepção, ipsilateral até bulbo → lesão ipsilateral + Romberg positivo.",
+      "B": "Incorreta: Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.",
+      "C": "Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois",
+      "D": "Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coluna posterior:”.\nA) CORRETA. Correta: vibração/propriocepção, ipsilateral até bulbo → lesão ipsilateral + Romberg positivo.\nB) INCORRETA. Incorreta: Romberg positivo:: estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.\nC) INCORRETA. Incorreta: Romberg + (col. post.) — Ataxia cerebelar — Romberg: olhos fechados pioram; cerebelar: ruim nos dois\nD) INCORRETA. Incorreta: Brown-Séquard:: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2852,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Afasia de Broca (motora):” está correta?",
+    "opcoes": [
+      "A) fala não fluente, vocabulário reduzido, compreensão preservada. \"Telegráfica.\" Localização: F3 esquerdo (frontal inferior).",
+      "B) Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "C) Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.",
+      "D) Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Afasia de Broca (motora):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: fala não fluente, vocabulário reduzido, compreensão preservada. \"Telegráfica.\" Localização: F3 esquerdo (frontal inferior).",
+      "B": "Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "C": "Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.",
+      "D": "Incorreta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Afasia de Broca (motora):”.\nA) CORRETA. Correta: fala não fluente, vocabulário reduzido, compreensão preservada. \"Telegráfica.\" Localização: F3 esquerdo (frontal inferior).\nB) INCORRETA. Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.\nC) INCORRETA. Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.\nD) INCORRETA. Incorreta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2853,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Função” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+      "B) Função — Área envolvida — Lesão clínica",
+      "C) Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "D) Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Função” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+      "B": "Correta: Função — Área envolvida — Lesão clínica",
+      "C": "Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "D": "Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Função” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke\nB) CORRETA. Correta: Função — Área envolvida — Lesão clínica\nC) INCORRETA. Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.\nD) INCORRETA. Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2855,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Linguagem expressiva” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "B) Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.",
+      "C) Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+      "D) Linguagem expressiva — Área de Broca (F3 esquerdo) — Afasia de Broca"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Linguagem expressiva” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "B": "Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.",
+      "C": "Incorreta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+      "D": "Correta: Linguagem expressiva — Área de Broca (F3 esquerdo) — Afasia de Broca"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Linguagem expressiva” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.\nB) INCORRETA. Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.\nC) INCORRETA. Incorreta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke\nD) CORRETA. Correta: Linguagem expressiva — Área de Broca (F3 esquerdo) — Afasia de Broca",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2857,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual alternativa associa corretamente “Linguagem receptiva” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Apraxia = praxias normais mas não executa gesto → lesão parietal.: ### Diferenciações que a Uninove adora cobrar",
+      "B) Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+      "C) Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "D) Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Linguagem receptiva” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Apraxia = praxias normais mas não executa gesto → lesão parietal.: ### Diferenciações que a Uninove adora cobrar",
+      "B": "Correta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke",
+      "C": "Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.",
+      "D": "Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Linguagem receptiva” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Apraxia = praxias normais mas não executa gesto → lesão parietal.: ### Diferenciações que a Uninove adora cobrar\nB) CORRETA. Correta: Linguagem receptiva — Área de Wernicke (T1 esquerdo) — Afasia de Wernicke\nC) INCORRETA. Incorreta: Afasia de Broca:: fala não fluente, compreensão OK, F3 esquerdo.\nD) INCORRETA. Incorreta: Afasia de condução:: repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2862,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Parkinsonismo:” está correta?",
+    "opcoes": [
+      "A) tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + ausência de sinais atípicos.",
+      "B) Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+      "C) Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+      "D) Periférica:: dor neuropática em distribuição do nervo ou dermátomo. Parestesias em luva/meia (neuropatia periférica diabética)."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Parkinsonismo:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + ausência de sinais atípicos.",
+      "B": "Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+      "C": "Incorreta: Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+      "D": "Incorreta: Periférica:: dor neuropática em distribuição do nervo ou dermátomo. Parestesias em luva/meia (neuropatia periférica diabética)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Parkinsonismo:”.\nA) CORRETA. Correta: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + ausência de sinais atípicos.\nB) INCORRETA. Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).\nC) INCORRETA. Incorreta: Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).\nD) INCORRETA. Incorreta: Periférica:: dor neuropática em distribuição do nervo ou dermátomo. Parestesias em luva/meia (neuropatia periférica diabética).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2863,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Território” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a",
+      "B) Território — Síndrome",
+      "C) Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+      "D) Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Território” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a",
+      "B": "Correta: Território — Síndrome",
+      "C": "Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+      "D": "Incorreta: Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Território” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a\nB) CORRETA. Correta: Território — Síndrome\nC) INCORRETA. Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).\nD) INCORRETA. Incorreta: Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2864,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual afirmação sobre “Coréia:” está correta?",
+    "opcoes": [
+      "A) Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a",
+      "B) Periférica:: dor neuropática em distribuição do nervo ou dermátomo. Parestesias em luva/meia (neuropatia periférica diabética).",
+      "C) movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+      "D) Atetose:: movimentos lentos e contorcidos (paralisia cerebral)."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coréia:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a",
+      "B": "Incorreta: Periférica:: dor neuropática em distribuição do nervo ou dermátomo. Parestesias em luva/meia (neuropatia periférica diabética).",
+      "C": "Correta: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+      "D": "Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coréia:”.\nA) INCORRETA. Incorreta: Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a\nB) INCORRETA. Incorreta: Periférica:: dor neuropática em distribuição do nervo ou dermátomo. Parestesias em luva/meia (neuropatia periférica diabética).\nC) CORRETA. Correta: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).\nD) INCORRETA. Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2870,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Distonia:” está correta?",
+    "opcoes": [
+      "A) postura anormal sustentada (torcicolo espasmódico).",
+      "B) Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+      "C) Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+      "D) Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Distonia:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: postura anormal sustentada (torcicolo espasmódico).",
+      "B": "Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).",
+      "C": "Incorreta: Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).",
+      "D": "Incorreta: Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Distonia:”.\nA) CORRETA. Correta: postura anormal sustentada (torcicolo espasmódico).\nB) INCORRETA. Incorreta: Atetose:: movimentos lentos e contorcidos (paralisia cerebral).\nC) INCORRETA. Incorreta: Coréia:: movimentos rápidos, irregulares e involuntários (coréia de Huntington, de Sydenham).\nD) INCORRETA. Incorreta: Parkinsonismo:: tremor de repouso, rigidez tipo roda dentada, bradicinesia, instabilidade postural (os \"4 Ts\": tremor, tonus, tronco instável, típica marcha). Doença de Parkinson = parkinsonismo + resposta à levodopa + a",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2872,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “TC hemorragia:” está correta?",
+    "opcoes": [
+      "A) hiperdenso (branco). AVC isquêmico agudo: negativo nas primeiras 6h.",
+      "B) RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+      "C) LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+      "D) T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “TC hemorragia:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: hiperdenso (branco). AVC isquêmico agudo: negativo nas primeiras 6h.",
+      "B": "Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+      "C": "Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+      "D": "Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “TC hemorragia:”.\nA) CORRETA. Correta: hiperdenso (branco). AVC isquêmico agudo: negativo nas primeiras 6h.\nB) INCORRETA. Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.\nC) INCORRETA. Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB\nD) INCORRETA. Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2873,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Sequência” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor",
+      "B) Sequência — O que destaca — Uso principal",
+      "C) RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+      "D) LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Sequência” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor",
+      "B": "Correta: Sequência — O que destaca — Uso principal",
+      "C": "Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+      "D": "Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sequência” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor\nB) CORRETA. Correta: Sequência — O que destaca — Uso principal\nC) INCORRETA. Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.\nD) INCORRETA. Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2880,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Guillain-Barré LCR:” está correta?",
+    "opcoes": [
+      "A) proteína alta + células normais (dissociação albuminocitológica).",
+      "B) RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+      "C) LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+      "D) T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Guillain-Barré LCR:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: proteína alta + células normais (dissociação albuminocitológica).",
+      "B": "Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+      "C": "Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+      "D": "Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Guillain-Barré LCR:”.\nA) CORRETA. Correta: proteína alta + células normais (dissociação albuminocitológica).\nB) INCORRETA. Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.\nC) INCORRETA. Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB\nD) INCORRETA. Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2881,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Qual alternativa associa corretamente “FLAIR” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+      "B) T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor",
+      "C) FLAIR — Suprime LCR, realça lesões corticais — Hemorragia subaracnóidea subaguda, EM",
+      "D) RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “FLAIR” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB",
+      "B": "Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor",
+      "C": "Correta: FLAIR — Suprime LCR, realça lesões corticais — Hemorragia subaracnóidea subaguda, EM",
+      "D": "Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “FLAIR” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: LCR purulento — LCR linfocitário — Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB\nB) INCORRETA. Incorreta: T2/FLAIR — Líquido/água = branco — Edema, lesão desmielinizante (EM), tumor\nC) CORRETA. Correta: FLAIR — Suprime LCR, realça lesões corticais — Hemorragia subaracnóidea subaguda, EM\nD) INCORRETA. Incorreta: RM DWI:: detecta isquemia em minutos — padrão ouro para AVC agudo.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2882,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Sequência OSCE:” está correta?",
+    "opcoes": [
+      "A) higiene → apresentação → anamnese → exame sequencial → síntese.",
+      "B) Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+      "C) VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "D) Sinais meníngeos negativos:: não excluem meningite em idosos e imunossuprimidos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sequência OSCE:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: higiene → apresentação → anamnese → exame sequencial → síntese.",
+      "B": "Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+      "C": "Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "D": "Incorreta: Sinais meníngeos negativos:: não excluem meningite em idosos e imunossuprimidos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sequência OSCE:”.\nA) CORRETA. Correta: higiene → apresentação → anamnese → exame sequencial → síntese.\nB) INCORRETA. Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.\nC) INCORRETA. Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.\nD) INCORRETA. Incorreta: Sinais meníngeos negativos:: não excluem meningite em idosos e imunossuprimidos.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2883,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “VPPB” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "B) VPPB — Neurite vestibular — VPPB: posicional, breve; neurite: persistente, sem surdez",
+      "C) Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese.",
+      "D) Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “VPPB” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "B": "Correta: VPPB — Neurite vestibular — VPPB: posicional, breve; neurite: persistente, sem surdez",
+      "C": "Incorreta: Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese.",
+      "D": "Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “VPPB” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.\nB) CORRETA. Correta: VPPB — Neurite vestibular — VPPB: posicional, breve; neurite: persistente, sem surdez\nC) INCORRETA. Incorreta: Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese.\nD) INCORRETA. Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2884,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Cefaleia em trovoada:” está correta?",
+    "opcoes": [
+      "A) Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+      "B) VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "C) pensar em HSA → TC urgente → se negativa: PL.",
+      "D) Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cefaleia em trovoada:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+      "B": "Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "C": "Correta: pensar em HSA → TC urgente → se negativa: PL.",
+      "D": "Incorreta: Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cefaleia em trovoada:”.\nA) INCORRETA. Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.\nB) INCORRETA. Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.\nC) CORRETA. Correta: pensar em HSA → TC urgente → se negativa: PL.\nD) INCORRETA. Incorreta: Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2891,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “VPPB” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+      "B) VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "C) VPPB — Neurite vestibular — VPPB: posicional, breve; neurite: persistente, sem surdez",
+      "D) Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “VPPB” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.",
+      "B": "Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.",
+      "C": "Correta: VPPB — Neurite vestibular — VPPB: posicional, breve; neurite: persistente, sem surdez",
+      "D": "Incorreta: Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “VPPB” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Kernig:: flexão de quadril, extensão de joelho resistida = sinal meníngeo.\nB) INCORRETA. Incorreta: VPPB:: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.\nC) CORRETA. Correta: VPPB — Neurite vestibular — VPPB: posicional, breve; neurite: persistente, sem surdez\nD) INCORRETA. Incorreta: Sequência OSCE:: higiene → apresentação → anamnese → exame sequencial → síntese.",
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2892,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Uma paciente de 65 anos, em acompanhamento para osteoporose, sofre uma fratura de punho após queda da própria altura. Na análise da biologia óssea, sabe-se que a matriz óssea é um material compósito. Caso houvesse uma deficiência severa apenas na deposição de cristais de hidroxiapatita, qual seria a consequência mecânica esperada para o osso?",
+    "opcoes": [
+      "A) O osso se tornaria excessivamente rígido e quebradiço como vidro.",
+      "B) O osso perderia sua dureza, tornando-se flexível e sujeito a deformações (osso 'mole').",
+      "C) Não haveria impacto, pois o colágeno sozinho garante a rigidez necessária.",
+      "D) Haveria um aumento da massa óssea total devido ao acúmulo de colágeno."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A matriz óssea combina Colágeno Tipo I (flexibilidade/tração) com Hidroxiapatita (dureza/compressão).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Isso ocorreria se houvesse falta de colágeno (como na Osteogênese Imperfeita), deixando apenas a parte mineral rígida.",
+      "B": "Correta: A falta de mineralização (hidroxiapatita) retira a dureza do osso, deixando predominante a matriz orgânica flexível (Raquitismo/Osteomalácia).",
+      "C": "Incorreta: O colágeno garante resistência à tração, mas sem mineral o osso não suporta carga de compressão.",
+      "D": "Incorreta: A massa óssea funcional diminuiria drasticamente pela falha na mineralização."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2893,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Durante a análise histológica de uma biópsia de osso compacto (cortical), um estudante observa canais que contêm vasos sanguíneos e nervos, dispostos transversalmente e que conectam o periósteo aos canais longitudinais. Esses canais transversais são identificados como:",
+    "opcoes": [
+      "A) Canais de Havers.",
+      "B) Canais de Volkmann.",
+      "C) Canais de Schlem.",
+      "D) Canalículos ósseos."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Diferenciação entre a organização vertical e horizontal do Sistema de Havers.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Canais de Havers são longitudinais (verticais), centrais no osteon.",
+      "B": "Correta: Canais de Volkmann são transversais e garantem a comunicação entre os sistemas de Havers.",
+      "C": "Incorreta: Canal de Schlem está relacionado à drenagem do humor aquoso no olho.",
+      "D": "Incorreta: Canalículos são pequenos túneis que conectam osteócitos vizinhos."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2894,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "A maioria dos ossos longos, como o fêmur e o úmero, desenvolve-se a partir de um modelo preexistente de cartilagem hialina, que é progressivamente substituída por tecido ósseo. Esse processo é denominado:",
+    "opcoes": [
+      "A) Ossificação intramembranosa.",
+      "B) Ossificação endocondral.",
+      "C) Ossificação ectodérmica.",
+      "D) Calcificação distrófica."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Tipos de ossificação e seus moldes iniciais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A intramembranosa ocorre direto no tecido conjuntivo (ex: ossos chataos do crânio).",
+      "B": "Correta: A endocondral utiliza a cartilagem como 'molde' temporário para o crescimento ósseo.",
+      "C": "Incorreta: Não existe ossificação tipificada como 'ectodérmica'.",
+      "D": "Incorreta: Calcificação distrófica é depósito de cálcio em tecidos lesionados, não um processo de formação óssea."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2895,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um paciente com hiperparatiroidismo primário apresenta níveis elevados de PTH no sangue. Sabe-se que esse hormônio atua diretamente no osso para manter a calcemia. Qual o mecanismo celular ativado pelo excesso de PTH que leva à perda de massa óssea?",
+    "opcoes": [
+      "A) Inibição direta das células osteoprogenitoras.",
+      "B) Estimulação da atividade absortiva dos osteoclastos.",
+      "C) Ativação da síntese de colágeno pelos osteoblastos.",
+      "D) Bloqueio dos canais de Havers."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Regulação hormonal do metabolismo do cálcio e fósforo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: O PTH altera o equilíbrio final da remodelação, mas não inibe as células-tronco diretamente.",
+      "B": "Correta: O PTH estimula a reabsorção óssea pelos osteoclastos para liberar cálcio no compartimento plasmático.",
+      "C": "Incorreta: Isso seria função da Calcitonina ou fatores de crescimento, não do excesso de PTH.",
+      "D": "Incorreta: Inexistente mecanicamente."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2896,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Ao contrário da maioria das células do tecido ósseo, que se originam de células mesenquimais, uma célula específica surge da fusão de monócitos provenientes do sangue. Qual é essa célula e qual sua principal característica histológica?",
+    "opcoes": [
+      "A) Osteoblasto; célula cúbica com citoplasma basofílico.",
+      "B) Osteócito; célula achatada com inúmeros prolongamentos.",
+      "C) Osteoclasto; célula gigante multinucleada com borda em escova.",
+      "D) Célula osteoprogenitora; célula fusiforme de reserva."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Linhagem hematopoiética vs mesenquimal no osso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Osteoblastos são de origem mesenquimal.",
+      "B": "Incorreta: Osteócitos são blastos 'aposentados', logo mesenquimais.",
+      "C": "Correta: Osteoclastos derivam de macrófagos/monócitos, sendo células multinucleadas especializadas em reabsorção.",
+      "D": "Incorreta: São as células-tronco mesenquimais do osso."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2897,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Durante uma ausculta cardíaca de rotina, o médico identifica claramente a primeira bulha cardíaca (B1). Fisiologicamente, o que está ocorrendo no coração no exato momento em que o som da B1 é gerado?",
+    "opcoes": [
+      "A) Abertura das valvas semilunares para início da ejeção.",
+      "B) Fechamento das valvas atrioventriculares (Mitral e Tricúspide).",
+      "C) Relaxamento isovolumétrico dos ventrículos.",
+      "D) Sístole atrial finalizando o enchimento ventricular."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Identificação dos eventos mecânicos associados aos sons cardíacos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A abertura de valvas normais não gera som audível.",
+      "B": "Correta: B1 é causada pelo fechamento das valvas AV, marcando o início da sístole ventricular.",
+      "C": "Incorreta: O relaxamento isovolumétrico começa com o fechamento das semilunares (B2).",
+      "D": "Incorreta: A sístole atrial ocorre no final da diástole, sendo silenciosa em corações normais."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2898,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um atleta de elite apresenta uma frequência cardíaca de repouso de 45 bpm, enquanto um indivíduo sedentário apresenta 75 bpm. Sabendo que ambos possuem o mesmo Débito Cardíaco (DC) em repouso, o que explica a braquicardia fisiológica do atleta?",
+    "opcoes": [
+      "A) O atleta possui um Volume Sistólico (VS) significativamente maior por batimento.",
+      "B) O atleta possui menor resistência vascular periférica, exigindo menos débito.",
+      "C) O ventrículo do atleta ejeta menos sangue por batida para poupar energia.",
+      "D) A sístole atrial do atleta é mais lenta, ocupando mais tempo do ciclo."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A relação DC = VS x FC explica adaptações cardiovasculares ao exercício.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Como DC = VS x FC, se o atleta tem um VS maior (coração mais forte/hipertrofiado), ele precisa de menos batimentos (FC) para manter o mesmo débito.",
+      "B": "Incorreta: A resistência vascular não explica diretamente a frequência cardíaca de repouso nesse contexto.",
+      "C": "Incorreta: Pelo contrário, o volume sistólico do atleta é maior.",
+      "D": "Incorreta: A velocidade da sístole atrial não é o fator determinante do débito cardíaco de repouso."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2899,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Na análise do Diagrama de Wiggers, observa-se que em determinada fase a pressão no ventrículo esquerdo ultrapassa a pressão na aorta (aprox. 80 mmHg). O que ocorre imediatamente após esse ponto?",
+    "opcoes": [
+      "A) Fechamento da valva Mitral e início da B1.",
+      "B) Abertura da valva Aórtica e início da fase de ejeção ventricular.",
+      "C) Início do relaxamento isovolumétrico.",
+      "D) Queda brusca do volume sistólico final."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Dinâmica de gradientes de pressão no ciclo cardíaco.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A valva mitral fecha no início da fase isovolumétrica, antes da pressão subir tanto.",
+      "B": "Correta: Assim que a pressão ventricular supera a aórtica, a valva aórtica abre e o sangue é ejetado.",
+      "C": "Incorreta: O relaxamento ocorre após o fechamento da valva aórtica.",
+      "D": "Incorreta: O volume diminui gradualmente durante a fase de ejeção, não de forma 'brusca' imediatamente antes."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2900,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um paciente idoso com Fibrilação Atrial (ausência de contração atrial organizada) pode apresentar cansaço aos esforços. Fisiologicamente, isso ocorre porque na FA perde-se a contribuição do átrio para o enchimento ventricular. Qual a porcentagem aproximada dessa contribuição?",
+    "opcoes": [
+      "A) 5% - valor desprezível para o débito final.",
+      "B) 20% - o 'chute atrial' necessário para o enchimento final.",
+      "C) 50% - metade do sangue do ventrículo vem do átrio ativamente.",
+      "D) 80% - o enchimento é quase totalmente dependente da contração atrial."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Mecânica do enchimento ventricular e sístole atrial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: O valor é maior e clinicamente significante no exercício.",
+      "B": "Correta: A sístole atrial contribui com cerca de 20% do volume diastólico final em repouso.",
+      "C": "Incorreta: O enchimento passivo é predominante (80%).",
+      "D": "Incorreta: Incorreto; a maior parte do sangue entra passivamente pela diferença de pressão átrio-ventrículo."
+    },
+    "aula_id": "sus_a1"
+  }
+]

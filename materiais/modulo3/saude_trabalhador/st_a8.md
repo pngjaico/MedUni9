@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Prevenção e vigilância são o núcleo da saúde do trabalhador porque deslocam o foco do atendimento tardio para a intervenção precoce no risco. A prática médica não termina no diagnóstico individual: ela precisa retroalimentar mudanças no ambiente e no processo de trabalho.
+**Prevenção e vigilância** são o núcleo da saúde do trabalhador porque deslocam o foco do atendimento tardio para a intervenção precoce no risco. A prática médica não termina no diagnóstico individual: ela precisa retroalimentar mudanças no ambiente e no processo de trabalho.
 
 Em prova, o tema aparece como integração entre vigilância epidemiológica, vigilância sanitária, assistência, notificação e gestão de risco institucional.
 
@@ -25,7 +25,7 @@ Em prova, o tema aparece como integração entre vigilância epidemiológica, vi
 
 ## Níveis de prevenção no contexto ocupacional
 
-### Prevenção primária
+### **Prevenção primária**
 
 Atua antes do adoecimento, reduzindo exposição e vulnerabilidade:
 - eliminação/substituição de agente perigoso,
@@ -33,7 +33,7 @@ Atua antes do adoecimento, reduzindo exposição e vulnerabilidade:
 - organização de jornada e pausas,
 - capacitação e cultura de segurança.
 
-### Prevenção secundária
+### **Prevenção secundária**
 
 Busca detectar precocemente agravo relacionado ao trabalho:
 - vigilância ativa de sintomas,
@@ -41,7 +41,7 @@ Busca detectar precocemente agravo relacionado ao trabalho:
 - exames ocupacionais periódicos,
 - notificação oportuna de eventos sentinela.
 
-### Prevenção terciária
+### **Prevenção terciária**
 
 Minimiza incapacidade e recorrência:
 - reabilitação funcional,
@@ -49,7 +49,7 @@ Minimiza incapacidade e recorrência:
 - retorno ao trabalho com plano assistido,
 - monitoramento longitudinal do caso.
 
-> **Dica de Prova:** prevenção primária reduz exposição; secundária detecta cedo; terciária reduz dano e incapacidade.
+> **Dica de Prova:** **prevenção primária reduz exposição; secundária detecta cedo; terciária reduz dano** e incapacidade.
 
 ---
 

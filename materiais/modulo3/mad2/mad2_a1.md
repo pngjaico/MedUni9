@@ -1,8 +1,8 @@
 # MAD2 — Aula 1: Imunodeficiências Primárias
 
-As imunodeficiências primárias (IDPs) são defeitos genéticos no sistema imune que se manifestam, na maioria das vezes, por infecções de repetição. Na prova, o segredo é identificar qual **compartimento** está falhando com base no tipo de "bicho" que ataca o paciente: se são bactérias comuns (**Humoral**), fungos e vírus (**Celular**) ou bactérias específicas como o meningococo (**Complemento**).
+As **imunodeficiências primárias (IDPs)** são defeitos genéticos no sistema imune que se manifestam, na maioria das vezes, por infecções de repetição. Na prova, o segredo é identificar qual **compartimento** está falhando com base no tipo de "bicho" que ataca o paciente: se são bactérias comuns (**Humoral**), fungos e vírus (**Celular**) ou bactérias específicas como o meningococo (**Complemento**).
 
-Na prática, o médico deve suspeitar de IDP quando uma criança apresenta infecções graves demais, frequentes demais ou por agentes estranhos, evitando que o dano se torne irreversível.
+Na prática, o médico deve suspeitar de **IDP** quando uma criança apresenta infecções graves demais, frequentes demais ou por agentes estranhos, evitando que o dano se torne irreversível.
 
 ---
 
@@ -19,8 +19,8 @@ Na prática, o médico deve suspeitar de IDP quando uma criança apresenta infec
 
 Não é toda criança que adoece muito que tem imunoficiência. O que importa é a **Gravidade** e o **Agente**.
 - **Infecções de Repetição:** Mais de 8 otites, 2 sinusites ou 2 pneumonias em um ano são sinais clássicos.
-- **Bactérias Encapsuladas:** Se o paciente repete infecções por *Pneumococo* ou *Haemophilus*, pense em falha de **Anticorpos (Humoral)**.
-- **Crescimento:** Uma criança que não ganha peso ou altura por causa das infecções é um sinal de alerta vermelho.
+- **Bactérias Encapsuladas:** Se o paciente repete infecções por ***Pneumococo*** ou ***Haemophilus***, pense em falha de **Anticorpos (Humoral)**.
+- **Crescimento:** Uma criança que não ganha **peso** ou **altura** por causa das infecções é um sinal de alerta vermelho.
 
 ---
 
@@ -29,7 +29,7 @@ Não é toda criança que adoece muito que tem imunoficiência. O que importa é
 É o tipo mais comum de IDP. Os sintomas costumam surgir após os 6 meses de vida, quando os anticorpos da mãe (passados na gravidez) acabam.
 - **Exames:** O primeiro passo é dosar as imunoglobulinas (**IgG, IgA e IgM**).
 - **Clínica:** Sinusites, otites e pneumonias que não param de voltar. Se não tratar, o pulmão fica destruído (**Bronquiectasias**).
-- **Dica:** Se o paciente tem infecção por *Giardia* de repetição, pense em deficiência de **IgA**.
+- **Dica:** Se o paciente tem infecção por ***Giardia*** de repetição, pense em deficiência de **IgA**.
 
 ---
 
@@ -37,14 +37,14 @@ Não é toda criança que adoece muito que tem imunoficiência. O que importa é
 
 São quadros muito mais graves e começam logo após o nascimento.
 - **Perfil:** O paciente tem infecções por vírus, fungos (**Candidíase oral persistente**) e germes oportunistas.
-- **Gravidade:** Como o linfócito T é o "maestro" do sistema imune, sua falha geralmente derruba o sistema todo (**Imunodeficiência Combinada Grave - SCID**). É uma emergência pediátrica que requer transplante de medula.
+- **Gravidade:** Como o linfócito T é o "maestro" do sistema imune, sua falha geralmente derruba o sistema todo (**Imunodeficiência Combinada Grave - SCID**). É uma emergência pediátrica que requer **transplante de medula**.
 
 ---
 
 ## 4. Fagócitos e Complemento: Casos Específicos
 
 - **Fagócitos:** Quando os "comedores" de bactérias falham, o paciente apresenta **Abscessos (fanhões)** na pele e nos órgãos internos que demoram a curar e não fazem pus direito.
-- **Complemento:** A pista clássica de prova é a **Meningite Meningocócica de Repetição**. Se o paciente teve meningite por *Neisseria* mais de uma vez, você **DEVE** investigar as proteínas do complemento (CH50).
+- **Complemento:** A pista clássica de prova é a **Meningite Meningocócica de Repetição**. Se o paciente teve meningite por ***Neisseria*** mais de uma vez, você **DEVE** investigar as proteínas do complemento (**CH50**).
 
 ---
 
@@ -81,8 +81,8 @@ A Uninove adora o tempo de início: Defeitos de **T** aparecem muito cedo (dias/
 |------------|------------|-----------------|
 | **Imunidade Humoral (B)** | **Imunidade Celular (T)** | Infecção por **Bactérias** vs Infecção por **Fungos/Vírus** |
 | **Deficiência de IgA** | **SCID** | A mais **Comum/Leve** vs A mais **Grave/Urgente** |
-| **Criança da Creche** | **Imunodeficiente** | Cresce bem vs **Comprometimento de Peso/Altura** |
-| **Complemento** | **Fagócitos** | Meningococo de repetição vs **Abscessos de repetição** |
+| **Criança da Creche** | **Imunodeficiente** | **Crescimento Normal** vs **Comprometimento de Peso/Altura** |
+| **Complemento** | **Fagócitos** | **Meningococo** de repetição vs **Abscessos** de repetição |
 | **Imunoglobulina Venosa** | **Transplante de Medula** | Tratamento para Falha de **B** vs Tratamento para Falha de **T** |
 
 ### Frase-âncora para não esquecer

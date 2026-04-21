@@ -1,6 +1,6 @@
 # MAD2 — Aula 13: Protozooses — Malária, Chagas e Toxoplasmose
 
-As protozooses são doenças causadas por seres unicelulares complexos que desafiam o sistema imune. Na prova, os temas centrais são o ciclo da **Malária** (e sua febre em picos), a evolução da **Doença de Chagas** (da picada à insuficiência cardíaca) e os riscos da **Toxoplasmose** para fetos e pacientes com HIV.
+As protozooses são doenças causadas por seres unicelulares complexos que desafiam o sistema imune. Na prova, os temas centrais são o ciclo da **Malária** (e sua febre em picos), a evolução da **Doença de Chagas** (da picada à **insuficiência cardíaca**) e os riscos da **Toxoplasmose** para fetos e pacientes com HIV.
 
 Na prática, o médico deve saber que a história de onde o paciente mora ou por onde viajou é tão importante quanto o exame de sangue para fechar o diagnóstico dessas doenças tropicais.
 
@@ -22,7 +22,7 @@ A malária é causada pelo *Plasmodium* e transmitida pelo mosquito *Anopheles*.
 - **A Febre:** Quando as hemácias se rompem ao mesmo tempo, o paciente tem calafrios e febre altíssima. 
     - **Febre Terçã (P. vivax/falciparum):** Febre a cada 48 horas.
     - **Febre Quartã (P. malariae):** Febre a cada 72 horas.
-- **Destaque:** O **P. falciparum** é o mais perigoso, pois pode causar a **Malária Cerebral**, uma emergência médica.
+- **Destaque:** O ***P. falciparum*** é o mais perigoso, pois pode causar a **Malária Cerebral**, uma emergência médica.
 
 ---
 
@@ -30,7 +30,7 @@ A malária é causada pelo *Plasmodium* e transmitida pelo mosquito *Anopheles*.
 
 Causada pelo *Trypanosoma cruzi*, a doença tem duas fases muito distintas:
 - **Fase Aguda:** Pode passar despercebida ou apresentar o **Sinal de Romaña** (olho inchado) se a entrada foi pela mucosa ocular. É a fase em que o parasita está no sangue.
-- **Fase Crônica:** Ocorre décadas depois. O parasitas se escondem nos músculos.
+- **Fase Crônica:** Ocorre décadas depois. Os parasitas se escondem nos músculos.
     - **Coração:** Causa a **Cardiomiopatia Dilatada** (coração grande e fraco).
     - **Digestivo:** Causa o **Megaesôfago** e o **Megacólon** (órgãos "entupidos" e dilatados pela destruição dos nervos).
 
@@ -39,8 +39,8 @@ Causada pelo *Trypanosoma cruzi*, a doença tem duas fases muito distintas:
 ## 3. Toxoplasmose: O Perigo nas Fezes do Gato
 
 Causada pelo *Toxoplasma gondii*, é uma infecção muito comum e geralmente leve, exceto em dois grupos:
-- **Imunossuprimidos (HIV):** O parasita "acorda" no cérebro e causa a **Neurotoxoplasmose** (lesões que parecem "alvos" na tomografia), causando convulsão e fraqueza.
-- **Gestantes:** Se a mãe pegar a doença pela primeira vez na gravidez, o bebê pode nascer com a **Tríade de Sabin**: Coriorretinite (cegueira), Hidrocefalia e Calcificações cerebrais.
+- **Imunossuprimidos (HIV):** O parasita "acorda" no cérebro e causa a **Neurotoxoplasmose** (lesões que parecem "**alvos**" na tomografia), causando convulsão e fraqueza.
+- **Gestantes:** Se a mãe pegar a doença pela primeira vez na gravidez, o bebê pode nascer com a **Tríade de Sabin**: **Coriorretinite** (cegueira), **Hidrocefalia** e **Calcificações cerebrais**.
 
 ---
 
@@ -49,7 +49,7 @@ Causada pelo *Toxoplasma gondii*, é uma infecção muito comum e geralmente lev
 - **Malária:** O exame padrão-ouro é a **Gota Espessa** (ver o parasita no microscópio).
 - **Chagas Agudo:** Ver o parasita no sangue (**Exame Direto**).
 - **Chagas Crônico:** Ver anticorpos no sangue (**Sorologia** — Elisa/IFI).
-- **Toxoplasmose:** Sorologia **IgM e IgG**. Se a gestante tiver IgM positivo, precisa de investigação urgente.
+- **Toxoplasmose:** Sorologia **IgM e IgG**. Se a gestante tiver **IgM positivo**, precisa de investigação urgente.
 
 ---
 
@@ -86,7 +86,7 @@ A Uninove ama cobrar sobre a **Fase de Chagas**. Agudo = Parasita no sangue (vej
 |------------|------------|-----------------|
 | **Malária** | **Leptospirose** | Febre em **Picos/Calafrio** vs Febre contínua + dor na panturrilha |
 | **Chagas Aguda** | **Chagas Crônica** | **Parasitemia alta** vs Parasitas escondidos (Sorologia +) |
-| **Sinal de Romaña** | **Chagoma**| Inchaço no **Olho** vs Inchaço na **Pele (local da picada)** |
+| **Sinal de Romaña** | **Chagoma**| Inchaço no **Olho** vs Inchaço na **Pele** (local da picada) |
 | **IgM Positivo** | **IgG Positivo** | Infecção **Agora** (Perigo p/ feto) vs Infecção **Antiga** (Imunidade) |
 | **P. vivax** | **P. falciparum** | Forma mais comum (benigna) vs **Forma mais Grave** |
 

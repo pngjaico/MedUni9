@@ -23,14 +23,14 @@ A **Anamnese Dirigida** é o filtro que transforma uma queixa vaga em um diagnó
 
 ## Método de entrevista: do sintoma ao contexto
 
-O objetivo não é apenas registrar dor, mas entender o comportamento clínico dela. Comece com pergunta aberta, depois feche com perguntas objetivas. Essa alternância evita perda de informação relevante e melhora a precisão semiológica.
+O objetivo não é apenas registrar dor, mas entender o **comportamento clínico** dela. Comece com pergunta aberta, depois feche com perguntas objetivas. Essa alternância evita perda de informação relevante e melhora a precisão semiológica.
 
 | Etapa da entrevista | Pergunta central | Ganho clínico |
 |---------------------|------------------|---------------|
-| Queixa principal | "Onde dói e desde quando?" | Define foco anatômico e cronologia |
-| Caracterização | "Como é a dor e o que a modifica?" | Diferencia padrão mecânico, inflamatório e neuropático |
-| Função | "O que você deixou de conseguir fazer?" | Quantifica gravidade funcional |
-| Contexto | "Teve trauma, infecção, nova medicação?" | Direciona hipóteses etiológicas |
+| **Queixa principal** | "Onde dói e desde quando?" | Define foco anatômico e cronologia |
+| **Caracterização** | "Como é a dor e o que a modifica?" | Diferencia **padrão mecânico, inflamatório e neuropático** |
+| **Função** | "O que você deixou de conseguir fazer?" | Quantifica gravidade funcional |
+| **Contexto** | "Teve trauma, infecção, nova medicação?" | Direciona hipóteses etiológicas |
 
 > [!TIP]
 > Quando a dor "**melhora ao movimentar**" após **rigidez matinal prolongada**, valorize o **padrão inflamatório**.
@@ -44,7 +44,7 @@ O objetivo não é apenas registrar dor, mas entender o comportamento clínico d
 | **O (Onset)** | Início súbito ou gradual? | Trauma agudo vs Doença degenerativa |
 | **P (Provocation)**| O que agrava ou alivia? | **Carga** (Mecânica) vs **Repouso** (Inflamatória) |
 | **Q (Quality)** | Como é o tipo de dor? | **Queimação** (Nervo) vs **Pontada** (Articulação) |
-| **R (Radiation)** | A dor se espalha? | Dermátomos (**Radiculopatia**) |
+| **R (Radiation)** | A dor se espalha? | **Dermátomos** (Radiculopatia) |
 | **S (Severity)** | Intensidade (Escala 0-10)| Impacto nas **Atividades de Vida Diária** |
 | **T (Timing)** | Quando dói mais? | Rigidez **Matinal** vs Cansaço **Vespertino** |
 
@@ -52,7 +52,7 @@ O objetivo não é apenas registrar dor, mas entender o comportamento clínico d
 
 ## Mecanismo e energia do trauma
 
-Mecanismo de lesão não é detalhe: ele organiza a probabilidade pré-teste de cada hipótese. **Torção com pé fixo** em atleta jovem sugere lesão ligamentar ou meniscal; **queda de baixa energia em idoso** pode esconder fratura por fragilidade.
+**Mecanismo de lesão** não é detalhe: ele organiza a probabilidade pré-teste de cada hipótese. **Torção com pé fixo** em atleta jovem sugere lesão ligamentar ou meniscal; **queda de baixa energia em idoso** pode esconder fratura por fragilidade.
 
 | Mecanismo | Estruturas mais suspeitas | Conduta inicial de raciocínio |
 |-----------|---------------------------|--------------------------------|

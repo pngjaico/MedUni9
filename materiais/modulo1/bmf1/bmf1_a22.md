@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Esta aula **integra** peça, **modelo** e **checklist**. Você deve navegar da **Boca** ao **Ânus** sem saltos, nomeando curvaturas, válvulas e vasos principais. O objetivo é explicar as relações anatômicas que aparecem nas **Estações Práticas** e na prova integrada. Dominar os pontos de transição (como o **Piloro**) e as âncoras vasculares é o segredo para não se perder no abdome.
+Esta aula **integra** peça cadavérica, **modelos sintéticos** e o **checklist** de avaliação. Você deve ser capaz de navegar da **Boca ao Ânus** sem saltos, nomeando corretamente as curvaturas, válvulas e vasos principais. O segredo para não se perder no abdome é dominar os pontos de transição (como o **Piloro**) e as âncoras vasculares (troncos arteriais).
 
 ---
 
@@ -15,73 +15,75 @@ Esta aula **integra** peça, **modelo** e **checklist**. Você deve navegar da *
 
 | Etapa | Estrutura | "Pulo do Gato" na Peça |
 |-------|-----------|-------------------------|
-| 1 | **Esôfago** | Corre atrás da Traqueia |
-| 2 | **Estômago** | **Piloro** é o limite distal (esfíncter)|
-| 3 | **Fígado/Vesícula**| Vesícula fica no **Lobo Direito** |
-| 4 | **Delgado** | **Mesentério** leva os vasos à alça |
-| 5 | **Cólon** | Procure as **Tênias** (fitas brancas) |
-| 6 | **Pâncreas** | A **Cabeça** está no "C" do Duodeno |
+| 1 | **Esôfago** | Localize-o **atrás** da Traqueia |
+| 2 | **Estômago** | Identifique o **Piloro** como o limite distal firme |
+| 3 | **Fígado/Vesícula**| A Vesícula biliar fica alojada no **Lobo Direito** |
+| 4 | **Intestino Delgado** | O **Mesentério** é a lona que leva os vasos às alças |
+| 5 | **Intestino Grosso** | Procure as **Tênias** (fitas esbranquiçadas longitudinais) |
+| 6 | **Pâncreas** | A **Cabeça** está sempre encaixada no "C" do Duodeno |
 
-> **Dica de Prova:** Sempre **orientar** o modelo: **direita/esquerda** do **cadáver** = **paciente** em **decúbito dorsal** com **braços** ao lado.
+> **Dica de Prova:** Sempre **oriente** o modelo antes de começar: considere a **Direita/Esquerda do cadáver** (em relação ao paciente em decúbito dorsal), e não a sua própria mão.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A22-F01`
 
-- **Momento:** após roteiro em etapas.
-- **O que mostrar:** vista anterior do abdome com órgãos digestórios principais e moldura do cólon.
-- **Tipo sugerido:** ilustração estilo atlas ou foto de modelo didático.
+- **Momento:** Após o roteiro em etapas.
+- **O que mostrar:** Vista anterior do abdome evidenciando os órgãos digestórios principais in situ e a moldura do intestino grosso.
+- **Tipo sugerido:** Ilustração estilo atlas ou fotografia de modelo didático de alta fidelidade.
 - **Legenda (rascunho):** “Visão integrada do tubo digestório e vísceras associadas.”
-- **Notas (opcional):** Commons “abdominal organs anterior view”.
 
 ---
 
 ## Pontos de junção que não podem falhar
 
-- **Cardias** e **esfíncter** esofágico inferior (conceito funcional).
-- **Piloro** — fronteira **estômago**–**duodeno**.
-- **Ampola** duodenal — **bile** e **suco pancreático**.
-- **Válvula ileocecal** — **delgado**–**grosso**.
-- **Linha pectínea** / transição **reto-anal** (detalhe anatômico — varia com atlas).
+- **Cárdia:** Transição esôfago-gástrica (onde o esôfago perfura o diafragma).
+- **Piloro:** Fronteira muscular entre o **Estômago** e o **Duodeno**.
+- **Ampola Hepatopancreática:** Onde a **Bile** e o **Suco Pancreático** encontram o duodeno.
+- **Válvula Ileocecal:** Transição entre o **Intestino Delgado (Íleo)** e o **Intestino Grosso (Ceco)**.
+- **Linha Pectínea:** Marco de transição importante no canal anal (diferencia drenagem e inervação).
 
 ---
 
 ## Vasos e nervos: modo “âncora”
 
 Antes de decorar ramos finos, memorize os 4 pontos cardeais do abdome:
-- **Tronco Celíaco:** Estômago, fígado, baço.
-- **Mesentérica Superior (AMS):** Intestino delgado e metade do grosso.
-- **Mesentérica Inferior (AMI):** Metade final do grosso e reto.
-- **Veia Porta:** O "coletor" que leva o sangue ao fígado.
+- **Tronco Celíaco:** Irriga o "andar superior" (Estômago, Fígado, Baço).
+- **A. Mesentérica Superior (AMS):** Irriga o Intestino Delgado e a metade proximal do Grosso.
+- **A. Mesentérica Inferior (AMI):** Irriga a metade distal do Grosso e o Reto.
+- **Veia Porta:** O grande coletor que leva o sangue venoso abdominal ao **Fígado**.
 
 ---
 
 ## Erros comuns na prática de sala
 
-Confundir **face anterior** do **fígado** com **superior**; esquecer que **cólon transverso** pendura do **meso**; rotular **íleo** como **jejuno** sem olhar **calibre** e **posição**. Use **referências** ósseas (**crista ilíaca**, **processo xifoide**) para **fixar** o modelo.
+Confundir a **face anterior** do fígado com a face superior (diafragmática); esquecer que o **cólon transverso** é móvel e depende do seu meso; e rotular o **íleo** como jejuno sem observar o calibre e a localização nos quadrantes. Use referências ósseas fixas como a **Crista Ilíaca** e o **Processo Xifoide** para se orientar no modelo.
 
 ---
 
 ## Ponte com a Clínica
 
-Na **semiologia** futura, **abdome agudo** será **localização** da dor + **exame** — a **anatomia** que você pratica na peça é o **mapa** mental para **apendicite**, **cólica** **biliar** e **obstrução**. **Laparoscopia** usa os **mesmos** **pontos** de entrada com **visão** **câmera** — **portais** e **triângulos** reaparecem.
+Na semiologia, o **Abdome agudo** requer a correlação exata entre a **localização da dor** e a anatomia — o mapa mental praticado na peça é a base para diagnosticar **Apendicite**, **Cólica biliar** e **Obstrução intestinal**. Em procedimentos de **Laparoscopia**, a anatomia aparece através da visão da câmera, onde os **portais** e **triângulos** anatômicos devem ser reconhecidos instantaneamente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Válvula Ileocecal:** Marca a transição entre o **Íleo** e o **Ceco**.
-- **Flexura Hepática:** Ângulo do cólon à **Direita**.
-- **Flexura Esplênica:** Ângulo do cólon à **Esquerda**.
-- **Omento Maior:** Grande cortina de gordura que recobre o intestino.
+- **Válvula Ileocecal:** Ponto crucial de transição entre o **Íleo** e o **Ceco**.
+- **Flexura Hepática:** Ângulo do cólon localizado à **Direita** (ponto inferior ao fígado).
+- **Flexura Esplênica:** Ângulo do cólon localizado à **Esquerda** (ponto inferior ao baço).
+- **Omento Maior:** A grande cortina de gordura protetora que recobre as alças intestinais.
+
+### Síntese Final
 
 | Conceito A | Conceito B | Diferencial para Prova |
 |------------|------------|-------------------------|
-| **Cárdia** | **Piloro** | Entrada do Estômago vs **Saída** |
-| **Pequena Curvatura**| **Grande Curvatura**| Omento Menor vs **Omento Maior** |
-| **Colédoco** | **Cístico** | Ducto que vai ao Duodeno vs **Ducto da Vesícula**|
-| **Vago (X)** | **Hipoglosso (XII)**| Inerva Tubo Digestório vs **Inerva Língua** |
+| **Cárdia** | **Piloro** | Entrada do Estômago vs **Saída Muscular** |
+| **Omento Menor**| **Omento Maior**| Pequena Curvatura vs **Grande Curvatura** |
+| **Ducto Colédoco** | **Ducto Cístico** | Vai ao Duodeno vs **Vai à Vesícula** |
+| **Nervo Vago (X)** | **N. Hipoglosso (XII)**| Inerva o Tubo Digestório vs **Inerva a Língua** |
 
 ### Frase-âncora para não esquecer
 
-> “Prática boa é roteiro falado: se travar antes do duodeno, volta à boca e recomeça devagar.”
+> **“Prática boa é roteiro falado: se travar em qualquer válvula ou curvatura, identifique o Piloro e recomece o caminho.”**
+

@@ -1,8 +1,8 @@
 # IND — Aula 10: Análise Descritiva — Tendência Central e Dispersão
 
-A análise descritiva é o primeiro passo para entender qualquer dado de saúde. Na prova, o tema central é saber quando usar a **Média** ou a **Mediana** (Tendência Central) e como medir a "bagunça" ou variação dos dados usando o **Desvio Padrão** (Dispersão).
+A análise descritiva é o primeiro passo para entender qualquer dado de saúde. Na prova, o tema central é saber quando usar a **Média** ou a **Mediana** (**Tendência Central**) e como medir a "bagunça" ou variação dos dados usando o **Desvio Padrão** (**Dispersão**).
 
-Na prática, um médico que olha apenas para a média pode cometer erros graves. Por exemplo, se um hospital tem média de permanência de 5 dias, mas metade dos pacientes sai no 1º dia e a outra metade no 9º, a média de 5 não representa ninguém de verdade.
+Na prática, um médico que olha apenas para a **média** pode cometer erros graves. Por exemplo, se um hospital tem média de permanência de 5 dias, mas metade dos pacientes sai no 1º dia e a outra metade no 9º, a média de 5 não representa ninguém de verdade.
 
 ---
 
@@ -18,8 +18,8 @@ Na prática, um médico que olha apenas para a média pode cometer erros graves.
 ## 1. Medidas de Tendência Central (Onde está o meio?)
 
 - **Média:** Soma tudo e divide pelo número de itens. É a mais usada, mas tem um defeito: é muito sensível a valores muito altos ou muito baixos (**Outliers**).
-- **Mediana:** É o valor que fica exatamente no meio da fila (ordenada). Metade dos dados é menor que ela, metade é maior. É a melhor medida quando os dados são muito variados (ex: salários ou tempos de internação).
-- **Moda:** É o valor que mais se repete.
+- **Mediana:** É o **valor que fica exatamente no meio** da fila (ordenada). Metade dos dados é menor que ela, metade é maior. É a melhor medida quando os dados são muito variados (ex: salários ou tempos de internação).
+- **Moda:** É o valor que **mais se repete**.
 
 ---
 
@@ -27,8 +27,8 @@ Na prática, um médico que olha apenas para a média pode cometer erros graves.
 
 - **Amplitude:** A diferença entre o maior e o menor valor. É simples, mas ignora tudo o que acontece no meio.
 - **Desvio Padrão (DP):** É a medida de dispersão mais importante. Ele diz, em média, o quanto os dados estão longe da média. 
-  - **DP Baixo:** Os dados estão todos pertinho da média (grupo homogêneo).
-  - **DP Alto:** Os dados estão espalhados (grupo heterogêneo).
+  - **DP Baixo:** Os dados estão todos pertinho da média (**grupo homogêneo**).
+  - **DP Alto:** Os dados estão espalhados (**grupo heterogêneo**).
 
 ---
 
@@ -73,10 +73,10 @@ Sobre o **Desvio Padrão**: ele é o "sobrenome" da média. Se o DP for grande, 
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Média** | **Mediana** | Sensível a extremos vs **Resistente a extremos** |
+| **Média** | **Mediana** | **Sensível a extremos** vs **Resistente a extremos** |
 | **Desvio Padrão** | **Variância** | Unidade original (cm, kg) vs **Unidade ao quadrado** |
 | **Amplitude** | **Desvio Padrão** | Só olha as pontas vs **Olha a variação de todos** |
-| **Simetria** | **Assimetria** | Média = Mediana vs **Média ≠ Mediana** |
+| **Simetria** | **Assimetria** | **Média = Mediana** vs **Média ≠ Mediana** |
 | **Q1 e Q3** | **IIQ** | Os pontos da divisão vs **A distância entre eles** |
 
 ### Frase-âncora para não esquecer

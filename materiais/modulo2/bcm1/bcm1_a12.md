@@ -2,7 +2,7 @@
 
 A biotecnologia é a ferramenta que permite ao médico diagnosticar doenças raras e criar tratamentos personalizados. Na prova, o tema central é entender as técnicas de **PCR** (para vírus), **Sequenciamento** (para mutações genéticas) e o revolucionário **CRISPR** (edição de genes), além de como a informática ajuda a organizar esses trilhões de dados.
 
-Na prática, sem essas tecnologias, não teríamos a insulina que os diabéticos usam e nem conseguiríamos diagnosticar rapidamente uma mutação de câncer de mama.
+Na prática, sem essas tecnologias, não teríamos a **insulina** que os diabéticos usam e nem conseguiríamos diagnosticar rapidamente uma mutação de **câncer de mama**.
 
 ---
 
@@ -27,7 +27,7 @@ A PCR (Reação em Cadeia da Polimerase) permite fazer milhões de cópias de um
 ## 2. Sequenciamento: Lendo o Código
 
 - **Sanger:** É o método "clássico" e muito preciso para confirmar uma única mutação específica.
-- **NGS (Nova Geração):** É a tecnologia moderna que permite ler **todo o genoma** de uma pessoa em poucos dias. É o que usamos em painéis genéticos para câncer hereditário.
+- **NGS (Nova Geração):** É a tecnologia moderna que permite ler **todo o genoma** de uma pessoa em poucos dias. É o que usamos em painéis genéticos para **câncer hereditário**.
 
 ---
 
@@ -43,7 +43,7 @@ O CRISPR é um sistema que permite "editar" o DNA, consertando erros diretamente
 
 Com tantos dados gerados, precisamos de computadores potentes para organizar tudo.
 - **BLAST:** É uma ferramenta de busca que compara o DNA do paciente com todos os DNAs conhecidos no mundo para encontrar doenças.
-- **ClinVar:** Um banco de dados que diz se uma mutação encontrada é perigosa ou inofensiva.
+- **ClinVar:** Um banco de dados que diz se uma mutação encontrada é **perigosa** ou **inofensiva**.
 
 ---
 

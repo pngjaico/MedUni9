@@ -2,7 +2,7 @@
 
 Os indicadores de mortalidade medem o desfecho definitivo dos agravos à saúde: o óbito. Na prova, os temas centrais são o cálculo do **Coeficiente de Mortalidade Geral (CMG)** e o entendimento de por que precisamos de **Coeficientes Específicos** (por idade, causa ou sexo) para comparar populações de forma justa.
 
-Na prática, esses indicadores ajudam o gestor a entender do que a população está morrendo e onde as ações de prevenção estão falhando.
+Na prática, esses indicadores ajudam o gestor a entender do que a população está morrendo e onde as ações de **prevenção** estão falhando.
 
 ---
 
@@ -18,8 +18,8 @@ Na prática, esses indicadores ajudam o gestor a entender do que a população e
 ## 1. Coeficiente de Mortalidade Geral (CMG)
 
 O CMG dá uma ideia do risco médio de morrer em uma cidade ou país.
-- **Fórmula:** (Total de Óbitos no ano / População Total) x 1.000.
-- **Cuidado:** Ele é um indicador "bruto". Uma cidade com muitos idosos terá um CMG alto mesmo se for uma cidade excelente para se viver. Por isso, não se deve comparar cidades apenas pelo CMG sem **Padronizar** pela idade.
+- **Fórmula:** **(Total de Óbitos no ano / População Total) x 1.000**.
+- **Cuidado:** Ele é um indicador "**bruto**". Uma cidade com muitos idosos terá um CMG alto mesmo se for uma cidade excelente para se viver. Por isso, não se deve comparar cidades apenas pelo CMG sem **Padronizar** pela idade.
 
 ---
 
@@ -36,16 +36,16 @@ Para enxergar a realidade, o médico precisa "dar zoom" nos dados:
 ## 3. Mortalidade Proporcional (Cuidado!)
 
 Muitos alunos confundem **Coeficiente** com **Proporção**.
-- **Proporção:** No total de mortes, 30% foram por câncer. (O denominador são as próprias mortes). 
-- **Coeficiente:** Para cada 100 mil habitantes, 50 morreram de câncer. (O denominador é a população).
-- **Regra:** O **Coeficiente** mede o risco de morrer. A **Proporção** mede apenas a importância de cada causa dentro do cemitério.
+- **Proporção:** No total de mortes, 30% foram por câncer. (O denominador são as **próprias mortes**). 
+- **Coeficiente:** Para cada 100 mil habitantes, 50 morreram de câncer. (O denominador é a **população**).
+- **Regra:** O **Coeficiente** mede o **risco de morrer**. A **Proporção** mede apenas a importância de cada causa dentro do cemitério ("fatias do bolo").
 
 ---
 
 ## 4. Padronização por Idade
 
-É o ajuste matemático para comparar duas cidades com idades diferentes. 
-- **Exemplo:** A Cidade A tem 20% de idosos e a Cidade B tem 5%. No papel, a Cidade A parece pior porque morre mais gente. Quando você **Padroniza**, você "faz de conta" que as duas têm a mesma idade para ver quem morre mais de verdade por problemas de saúde evitáveis.
+É o **ajuste matemático** para comparar duas cidades com idades diferentes. 
+- **Exemplo:** A Cidade A tem 20% de idosos e a Cidade B tem 5%. No papel, a Cidade A parece pior porque morre mais gente. Quando você **Padroniza**, você "faz de conta" que as duas têm a mesma idade para ver quem morre mais de verdade por problemas de saúde **evitáveis**.
 
 ---
 
@@ -84,7 +84,7 @@ Outra pegadinha: **Letalidade**. Ela é cruel: entre os que pegaram a doença, q
 | **Mortalidade Geral** | **Letalidade** | População Total vs **Só os doentes (Gravidade)** |
 | **Específica por Causa** | **Específica por Idade** | Foco na doença vs **Foco na faixa etária** |
 | **Taxa Bruta** | **Taxa Padronizada** | Realidade local vs **Ajuste para comparação justa** |
-| **Mortes Evitáveis** | **Mortes Não Evitáveis** | Podiam ser impedidas pelo SUS vs **Natureza da vida** |
+| **Mortes Evitáveis** | **Mortes Não Evitáveis** | **Podiam ser impedidas pelo SUS** vs Natureza da vida |
 
 ### Frase-âncora para não esquecer
 

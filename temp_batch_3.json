@@ -1,0 +1,2414 @@
+[
+  {
+    "id": 401,
+    "materia": "bmf3",
+    "tema": "bmf3_a17",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual integracao hepatobiliar-pancreatica esta mais alinhada com a conteúdo?",
+    "opcoes": [
+      "A) Cabeca pancreatica e independente do duodeno e do trajeto biliar",
+      "B) A maior parte da bile chega ao duodeno sem armazenamento vesicular",
+      "C) Ictericia obstrutiva distal nunca repercute em via biliar intra-hepatica",
+      "D) A anatomia do coledoco e da ampola explica por que calculo distal pode gerar ictericia e, em alguns casos, pancreatite biliar"
+    ],
+    "explicacao_geral": "Ponte clinica conecta obstrucao distal biliar ao eixo pancreatico-duodenal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: relacoes anatomicas sao intimas.",
+      "B": "Incorreta: porta conduz sangue, nao bile.",
+      "C": "Incorreta: pode haver dilatacao proximal conforme nivel da obstrucao.",
+      "D": "Correta: integra topografia e manifestacao clinica."
+    },
+    "explicacao": "Ponte clinica do conteúdo conecta obstrucao distal biliar ao eixo pancreatico-duodenal. Correta: integra topografia e manifestacao clinica.",
+    "aula_id": "bmf3_a17",
+    "essencial": false
+  },
+  {
+    "id": 402,
+    "materia": "bmf3",
+    "tema": "bmf3_a21",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No roteiro pratico do digestorio, qual estrutura marca a fronteira funcional entre esofago e estomago?",
+    "opcoes": [
+      "A) Cardias com o conceito de esfinter esofagico inferior",
+      "B) Piloro",
+      "C) Valvula ileocecal",
+      "D) Linha pectinea"
+    ],
+    "explicacao_geral": "A estacao pratica costuma cobrar os pontos de junção principais do tubo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: junção esofagogastrica funcional.",
+      "B": "Incorreta: piloro e junção gastroduodenal.",
+      "C": "Incorreta: marca transicao delgado-grosso.",
+      "D": "Incorreta: referencia distal no canal anal."
+    },
+    "explicacao": "A estacao pratica costuma cobrar os pontos de junção principais do tubo. Correta: junção esofagogastrica funcional.",
+    "aula_id": "bmf3_a21",
+    "essencial": false
+  },
+  {
+    "id": 403,
+    "materia": "bmf2",
+    "tema": "bmf2_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A orientacao direita-esquerda no modelo anatomico deve ser feita considerando:",
+    "opcoes": [
+      "A) Direita e esquerda do observador de frente para o modelo",
+      "B) Direita e esquerda do paciente em decubito dorsal (referencial do cadaver",
+      "C) Sempre o lado com mais estruturas visiveis",
+      "D) O sentido cranio-caudal sem referencia lateral"
+    ],
+    "explicacao_geral": "Erro comum em prova pratica e inverter lateralidade por referencia do examinador.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pode inverter lateralidade.",
+      "B": "Correta: e a orientacao padrao ensinada.",
+      "C": "Incorreta: criterio arbitrario.",
+      "D": "Incorreta: falta eixo laterolateral."
+    },
+    "explicacao": "Erro comum em prova pratica e inverter lateralidade por referencia do examinador. Correta: e a orientacao padrao ensinada.",
+    "aula_id": "bmf2_a12"
+  },
+  {
+    "id": 404,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a9",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual ponto de junção separa estomago de duodeno?",
+    "opcoes": [
+      "A) Cardias",
+      "B) Ampola hepatopancreatica",
+      "C) Piloro",
+      "D) Valvula ileocecal"
+    ],
+    "explicacao_geral": "Piloro e marco de transicao indispensavel no roteiro oral->anus.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: cardias e proximal.",
+      "B": "Incorreta: ampola esta no duodeno descendente.",
+      "C": "Correta: limite gastroduodenal.",
+      "D": "Incorreta: limite ileo-colico."
+    },
+    "explicacao": "Piloro e marco de transicao indispensavel no roteiro oral->anus. Correta: limite gastroduodenal.",
+    "aula_id": "farm_a9"
+  },
+  {
+    "id": 405,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Na avaliacao do estomago, quais referencias devem ser priorizadas?",
+    "opcoes": [
+      "A) Apenas coloracao serosa",
+      "B) Fundo gástrico, incisura angular e transição para o duodeno",
+      "C) Exclusivamente calibre do ileo",
+      "D) Curvaturas, piloro e omento maior"
+    ],
+    "explicacao_geral": "Evita pular marcos macroanatomicos importantes.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: dado insuficiente e pouco util.",
+      "B": "Incorreta: traqueia se relaciona com esofago toracico.",
+      "C": "Incorreta: ileo e etapa distal.",
+      "D": "Correta: corresponde a etapa 3 ."
+    },
+    "explicacao": "O roteiro por etapas evita pular marcos macroanatomicos importantes. Correta: corresponde a etapa 3 da conteúdo.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 406,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A ampola duodenal (hepatopancreatica) e clinicamente relevante porque:",
+    "opcoes": [
+      "A) Marca a transicao reto-anal",
+      "B) Reune o fluxo biliar e pancreatico para desembocar no duodeno",
+      "C) Separa jejuno de ileo",
+      "D) E origem da veia porta"
+    ],
+    "explicacao_geral": "Conteúdo integra anatomia da ampola com cobranca clinica de obstrucao biliar/pancreatite.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: refere-se a outra junção.",
+      "B": "Correta: e o conceito funcional-chave.",
+      "C": "Incorreta: nao e essa divisao.",
+      "D": "Incorreta: veia porta tem outra formacao."
+    },
+    "explicacao": "Conteúdo integra anatomia da ampola com cobranca clinica de obstrucao biliar/pancreatite. Correta: e o conceito funcional-chave.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 407,
+    "materia": "bmf3",
+    "tema": "bmf3_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Na etapa do esofago, qual foco de orientacao anatomica e esperado?",
+    "opcoes": [
+      "A) Diferenca entre taenias e haustra",
+      "B) Porta hepatica e arvore biliar",
+      "C) Relacao torax-versus-abdome e proximidade com a traqueia",
+      "D) Topografia da valvula ileocecal"
+    ],
+    "explicacao_geral": "A etapa 2 do roteiro destaca trajetoria e relacoes do esofago.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tema colico.",
+      "B": "Incorreta: tema hepatobiliar.",
+      "C": "Correta: sintese da etapa correspondente.",
+      "D": "Incorreta: ponto distal do delgado-grosso."
+    },
+    "explicacao": "A etapa 2 do roteiro destaca trajetoria e relacoes do esofago. Correta: sintese da etapa correspondente.",
+    "aula_id": "bmf3_a4"
+  },
+  {
+    "id": 408,
+    "materia": "bmf2",
+    "tema": "bmf2_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A valvula ileocecal localiza-se entre:",
+    "opcoes": [
+      "A) Esofago e estomago",
+      "B) Estomago e duodeno",
+      "C) Reto e canal anal",
+      "D) Ileo terminal e ceco (transicao delgado-grosso"
+    ],
+    "explicacao_geral": "E um dos pontos de junção que a conteúdo exige nomear sem hesitacao.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: junção cardial.",
+      "B": "Incorreta: junção pilorica.",
+      "C": "Incorreta: transicao anorretal.",
+      "D": "Correta: descricao anatomica correta."
+    },
+    "explicacao": "E um dos pontos de junção que a conteúdo exige nomear sem hesitacao. Correta: descricao anatomica correta.",
+    "aula_id": "bmf2_a3"
+  },
+  {
+    "id": 409,
+    "materia": "mad1",
+    "tema": "mad1_a15",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual erro de metodo pode induzir confusao entre jejuno e ileo?",
+    "opcoes": [
+      "A) Rotular ileo como jejuno sem analisar calibre e posicao das alcas",
+      "B) Confirmar lateralidade pelo paciente em decubito",
+      "C) Revisar referencias osseas como crista iliaca e xifoide",
+      "D) Seguir checklist sequencial do tubo digestorio"
+    ],
+    "explicacao_geral": "Comparar calibre, pregas e posicao das alcas reduz trocas indevidas entre segmentos do delgado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: e erro explicitamente citado.",
+      "B": "Incorreta: isso e conduta correta.",
+      "C": "Incorreta: isso reduz erros de orientacao.",
+      "D": "Incorreta: checklist melhora desempenho."
+    },
+    "explicacao": "Comparar calibre, pregas e posicao das alcas reduz trocas indevidas entre segmentos do delgado. Correta: e erro explicitamente citado.",
+    "aula_id": "mad1_a15"
+  },
+  {
+    "id": 410,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Qual diferenciacao macro esta correta em estacao integrada de anatomia do digestorio?",
+    "opcoes": [
+      "A) Omento maior e principal suspensor de jejuno-ileo",
+      "B) Omento maior relaciona-se mais a estomago/colon transverso, enquanto mesenterio e o suspensor de jejuno-ileo",
+      "C) Ambos sao sinonimos e podem ser usados indistintamente",
+      "D) Mesenterio e termo exclusivo para ligamentos hepaticos"
+    ],
+    "explicacao_geral": "Quadro comparativo de diferenciacoes cobra justamente esse contraste.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: suspensao de jejuno-ileo e do mesenterio.",
+      "B": "Correta: separa papeis de forma didatica.",
+      "C": "Incorreta: nao sao sinonimos.",
+      "D": "Incorreta: definicao inadequada."
+    },
+    "explicacao": "Quadro comparativo de diferenciacoes do conteúdo cobra justamente esse contraste. Correta: separa papeis de forma didatica.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 411,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A linha pectinea, no nível prático de anatomia, e melhor lembrada como:",
+    "opcoes": [
+      "A) Limite entre estomago e duodeno",
+      "B) Ponto de desembocadura do ducto pancreatico principal",
+      "C) Uniao entre ducto cistico e hepatico comum",
+      "D) Referencia de transicao reto-anal com importancia anatomica e variacoes de representacao entre atlas"
+    ],
+    "explicacao_geral": "Embora detalhamento proctologico seja posterior, o marco anatomico deve ser reconhecido.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso descreve o piloro.",
+      "B": "Incorreta: isso e papila maior/ampola.",
+      "C": "Incorreta: isso forma o coledoco.",
+      "D": "Correta: descreve a linha pectinea no contexto do roteiro."
+    },
+    "explicacao": "Embora detalhamento proctologico seja posterior, o marco anatomico deve ser reconhecido. Correta: descreve a linha pectinea no contexto do roteiro.",
+    "aula_id": "bcm1_a2"
+  },
+  {
+    "id": 412,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "No osso longo, qual componente forma a camada externa mais resistente Ã flexÃ£o e torÃ§Ã£o?",
+    "opcoes": [
+      "A) Medula óssea amarela",
+      "B) Cartilagem articular",
+      "C) Periósteo isoladamente",
+      "D) Osso compacto (cortical"
+    ],
+    "explicacao_geral": "A cortical concentra material mineralizado organizado para suportar carga mecânica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a medula ocupa cavidades internas.",
+      "B": "Incorreta: cartilagem reveste superfícies articulares.",
+      "C": "Incorreta: periósteo não substitui a massa cortical.",
+      "D": "Correta: a cortical é a principal estrutura de resistência externa."
+    },
+    "explicacao": "A combinação de densidade mineral e organização lamelar torna a cortical essencial para resistência estrutural do osso longo.",
+    "aula_id": "bcm1_a3"
+  },
+  {
+    "id": 413,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Crânio, coluna, costelas e esterno pertencem a qual divisão do esqueleto?",
+    "opcoes": [
+      "A) Esqueleto axial",
+      "B) Esqueleto apendicular",
+      "C) Cintura escapular",
+      "D) Esqueleto visceral"
+    ],
+    "explicacao_geral": "O esqueleto axial constitui o eixo central do corpo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reúne cabeça e tronco ósseo.",
+      "B": "Incorreta: apendicular inclui membros e cinturas.",
+      "C": "Incorreta: é apenas parte do apendicular.",
+      "D": "Incorreta: não inclui essas estruturas."
+    },
+    "explicacao": "A distinção axial/apendicular é base para descrição anatômica e raciocínio traumato-ortopédico.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 414,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em fratura que compromete a placa epifisária de uma criança, a principal preocupação tardia é:",
+    "opcoes": [
+      "A) Substituição do osso por tecido fibroso permanente",
+      "B) Distúrbio do crescimento longitudinal do osso",
+      "C) Aceleração da ossificação cortical difusa",
+      "D) Ausência completa de dor"
+    ],
+    "explicacao_geral": "A fise é determinante para crescimento em comprimento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é a consequência típica principal.",
+      "B": "Correta: dano fisário pode gerar encurtamento ou deformidade angular.",
+      "C": "Incorreta: consolidação depende de tempo biológico.",
+      "D": "Incorreta: lesões fisárias podem ser dolorosas."
+    },
+    "explicacao": "O envolvimento da placa de crescimento exige seguimento porque a alteração pode aparecer meses depois da fratura.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 415,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual alternativa diferencia ossificação endocondral e intramembranosa?",
+    "opcoes": [
+      "A) Endocondral ocorre sem qualquer cartilagem",
+      "B) Intramembranosa exige placa epifisária",
+      "C) Endocondral substitui molde cartilaginoso; intramembranosa ocorre diretamente no mesênquima",
+      "D) Ambas são exclusivas do mesmo grupo de ossos"
+    ],
+    "explicacao_geral": "O ponto-chave é a presença ou ausência de modelo cartilaginoso inicial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a presença de cartilagem é central na endocondral.",
+      "B": "Incorreta: placa epifisária não define a intramembranosa.",
+      "C": "Correta: descreve corretamente os mecanismos.",
+      "D": "Incorreta: os processos ocorrem em ossos diferentes."
+    },
+    "explicacao": "Esse contraste explica por que ossos longos e ossos da calvária têm vias de formação distintas.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 416,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Em metástase óssea lítica, qual alteração estrutural contribui para dor mecânica precoce?",
+    "opcoes": [
+      "A) Reação periosteal esclerótica progressiva",
+      "B) Aumento uniforme da mineralização",
+      "C) Formação de cartilagem hialina no foco",
+      "D) Perda de trabéculas com redução da estabilidade interna"
+    ],
+    "explicacao_geral": "A desorganização trabecular reduz a capacidade de distribuir cargas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: padrão lítico não gera espessamento protetor inicial.",
+      "B": "Incorreta: esse padrão não define lesão lítica.",
+      "C": "Incorreta: não é mecanismo típico.",
+      "D": "Correta: a perda trabecular favorece fragilidade e dor Ã carga."
+    },
+    "explicacao": "A esponjosa é determinante para sustentação em várias regiões; sua destruição precoce tem impacto clínico relevante.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 417,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A lei de Wolff afirma que o osso:",
+    "opcoes": [
+      "A) Mantém arquitetura fixa ao longo da vida",
+      "B) Adapta sua arquitetura às cargas mecânicas",
+      "C) Responde apenas a temperatura corporal",
+      "D) Não sofre influência do desuso"
+    ],
+    "explicacao_geral": "O tecido ósseo remodela-se continuamente conforme estímulo mecânico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o osso é dinâmico.",
+      "B": "Correta: carga e uso modulam organização estrutural.",
+      "C": "Incorreta: não é o determinante principal.",
+      "D": "Incorreta: o desuso favorece perda de massa."
+    },
+    "explicacao": "Esse princípio fundamenta reabilitação, prevenção de osteopenia e interpretação de adaptação estrutural.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 418,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A patela é classificada como osso sesamoide porque:",
+    "opcoes": [
+      "A) Apresenta medula hematopoética ativa na vida adulta",
+      "B) Ã‰ osso plano da cintura escapular",
+      "C) Desenvolve-se em tendão e melhora alavanca mecânica",
+      "D) Ã‰ parte do esqueleto axial"
+    ],
+    "explicacao_geral": "Sesamoides surgem em tendões e modificam o vetor de força muscular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pneumática não é característica da patela.",
+      "B": "Incorreta: nÃ£o pertence Ã cintura escapular.",
+      "C": "Correta: função mecânica e localização tendínea definem sesamoide.",
+      "D": "Incorreta: integra o membro inferior."
+    },
+    "explicacao": "A patela aumenta o braço de momento do quadríceps e protege estruturas anteriores do joelho.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 419,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A região entre diáfise e epífise em ossos longos recebe o nome de:",
+    "opcoes": [
+      "A) Metáfise",
+      "B) Endósteo",
+      "C) Linha áspera",
+      "D) Cavidade medular"
+    ],
+    "explicacao_geral": "Metáfise é área de transição anatômica e funcional do osso longo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: é a denominação correta da zona de transição.",
+      "B": "Incorreta: endósteo é revestimento interno.",
+      "C": "Incorreta: é uma marca anatômica específica do fêmur.",
+      "D": "Incorreta: cavidade medular é outro compartimento."
+    },
+    "explicacao": "Em pediatria e ortopedia, localização metafisária tem implicações diagnósticas frequentes.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 420,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A perda de massa trabecular vertebral na osteoporose aumenta principalmente o risco de:",
+    "opcoes": [
+      "A) Fratura do colo do fêmur",
+      "B) Fratura por compressão vertebral",
+      "C) Perda de altura vertebral progressiva",
+      "D) Fraturas por compressão vertebral"
+    ],
+    "explicacao_geral": "Corpos vertebrais dependem de rede trabecular para resistÃªncia Ã compressÃ£o axial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é desfecho ósseo direto.",
+      "B": "Incorreta: não é complicação mecânica do esqueleto.",
+      "C": "Incorreta: não se relaciona ao mecanismo estrutural ósseo.",
+      "D": "Correta: fragilidade trabecular predispõe a colapso vertebral."
+    },
+    "explicacao": "A clínica típica envolve dor axial e redução de estatura por deformidade compressiva progressiva.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 421,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Em um osso longo, o termo 'diáfise' refere-se:",
+    "opcoes": [
+      "A) Ã€ extremidade articular recoberta por cartilagem",
+      "B) Ao corpo ou eixo central do osso",
+      "C) Ã€ membrana sinovial da articulaÃ§Ã£o prÃ³xima",
+      "D) Ã€ placa de crescimento ativa"
+    ],
+    "explicacao_geral": "Diáfise, metáfise e epífise são divisões clássicas do osso longo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso descreve epífise.",
+      "B": "Correta: diáfise é o segmento tubular central.",
+      "C": "Incorreta: membrana sinovial não define região óssea.",
+      "D": "Incorreta: placa de crescimento está na transição metafisária/epifisária."
+    },
+    "explicacao": "A identificação correta das regiões ósseas melhora a comunicação em trauma, cirurgia e imagem.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 422,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A matriz extracelular do tecido conjuntivo não é apenas um material de preenchimento, mas um gel hidrofílico dinâmico. Qual característica bioquímica dos Glicosaminoglicanos (GAGs) é fundamental para garantir a pressão de turgor e a resistência à compressão dos tecidos?",
+    "opcoes": [
+      "A) Presença de resíduos de aminoácidos apolares que repelem a água.",
+      "B) Alta densidade de cargas positivas que atraem ânions plasmáticos.",
+      "C) Organização em tripla hélice rígida estabilizada por pontes de hidrogênio.",
+      "D) Alta densidade de cargas negativas que atraem íons sódio (Na+) e, consequentemente, água."
+    ],
+    "explicacao_geral": "Os GAGs são polissacarídeos altamente aniônicos que ditam as propriedades osmóticas da matriz.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] GAGs são substâncias altamente hidrofílicas, não apolares.",
+      "B": "[INCORRETA] Os GAGs possuem cargas **negativas** (grupos sulfato e carboxila), não positivas.",
+      "C": "[INCORRETA] A estrutura em tripla hélice é característica do **colágeno**, não dos GAGs.",
+      "D": "[CORRETA] Os GAGs são polímeros lineares com alta densidade de **cargas negativas**. Essas cargas atraem cátions (principalmente **Na+**), o que gera um gradiente osmótico que retém **água** na matriz, criando a pressão de turgor essencial para resistir a forças de compressão."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 423,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "O colágeno é a proteína mais abundante do corpo humano, mas suas variantes possuem propriedades mecânicas distintas. Diferencie funcionalmente o Colágeno Tipo I do Colágeno Tipo III (Reticulina).",
+    "opcoes": [
+      "A) O Tipo I oferece alta resistência à tração (tendões/ossos), enquanto o Tipo III forma redes de suporte frouxas (cicatrização inicial/órgãos moles).",
+      "B) O Tipo I é exclusivo de cartilagens elásticas, enquanto o Tipo III forma a matriz mineralizada do osso.",
+      "C) O Tipo I atua na termogênese tecidual, enquanto o Tipo III é o principal componente das fibras elásticas.",
+      "D) O Tipo I é sintetizado por macrófagos, enquanto o Tipo III é produzido apenas por plasmócitos."
+    ],
+    "explicacao_geral": "A distribuição dos tipos de colágeno reflete a necessidade mecânica de cada tecido.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Colágeno Tipo I** é espesso e extremamente resistente à tração, sendo o principal componente de tendões e ossos. O **Tipo III** forma fibras reticulares finas, servindo como arcabouço inicial na cicatrização e suporte para órgãos hematopoéticos.",
+      "B": "[INCORRETA] O colágeno típico da cartilagem hialina é o Tipo II. O Tipo I é quem forma a matriz orgânica do osso.",
+      "C": "[INCORRETA] A termogênese é função da gordura marrom (proteína UCP-1). As fibras elásticas são compostas por elastina e fibrilina, não colágeno III.",
+      "D": "[INCORRETA] Ambos são sintetizados primariamente por **fibroblastos**."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 424,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A biossíntese do colágeno é um processo complexo que envolve etapas intra e extracelulares. Qual evento enzimático ocorre no Retículo Endoplasmático Rugoso e é dependente de Vitamina C como cofator?",
+    "opcoes": [
+      "A) Clivagem das telopeptidasas para formação do tropocolágeno.",
+      "B) Auto-organização das fibrilas em fibras colágenas maduras.",
+      "C) Hidroxilação dos resíduos de Prolina e Lisina.",
+      "D) Glicosilação das cadeias elastínicas para formação de desmosina."
+    ],
+    "explicacao_geral": "A vitamina C é crucial para a estabilidade estrutural da tripla hélice de colágeno.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A clivagem das extremidades do pró-colágeno é um evento **extracelular**.",
+      "B": "[INCORRETA] A polimerização das fibras ocorre no espaço **extracelular**, sem dependência direta de Vitamina C nesta fase.",
+      "C": "[CORRETA] A **hidroxilação** da prolina e lisina ocorre no RER e exige **Vitamina C** e ferro como cofatores. A ausência de hidroxilação impede a formação estável da tripla hélice, resultando no **escorbuto**.",
+      "D": "[INCORRETA] A elastina não segue o mesmo caminho de hidroxilação dependente de vitamina C do colágeno."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 425,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "No tecido adiposo, a morfologia da célula reflete sua função metabólica primária. Sobre o Adipócito Multilocular (Marrom), qual característica justifica sua alta capacidade de termogênese?",
+    "opcoes": [
+      "A) Presença de uma única e grande gota lipídica que armazena energia de forma compacta.",
+      "B) Alta concentração de mitocôndrias e expressão da proteína desacopladora UCP-1 (Termogenina).",
+      "C) Ausência de vascularização, o que impede a perda de calor para o sangue circundante.",
+      "D) Capacidade de converter glicose em colágeno Tipo I para isolamento térmico."
+    ],
+    "explicacao_geral": "A gordura marrom é especializada na produção de calor, não no armazenamento de ATP.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Esta descrição (gota única) refere-se ao adipócito **unilocular** (branco).",
+      "B": "[CORRETA] O adipócito multilocular possui inúmeras gotículas lipídicas e **muitas mitocôndrias**. A proteína **UCP-1 (Termogenina)** desacopla a cadeia transportadora de elétrons, permitindo que o gradiente de prótons gere calor em vez de ATP.",
+      "C": "[INCORRETA] O tecido adiposo marrom é **altamente vascularizado** para distribuir o calor gerado pelo corpo.",
+      "D": "[INCORRETA] Adipócitos não sintetizam colágeno estrutural como função primária."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 426,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Durante o processo de cicatrização de uma ferida cirúrgica, observa-se uma transição temporal na produção de matriz. Qual a sequência fenotípica correta em relação à deposição de colágeno?",
+    "opcoes": [
+      "A) Deposição imediata de Colágeno Tipo I seguida de reabsorção por macrófagos.",
+      "B) Síntese de elastina nas primeiras 24 horas para garantir o fechamento da ferida.",
+      "C) Formação de molde de fibronectina seguida exclusivamente por Colágeno Tipo IV.",
+      "D) Deposição inicial de Colágeno Tipo III (tecido de granulação) e posterior substituição por Colágeno Tipo I (cicatriz madura)."
+    ],
+    "explicacao_geral": "O reparo tecidual segue uma cronologia de suporte frouxo para suporte denso.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O colágeno Tipo I (mais resistente e lento de produzir) é depositado em fases posteriores.",
+      "B": "[INCORRETA] Fibras elásticas são sintetizadas tardiamente e muitas vezes de forma incompleta em cicatrizes cutâneas.",
+      "C": "[INCORRETA] O Colágeno IV é típico de lâminas basais, não do estroma cicatricial.",
+      "D": "[CORRETA] O corpo utiliza primeiro o **Colágeno Tipo III** (Reticulina), pois ele forma uma rede rápida para o tecido de granulação. Com a maturação, os fibroblastos substituem essa rede por **Colágeno Tipo I**, que confere a resistência final à cicatriz."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 427,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Os tendões são estruturas que transmitem a força muscular para os ossos, exigindo resistência máxima à tração em uma única direção. Como o tecido conjuntivo é classificado nesse local?",
+    "opcoes": [
+      "A) Tecido Conjuntivo Denso Regular.",
+      "B) Tecido Conjuntivo Frouxo.",
+      "C) Tecido Conjuntivo Denso Irregular.",
+      "D) Tecido Conjuntivo Especializado Mucoso."
+    ],
+    "explicacao_geral": "A organização das fibras no conjuntivo denso depende da direção do estresse mecânico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] No **Denso Regular**, as fibras colágenas estão dispostas em feixes **paralelos**, o que confere resistência máxima em uma única direção, característica ideal para os **tendões**.",
+      "B": "[INCORRETA] O frouxo possui muitas células e poucas fibras, sendo flexível e pouco resistente a tração intensa.",
+      "C": "[INCORRETA] O denso irregular possui fibras entrelaçadas para resistir a trações em múltiplas direções (como na derme profunda).",
+      "D": "[INCORRETA] O tecido mucoso é embrionário (geleia de Wharton)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 428,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Paciente masculino, 32 anos, apresenta-se com edema súbito de lábios, dispneia intensa com estridor laríngeo e placas urticariformes no tronco após ingestão de frutos-do-mar. O quadro clínico evolui rapidamente para choque anafilático. Qual célula do tecido conjuntivo é a responsável primária por essa resposta sistêmica e qual mediador vasodilatador está centralmente envolvido?",
+    "opcoes": [
+      "A) Plasmócito e produção de anticorpos IgE sistêmicos.",
+      "B) Macrófago e liberação de citocinas pró-inflamatórias IL-1.",
+      "C) Mastócito e liberação de histamina por desgranulação.",
+      "D) Fibroblasto e síntese aguda de substância fundamental amorfa."
+    ],
+    "explicacao_geral": "O choque anafilático é uma reação de hipersensibilidade mediada por mastócitos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O plasmócito produz os anticorpos, mas a manifestação aguda (vasodilatação/edema) decorre da ação celular subsequente.",
+      "B": "[INCORRETA] O macrófago atua na fagocitose e inflamação subaguda/crônica, não no choque anafilático imediato.",
+      "C": "[CORRETA] O **Mastócito** possui receptores para IgE e, ao entrar em contato com o alérgeno, libera seus grânulos. A **histamina** liberada causa vasodilatação brusca e aumento da permeabilidade vascular, gerando edema de glote e queda da pressão arterial.",
+      "D": "[INCORRETA] O fibroblasto atua no reparo e síntese de matriz, não em respostas alérgicas agudas."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 429,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Homem, 55 anos, etilista pesado há 20 anos, apresenta quadro de ascite, icterícia e estigmas de hepatopatia crônica. A biópsia hepática confirma cirrose. Fisiopatologicamente, a cirrose é uma fibrose hepática progressiva. Qual célula reside no conjuntivo hepático e torna-se a principal responsável pela deposição excessiva de colágeno e desorganização da arquitetura do órgão?",
+    "opcoes": [
+      "A) Célula Endotelial hepática.",
+      "B) Fibroblasto (ou célula estrelada ativada).",
+      "C) Hepatócito unilocular.",
+      "D) Mastócito portal."
+    ],
+    "explicacao_geral": "A fibrose é o resultado do desequilíbrio na produção de matriz extracelular.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Células endoteliais revestem os vasos, mas não são as principais produtoras de matriz colágena.",
+      "B": "[CORRETA] A **fibrose** (e a cirrose) decorre da atividade descontrolada dos **fibroblastos** (no fígado, especificamente as células estreladas de Ito quando ativadas). Elas sintetizam colágeno excessivo em resposta à agressão crônica pelo álcool.",
+      "C": "[INCORRETA] O hepatócito é a célula funcional parenquimatosa; sua perda é que leva à insuficiência, mas a 'cicatriz' é fibrosa.",
+      "D": "[INCORRETA] Mastócitos podem participar da inflamação, mas a massa fibrótica é obra do fibroblasto."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 430,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Criança, 7 anos, apresenta hipermobilidade articular extrema, pele hiperextensível e histórico de luxações frequentes e cicatrizações \"papiráceas\" (finas e alargadas). O diagnóstico é Síndrome de Ehlers-Danlos. Qual o defeito molecular subjacente a essa condição que explica a fragilidade do tecido conjuntivo?",
+    "opcoes": [
+      "A) Mutação genética que afeta a síntese ou processamento do colágeno.",
+      "B) Deficiência nutricional de Vitamina C impedindo a hidroxilação.",
+      "C) Degeneração dos mastócitos com perda da capacidade de liberar histamina.",
+      "D) Acúmulo excessivo de adipócitos multiloculares na derme reticular."
+    ],
+    "explicacao_geral": "A Síndrome de Ehlers-Danlos é uma doença genética da matriz extracelular.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Síndrome de Ehlers-Danlos** é um grupo de doenças hereditárias causadas por defeitos na **síntese ou processamento do colágeno**. Isso resulta em fibras colágenas mal-organizadas ou insuficientes, levando à hiperextensibilidade e fragilidade tecidual.",
+      "B": "[INCORRETA] Esta descrição refere-se ao **escorbuto**, que é uma deficiência nutricional adquirida, não uma síndrome genética hereditária como a citada.",
+      "C": "[INCORRETA] Mastócitos não têm relação direta com a síntese de colágeno ou elasticidade cutânea estrutural.",
+      "D": "[INCORRETA] O tecido adiposo não dita as propriedades de extensão e resistência da derme; estas dependem de fibras colágenas e elásticas."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 431,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As fibras elásticas permitem que tecidos como pulmões e artérias se expandam e retornem ao estado original. Qual componente da matriz fornece esse suporte e qual a sua correlação clínica em casos de tabagismo crônico?",
+    "opcoes": [
+      "A) Colágeno Tipo III; sua destruição causa queloides pulmonares.",
+      "B) Proteoglicanos; sua perda causa desidratação das vias aéreas.",
+      "C) Elastina; sua destruição por elastases causa o enfisema pulmonar.",
+      "D) Reticulina; seu excesso causa a fibrose cística arterial."
+    ],
+    "explicacao_geral": "A complacência pulmonar depende da integridade do sistema elástico.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Colágeno III fornece suporte estrutural fino, mas não elasticidade de retorno.",
+      "B": "[INCORRETA] Proteoglicanos atraem água, não fornecem elasticidade de rebote.",
+      "C": "[CORRETA] A **elastina** é o componente que permite a retração elástica. No tabagismo, o desequilíbrio entre enzimas (elastases) e inibidores leva à destruição da elastina nos alvéolos, resultando em **enfisema pulmonar**.",
+      "D": "[INCORRETA] Reticulina e colágeno III são sinônimos e não estão relacionados à elasticidade arterial primária."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a4"
+  },
+  {
+    "id": 432,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A unidade estrutural do osso compacto organizada em lamelas concêntricas ao redor de um canal central é:",
+    "opcoes": [
+      "A) Osteon (sistema de Havers",
+      "B) Lacuna condrocitária",
+      "C) Trabécula óssea",
+      "D) Disco intercalar"
+    ],
+    "explicacao_geral": "O osteon integra lamelas, canal vascular e comunicação celular no osso compacto.",
+    "explicacoes_opcoes": {
+      "A": "Correta: essa é a unidade clássica da cortical.",
+      "B": "Incorreta: refere-se Ã cartilagem.",
+      "C": "Incorreta: pertence ao rim.",
+      "D": "Incorreta: pertence ao tecido cardíaco."
+    },
+    "explicacao": "A organização osteonal explica resistência e nutrição da cortical óssea.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 433,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual associação está correta para osso compacto?",
+    "opcoes": [
+      "A) Rede trabecular frouxa como padrão dominante",
+      "B) Predomínio de osteons e maior resistência mecânica",
+      "C) Matriz sem mineralização",
+      "D) Ausência de vasos"
+    ],
+    "explicacao_geral": "Osso compacto tem organização densa voltada a suporte estrutural.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: padrão trabecular é típico da esponjosa.",
+      "B": "Correta: descreve a cortical corretamente.",
+      "C": "Incorreta: o tecido ósseo é mineralizado.",
+      "D": "Incorreta: há vascularização pelos canais."
+    },
+    "explicacao": "A diferença entre compacto e esponjoso é morfológica e funcional, não apenas topográfica.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 434,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A adaptação da arquitetura óssea às cargas mecânicas é explicada por qual princípio?",
+    "opcoes": [
+      "A) Lei de Laplace",
+      "B) Remodelação orientada por carga mecânica local",
+      "C) Lei de Wolff",
+      "D) Lei de Hooke"
+    ],
+    "explicacao_geral": "A remodelação óssea depende do padrão de uso e tensão mecânica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve outra relação fisiológica.",
+      "B": "Incorreta: refere-se a trocas capilares.",
+      "C": "Correta: princípio clássico de adaptação óssea.",
+      "D": "Incorreta: relaciona-se a transporte de oxigênio."
+    },
+    "explicacao": "Wolff conecta estímulo mecânico e remodelação estrutural do osso.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 435,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual célula sintetiza osteoide durante formação óssea?",
+    "opcoes": [
+      "A) Osteócito",
+      "B) Osteoclasto",
+      "C) Condrócito",
+      "D) Osteoblasto"
+    ],
+    "explicacao_geral": "A deposição de matriz orgânica óssea é função do osteoblasto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: osteócito é célula madura inserida na matriz.",
+      "B": "Incorreta: osteoclasto reabsorve osso.",
+      "C": "Incorreta: condrócito sintetiza matriz cartilaginosa.",
+      "D": "Correta: osteoblasto produz osteoide."
+    },
+    "explicacao": "Na fisiologia óssea, formação e reabsorção dependem de tipos celulares distintos e complementares.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 436,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual função dos osteócitos é mais importante na resposta ao desuso prolongado?",
+    "opcoes": [
+      "A) Mecanossensibilidade e sinalização para remodelação",
+      "B) Reabsorção osteoclástica da matriz mineral",
+      "C) Deposição de osteoide novo em superfície periosteal",
+      "D) Síntese de osteocalcina"
+    ],
+    "explicacao_geral": "Osteócitos atuam como sensores mecânicos na matriz mineralizada.",
+    "explicacoes_opcoes": {
+      "A": "Correta: detectam carga e modulam atividade de osteoblastos/osteoclastos.",
+      "B": "Incorreta: função pulmonar.",
+      "C": "Incorreta: função hematológica eritroide.",
+      "D": "Incorreta: função pancreática."
+    },
+    "explicacao": "A perda de estímulo mecânico altera sinalização osteocitária e favorece perda de massa óssea.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 437,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O osteoclasto é melhor caracterizado como:",
+    "opcoes": [
+      "A) Célula mononuclear formadora de osteoide",
+      "B) Célula multinucleada reabsortiva derivada da linhagem hematopoética",
+      "C) Célula epitelial de revestimento",
+      "D) Célula multinucleada formadora de osteoide"
+    ],
+    "explicacao_geral": "Reabsorção óssea depende de células gigantes multinucleadas da linhagem monócito-macrófago.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: essa descrição se aproxima do osteoblasto.",
+      "B": "Correta: define origem e função do osteoclasto.",
+      "C": "Incorreta: osteoclasto não é epitelial.",
+      "D": "Incorreta: não pertence ao tecido nervoso."
+    },
+    "explicacao": "Conhecer a origem hematopoética do osteoclasto ajuda a entender terapias anti-reabsortivas.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 438,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A ossificação direta a partir de mesênquima é denominada:",
+    "opcoes": [
+      "A) Endocondral",
+      "B) Periosteal secundária",
+      "C) Intramembranosa",
+      "D) Metaplásica"
+    ],
+    "explicacao_geral": "Na intramembranosa, não há molde cartilaginoso prévio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: endocondral envolve cartilagem inicial.",
+      "B": "Incorreta: não é o termo principal do mecanismo.",
+      "C": "Correta: nome correto do processo.",
+      "D": "Incorreta: não é classificação padrão para o desenvolvimento ósseo normal."
+    },
+    "explicacao": "Ossos da calvária são exemplos clássicos de formação por via intramembranosa.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 439,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A maioria dos ossos longos se forma por:",
+    "opcoes": [
+      "A) Ossificação intramembranosa pura",
+      "B) Mineralização direta de tendão",
+      "C) Transformação de tecido muscular",
+      "D) Ossificação endocondral"
+    ],
+    "explicacao_geral": "O crescimento longitudinal dos ossos longos depende de modelo cartilaginoso inicial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é a via predominante dos ossos longos.",
+      "B": "Incorreta: tendão não é molde fisiológico padrão.",
+      "C": "Incorreta: não ocorre no desenvolvimento normal.",
+      "D": "Correta: esse é o mecanismo principal."
+    },
+    "explicacao": "A placa epifisária e o molde cartilaginoso são elementos-chave da ossificação endocondral.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 440,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Qual distinção entre osteoporose e osteomalácia está correta?",
+    "opcoes": [
+      "A) Osteoporose é defeito primário de mineralização; osteomalácia é perda exclusiva de massa",
+      "B) Osteoporose envolve redução de massa/arquitetura; osteomalácia envolve mineralização inadequada da matriz",
+      "C) Ambas decorrem de mecanismo idêntico",
+      "D) Osteomalácia aumenta densidade mineral em excesso"
+    ],
+    "explicacao_geral": "Uma condição afeta quantidade e microarquitetura; a outra afeta qualidade de mineralização.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: as definições estão invertidas.",
+      "B": "Correta: resume o contraste fisiopatológico central.",
+      "C": "Incorreta: mecanismos não são idênticos.",
+      "D": "Incorreta: osteomalácia não causa hipermineralização."
+    },
+    "explicacao": "Diferenciar esses conceitos evita erro de interpretação entre exame laboratorial e densitometria.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 441,
+    "materia": "bmf1",
+    "tema": "bmf1_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Na consolidação de fratura sem complicações, qual etapa representa o desfecho final esperado?",
+    "opcoes": [
+      "A) Persistência de hematoma sem reparo",
+      "B) Formação exclusiva de tecido fibroso",
+      "C) Persistência de calo cartilaginoso sem mineralização adequada",
+      "D) Formação de calo ósseo com remodelação progressiva"
+    ],
+    "explicacao_geral": "A cicatrização óssea evolui de inflamação para reparo e remodelação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: hematoma é etapa inicial.",
+      "B": "Incorreta: o reparo fisiológico evolui para tecido ósseo.",
+      "C": "Incorreta: infecção não faz parte do curso esperado.",
+      "D": "Correta: este é o resultado fisiológico da consolidação."
+    },
+    "explicacao": "A remodelação final restabelece progressivamente forma e resistência do segmento fraturado.",
+    "aula_id": "bmf1_a5"
+  },
+  {
+    "id": 442,
+    "materia": "bmf1",
+    "tema": "bmf1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual conjunto contém apenas estruturas do esqueleto axial?",
+    "opcoes": [
+      "A) Crânio, coluna vertebral, costelas e esterno",
+      "B) Escápula, clavícula e úmero",
+      "C) Fêmur, tíbia e fíbula",
+      "D) Vértebras, sacro e cóccix"
+    ],
+    "explicacao_geral": "O axial compõe o eixo central do corpo; membros e cinturas são apendiculares.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reúne exclusivamente componentes axiais.",
+      "B": "Incorreta: são elementos do membro superior/cintura escapular.",
+      "C": "Incorreta: estruturas do membro inferior.",
+      "D": "Incorreta: estruturas do antebraço e mão."
+    },
+    "explicacao": "A separação axial/apendicular orienta descrição anatômica e análise de trauma.",
+    "aula_id": "bmf1_a3"
+  },
+  {
+    "id": 443,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "As costelas verdadeiras correspondem, em geral, a quais pares?",
+    "opcoes": [
+      "A) 8 a 10",
+      "B) 1 a 7",
+      "C) 11 e 12",
+      "D) 6 a 12"
+    ],
+    "explicacao_geral": "Costelas 1-7 articulam-se diretamente ao esterno por cartilagem própria.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: 8-10 são costelas falsas.",
+      "B": "Correta: este é o grupo das verdadeiras.",
+      "C": "Incorreta: 11-12 são flutuantes.",
+      "D": "Incorreta: mistura grupos com articulação diferente."
+    },
+    "explicacao": "A classificação costal é útil para interpretar lesão torácica e relação com esterno.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 444,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Na posiÃ§Ã£o anatÃ´mica, em relaÃ§Ã£o Ã ulna, o rÃ¡dio estÃ¡:",
+    "opcoes": [
+      "A) Medial e posterior",
+      "B) Medial e proximal",
+      "C) Lateral, no lado do polegar",
+      "D) Medial, no lado do quinto dedo"
+    ],
+    "explicacao_geral": "Com o antebraço em supinação, o rádio fica do lado lateral.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não ocupa essa posição em referência anatômica.",
+      "B": "Incorreta: o rÃ¡dio nÃ£o Ã© medial Ã ulna.",
+      "C": "Correta: lado do polegar corresponde ao rádio.",
+      "D": "Incorreta: lado do quinto dedo corresponde Ã ulna."
+    },
+    "explicacao": "A relação rádio-ulna muda em pronação/supinação, mas a descrição padrão usa posição anatômica.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 445,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A vértebra proeminente palpável na base do pescoço é geralmente:",
+    "opcoes": [
+      "A) C5",
+      "B) C1",
+      "C) T2",
+      "D) C7"
+    ],
+    "explicacao_geral": "C7 costuma ter processo espinhoso mais evidente ao exame físico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o marco palpável mais típico.",
+      "B": "Incorreta: atlas não possui processo espinhoso proeminente.",
+      "C": "Incorreta: pode palpar-se, mas o marco clássico é cervical.",
+      "D": "Correta: C7 é a referência anatômica tradicional."
+    },
+    "explicacao": "A identificação da C7 auxilia contagem de níveis vertebrais em exame clínico.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 446,
+    "materia": "bmf4",
+    "tema": "bmf4_a4",
+    "modulo": 4,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual associação entre forame craniano e estrutura é correta?",
+    "opcoes": [
+      "A) Forame oval - nervo mandibular (V3",
+      "B) Forame redondo - nervo facial (VII",
+      "C) Forame óptico - nervo olfatório (I",
+      "D) Forame jugular - nervo glossofaríngeo (IX"
+    ],
+    "explicacao_geral": "Os forames da base do crânio têm conteúdos neurovasculares específicos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: V3 atravessa o forame oval.",
+      "B": "Incorreta: V2 passa pelo forame redondo.",
+      "C": "Incorreta: o nervo óptico (II) passa pelo canal óptico.",
+      "D": "Incorreta: o trigêmeo não atravessa o forame magno."
+    },
+    "explicacao": "Conhecer mapeamento de forames evita erros de localização em correlação clínica e radiológica.",
+    "aula_id": "bmf4_a4"
+  },
+  {
+    "id": 447,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A coluna torácica possui tipicamente:",
+    "opcoes": [
+      "A) 7 vértebras com lordose",
+      "B) 12 vértebras com cifose",
+      "C) 5 vértebras com lordose",
+      "D) 12 vértebras com lordose"
+    ],
+    "explicacao_geral": "A curvatura fisiológica torácica é cifótica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: sete vértebras corresponde ao segmento cervical.",
+      "B": "Correta: número e curvatura estão corretos.",
+      "C": "Incorreta: cinco vértebras corresponde ao segmento lombar.",
+      "D": "Incorreta: a curvatura torácica não é lordose."
+    },
+    "explicacao": "O padrão de curvaturas fisiológicas ajuda na análise postural e na interpretação de imagem.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 448,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Após queda sobre a mão espalmada com punho em extensão, qual osso do carpo é classicamente fraturado?",
+    "opcoes": [
+      "A) Pisiforme",
+      "B) Hamato",
+      "C) Escafoide",
+      "D) Semilunar"
+    ],
+    "explicacao_geral": "O escafoide é particularmente vulnerável nesse mecanismo de trauma.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o mais frequente nesse mecanismo.",
+      "B": "Incorreta: fratura menos típica para essa queda.",
+      "C": "Correta: é o diagnóstico clássico da queda sobre mão estendida.",
+      "D": "Incorreta: pode lesar-se, mas não é o mais característico."
+    },
+    "explicacao": "A suspeita clínica de fratura de escafoide exige atenção pelo risco de complicações vasculares.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 449,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Em idoso com queda da própria altura e dor no quadril, o local de fratura por fragilidade mais frequente é:",
+    "opcoes": [
+      "A) Tíbia proximal",
+      "B) Corpo do ílio",
+      "C) Patela",
+      "D) Colo do fêmur"
+    ],
+    "explicacao_geral": "Fraturas do colo femoral são típicas em osteoporose após trauma de baixa energia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o sítio mais comum nesse cenário.",
+      "B": "Incorreta: possível, porém menos típico.",
+      "C": "Incorreta: mecanismo e epidemiologia diferentes.",
+      "D": "Correta: é o local clássico em fratura de quadril por fragilidade."
+    },
+    "explicacao": "Esse padrão tem grande impacto funcional e prognóstico, exigindo diagnóstico e manejo precoces.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 450,
+    "materia": "bmf1",
+    "tema": "bmf1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na perna, qual osso suporta a maior parte da carga axial em ortostatismo?",
+    "opcoes": [
+      "A) Fíbula",
+      "B) Tíbia",
+      "C) Calcâneo",
+      "D) Tálus"
+    ],
+    "explicacao_geral": "A tíbia é o principal osso de transmissão de carga da perna.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: fíbula participa mais da estabilidade lateral.",
+      "B": "Correta: a carga axial principal passa pela tíbia.",
+      "C": "Incorreta: calcâneo recebe carga no retropé, não substitui a tíbia.",
+      "D": "Incorreta: tálus participa da articulação do tornozelo, mas não é o principal osso da perna."
+    },
+    "explicacao": "Diferenciar função de tíbia e fíbula ajuda na interpretação de padrões de fratura e sobrecarga.",
+    "aula_id": "bmf1_a6"
+  },
+  {
+    "id": 451,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Comparando ombro e quadril, qual afirmação está correta?",
+    "opcoes": [
+      "A) Ombro é mais estável por ter cavidade mais profunda",
+      "B) Quadril apresenta maior amplitude global que o ombro",
+      "C) Ambos têm estabilidade e mobilidade equivalentes",
+      "D) Ombro prioriza mobilidade; quadril prioriza estabilidade"
+    ],
+    "explicacao_geral": "A morfologia articular do ombro favorece amplitude, enquanto o quadril favorece contenção.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a cavidade glenoidal é relativamente rasa.",
+      "B": "Incorreta: o ombro costuma ter maior amplitude.",
+      "C": "Incorreta: há diferença funcional importante entre eles.",
+      "D": "Correta: resume o principal contraste biomecânico."
+    },
+    "explicacao": "A relação mobilidade-estabilidade explica a maior frequência de instabilidade glenoumeral em comparação ao quadril.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 452,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual tipo de união articula suturas do crânio e inclui, como exemplo distal citado na classificação, a sindesmose tibiofibular?",
+    "opcoes": [
+      "A) Fibrosa",
+      "B) Cartilaginosa primária",
+      "C) Sinovial esferóide",
+      "D) Sinovial plana"
+    ],
+    "explicacao_geral": "Fibrosa prioriza resistência com pouco ou nenhum movimento — base para entender imobilidade relativa.",
+    "explicacoes_opcoes": {
+      "A": "Correta: exemplos explícitos na primeira classificação .",
+      "B": "Incorreta: cartilaginosa permite algum movimento limitado, padrão distinto.",
+      "C": "Incorreta: sinovial implica cavidade e líquido, não sutura típica.",
+      "D": "Incorreta: plana é subtipo funcional de sinovial, não categoria de união por tecido."
+    },
+    "explicacao": "Conceito-chave: Classificar por tecido de união vem antes da forma sinovial.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 453,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A união cartilaginosa caracteriza-se por movimento limitado. Quais exemplos aparecem juntos na classificação introdutória?",
+    "opcoes": [
+      "A) Suturas sagital e lambdóide",
+      "B) Disco intervertebral e sínfise púbica",
+      "C) Articulações do joelho e do ombro",
+      "D) Articulação atlanto-occiptal isoladamente"
+    ],
+    "explicacao_geral": "Disco e sínfise são cartilaginosas; joelho e ombro são sinoviais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: suturas são fibrosas.",
+      "B": "Correta: reproduz a linha da classificação de união por tecido.",
+      "C": "Incorreta: essas são sinoviais com cavidade.",
+      "D": "Incorreta: não resume o par didático da classificação."
+    },
+    "explicacao": "Conceito-chave: Erro típico é rotular disco IV como sinovial.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 454,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Em relação às três famílias de união, a articulação sinovial distingue-se fundamentalmente por:",
+    "opcoes": [
+      "A) Ausência de qualquer cartilagem no contato ósseo",
+      "B) Substituir o líquido sinovial por tecido fibroso denso exclusivo",
+      "C) Apresentar cavidade articular, líquido sinovial e cartilagem hialina nas superfícies",
+      "D) Permitir apenas movimento fibroso mínimo como sutura"
+    ],
+    "explicacao_geral": "Frase-âncora : sinovial = cavidade + líquido; demais uniões são mais rígidas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: há cartilagem hialina nas superfícies.",
+      "B": "Incorreta: líquido é central na definição.",
+      "C": "Correta: coincide com a coluna da classificação e com a estrutura sinovial.",
+      "D": "Incorreta: descreve fibrosa, não sinovial."
+    },
+    "explicacao": "Conceito-chave: Este é o filtro conceitual antes de decorar subtipos (dobradiça, esferóide…).\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 455,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A cartilagem hialina que recobre as superfícies articulares em sinoviais é avascular. Qual mecanismo a conteúdo destaca para nutrição e lubrificação?",
+    "opcoes": [
+      "A) Perfusão arterial direta em toda espessura da cartilagem",
+      "B) Absorção exclusiva pelo osso cortical sem participação articular",
+      "C) Difusão predominante a partir dos vasos do osso subcondral, com pouca contribuição do líquido sinovial",
+      "D) Difusão a partir do líquido sinovial produzido pela membrana sinovial"
+    ],
+    "explicacao_geral": "Liga líquido sinovial à sobrevivência da cartilagem — relevante em artrite e gonartrose.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: cartilagem articular não é vascularizada dessa forma.",
+      "B": "Incorreta: ignora o papel do fluido intra-articular.",
+      "C": "Incorreta: sinovite é processo patológico/inflamatório, não estado basal descrito assim.",
+      "D": "Correta: texto da estrutura sinovial."
+    },
+    "explicacao": "Conceito-chave: Por isso inflamação sinovial altera composição e volume do líquido.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 456,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "A articulação do cotovelo é classificada funcionalmente como dobradiça (ginglimo) porque permite predominantemente:",
+    "opcoes": [
+      "A) Flexão e extensão",
+      "B) Rotação pura em torno de um eixo vertical longo isolado",
+      "C) Flexão, extensão e pequena rotação axial associada ao complexo úmero-rádio-ulnar",
+      "D) Apenas deslizamento mínimo entre ossos do carpo"
+    ],
+    "explicacao_geral": "Dobradiça = flexo-extensão; o cotovelo compartilha classe com interfalangeanas.",
+    "explicacoes_opcoes": {
+      "A": "Correta: movimento típico da classificação de classificação funcional.",
+      "B": "Incorreta: descreve melhor pivô.",
+      "C": "Incorreta: oposição é selar na 1ª metacarpofalangeana do polegar.",
+      "D": "Incorreta: descreve articulação plana/intercarpica."
+    },
+    "explicacao": "Conceito-chave: O cotovelo também tem componentes adicionais na vida real, mas a classe didática é dobradiça.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 457,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A articulação atlantoaxial envolvendo o processo odontoide (dens) exemplifica qual tipo sinovial na classificação de formas?",
+    "opcoes": [
+      "A) Esferóide",
+      "B) Pivô (trocoide",
+      "C) Selar",
+      "D) Elipsoide"
+    ],
+    "explicacao_geral": "Pivô = rotação; cai em trauma cervical e exame neurológico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: multiaxial amplo é esferóide (ombro/quadril).",
+      "B": "Correta: exemplo explícito na classificação.",
+      "C": "Incorreta: selar é polegar MCP1.",
+      "D": "Incorreta: elipsoide é radiocarpiana na classificação."
+    },
+    "explicacao": "Conceito-chave: Memorizar exemplo ancora a nome técnico.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 458,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Sobre o compromisso mobilidade–estabilidade entre ombro e quadril, qual afirmação reproduz a regra prática ?",
+    "opcoes": [
+      "A) O quadril é mais móvel e menos estável que o ombro",
+      "B) O ombro é mais estável e menos móvel que o quadril",
+      "C) Ambos têm profundidade acetabular equivalente à fossa glenóide",
+      "D) O ombro tende a alta mobilidade com menor estabilidade relativa; o quadril prioriza estabilidade com cabeça mais profunda no acetábulo"
+    ],
+    "explicacao_geral": "Base para entender luxação glenoumeral anterior versus quadril menos luxável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte o padrão descrito.",
+      "B": "Incorreta: inverte mobilidade relativa.",
+      "C": "Incorreta: morfologia e estabilidade não são equivalentes.",
+      "D": "Correta: síntese da classificação de estabilidade versus mobilidade."
+    },
+    "explicacao": "Conceito-chave: Lesões típicas (Bankart no ombro) seguem esse desequilíbrio.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 459,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Na classificação funcional das sinoviais, o joelho é citado como exemplo clássico de articulação do tipo:",
+    "opcoes": [
+      "A) Pivô puro",
+      "B) Selar",
+      "C) Côndilo, com meniscos no complexo articular",
+      "D) Plana exclusivamente, sem flexão nem extensão"
+    ],
+    "explicacao_geral": "Revisão final cita joelho como “côndilo” clássico; meniscos são fibrocartilagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pivô é atlantoaxial.",
+      "B": "Incorreta: selar é polegar MCP.",
+      "C": "Correta: alinha-se à classificação (com meniscos).",
+      "D": "Incorreta: joelho realiza flexo-extensão importante."
+    },
+    "explicacao": "Conceito-chave: LCA e menisco compartilham cinemática — ponte clínica da conteúdo.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 460,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Por que os meniscos do joelho são descritos como fibrocartilagem e não como cartilagem hialina das superfícies articulares?",
+    "opcoes": [
+      "A) Porque são vascularizados diretamente de forma extensa em todo o tecido",
+      "B) Porque resistem compressão e cisalhamento em disco/menisco, função distinta da cartilagem hialina superficial",
+      "C) Porque são ricas em colágeno tipo II e têm função principal de reduzir atrito articular",
+      "D) Porque não participam da estabilização do joelho"
+    ],
+    "explicacao_geral": "Classificação contraste hialina (superfície) × fibrocartilagem (meniscos, disco TMJ).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o critério histológico/função .",
+      "B": "Correta: ecoa a diferenciação explícita do material.",
+      "C": "Incorreta: confunde com tecido ósseo.",
+      "D": "Incorreta: meniscos contribuem para congruência e carga."
+    },
+    "explicacao": "Conceito-chave: Erro comum é chamar menisco de ‘cartilagem hialina’.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 461,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O líquido sinovial é descrito como ultrafiltrado do plasma com hialuronato. Qual função principal a conteúdo atribui a ele em articulações normais?",
+    "opcoes": [
+      "A) Substituir o sangue no interior do osso cortical",
+      "B) Reduzir atrito e distribuir cargas compressivas entre superfícies articulares",
+      "C) Impedir qualquer movimento para proteger o menisco",
+      "D) Lubrificar e nutrir a cartilagem articular"
+    ],
+    "explicacao_geral": "Sinovite altera volume e composição — ponte com artrites e derrame articular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: circulação óssea é independente.",
+      "B": "Incorreta: anquilose é patológica, não função do fluido.",
+      "C": "Incorreta: movimento é esperado em sinovial saudável.",
+      "D": "Correta: texto do bloco sobre líquido sinovial."
+    },
+    "explicacao": "Conceito-chave: Fluido saudável ≠ articulação ‘seca’.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 462,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A cartilagem madura é predominantemente avascular e aneural. Qual consequência fisiológica a conteúdo destaca como central para nutrição e limite de espessura?",
+    "opcoes": [
+      "A) Troca de metabolitos predominantemente por difusão através da matriz",
+      "B) Perfusão arterial direta em toda espessura da cartilagem hialina",
+      "C) Absorção exclusiva por linfáticos intra-cartilaginosos densos",
+      "D) A nutrição depende de gradientes de concentração e de ciclos de compressão-descompressão da matriz"
+    ],
+    "explicacao_geral": "Difusão explica por que cartilagem espessa central sofre mais com metabolismo limitado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinha-se ao parágrafo inicial e aos pontos-chave.",
+      "B": "Incorreta: contraria a definição de avascularidade.",
+      "C": "Incorreta: não é o mecanismo principal descrito.",
+      "D": "Incorreta: aneural exclui inervação lacunar típica."
+    },
+    "explicacao": "Conceito-chave: Sem vaso, biologia da cartilagem é ‘difusão ou nada’.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 463,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Na cartilagem hialina adulta, qual colágeno predomina na matriz, conforme o texto?",
+    "opcoes": [
+      "A) Tipo I como na derme reticular",
+      "B) Tipo II (com isoformas IX e XI no contexto da rede, na visão da conteúdo",
+      "C) Tipo III exclusivamente reticular",
+      "D) Tipo IV de membrana basal universal"
+    ],
+    "explicacao_geral": "Colágeno II define identidade da hialina — contraste com fibrocartilagem rica em tipo I.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tipo I marca fibrocartilagem e conjuntivo denso.",
+      "B": "Correta: reproduz o quadro de matriz e células.",
+      "C": "Incorreta: reticulina não é o marcador principal da hialina articular.",
+      "D": "Incorreta: colágeno IV é basal epitelial."
+    },
+    "explicacao": "Conceito-chave: Trocar II por I é erro clássico de prova.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 464,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A cartilagem elástica distingue-se pela presença de fibras elásticas entre o colágeno. Onde o material a localiza com frequência?",
+    "opcoes": [
+      "A) Superfícies articulares do joelho exclusivamente",
+      "B) Menisco medial sem fibras elásticas",
+      "C) Orelha externa, epiglote e tubas auditivas",
+      "D) Placa epifisária após fusão completa"
+    ],
+    "explicacao_geral": "Elástica ≠ hialina: flexibilidade resiliente em vias aéreas superiores e orelha.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: superfície articular sinovial é hialina.",
+      "B": "Incorreta: menisco é fibrocartilagem.",
+      "C": "Correta: exemplos explícitos na classificação dos três tipos.",
+      "D": "Incorreta: placa epifisária é cenário de hialina/crescimento, não elástica típica."
+    },
+    "explicacao": "Conceito-chave: Três tipos — não misturar localização.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 465,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A fibrocartilagem combina colágeno tipo I abundante com matriz cartilaginosa e resiste a cisalhamento. Qual conjunto exemplifica o texto?",
+    "opcoes": [
+      "A) Traqueia e brônquios terminais apenas",
+      "B) Superfície articular do úmero",
+      "C) Epiglote isoladamente",
+      "D) Meniscos, anel fibroso do disco intervertebral, sínfises e zona de inserção tendínea"
+    ],
+    "explicacao_geral": "Fibrocartilagem ancora e distribui carga — base para hérnia de disco e lesão meniscal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: traqueia na classificação é hialina.",
+      "B": "Incorreta: superfície articular é hialina.",
+      "C": "Incorreta: epiglote é elástica na classificação.",
+      "D": "Correta: lista canônica ."
+    },
+    "explicacao": "Conceito-chave: Função mecânica diferente da hialina de atrito.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 466,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual distinção corresponde ao par condroblasto versus condrócito no material?",
+    "opcoes": [
+      "A) Condrócito é exclusivamente mitótico superficial; condroblasto é célula morta",
+      "B) Condroblasto é célula sintética ativa; condrócito é célula madura na lacuna",
+      "C) Ambos são osteoclastos multinucleados",
+      "D) Condroblasto predomina na periferia condrogênica; condrócito mantém a matriz já estabelecida na lacuna"
+    ],
+    "explicacao_geral": "Lacuna + matriz madura define condrócito; condroblasto deposita matriz nova.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte papéis e sentidos.",
+      "B": "Correta: classificação revisão final e texto de células.",
+      "C": "Incorreta: osteoclasto é linhagem óssea distinta.",
+      "D": "Incorreta: confunde com pulmão e reabsorção óssea."
+    },
+    "explicacao": "Conceito-chave: Analogia osteoblasto/osteócito ajuda a memorizar.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 467,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No crescimento intersticial, condrócitos dentro da matriz proliferam e depositam matriz — mecanismo central na epífise antes da ossificação endocondral. Esse modo contrasta com o crescimento aposicional porque:",
+    "opcoes": [
+      "A) Aposicional ocorre apenas após fusão epifisária completa",
+      "B) Intersticial acrescenta camadas apenas pelo pericôndrio superficial",
+      "C) Intersticial elimina totalmente o pericôndrio na cartilagem hialina",
+      "D) Aposicional adiciona na superfície a partir do pericôndrio; intersticial expande de dentro para fora na matriz existente"
+    ],
+    "explicacao_geral": "Diferenciar superfície (pericôndrio) versus expansão interna cai em embriologia e ortopedia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: aposicional é ativo no pericôndrio durante crescimento.",
+      "B": "Incorreta: descreve aposicional, não intersticial.",
+      "C": "Incorreta: pericôndrio permanece relevante no modelo geral.",
+      "D": "Correta: ecoa a classificação revisão final e o texto de crescimento."
+    },
+    "explicacao": "Conceito-chave: Intersticial explica ‘crescer por dentro’ na placa.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 468,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Sobre o pericôndrio fibroso, qual afirmação está correta segundo a conteúdo?",
+    "opcoes": [
+      "A) Envolve a cartilagem exceto na superfície articular, lubrificada pelo líquido sinovial",
+      "B) Reveste integralmente inclusive a cartilagem hialina articular exposta na cavidade",
+      "C) Está ausente em qualquer cartilagem costal",
+      "D) Possui camada fibrosa externa e camada condrogênica interna, diferindo funcionalmente do periósteo"
+    ],
+    "explicacao_geral": "Superfície articular sem pericôndrio é detalhe de prova e de reparo limitado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: texto do bloco sobre pericôndrio e transição.",
+      "B": "Incorreta: superfície articular não é coberta por pericôndrio.",
+      "C": "Incorreta: generalização falsa.",
+      "D": "Incorreta: a conteúdo destaca camada condrogênica no pericôndrio."
+    },
+    "explicacao": "Conceito-chave: ‘Exceto superfície articular’ explica nutrição por sinóvia.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 469,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Na osteoartrite, a ‘dica de prova’ do material sugere que alterações iniciais da matriz costumam incluir, antes do estreitamento radiológico evidente:",
+    "opcoes": [
+      "A) Aumento brusco de espessura cortical diafisária como primeiro evento",
+      "B) Perda de proteoglicanos e alteração da água da matriz",
+      "C) Ossificação endocondral acelerada da placa epifisária no adulto",
+      "D) Metaplasia completa para osso compacto sem fibrose"
+    ],
+    "explicacao_geral": "Mecanismo antes da imagem tardia — pensa degeneração bioquímica da matriz.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não resume a primeira alteração matricial descrita.",
+      "B": "Correta: citação direta da dica de prova.",
+      "C": "Incorreta: placa epifisária fundida não reaparece assim na OA típica.",
+      "D": "Incorreta: remodelação óssea subcondral vem depois; metaplasia total não é o núcleo."
+    },
+    "explicacao": "Conceito-chave: OA é doença da matriz e do osso subcondral ao longo do tempo.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 470,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Após lesão osteocondral profunda, por que a cartilagem hialina madura raramente se regenera de modo completo, segundo o texto?",
+    "opcoes": [
+      "A) Porque o condrócito volta a dividir ilimitadamente como epitélio escamoso",
+      "B) Porque a matriz vascular irriga plenamente o defeito em dias",
+      "C) O defeito tende a preencher com tecido fibroso ou fibrocartilagem funcionalmente inferior",
+      "D) A baixa capacidade proliferativa dos condrócitos e a avascularidade limitam a reposição de cartilagem hialina"
+    ],
+    "explicacao_geral": "Expectativa de reparo realista guia conduta ortopédica e reabilitação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não há regeneração epitelial ilimitada na cartilagem.",
+      "B": "Incorreta: irrigação direta não ocorre na cartilagem.",
+      "C": "Correta: frase central do bloco degeneração/reparo.",
+      "D": "Incorreta: sinóvia pode persistir; o problema é biologia do defeito."
+    },
+    "explicacao": "Conceito-chave: Fibrocartilagem de reparo ≠ hialina primária.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 471,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A ponte clínica menciona meniscectomia extensa. Qual efeito conceitual a conteúdo associa a esse cenário?",
+    "opcoes": [
+      "A) Eliminação total do risco de gonartrose por reduzir líquido sinovial",
+      "B) Aumento exclusivo da vascularização da cartilagem hialina central",
+      "C) Estabilização articular absoluta sem redistribuição de carga",
+      "D) Pode redistribuir carga e acelerar degeneração compartimental"
+    ],
+    "explicacao_geral": "Menisco é amortecedor fibrocartilaginoso — retirada altera biomecânica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não elimina risco; pode piorar mecânica.",
+      "B": "Incorreta: cartilagem não se vasculariza assim.",
+      "C": "Incorreta: a lógica é sobrecarga compensatória, não estabilização perfeita.",
+      "D": "Correta: texto explícito na ponte com a clínica."
+    },
+    "explicacao": "Conceito-chave: Cirurgia salva sintomas, mas mecânica do compartimento muda.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 472,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Na coluna, entre os arcos vertebrais, as articulações interfacetárias (zigapofisárias) diferenciam-se do disco intervertebral. Qual descrição está correta?",
+    "opcoes": [
+      "A) Zigapofisárias são sinoviais entre arcos; o disco é complexo fibrocartilaginoso entre corpos",
+      "B) Ambos são sinoviais com líquido abundante entre corpos",
+      "C) O disco é articulação sinovial pura sem núcleo pulposo",
+      "D) Zigapofisárias são suturas fibrosas imóveis como o crânio"
+    ],
+    "explicacao_geral": "Confundir disco com facetas é erro clássico em radiologia e semiologia.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reproduz a classificação revisão final .",
+      "B": "Incorreta: disco não é sinovial típico.",
+      "C": "Incorreta: núcleo e anel definem o disco.",
+      "D": "Incorreta: facetas são sinoviais e móveis em grau variável."
+    },
+    "explicacao": "Conceito-chave: Nomear a estrutura prevê o tipo de lesão (hérnia vs facetopatia).\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 473,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "O disco intervertebral funciona como amortecedor entre corpos vertebrais. Qual composição corresponde ao texto?",
+    "opcoes": [
+      "A) Apenas cartilagem hialina sem núcleo",
+      "B) Núcleo pulposo central e anel fibroso periférico",
+      "C) Núcleo pulposo periférico envolto por anel fibroso central",
+      "D) Articulações zigapofisárias torácicas exclusivamente"
+    ],
+    "explicacao_geral": "Anel fibroso + núcleo explicam hérnia de disco e mecânica de cisalhamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: estrutura é fibrocartilaginosa complexa.",
+      "B": "Correta: descrição explícita no primeiro bloco da coluna.",
+      "C": "Incorreta: estruturas do ombro.",
+      "D": "Incorreta: meniscos são joelho."
+    },
+    "explicacao": "Conceito-chave: Base para entender protrusão versus extrusão em imagem.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 474,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Na região lombar, níveis como L4–L5 e L5–S1 concentram carga e incidência de hérnia discal. Isso ocorre porque:",
+    "opcoes": [
+      "A) São os únicos níveis com articulação zigapofisária",
+      "B) A caixa torácica limita exclusivamente esses níveis",
+      "C) Há maior demanda biomecânica nessa transição lombossacra",
+      "D) A medula termina sempre exatamente em L5"
+    ],
+    "explicacao_geral": "Epidemiologia de hérnia segue curvas de carga — correlato clínico diário.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: facetas existem em todos os níveis típicos.",
+      "B": "Incorreta: tórax limita mais os níveis torácicos.",
+      "C": "Correta: síntese do texto sobre lombar e hérnia.",
+      "D": "Incorreta: nível de conus varia; não é o argumento ."
+    },
+    "explicacao": "Conceito-chave: ‘Onde carrega mais’ tende a lesionar mais.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 475,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Na junção occipito-atlo-axial, qual distinção de movimento predomina, segundo o material?",
+    "opcoes": [
+      "A) Rotação pura em occipito-atlas e flexo-extensão apenas em C2–C3",
+      "B) Apenas inclinação lateral em todo o bloqueo occipito-cervical",
+      "C) Flexão e extensão exclusivamente abaixo de C3",
+      "D) Occipito-atlas predomina flexão/extensão da cabeça; C1–C2 destaca-se por rotação (dens"
+    ],
+    "explicacao_geral": "Diferenciar O-C1 de C1–C2 evita erro em trauma cervical.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte papéis descritos.",
+      "B": "Incorreta: generalização falsa.",
+      "C": "Incorreta: ignora occipito-atlas.",
+      "D": "Correta: texto do parágrafo sobre occipito-atlo-axial."
+    },
+    "explicacao": "Conceito-chave: Atlas vira a cabeça ‘sim/não’; axis gira o ‘não’.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 476,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na articulação glenoumeral, o padrão clássico de luxação descrito na conteúdo ocorre em qual contexto mecânico?",
+    "opcoes": [
+      "A) Adução forçada com cotovelo em extensão máxima exclusivamente",
+      "B) Abdução e rotação externa (luxação anterior frequente",
+      "C) Adução forçada com rotação externa em baixa energia",
+      "D) Flexão anterior isolada sem componente rotacional"
+    ],
+    "explicacao_geral": "Mecanismo explica lesão labral tipo Bankart e abordagem de redução.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não descreve o padrão clássico citado.",
+      "B": "Correta: correlato do bloco do membro superior.",
+      "C": "Incorreta: mistura punho sem o eixo glenoumeral.",
+      "D": "Incorreta: mecanismo de tornozelo."
+    },
+    "explicacao": "Conceito-chave: Ombro mobiliza muito — rompe estabilizadores em vetores típicos.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 477,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No joelho, qual é a função biomecânica básica atribuída ao LCA no texto?",
+    "opcoes": [
+      "A) Limitar valgo isoladamente sem relação com rotação",
+      "B) Substituir totalmente o papel dos meniscos",
+      "C) Limitar translação anterior da tíbia em relação ao fêmur (mecânica de pivot",
+      "D) Impedir extensão completa do joelho em qualquer indivíduo"
+    ],
+    "explicacao_geral": "LCA rompido altera cinemática — predispõe lesão meniscal secundária.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: simplifica demais o controle rotacional.",
+      "B": "Incorreta: menisco e ligamento têm papéis complementares.",
+      "C": "Correta: frase da seção do membro inferior.",
+      "D": "Incorreta: extensão não é bloqueio fisiológico do LCA."
+    },
+    "explicacao": "Conceito-chave: Testes como Lachman pressupõem essa anatomia.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 478,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No tornozelo, a mortaise medial (maléolo tibial) e lateral (fibular) com o talus associa-se a qual vulnerabilidade descrita na conteúdo?",
+    "opcoes": [
+      "A) Ligamentos mediais são os mais lesionados na eversão forçada",
+      "B) O talus está ausente da mortaise em ortostatismo",
+      "C) Inversão do pé protege integralmente os ligamentos laterais",
+      "D) Ligamentos laterais são mais vulneráveis à entorse por inversão"
+    ],
+    "explicacao_geral": "Mecanismo típico de entorse — talofibular anterior é clássico na prática.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: eversão estressa mais o complexo medial.",
+      "B": "Incorreta: talus compõe a mortaise.",
+      "C": "Incorreta: inversão é justamente o mecanismo de tensão lateral.",
+      "D": "Correta: texto explícito sobre inversão e ligamentos laterais."
+    },
+    "explicacao": "Conceito-chave: Anatomia prevê qual estrutura ‘cai primeiro’ no trauma.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 479,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual distinção corresponde ao par articulação radiocarpica versus mediocarpica na classificação ?",
+    "opcoes": [
+      "A) Rádio com a primeira fileira carpal versus articulações entre fileiras carpais",
+      "B) Úmero com rádio versus rádio com ulna",
+      "C) Punho com metacarpiano exclusivamente",
+      "D) Radiocárpica entre rádio e fileira proximal; mediocárpica entre fileiras proximal e distal do carpo"
+    ],
+    "explicacao_geral": "Separa níveis de lesão e abordagem cirúrgica no punho.",
+    "explicacoes_opcoes": {
+      "A": "Correta: diferenciação explícita na revisão final.",
+      "B": "Incorreta: nível anatômico errado.",
+      "C": "Incorreta: metacarpiano é distal ao carpo.",
+      "D": "Incorreta: cotovelo não é punho."
+    },
+    "explicacao": "Conceito-chave: Primeira fileira versus entre fileiras — mapa do carpo.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 480,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Desnível de joelhos em lactente levanta hipótese de displasia de quadril no contexto da ponte clínica. Anatomicamente, isso dialoga com:",
+    "opcoes": [
+      "A) Glenóide profunda e acetábulo raso universal",
+      "B) Relação cabeça femoral e acetábulo na articulação do quadril",
+      "C) Luxação patelar exclusivamente por impacto repetitivo",
+      "D) Articulação tibiofibular proximal isolada"
+    ],
+    "explicacao_geral": "Triagem de quadril busca congruência cabeça–acetábulo — outra esferóide ‘profunda’.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte estabilidade típica quadril versus ombro.",
+      "B": "Correta: desnível sugere assimetria do desenvolvimento coxofemoral.",
+      "C": "Incorreta: foco não é patelofemoral isolado.",
+      "D": "Incorreta: nível anatômico incorreto para displasia de quadril."
+    },
+    "explicacao": "Conceito-chave: ‘Desnível’ é sinal de triagem, não diagnóstico por imagem sozinho.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 481,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A classificação revisão final contrasta menisco medial e lateral. Qual diferença conceitual a conteúdo enfatiza?",
+    "opcoes": [
+      "A) O lateral é sempre mais fixo perifericamente que o medial",
+      "B) Ambos têm mobilidade idêntica e irrigação idêntica em todos os adultos",
+      "C) O medial é estritamente intra-articular sem ancoragem óssea",
+      "D) Há diferença de padrão de fixação periférica e implicação em lesão típica em mecanismo valgo/rotacional"
+    ],
+    "explicacao_geral": "Menisco não é ‘dois discos iguais’ — cinemática e lesões diferem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: classicamente o medial é descrito como mais fixo (dependendo da fonte), não o lateral ‘sempre mais fixo’.",
+      "B": "Incorreta: mobilidade e vascularização têm gradiente.",
+      "C": "Incorreta: meniscos ancoram na periferia.",
+      "D": "Correta: reproduz a linha da classificação de diferenciação."
+    },
+    "explicacao": "Conceito-chave: McMurray e pivot shift pressupõem essa anatomia funcional.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 482,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Catabolismo” está correta?",
+    "opcoes": [
+      "A) (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "C) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "D) Espontaneidade: metabólica: ΔG (energia livre), não só calor."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Catabolismo”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "C": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "D": "Incorreta: Espontaneidade: metabólica: ΔG (energia livre), não só calor."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Catabolismo”.\nA) CORRETA. Correta: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nB) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nC) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nD) INCORRETA. Incorreta: Espontaneidade: metabólica: ΔG (energia livre), não só calor.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 483,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “Tipo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "B) Tipo — ΔG (visão geral) — Exemplo de papel",
+      "C) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "D) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Tipo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "B": "Correta: Tipo — ΔG (visão geral) — Exemplo de papel",
+      "C": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "D": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tipo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nB) CORRETA. Correta: Tipo — ΔG (visão geral) — Exemplo de papel\nC) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nD) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 484,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Anabolismo” está correta?",
+    "opcoes": [
+      "A) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "C) (sintetizar macromoléculas): trechos endergônicos, pagos com ATP/GTP e poder redutor (NADPH em várias vias).",
+      "D) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anabolismo”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "C": "Correta: (sintetizar macromoléculas): trechos endergônicos, pagos com ATP/GTP e poder redutor (NADPH em várias vias).",
+      "D": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anabolismo”.\nA) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nB) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nC) CORRETA. Correta: (sintetizar macromoléculas): trechos endergônicos, pagos com ATP/GTP e poder redutor (NADPH em várias vias).\nD) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 485,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “Exergônica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "B) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "C) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "D) Exergônica — negativo — oxidação de substrato, hidrólise de ATP quando “quebrado” para pagar outra reação"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Exergônica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "B": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "C": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "D": "Correta: Exergônica — negativo — oxidação de substrato, hidrólise de ATP quando “quebrado” para pagar outra reação"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Exergônica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nB) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nC) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nD) CORRETA. Correta: Exergônica — negativo — oxidação de substrato, hidrólise de ATP quando “quebrado” para pagar outra reação",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 486,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual afirmação sobre “1ª lei:” está correta?",
+    "opcoes": [
+      "A) conservação; 2ª lei: entropia e irreversibilidade global.",
+      "B) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "C) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "D) NADH/FADH₂: carregam redução para a cadeia respiratória."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “1ª lei:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: conservação; 2ª lei: entropia e irreversibilidade global.",
+      "B": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "C": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "D": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “1ª lei:”.\nA) CORRETA. Correta: conservação; 2ª lei: entropia e irreversibilidade global.\nB) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nC) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nD) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 487,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “Endergônica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "B) Endergônica — positivo sozinha — síntese de éster, transporte ativo — precisa acoplamento",
+      "C) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "D) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Endergônica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "B": "Correta: Endergônica — positivo sozinha — síntese de éster, transporte ativo — precisa acoplamento",
+      "C": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "D": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Endergônica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nB) CORRETA. Correta: Endergônica — positivo sozinha — síntese de éster, transporte ativo — precisa acoplamento\nC) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nD) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 488,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual afirmação sobre “ΔG < 0:” está correta?",
+    "opcoes": [
+      "A) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "C) espontâneo (na condição dada); velocidade é enzima.",
+      "D) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ΔG < 0:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "C": "Correta: espontâneo (na condição dada); velocidade é enzima.",
+      "D": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ΔG < 0:”.\nA) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nB) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nC) CORRETA. Correta: espontâneo (na condição dada); velocidade é enzima.\nD) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 489,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “ΔG” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "B) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "C) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "D) ΔG — Velocidade (Vmax) — ΔG = direção termodinâmica; enzima = velocidade."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “ΔG” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "B": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "C": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "D": "Correta: ΔG — Velocidade (Vmax) — ΔG = direção termodinâmica; enzima = velocidade."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “ΔG” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nB) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nC) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nD) CORRETA. Correta: ΔG — Velocidade (Vmax) — ΔG = direção termodinâmica; enzima = velocidade.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 490,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “ATP” está correta?",
+    "opcoes": [
+      "A) acopla catabolismo a trabalho celular endergônico.",
+      "B) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "C) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "D) NADH/FADH₂: carregam redução para a cadeia respiratória."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ATP”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: acopla catabolismo a trabalho celular endergônico.",
+      "B": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+      "C": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "D": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ATP”.\nA) CORRETA. Correta: acopla catabolismo a trabalho celular endergônico.\nB) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.\nC) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nD) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 491,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “Exergônica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B) NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "C) Exergônica — Espontânea em laboratório sem enzima — Na célula, enzima canaliza fluxo; espontâneo ≠ imediato.",
+      "D) Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Exergônica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.",
+      "B": "Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.",
+      "C": "Correta: Exergônica — Espontânea em laboratório sem enzima — Na célula, enzima canaliza fluxo; espontâneo ≠ imediato.",
+      "D": "Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Exergônica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Catabolismo: (oxidar glicose, ácidos graxos): trechos exergônicos que alimentam síntese de ATP ou equivalentes.\nB) INCORRETA. Incorreta: NADH/FADH₂: carregam redução para a cadeia respiratória.\nC) CORRETA. Correta: Exergônica — Espontânea em laboratório sem enzima — Na célula, enzima canaliza fluxo; espontâneo ≠ imediato.\nD) INCORRETA. Incorreta: Oxidação: libera elétrons; cadeia respiratória recicla aceptores com O₂ final.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 492,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “ALT (TGP):” está correta?",
+    "opcoes": [
+      "A) mais específica do fígado.",
+      "B) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "C) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ALT (TGP):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mais específica do fígado.",
+      "B": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "C": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ALT (TGP):”.\nA) CORRETA. Correta: mais específica do fígado.\nB) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nC) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).\nD) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 493,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “Enzima” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B) Enzima — Tissue predominante — Uso clínico",
+      "C) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "D) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Enzima” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B": "Correta: Enzima — Tissue predominante — Uso clínico",
+      "C": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "D": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Enzima” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nB) CORRETA. Correta: Enzima — Tissue predominante — Uso clínico\nC) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nD) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 494,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “AST (TGO):” está correta?",
+    "opcoes": [
+      "A) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B) Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.",
+      "C) também músculo, miocárdio, outros tecidos.",
+      "D) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal)."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “AST (TGO):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B": "Incorreta: Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.",
+      "C": "Correta: também músculo, miocárdio, outros tecidos.",
+      "D": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “AST (TGO):”.\nA) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nB) INCORRETA. Incorreta: Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.\nC) CORRETA. Correta: também músculo, miocárdio, outros tecidos.\nD) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 495,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “ALT” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "B) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "C) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "D) ALT — hepatócito — hepatite, esteatose"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “ALT” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "B": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "C": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "D": "Correta: ALT — hepatócito — hepatite, esteatose"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “ALT” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nB) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).\nC) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nD) CORRETA. Correta: ALT — hepatócito — hepatite, esteatose",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 496,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual afirmação sobre “ALT/AST” está correta?",
+    "opcoes": [
+      "A) = injúria hepatocelular (contexto!).",
+      "B) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "C) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ALT/AST”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = injúria hepatocelular (contexto!).",
+      "B": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "C": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ALT/AST”.\nA) CORRETA. Correta: = injúria hepatocelular (contexto!).\nB) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nC) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).\nD) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 497,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “AST” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B) AST — fígado + outros — menos específica",
+      "C) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "D) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal)."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “AST” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B": "Correta: AST — fígado + outros — menos específica",
+      "C": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "D": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “AST” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nB) CORRETA. Correta: AST — fígado + outros — menos específica\nC) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nD) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 498,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual afirmação sobre “Ciclo da ureia” está correta?",
+    "opcoes": [
+      "A) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B) Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.",
+      "C) detoxifica NH₃ → ureia (solúvel, renal).",
+      "D) AST (TGO):: também músculo, miocárdio, outros tecidos."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ciclo da ureia”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "B": "Incorreta: Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.",
+      "C": "Correta: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ciclo da ureia”.\nA) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nB) INCORRETA. Incorreta: Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.\nC) CORRETA. Correta: detoxifica NH₃ → ureia (solúvel, renal).\nD) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 499,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual alternativa associa corretamente “CK” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "B) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "C) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "D) CK — músculo — rabdomiólise"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “CK” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "B": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "C": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "D": "Correta: CK — músculo — rabdomiólise"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “CK” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nB) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).\nC) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nD) CORRETA. Correta: CK — músculo — rabdomiólise",
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 500,
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "enunciado": "Qual afirmação sobre “Defeitos” está correta?",
+    "opcoes": [
+      "A) do ciclo → hiperamonemia neonatal/infantil.",
+      "B) AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "C) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Defeitos”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: do ciclo → hiperamonemia neonatal/infantil.",
+      "B": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+      "C": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "D": "Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Defeitos”.\nA) CORRETA. Correta: do ciclo → hiperamonemia neonatal/infantil.\nB) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.\nC) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).\nD) INCORRETA. Incorreta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+    "aula_id": "pmh_a10"
+  }
+]

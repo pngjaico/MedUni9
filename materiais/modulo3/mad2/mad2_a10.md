@@ -1,8 +1,8 @@
 # MAD2 — Aula 10: Infecções por Herpesvírus na Prática Clínica
 
-Os Herpesvírus são os mestres do "esconde-esconde" biológico. Na prova, os temas centrais são a capacidade de **Latência** (o vírus fica dormindo no nervo), os diferentes tipos de vírus (HSV, VZV, EBV, CMV) e como a imunidade do paciente define se a doença será uma simples ferida ou uma ameaça à vida.
+Os Herpesvírus são os mestres do "esconde-esconde" biológico. Na prova, os temas centrais são a capacidade de **Latência** (o vírus fica dormindo no nervo), os diferentes tipos de vírus (**HSV, VZV, EBV, CMV**) e como a imunidade do paciente define se a doença será uma simples ferida ou uma ameaça à vida.
 
-Na prática, o médico deve saber que o herpes não tem cura, mas tem controle, e que o surgimento de lesões em dermátomo ou infecções sistêmicas arrastadas exige olhar para a imunidade de base do paciente.
+Na prática, o médico deve saber que o **herpes não tem cura**, mas tem controle, e que o surgimento de lesões em **dermátomo** ou infecções sistêmicas arrastadas exige olhar para a imunidade de base do paciente.
 
 ---
 
@@ -19,16 +19,16 @@ Na prática, o médico deve saber que o herpes não tem cura, mas tem controle, 
 
 A característica principal da família Herpesviridae é que eles **NUNCA abandonam o corpo**.
 - **Primeira Infecção:** Geralmente é a mais forte e espalhada.
-- **Latência:** O vírus viaja pelos nervos e fica "dormindo" nos gânglios sensitivos.
-- **Reativação:** Quando a imunidade cai (por estresse, sol, febre ou doenças), o vírus acorda e causa lesões no mesmo local de antes.
+- **Latência:** O vírus viaja pelos nervos e fica "**dormindo**" nos **gânglios sensitivos**.
+- **Reativação:** Quando a **imunidade cai** (por estresse, sol, febre ou doenças), o vírus acorda e causa lesões no mesmo local de antes.
 
 ---
 
 ## 2. HSV-1 e HSV-2: O Herpes Simples
 
-- **HSV-1 (Herpes Labial):** Mais comum na boca. Causa vesículas que ardem e viram crostas.
-- **HSV-2 (Herpes Genital):** Mais comum na região genital. É uma IST.
-- **Importante:** Ambos podem causar lesões em qualquer lugar se houver contato. A marca registrada é a **Vesícula Agrupada** (parece um cacho de uvas pequeno) sobre uma base vermelha e muito dolorosa.
+- **HSV-1 (Herpes Labial):** Mais comum na **boca**. Causa vesículas que ardem e viram crostas.
+- **HSV-2 (Herpes Genital):** Mais comum na região genital. É uma **IST**.
+- **Importante:** Ambos podem causar lesões em qualquer lugar se houver contato. A marca registrada é a **Vesícula Agrupada** (parece um "**cacho de uvas**" pequeno) sobre uma base vermelha e muito dolorosa.
 
 ---
 
@@ -42,8 +42,8 @@ O vírus da Varicela-Zóster causa duas doenças diferentes no mesmo paciente:
 
 ## 4. EBV e CMV: Os Vírus Sistêmicos
 
-- **EBV (Epstein-Barr):** Causa a **Mononucleose** ("Doença do Beijo"). O paciente tem febre, dor de garganta com placas brancas e muitas ínguas (linfonodos) no pescoço. Causa um cansaço extremo que dura semanas.
-- **CMV (Citomegalovírus):** Para pessoas saudáveis acompanhadas, parece uma gripe. Mas em **Imunossuprimidos** (HIV ou transplantados), ele ataca a retina (cegueira), o esôfago e os pulmões.
+- **EBV (Epstein-Barr):** Causa a **Mononucleose** ("Doença do Beijo"). O paciente tem febre, dor de garganta com placas brancas e muitas ínguas (**linfonodos**) no pescoço. Causa um cansaço extremo que dura semanas.
+- **CMV (Citomegalovírus):** Para pessoas saudáveis acompanhadas, parece uma gripe. Mas em **Imunossuprimidos** (HIV ou transplantados), ele ataca a **retina** (cegueira), o **esôfago** e os **pulmões**.
 
 ---
 

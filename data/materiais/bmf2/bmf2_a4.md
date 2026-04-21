@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O ciclo cardíaco é a culminação da fisiologia cardiovascular: em frações de segundo, o coração alterna estados de pressão e volume para garantir o fluxo sanguíneo. Nesta aula, exploramos como a abertura e o fechamento sincronizado das valvas produz os sons que ouvimos na ausculta (**B1 e B2**) e como a mecânica ventricular se traduz em parâmetros hemodinâmicos fundamentais.
+O ciclo cardíaco é a culminação da fisiologia cardiovascular: em frações de segundo, o coração alterna estados de pressão e volume para garantir o fluxo sanguíneo. Nesta aula, exploramos como a abertura e o fechamento sincronizado das valvas produzem os sons que ouvimos na ausculta (**B1 e B2**) e como a mecânica ventricular se traduz em parâmetros hemodinâmicos fundamentais.
 
 Na prática clínica, dominar o ciclo é a base para diagnosticar **sopros**, **insuficiências** e **estenoses**. Compreender a sequência entre a atividade elétrica (ECG) e o evento mecânico permite ao médico localizar precisamente onde o sistema está falhando, correlacionando achados de exame físico com a fisiopatologia do paciente.
 
@@ -17,7 +17,7 @@ Na prática clínica, dominar o ciclo é a base para diagnosticar **sopros**, **
 
 O coração opera como duas bombas em série. O lado direito é o responsável pelo circuito de baixa pressão (pulmonar), enquanto o esquerdo gera a força necessária para a circulação sistêmica. O sangue flui unidirecionalmente graças às **valvas**, estruturas puramente passivas que abrem e fecham baseadas apenas no **gradiente de pressão**.
 
-As **valvas atrioventriculares** (MITRAL e TRICÚSPIDE) separam os átrios dos ventrículos e são ancoradas por cordoalhas e músculos papilares para evitar o refluxo (prolapso) durante a sístole. Já as **valvas semilunares** (AÓRTICA e PULMONAR) guardam a saída dos ventrículos, abrindo-se apenas quando a pressão ventricular supera a pressão arterial diastólica nas grandes artérias.
+As **valvas atrioventriculares** (**MITRAL** e **TRICÚSPIDE**) separam os átrios dos ventrículos e são ancoradas por cordoalhas e músculos papilares para evitar o refluxo (prolapso) durante a sístole. Já as **valvas semilunares** (**AÓRTICA** e **PULMONAR**) guardam a saída dos ventrículos, abrindo-se apenas quando a pressão ventricular supera a pressão arterial diastólica nas grandes artérias.
 
 ---
 
@@ -25,16 +25,16 @@ As **valvas atrioventriculares** (MITRAL e TRICÚSPIDE) separam os átrios dos v
 
 O ciclo cardíaco divide-se em momentos precisos de sístole (contração) e diástole (relaxamento), cada um com características volumétricas e pressóricas distintas:
 
-### 1. Enchimento Ventricular (Diástole)
+### 1. **Enchimento Ventricular (Diástole)**
 O ciclo inicia-se com o enchimento, dividido em fases rápida, lenta (diástase) e a **sístole atrial**. Quando a pressão nos átrios supera a dos ventrículos, as valvas AV se abrem e o sangue flui passivamente. A contração atrial final contribui com cerca de 20% do volume diastólico final, sendo vital para o débito cardíaco em estados de esforço.
 
-### 2. Contração Isovolumétrica (Início da Sístole)
+### 2. **Contração Isovolumétrica** (Início da Sístole)
 Logo após o Complexo QRS, os ventrículos começam a contrair. A pressão interna sobe bruscamente e ultrapassa a pressão dos átrios, forçando o fechamento das valvas AV. Este fenômeno mecânico produz a **Primeira Bulha (B1)**. Durante esta fase, **todas as valvas estão fechadas**, o que significa que o volume não muda enquanto a pressão escala rapidamente.
 
-### 3. Ejeção Ventricular
-Quando a pressão intraventricular finalmente vence a resistência da Aorta ou do Tronco Pulmonar, as valvas semilunares abrem-se. O sangue é ejetado com força (ejeção rápida), seguido por uma fase de ejeção reduzida à medida que a força de contração diminui e a pressão ventricular começa a cair.
+### 3. **Ejeção Ventricular**
+Quando a pressão intraventricular finalmente vence a resistência da Aorta ou do Tronco Pulmonar, as **valvas semilunares abrem-se**. O sangue é ejetado com força (ejeção rápida), seguido por uma fase de ejeção reduzida à medida que a força de contração diminui e a pressão ventricular começa a cair.
 
-### 4. Relaxamento Isovolumétrico (Início da Diástole)
+### 4. **Relaxamento Isovolumétrico** (Início da Diástole)
 Com a repolarização (Onda T), o miocárdio relaxa. Quando a pressão ventricular cai abaixo da pressão arterial, o sangue tenta retroceder, forçando o fechamento das semilunares, o que gera a **Segunda Bulha (B2)**. Novamente, temos uma fase isovolumétrica onde o volume permanece fixo até que a pressão caia o suficiente para reabrir as valvas AV.
 
 ---
@@ -52,9 +52,9 @@ Com a repolarização (Onda T), o miocárdio relaxa. Quando a pressão ventricul
 
 ## Hemodinâmica e Interpretação Clínica
 
-A eficácia do coração é medida por volumes: o **Volume Diastólico Final (VDF)** reflete a pré-carga, enquanto o **Volume Sistólico Final (VSF)** é o que sobra após a ejeção. A diferença entre eles é o **Volume Sistólico (VS)**, o volume efetivamente ejetado em cada batida.
+A eficácia do coração é medida por volumes: o **Volume Diastólico Final (VDF)** reflete a **pré-carga**, enquanto o **Volume Sistólico Final (VSF)** é o que sobra após a ejeção. A diferença entre eles é o **Volume Sistólico (VS)**, o volume efetivamente ejetado em cada batida.
 
-Quando ouvimos um ruído extra, o **sopro**, ele indica fluxo turbulento por valvas que não abrem bem (**Estenose**) ou não fecham adequadamente (**Insuficiência**). O segredo para a prova é localizar o sopro no tempo: se ocorre entre B1 e B2, é um **sopro sistólico** (ex: Estenose Aórtica); se ocorre após B2, é um **sopro diastólico** (ex: Estenose Mitral).
+Quando ouvimos um ruído extra, o **sopro**, ele indica fluxo turbulento por valvas que não abrem bem (**Estenose**) ou não fecham adequadamente (**Insuficiência**). O segredo para a prova é localizar o sopro no tempo: se ocorre entre B1 e B2, é um **sopro sistólico** (ex: **Estenose Aórtica**); se ocorre após B2, é um **sopro diastólico** (ex: **Estenose Mitral**).
 
 ---
 
@@ -96,4 +96,10 @@ Sobre os sopros: estenose aórtica e insuficiência mitral são os grandes clás
 
 ### Frase-âncora para não esquecer
 
+> "No ciclo cardíaco, quem manda é o gradiente de pressão: ele fecha, abre, explica as bulhas e revela o sopro."
+ enchimento AV abertas |
+| **Estenose valvar** | **Insuficiência valvar** | Estenose dificulta fluxo anterógrado; insuficiência permite refluxo |
+| **Sobrecarga de pressão** | **Sobrecarga de volume** | Pressão: hipertrofia; volume: dilatação de câmara |
+
+### Frase-âncora para não esquecer
 > "No ciclo cardíaco, quem manda é o gradiente de pressão: ele fecha, abre, explica as bulhas e revela o sopro."

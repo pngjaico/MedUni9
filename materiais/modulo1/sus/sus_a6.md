@@ -111,7 +111,7 @@ Isso conecta eficiência financeira com qualidade de cuidado.
 
 ## Ponte com a Clínica
 
-Paciente que retorna do especialista sem resumo de conduta ilustra falha de contrarreferência.  
+Paciente que retorna do especialista sem resumo de conduta ilustra falha de **contrarreferência**.  
 Esse problema é clínico e também gerencial, pois impede seguimento qualificado.
 
 Paciente crônico com múltiplas internações evitáveis sugere falha de coordenação da APS e da linha de cuidado regional.  

@@ -34,7 +34,12 @@
       "Bash(sed -i 's/MedUni9 ·/MedGradPlus ·/g' .agents/dashboards/curadoria_meduni9.html)",
       "Bash(curl:*)",
       "Bash(rm:*)",
-      "Bash(\"C:\\\\Users\\\\Usuario-pc\\\\AppData\\\\Roaming\\\\npm\\\\claude.cmd\" --help)"
+      "Bash(\"C:\\\\Users\\\\Usuario-pc\\\\AppData\\\\Roaming\\\\npm\\\\claude.cmd\" --help)",
+      "Bash(pip install *)",
+      "Bash(\"C:/Users/Usuario-pc/AppData/Roaming/Python/Python313/Scripts/graphify.exe\" install *)",
+      "Bash(\"C:/Users/Usuario-pc/AppData/Roaming/Python/Python313/Scripts/graphify.exe\" .)",
+      "Bash(\"C:/Users/Usuario-pc/AppData/Roaming/Python/Python313/Scripts/graphify.exe\" --help)",
+      "Bash(\"C:/Users/Usuario-pc/AppData/Roaming/Python/Python313/Scripts/graphify.exe\" update *)"
     ]
   }
 }

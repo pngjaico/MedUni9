@@ -2,7 +2,7 @@
 
 A embriologia explica por que o sistema nervoso tem a forma que tem. Na prova, os temas centrais são o fechamento dos **Neuróporos** (e suas malformações), os derivados das **Cristas Neurais** e a diferenciação das **Vesículas Encefálicas**.
 
-Na prática, entender o desenvolvimento é entender a prevenção. O simples uso de **Ácido Fólico** antes da gestação pode evitar tragédias como a anencefalia. Além disso, saber que a mielinização é um processo contínuo explica por que um bebê tem reflexos que seriam patológicos em um adulto, como o sinal de **Babinski**.
+Na prática, entender o desenvolvimento é entender a prevenção. O simples uso de **Ácido Fólico** antes da gestação pode evitar tragédias como a **anencefalia**. Além disso, saber que a mielinização é um processo contínuo explica por que um bebê tem reflexos que seriam patológicos em um adulto, como o sinal de **Babinski**.
 
 ---
 
@@ -77,7 +77,7 @@ No seu exame físico pediátrico, você testará reflexos primitivos como o de *
 Para gabaritar Embriologia do SN, foque nos dias e derivados. 
 **Neuróporo Anterior** (Cima) = 25 dias. **Neuróporo Posterior** (Baixo) = 27 dias. Se o problema é no crânio, é anterior; se é nas costas, é posterior.
 
-A Uninove adora as **Cristas Neurais**. Lembre-se: Tudo o que estiver **Fora** do eixo central (nervos, gânglios, melanócitos) vem da crista. No eixo central (medula e encéfalo), vem do **Tubo**. Outro ponto forte: o **Diencéfalo** é a vesícula do Tálamo e Hipotálamo. Por fim, saiba que os **Oligodendrócitos** moram no "centro" (SNC) e as **Células de Schwann** moram no "periférico" (SNP).
+A Uninove adora as **Cristas Neurais**. Lembre-se: Tudo o que estiver **Fora** do eixo central (nervos, gânglios, melanócitos) vem da crista. No eixo central (medula e encéfalo), vem do **Tubo**. Outro ponto forte: o **Diencéfalo** é a vesícula do **Tálamo** e **Hipotálamo**. Por fim, saiba que os **Oligodendrócitos** moram no "centro" (**SNC**) e as **Células de Schwann** moram no "periférico" (**SNP**).
 
 ### Diferenciações que a Uninove adora cobrar
 

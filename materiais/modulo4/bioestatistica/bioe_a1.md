@@ -37,7 +37,7 @@ Nem todo dado é igual. Saber classificar a variável é o que define qual gráf
 ## 3. Escalas de Medida: O "Pulo do Gato" da Prova
 
 - **Intervalar:** Tem distância igual entre os pontos, mas o zero não significa ausência de nada. **Exemplo Clássico:** Temperatura em Celsius (0°C não é "sem temperatura", é apenas muito frio).
-- **Razão:** O zero é absoluto (zero significa nada). **Exemplo:** Peso, Altura, Salário. Se você pesa 0kg, você não tem massa.
+- **Razão:** O zero é absoluto (zero significa nada). **Exemplo Clássico:** **Peso, Altura, Salário**. Se você pesa 0kg, você não tem massa.
 
 ---
 
@@ -59,7 +59,7 @@ No consultório, quando um paciente lhe pergunta: "Doutor, qual a chance dessa c
 ## Pontos-Chave para Prova
 
 - **Estatística Descritiva**: Apenas resume os dados (Média, Mediana, Tabelas).
-- **Estatística Inferencial**: Tira conclusões e faz previsões (p-valor, Testes de hipóteses).
+- **Estatística Inferencial**: Tira conclusões e faz previsões (**p-valor**, Testes de hipóteses).
 - **Variáveis de Razão**: Peso, altura e pressão arterial. O zero é real.
 - **Variáveis Ordinais**: Estadiamento tumoral e dor (leve, moderada, grave).
 - **Sistemas de Informação**: O **SIM** trata de morte, o **SINASC** trata de vida e o **SINAN** trata de epidemias.
@@ -81,8 +81,8 @@ A Uninove adora **Sistemas de Informação**. Lembre-se: Viu morte/óbito? É o 
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **População** | **Amostra** | **Todos** de interesse vs **Alguns** estudados |
-| **Ordinal** | **Nominal**| Existe **Rank/Hierarquia** vs Apenas **Nomes** |
+| **População** | **Amostra** | **Todos de interesse** vs **Alguns estudados** |
+| **Ordinal** | **Nominal**| **Rank/Hierarquia** vs Apenas **Nomes** |
 | **SIM** | **SINAN** | Registro de **Óbito** vs Registro de **Epidemia** |
 | **Discreta** | **Contínua** | Números **Inteiros** vs Números com **Vírgula** |
 | **Estatística** | **Parâmetro** | Valor da **Amostra** vs Valor da **População** |

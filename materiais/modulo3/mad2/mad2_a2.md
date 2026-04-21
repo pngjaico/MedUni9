@@ -2,7 +2,7 @@
 
 A tolerância imunológica é o "freio de mão" que impede o corpo de se autodestruir. Na prova, os temas centrais são a diferença entre a tolerância **Central** (que ocorre no "treinamento") e a **Periférica** (que ocorre na "rua"), e como a falha nesses mecanismos leva às **Doenças Autoimunes**.
 
-Na prática, entender por que o sistema imune "esquece" que o pâncreas ou as articulações são amigos é o que permite tratar doenças como o Lúpus ou a Artrite Reumatoide com precisão.
+Na prática, entender por que o sistema imune "esquece" que o pâncreas ou as articulações são amigos é o que permite tratar doenças como o **Lúpus** ou a **Artrite Reumatoide** com precisão.
 
 ---
 
@@ -20,15 +20,15 @@ Na prática, entender por que o sistema imune "esquece" que o pâncreas ou as ar
 Ocorre enquanto as células de defesa ainda estão sendo "fabricadas".
 - **Linfócitos T (Timo):** Durante o treinamento, se o linfócito T reconhece uma proteína do próprio corpo com muita força, ele sofre **Apoptose** (suicídio celular).
 - **Linfócitos B (Medula):** Se um linfócito B nasce atacando o próprio corpo, ele pode ser **Editado** (mudar o receptor) ou eliminado.
-- **Falha:** Se esse filtro falha, clones perigosos caem no sangue ainda jovens, aumentando o risco de autoimunidade grave.
+- **Falha:** Se esse filtro falha, **clones perigosos** caem no sangue ainda jovens, aumentando o risco de autoimunidade grave.
 
 ---
 
 ## 2. Tolerância Periférica: Os Freios de Emergência
 
 Como o filtro central não é 100% perfeito, o corpo precisa de guardas nos tecidos.
-- **Anergia:** Se uma célula de defesa vê uma proteína do corpo mas não há sinal de "inflamação" por perto, ela fica **Aneurogica** (desligada/anêmica funcionalmente).
-- **Células T Reguladoras (Tregs):** São as "pacificadoras". Elas produzem substâncias que acalmam as outras células de defesa e impedem que elas ataquem órgãos saudáveis.
+- **Anergia:** Se uma célula de defesa vê uma proteína do corpo mas não há sinal de "**inflamação**" por perto, ela fica **Aneurogica** (desligada/anêmica funcionalmente).
+- **Células T Reguladoras (Tregs):** São as "**pacificadoras**". Elas produzem substâncias que acalmam as outras células de defesa e impedem que elas ataquem órgãos saudáveis.
 - **Morte Celular:** Se uma célula insiste em atacar o próprio corpo muitas vezes, ela acaba sendo forçada a morrer.
 
 ---
@@ -37,7 +37,7 @@ Como o filtro central não é 100% perfeito, o corpo precisa de guardas nos teci
 
 A autoimunidade acontece por uma mistura de genética e gatilhos:
 - **Mimetismo Molecular:** Algumas bactérias e vírus têm proteínas parecidas com as nossas. O sistema imune ataca o vírus, se confunde, e começa a atacar o corpo (**Reação Cruzada**).
-- **Exposição de Antígenos Escondidos:** Alguns órgãos (como os olhos ou testículos) ficam "escondidos" do sistema imune. Se um trauma expõe esses órgãos ao sangue, o corpo pode atacá-los por não reconhecê-los como "próprios".
+- **Exposição de Antígenos Escondidos:** Alguns órgãos (como os **olhos** ou **testículos**) ficam "escondidos" do sistema imune. Se um trauma expõe esses órgãos ao sangue, o corpo pode atacá-los por não reconhecê-los como "próprios".
 
 ---
 
@@ -84,7 +84,7 @@ A Uninove ama as **Células T-Reg**. Elas são as únicas que ativamente "acalam
 | **Tolerância Central** | **Tolerância Periférica** | Ocorre na **Formação** vs Ocorre na **Circulação** |
 | **Anergia** | **Apoptose** | A célula **Dorme** vs A célula **Morre** |
 | **Linfócito B** | **Linfócito T** | Pode fazer **Edição de Receptor** vs Só pode morrer |
-| **Seleção Positiva** | **Seleção Negativa** | Garante que a célula **Funciona** vs Garante que a célula **Não ataca o corpo** |
+| **Seleção Positiva** | **Seleção Negativa** | Garante que a célula Funciona vs Garante que a célula **Não ataca o corpo** |
 | **Mimetismo Molecular**| **Autoantígeno** | Causa **Externa** (vírus/bactéria) vs Causa **Interna** (próprio corpo) |
 
 ### Frase-âncora para não esquecer

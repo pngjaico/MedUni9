@@ -2,7 +2,7 @@
 
 A genética médica estuda como as doenças passam de pais para filhos. Na prova, o tema central é a leitura de **Heredogramas** (árvores genealógicas) e entender as regras de Mendel: **Autossômica Dominante**, **Recessiva**, **Ligada ao X** e a herança **Mitocondrial**, além de exceções como o **Imprinting**.
 
-Na prática, saber interpretar um heredograma permite ao médico calcular o risco de um casal ter um filho com uma doença grave e orientar sobre a necessidade de exames genéticos.
+Na prática, saber interpretar um **heredograma** permite ao médico calcular o risco de um casal ter um filho com uma doença grave e orientar sobre a necessidade de exames genéticos.
 
 ---
 
@@ -18,18 +18,18 @@ Na prática, saber interpretar um heredograma permite ao médico calcular o risc
 ## 1. Herança Autossômica Dominante (AD)
 
 Basta **um alelo** (versão do gene) mutado para ter a doença.
-- **Características:** Transmissão vertical (não pula gerações). Afeta homens e mulheres igualmente.
+- **Características:** **Transmissão vertical** (não pula gerações). Afeta homens e mulheres igualmente.
 - **Chance:** Se um pai é afetado, o filho tem **50% de chance** de herdar.
-- **Exemplos:** Acondroplasia (Nanismo), Doença de Huntington e Neurofibromatose.
+- **Exemplos:** **Acondroplasia** (Nanismo), Doença de Huntington e Neurofibromatose.
 
 ---
 
 ## 2. Herança Autossômica Recessiva (AR)
 
 Precisa de **dois alelos** mutados (um do pai e um da mãe) para ter a doença.
-- **Características:** Transmissão horizontal (pula gerações). Pais costumam ser saudáveis (portadores).
+- **Características:** **Transmissão horizontal** (pula gerações). Pais costumam ser saudáveis (portadores).
 - **Chance:** Se os dois pais são portadores, o filho tem **25% de chance** de ser doente e 50% de ser portador saudável.
-- **Exemplos:** Fibrose Cística e Anemia Falciforme. A **Consanguinidade** (pais parentes) aumenta muito o risco aqui.
+- **Exemplos:** **Fibrose Cística** e **Anemia Falciforme**. A **Consanguinidade** (pais parentes) aumenta muito o risco aqui.
 
 ---
 
@@ -38,13 +38,13 @@ Precisa de **dois alelos** mutados (um do pai e um da mãe) para ter a doença.
 O erro está no cromossomo X.
 - **Características:** **Afeta quase exclusivamente homens**. A mulher costuma ser apenas portadora.
 - **Regra de Ouro:** **Não existe transmissão de pai para filho homem** (o pai dá o Y para o filho, não o X).
-- **Exemplos:** Hemofilia e Distrofia de Duchenne.
+- **Exemplos:** **Hemofilia** e **Distrofia de Duchenne**.
 
 ---
 
 ## 4. Herança Mitocondrial e Imprinting
 
-- **Mitocondrial:** Só a **MÃE** transmite. Se o pai for doente e a mãe saudável, 100% dos filhos serão saudáveis.
+- **Mitocondrial:** Só a **MÃE** transmite. Se o pai for doente e a mãe saudável, **100% dos filhos serão saudáveis**.
 - **Imprinting (Cromossomo 15):** A doença depende de qual progenitor mandou o gene estragado:
   - Se faltar o gene do **PAI** → Síndrome de **Prader-Willi** (Obesidade e fome excessiva).
   - Se faltar o gene da **MÃE** → Síndrome de **Angelman** (Riso fácil e atraso grave).
@@ -85,7 +85,7 @@ A Uninove adora o **Imprinting do Cromossomo 15**. Decore o macete: **P**ai ause
 |------------|------------|-----------------|
 | **Dominante** | **Recessiva** | Vertical (50%) vs **Horizontal (25% + Pais sadios)** |
 | **X-ligada** | **Mitocondrial** | Passa pela mãe, mas pai afeta filhas vs **Passa EXCLUSIVAMENTE pela mãe** |
-| **Prader-Willi** | **Angelman** | Falta gene do Pai (Comilão) vs **Falta gene da Mãe (Risonho)** |
+| **Prader-Willi** | **Angelman** | Falta gene do **P**ai (Comilão) vs **Falta gene da Mãe (Risonho)** |
 | **Penetrância** | **Expressividade** | Ter ou não a doença vs **Quão grave é a doença** |
 | **Pai Afetado (XLR)** | **Mãe Portadora (XLR)** | 100% filhas portadoras vs **50% filhos doentes** |
 

@@ -21,8 +21,8 @@ Na prática, saber diferenciar uma erisipela de uma celulite e identificar as co
 - **Teste Chave:** **Coagulase Positiva** (É o que o diferencia dos outros estafilococos "bonzinhos").
 - **Toxinas Perigosas:**
   - **TSST-1:** Causa a Síndrome do Choque Tóxico.
-  - **Toxinas Esfoliativas:** Causam o Impetigo Bolhoso e a Síndrome da Pele Escaldada (o bebê parece que foi queimado).
-- **Resistência:** **MRSA** é a bactéria resistente à Oxacilina/Penicilinas. Exige Vancomicina.
+  - **Toxinas Esfoliativas:** Causam o **Impetigo Bolhoso** e a **Síndrome da Pele Escaldada** (o bebê parece que foi queimado).
+- **Resistência:** **MRSA** é a bactéria resistente à Oxacilina/Penicilinas. Exige **Vancomicina**.
 
 ---
 
@@ -41,8 +41,8 @@ Na prática, saber diferenciar uma erisipela de uma celulite e identificar as co
 ## 3. Hanseníase (Mycobacterium leprae)
 
 O Brasil é o segundo país com mais casos no mundo. É uma doença de **notificação compulsória**.
-- **O Bacilo:** BAAR (não cora no Gram). Gosta de locais frios: pele e nervos periféricos.
-- **Diagnóstico Clínico:** Lesão de pele com **Perda de Sensibilidade** + espessamento de nervos (ex: nervo ulnar).
+- **O Bacilo:** **BAAR** (não cora no Gram). Gosta de locais frios: pele e nervos periféricos.
+- **Diagnóstico Clínico:** Lesão de pele com **Perda de Sensibilidade** + espessamento de nervos (ex: **nervo ulnar**).
 - **Classificações:**
   - **Paucibacilar (PB):** Até 5 lesões. Tratamento por 6 meses.
   - **Multibacilar (MB):** Mais de 5 lesões. Tratamento por 12 meses.
@@ -81,7 +81,7 @@ Na **Hanseníase**, o segredo é o nervo. Se a mancha não dói, não coça e o 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Erisipela** | **Celulite** | **Borda nítida** vs Borda mal definida |
-| **Febre Reumática** | **GNPE (Rim)** | Só após faringite vs **Pele ou Faringe** |
+| **Febre Reumática** | **GNPE (Rim)** | **Só após faringite** vs **Pele ou Faringe** |
 | **Paucibacilar** | **Multibacilar** | Até 5 lesões vs **Mais de 5 lesões** |
 | **Catalase Positiva** | **Catalase Negativa** | **Estafilo** vs Estrepto |
 | **Proteína A** | **Proteína M** | Estafilo (Foge do AC) vs **Estrepto (Imunogênica/Reumática)** |

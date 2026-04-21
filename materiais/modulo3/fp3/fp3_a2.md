@@ -2,7 +2,7 @@
 
 O sangue deve fluir livremente para manter a vida. Quando o fluxo para, vaza ou coagula onde não devia, surgem os distúrbios hemodinâmicos. Na prova, os temas centrais são a **Tríade de Virchow** (causas da trombose), os tipos de **Choque** (como diferenciar pele fria vs pele quente) e a **Lei de Starling** aplicada aos edemas (inchaços).
 
-Na prática, o médico deve saber que uma falta de ar súbita após uma cirurgia ortopédica pode ser um **TEP** (êmbolo vindo da perna) e que a hidratação de um paciente em choque depende totalmente de entender se o problema é falta de volume ou falha do coração.
+Na prática, o médico deve saber que uma falta de ar súbita após uma cirurgia ortopédica pode ser um **TEP** (êmbolo vindo da perna) e que a hidratação de um paciente em choque depende totalmente de entender se o problema é **falta de volume** ou **falha do coração**.
 
 ---
 
@@ -27,7 +27,7 @@ Ambos são tipos de aumento de sangue no tecido, mas com causas opostas:
 
 O edema (inchaço) segue a **Lei de Starling**. O líquido sai do vaso por dois motivos principais:
 - **Aumento da Pressão Hidrostática:** O sangue "empurra" a parede do vaso com força. Causa clássica: **Insuficiência Cardíaca (ICC)**.
-- **Redução da Pressão Oncótica:** O sangue perde as proteínas (Albumina) que seguram a água dentro do vaso. Causas: **Síndrome Nefrótica** (perda de proteína na urina), Desnutrição ou Cirrose.
+- **Redução da Pressão Oncótica:** O sangue perde as proteínas (**Albumina**) que seguram a água dentro do vaso. Causas: **Síndrome Nefrótica** (perda de proteína na urina), Desnutrição ou Cirrose.
 - **Diferencial:** Edema de ICC melhora com diurético; edema de rim melhora tratando a perda de proteína.
 
 ---
@@ -93,7 +93,7 @@ A Uninove adora cobrar o diferencial de **Embolia**. Se houver fratura de osso l
 | **Choque Séptico** | **Choque Hipovolêmico** | **Pele Quente** (vasodilatação) vs **Pele Fria** (perda de sangue) |
 | **Hiperemia** | **Congestão** | Arterial (Vermelho/**Quente**) vs Venosa (Azul/**Frio**) |
 | **Transudato** | **Exsudato** | Líquido "limpo" (Mecânico) vs Líquido com proteína/pus (**Inflamação**) |
-| **Trombo Arterial** | **Trombo Venoso** | Branco (Plaqueta) / Mata o dedo vs Vermelho (Fibrina) / Mata o pulmão |
+| **Trombo Arterial** | **Trombo Venoso** | **Branco (Plaqueta)** / Mata o dedo vs **Vermelho (Fibrina)** / Mata o pulmão |
 
 ### Frase-âncora para não esquecer
 

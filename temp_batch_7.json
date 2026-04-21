@@ -1,0 +1,2247 @@
+[
+  {
+    "id": 801,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A bioenergética estuda as transferências de energia em sistemas biológicos. Qual a condição fundamental para que uma reação química ocorra de forma **espontânea** dentro da célula?",
+    "opcoes": [
+      "A) ΔG (Variação de Energia Livre) deve ser positivo (> 0).",
+      "B) ΔG (Variação de Energia Livre) deve ser negativo (< 0).",
+      "C) A Entropia (ΔS) deve ser igual a zero.",
+      "D) A reação deve liberar oxigênio puro para o meio."
+    ],
+    "explicacao_geral": "Termodinâmica biológica básica.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Reações exergônicas (ΔG negativo) liberam energia e são as únicas que ocorrem espontaneamente no sentido indicado."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 802,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Embora o NADH e o NADPH sejam transportadores de elétrons quimicamente semelhantes, eles possuem destinos metabólicos distintos. Qual é a principal diferença funcional entre eles?",
+    "opcoes": [
+      "A) NADH é usado para biossíntese; NADPH é usado para gerar ATP.",
+      "B) Ambos são usados exclusivamente para digestão de proteínas.",
+      "C) NADH é direcionado ao Catabolismo para gerar ATP (Cadeia Respiratória); NADPH é direcionado ao Anabolismo (Biossíntese) e proteção antioxidante.",
+      "D) NADH é produzido no núcleo e NADPH no citoplasma."
+    ],
+    "explicacao_geral": "Cofatores redox no metabolismo.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O **NADH** 'leva o combustível para a usina' (ATP), enquanto o **NADPH** é o 'capital' para construir novas moléculas (Gorduras, DNA) e proteger a célula."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 803,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O ATP é frequentemente chamado de 'moeda energética' da célula. Qual processo descreve como ele intermedeia o catabolismo e o anabolismo?",
+    "opcoes": [
+      "A) Acoplamento Químico: a energia liberada pela hidrólise do ATP 'financia' reações endergônicas desfavoráveis.",
+      "B) Fermentação Lática direta das moléculas de ATP.",
+      "C) O ATP atua como um catalisador que aumenta a velocidade das reações sem ser consumido.",
+      "D) O ATP absorve calor do meio e o transforma em luz intracelular."
+    ],
+    "explicacao_geral": "Engenharia energética do ATP.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A célula 'paga' por reações que não seriam espontâneas acoplando-as à quebra do ATP, resultando em um ΔG final negativo."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 804,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Uma determinada via metabólica possui uma variação de energia livre padrão (ΔG°) altamente positiva. No entanto, na célula viva, essa via ocorre continuamente. Como isso é possível?",
+    "opcoes": [
+      "A) As enzimas mudam as regras da física para ignorar o ΔG.",
+      "B) Porque o ΔG real depende das concentrações intracelulares, e a célula mantém as concentrações de reagentes altas e de produtos baixas.",
+      "C) Porque a célula armazena oxigênio líquido para esfriar a reação.",
+      "D) Reações biomoleculares não seguem as leis da termodinâmica."
+    ],
+    "explicacao_geral": "Diferença entre ΔG padrão e real.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O ΔG real é dinâmico. Consumir os produtos rapidamente 'puxa' a reação, tornando-a exergônica na prática."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 805,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A Segunda Lei da Termodinâmica afirma que o universo tende à desordem máxima (Entropia). Como os seres vivos conseguem manter seus corpos altamente organizados?",
+    "opcoes": [
+      "A) Eles criam energia do nada, desafiando a Primeira Lei.",
+      "B) Eles são sistemas fechados que não trocam calor.",
+      "C) Eles diminuem a desordem do universo ao seu redor.",
+      "D) Eles mantêm baixa entropia interna ao custo de aumentar a entropia do ambiente, liberando calor e resíduos após processar energia."
+    ],
+    "explicacao_geral": "Termodinâmica em sistemas biológicos.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A vida é uma luta contra a entropia; para se manter organizada, a célula deve exportar desordem (calor) para o meio externo."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 806,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Em condições de **hipóxia** (falta de oxigênio), a célula não consegue realizar a fosforilação oxidativa. Qual a alternativa correta sobre o 'Plano B' energético da célula?",
+    "opcoes": [
+      "A) Reduzir o piruvato a lactato para regenerar o NAD+, permitindo que a glicólise continue gerando um pouco de ATP.",
+      "B) Parar todo o consumo de energia e entrar em hibernação instantânea.",
+      "C) Queimar gordura diretamente sem usar mitocôndria.",
+      "D) Transformar NADP em NAD para enganar a termodinâmica."
+    ],
+    "explicacao_geral": "Bioenergética em emergência celular.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem O2, a glicólise para porque o NAD+ acaba. Produzir lactato 'limpa' o NADH e devolve o NAD+ para o sistema não parar de vez."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 807,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual a diferença fundamental entre **Termodinâmica** e **Cinética** no estudo do metabolismo?",
+    "opcoes": [
+      "A) Termodinâmica diz quão rápido ocorre; Cinética diz se ocorre.",
+      "B) Ambas estudam apenas a temperatura dos órgãos.",
+      "C) Termodinâmica determina a espontaneidade e direção (ΔG); Cinética determina a velocidade (Enzimas).",
+      "D) Não há diferença; são nomes diferentes para o mesmo processo."
+    ],
+    "explicacao_geral": "Fundamentos de bioquímica.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Uma reação pode ser termodinamicamente 'esperada' (espontânea), mas levar mil anos para ocorrer sem um catalisador cinético (enzima)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 808,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente em choque séptico apresenta níveis elevados de **Lactato** no sangue. Por que esse marcador é utilizado como sinal de gravidade bioenergética?",
+    "opcoes": [
+      "A) Porque o lactato é um veneno produzido apenas por bactérias.",
+      "B) Porque indica falha na oxigenação tecidual (hipóxia), forçando a célula a usar o metabolismo anaeróbico para manter a produção mínima de ATP.",
+      "C) Porque o lactato é necessário para o coração bater mais rápido no choque.",
+      "D) Porque o lactato impede o sangue de coagular."
+    ],
+    "explicacao_geral": "Clínica e metabolismo anaeróbico.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O lactato elevado é a 'impressão digital' da hipóxia tecidual e da ineficiência bioenergética global no estado de choque."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 809,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Uma substância chamada DNP (2,4-dinitrofenol) atua como um **desacoplador mitocondrial**. Pacientes que a ingerem perdem peso rapidamente, mas apresentam febre alta e podem morrer. Qual a base bioenergética disso?",
+    "opcoes": [
+      "A) O DNP dissipa o gradiente de prótons, convertendo a energia dos nutrientes em calor em vez de ATP.",
+      "B) O DNP faz a pessoa parar de absorver glicose no intestino.",
+      "C) O DNP transforma o sangue em água pura.",
+      "D) O DNP estimula a produção excessiva de ATP, o que 'queima' o corpo por dentro."
+    ],
+    "explicacao_geral": "Fisiopatologia dos desacopladores.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem o gradiente de prótons, a turbina da ATP-sintase para. A energia liberada pela oxidação 'vaza' como calor descontrolado."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 810,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Paciente apresenta sinais de estresse oxidativo severo por deficiência em manter os níveis de glutationa reduzida. Qual molécula é o 'parceiro' necessário que fornece poder redutor para essa proteção?",
+    "opcoes": [
+      "A) ATP.",
+      "B) Oxigênio (O2).",
+      "C) NADPH.",
+      "D) Glicogênio."
+    ],
+    "explicacao_geral": "Proteção celular e poder redutor.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O **NADPH** é o doador de elétrons mestre para biossínteses e para os sistemas de defesa contra radicais livres via glutationa."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 811,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Uma mulher de 30 anos apresenta dor nas mãos ao acordar, com dificuldade de fechar os punhos e escovar os dentes por cerca de 2 horas. Ela refere que, após chegar ao trabalho e se movimentar, a dor e a rigidez quase desaparecem. Qual o padrão de dor predominante?",
+    "opcoes": [
+      "A) Dor Mecânica.",
+      "B) Dor Inflamatória.",
+      "C) Dor Psicotrópica.",
+      "D) Dor de Sobrecarga aguda."
+    ],
+    "explicacao_geral": "A rigidez matinal persistente é o marcador da inflamação sinovial.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A dor mecânica estaria pior no fim do dia, após o trabalho.",
+      "B": "[CORRETA] **Rigidez matinal > 1 hora** que melhora com o uso da articulação é o sinal clássico de doenças inflamatórias como a Artrite Reumatoide.",
+      "C": "[INCORRETA] Termo inexistente para este padrão clínico.",
+      "D": "[INCORRETA] Sobrecarga pioraria com o movimento, não melhoraria."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 812,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na semiologia do aparelho locomotor, a contagem do número de articulações acometidas é essencial para fechar o diagnóstico. Qual a classificação correta para um quadro de **Oligoartrite**?",
+    "opcoes": [
+      "A) Acometimento de 2 a 4 articulações.",
+      "B) Acometimento de apenas 1 articulação.",
+      "C) Acometimento de 5 ou mais articulações.",
+      "D) Acometimento de todas as articulações de um membro simultaneamente."
+    ],
+    "explicacao_geral": "A contagem articulação orienta o raciocínio diagnóstico reumatológico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] **Oligoartrite** (2 a 4), **Monoartrite** (1) e **Poliartrite** (>= 5).",
+      "B": "[INCORRETA] Este é o padrão Monoarticular.",
+      "C": "[INCORRETA] Este é o padrão Poliarticular.",
+      "D": "[INCORRETA] Não é uma definição numérica padrão de distribuição."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 813,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Diferenciar a dor articular da **dor de origem óssea** é crucial. Qual característica descreve tipicamente a dor óssea?",
+    "opcoes": [
+      "A) Dor tipo fisgada, que melhora imediatamente ao deitar.",
+      "B) Dor profunda, surda, contínua e que frequentemente desperta o paciente à noite.",
+      "C) Sensação de choque elétrico que irradia para a ponta dos dedos.",
+      "D) Dor superficial acompanhada de coceira e vermelhidão na pele."
+    ],
+    "explicacao_geral": "A dor óssea contínua e noturna é um 'Red Flag'.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Característica de dor mecânica/articular leve.",
+      "B": "[CORRETA] A dor óssea não segue o padrão de alívio por repouso e deve sempre alertar para patologias como osteomielite ou neoplasias.",
+      "C": "[INCORRETA] Característica de dor neuropática/radicular.",
+      "D": "[INCORRETA] Sugere patologia dermatológica ou alérgica."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 814,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente refere dor e inchaço nas mãos. Qual padrão de distribuição seria o mais sugestivo de uma doença sistêmica autoimune, como a **Artrite Reumatoide (AR)**?",
+    "opcoes": [
+      "A) Dor apenas no polegar da mão direita por uso de celular.",
+      "B) Acometimento assimétrico de grandes articulações de carga (joelho e tornozelo).",
+      "C) Acometimento bilateral e simétrico de pequenas articulações (metacarpofalângicas e interfalângicas proximais).",
+      "D) Dor apenas na ponta dos dedos (interfalângicas distais) de uma das mãos."
+    ],
+    "explicacao_geral": "A simetria é o marcador de doenças reumatológicas de base imunológica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Sugere dor mecânica/LER.",
+      "B": "[INCORRETA] Sugere espondiloartrites ou osteoartrite.",
+      "C": "[CORRETA] O 'carimbo' da AR é a inflamação que ataca os mesmos grupos de articulações em ambos os lados do corpo.",
+      "D": "[INCORRETA] Acometimento exclusivo de distais sugere Osteoartrite (Nódulos de Heberden) ou Psoríase."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 815,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Durante a anamnese de um trauma de joelho, o paciente relata que o pé ficou preso no gramado enquanto o corpo girou (**mecanismo de torção com pivô**). Qual estrutura é a mais provável de ter sido lesionada?",
+    "opcoes": [
+      "A) Patela (luxação lateral).",
+      "B) Tendão Patelar (ruptura total).",
+      "C) Músculo Quadríceps (estiramento).",
+      "D) Ligamento Cruzado Anterior (LCA) ou Menisco."
+    ],
+    "explicacao_geral": "Mecanismos rotacionais com pé fixo são típicos de lesões ligamentares internas.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O giro sobre o próprio eixo com o pé fixo gera estresse máximo no **LCA** e nas cartilagens meniscais."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 816,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A investigação de antecedentes pessoais é vital. Um paciente com dor articular recente deve ser questionado sobre a presença de manchas descamativas na pele ou couro cabeludo, pois isso sugere:",
+    "opcoes": [
+      "A) Artrite Psoriásica (uma forma de espondiloartrite).",
+      "B) Lúpus Eritematoso Sistêmico.",
+      "C) Alergia ao sabonete que está causando dor muscular reflexa.",
+      "D) Artrite Séptica por contaminação cutânea."
+    ],
+    "explicacao_geral": "Psoríase na pele frequentemente precede ou acompanha a artrite inflamatória.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Cerca de 30% dos pacientes com **Psoríase** desenvolvem artrite inflamatória, que pode ser incapacitante se não diagnosticada precocemente."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 817,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Por que o médico deve obrigatoriamente perguntar sobre a **profissão e hobbies** do paciente em uma anamnese dirigida?",
+    "opcoes": [
+      "A) Para saber se o paciente tem condições financeiras de pagar exames particulares.",
+      "B) Para identificar microtraumas repetitivos ou posturas viciosas que justificam patologias como tendinites e bursites.",
+      "C) Apenas por cortesia acadêmica, sem impacto real no diagnóstico.",
+      "D) Para decidir se o paciente merece ou não uma licença médica."
+    ],
+    "explicacao_geral": "O uso excessivo ou inadequado da articulação é a causa nº 1 de dores mecânicas.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O trabalho repetitivo (LER/DORT) é o principal determinante de muitas queixas musculoesqueléticas atendidas na APS."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 818,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Em um **paciente idoso** com osteopenia conhecida, uma queda da própria altura (baixa energia) que resulta em dor intensa no quadril deve ser tratada como:",
+    "opcoes": [
+      "A) Apenas uma contusão muscular que resolverá com gelo.",
+      "B) Um processo natural do envelhecimento que não exige conduta rápida.",
+      "C) Suspeita de fratura por fragilidade até que a imagem (RX/TC) prove o contrário.",
+      "D) Preguiça do paciente em deambular."
+    ],
+    "explicacao_geral": "Fragilidade óssea permite fraturas mesmo em traumas banais.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] No idoso, a baixa energia do trauma NÃO exclui a gravidade da lesão. A fratura de colo de fêmur é a principal suspeita nesse cenário."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 819,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um homem de 45 anos chega ao pronto-socorro com dor súbita e intensa apenas no joelho direito, com vermelhidão e calor local. Relata febre de 38,5°C há 6 horas. Qual a conduta e hipótese prioritária?",
+    "opcoes": [
+      "A) Artrite Séptica (Infecção); prioridade absoluta de punção e drenagem.",
+      "B) Gota; prescrição de anti-inflamatório e alta.",
+      "C) Osteoartrite por idade; orientar perda de peso.",
+      "D) Meniscopatia aguda; solicitar apenas resonância magnética eletiva."
+    ],
+    "explicacao_geral": "Monoartrite febril é uma urgência médica.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Diante de uma **Monoartrite Aguda Febril**, o médico deve SEMPRE excluir infecção bacteriana intra-articular, pois o atraso pode destruir a articulação em 24-48 horas.",
+      "B": "[INCORRETA] Gota é diagnóstico de exclusão ou via cristais, mas a febre exige afastar infecção primeiro.",
+      "C": "[INCORRETA] Padrão degenerativo não causa febre e inflamação aguda severa.",
+      "D": "[INCORRETA] Problema mecânico não justifica o quadro sistêmico infeccioso."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 820,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Uma paciente de 35 anos queixa-se de dor em punhos, metacarpofalângicas de ambas as mãos, joelhos e tornozelos. O quadro é insidioso há 3 meses. Quantas articulações estão envolvidas e qual a classificação?",
+    "opcoes": [
+      "A) 4 articulações - Oligoartrite.",
+      "B) 6 ou mais articulações - Poliartrite.",
+      "C) 1 articulação - Monoartrite.",
+      "D) 2 articulações - Biartrite."
+    ],
+    "explicacao_geral": "Contagem correta: Punhos (2), Mãos (múltiplas), Joelhos (2), Tornozelos (2).",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O envolvimento é vasto, simétrico e sistêmico, caracterizando uma **Poliartite** (>= 5)."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 821,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um jogador de futebol amador, ao tentar chutar a bola, sente um estalido audível seguido de instabilidade no joelho ('falseio'). Ele conta que o joelho 'saiu do lugar e voltou' durante o drible. Qual etapa do OPQRST descreve esta sensação subjetiva de instabilidade?",
+    "opcoes": [
+      "A) Severity (Intensidade de 0 a 10).",
+      "B) Radiation (Radiação para o pé).",
+      "C) Quality (Qualidade/Característica da dor e sintomas associados).",
+      "D) Onset (Data de início)."
+    ],
+    "explicacao_geral": "O mnemônico **OPQRST** (Onset, Provocation, Quality, Radiation, Severity, Time) é essencial na triagem de dor. Sintomas subjetivos como 'instabilidade' ou 'sensação de falseio' descrevem a natureza e as características que acompanham a dor.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Severity refere-se à escala de dor (0-10) e não à característica do movimento articular.",
+      "B": "[INCORRETA] Radiation descreve se a dor caminha para outros dermátomos ou regiões anatômicas.",
+      "C": "[CORRETA] **Quality** (ou Característica) engloba tanto o tipo de dor (em choque, queimação) quanto sensações associadas como **instabilidade** ou bloqueio articular. [Referência: Porto - Semiologia Médica].",
+      "D": "[INCORRETA] Onset avalia apenas o momento cronológico em que o sintoma começou."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 822,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na inspeção das mãos de um paciente com Osteoartrite Nodal, o médico identifica nódulos ósseos nas articulações interfalângicas. Como são denominados os nódulos localizados nas articulações **distais** (DIP)?",
+    "opcoes": [
+      "A) Nódulos de Bouchard.",
+      "B) Nódulos de Heberden.",
+      "C) Nódulos de Osler.",
+      "D) Nódulos de Janeway."
+    ],
+    "explicacao_geral": "Diferenciar a localização dos nódulos é chave para o diagnóstico de Osteoartrite.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Bouchard localiza-se nas interfalângicas proximais (PIP).",
+      "B": "[CORRETA] **H**eberden (**D**istal) e **B**ouchard (**P**roximal). Macete: H vem depois de B, assim como distal vem depois de proximal.",
+      "C": "[INCORRETA] Achados de endocardite infecciosa (dolorosos, em polpas digitais).",
+      "D": "[INCORRETA] Achados de endocardite infecciosa (não dolorosos, em palmas/plantas)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 823,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Durante a inspeção estática do alinhamento dos membros inferiores, o médico observa que os joelhos do paciente se tocam, mas os tornozelos permanecem afastados. Esta deformidade em 'X' é chamada de:",
+    "opcoes": [
+      "A) Genu Varo.",
+      "B) Genu Recurvatum.",
+      "C) Genu Valgo.",
+      "D) Genu Flexum."
+    ],
+    "explicacao_geral": "Alinhamento em 'X' (valgo) vs 'Arqueado' (varo).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Genu Varo é o arqueamento para fora (pernas em 'O').",
+      "B": "[INCORRETA] Hiperextensão do joelho.",
+      "C": "[CORRETA] **Valgo** (joelhos para dentro, em 'X'). Macete: 'Genv Valgo não cavalga'.",
+      "D": "[INCORRETA] Joelho travado em flexão."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 824,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A observação de uma **Atrofia Tenar** (achatamento da base do polegar na palma da mão) é um sinal visual clássico de qual patologia compressiva avançada?",
+    "opcoes": [
+      "A) Tenossinovite de De Quervain.",
+      "B) Lesão do Nervo Ulnar.",
+      "C) Epicondilite Lateral.",
+      "D) Síndrome do Túnel do Carpo."
+    ],
+    "explicacao_geral": "A **musculatura tenar** (abdutor curto do polegar, oponente do polegar e flexor curto do polegar) é inervada pelo **nervo mediano**. A compressão crônica deste nervo ao passar pelo retináculo dos flexores no punho resulta em isquemia e degeneração axonal, culminando clinicamente com a **atrofia tenar**, um sinal de gravidade e cronicidade da compressão.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A Tenossinovite de De Quervain afeta os tendões do abdutor longo e extensor curto do polegar no **primeiro compartimento extensor**, causando dor na face lateral do punho (estilóide radial), mas não atrofia da palma.",
+      "B": "[INCORRETA] A lesão do nervo ulnar causaria atrofia da **musculatura hipotenar** (bordô medial da mão) e dos músculos interósseos, resultando frequentemente em 'mão em garra'.",
+      "C": "[INCORRETA] A Epicondilite Lateral ('cotovelo de tenista') é uma patologia tendínea na origem dos **extensores do carpo** no úmero, sem relação direta com a inervação extrínseca da musculatura da mão.",
+      "D": "[CORRETA] A **Síndrome do Túnel do Carpo** é a neuropatia compressiva mais comum. A atrofia da eminência tenar indica que a compressão do **nervo mediano** atingiu um estágio avançado com perda de fibras motoras. [Referência: Moore - Anatomia Orientada para a Clínica]."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 825,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual o principal critério visual para diferenciar um **Derrame Articular** de um edema difuso de partes moles no joelho durante a inspeção?",
+    "opcoes": [
+      "A) O desaparecimento das depressões peripatelares (recessos da cápsula), que ficam abaulados.",
+      "B) A presença de varizes na panturrilha acompanhando o inchaço.",
+      "C) A coloração amarelada da pele na região anterior.",
+      "D) O aparecimento de pelos excessivos sobre a patela."
+    ],
+    "explicacao_geral": "O derrame é interno à cápsula e ocupa espaços específicos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O líquido sinovial em excesso preenche os recessos naturais ao redor da patela, tornando a anatomia do joelho 'apagada' e abaulada localmente.",
+      "B": "[INCORRETA] Varizes sugerem insuficiência venosa, que causa edema difuso, não derrame articular isolado.",
+      "C": "[INCORRETA] A cor não é critério para diferenciar derrame de edema comum.",
+      "D": "[INCORRETA] Sem correlação clínica."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 826,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Ao observar a marcha de um paciente, o médico nota que ele eleva excessivamente o joelho para evitar que a ponta do pé arraste no chão (pé caído). Este padrão, chamado **Marcha em Steppage (Escarvante)**, indica lesão de qual estrutura?",
+    "opcoes": [
+      "A) Tendão de Aquiles.",
+      "B) Nervo Fibular Comum (ou seus ramos profundos).",
+      "C) Nervo Isquiático na região glútea exclusivamente.",
+      "D) Músculo Tríceps Sural."
+    ],
+    "explicacao_geral": "A falha dos dorsiflexores impede o levantamento da ponta do pé.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A lesão do **Fibular** causa paralisia do músculo Tibial Anterior. Para conseguir caminhar sem tropeçar no próprio pé, o paciente precisa levantar muito a perna."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 827,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Um paciente apresenta **Genu Varo** acentuado (arqueamento em 'O'). Esta alteração biomecânica gera uma sobrecarga excessiva em qual compartimento do joelho?",
+    "opcoes": [
+      "A) Compartimento Lateral.",
+      "B) Compartimento Posterior.",
+      "C) Compartimento Medial (interno).",
+      "D) Compartimento Superior."
+    ],
+    "explicacao_geral": "O eixo de carga passa por onde o joelho 'fecha'.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] No **Genu Varo**, o peso do corpo é projetado para o lado de dentro, acelerando o desgaste (osteoartrite) no compartimento **Medial**."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 828,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Ao avaliar o **trofismo muscular**, o médico utiliza uma fita métrica para comparar a circunferência da coxa direita e esquerda em pontos simétricos. Qual diferença de medida é considerada tecnicamente significativa para o diagnóstico de atrofia?",
+    "opcoes": [
+      "A) Mais de 10 cm de diferença.",
+      "B) Qualquer diferença, mesmo de milímetros, é patológica.",
+      "C) Diferença de pelo menos 5 cm.",
+      "D) Diferença de 1 a 2 cm já é clinicamente relevante."
+    ],
+    "explicacao_geral": "Assimetrias sutis podem indicar desuso crônico importante.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Devido à simetria natural do corpo, uma diferença de **1 a 2 cm** entre os membros sugere perda de massa muscular (atrofia) no lado menor."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 829,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente chega ao consultório claudicando (mancando). O médico observa que, durante o caminhar, o tempo que o paciente apoia o pé direito no chão é muito menor do que o tempo de apoio no pé esquerdo. Como se denomina este padrão de marcha?",
+    "opcoes": [
+      "A) Marcha Antálgica.",
+      "B) Marcha Atáxica.",
+      "C) Marcha Parkinsoniana.",
+      "D) Marcha Ceifante."
+    ],
+    "explicacao_geral": "A marcha de 'fuga da dor'.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Na **Marcha Antálgica**, o paciente encurta a fase de apoio no membro acometido para minimizar a carga e a dor.",
+      "B": "[INCORRETA] Marcha de base alargada com perda de equilíbrio.",
+      "C": "[INCORRETA] Marcha com passos curtos e sem balanço de braços.",
+      "D": "[INCORRETA] Típica de sequela de AVC (membro em semicírculo)."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 830,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Uma senhora de 68 anos apresenta dor crônica em ambas as mãos, com piora ao final do dia. Na inspeção, visualizam-se nódulos duros e indolores apenas nas pontas dos dedos (articulações distais). Qual o diagnóstico mais provável?",
+    "opcoes": [
+      "A) Artrite Reumatoide.",
+      "B) Osteoartrite Nodal (Nódulos de Heberden).",
+      "C) Gota Tofácea crônica.",
+      "D) Febre Reumática."
+    ],
+    "explicacao_geral": "Padrão clássico de desgaste articular na terceira idade.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A dor mecânica vespertina e os nódulos nas interfalângicas distais (**Heberden**) são marcas da Osteoartrite."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 831,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O Ciclo de Krebs (Ciclo do Ácido Cítrico) é a via central de oxidação do Acetil-CoA na matriz mitocondrial. Qual o rendimento energético direto de cada volta do ciclo, por molécula de Acetil-CoA?",
+    "opcoes": [
+      "A) 3 NADH, 1 FADH2 e 1 GTP (ATP).",
+      "B) 10 ATPs e 2 moléculas de Oxigênio.",
+      "C) 2 Ácidos Láticos e 1 Etanol.",
+      "D) 6 NADH e 4 FADH2."
+    ],
+    "explicacao_geral": "Rendimento estequiométrico do Ciclo de Krebs.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Além da energia direta (GTP), o ciclo é uma máquina de carregar caminhões de elétrons (NADH/FADH2) para a cadeia respiratória."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 832,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A **ATP Sintase** funciona como uma turbina molecular que fabrica o ATP. Qual força motriz impulsiona a rotação dessa enzima?",
+    "opcoes": [
+      "A) A quebra direta de moléculas de oxigênio.",
+      "B) O retorno dos prótons (H+) do espaço intermembranas para a matriz mitocondrial seguindo um gradiente eletroquímico.",
+      "C) O calor gerado pela digestão dos alimentos.",
+      "D) A força centrífuga do movimento da célula."
+    ],
+    "explicacao_geral": "Mecanismo da fosforilação oxidativa.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Esse gradiente (H+) funciona como a água de uma represa que, ao passar pela turbina, gera energia para fosforilar o ADP em ATP."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 833,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "O complexo da **Piruvato Desidrogenase (PDH)** é o elo de ligação entre a Glicólise e o Ciclo de Krebs. Qual vitamina é um cofator essencial desse complexo, cuja deficiência trava o metabolismo?",
+    "opcoes": [
+      "A) Vitamina C (Ácido Ascórbico).",
+      "B) Vitamina D (Calciferol).",
+      "C) Vitamina B1 (Tiamina).",
+      "D) Vitamina K (Filoquinona)."
+    ],
+    "explicacao_geral": "Cofatores enzimáticos e metabolismo.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A Tiamina-pirofosfato (TPP) é vital para descarboxilar o piruvato. Sem ela, o piruvato vira lactato e o ciclo de Krebs não roda."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 834,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Na cadeia transportadora de elétrons, o NADH gera cerca de 2,5 ATPs, enquanto o FADH2 gera apenas 1,5 ATPs. Por que existe essa diferença de rendimento?",
+    "opcoes": [
+      "A) Porque o FADH2 entra no Complexo II, que não bombeia prótons (H+), gerando um gradiente menor.",
+      "B) Porque o FADH2 é uma molécula maior e mais pesada.",
+      "C) Porque o NADH é solúvel em água e o FADH2 não.",
+      "D) Porque o Oxigênio prefere elétrons vindos do NADH."
+    ],
+    "explicacao_geral": "Bioenergética da cadeia respiratória.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Como o Complexo II pula o primeiro passo de bombeamento de prótons, a 'represa' de energia fica menos cheia com o FADH2."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 835,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O controle do fluxo metabólico é essencial para a homeostase. Qual das alternativas abaixo apresenta um **estimulador** e um **inibidor** direto do complexo PDH, respectivamente?",
+    "opcoes": [
+      "A) Ingestão de água; Exercício físico.",
+      "B) Cálcio/ADP (ativadores); NADH/ATP (inibidores).",
+      "C) Insulina; Glicose.",
+      "D) Sono profundo; Adrenalina."
+    ],
+    "explicacao_geral": "Regulação enzimática do complexo PDH.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Muita energia (ATP/NADH) freia o processo; sinais de gasto energético (Cálcio no músculo ou ADP) aceleram a produção."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 836,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Existem substâncias que interrompem a produção de ATP agindo de formas diferentes. Diferencie o efeito do **Cianeto** do efeito de um **Desacoplador (DNP)**:",
+    "opcoes": [
+      "A) Ambos bloqueiam o fluxo de elétrons no Complexo I.",
+      "B) O Cianeto aumenta o ATP e o DNP diminui.",
+      "C) O Cianeto fura a membrana e o DNP congela a mitocôndria.",
+      "D) O Cianeto bloqueia o fluxo de elétrons (Complexo IV); o DNP dissipa o gradiente de prótons (dissipa a energia como calor)."
+    ],
+    "explicacao_geral": "Farmacologia e toxicologia mitocondrial.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Enquanto o cianeto 'desliga a usina', o desacoplador faz a usina girar no vazio, gerando calor em vez de eletricidade (ATP)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 837,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O Ciclo de Krebs é descrito como uma via **anfibólica**. O que isso significa no contexto metabólico?",
+    "opcoes": [
+      "A) Que ocorre tanto no fígado quanto no intestino.",
+      "B) Que participa tanto do catabolismo (degradação) quanto do anabolismo (fornece precursores para sínteses).",
+      "C) Que funciona tanto em humanos quanto em sapos (anfíbios).",
+      "D) Que pode produzir energia com ou sem oxigênio de forma alternada."
+    ],
+    "explicacao_geral": "Função metabólica integrada.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Além de gerar energia, o ciclo fornece 'esqueletos de carbono' para fabricar aminoácidos e outras biomoléculas importantes."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 838,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Paciente resgatado de incêndio apresenta confusão mental e acidose metabólica grave. Mesmo recebendo oxigênio 100%, sua hipóxia tecidual piora. O médico suspeita de **Intoxicação por Cianeto**. Por que o oxigênio não resolve o problema?",
+    "opcoes": [
+      "A) Porque o cianeto dissolve o oxigênio no sangue.",
+      "B) Porque o paciente perdeu a capacidade de inspirar.",
+      "C) Porque o cianeto bloqueia o Complexo IV, impedindo que a mitocôndria utilize o oxigênio disponível.",
+      "D) Porque o cianeto transforma o oxigênio em gás carbônico instantaneamente."
+    ],
+    "explicacao_geral": "Fisiopatologia da intoxicação por cianeto.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] No cianeto, a usina está com o 'fim da linha' bloqueado. Há oxigênio na porta, mas a turbina mitocondrial não consegue usá-lo."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 839,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Um paciente alcoólico crônico e desnutrido apresenta ataxia, confusão mental e nistagmo (Síndrome de Wernicke-Korsakoff). Bioquimicamente, qual o impacto da **deficiência de B1** no metabolismo desse paciente?",
+    "opcoes": [
+      "A) Inibição do complexo PDH, levando ao acúmulo de piruvato que é convertido em lactato (acidose lática).",
+      "B) Aumento excessivo de glicogênio no cérebro.",
+      "C) Destruição direta das gorduras da bainha de mielina.",
+      "D) Incapacidade de absorver ferro no estômago."
+    ],
+    "explicacao_geral": "Manifestação clínica de deficiências vitamínicas no metabolismo.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem B1, a 'ponte' para o Ciclo de Krebs quebra. O corpo tenta compensar com fermentação lática, mas o cérebro fica sem energia."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 840,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Recém-nascidos possuem uma quantidade significativa de **Tecido Adiposo Marrom**, que é essencial para manter a temperatura corporal. Qual o mecanismo molecular responsável por esse fenômeno?",
+    "opcoes": [
+      "A) Fricção rápida das células de gordura umas nas outras.",
+      "B) Ação da Termogenina (UCP-1), um desacoplador que dissipa o gradiente de H+ para gerar calor em vez de ATP.",
+      "C) Queima de glicose pura dentro dos músculos do bebê.",
+      "D) Produção de luz infravermelha pelas mitocôndrias."
+    ],
+    "explicacao_geral": "Termogênese e desacoplamento fisiológico.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A termogenina 'fura a represa'. A energia que seria usada para fazer ATP vira energia térmica (calor), protegendo o bebê do frio."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 841,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O fígado e o músculo esquelético são os principais estoques de glicogênio. Por que o fígado consegue exportar glicose para o sangue e o músculo não?",
+    "opcoes": [
+      "A) Porque o músculo só possui glicogênio de má qualidade.",
+      "B) Porque o fígado possui a enzima Glicose-6-Fosfatase (G6Pase), que permite remover o fosfato e liberar a glicose livre para a circulação.",
+      "C) Porque o músculo esconde a glicose dentro das mitocôndrias.",
+      "D) Porque a insulina impede a saída de glicose do músculo."
+    ],
+    "explicacao_geral": "Diferencial tecidual do metabolismo do glicogênio.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Sem a G6Pase, a glicose-6-fosfato fica 'presa' dentro da célula muscular, servindo apenas para a própria contração."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 842,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A Via das Pentoses-Fosfato é uma rota alternativa do metabolismo da glicose que não objetiva a produção de ATP. Quais são seus dois principais produtos?",
+    "opcoes": [
+      "A) Ácido Lático e CO2.",
+      "B) Insulina e Glucagon.",
+      "C) Colesterol e Ácidos Graxos.",
+      "D) NADPH (poder redutor) e Ribose-5-Fosfato (para síntese de nucleotídeos)."
+    ],
+    "explicacao_geral": "Produtos e funções da via das pentoses.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O NADPH protege a célula contra oxidação e a Ribose serve para fabricar DNA e RNA."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 843,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O metabolismo do glicogênio é controlado por duas enzimas marcapasso principais. Identifique a enzima de **síntese** e a de **degradação**, respectivamente:",
+    "opcoes": [
+      "A) Glicogênio Sintase e Glicogênio Fosforilase.",
+      "B) Hexoquinase e PFK-1.",
+      "C) Lipase e Protease.",
+      "D) Ribonuclease e DNA polimerase."
+    ],
+    "explicacao_geral": "Regulação enzimática do glicogênio.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A Sintase constrói as cadeias e a Fosforilase quebra as ligações para liberar glicose quando necessário."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 844,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A estrutura do glicogênio é altamente ramificada através de ligações α-1,6. Qual a vantagem fisiológica dessa arquitetura ramificada?",
+    "opcoes": [
+      "A) Permite que ele seja estocado dentro do núcleo da célula.",
+      "B) Impede que a glicose seja consumida por bactérias.",
+      "C) Aumenta a solubilidade e cria múltiplas extremidades não redutoras para uma mobilização rápida da glicose.",
+      "D) Faz com que o glicogênio dure por meses sem estragar."
+    ],
+    "explicacao_geral": "Relação estrutura-função no glicogênio.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Muitas ramificações significam que várias enzimas podem 'morder' o glicogênio ao mesmo tempo, liberando açúcar rápido no sangue."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 845,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Para que a Glicogênio Sintase consiga adicionar uma nova molécula de glicose à cadeia em crescimento, a glicose deve estar em uma forma 'ativada'. Qual molécula desempenha esse papel de doadora?",
+    "opcoes": [
+      "A) Glicose-1-Fosfato direta.",
+      "B) UDP-Glicose (Uridina difosfato glicose).",
+      "C) ATP-Glicose.",
+      "D) Glicose livre do sangue."
+    ],
+    "explicacao_geral": "Bioquímica da síntese de polímeros.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O UDP funciona como uma 'alça' que carrega a glicose e a posiciona corretamente para ser incorporada pela Sintase."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 846,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "As hemácias dependem criticamente do NADPH produzido pela Via das Pentoses. Qual a principal função do NADPH nessas células?",
+    "opcoes": [
+      "A) Regenerar a Glutationa Reduzida, protegendo a hemoglobina contra o estresse oxidativo.",
+      "B) Fornecer elétrons para a cadeia respiratória da hemácia.",
+      "C) Permitir que a hemácia mude de forma nos capilares.",
+      "D) Transportar monóxido de carbono para fora do corpo."
+    ],
+    "explicacao_geral": "Papel antioxidante do NADPH.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem NADPH, a hemácia perde sua proteção antiferrugem (glutationa) e acaba morrendo prematuramente (hemólise)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 847,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Hormônios como o Glucagon e a Adrenalina promovem a **fosforilação** das enzimas do metabolismo do glicogênio. Qual o efeito dessa fosforilação sobre as enzimas-chave?",
+    "opcoes": [
+      "A) Ativa a Sintase e Inativa a Fosforilase.",
+      "B) Ativa ambas as enzimas simultaneamente.",
+      "C) Inativa ambas as enzimas para economizar energia.",
+      "D) Inativa a Sintase (para de guardar) e Ativa a Fosforilase (começa a quebrar)."
+    ],
+    "explicacao_geral": "Mecanismos de regulação recíproca.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] É um controle inteligente: o mesmo sinal desliga a fábrica de estoque e liga a usina de produção de glicose."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 848,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente do sexo masculino apresenta icterícia e urina escura (anemia hemolítica aguda) após iniciar tratamento para malária com **Primaquina**. O médico suspeita de deficiência de **G6PD**. Por que esse fármaco causou o quadro?",
+    "opcoes": [
+      "A) A primaquina mata as hemácias por contato direto.",
+      "B) A primaquina gera estresse oxidativo; sem G6PD, a célula não produz NADPH para regenerar a glutationa e se proteger.",
+      "C) O fármaco impede que o glicogênio saia do fígado.",
+      "D) A primaquina aumenta a glicólise até a hemácia explodir."
+    ],
+    "explicacao_geral": "Fisiopatologia da deficiência de G6PD.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] É a clássica 'enfermidade farmacogênica'. O fármaco exige defesa oxidativa, e o paciente não tem as armas (NADPH) para lutar."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 849,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Uma criança de 2 anos apresenta abdome muito volumoso (Hepatomegalia) e crises de convulsão por **hipoglicemia severa** no jejum curto de madrugada. O diagnóstico é **Doença de Von Gierke** (Glicogenose tipo I). Qual enzima está faltando?",
+    "opcoes": [
+      "A) Amilase pancreática.",
+      "B) Glicogênio Sintase.",
+      "C) Glicose-6-Fosfatase (G6Pase).",
+      "D) Enzima Ramificadora."
+    ],
+    "explicacao_geral": "A **Doença de Von Gierke** (Glicogenose Tipo I) é causada pela deficiência da enzima **Glicose-6-Fosfatase**. Esta enzima é responsável por converter Glicose-6-Fosfato em Glicose livre, permitindo que o fígado exporte açúcar para manter a glicemia plasmática. Sem ela, o glicogênio é quebrado até G6P, mas fica 'preso' na célula, causando hepatomegalia e hipoglicemia severa.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A amilase pancreática atua na digestão luminal de amido no intestino, não no metabolismo intracelular do glicogênio.",
+      "B": "[INCORRETA] A deficiência de Glicogênio Sintase (Glicogenose Tipo 0) causaria incapacidade de estocar glicogênio, resultando em hiperglicemia pós-prandial e hipoglicemia de jejum, mas sem hepatomegalia.",
+      "C": "[CORRETA] A **Glicose-6-Fosfatase** é a 'porta de saída' do fígado. Sua ausência impede a liberação de glicose tanto da glicogenólise quanto da gliconeogênese.",
+      "D": "[INCORRETA] A deficiência da enzima ramificadora (Doença de Andersen - Tipo IV) gera um glicogênio de estrutura anormal que causa cirrose hepática precoce, mas não hipoglicemia tão severa quanto o Tipo I. [Referência: Lehninger - Princípios de Bioquímica]."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 850,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Cenário: Um indivíduo decide fazer uma greve de fome. Após cerca de **24 horas de jejum**, ele ainda mantém a glicemia estável, mas o seu perfil metabólico mudou drasticamente. O que aconteceu com o estoque de glicogênio hepático?",
+    "opcoes": [
+      "A) Ele dobrou de tamanho para proteger o cérebro.",
+      "B) Ele está praticamente esgotado, e o corpo agora depende fundamentalmente da Gliconeogênese.",
+      "C) Ele foi transformado em gordura para ser mais eficiente.",
+      "D) Ele continua intacto, pois o corpo prefere queimar músculos primeiro."
+    ],
+    "explicacao_geral": "O estoque de glicogênio hepático é limitado (aprox. 75-100g no adulto) e serve para manter a glicemia nas primeiras **12 a 24 horas** de jejum. Após este período, a reserva está virtualmente exaurida e a manutenção da glicemia passa a depender inteiramente da **Gliconeogênese** (produção de glicose a partir de precursores não-carboidratos como lactato, glicerol e aminoácidos).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O estoque de glicogênio diminui progressivamente durante o jejum; ele não aumenta.",
+      "B": "[CORRETA] À medida que o jejum ultrapassa as 24h, o corpo entra em um estado de **gliconeogênese dominante**, pois os estoques de glicogênio tornam-se insuficientes.",
+      "C": "[INCORRETA] No jejum, o corpo quebra gordura (lipólise) para gerar energia, mas o glicogênio é quebrado em glicose, não convertido em gordura.",
+      "D": "[INCORRETA] O glicogênio é o primeiro recurso a ser mobilizado (em horas). O catabolismo muscular intenso (proteólise) é minimizado inicialmente para preservar a função estrutural, embora ocorra para fornecer esqueletos de carbono para a gliconeogênese. [Referência: Lehninger]."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 851,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A captação de glicose nos diferentes tecidos depende de transportadores específicos (GLUTs). Qual é o transportador exclusivamente dependente de insulina e onde ele se localiza?",
+    "opcoes": [
+      "A) GLUT1, nos eritrócitos.",
+      "B) GLUT4, no músculo esquelético e tecido adiposo.",
+      "C) GLUT2, no fígado e pâncreas.",
+      "D) GLUT3, nos neurônios do cérebro."
+    ],
+    "explicacao_geral": "Os transportadores de glicose (**GLUT**) possuem distribuição tecidual específica. O **GLUT4** é único por ser o transportador **insulino-dependente**. Em repouso, ele fica armazenado em vesículas citoplasmáticas e é translocado para a membrana plasmática somente após a sinalização via receptor de insulina.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O GLUT1 é constitutivo (sempre presente) e garante a captação basal em quase todos os tecidos, especialmente eritrócitos e barreira hematoencefálica.",
+      "B": "[CORRETA] O **GLUT4** está presente no **tecido adiposo** e **músculo estriado**. É o responsável pela queda rápida da glicemia após a alimentação mediada pela insulina.",
+      "C": "[INCORRETA] O GLUT2 é um transportador de alta capacidade e baixa afinidade, presente no fígado e células beta do pâncreas, não sendo dependente de insulina (ele atua como sensor de glicose).",
+      "D": "[INCORRETA] O GLUT3 possui alta afinidade e é o principal transportador neuronal, garantindo que o cérebro capte glicose mesmo em baixas concentrações, independentemente de insulina. [Referência: Devlin - Bioquímica]."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 852,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No monitoramento clínico do paciente diabético, o exame de **Hemoglobina Glicada (HbA1c)** é fundamental. O que esse exame representa para a equipe médica?",
+    "opcoes": [
+      "A) O nível de açúcar no sangue no exato momento da coleta.",
+      "B) A quantidade de insulina que o paciente tomou no café da manhã.",
+      "C) A reserva de glicogênio que o paciente tem no fígado.",
+      "D) A média da glicemia do paciente nos últimos 3 meses, baseada na vida média das hemácias."
+    ],
+    "explicacao_geral": "Monitoramento do diabetes de longo prazo.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Como a hemácia vive cerca de 120 dias, a glicose que gruda nela (glicação) serve como uma 'caixa-preta' do controle glicêmico."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 853,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "As células das ilhotas pancreáticas produzem hormônios antagônicos para regular a glicemia. Identifique a célula produtora de **Insulina** e de **Glucagon**, respectivamente:",
+    "opcoes": [
+      "A) Células Beta (Insulina) e Células Alfa (Glucagon).",
+      "B) Células Alfa (Insulina) e Células Beta (Glucagon).",
+      "C) Células Gama e Células Delta.",
+      "D) Células Estreladas e Células de Kupffer."
+    ],
+    "explicacao_geral": "Anatomia e fisiologia do pâncreas endócrino.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A insulina (anabólica) é o freio do glucagon (catabólico); ambas são produzidas no pâncreas para controle fino do metabolismo."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 854,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Por que o cérebro e as hemácias conseguem captar glicose mesmo em períodos de jejum prolongado, quando os níveis de insulina estão muito baixos?",
+    "opcoes": [
+      "A) Porque eles conseguem 'roubar' insulina da gordura.",
+      "B) Porque eles sobrevivem apenas com a queima de proteínas.",
+      "C) Porque expressam transportadores (GLUT1 e GLUT3) que possuem alta afinidade pela glicose e não dependem de insulina.",
+      "D) Porque o cérebro fabrica sua própria glicose a partir do nada."
+    ],
+    "explicacao_geral": "Hierarquia metabólica e prioridade tecidual.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Esses tecidos são vitais; sua 'porta' (GLUT) está sempre aberta para que nunca fiquem sem combustível, independente da insulina."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 855,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O Diabetes Mellitus Tipo 2 é frequentemente associado à 'Resistência Insulínica'. O que isso significa fisiopatologicamente?",
+    "opcoes": [
+      "A) O pâncreas parou de fabricar insulina completamente.",
+      "B) As células alvo (músculo/fígado) têm dificuldade em responder ao sinal da insulina, exigindo níveis maiores da mesma para o mesmo efeito.",
+      "C) O corpo destrói a insulina antes dela chegar ao sangue.",
+      "D) O paciente tem alergia à própria insulina que produz."
+    ],
+    "explicacao_geral": "Mecanismos do DM Tipo 2.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] É como se a 'fechadura' estivesse emperrada. O pâncreas trabalha em dobro (hiperinsulinemia) para tentar compensar a resistência inicial."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 856,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual dos critérios abaixo é um valor de referência aceito mundialmente para o diagnóstico de Diabetes Mellitus após uma coleta de **Glicemia de Jejum** (confirmada)?",
+    "opcoes": [
+      "A) > 70 mg/dL.",
+      "B) 99 mg/dL.",
+      "C) 110 mg/dL.",
+      "D) ≥ 126 mg/dL."
+    ],
+    "explicacao_geral": "Critérios diagnósticos laboratoriais.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Valores entre 100 e 125 são considerados pré-diabetes; 126 ou mais indica diabetes estabelecido."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 857,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente diabético que acabou de realizar uma refeição rica em carboidratos apresenta um pico glicêmico. Qual o principal mecanismo do músculo para lidar com esse excesso de açúcar?",
+    "opcoes": [
+      "A) Translocação de vesículas de GLUT4 para a membrana celular mediada pela insulina.",
+      "B) Transformação instantânea de açúcar em músculo puro.",
+      "C) Expulsão da glicose pelo suor durante a digestão.",
+      "D) Fechamento das artérias para o açúcar não chegar ao músculo."
+    ],
+    "explicacao_geral": "Fisiologia da glicemia pós-prandial.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A insulina faz o 'portão' subir. Sem esse movimento do GLUT4, a glicose ficaria circulando no sangue, causando danos aos vasos."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 858,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Paciente de 15 anos dá entrada na emergência com hálito característico de 'fruta envelhecida' (hálito cetônico), dor abdominal e respiração rápida. A glicemia está em 450 mg/dL. Qual a complicação metabólica e o tipo de diabetes mais provável?",
+    "opcoes": [
+      "A) Hipoglicemia severa no Tipo 2.",
+      "B) Estado Hiperosmolar no Tipo 1.",
+      "C) Cetoacidose Diabética (CAD) no Diabetes Tipo 1.",
+      "D) Intoxicação alimentar no Tipo 2."
+    ],
+    "explicacao_geral": "Manifestação clínica aguda grave.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] No Tipo 1, a falta total de insulina libera a quebra de gordura desenfreada, gerando ácidos (corpos cetônicos) e o cheiro de acetona."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 859,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Um paciente diabético aplica uma dose excessiva de insulina por engano e, em pouco tempo, apresenta sudorese fria, tremores e perda de consciência. Por que o cérebro sofre primeiro na **Hipoglicemia**?",
+    "opcoes": [
+      "A) Porque o cérebro é o único órgão que não gosta de insulina.",
+      "B) Porque os músculos captam toda a glicose via GLUT4 ativado, 'sequestrando' o açúcar e deixando o cérebro sem seu combustível essencial.",
+      "C) Porque a insulina derrete os neurônios diretamente.",
+      "D) Porque o cérebro só consome gordura durante a noite."
+    ],
+    "explicacao_geral": "Mecanismo da hipoglicemia iatrogênica.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O excesso de insulina 'abre todos os portões' dos músculos. Eles sugam a glicose tão rápido que o nível no sangue cai abaixo do que o cérebro precisa para funcionar."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 860,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Um paciente com Diabetes Tipo 2 é aconselhado a realizar caminhadas diárias. Como o **exercício físico** ajuda a controlar a glicemia de forma independente do pílulas ou insulina?",
+    "opcoes": [
+      "A) A contração muscular promove a translocação do GLUT4 para a membrana de forma independente da insulina.",
+      "B) O exercício transforma a glicose em hálito quente.",
+      "C) O suor carrega o açúcar para fora do corpo através da pele.",
+      "D) O exercício faz o pâncreas crescer e fabricar mais insulina do que o normal."
+    ],
+    "explicacao_geral": "Benefícios metabólicos da atividade física.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] É o 'segundo caminho' para o GLUT4. O exercício permite que a glicose entre no músculo mesmo em pacientes com resistência à insulina."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 861,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O metabolismo de ácidos graxos é rigorosamente compartimentalizado para evitar ciclos fúteis. Onde ocorrem a **Beta-Oxidação (Quebra)** e a **Lipogênese (Síntese)**, respectivamente?",
+    "opcoes": [
+      "A) Matriz Mitocondrial e Citossol (Citoplasma).",
+      "B) Lisossomo e Núcleo.",
+      "C) Membrana Plasmática e Ribossomos.",
+      "D) Estômago e Intestino Delgado."
+    ],
+    "explicacao_geral": "Compartimentalização celular do metabolismo lipídico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A quebra ocorre na 'fornalha' mitocondrial para gerar ATP, enquanto a síntese ocorre no citossol, onde os blocos de construção estão disponíveis."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 862,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Para que os ácidos graxos de cadeia longa consigam atravessar a membrana mitocondrial interna e serem oxidados, eles dependem de um sistema de transporte específico. Qual é o nome desse transportador?",
+    "opcoes": [
+      "A) Albumina.",
+      "B) L-Carnitina (Shuttle da Carnitina).",
+      "C) Hemoglobina.",
+      "D) Receptor de Insulina."
+    ],
+    "explicacao_geral": "Transporte mitocondrial de lipídios.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A carnitina funciona como o 'carro' que leva a gordura para dentro da mitocôndria. Sem ela, a queima de gordura fica travada."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 863,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Os corpos cetônicos (acetoacetato, beta-hidroxibutirato e acetona) são combustíveis vitais no jejum prolongado. Qual órgão é o principal **produtor** dessas moléculas e por que ele não as consome?",
+    "opcoes": [
+      "A) O Músculo; porque prefere glicose.",
+      "B) O Cérebro; porque não tem mitocôndrias.",
+      "C) O Fígado; porque produz para exportação mas carece da enzima tioforase para consumi-los.",
+      "D) O Pâncreas; porque eles inibem a insulina."
+    ],
+    "explicacao_geral": "Cetogênese e especificidade tecidual.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O fígado é 'solidário': ele gasta energia para fabricar cetonas para o cérebro e coração, mas ele mesmo não as consome."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 864,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A regulação do metabolismo de lipídios impede que o corpo queime gordura enquanto está sintetizando-a. Qual molécula atua inibindo a entrada de gordura na mitocôndria (via CPT-I) durante a alimentação?",
+    "opcoes": [
+      "A) Glicose livre.",
+      "B) ATP.",
+      "C) Ácido Lático.",
+      "D) Malonil-CoA."
+    ],
+    "explicacao_geral": "Regulação cruzada do metabolismo.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O Malonil-CoA é o primeiro intermediário da síntese. Sua presença avisa a mitocôndria: 'estamos montando gordura, não deixe nada entrar para queimar'."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 865,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Diferencie os cofatores utilizados na **Beta-Oxidação (Quebra)** e na **Lipogênese (Síntese)** de ácidos graxos:",
+    "opcoes": [
+      "A) Quebra: NAD+ e FAD (geram energia); Síntese: NADPH (poder redutor).",
+      "B) Quebra: Oxigênio; Síntese: Gás Carbônico.",
+      "C) Quebra: Insulina; Síntese: Glucagon.",
+      "D) Ambos usam apenas ATP puro."
+    ],
+    "explicacao_geral": "Cofatores das vias metabólicas lipídicas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A quebra 'carrega caminhões' de energia (NAD/FAD), enquanto a síntese 'gasta capital' (NADPH) para construir a molécula."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 866,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Do ponto de vista energético, por que os ácidos graxos (gorduras) fornecem muito mais ATP por grama (9 kcal/g) do que os carboidratos (4 kcal/g)?",
+    "opcoes": [
+      "A) Porque as gorduras são mais pesadas e caem mais rápido na mitocôndria.",
+      "B) Porque os carbonos das gorduras estão em um estado muito mais reduzido que os dos açúcares, permitindo mais oxidações.",
+      "C) Porque a glicose é diluída em água e a gordura não.",
+      "D) Porque o corpo tem vontade própria de queimar gordura primeiro."
+    ],
+    "explicacao_geral": "Bioenergética comparada.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Gordura é quimicamente 'puro combustível'. Cada carbono está saturado de hidrogênios, o que rende muito mais elétrons para a cadeia respiratória."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 867,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual a principal via de controle hormonal sobre a quebra de triacilgliceróis no tecido adiposo (Lipólise) durante o jejum?",
+    "opcoes": [
+      "A) A Insulina ativa a lipase sensível a hormônio.",
+      "B) O Cortisol impede que a gordura saia do adipócito.",
+      "C) O Glucagon (e Adrenalina) ativam a Lipase Sensível a Hormônio via cAMP, liberando ácidos graxos no sangue.",
+      "D) A Vitamina D dissolve a gordura diretamente."
+    ],
+    "explicacao_geral": "Controle hormonal da lipólise.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Em tempos de 'fome' (Glucagon), o corpo abre as comportas do tecido adiposo para alimentar o resto do organismo."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 868,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Paciente diabético Tipo 1 chega em confusão mental e hálito com odor de acetona. O sangue apresenta pH baixo (acidose). Por que o excesso de corpos cetônicos causa esse quadro?",
+    "opcoes": [
+      "A) Porque o acetoacetato e o beta-hidroxibutirato são ácidos orgânicos que, em excesso, superam os sistemas tampão do sangue.",
+      "B) Porque os corpos cetônicos dissolvem os neurônios.",
+      "C) Porque a acetona impede a respiração pulmonar.",
+      "D) Porque o corpo confunde corpos cetônicos com gordura no fígado."
+    ],
+    "explicacao_geral": "Fisiopatologia da Cetoacidose Diabética.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A cetoacidose é o acúmulo desses ácidos produzidos pela quebra descontrolada de gordura na ausência de insulina."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 869,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente apresenta fraqueza muscular severa (miopatia), cãibras frequentes durante o exercício e episódios de hipoglicemia. O diagnóstico revela **Deficiência de Carnitina**. Qual a razão direta para esses sintomas?",
+    "opcoes": [
+      "A) O paciente não consegue absorver açúcar no intestino.",
+      "B) O músculo e o fígado não conseguem transportar ácidos graxos para dentro da mitocôndria para gerar energia.",
+      "C) O corpo produz carnitina demais e intoxica os nervos.",
+      "D) A carnitina é necessária para o coração bater, e aqui ela está faltando."
+    ],
+    "explicacao_geral": "Erros inatos do transporte de lipídios.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Sem o 'carro' (carnitina), a gordura fica parada no citoplasma. O músculo tenta usar só glicose e esgota suas energias rapidamente."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 870,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Durante um jejum prolongado (vários dias), o cérebro deixa de depender exclusivamente da glicose e passa a utilizar corpos cetônicos. Qual a vantagem evolutiva dessa adaptação?",
+    "opcoes": [
+      "A) Fazer a pessoa sentir menos fome.",
+      "B) Impedir que o corpo use gordura nos primeiros dias.",
+      "C) Poupanca de proteínas musculares, pois reduz a necessidade de gliconeogênese a partir de aminoácidos.",
+      "D) Transformar o cérebro em um órgão que não precisa de oxigênio."
+    ],
+    "explicacao_geral": "Adaptação metabólica ao jejum.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Se o cérebro não usasse cetonas, o corpo teria que 'derreter' todos os seus músculos para fabricar glicose via gliconeogênese."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 871,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Qual comportamento demonstra 'Maestria Clínica' em uma estação simulada de dor crônica no joelho?",
+    "opcoes": [
+      "A) Ir direto ao teste de McMurray para mostrar que conhece epônimos difíceis.",
+      "B) Examinar o joelho através da calça jeans do paciente.",
+      "C) Identificar-se, lavar as mãos, pedir consentimento e perguntar qual o joelho dói ANTES de começar a comparação contralateral.",
+      "D) Falar o mínimo possível para economizar o fôlego."
+    ],
+    "explicacao_geral": "A organização reflete o domínio do método clínico.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Este roteiro completo demonstra um médico seguro, respeitoso e metódico, gerando a nota máxima em Atitude Médica."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 872,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No planejamento de exames complementares no ambulatório musculoesquelético, qual a principal diferença de indicação entre a **Radiografia (RX)** e a **Ressonância Magnética (RM)**?",
+    "opcoes": [
+      "A) RX busca prioritariamente alterações ósseas e fraturas; RM avalia melhor partes moles, ligamentos e meniscos.",
+      "B) RM é sempre o primeiro exame para qualquer trauma, por ser mais barata.",
+      "C) RX é usado apenas para ver feridas na pele; RM para ver ossos.",
+      "D) Não há diferença; ambos mostram as mesmas estruturas com a mesma precisão."
+    ],
+    "explicacao_geral": "A escolha do exame depende da densidade do tecido que se quer avaliar.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O RX é excelente para a matriz óssea. A RM, devido à sua capacidade de diferenciar tecidos ricos em água/gordura, é superior para ligamentos e cartilagens.",
+      "B": "[INCORRETA] O RX é quase sempre o exame inicial e é muito mais barato que a RM.",
+      "C": "[INCORRETA] Invertido.",
+      "D": "[INCORRETA] São tecnologias completamente diferentes (radiação ionizante vs campo magnético)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 873,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Durante a anamnese ambulatorial de um paciente com dor musculoesquelética crônica, quais achados são considerados **Red Flags** (Sinais de Alerta) para patologias sistêmicas graves (como câncer ou infecção)?",
+    "opcoes": [
+      "A) Dor que melhora com o repouso e rigidez de 5 minutos.",
+      "B) Dor que acorda o paciente à noite, perda de peso inexplicada e sudorese noturna.",
+      "C) Desconforto apenas ao carregar sacolas pesadas.",
+      "D) Estalido indolor na articulação ao caminhar."
+    ],
+    "explicacao_geral": "Sinais sistêmicos sugerem que a dor não é apenas mecânica local.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Estes sintomas sugerem atividade inflamatória sistêmica, neoplasia ou infecção profunda, exigindo investigação imediata."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 874,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No contexto da dor crônica no ambulatório, o que define a presença de uma **Yellow Flag**?",
+    "opcoes": [
+      "A) Sinal de que a dor é causada por febre amarela.",
+      "B) Indica uma fratura exposta grave.",
+      "C) Fatores biopsicossociais (crenças negativas, medo do movimento, depressão) que aumentam o risco de a dor se tornar crônica/incapacitante.",
+      "D) Indica que o paciente está curado e pode receber alta."
+    ],
+    "explicacao_geral": "Yellow flags referem-se ao prognóstico de cronicidade através da saúde mental e social.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Identificar yellow flags ajuda o médico a entender por que um tratamento físico pode falhar se não houver abordagem emocional/social conjunta."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 875,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um paciente de 35 anos chega ao ambulatório com dor lombar há 15 dias após um esforço físico. Não há déficit neurológico, perda de peso ou febre (Ausência de Red Flags). De acordo com as diretrizes clínicas, qual a conduta em relação ao exame de imagem?",
+    "opcoes": [
+      "A) Solicitar RX e RM de coluna imediatamente para segurança legal.",
+      "B) Não solicitar exames de imagem nas primeiras 4 a 6 semanas e iniciar tratamento sintomático/conservador.",
+      "C) Solicitar Tomografia com contraste de urgência.",
+      "D) Encaminhar para cirurgia de coluna sem exames."
+    ],
+    "explicacao_geral": "A maioria das lombalgias agudas é mecânica-inespecífica e autolimitada.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O excesso de exames precoces em lombalgias comuns gera custos desnecessários e ansiedade no paciente sem mudar o desfecho clínico favorável na esmagadora maioria dos casos."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 876,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Por que é fundamental registrar no prontuário os **dados negativos pertinentes** do exame físico (ex: 'Pulsos pediosos presentes', 'Marcha normal')?",
+    "opcoes": [
+      "A) Apenas para o prontuário ficar mais longo e parecer que o aluno estudou.",
+      "B) Não é necessário registrar o que está normal.",
+      "C) Para confundir o preceptor durante a discussão do caso.",
+      "D) Para documentar que a avaliação foi completa, garantindo segurança jurídica e continuidade lógica do raciocínio clínico."
+    ],
+    "explicacao_geral": "O registro negativo prova que o médico procurou excluir gravidades.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] 'Não vimos o que não procuramos'. Documentar o normal em áreas críticas (como pulsos e nervos) é peça-chave da boa perícia médica."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 877,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Em qual situação ambulatorial a solicitação de uma **Ressonância Magnética da Coluna** torna-se mandatória e prioritária?",
+    "opcoes": [
+      "A) Presença de déficit motor agudo e focal (ex: pé caído) ou suspeita de compressão medular.",
+      "B) Dor muscular leve após academia.",
+      "C) Paciente que deseja o exame apenas por curiosidade.",
+      "D) Lombalgia inespecífica que dura apenas 2 dias."
+    ],
+    "explicacao_geral": "Déficit neurológico objetivo muda a categoria do exame de 'rotina' para 'investigação de urgência'.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A RM é o único exame capaz de detalhar a compressão de raízes nervosas e da medula para planejar uma descompressão cirúrgica se necessário."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 878,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Ao dar alta ambulatorial para um paciente com entorse de tornozelo grau I, quais **Sinais de Alarme** você deve obrigatoriamente orientar que o tragam de volta à emergência?",
+    "opcoes": [
+      "A) A dor sumir completamente em 24 horas.",
+      "B) O tornozelo ficar com a pele levemente amarelada em uma semana.",
+      "C) Dor que piora subitamente, surgimento de febre ou perda de sensibilidade/movimento nos dedos do pé.",
+      "D) Conseguir caminhar sem muletas após 3 dias."
+    ],
+    "explicacao_geral": "Educar o paciente sobre complicações (infecção/síndrome compartimental/isquemia) é dever médico.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Piora do padrão de dor e sinais sistêmicos (febre) indicam que a evolução não é a esperada e exigem reavaliação imediata."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 879,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um homem de 62 anos, fumante inveterado, refere dor lombar há 2 meses. Inicialmente era uma dor leve, mas agora afirma que a dor piora ao deitar e ele não consegue dormir. Perdeu 8 kg no período sem fazer dieta. O exame físico direto da coluna é normal. Qual o raciocínio clínico correto?",
+    "opcoes": [
+      "A) A dor tem alto risco de ser de origem sistêmica/neoplásica (Red Flags positivas), exigindo investigação de imagem e laboratorial urgente.",
+      "B) É apenas uma dor mecânica pela idade, recomendar apenas massagem.",
+      "C) O paciente está exagerando para conseguir aposentadoria.",
+      "D) Como o exame físico da coluna é normal, a coluna está perfeita e não há o que investigar."
+    ],
+    "explicacao_geral": "Red flags superam um exame físico 'normal' na triagem de doenças graves.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Idade avançada + tabagismo + perda de peso + dor noturna formam o cenário clássico de suspeita de metástase vertebral ou neoplasia oculta."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 880,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um atleta de futebol de 19 anos relata que o joelho 'saiu do lugar' durante um drible e agora ele sente que a articulação está 'frouxa' ou 'falseando' ao caminhar. O teste de Lachman é positivo. Qual o exame de imagem mais adequado para confirmar a lesão e planejar a cirurgia?",
+    "opcoes": [
+      "A) Radiografia simples (RX) em 4 incidências.",
+      "B) Ressonância Magnética (RM) do joelho.",
+      "C) Ultrassonografia de partes moles simples.",
+      "D) Densitometria Óssea."
+    ],
+    "explicacao_geral": "Lesão ligamentar intra-articular não aparece no RX.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A RM permite visualizar o ligamento cruzado anterior (LCA) e possíveis lesões meniscais associadas ao trauma rotacional."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 881,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente apresenta os seguintes resultados no painel lipídico: Colesterol Total = 240 mg/dL, HDL = 40 mg/dL e Triglicerídeos = 150 mg/dL. Utilizando a Fórmula de Friedewald, qual o valor estimado do LDL desse paciente?",
+    "opcoes": [
+      "A) 150 mg/dL.",
+      "B) 180 mg/dL.",
+      "C) 170 mg/dL.",
+      "D) 200 mg/dL."
+    ],
+    "explicacao_geral": "Cálculo do LDL via Fórmula de Friedewald.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A fórmula é: LDL = CT - HDL - (TG/5). Logo, LDL = 240 - 40 - (150/5) -> 200 - 30 = 170 mg/dL."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 882,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "As dislipidemias podem ser tratadas com diferentes classes de medicamentos. Qual medicação é a primeira escolha para reduzir o **LDL (colesterol)** e qual é a escolha para reduzir os **Triglicerídeos**, respectivamente?",
+    "opcoes": [
+      "A) Estatinas e Fibratos.",
+      "B) Fibratos e Estatinas.",
+      "C) Insulina e Metformina.",
+      "D) Aspirina e Ibuprofeno."
+    ],
+    "explicacao_geral": "Alvos terapêuticos das dislipidemias.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Estatinas bloqueiam a síntese de colesterol (LDL) e Fibratos ativam a queima de gorduras circulantes (Triglicerídeos)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 883,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Níveis extremamente elevados de Triglicerídeos aumentam o risco de uma emergência médica grave e dolorosa. A partir de qual valor o risco de **Pancreatite Aguda** se torna iminente?",
+    "opcoes": [
+      "A) > 100 mg/dL.",
+      "B) > 150 mg/dL.",
+      "C) > 200 mg/dL.",
+      "D) > 500-1000 mg/dL."
+    ],
+    "explicacao_geral": "Risco de pancreatite por hipertrigliceridemia.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Quando os triglicerídeos superam 500 ou 1000 mg/dL, o sangue torna-se leitoso (lipêmico) e a gordura pode ativar enzimas pancreáticas precocemente, causando autodigestão do órgão."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 884,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A **Hipercolesterolemia Familiar** é uma doença genética grave que causa aterosclerose precoce. Qual a principal falha molecular nesse grupo de pacientes?",
+    "opcoes": [
+      "A) Eles comem gordura demais por ansiedade.",
+      "B) Deficiência ou mau funcionamento dos receptores de LDL no fígado, impedindo a retirada do colesterol do sangue.",
+      "C) Excesso de produção de bile pelo pâncreas.",
+      "D) Incapacidade de digerir açúcares simples."
+    ],
+    "explicacao_geral": "Bases genéticas da dislipidemia familiar.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Como o fígado não tem as 'mãos' (receptores) para puxar o LDL, o colesterol fica circulando em níveis altíssimos desde o nascimento."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 885,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A **Ezetimiba** é frequentemente associada às estatinas no tratamento de LDLs resistentes. Qual o seu mecanismo de ação?",
+    "opcoes": [
+      "A) Destruição química das gorduras no sangue.",
+      "B) Aumento da excreção de gordura pelo suor.",
+      "C) Inibição seletiva da absorção de colesterol no intestino delgado.",
+      "D) Bloqueio da produção de insulina no pâncreas."
+    ],
+    "explicacao_geral": "Farmacologia dos hipolipemiantes.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Ela bloqueia o transporte de colesterol da dieta e da bile para dentro das células intestinais, reduzindo a carga total de colesterol."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 886,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Na investigação de uma dislipidemia, é essencial excluir causas secundárias. Qual distúrbio endócrino é classicamente associado ao aumento do LDL e deve ser tratado antes de se iniciar estatinas?",
+    "opcoes": [
+      "A) Hipotireoidismo.",
+      "B) Hipertireoidismo.",
+      "C) Gigantismo.",
+      "D) Excesso de Vitamina D."
+    ],
+    "explicacao_geral": "Dislipidemias secundárias.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A falta de hormônios tireoidianos reduz a expressão dos receptores de LDL. Muitas vezes, ao normalizar o TSH, o colesterol normaliza sem necessidade de estatina."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 887,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O LDL torna-se verdadeiramente aterogênico (formador de placas) quando sofre uma modificação química específica. Que processo é esse?",
+    "opcoes": [
+      "A) Hidratação do LDL.",
+      "B) Congelamento do LDL.",
+      "C) Oxidação do LDL (provocada por estresse oxidativo, fumo ou diabetes).",
+      "D) Transformação do LDL em proteína muscular."
+    ],
+    "explicacao_geral": "Fisiopatologia da aterogênese.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O LDL oxidado é o que o sistema imune (macrófagos) não reconhece e acaba engolindo de forma descontrolada, formando as células espumosas da placa."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 888,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente masculino, 45 anos, etilista, apresenta dor abdominal em 'barra' no abdome superior. Ao colher o sangue, o enfermeiro nota que o tubo apresenta uma camada superior de aspecto leitoso/branco. Qual a principal suspeita clínica?",
+    "opcoes": [
+      "A) Apendicite aguda por excesso de leite.",
+      "B) Pancreatite Aguda por Hipertrigliceridemia grave.",
+      "C) Infarto do miocárdio causado por gordura no coração.",
+      "D) Cirrose hepática por excesso de queijo."
+    ],
+    "explicacao_geral": "Diagnóstico clínico e laboratorial de hipertrigliceridemia.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O aspecto leitoso (sangue lipêmico) indica triglicerídeos > 1000 mg/dL, o que em conjunto com a dor abdominal 'em barra' é típico de pancreatite."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 889,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Durante o exame físico de um paciente de 30 anos com colesterol muito alto, o médico observa pequenas placas amareladas nas pálpebras superiores e um anel esbranquiçado ao redor da íris. Como se chamam esses sinais, respectivamente?",
+    "opcoes": [
+      "A) Conjuntivite e Glaucoma.",
+      "B) Verruga e Catarata precoce.",
+      "C) Xantelasma e Arco Corneano (Corneal Arcus).",
+      "D) Calázio e Miopia lipídica."
+    ],
+    "explicacao_geral": "Manifestações cutâneas e oculares da dislipidemia.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] São depósitos físicos de lípidos que ocorrem quando os níveis circulantes estão cronicamente muito elevados, como na hipercolesterolemia familiar."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 890,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Paciente obeso apresenta Triglicerídeos = 250 mg/dL, HDL = 32 mg/dL e Glicemia de jejum = 115 mg/dL. Esses achados, associados ao aumento da circunferência abdominal, compõem qual diagnóstico?",
+    "opcoes": [
+      "A) Síndrome Metabólica.",
+      "B) Diabetes Tipo 1 completo.",
+      "C) Anemia Ferropriva aguda.",
+      "D) Hipotiroidismo congênito."
+    ],
+    "explicacao_geral": "Clínica da Síndrome Metabólica.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A Síndrome Metabólica é um conjunto de fatores de risco (TG alto, HDL baixo, Glicemia alterada e obesidade central) que multiplicam o risco cardiovascular."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 891,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "As transaminases são enzimas fundamentais para o diagnóstico de lesão hepatocelular. Qual destas enzimas é considerada a mais específica para o tecido hepático e onde ela se localiza predominantemente na célula?",
+    "opcoes": [
+      "A) AST (TGO), na mitocôndria.",
+      "B) ALT (TGP), no citoplasma (citossol).",
+      "C) LDH, no núcleo.",
+      "D) Amilase, nos ribossomos."
+    ],
+    "explicacao_geral": "Especificidade e localização das aminotransferases.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A ALT é quase exclusiva do fígado. Pequenas lesões na membrana do hepatócito já liberam essa enzima citoplasmática no sangue."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 892,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "As reações de transaminação, que movem grupos amino de um aminoácido para um cetoácido, dependem obrigatoriamente de uma vitamina como cofator. Qual é ela?",
+    "opcoes": [
+      "A) Vitamina C (Ácido Ascórbico).",
+      "B) Vitamina B12 (Cobalamina).",
+      "C) Vitamina B1 (Tiamina).",
+      "D) Vitamina B6 (Piridoxina / Piridoxal-fosfato)."
+    ],
+    "explicacao_geral": "Cofatores enzimáticos no metabolismo proteico.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O PLP (derivado da B6) é o carreador temporário do grupo amino em todas as reações de transaminação."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 893,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O Ciclo da Ureia ocorre quase exclusivamente no fígado. Qual é a principal finalidade fisiológica deste ciclo?",
+    "opcoes": [
+      "A) Converter a amônia (NH3) neurotóxica em ureia inócua e solúvel para excreção renal.",
+      "B) Fabricar novas proteínas musculares a partir de gordura.",
+      "C) Produzir glicose para o cérebro durante o sono.",
+      "D) Filtrar o sangue que vem dos pulmões."
+    ],
+    "explicacao_geral": "Função biológica do ciclo da ureia.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Como a amônia é altamente tóxica para o cérebro, o fígado a neutraliza transformando-a em ureia."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 894,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O **Ciclo Glicose-Alanina** é um mecanismo de integração metabólica. O que acontece durante esse ciclo no estado de jejum?",
+    "opcoes": [
+      "A) O fígado manda alanina para o músculo fabricar ATP.",
+      "B) O músculo envia Alanina ao fígado para desaminação; o esqueleto de carbono vira glicose e o nitrogênio vira ureia.",
+      "C) A glicose é transformada em gordura diretamente no sangue.",
+      "D) O músculo queima uréia para economizar oxigênio."
+    ],
+    "explicacao_geral": "Mecanismo do Ciclo Glicose-Alanina.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] É uma forma do músculo 'limpar' o seu nitrogênio e ao mesmo tempo 'pedir' glicose ao fígado no jejum."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 895,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A amônia livre não pode circular no sangue em grandes quantidades devido à sua toxicidade. Qual aminoácido atua como o principal 'veículo seguro' para transportar amônia dos tecidos periféricos até o fígado?",
+    "opcoes": [
+      "A) Hemoglobina.",
+      "B) Glicina.",
+      "C) Glutamina.",
+      "D) Triptofano."
+    ],
+    "explicacao_geral": "Transporte de nitrogênio na circulação.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A Glutamina carrega dois grupos amino de forma não tóxica, sendo o principal transportador de nitrogênio do corpo."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 896,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Diferencie bioquimicamente as reações de **Transaminação** das reações de **Desaminação Oxidativa**:",
+    "opcoes": [
+      "A) Ambas são exatamente a mesma coisa com nomes diferentes.",
+      "B) Transaminação ocorre no rim e desaminação no cérebro.",
+      "C) Na desaminação não há perda de nitrogênio para o meio.",
+      "D) Na transaminação o grupo amino apenas troca de molécula; na desaminação o grupo amino é liberado como amônia livre (NH3)."
+    ],
+    "explicacao_geral": "Bioquímica do catabolismo de aminoácidos.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A desaminação (via Glutamato Desidrogenase) é o passo que efetivamente libera o nitrogênio para entrar no ciclo da ureia."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 897,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A deficiência de **Ornitina Transcarbamoilase (OTC)** é o distúrbio mais comum do ciclo da ureia. Qual a sua particularidade genética?",
+    "opcoes": [
+      "A) É uma herança Ligada ao Cromossomo X, afetando muito mais gravemente os indivíduos do sexo masculino.",
+      "B) É uma doença que só ocorre em idosos acima de 80 anos.",
+      "C) Só pode ser transmitida pelo pai para as filhas.",
+      "D) É causada pelo excesso de ingestão de vitaminas hidrossolúveis."
+    ],
+    "explicacao_geral": "Genética dos erros inatos do metabolismo.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Diferente das outras enzimas do ciclo (autossômicas), a OTC está no cromossomo X, o que gera quadros clínicos graves em recém-nascidos homens."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 898,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Paciente cirrótico apresenta-se com confusão mental, inversão do ciclo sono-vigília e 'Flapping' (Asterixe) nas mãos. O médico diagnostica **Encefalopatia Hepática**. Qual o principal metabólito responsável por essa neurotoxicidade?",
+    "opcoes": [
+      "A) Glicose alta.",
+      "B) Colesterol elevado.",
+      "C) Amônia (NH3/NH4+) acumulada devido à falha do ciclo da ureia no fígado doente.",
+      "D) Excesso de ferro nos neurônios."
+    ],
+    "explicacao_geral": "Fisiopatologia da encefalopatia hepática.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] No fígado cirrótico, o ciclo da ureia não funciona bem; a amônia sobe, atravessa a barreira hematoencefálica e 'intoxica' os astrócitos."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 899,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Um recém-nascido, aparentemente normal ao nascimento, começa a apresentar vômitos persistentes, letargia intensa e recusa alimentar 48 horas após o início das mamadas. Exames laboratoriais revelam pH sanguíneo normal, mas **Amônia sérica de 1200 µmol/L** (N: < 100). Qual a suspeita diagnóstica principal?",
+    "opcoes": [
+      "A) Diabetes Neonatal agudo.",
+      "B) Defeito enzimático no Ciclo da Ureia precipitado pela ingestão proteica do leite.",
+      "C) Desidratação simples pelo frio.",
+      "D) Alergia à lactose do leite materno."
+    ],
+    "explicacao_geral": "Manifestação neonatal de erros inatos do metabolismo.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O leite é rico em proteínas. Quando o bebê começa a digerí-las, libera amônia que não consegue ser neutralizada pelo ciclo defeituoso."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  },
+  {
+    "id": 900,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Cenário: Um paciente com cirrose hepática estável evolui subitamente com encefalopatia grave após um episódio de **Hemorragia Digestiva Alta (Varizes)**. Por que o sangramento intestinal piora a amônia do paciente?",
+    "opcoes": [
+      "A) Porque o sangue que se perde faz falta no cérebro.",
+      "B) Porque o sangue nas fezes impede a absorção de remédios.",
+      "C) Porque o estresse do sangramento destrói o fígado instantaneamente.",
+      "D) Porque o sangue no intestino é uma 'carga proteica' maciça que é degradada por bactérias, gerando grandes quantidades de amônia."
+    ],
+    "explicacao_geral": "Fatores precipitantes de encefalopatia hepática.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O sangue é proteína. As bactérias do cólon metabolizam a hemoglobina em amônia, que sobrecarrega o fígado já falido."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a10"
+  }
+]

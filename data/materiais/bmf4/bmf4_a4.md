@@ -1,139 +1,92 @@
-# Crânio e Fossas Cranianas
+# BMF4 — Aula 4: Crânio e Fossas Cranianas — A Armadura do Cérebro
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a4
+A anatomia do crânio é a base para entender traumas cranioencefálicos (TCE) e sangramentos cerebrais. Na prova, os temas centrais são as **Fontanelas** no bebê, a localização da **Artéria Meníngea Média** (e o hematoma extradural) e os forames da **Base do Crânio**.
+
+Na prática, o crânio não é apenas um osso sólido; ele é cheio de "buracos" (forames) por onde passam nervos e vasos vitais. Uma fratura na base do crânio pode causar desde a perda do olfato até a paralisia total dos olhos ou da face, dependendo de qual andar (**fossa**) foi atingido.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A anatomia do crânio é essencial para interpretar fraturas no TCE, localizar sangramentos intracranianos e entender a transmissão de tumores pela base do crânio. As fossas cranianas delimitam onde estão os lobos cerebrais e quais estruturas neurovasculares passam por cada forame — tudo cobrado em localizações de lesão nas questões da Uninove.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A4-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de fossas cranianas.
+- **O que mostrar:** O "Prédio do Crânio": Uma visão superior da base do crânio dividida em 3 cores (andares). 1. **Fossa Anterior** (Nervo Olfatório); 2. **Fossa Média** (Nervos dos olhos e Artéria Carótida); 3. **Fossa Posterior** (Bulbo e Cerebelo). Destacar o **Forame Magno** no centro.
+- **Tipo sugerido:** Infográfico didático | Ilustração estilo atlas.
+- **Legenda (rascunho):** Divisão funcional e anatômica da base interna do crânio.
 
+## 1. Neurocrânio vs Viscerocrânio
 
-
-
----
-
-## Divisão do Crânio
-
-O crânio divide-se em dois componentes:
-
-**Neurocrânio:** protege o encéfalo. Formado pelo osso frontal, parietais (2), temporal (2), occipital, esfenoide e etmoide. Há dois tipos de ossificação: membranosa (ossos planos da calota) e endocondral (base do crânio).
-
-**Viscerocrânio:** forma o esqueleto da face. Inclui maxila, mandíbula, zigomático, nasal, lacrimal, palatino, cornetos inferiores e vômer. Maioria derivada de cristas neurais.
-
-> **Dica:** As fontanelas são os pontos de ossificação incompleta nos recém-nascidos. A fontanela anterior (bregma) fecha aos 18 meses; a posterior (lambda) aos 2–3 meses. Fontanela abaulada = HIC; deprimida = desidratação.
+O crânio é dividido em duas partes principais:
+- **Neurocrânio:** A parte que protege o encéfalo. Inclui os ossos **Frontal, Parietais, Temporais, Occipital, Esfenoide e Etmoide**. 
+- **Viscerocrânio:** O esqueleto da face (maxila, mandíbula, zigomático).
+- **Fontanelas (Moleiras):** No bebê, os ossos não estão grudados. A **Fontanela Anterior (Bregma)** fecha por volta dos **18 meses**. Se estiver funda, indica desidratação; se estiver "estufada", indica pressão alta no cérebro.
 
 ---
 
-## Calota Craniana (Abóbada)
+## 2. As Fossas Cranianas (Os 3 Andares)
 
-Vista de cima, a calota apresenta as suturas:
-- **Sutura coronal:** separa o frontal dos parietais.
-- **Sutura sagital:** une os dois parietais na linha mediana.
-- **Sutura lambdoide:** separa os parietais do occipital.
-
-Fraturas da calota:
-- **Linear:** sem desvio, sem sangramento → TC de controle.
-- **Com afundamento:** empurra fragmento para dentro → risco de contusão ou laceração cortical → neurocirurgia.
+A base do crânio é dividida como se fosse um prédio:
+1.  **Fossa Anterior:** Onde ficam os lobos frontais. Contém a **Lâmina Cribriforme**, por onde passam os nervos do olfato (**NC I**). Uma fratura aqui faz o LCR sair pelo nariz (**Rinorreia**).
+2.  **Fossa Média:** Onde fica a **Hipófise** (na **Sela Túrcica**) e o lobo temporal. Contém a maioria dos forames para os nervos dos olhos.
+3.  **Fossa Posterior:** O andar mais baixo. Onde ficam o **Cerebelo e o Tronco Encefálico**. O maior buraco é o **Forame Magno**, por onde o bulbo vira medula.
 
 ---
 
-## Base do Crânio — Fossas Anterior, Média e Posterior
+## 3. A Artéria Meníngea Média: Cuidado com ela!
 
-A base interna do crânio é dividida em 3 andares:
-
-### Fossa Craniana Anterior
-
-Formada pelo osso frontal, lâmina cribriforme do etmoide (nervos olfatórios = NC I) e asa menor do esfenoide. Contém os **lobos frontais** e o **bulbo olfatório**.
-
-Forame relevante: **lâmina cribiforme** — fraturas etmoidais causam rinorreia liquórica (LCR pelo nariz) e anosmia.
-
-### Fossa Craniana Média
-
-Formada pelo corpo e asas maiores do esfenoide e pela porção petrosa do temporal. Aloja o **lobo temporal**, a **sela túrcica** (hipófise) e o **seio cavernoso**.
-
-Forames e estruturas:
-
-| Forame | Conteúdo |
-|--------|---------|
-| Canal óptico | NC II + artéria oftálmica |
-| Fissura orbital superior | NC III, IV, V1, VI + veias oftálmicas |
-| Forame redondo | NC V2 (maxilar) |
-| Forame oval | NC V3 (mandibular) |
-| Forame espinhoso | Artéria meníngea média |
-
-> **Pegadinha:** A artéria meníngea média passa pelo forame espinhoso. Fratura do osso temporal na região pterional → ruptura da artéria meníngea média → hematoma extradural (epidural). Intervalo lúcido + piora = EDH até prova em contrário.
-
-### Fossa Craniana Posterior
-
-Formada pelo osso occipital e mastoide do temporal. Aloja o **cerebelo**, o **tronco encefálico** e o IV ventrículo.
-
-| Forame | Conteúdo |
-|--------|---------|
-| Forame magno | Bulbo → medula, NC XI, artérias vertebrais |
-| Canal hipoglosso | NC XII |
-| Forame jugular | NC IX, X, XI + seio sigmoide |
-| Meato acústico interno | NC VII + VIII |
+Essa artéria passa por um forame bem pequeno na fossa média (forame espinhoso) e fica encostada no osso temporal (na região da têmpora).
+- **Hematoma Extradural (Epidural):** Uma pancada na lateral da cabeça pode quebrar o osso e romper essa artéria.
+- **Clínica:** O sangue se acumula rápido entre o osso e a duramáter. O paciente pode ter um **Intervalo Lúcido** (acorda, conversa e depois "apaga" e entra em coma). É uma **emergência cirúrgica máxima**!
 
 ---
 
-## Seio Cavernoso — Estrutura Chave
+## 4. Seio Cavernoso: O Entroncamento Venoso
 
-O seio cavernoso é um plexo venoso na fossa média, lateral à sela túrcica. Estruturas que o atravessam:
-
-Dentro do seio: NC III, IV, V1, V2, VI e artéria carótida interna.
-
-Trombose do seio cavernoso: proptose, quemose, paralisia de NC III/IV/VI, dor orbitária. Causa: infecção facial (celulite orbitária, sinusite esfenoidal).
-
----
-
-## Pontos-Chave
-
-- Fontanela anterior: fecha 18 meses; posterior: 2–3 meses.
-- Fossa anterior: lobos frontais, NC I, fratura = rinorreia liquórica.
-- Fossa média: lobo temporal, hipófise, seio cavernoso.
-- Artéria meníngea média: forame espinhoso → fratura temporal → hematoma extradural.
-- Fossa posterior: cerebelo + tronco, forame magno (bulbo/medula).
-- Forame jugular: NC IX, X e XI (juntos — lembrar em síndrome do forame jugular).
+O **Seio Cavernoso** é um reservatório de sangue ao lado da sela túrcica. Dentro dele passam:
+- **Nervos Cranianos:** **III, IV, V1, V2 e VI** (todos que movem o olho ou dão sensibilidade à face).
+- **Artéria Carótida Interna.**
+- **Clínica:** Uma infecção no nariz ou olho pode gerar uma **Trombose de Seio Cavernoso**, paralisando todos os movimentos do olho e causando dor intensa.
 
 ---
 
 ## Ponte com a Clínica
 
-Trauma craniano: identificar a fossa lesada orienta o sangramento esperado. Fratura de base anterior = rinorreia = risco de meningite. Fratura temporal = hematoma extradural. Fratura de fossa posterior = comprometimento de tronco e cerebelo. A anatomia de crânio é radiologia aplicada antes de abrir o laudo da TC.
+No trauma, a fratura de base de crânio tem dois sinais clássicos que você deve procurar no exame físico: o **Sinal do Guaxinim** (hematoma ao redor dos olhos) e o **Sinal de Battle** (hematoma atrás da orelha). Se você vir isso, não passe **sonda nasogástrica**, pois a sonda pode atravessar a fratura de base e ir parar direto dentro do cérebro do paciente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Fontanela Anterior**: Fecha aos **18 meses**; é o principal marcador de hidratação/pressão no lactante.
+- **Forame Espinhoso**: Passagem da **Artéria Meníngea Média**; lesão gera hematoma epidural.
+- **Lâmina Cribriforme**: Localizada no osso etmoide; passagem do **Nervo Olfatório (NC I)**.
+- **Forame Magno**: Abertura para a transição do bulbo para a medula espinal.
+- **Sela Túrcica**: Parte do osso esfenoide onde se aloja a glândula **Hipófise**.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Fontanela anterior:** 18 meses. Abaulada = HIC. Deprimida = desidratação.
-- **Artéria meníngea média:** forame espinhoso, fratura temporal → hematoma extradural.
-- **Fissura orbital superior:** NC III, IV, V1, VI — lesão = oftalmoplegia total.
-- **Forame jugular:** NC IX, X, XI — lesão = síndrome do forame jugular.
-- **Fossa posterior:** cerebelo + tronco, forame magno = bulbo/medula.
-- **Rinorreia liquórica:** fratura de etmoide/fossa anterior.**
+
+Para gabaritar a anatomia do crânio, foque nos vasos e nervos. 
+**Frontal/Etmoide** = Olfato. **Temporal** = Audição e Artéria Meníngea Média. **Esfenoide** = Hipófise e nervos do olho. **Occipital** = Equilíbrio (cerebelo) e transição para a medula.
+
+A Uninove adora o **Hematoma Extradural**. Lembre-se: Ele tem formato de **Lente Biconvexa** na TC (parece um limão) e o culpado é a **Artéria Meníngea Média**. Já o hematoma subdural tem formato de **Meia-Lua** (banana) e o culpado são as **Veias Pontes**. Outro ponto forte: Fratura de base de crânio = **Rinorreia** (água pelo nariz) ou **Otorreia** (água pelo ouvido). Por fim, saiba que o **Forame Jugular** é por onde saem os nervos IX, X e XI.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Estrutura A | Estrutura B | Diferença |
-|-------------|-------------|-----------|
-| Hematoma extradural | Hematoma subdural | EDH: artéria meníngea m., lenticular; SDH: veias pontes, em meia-lua |
-| Fontanela anterior | Fontanela posterior | Anterior: bregma, fecha 18m; posterior: lambda, fecha 2–3m |
-| Forame redondo (V2) | Forame oval (V3) | Redondo = maxilar; oval = mandibular |
-| Seio cavernoso | Canal óptico | Cavernoso: NC III,IV,V1,V2,VI; Canal óptico: só NC II + a. oftálmica |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Fontanela Ant.** | **Fontanela Post.** | Fecha em **18 Meses** vs Fecha em **2-3 Meses** |
+| **H. Extradural** | **H. Subdural** | **Artéria** (Limão) vs **Veia** (Banana) |
+| **Fossa Anterior** | **Fossa Posterior** | **Lobo Frontal** vs **Cerebelo/Tronco** |
+| **Neurocrânio** | **Viscerocrânio** | Protege o **Cérebro** vs Forma a **Face** |
+| **Sinartrose** | **Fontanela** | Sutura **Fechada/Osso** vs Espaço **Aberto/Membrana** |
 
 ### Frase-âncora para não esquecer
-> "A meníngea média passa pelo espinhoso — temporal fratura, artéria rompe, sangue entre osso e dura."
+
+> "Moleira funda é sede, moleira alta é pressão. Temporal quebra e a meníngea sangra, o extradural é a complicação. No Etmoide o cheiro desce, no Magno a medula nasce. Quem decora os forames, na prova não padece."

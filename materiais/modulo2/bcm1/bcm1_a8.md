@@ -2,7 +2,7 @@
 
 O câncer é, em última análise, uma doença de controle genético que deu errado. Na prova, o tema central é a diferença entre **Oncogenes** (os aceleradores do câncer) e **Genes Supressores de Tumor** (os freios do câncer), além de como mutações nessas peças levam a tumores como o **Retinoblastoma** ou a **Leucemia Mieloide Crônica**.
 
-Na prática, entender esses mecanismos é o que permite aos médicos usar terapias-alvo (como o Imatinib) que atacam apenas a célula doente, poupando a célula saudável.
+Na prática, entender esses mecanismos é o que permite aos médicos usar **terapias-alvo** (como o **Imatinib**) que atacam apenas a célula doente, poupando a célula saudável.
 
 ---
 
@@ -21,7 +21,7 @@ São genes normais que ajudam a célula a crescer. Quando sofrem mutação, vira
 - **Mecanismos de ativação:**
   - **Mutação Pontual:** Uma letra muda e o gene trava (Ex: Gene **RAS** em 30% dos cânceres).
   - **Amplificação:** A célula faz centenas de cópias do mesmo gene (Ex: **HER2** no câncer de mama).
-  - **Translocação:** Um pedaço de um cromossomo gruda em outro (Ex: **t(9;22)** que cria o gene BCR-ABL na **Leucemia Mieloide Crônica**).
+  - **Translocação:** Um pedaço de um cromossomo gruda em outro (Ex: **t(9;22)** que cria o gene **BCR-ABL** na **Leucemia Mieloide Crônica**).
 
 ---
 
@@ -30,23 +30,23 @@ São genes normais que ajudam a célula a crescer. Quando sofrem mutação, vira
 Eles impedem a célula de crescer se houver algo errado. Para surgir o câncer, você precisa perder os **dois exemplares** (alelos) do gene.
 - **Teoria dos Dois Golpes (Knudson):** No câncer hereditário, você já nasce com um freio quebrado e só precisa quebrar o segundo. No câncer esporádico, você tem que quebrar os dois ao longo da vida.
 - **Principais Genes:**
-  - **P53:** O "Guarda do Genoma". Ele para o ciclo celular se o DNA estiver estragado. Se ele falha, a célula vira câncer.
-  - **RB:** O freio do retinoblastoma.
-  - **BRCA1/BRCA2:** Cuidam do reparo do DNA. Mutação aqui aumenta muito o risco de câncer de mama e ovário.
+  - **P53:** O "**Guarda do Genoma**". Ele para o ciclo celular se o DNA estiver estragado. Se ele falha, a célula vira câncer.
+  - **RB:** O freio do **retinoblastoma**.
+  - **BRCA1/BRCA2:** Cuidam do reparo do DNA. Mutação aqui aumenta muito o risco de **câncer de mama e ovário**.
 
 ---
 
 ## 3. Epigenética e Câncer
 
 Às vezes, o gene não está quebrado, ele só está "amordaçado".
-- **Hipermetilação:** Adicionar muitos grupos metil no promotor de um gene supressor de tumor faz com que ele pare de funcionar (silenciamento). A célula perde o freio sem ter uma mutação real na sequência do DNA.
+- **Hipermetilação:** Adicionar muitos grupos metil no promotor de um gene supressor de tumor faz com que ele pare de funcionar (**silenciamento**). A célula perde o freio sem ter uma mutação real na sequência do DNA.
 
 ---
 
 ## 4. Instabilidade Genômica (O Caos)
 
-- **Instabilidade de Microssatélites (MSI):** Quando o sistema de "corretor ortográfico" do DNA (MMR) falha. Isso acontece na **Síndrome de Lynch** (câncer de intestino hereditário).
-- **Uso Clínico:** Pacientes com tumores que têm essa instabilidade (MSI-H) respondem muito bem à imunoterapia.
+- **Instabilidade de Microssatélites (MSI):** Quando o sistema de "corretor ortográfico" do DNA (**MMR**) falha. Isso acontece na **Síndrome de Lynch** (câncer de intestino hereditário).
+- **Uso Clínico:** Pacientes com tumores que têm essa instabilidade (**MSI-H**) respondem muito bem à **imunoterapia**.
 
 ---
 
@@ -86,7 +86,7 @@ O **P53** é o rei das provas: ele ativa a proteína **P21** para parar o ciclo 
 | **Oncogene** | **Supressor de Tumor** | Estimula o câncer vs **Tenta evitar o câncer** |
 | **P53** | **RB** | Guarda do genoma (DNA) vs **Controlador do checkpoint G1/S** |
 | **BRCA1/2** | **MLH1/MSH2** | Reparo de quebra de DNA vs **Reparo de erro de letra (Mismatch)** |
-| **t(9;22)** | **t(8;14)** | BCR-ABL (LMC) vs **c-myc (Burkitt)** |
+| **t(9;22)** | **t(8;14)** | **BCR-ABL (LMC)** vs **c-myc (Burkitt)** |
 | **Metilação** | **Mutação** | Mudança no "contorno" (Epigenética) vs **Mudança na "letra" (Genética)** |
 
 ### Frase-âncora para não esquecer

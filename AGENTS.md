@@ -7,6 +7,10 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 - **Nome atual:** **MedGradPlus** (interface, prompts, README, comunicação).
 - **Legado:** o repositório GitHub pode manter o nome `MedUni9`; o **Firebase de produção** é **`medgradplus`** (ver [`FIREBASE_E_GIT.md`](FIREBASE_E_GIT.md)). Não tratar `meduni9-869eb` como destino ativo.
 
+## Regras de Operação da IA (CRÍTICO)
+
+1. **Uso do Navegador:** O `browser_subagent` (ou qualquer ferramenta de navegação visual) deve ser utilizado **ESTRITAMENTE e APENAS** quando o usuário solicitar explicitamente. Nunca abrir o navegador para verificações automáticas ou "sanity checks" não solicitados.
+
 ## Ordem de leitura (rápida)
 
 |  ordering | File | Content |
@@ -74,6 +78,32 @@ bash scripts/filter_repo_safe.sh <argumentos>
 O wrapper (`scripts/filter_repo_safe.sh`) faz stash automático se o working tree estiver sujo, roda o filter-repo e depois restaura o stash.
 
 > **Contexto:** Em 2026-04-17 o filter-repo apagou mudanças não commitadas em `data/questoes.json` e `index.html` porque rodou sem stash prévio.
+
+---
+
+## Token Optimization: Graphify Knowledge Graph (⭐ OBRIGATÓRIO)
+
+**Antes de qualquer exploração de código ou leitura de contexto:**
+
+1. **Verificar se `graphify-out/graph.json` existe** no raiz do projeto
+2. **Se existir, usar `graphify query "sua pergunta"` SEMPRE** em vez de ler arquivos brutos
+3. **Nunca** ler múltiplos arquivos se a busca no graph pode resolver
+
+**Economia:** ~90% de tokens ao usar graph vs ler codebase bruto.
+
+**Comandos essenciais:**
+```bash
+# Buscar função/componente/padrão no graph
+graphify query "where is function X defined"
+
+# Encontrar dependências
+graphify query "what calls function X"
+
+# Entender relacionamento
+graphify path "nodeA" "nodeB"
+```
+
+**Validação:** Se `graphify-out/` não existe, rode `graphify update .` primeiro.
 
 ---
 

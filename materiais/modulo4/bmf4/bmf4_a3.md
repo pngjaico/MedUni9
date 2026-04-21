@@ -27,11 +27,11 @@ Cada segmento da medula envia e recebe informações por dois caminhos:
 ## 2. A Contagem: Por que 8 Cervicais?
 
 Temos **31 Pares** de nervos espinais. A pegadinha clássica é:
-- **Cervicais:** 8 pares (C1 a C8). **Atenção:** Temos apenas 7 vértebras, mas 8 nervos (o C1 sai acima da 1ª vértebra e o C8 sai abaixo da 7ª).
-- **Torácicos:** 12 pares (T1 a T12).
-- **Lombares:** 5 pares (L1 a L5).
-- **Sacrais:** 5 pares (S1 a S5).
-- **Coccígeo:** 1 par.
+- **Cervicais:** **8 pares (C1 a C8)**. **Atenção:** Temos apenas **7 vértebras, mas 8 nervos** (o C1 sai acima da 1ª vértebra e o C8 sai abaixo da 7ª).
+- **Torácicos:** **12 pares** (T1 a T12).
+- **Lombares:** **5 pares** (L1 a L5).
+- **Sacrais:** **5 pares** (S1 a S5).
+- **Coccígeo:** **1 par**.
 
 ---
 
@@ -40,7 +40,7 @@ Temos **31 Pares** de nervos espinais. A pegadinha clássica é:
 Um **Dermátomo** é a fatia de pele cuidada por uma única raiz. Decore estes marcos:
 - **T4:** Nível dos **Mamilos**.
 - **T10:** Nível do **Umbigo**.
-- **L5:** Dorso do **Pé** e dedão (hálux).
+- **L5:** Dorso do **Pé** e dedão (**hálux**).
 - **S1:** Planta do pé e **Calcanhar**.
 - **C3, C4, C5:** Inervam o diafragma através do **Nervo Frênico** ("C3, 4, 5 keeps the diaphragm alive"). Se lesionar aqui, o paciente para de respirar.
 
@@ -49,14 +49,14 @@ Um **Dermátomo** é a fatia de pele cuidada por uma única raiz. Decore estes m
 ## 4. Cauda Equina vs Cone Medular
 
 A medula acaba na altura de **L1/L2**. Abaixo disso, o canal vertebral contém apenas raízes nervosas que parecem um rabo de cavalo.
-- **Cone Medular:** É a ponta final da medula sólida (até L2).
+- **Cone Medular:** É a ponta final da medula sólida (até **L2**).
 - **Cauda Equina:** São as raízes soltas abaixo de L2. Uma lesão aqui causa a famosa **Anestesia em Sela** (perda de sensibilidade onde encostamos no selim da bike) e perda de controle da urina.
 
 ---
 
 ## Ponte com a Clínica
 
-No pronto-socorro, se chegar um paciente com uma dor terrível nas costas que desce pela perna até o calcanhar, e ele não consegue ficar na ponta dos pés, você já sabe: a raiz de **S1** está comprimida por uma hérnia de disco. A anatomia te dá o diagnóstico antes mesmo de você olhar a Ressonância Magnética. O exame físico é o "GPS" que te guia até a lesão na coluna.
+No pronto-socorro, se chegar um paciente com uma dor terrível nas costas que desce pela perna até o calcanhar, e ele não consegue ficar na ponta dos pés, você já sabe: a raiz de **S1** está comprimida por uma **hérnia de disco**. A anatomia te dá o diagnóstico antes mesmo de você olhar a Ressonância Magnética. O exame físico é o "GPS" que te guia até a lesão na coluna.
 
 ---
 

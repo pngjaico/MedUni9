@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 2201,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "modulo": 3,
+    "enunciado": "Criança em área de saneamento precário após surto de icterícia associado a água não tratada. Agentes mais esperados no eixo entérico-ictérico são:",
+    "opcoes": [
+      "A) CMV congênito como causa principal desse cenário",
+      "B) Hepatite D sem vírus B",
+      "C) Hepatite A ou E",
+      "D) Apenas hepatite B neonatal sem outras hipóteses"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Surto entérico com icterícia aponta para HAV/HEV; contexto sanitário é pista epidemiológica.",
+    "explicacoes_opcoes": {
+      "A": "CMV congênito não segue esse padrão de surto hídrico descrito.",
+      "B": "HDV exige HBV.",
+      "C": "HAV e HEV seguem lógica fecal-oral.",
+      "D": "HBV perinatal é outro contexto; não é o padrão clássico de surto hídrico comunitário."
+    },
+    "explicacao": "Resumo: Surto entérico com icterícia aponta para HAV/HEV; contexto sanitário é pista epidemiológica.\nA) INCORRETA. CMV congênito não segue esse padrão de surto hídrico descrito.\nB) INCORRETA. HDV exige HBV.\nC) CORRETA. HAV e HEV seguem lógica fecal-oral.\nD) INCORRETA. HBV perinatal é outro contexto; não é o padrão clássico de surto hídrico comunitário.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2202,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Homem de 28 anos relata relação sexual desprotegida há 3 semanas. Sobre o alvo principal do HIV na imunidade adaptativa, qual afirmação está correta?",
+    "opcoes": [
+      "A) O vírus compromete principalmente linfócitos T CD4+.",
+      "B) O principal alvo são neutrófilos maduros na circulação.",
+      "C) A infecção preferencial recai sobre linfócitos B na medula óssea.",
+      "D) O HIV replica-se exclusivamente dentro de macrófagos alveolares."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O HIV infecta preferencialmente células com CD4, com destaque para linfócitos T auxiliares, desorganizando a coordenação da resposta imune.",
+    "explicacoes_opcoes": {
+      "A": "Correta: linfócitos T CD4+ são o principal reservatório e alvo funcional relevante.",
+      "B": "Incorreta: neutrófilos não são o alvo central do HIV na fisiopatologia clássica.",
+      "C": "Incorreta: embora haja papel de linfócitos B na resposta, o eixo central é T CD4.",
+      "D": "Incorreta: macrófagos podem ser infectados, mas não são o único nem o principal alvo descrito."
+    },
+    "explicacao": "Resumo: O HIV infecta preferencialmente células com CD4, com destaque para linfócitos T auxiliares, desorganizando a coordenação da resposta imune.\nA) CORRETA. Correta: linfócitos T CD4+ são o principal reservatório e alvo funcional relevante.\nB) INCORRETA. Incorreta: neutrófilos não são o alvo central do HIV na fisiopatologia clássica.\nC) INCORRETA. Incorreta: embora haja papel de linfócitos B na resposta, o eixo central é T CD4.\nD) INCORRETA. Incorreta: macrófagos podem ser infectados, mas não são o único nem o principal alvo descrito.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2203,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Mulher de 32 anos realiza teste rápido para HIV 12 dias após exposição de risco; resultado não reagente. Qual interpretação é mais adequada?",
+    "opcoes": [
+      "A) Permite afastar HIV de forma definitiva sem novos exames.",
+      "B) Um resultado negativo precoce pode refletir janela diagnóstica; a interpretação depende do tempo desde a exposição e do algoritmo de testagem.",
+      "C) Confirma síndrome retroviral aguda com certeza.",
+      "D) Indica ausência de risco de transmissão sexual futura."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na janela diagnóstica, marcadores podem ainda não ser detectáveis; o timing da exposição muda o significado do teste.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: negativo muito precoce não encerra investigação se o contexto clínico/epidemiológico exige repetição.",
+      "B": "Correta: janela explica falso negativo inicial; seguir protocolo de reteste/acompanhamento.",
+      "C": "Incorreta: o teste isolado não diagnostica síndrome aguda; o quadro clínico é outro eixo.",
+      "D": "Incorreta: risco futuro não é determinado por um único teste nesse intervalo."
+    },
+    "explicacao": "Resumo: Na janela diagnóstica, marcadores podem ainda não ser detectáveis; o timing da exposição muda o significado do teste.\nA) INCORRETA. Incorreta: negativo muito precoce não encerra investigação se o contexto clínico/epidemiológico exige repetição.\nB) CORRETA. Correta: janela explica falso negativo inicial; seguir protocolo de reteste/acompanhamento.\nC) INCORRETA. Incorreta: o teste isolado não diagnostica síndrome aguda; o quadro clínico é outro eixo.\nD) INCORRETA. Incorreta: risco futuro não é determinado por um único teste nesse intervalo.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2207,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual exame laboratorial reflete com maior especificidade a replicação viral do HIV e a resposta ao tratamento antirretroviral?",
+    "opcoes": [
+      "A) Contagem de linfócitos T CD4.",
+      "B) Carga viral (HIV RNA) plasmática.",
+      "C) Dosagem de IgG total.",
+      "D) Hemocultura de rotina."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Carga viral mede replicação; CD4 estima estado imune. Usos clínicos distintos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: CD4 não mede replicação viral diretamente.",
+      "B": "Correta: carga viral acompanha supressão e falha virológica.",
+      "C": "Incorreta: não substitui marcadores virais específicos.",
+      "D": "Incorreta: não é método para HIV."
+    },
+    "explicacao": "Resumo: Carga viral mede replicação; CD4 estima estado imune. Usos clínicos distintos.\nA) INCORRETA. Incorreta: CD4 não mede replicação viral diretamente.\nB) CORRETA. Correta: carga viral acompanha supressão e falha virológica.\nC) INCORRETA. Incorreta: não substitui marcadores virais específicos.\nD) INCORRETA. Incorreta: não é método para HIV.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2208,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente em TARV com boa adesão ouve que 'carga indetectável' significa cura. Qual esclarecimento é mais correto?",
+    "opcoes": [
+      "A) Indetectável prova erradicação viral completa do organismo.",
+      "B) Indetectável elimina qualquer necessidade de acompanhamento laboratorial.",
+      "C) Indetectável indica supressão virológica sustentada, associada a melhor prognóstico e menor transmissão, mas não equivale a cura.",
+      "D) Indetectável autoriza suspender todos os antirretrovirais imediatamente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Supressão virológica não é sinônimo de eliminação do reservatório viral; adesão e monitoramento permanecem centrais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: reservatórios e latência impedem falar em cura só por indetectável.",
+      "B": "Incorreta: seguimento continua necessário.",
+      "C": "Correta: interpretação correta do marcador.",
+      "D": "Incorreta: interrupção não é conduta baseada em indetectável isolado."
+    },
+    "explicacao": "Resumo: Supressão virológica não é sinônimo de eliminação do reservatório viral; adesão e monitoramento permanecem centrais.\nA) INCORRETA. Incorreta: reservatórios e latência impedem falar em cura só por indetectável.\nB) INCORRETA. Incorreta: seguimento continua necessário.\nC) CORRETA. Correta: interpretação correta do marcador.\nD) INCORRETA. Incorreta: interrupção não é conduta baseada em indetectável isolado.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2210,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Sobre a utilidade da contagem de linfócitos T CD4 no seguimento de pessoas vivendo com HIV, assinale a afirmação correta.",
+    "opcoes": [
+      "A) Ajuda a estimar o grau de imunossupressão e o risco de doenças oportunistas.",
+      "B) Substitui integralmente a carga viral em qualquer decisão terapêutica.",
+      "C) Mede diretamente a taxa de replicação viral por mL.",
+      "D) Torna-se irrelevante após o primeiro ano de TARV em todos os casos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "CD4 informa estado imune e risco clínico; não deve ser confundido com carga viral.",
+    "explicacoes_opcoes": {
+      "A": "Correta: uso clássico do marcador.",
+      "B": "Incorreta: marcadores são complementares.",
+      "C": "Incorreta: replicação é avaliada por carga viral.",
+      "D": "Incorreta: seguimento individualizado pode manter relevância."
+    },
+    "explicacao": "Resumo: CD4 informa estado imune e risco clínico; não deve ser confundido com carga viral.\nA) CORRETA. Correta: uso clássico do marcador.\nB) INCORRETA. Incorreta: marcadores são complementares.\nC) INCORRETA. Incorreta: replicação é avaliada por carga viral.\nD) INCORRETA. Incorreta: seguimento individualizado pode manter relevância.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2212,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Aldosteronismo primário” está correta?",
+    "opcoes": [
+      "A) (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "B) Característica — Hipotireoidismo — Hipertireoidismo",
+      "C) Hipertireoidismo:: HAS sistólica + taquicardia + tremor.",
+      "D) MEN2B — Ca medular tireóide + Feo + Neuromas mucosos mucosos — -"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aldosteronismo primário”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "B": "Incorreta: Característica — Hipotireoidismo — Hipertireoidismo",
+      "C": "Incorreta: Hipertireoidismo:: HAS sistólica + taquicardia + tremor.",
+      "D": "Incorreta: MEN2B — Ca medular tireóide + Feo + Neuromas mucosos mucosos — -"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aldosteronismo primário”.\nA) CORRETA. Correta: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.\nB) INCORRETA. Incorreta: Característica — Hipotireoidismo — Hipertireoidismo\nC) INCORRETA. Incorreta: Hipertireoidismo:: HAS sistólica + taquicardia + tremor.\nD) INCORRETA. Incorreta: MEN2B — Ca medular tireóide + Feo + Neuromas mucosos mucosos — -",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2219,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Pele” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "B) Característica — Hipotireoidismo — Hipertireoidismo",
+      "C) Hipertireoidismo:: HAS sistólica + taquicardia + tremor.",
+      "D) Pele — Seca, fria, mixedema — Úmida, quente"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Pele” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "B": "Incorreta: Característica — Hipotireoidismo — Hipertireoidismo",
+      "C": "Incorreta: Hipertireoidismo:: HAS sistólica + taquicardia + tremor.",
+      "D": "Correta: Pele — Seca, fria, mixedema — Úmida, quente"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pele” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.\nB) INCORRETA. Incorreta: Característica — Hipotireoidismo — Hipertireoidismo\nC) INCORRETA. Incorreta: Hipertireoidismo:: HAS sistólica + taquicardia + tremor.\nD) CORRETA. Correta: Pele — Seca, fria, mixedema — Úmida, quente",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2220,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Hipertireoidismo:” está correta?",
+    "opcoes": [
+      "A) HAS sistólica + taquicardia + tremor.",
+      "B) Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "C) Característica — Hipotireoidismo — Hipertireoidismo",
+      "D) MEN2B — Ca medular tireóide + Feo + Neuromas mucosos mucosos — -"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipertireoidismo:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: HAS sistólica + taquicardia + tremor.",
+      "B": "Incorreta: Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "C": "Incorreta: Característica — Hipotireoidismo — Hipertireoidismo",
+      "D": "Incorreta: MEN2B — Ca medular tireóide + Feo + Neuromas mucosos mucosos — -"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipertireoidismo:”.\nA) CORRETA. Correta: HAS sistólica + taquicardia + tremor.\nB) INCORRETA. Incorreta: Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.\nC) INCORRETA. Incorreta: Característica — Hipotireoidismo — Hipertireoidismo\nD) INCORRETA. Incorreta: MEN2B — Ca medular tireóide + Feo + Neuromas mucosos mucosos — -",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2221,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual alternativa associa corretamente “TSH” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Característica — Hipotireoidismo — Hipertireoidismo",
+      "B) Hipertireoidismo:: HAS sistólica + taquicardia + tremor.",
+      "C) TSH — Alto (1ário) — Baixo",
+      "D) Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “TSH” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Característica — Hipotireoidismo — Hipertireoidismo",
+      "B": "Incorreta: Hipertireoidismo:: HAS sistólica + taquicardia + tremor.",
+      "C": "Correta: TSH — Alto (1ário) — Baixo",
+      "D": "Incorreta: Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “TSH” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Característica — Hipotireoidismo — Hipertireoidismo\nB) INCORRETA. Incorreta: Hipertireoidismo:: HAS sistólica + taquicardia + tremor.\nC) CORRETA. Correta: TSH — Alto (1ário) — Baixo\nD) INCORRETA. Incorreta: Aldosteronismo primário: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2222,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Aldosteronismo primário” está correta?",
+    "opcoes": [
+      "A) (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "B) Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+      "C) MEN1 = 3P:: pituitária + paratireoide + pâncreas.",
+      "D) Hipotireoidismo:: HAS diastólica + bradicardia + mixedema."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aldosteronismo primário”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.",
+      "B": "Incorreta: Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+      "C": "Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas.",
+      "D": "Incorreta: Hipotireoidismo:: HAS diastólica + bradicardia + mixedema."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aldosteronismo primário”.\nA) CORRETA. Correta: (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.\nB) INCORRETA. Incorreta: Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.\nC) INCORRETA. Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas.\nD) INCORRETA. Incorreta: Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2224,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual afirmação sobre “Feocromocitoma:” está correta?",
+    "opcoes": [
+      "A) Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.",
+      "B) Hipotireoidismo primário — Hipotireoidismo secundário — Primário: TSH alto; secundário: TSH baixo",
+      "C) crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+      "D) MEN1 = 3P:: pituitária + paratireoide + pâncreas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Feocromocitoma:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.",
+      "B": "Incorreta: Hipotireoidismo primário — Hipotireoidismo secundário — Primário: TSH alto; secundário: TSH baixo",
+      "C": "Correta: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+      "D": "Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Feocromocitoma:”.\nA) INCORRETA. Incorreta: Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.\nB) INCORRETA. Incorreta: Hipotireoidismo primário — Hipotireoidismo secundário — Primário: TSH alto; secundário: TSH baixo\nC) CORRETA. Correta: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.\nD) INCORRETA. Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2227,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual alternativa associa corretamente “Peso” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.",
+      "B) Peso — Aumento — Perda",
+      "C) Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+      "D) MEN1 = 3P:: pituitária + paratireoide + pâncreas."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Peso” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.",
+      "B": "Correta: Peso — Aumento — Perda",
+      "C": "Incorreta: Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+      "D": "Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Peso” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hipotireoidismo:: HAS diastólica + bradicardia + mixedema.\nB) CORRETA. Correta: Peso — Aumento — Perda\nC) INCORRETA. Incorreta: Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.\nD) INCORRETA. Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2228,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Hipotireoidismo:” está correta?",
+    "opcoes": [
+      "A) MEN1 = 3P:: pituitária + paratireoide + pâncreas.",
+      "B) Hipotireoidismo primário — Hipotireoidismo secundário — Primário: TSH alto; secundário: TSH baixo",
+      "C) HAS diastólica + bradicardia + mixedema.",
+      "D) Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipotireoidismo:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas.",
+      "B": "Incorreta: Hipotireoidismo primário — Hipotireoidismo secundário — Primário: TSH alto; secundário: TSH baixo",
+      "C": "Correta: HAS diastólica + bradicardia + mixedema.",
+      "D": "Incorreta: Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hipotireoidismo:”.\nA) INCORRETA. Incorreta: MEN1 = 3P:: pituitária + paratireoide + pâncreas.\nB) INCORRETA. Incorreta: Hipotireoidismo primário — Hipotireoidismo secundário — Primário: TSH alto; secundário: TSH baixo\nC) CORRETA. Correta: HAS diastólica + bradicardia + mixedema.\nD) INCORRETA. Incorreta: Feocromocitoma:: crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2232,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Universalidade:” está correta?",
+    "opcoes": [
+      "A) todo trabalhador, formal ou informal.",
+      "B) CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "C) Territorialidade:: articulação com os serviços locais.",
+      "D) Média e Alta Complexidade: hospitais e serviços especializados."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Universalidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: todo trabalhador, formal ou informal.",
+      "B": "Incorreta: CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "C": "Incorreta: Territorialidade:: articulação com os serviços locais.",
+      "D": "Incorreta: Média e Alta Complexidade: hospitais e serviços especializados."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Universalidade:”.\nA) CORRETA. Correta: todo trabalhador, formal ou informal.\nB) INCORRETA. Incorreta: CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.\nC) INCORRETA. Incorreta: Territorialidade:: articulação com os serviços locais.\nD) INCORRETA. Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2237,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Acidente de trabalho” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Média e Alta Complexidade: hospitais e serviços especializados.",
+      "B) Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "C) CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "D) Territorialidade:: articulação com os serviços locais."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Acidente de trabalho” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.",
+      "B": "Correta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "C": "Incorreta: CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "D": "Incorreta: Territorialidade:: articulação com os serviços locais."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Acidente de trabalho” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.\nB) CORRETA. Correta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual\nC) INCORRETA. Incorreta: CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.\nD) INCORRETA. Incorreta: Territorialidade:: articulação com os serviços locais.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2238,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Territorialidade:” está correta?",
+    "opcoes": [
+      "A) Média e Alta Complexidade: hospitais e serviços especializados.",
+      "B) Integralidade:: articula promoção, prevenção, assistência e reabilitação.",
+      "C) articulação com os serviços locais.",
+      "D) CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Territorialidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.",
+      "B": "Incorreta: Integralidade:: articula promoção, prevenção, assistência e reabilitação.",
+      "C": "Correta: articulação com os serviços locais.",
+      "D": "Incorreta: CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Territorialidade:”.\nA) INCORRETA. Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.\nB) INCORRETA. Incorreta: Integralidade:: articula promoção, prevenção, assistência e reabilitação.\nC) CORRETA. Correta: articulação com os serviços locais.\nD) INCORRETA. Incorreta: CEREST: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2240,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual afirmação sobre “CEREST” está correta?",
+    "opcoes": [
+      "A) (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "B) Territorialidade:: articulação com os serviços locais.",
+      "C) Média e Alta Complexidade: hospitais e serviços especializados.",
+      "D) Integralidade:: articula promoção, prevenção, assistência e reabilitação."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “CEREST”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "B": "Incorreta: Territorialidade:: articulação com os serviços locais.",
+      "C": "Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.",
+      "D": "Incorreta: Integralidade:: articula promoção, prevenção, assistência e reabilitação."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “CEREST”.\nA) CORRETA. Correta: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.\nB) INCORRETA. Incorreta: Territorialidade:: articulação com os serviços locais.\nC) INCORRETA. Incorreta: Média e Alta Complexidade: hospitais e serviços especializados.\nD) INCORRETA. Incorreta: Integralidade:: articula promoção, prevenção, assistência e reabilitação.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2242,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Universalidade:” está correta?",
+    "opcoes": [
+      "A) todo trabalhador, formal ou informal.",
+      "B) CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "C) Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "D) Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Universalidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: todo trabalhador, formal ou informal.",
+      "B": "Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "C": "Incorreta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "D": "Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Universalidade:”.\nA) CORRETA. Correta: todo trabalhador, formal ou informal.\nB) INCORRETA. Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador\nC) INCORRETA. Incorreta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual\nD) INCORRETA. Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2247,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Acidente de trabalho” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PNSTT:: universal (formal + informal), integral, equânime.",
+      "B) Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "C) CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "D) Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Acidente de trabalho” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PNSTT:: universal (formal + informal), integral, equânime.",
+      "B": "Correta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "C": "Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "D": "Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Acidente de trabalho” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PNSTT:: universal (formal + informal), integral, equânime.\nB) CORRETA. Correta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual\nC) INCORRETA. Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador\nD) INCORRETA. Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2249,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual alternativa associa corretamente “CAT” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "B) Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "C) Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.",
+      "D) CAT — SINAN — CAT: acidente de trabalho (previdência); SINAN: agravos de notificação (saúde pública"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “CAT” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "B": "Incorreta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "C": "Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.",
+      "D": "Correta: CAT — SINAN — CAT: acidente de trabalho (previdência); SINAN: agravos de notificação (saúde pública"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “CAT” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador\nB) INCORRETA. Incorreta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual\nC) INCORRETA. Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.\nD) CORRETA. Correta: CAT — SINAN — CAT: acidente de trabalho (previdência); SINAN: agravos de notificação (saúde pública",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2250,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “CEREST” está correta?",
+    "opcoes": [
+      "A) (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "B) CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "C) Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "D) Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “CEREST”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.",
+      "B": "Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador",
+      "C": "Incorreta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual",
+      "D": "Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “CEREST”.\nA) CORRETA. Correta: (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.\nB) INCORRETA. Incorreta: CEREST — UBS — CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador\nC) INCORRETA. Incorreta: Acidente de trabalho — Doença ocupacional — Acidente: evento súbito; doença: processo gradual\nD) INCORRETA. Incorreta: Atenção Básica: porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2252,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Admissional:” está correta?",
+    "opcoes": [
+      "A) antes do início das atividades.",
+      "B) Demissional:: até a data da homologação da demissão.",
+      "C) Exame admissional:: ANTES de iniciar atividades.",
+      "D) NR-15:: insalubridade — adicional de 10%, 20% ou 40%."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Admissional:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: antes do início das atividades.",
+      "B": "Incorreta: Demissional:: até a data da homologação da demissão.",
+      "C": "Incorreta: Exame admissional:: ANTES de iniciar atividades.",
+      "D": "Incorreta: NR-15:: insalubridade — adicional de 10%, 20% ou 40%."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Admissional:”.\nA) CORRETA. Correta: antes do início das atividades.\nB) INCORRETA. Incorreta: Demissional:: até a data da homologação da demissão.\nC) INCORRETA. Incorreta: Exame admissional:: ANTES de iniciar atividades.\nD) INCORRETA. Incorreta: NR-15:: insalubridade — adicional de 10%, 20% ou 40%.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2258,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Mudança de função:” está correta?",
+    "opcoes": [
+      "A) Demissional:: até a data da homologação da demissão.",
+      "B) Exame admissional:: ANTES de iniciar atividades.",
+      "C) sempre que houver alteração de exposição a risco.",
+      "D) Admissional:: antes do início das atividades."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança de função:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Demissional:: até a data da homologação da demissão.",
+      "B": "Incorreta: Exame admissional:: ANTES de iniciar atividades.",
+      "C": "Correta: sempre que houver alteração de exposição a risco.",
+      "D": "Incorreta: Admissional:: antes do início das atividades."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança de função:”.\nA) INCORRETA. Incorreta: Demissional:: até a data da homologação da demissão.\nB) INCORRETA. Incorreta: Exame admissional:: ANTES de iniciar atividades.\nC) CORRETA. Correta: sempre que houver alteração de exposição a risco.\nD) INCORRETA. Incorreta: Admissional:: antes do início das atividades.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2259,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “NR-15” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Admissional:: antes do início das atividades.",
+      "B) Demissional:: até a data da homologação da demissão.",
+      "C) Exame admissional:: ANTES de iniciar atividades.",
+      "D) NR-15 — NR-16 — NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “NR-15” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Admissional:: antes do início das atividades.",
+      "B": "Incorreta: Demissional:: até a data da homologação da demissão.",
+      "C": "Incorreta: Exame admissional:: ANTES de iniciar atividades.",
+      "D": "Correta: NR-15 — NR-16 — NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “NR-15” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Admissional:: antes do início das atividades.\nB) INCORRETA. Incorreta: Demissional:: até a data da homologação da demissão.\nC) INCORRETA. Incorreta: Exame admissional:: ANTES de iniciar atividades.\nD) CORRETA. Correta: NR-15 — NR-16 — NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2260,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Demissional:” está correta?",
+    "opcoes": [
+      "A) até a data da homologação da demissão.",
+      "B) Admissional:: antes do início das atividades.",
+      "C) Exame admissional:: ANTES de iniciar atividades.",
+      "D) NR-15:: insalubridade — adicional de 10%, 20% ou 40%."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Demissional:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: até a data da homologação da demissão.",
+      "B": "Incorreta: Admissional:: antes do início das atividades.",
+      "C": "Incorreta: Exame admissional:: ANTES de iniciar atividades.",
+      "D": "Incorreta: NR-15:: insalubridade — adicional de 10%, 20% ou 40%."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Demissional:”.\nA) CORRETA. Correta: até a data da homologação da demissão.\nB) INCORRETA. Incorreta: Admissional:: antes do início das atividades.\nC) INCORRETA. Incorreta: Exame admissional:: ANTES de iniciar atividades.\nD) INCORRETA. Incorreta: NR-15:: insalubridade — adicional de 10%, 20% ou 40%.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2263,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual alternativa associa corretamente “Insalubridade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+      "B) Insalubridade — Periculosidade — Insalubridade: risco à saúde a longo prazo; periculosidade: risco imediato de morte",
+      "C) NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+      "D) NR-16:: periculosidade — adicional de 30% do salário-base."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Insalubridade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+      "B": "Correta: Insalubridade — Periculosidade — Insalubridade: risco à saúde a longo prazo; periculosidade: risco imediato de morte",
+      "C": "Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+      "D": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Insalubridade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.\nB) CORRETA. Correta: Insalubridade — Periculosidade — Insalubridade: risco à saúde a longo prazo; periculosidade: risco imediato de morte\nC) INCORRETA. Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).\nD) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2267,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Exame admissional” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+      "B) Exame admissional — Exame periódico — Admissional: antes de entrar; periódico: durante o vínculo",
+      "C) NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+      "D) NR-16:: periculosidade — adicional de 30% do salário-base."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Exame admissional” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+      "B": "Correta: Exame admissional — Exame periódico — Admissional: antes de entrar; periódico: durante o vínculo",
+      "C": "Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+      "D": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Exame admissional” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.\nB) CORRETA. Correta: Exame admissional — Exame periódico — Admissional: antes de entrar; periódico: durante o vínculo\nC) INCORRETA. Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).\nD) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2268,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Mudança de função:” está correta?",
+    "opcoes": [
+      "A) NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "B) NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+      "C) sempre que houver alteração de exposição a risco.",
+      "D) NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%)."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança de função:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "B": "Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+      "C": "Correta: sempre que houver alteração de exposição a risco.",
+      "D": "Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança de função:”.\nA) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.\nB) INCORRETA. Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.\nC) CORRETA. Correta: sempre que houver alteração de exposição a risco.\nD) INCORRETA. Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2270,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Demissional:” está correta?",
+    "opcoes": [
+      "A) até a data da homologação da demissão.",
+      "B) NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+      "C) NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "D) NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Demissional:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: até a data da homologação da demissão.",
+      "B": "Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).",
+      "C": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "D": "Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Demissional:”.\nA) CORRETA. Correta: até a data da homologação da demissão.\nB) INCORRETA. Incorreta: NR-15:: insalubridade (10/20/40%); NR-16: periculosidade (30%).\nC) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.\nD) INCORRETA. Incorreta: NR-7 = PCMSO:: exames admissional, periódico, retorno, mudança de função, demissional.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2272,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Admissional:” está correta?",
+    "opcoes": [
+      "A) antes do início das atividades.",
+      "B) NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "C) Retorno ao trabalho:: após afastamento > 30 dias.",
+      "D) NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Admissional:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: antes do início das atividades.",
+      "B": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "C": "Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.",
+      "D": "Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Admissional:”.\nA) CORRETA. Correta: antes do início das atividades.\nB) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.\nC) INCORRETA. Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.\nD) INCORRETA. Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2277,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Exame admissional” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+      "B) Exame admissional — Exame periódico — Admissional: antes de entrar; periódico: durante o vínculo",
+      "C) NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "D) Retorno ao trabalho:: após afastamento > 30 dias."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Exame admissional” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+      "B": "Correta: Exame admissional — Exame periódico — Admissional: antes de entrar; periódico: durante o vínculo",
+      "C": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "D": "Incorreta: Retorno ao trabalho:: após afastamento > 30 dias."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Exame admissional” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.\nB) CORRETA. Correta: Exame admissional — Exame periódico — Admissional: antes de entrar; periódico: durante o vínculo\nC) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.\nD) INCORRETA. Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2278,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Mudança de função:” está correta?",
+    "opcoes": [
+      "A) Retorno ao trabalho:: após afastamento > 30 dias.",
+      "B) NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+      "C) sempre que houver alteração de exposição a risco.",
+      "D) NR-16:: periculosidade — adicional de 30% do salário-base."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança de função:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.",
+      "B": "Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+      "C": "Correta: sempre que houver alteração de exposição a risco.",
+      "D": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança de função:”.\nA) INCORRETA. Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.\nB) INCORRETA. Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.\nC) CORRETA. Correta: sempre que houver alteração de exposição a risco.\nD) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2279,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “NR-15” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "B) Retorno ao trabalho:: após afastamento > 30 dias.",
+      "C) NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+      "D) NR-15 — NR-16 — NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “NR-15” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.",
+      "B": "Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.",
+      "C": "Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.",
+      "D": "Correta: NR-15 — NR-16 — NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “NR-15” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NR-16:: periculosidade — adicional de 30% do salário-base.\nB) INCORRETA. Incorreta: Retorno ao trabalho:: após afastamento > 30 dias.\nC) INCORRETA. Incorreta: NR-9 = PPRA/PGRO:: riscos físicos, químicos, biológicos.\nD) CORRETA. Correta: NR-15 — NR-16 — NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2282,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual afirmação sobre “PEP HIV:” está correta?",
+    "opcoes": [
+      "A) iniciar em até 72h; durar 28 dias; TDF + 3TC + DTG.",
+      "B) HCV:: sem PEP; monitorar por 6 meses.",
+      "C) Sífilis congênita:: indicador de qualidade do pré-natal.",
+      "D) Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PEP HIV:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: iniciar em até 72h; durar 28 dias; TDF + 3TC + DTG.",
+      "B": "Incorreta: HCV:: sem PEP; monitorar por 6 meses.",
+      "C": "Incorreta: Sífilis congênita:: indicador de qualidade do pré-natal.",
+      "D": "Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PEP HIV:”.\nA) CORRETA. Correta: iniciar em até 72h; durar 28 dias; TDF + 3TC + DTG.\nB) INCORRETA. Incorreta: HCV:: sem PEP; monitorar por 6 meses.\nC) INCORRETA. Incorreta: Sífilis congênita:: indicador de qualidade do pré-natal.\nD) INCORRETA. Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2287,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual alternativa associa corretamente “SINITOX” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+      "B) SINITOX — Intoxicações e envenenamentos",
+      "C) HCV:: sem PEP; monitorar por 6 meses.",
+      "D) Sífilis congênita:: indicador de qualidade do pré-natal."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “SINITOX” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+      "B": "Correta: SINITOX — Intoxicações e envenenamentos",
+      "C": "Incorreta: HCV:: sem PEP; monitorar por 6 meses.",
+      "D": "Incorreta: Sífilis congênita:: indicador de qualidade do pré-natal."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “SINITOX” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal)\nB) CORRETA. Correta: SINITOX — Intoxicações e envenenamentos\nC) INCORRETA. Incorreta: HCV:: sem PEP; monitorar por 6 meses.\nD) INCORRETA. Incorreta: Sífilis congênita:: indicador de qualidade do pré-natal.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2288,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “SINAN:” está correta?",
+    "opcoes": [
+      "A) Sífilis congênita:: indicador de qualidade do pré-natal.",
+      "B) Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+      "C) sistema de notificação de agravos.",
+      "D) HCV:: sem PEP; monitorar por 6 meses."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “SINAN:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sífilis congênita:: indicador de qualidade do pré-natal.",
+      "B": "Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+      "C": "Correta: sistema de notificação de agravos.",
+      "D": "Incorreta: HCV:: sem PEP; monitorar por 6 meses."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “SINAN:”.\nA) INCORRETA. Incorreta: Sífilis congênita:: indicador de qualidade do pré-natal.\nB) INCORRETA. Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal)\nC) CORRETA. Correta: sistema de notificação de agravos.\nD) INCORRETA. Incorreta: HCV:: sem PEP; monitorar por 6 meses.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2290,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Qual afirmação sobre “Sífilis congênita:” está correta?",
+    "opcoes": [
+      "A) indicador de qualidade do pré-natal.",
+      "B) HCV:: sem PEP; monitorar por 6 meses.",
+      "C) Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+      "D) SINAN — CAT — SINAN: saúde pública (VE); CAT: previdência (INSS"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sífilis congênita:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: indicador de qualidade do pré-natal.",
+      "B": "Incorreta: HCV:: sem PEP; monitorar por 6 meses.",
+      "C": "Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal",
+      "D": "Incorreta: SINAN — CAT — SINAN: saúde pública (VE); CAT: previdência (INSS"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sífilis congênita:”.\nA) CORRETA. Correta: indicador de qualidade do pré-natal.\nB) INCORRETA. Incorreta: HCV:: sem PEP; monitorar por 6 meses.\nC) INCORRETA. Incorreta: Sífilis primária — Sífilis congênita — Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal)\nD) INCORRETA. Incorreta: SINAN — CAT — SINAN: saúde pública (VE); CAT: previdência (INSS",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2292,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Homem de 24 anos chega ao PS com dor iniciada em epigastrio ha cerca de 10 horas, agora localizada em fossa iliaca direita, com anorexia e piora ao caminhar. Qual hipotese semiologica fica mais provavel no primeiro atendimento?",
+    "opcoes": [
+      "A) Diverticulite de ceco com quadro inicial semelhante",
+      "B) Colica ureteral direita sem irritacao peritoneal",
+      "C) Apendicite aguda em fase evolutiva",
+      "D) Gastroenterite viral com dor abdominal difusa"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A migracao da dor do epigastrio para a fossa iliaca direita, associada a anorexia e dor a mobilizacao, compoe padrao classico de apendicite em evolucao.",
+    "explicacoes_opcoes": {
+      "A": "Diverticulite cecal pode doer em quadrante inferior direito, mas costuma nao apresentar a sequencia tipica de migracao descrita no caso.",
+      "B": "Colica ureteral costuma cursar com dor lombar irradiada e inquietacao, nao com piora franca a deambulacao por irritacao peritoneal localizada.",
+      "C": "O conjunto temporal e topografico descrito e o mais compativel com apendicite aguda no estagio inicial-evolutivo.",
+      "D": "Gastroenterite geralmente cursa com dor mais difusa e diarreia, sem esse padrao de localizacao progressiva."
+    },
+    "explicacao": "A migracao da dor do epigastrio para a fossa iliaca direita, associada a anorexia e dor a mobilizacao, compoe padrao classico de apendicite em evolucao.\nA) Diverticulite cecal pode doer em quadrante inferior direito, mas costuma nao apresentar a sequencia tipica de migracao descrita no caso.\nB) Colica ureteral costuma cursar com dor lombar irradiada e inquietacao, nao com piora franca a deambulacao por irritacao peritoneal localizada.\nC) O conjunto temporal e topografico descrito e o mais compativel com apendicite aguda no estagio inicial-evolutivo.\nD) Gastroenterite geralmente cursa com dor mais difusa e diarreia, sem esse padrao de localizacao progressiva.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2293,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Na triagem de dor abdominal aguda, qual relato da historia aumenta mais a suspeita de irritacao peritoneal e exige avaliacao imediata?",
+    "opcoes": [
+      "A) Desconforto pos-prandial leve, sem progressao nas ultimas horas",
+      "B) Dor que piora em pequenos movimentos, com paciente evitando mudar de posicao na maca",
+      "C) Dor recorrente ha meses com alivio apos evacuar",
+      "D) Episodios esporadicos de queimação epigastrica sem sinais sistêmicos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Dor agravada por movimentos minimos sugere inflamacao peritoneal, situacao associada a maior risco de abdome agudo cirurgico.",
+    "explicacoes_opcoes": {
+      "A": "Queixa pos-prandial leve e estavel aponta mais para causa funcional ou biliar nao complicada do que para peritonismo.",
+      "B": "Esse comportamento antalgico e tipico de irritacao peritoneal, pois qualquer mobilizacao amplia a dor.",
+      "C": "Padrao cronico com alivio apos evacuar sugere disturbio funcional intestinal, nao urgencia inflamatoria difusa.",
+      "D": "Pirose esporadica isolada nao traduz, por si, quadro peritoneal agudo."
+    },
+    "explicacao": "Dor agravada por movimentos minimos sugere inflamacao peritoneal, situacao associada a maior risco de abdome agudo cirurgico.\nA) Queixa pos-prandial leve e estavel aponta mais para causa funcional ou biliar nao complicada do que para peritonismo.\nB) Esse comportamento antalgico e tipico de irritacao peritoneal, pois qualquer mobilizacao amplia a dor.\nC) Padrao cronico com alivio apos evacuar sugere disturbio funcional intestinal, nao urgencia inflamatoria difusa.\nD) Pirose esporadica isolada nao traduz, por si, quadro peritoneal agudo.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2296,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "No raciocinio semiologico da dor abdominal, qual conjunto de sinais e sintomas favorece obstrucao intestinal mecanica?",
+    "opcoes": [
+      "A) Dor em colica, distensao progressiva e parada de eliminacao de flatos",
+      "B) Dor fixa em hipocondrio direito com ictericia isolada",
+      "C) Dor pelvica ciclica relacionada ao periodo menstrual",
+      "D) Dor periumbilical leve com diarreia autolimitada"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A associacao entre dor colicativa, distensao crescente e interrupcao do transito gasoso aponta para obstrucao mecanica do intestino.",
+    "explicacoes_opcoes": {
+      "A": "E a combinacao classica de obstrucao, especialmente quando os sintomas evoluem em horas com piora progressiva.",
+      "B": "Esse perfil orienta mais para doenca hepatobiliar do que para bloqueio mecanico de alcas.",
+      "C": "Dor ciclica catamenial sugere causa ginecologica funcional ou inflamatoria, nao obstrucao intestinal.",
+      "D": "Diarreia autolimitada com dor leve favorece quadro infeccioso intestinal nao obstrutivo."
+    },
+    "explicacao": "A associacao entre dor colicativa, distensao crescente e interrupcao do transito gasoso aponta para obstrucao mecanica do intestino.\nA) E a combinacao classica de obstrucao, especialmente quando os sintomas evoluem em horas com piora progressiva.\nB) Esse perfil orienta mais para doenca hepatobiliar do que para bloqueio mecanico de alcas.\nC) Dor ciclica catamenial sugere causa ginecologica funcional ou inflamatoria, nao obstrucao intestinal.\nD) Diarreia autolimitada com dor leve favorece quadro infeccioso intestinal nao obstrutivo.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  },
+  {
+    "id": 2298,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Em paciente com dor abdominal aguda e vomitos, qual sequencia temporal favorece o diagnostico de apendicite classica?",
+    "opcoes": [
+      "A) Dor abdominal precede nauseas e vomitos nas primeiras horas",
+      "B) Vomitos iniciam muitas horas antes da dor localizada",
+      "C) Dor e vomitos surgem apenas apos uso de antiespasmodico",
+      "D) Vomito isolado recorrente sem progressao da dor"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na evolucao tipica da apendicite, a dor aparece primeiro e os sintomas gastrointestinais surgem em seguida.",
+    "explicacoes_opcoes": {
+      "A": "Essa ordem cronologica e a mais coerente com o processo inflamatorio apendicular inicial.",
+      "B": "Quando vomito precede claramente a dor, cresce a chance de causa gastrintestinal primaria nao apendicular.",
+      "C": "Relacao temporal com medicacao nao define o padrao inflamatorio tipico da apendicite.",
+      "D": "Vomito isolado sem dor progressiva localizada afasta a sequencia classica esperada."
+    },
+    "explicacao": "Na evolucao tipica da apendicite, a dor aparece primeiro e os sintomas gastrointestinais surgem em seguida.\nA) Essa ordem cronologica e a mais coerente com o processo inflamatorio apendicular inicial.\nB) Quando vomito precede claramente a dor, cresce a chance de causa gastrintestinal primaria nao apendicular.\nC) Relacao temporal com medicacao nao define o padrao inflamatorio tipico da apendicite.\nD) Vomito isolado sem dor progressiva localizada afasta a sequencia classica esperada.",
+    "aula_id": "semio3_a1",
+    "essencial": false
+  }
+]

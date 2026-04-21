@@ -1,6 +1,6 @@
 # MAD2 — Aula 5: ISTs Bacterianas — Treponema, Neisseria, Chlamydia
 
-As Infecções Sexualmente Transmissíveis (ISTs) bacterianas são temas fundamentais na medicina de ponta. Na prova, os temas centrais são o reconhecimento das diferentes fases da **Sífilis**, o diagnóstico diferencial das úlceras genitais e o manejo das **Uretrites/Cervicites** causadas por Gonococo e Clamídia.
+As Infecções Sexualmente Transmissíveis (ISTs) bacterianas são temas fundamentais na medicina de ponta. Na prova, os temas centrais são o reconhecimento das diferentes fases da **Sífilis**, o diagnóstico diferencial das úlceras genitais e o manejo das **Uretrites/Cervicites** causadas por **Gonococo** e **Clamídia**.
 
 Na prática, o médico deve saber que uma ferida indolor pode ser o começo de uma doença sistêmica grave e que o tratamento sempre deve incluir o **Parceiro Sexual** para quebrar a corrente de transmissão.
 
@@ -19,9 +19,9 @@ Na prática, o médico deve saber que uma ferida indolor pode ser o começo de u
 
 A sífilis é dividida em estágios, e cada um tem uma "cara" diferente:
 - **Primária:** A marca é o **Cancro Duro** — uma úlcera (ferida) única, com bordas endurecidas e, o mais importante, **Totalmente Indolor**. Ela some sozinha em algumas semanas, o que engana o paciente.
-- **Secundária:** Ocorre meses depois. O paciente apresenta manchas vermelhas pelo corpo, inclusive na **Palma das mãos e Sola dos pés**. É altamente contagiosa.
-- **Terciária:** Ocorre anos depois. Ataca o sistema cardiovascular (Aorta) e o sistema nervoso central (**Neurossífilis**).
-- **Congênita:** Quando a mãe passa para o bebê. Pode causar malformações graves e morte fetal.
+- **Secundária:** Ocorre meses depois. O paciente apresenta manchas vermelhas pelo corpo, inclusive na **Palma das mãos** e **Sola dos pés**. É altamente contagiosa.
+- **Terciária:** Ocorre anos depois. Ataca o sistema cardiovascular (**Aorta**) e o sistema nervoso central (**Neurossífilis**).
+- **Congênita:** Quando a mãe passa para o bebê. Pode causar malformações graves e **morte fetal**.
 
 ---
 
@@ -29,8 +29,8 @@ A sífilis é dividida em estágios, e cada um tem uma "cara" diferente:
 
 Essas duas bactérias costumam andar juntas e causam inflamação nos canais genitais.
 - **Gonorreia (Neisseria gonorrhoeae):** Causa um **Corrimento Purulento** (pus) abundante e muita dor ao urinar (**Disúria**). No microscópio, vemos diplococos gram-negativos.
-- **Clamídia (Chlamydia trachomatis):** É mais "silenciosa". O corrimento é mais ralo (mucoide) e muitas vezes o paciente não sente nada (**Assintomático**).
-- **Perigo:** Por ser silenciosa, a clamídia é a maior causa de infertilidade, pois inflama as trompas sem a mulher perceber.
+- **Clamídia (Chlamydia trachomatis):** É mais "silenciosa". O corrimento é mais ralo (**mucoide**) e muitas vezes o paciente não sente nada (**Assintomático**).
+- **Perigo:** Por ser silenciosa, a clamídia é a maior causa de **infertilidade**, pois inflama as trompas sem a mulher perceber.
 
 ---
 
@@ -46,7 +46,7 @@ Quando a gonorreia ou a clamídia sobem do colo do útero para o útero e trompa
 
 Na dúvida, tratamos as síndromes de forma completa:
 - **Uretrite/Cervicite:** Geralmente tratamos para Gonococo e Clamídia ao mesmo tempo (**Ceftriaxona + Azitromicina**).
-- **Sífilis:** O tratamento de escolha é a **Penicilina Benzatina** (Benzetacil). A dose e o tempo dependem da fase da doença.
+- **Sífilis:** O tratamento de escolha é a **Penicilina Benzatina** (**Benzetacil**). A dose e o tempo dependem da fase da doença.
 - **Parceiros:** É obrigatório tratar todos os parceiros sexuais dos últimos 90 dias, mesmo que eles não tenham sintomas.
 
 ---
@@ -84,7 +84,7 @@ A Uninove ama cobrar sobre a **Sífilis Secundária**. Decore as manchas nas mã
 |------------|------------|-----------------|
 | **Cancro Duro (Sífilis)** | **Cancro Mole** | Úlcera **Indolor** vs Úlcera **Muito Dolorosa** |
 | **Gonococo** | **Clamídia** | Corrimento **Purulento** vs Corrimento **Mucoide/Escasso** |
-| **VDRL** | **FTA-ABS / Teste Rápido** | Exame para **Seguimento** (cai no tto) vs Exame para **Diagnóstico** (fixo) |
+| **VDRL** | **FTA-ABS / Teste Rápido** | Exame para **Seguimento** vs Exame para **Diagnóstico** |
 | **Cervicite** | **DIP** | Infecção no **Colo** vs Infecção que **Subiu para as Trompas** |
 | **Sífilis Primária** | **Sífilis Secundária** | Ferida **Local** vs Manchas **Sistêmicas** |
 

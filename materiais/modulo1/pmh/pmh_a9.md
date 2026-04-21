@@ -7,50 +7,46 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Metabolismo de Proteínas** gera nitrogênio, que deve ser excretado via **Ciclo da Ureia** para evitar a **Hiperamonemia** (tóxica para o cérebro). Domine as reações de **Transaminação** (ALT/AST) e como o fígado transforma a amônia em ureia. Na clínica, a falha desse ciclo explica a **Encefalopatia Hepática**.
+O manejo das **Dislipidemias** é um dos pilares da medicina preventiva contemporânea. Compreender como interpretar o **Perfil Lipídico**, as limitações das fórmulas de cálculo (como a de **Friedewald**) e as indicações para o uso de **Estatinas** e **Fibratos** é essencial. Na clínica, a identificação precoce do risco de **Aterosclerose** e de **Pancreatite Aguda** (em casos de **TG > 500-1000 mg/dL**) salva vidas.
 
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `PMH-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Após o bloco de relevância.
+- **O que mostrar:** Gráfico de decisão clínica baseado no risco cardiovascular e fluxograma de quando priorizar o tratamento de Triglicerídeos vs LDL.
+- **Tipo sugerido:** Infográfico ou esquema didático.
+- **Legenda (rascunho):** Decisão clínica nas dislipidemias.
 
 ---
 
 ## Painel básico: o que medir
 
-- **Colesterol total**, **HDL-C**, **TG**, **LDL-C** (calculado ou direto).
-- **Não jejum** pode ser aceito para **colesterol** e **HDL** em alguns protocolos; **TG** mais sensível ao recente alimento.
+O exame laboratorial padrão inclui a dosagem de:
+- **Colesterol Total (CT)**, **HDL-C**, **Triglicerídeos (TG)** e o **LDL-C** (que pode ser calculado ou medido diretamente).
+- Atualmente, o **jejum prolongado** não é obrigatório para a dosagem de colesterol, mas o estado pós-prandial pode influenciar significativamente os níveis de **Triglicerídeos**.
 
-> **Dica de Prova:** **TG muito alto** invalida **cálculo de LDL** por fórmula — LDL direto ou **ultracentrifugação** em laboratórios de referência.
+> **Dica de Prova:** Em casos de **TG muito elevados**, o cálculo indireto do LDL torna-se impreciso, sendo necessária a dosagem pelo **método direto**.
 
 ---
 
 ## Friedewald e limitações
 
-LDL estimado ≈ **Total − HDL − (TG/5)** em mg/dL (quando **TG < 400** e sem **quilomícron** excessivo). **Erro** aumenta com **hipertrigliceridemia**.
+A fórmula de Friedewald estima o LDL:
+**LDL-C ≈ CT − HDL-C − (TG/5)**
+- **Condição:** Só é válida quando os **Triglicerídeos (TG) são < 400 mg/dL**.
+- **Erro:** A precisão cai drasticamente na presença de quilomícrons ou hipertrigliceridemia severa.
 
 ---
 
 ## Hipertrigliceridemia: gravidade
 
-- **Leve/moderada:** resistência insulínica, **síndrome metabólica**, **DM2**.
-- **Severa (TG > 1000 mg/dL):** risco de **pancreatite aguda** — prioridade **triglicerídeo**, não só LDL.
+- **Leve a Moderada:** Associada à **Resistência Insulínica**, **Síndrome Metabólica** e **DM2**.
+- **Severa (TG > 1000 mg/dL):** O risco principal deixa de ser a aterosclerose e passa a ser a **Pancreatite Aguda**. Nestes casos, a prioridade máxima é a redução dos triglicerídeos.
 
-**Causas secundárias:** **álcool**, **hipotireoidismo**, **gravidez**, **fármacos** (retinoides, antirretrovirais).
-
-> **Pegadinha:** **Baixar TG** com **fibrato** ou **ômega-3** não substitui **controle glicêmico** se a base for **resistência insulínica**.
-
----
-
-## LDL elevado e risco
-
-**ESC/ACC** e diretrizes brasileiras usam **escores** e **fatores de risco** para definir **meta de LDL-C**. **FH** exige **suspeita clínica** (LDL muito alto, história familiar, **tendões**).
+**Causas secundárias comuns:** Consumo excessivo de **álcool**, **hipotireoidismo** não tratado, **gravidez** e uso de certos fármacos (ex: retinoides).
 
 ---
 
@@ -58,55 +54,49 @@ LDL estimado ≈ **Total − HDL − (TG/5)** em mg/dL (quando **TG < 400** e se
 
 | Classe de Droga | Mecanismo Prático | Alvo Principal |
 |-----------------|-------------------|----------------|
-| **Estatinas** | Inibe **HMG-CoA Redutase** | Reduzir **LDL-C** |
-| **Ezetimiba** | Inibe **NPC1L1** (absorção) | Adjuvante pós-estatina |
-| **Fibratos** | Ativa **PPAR-alfa** | Reduzir **Triglicerídeos** |
-| **Ômega-3** | Reduz **VLDL** hepático | Hipertrigliceridemia grave |
-| **PCSK9i** | Aumenta **Receptores LDL** | **LDL refratário** |
-| **Colestiramina**| Sequestra **Ácidos Biliares** | Redução de LDL (segunda linha) |
+| **Estatinas** | Inibe a **HMG-CoA Redutase** | Redução potente de **LDL-C** |
+| **Ezetimiba** | Inibe a proteína **NPC1L1** | Bloqueia **absorção** de colesterol |
+| **Fibratos** | Ativa os receptores **PPAR-alfa** | Redução de **Triglicerídeos** |
+| **Ômega-3** | Reduz a síntese de **VLDL** | Adjuvante nos **TG severos** |
+| **PCSK9i** | Preserva os **Receptores de LDL** | **LDL fixo** em alto risco |
+| **Colestiramina**| Sequestra **Ácidos Biliares** | Aumenta excreção fecal |
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente **DM2** com **TG alto** e **HDL baixo** — **síndrome metabólica**; priorizar **perda de peso**, **atividade** e **controle glicêmico**. **Paciente com pancreatite** e **líquido branco** no tubo — lembre **quilomícron** em **hipertrigliceridemia** massiva. **Monitorar** **creatinquinase** e **função hepática** com **estatina**.
+No paciente com **Diabetes Tipo 2**, é comum encontrarmos a "tríade aterogênica": **TG alto**, **HDL baixo** e partículas de LDL pequenas e densas. O aparecimento de **Xantomas** ou **Arco Corneano** em pacientes jovens deve sempre levantar a suspeita de **Hipercolesterolemia Familiar (FH)**, exigindo tratamento agressivo e triagem da família.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Friedewald:** Só vale se **TG < 400 mg/dL**. É o cálculo clássico: **CT - HDL - (TG/5)**.
-- **Pancreatite:** O risco torna-se grave quando **TG > 500-1000 mg/dL**.
-- **Metas de LDL:** Definidas pelo **Risco Cardiovascular** total do paciente (baixo, médio, alto, muito alto).
-- **Mecanismos:** **Estatina** (bloqueia fábrica), **Ezetimiba** (bloqueia mercado/absorção).
-- **FH:** Suspeite de **Hipercolesterolemia Familiar** se **LDL > 190 mg/dL** em adultos.
+- **Fórmula de Friedewald:** Decore a regra: **Total - HDL - (TG/5)**. Lembrar do limite de **400 mg/dL** de TG.
+- **Risco de Pancreatite:** Prioridade clínica absoluta se **Triglicerídeos > 500 mg/dL**.
+- **Metas Terapêuticas:** Não são fixas; dependem do **Risco Cardiovascular** (Escore de Risco Global).
+- **Tratamento Combinado:** A associação **Estatina + Ezetimiba** é a conduta padrão quando a monoterapia falha.
+- **Causas Secundárias:** Sempre excluir **Hipotireoidismo** antes de diagnosticar dislipidemia primária.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Na prática de prova, o painel lipídico deve ser interpretado com contexto: estado de **jejum**, presença de **causas secundárias** e padrão global de risco cardiovascular. O erro clássico é olhar apenas um número isolado sem considerar síndrome metabólica, hipotireoidismo, álcool ou fármacos.
+Para a **Uninove**, o painel lipídico deve ser interpretado com o contexto do paciente: presença de **comorbidades**, uso de medicações e histórico familiar. O erro clássico em provas é tratar apenas o número sem olhar para o risco de **pancreatite** ou sem excluir causas reversíveis como o **álcool**.
 
-Outro ponto central é a prioridade clínica: **LDL-C** costuma ser o principal alvo de prevenção cardiovascular, mas **TG muito alto** muda a urgência por risco de **pancreatite**. Quando a meta de LDL não é atingida, a banca costuma cobrar escalonamento terapêutico com associação racional, como **estatina + ezetimiba**.
-
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
-
-- **Perfil de Jejum:** Atualmente não é obrigatório para colesteróis, mas é preferível para **Triglicerídeos**.
-- **Tratamento de TG:** Se **TG > 500**, trate o risco de **Pancreatite** antes de focar na meta de LDL.
-- **Associação:** **Estatina + Ezetimiba** é a primeira escolha para quem não atinge meta em dose máxima.
-- **Hipotireoidismo:** Uma causa clássica de **Hipercolesterolemia Secundária**.
+### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Diferencial para Prova |
 |------------|------------|-------------------------|
-| **Fibratos** | **Estatinas** | Foco em **TG** vs Foco em **LDL** |
-| **CAD** | **Xantelasma** | Complicação **Glicêmica** vs Sinal **Lipídico** |
-| **LDLR** | **PCSK9** | **Captação** de LDL vs **Destruição** do receptor |
-| **Direto** | **Calculado** | Precisão no **TG alto** vs Erro no **TG alto** |
+| **Fibratos** | **Estatinas** | Primeira linha para **TG** vs Primeira linha para **LDL** |
+| **LDL Calculado** | **LDL Direto** | Barato (limitado pelo TG) vs Preciso (qualquer nível TG) |
+| **LDLR** | **PCSK9** | Porta de **entrada** vs Proteína que **fecha a porta** |
+| **Hipotireoidismo** | **Hiperlipidemia** | Causa **Secundária** tratável vs Doença Primária |
 
 ### Frase-âncora para não esquecer
 
-> “Triglicerídeo altíssimo chama pancreatite; LDL alto chama placa.”
+> **“Triglicerídeo muito alto ( > 500) pede proteção do pâncreas; LDL alto pede proteção do coração.”**
+

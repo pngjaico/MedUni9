@@ -2,7 +2,7 @@
 
 Diferente das doenças dominantes, as recessivas só aparecem se a pessoa herdar o gene estragado **tanto do pai quanto da mãe**. Na prova, o tema central são as **Doenças de Depósito Lisossômico** (como Gaucher e Tay-Sachs) e a **Fibrose Cística**, que é a doença recessiva grave mais comum em pessoas brancas.
 
-Na prática, entender essas doenças é vital porque, embora individualmente raras, juntas elas afetam muitas pessoas e hoje já existem tratamentos modernos (como o Trikafta) que mudam completamente o destino dos pacientes.
+Na prática, entender essas doenças é vital porque, embora individualmente raras, juntas elas afetam muitas pessoas e hoje já existem tratamentos modernos (como o **Trikafta**) que mudam completamente o destino dos pacientes.
 
 ---
 
@@ -18,9 +18,9 @@ Na prática, entender essas doenças é vital porque, embora individualmente rar
 ## 1. Fibrose Cística (FC): O Erro no Sal
 
 A Fibrose Cística acontece por causa de um defeito no gene **CFTR**, que fabrica um canal de cloreto nas células.
-- **Mecanismo:** O muco do corpo fica muito grosso e seco.
-- **Pulmão:** O muco entope tudo e causa infecções graves (como por *Pseudomonas*).
-- **Pâncreas:** O muco entope a saída das enzimas digestivas. O paciente não consegue absorver gordura e vitaminas.
+- **Mecanismo:** O muco do corpo fica muito **grosso** e **seco**.
+- **Pulmão:** O muco entope tudo e causa infecções graves (como por ***Pseudomonas***).
+- **Pâncreas:** O muco entope a saída das enzimas digestivas. O paciente não consegue observar **gordura** e **vitaminas**.
 - **Teste do Suor:** É o exame de ouro. Se o Cloreto no suor for **maior que 60**, o diagnóstico é confirmado.
 - **Tratamento Revolucionário:** O medicamento **Trikafta** consegue consertar o canal estragado dentro da célula!
 

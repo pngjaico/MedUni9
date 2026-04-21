@@ -2,7 +2,7 @@
 
 O córtex cerebral não é uma massa uniforme; ele é organizado em camadas e áreas com funções específicas. Na prova, os temas centrais são as **6 Camadas do Córtex**, a importância da **Camada V (Saída Motora)** e o mapa das **Áreas de Brodmann** (especialmente áreas 4, 6, 44 e 22).
 
-Na prática, o córtex é o que nos torna humanos. Entender que a camada IV recebe a informação e a camada V envia o comando motor te ajuda a entender por que certas doenças atingem apenas a força física, enquanto outras atingem a percepção dos sentidos.
+Na prática, o córtex é o que nos torna humanos. Entender que a **camada IV** recebe a informação e a **camada V** envia o comando motor te ajuda a entender por que certas doenças atingem apenas a força física, enquanto outras atingem a percepção dos sentidos.
 
 ---
 
@@ -58,7 +58,7 @@ No ambulatório de neurologia, se você encontrar um paciente com **Apraxia** (e
 
 ## Pontos-Chave para Prova
 
-- **Células de Betz**: Neurônios piramidais gigantes da Camada V; essenciais para a via motora.
+- **Células de Betz**: Neurônios piramidais gigantes da **Camada V**; essenciais para a via motora.
 - **Camada IV**: Principal alvo das fibras talamocorticais (entrada sensorial).
 - **Área 17**: Córtex visual primário; localizada nas margens do sulco calcarino.
 - **Área 4**: Córtex motor primário; responsável pela execução do movimento voluntário.

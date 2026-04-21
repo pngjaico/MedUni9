@@ -1,0 +1,2238 @@
+[
+  {
+    "id": 1302,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “População e amostra:” está correta?",
+    "opcoes": [
+      "A) base da inferência estatística.",
+      "B) Discreta:: valores inteiros contáveis.",
+      "C) Variável qualitativa:: descreve categorias.",
+      "D) População:: universo de interesse do estudo."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “População e amostra:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: base da inferência estatística.",
+      "B": "Incorreta: Discreta:: valores inteiros contáveis.",
+      "C": "Incorreta: Variável qualitativa:: descreve categorias.",
+      "D": "Incorreta: População:: universo de interesse do estudo."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “População e amostra:”.\nA) CORRETA. Correta: base da inferência estatística.\nB) INCORRETA. Incorreta: Discreta:: valores inteiros contáveis.\nC) INCORRETA. Incorreta: Variável qualitativa:: descreve categorias.\nD) INCORRETA. Incorreta: População:: universo de interesse do estudo.",
+    "aula_id": "mad1_a17",
+    "essencial": false
+  },
+  {
+    "id": 1304,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Variável qualitativa:” está correta?",
+    "opcoes": [
+      "A) População:: universo de interesse do estudo.",
+      "B) Tipo de variável:: guia escolha da análise.",
+      "C) descreve categorias.",
+      "D) Discreta:: valores inteiros contáveis."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Variável qualitativa:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: População:: universo de interesse do estudo.",
+      "B": "Incorreta: Tipo de variável:: guia escolha da análise.",
+      "C": "Correta: descreve categorias.",
+      "D": "Incorreta: Discreta:: valores inteiros contáveis."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Variável qualitativa:”.\nA) INCORRETA. Incorreta: População:: universo de interesse do estudo.\nB) INCORRETA. Incorreta: Tipo de variável:: guia escolha da análise.\nC) CORRETA. Correta: descreve categorias.\nD) INCORRETA. Incorreta: Discreta:: valores inteiros contáveis.",
+    "aula_id": "mad1_a17",
+    "essencial": false
+  },
+  {
+    "id": 1308,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Classificação da variável:” está correta?",
+    "opcoes": [
+      "A) Variável qualitativa:: descreve categorias.",
+      "B) População:: universo de interesse do estudo.",
+      "C) define análise adequada.",
+      "D) Discreta:: valores inteiros contáveis."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Classificação da variável:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Variável qualitativa:: descreve categorias.",
+      "B": "Incorreta: População:: universo de interesse do estudo.",
+      "C": "Correta: define análise adequada.",
+      "D": "Incorreta: Discreta:: valores inteiros contáveis."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Classificação da variável:”.\nA) INCORRETA. Incorreta: Variável qualitativa:: descreve categorias.\nB) INCORRETA. Incorreta: População:: universo de interesse do estudo.\nC) CORRETA. Correta: define análise adequada.\nD) INCORRETA. Incorreta: Discreta:: valores inteiros contáveis.",
+    "aula_id": "mad1_a17",
+    "essencial": false
+  },
+  {
+    "id": 1309,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Medida apropriada” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Discreta:: valores inteiros contáveis.",
+      "B) Variável qualitativa:: descreve categorias.",
+      "C) População:: universo de interesse do estudo.",
+      "D) Medida apropriada — Medida inadequada — Depende do tipo de variável analisada"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Medida apropriada” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Discreta:: valores inteiros contáveis.",
+      "B": "Incorreta: Variável qualitativa:: descreve categorias.",
+      "C": "Incorreta: População:: universo de interesse do estudo.",
+      "D": "Correta: Medida apropriada — Medida inadequada — Depende do tipo de variável analisada"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Medida apropriada” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Discreta:: valores inteiros contáveis.\nB) INCORRETA. Incorreta: Variável qualitativa:: descreve categorias.\nC) INCORRETA. Incorreta: População:: universo de interesse do estudo.\nD) CORRETA. Correta: Medida apropriada — Medida inadequada — Depende do tipo de variável analisada",
+    "aula_id": "mad1_a17",
+    "essencial": false
+  },
+  {
+    "id": 1312,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "No timo, linfócitos T que reconhecem o MHC de modo adequado são preservados e os que reagem fortemente a antígenos próprios são eliminados. Como se denominam, respectivamente, esses dois processos?",
+    "opcoes": [
+      "A) Seleção positiva e seleção negativa",
+      "B) Apresentação cruzada e troca de classe de anticorpo",
+      "C) Maturação na medula óssea e diferenciação no baço",
+      "D) Anergia periférica e apoptose por privação de citocinas"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O timo realiza seleção positiva (reconhecimento útil do MHC) e seleção negativa (eliminação de clones autorreativos).",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde à nomenclatura clássica da educação timóica descrita no material.",
+      "B": "Incorreta: refere-se a outros fenômenos (resposta adaptativa), não às seleções timóicas.",
+      "C": "Incorreta: a medula óssea matura linfócitos B; o timo é o órgão da maturação T.",
+      "D": "Incorreta: anergia e sinais periféricos não substituem os nomes de seleção positiva e negativa no timo."
+    },
+    "explicacao": "Resumo: No timo, seleção positiva e negativa molduram o repertório de linfócitos T.\nA) CORRETA. Nomenclatura correta dos dois processos.\nB) INCORRETA. Não descreve as seleções timóicas.\nC) INCORRETA. Confunde órgãos e processos de maturação.\nD) INCORRETA. Mecanismos periféricos distintos da nomenclatura pedida.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1313,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Adulto sadio recebe pela primeira vez uma vacina de componente proteico. Em relação à resposta adaptativa primária, qual intervalo aproximado costuma separar a exposição do aparecimento de uma resposta específica detectável?",
+    "opcoes": [
+      "A) Minutos a poucas horas",
+      "B) Cerca de 4 a 7 dias após a exposição",
+      "C) Apenas após segunda exposição ao mesmo antígeno",
+      "D) Imediato, sem período de latência"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A imunidade adaptativa é mais lenta na primeira exposição; o material cita cerca de 4 a 7 dias para a primeira resposta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: esse tempo descreve a imunidade inata, não a primeira resposta adaptativa.",
+      "B": "Correta: alinha-se à tabela inata versus adaptativa do material.",
+      "C": "Incorreta: a segunda exposição acelera e intensifica, mas a primária já gera resposta após dias.",
+      "D": "Incorreta: a resposta adaptativa primária não é imediata."
+    },
+    "explicacao": "Resumo: A primeira resposta adaptativa leva dias para se organizar.\nA) INCORRETA. Caracteriza resposta rápida/inata.\nB) CORRETA. Intervalo citado para a primeira exposição.\nC) INCORRETA. Confunde primária com memória de reexposição.\nD) INCORRETA. Omite o tempo de latência da resposta adaptativa.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1314,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual órgão linfoide primário é o local de maturação dos linfócitos B e a origem da hematopoiese, gerando as linhagens celulares do sangue?",
+    "opcoes": [
+      "A) Timo",
+      "B) Baço",
+      "C) Medula óssea",
+      "D) Linfonodo periférico"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A medula óssea matura linfócitos B e produz as células sanguíneas; o timo é reservado aos linfócitos T.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o timo matura linfócitos T, não B.",
+      "B": "Incorreta: o baço é órgão linfoide secundário (filtra sangue, resposta imune).",
+      "C": "Correta: (órgãos primários e função da medula).",
+      "D": "Incorreta: linfonodo é secundário (filtra linfa, zona T e zona B na resposta)."
+    },
+    "explicacao": "Resumo: Primário = maturação; medula para B e série hematopoética.\nA) INCORRETA. Órgão da maturação T.\nB) INCORRETA. Órgão secundário.\nC) CORRETA. Matura B e produz células do sangue.\nD) INCORRETA. Órgão secundário.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1315,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem de 32 anos será submetido a esplenectomia por trauma. Na orientação pré-operatória, a equipe enfatiza risco aumentado de infecção grave por germes encapsulados e a necessidade de imunização. Qual justificativa fisiopatológica melhor explica esse risco?",
+    "opcoes": [
+      "A) Perda da barreira epitelial da mucosa intestinal",
+      "B) Deficiência isolada da via alternativa do complemento",
+      "C) Ausência de linfócitos T CD8+ no sangue periférico",
+      "D) Comprometimento da filtração sanguínea e da opsonização esplênica de polissacarídeos capsulares"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "O baço filtra sangue e contribui para a opsonização de bactérias encapsuladas; sua ausência aumenta risco de sepse por pneumococo, Haemophilus e meningococo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o mecanismo central ligado à esplenectomia no material.",
+      "B": "Incorreta: a via alternativa pode participar do complemento, mas o foco aqui é função esplênica e opsonização.",
+      "C": "Incorreta: não resume o papel do baço na defesa contra encapsulados.",
+      "D": "Correta: alinha-se à função esplênica e à pegadinha de encapsulados do texto."
+    },
+    "explicacao": "Resumo: Sem baço, há menor depuração e opsonização eficiente contra cápsulas polissacarídicas.\nA) INCORRETA. Não é a explicação principal.\nB) INCORRETA. Não descreve o núcleo do risco esplênico.\nC) INCORRETA. Mecanismo incorreto para o contexto.\nD) CORRETA. Reflete filtração e opsonização esplênicas.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1316,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Criança com ferimento contaminado apresenta calor local e eritema há 6 horas. Qual leucócito costuma ser o primeiro a acumular-se intensamente nesse tipo de inflamação aguda bacteriana?",
+    "opcoes": [
+      "A) Neutrófilo",
+      "B) Linfócito B naive",
+      "C) Eosinófilo",
+      "D) Plasmócito"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O neutrófilo é a primeira célula a chegar na infecção aguda e é o principal fagócito da resposta inicial.",
+    "explicacoes_opcoes": {
+      "A": "Correta: conforme a tabela de funções da linhagem mieloide.",
+      "B": "Incorreta: linfócitos B naive não lideram a chegada ao foco em horas.",
+      "C": "Incorreta: eosinófilos predominam em outros contextos (parasitas, alergia).",
+      "D": "Incorreta: plasmócitos aparecem após ativação adaptativa, não na primeira onda."
+    },
+    "explicacao": "Resumo: Neutrófilos lideram a resposta inata precoce na maioria das infecções bacterianas agudas.\nA) CORRETA. Primeira onda celular.\nB) INCORRETA. Papel adaptativo tardio em relação ao infiltrado inicial.\nC) INCORRETA. Perfil típico distinto.\nD) INCORRETA. Célula de memória/anticorpo, não primeira onda.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1317,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual par melhor descreve o início da via clássica do sistema do complemento?",
+    "opcoes": [
+      "A) Ligação da lectina ligante de manose (MBL) a carboidratos microbianos",
+      "B) Ligação de C1q a complexos imunes (anticorpos fixados ao antígeno",
+      "C) Ativação espontânea de C3 na superfície microbiana na ausência de anticorpo",
+      "D) Inibição direta do fator B pelo fator H como passo inicial"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A via clássica depende de anticorpos (IgM e IgG) e inicia com C1q ligado ao complexo imune; MBL caracteriza a via das lectinas e a alternativa inicia em C3.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve a via das lectinas (MBL), não a clássica.",
+      "B": "Correta: início clássico com C1q e imunocomplexos na superfície do alvo.",
+      "C": "Incorreta: corresponde à ideia da via alternativa, não à clássica.",
+      "D": "Incorreta: não é a descrição do primeiro passo da via clássica no material."
+    },
+    "explicacao": "Resumo: Via clássica = anticorpo + C1q.\nA) INCORRETA. Via das lectinas.\nB) CORRETA. C1q e complexo imune.\nC) INCORRETA. Ponto de partida da alternativa.\nD) INCORRETA. Não define o início clássico.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1318,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Recém-nascido a termo em aleitamento materno. Qual classe de imunoglobulina predomina na secreção do colostro e reforça a defesa das mucosas do lactente?",
+    "opcoes": [
+      "A) IgM",
+      "B) IgG",
+      "C) IgA (forma secretória",
+      "D) IgE"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A IgA é a principal imunoglobulina das mucosas e aparece como IgA secretória; o material associa IgA a mucosas e colostro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: IgM marca primeira resposta sérica e ativa complemento, não o perfil secretório das mucosas.",
+      "B": "Incorreta: IgG atravessa placenta e é abundante no soro; não é o foco da defesa secretória mucosa.",
+      "C": "Correta: IgA dimérica secretória nas mucosas e no colostro, .",
+      "D": "Incorreta: IgE liga-se a mastócitos e participa de alergia e parasitas, não da principal defesa secretória do colostro."
+    },
+    "explicacao": "Resumo: IgA secretória protege mucosas e é relevante no leite/colostro.\nA) INCORRETA. Perfil de primeira resposta humoral.\nB) INCORRETA. Transporte transplacentário e soro.\nC) CORRETA. Defesa mucosa e colostro.\nD) INCORRETA. Perfil alérgico/parasitário.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1319,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente com infecções bacterianas recorrentes exclusivamente por Neisseria meningitidis e Neisseria gonorrhoeae, sem outros germes oportunistas típicos. Qual hipótese imunológica explica melhor esse padrão infeccioso restrito?",
+    "opcoes": [
+      "A) Deficiência de C3",
+      "B) Agamaglobulinemia de Bruton",
+      "C) Deficiência isolada de IgA",
+      "D) Deficiência do complexo de ataque à membrana (C5–C9"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "O material destaca que deficiência terminal (C5–C9) predispõe especialmente a Neisseria; C3 ampliaria suscetibilidade a diversas bactérias.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: deficiência de C3 predispõe a infecções recorrentes por muitas bactérias, não só Neisseria.",
+      "B": "Incorreta: agamaglobulinemia compromete anticorpos e aumenta risco amplo a encapsulados, não o padrão restrito descrito.",
+      "C": "Incorreta: deficiência de IgA não explica predileção exclusiva por Neisseria no enunciado.",
+      "D": "Correta: encaixa na pegadinha C5–C9 e infecções por Neisseria do texto."
+    },
+    "explicacao": "Resumo: Terminal do complemento → vulnerabilidade particular a Neisseria.\nA) INCORRETA. Padrão infeccioso mais amplo.\nB) INCORRETA. Hipogamaglobulinemia com espectro diferente.\nC) INCORRETA. Não justifica o predomínio de Neisseria.\nD) CORRETA. Alinha-se à deficiência C5–C9.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1320,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Macrófago ativado libera citocinas que promovem febre e contribuem para proteínas de fase aguda, como a PCR. Qual citocina está mais diretamente associada a esse perfil?",
+    "opcoes": [
+      "A) IL-1",
+      "B) IL-4",
+      "C) IL-10",
+      "D) IL-2"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "IL-1 (e IL-6) derivam de macrófago e estão ligadas a febre e fase aguda; IL-4 e IL-2 têm papéis distintos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: IL-1 de macrófago, febre e ativação endotelial conforme a tabela.",
+      "B": "Incorreta: IL-4 associa-se a perfil Th2 e mudança de classe para IgE, não ao núcleo febre/fase aguda aqui.",
+      "C": "Incorreta: IL-10 é predominantemente anti-inflamatória neste eixo.",
+      "D": "Incorreta: IL-2 prolifera linfócitos T, citada como derivada de T CD4+, não como principal febre do macrófago."
+    },
+    "explicacao": "Resumo: Macrófago → IL-1 (e IL-6) → inflamação sistêmica e fase aguda.\nA) CORRETA. Citocina pró-inflamatória do macrófago.\nB) INCORRETA. Eixo Th2/IgE.\nC) INCORRETA. Regulação anti-inflamatória.\nD) INCORRETA. Proliferação de T, não o eixo febre do macrófago.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1321,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Após captar antígeno no tecido, qual célula migra para o linfonodo e atua como principal APC para ativar linfócitos T naive?",
+    "opcoes": [
+      "A) Neutrófilo",
+      "B) Célula dendrítica",
+      "C) Mastócito",
+      "D) Basófilo"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "As células dendríticas são as APCs profissionais que levam antígeno ao linfonodo e ativam linfócitos T naive.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: neutrófilo é efetor da resposta inata aguda, não APC principal para T naive.",
+      "B": "Correta: papel de APC profissional descrito no material.",
+      "C": "Incorreta: mastócito participa de IgE e histamina, não da ativação primária de T naive como núcleo.",
+      "D": "Incorreta: basófilo não desempenha esse papel de APC profissional para T naive."
+    },
+    "explicacao": "Resumo: DC captura, migra e apresenta antígeno a T naive.\nA) INCORRETA. Fagócito de primeira linha.\nB) CORRETA. APC profissional.\nC) INCORRETA. Hipersensibilidade tipo I.\nD) INCORRETA. Não é o elo principal com T naive.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1322,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher de 28 anos apresenta urticária generalizada, hipotensão e broncoespasmo minutos após picada de abelha. O tratamento de primeira linha no local de atendimento é:",
+    "opcoes": [
+      "A) Adrenalina intramuscular na face lateral da coxa",
+      "B) Prometazina oral com hidratação oral",
+      "C) Dipirona intramuscular em dose única",
+      "D) Hidrocortisona intravenosa em bolus isolado"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Reação anafilática é emergência mediada por IgE; adrenalina é o tratamento imediato de escolha.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Adrenalina IM é padrão para anafilaxia; via lateral da coxa absorve bem.",
+      "B": "Incorreta: Antihistamínico oral não trata choque nem obstrução de vias aéreas de forma adequada.",
+      "C": "Incorreta: Analgésico não reverte choque anafilático nem broncoespasmo agudo.",
+      "D": "Incorreta: Corticoide é adjuvante tardio; não substitui adrenalina na fase inicial."
+    },
+    "explicacao": "Resumo: Anafilaxia exige adrenalina IM de imediato; antihistamínicos e corticoides são complementares.\nA) CORRETA. Correta: Adrenalina IM é padrão para anafilaxia; via lateral da coxa absorve bem.\nB) INCORRETA. Incorreta: Antihistamínico oral não trata choque nem obstrução de vias aéreas de forma adequada.\nC) INCORRETA. Incorreta: Analgésico não reverte choque anafilático nem broncoespasmo agudo.\nD) INCORRETA. Incorreta: Corticoide é adjuvante tardio; não substitui adrenalina na fase inicial.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1323,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente com lúpus eritematoso sistêmico desenvolve trombocitopenia por anticorpos IgG contra plaquetas. Esse mecanismo corresponde à hipersensibilidade do tipo:",
+    "opcoes": [
+      "A) Tipo I, mediada por IgE fixada em mastócitos",
+      "B) Tipo II, com anticorpos dirigidos contra antígenos de superfície celular",
+      "C) Tipo III, por depósito de imunocomplexos em tecidos",
+      "D) Tipo IV, mediada exclusivamente por linfócitos T CD8"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Hipersensibilidade tipo II envolve IgG ou IgM contra antígenos tissulares ou de superfície celular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Tipo I é IgE e liberação rápida de mediadores de mastócitos.",
+      "B": "Correta: Anticorpo contra plaquetas exemplifica citólise ou opsonização tipo II.",
+      "C": "Incorreta: Imunocomplexos solúveis caracterizam o tipo III.",
+      "D": "Incorreta: Tipo IV é tardia e mediada por células, sem papel principal de anticorpo citotóxico direto."
+    },
+    "explicacao": "Resumo: Trombocitopenia imune por autoanticorpo IgG é classificada como hipersensibilidade tipo II.\nA) INCORRETA. Incorreta: Tipo I é IgE e liberação rápida de mediadores de mastócitos.\nB) CORRETA. Correta: Anticorpo contra plaquetas exemplifica citólise ou opsonização tipo II.\nC) INCORRETA. Incorreta: Imunocomplexos solúveis caracterizam o tipo III.\nD) INCORRETA. Incorreta: Tipo IV é tardia e mediada por células, sem papel principal de anticorpo citotóxico direto.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1324,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Na classificação de Gell e Coombs, a reação cutânea de contato ao níquel, com eritema e vesículas 48 a 72 horas após exposição, é exemplo típico de:",
+    "opcoes": [
+      "A) Hipersensibilidade tipo IV mediada por linfócitos T",
+      "B) Hipersensibilidade tipo I mediada por IgE",
+      "C) Hipersensibilidade tipo II com anticorpos citotóxicos",
+      "D) Hipersensibilidade tipo III por imunocomplexos"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Dermatite de contato alérgica é reação celular tardia, tipo IV, com sensibilização de linfócitos T.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Eczema de contato é paradigma de hipersensibilidade tardia tipo IV.",
+      "B": "Incorreta: Tipo I ocorre em minutos e envolve IgE.",
+      "C": "Incorreta: Tipo II mira antígenos ligados à membrana com anticorpos solúveis.",
+      "D": "Incorreta: Tipo III associa-se a depósito de complexos e lesão por complemento."
+    },
+    "explicacao": "Resumo: Atraso de dias e infiltrado linfocitário indicam tipo IV, não IgE imediata.\nA) CORRETA. Correta: Eczema de contato é paradigma de hipersensibilidade tardia tipo IV.\nB) INCORRETA. Incorreta: Tipo I ocorre em minutos e envolve IgE.\nC) INCORRETA. Incorreta: Tipo II mira antígenos ligados à membrana com anticorpos solúveis.\nD) INCORRETA. Incorreta: Tipo III associa-se a depósito de complexos e lesão por complemento.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1325,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "O teste tuberculínico (PPD) positivo em indivíduo previamente sensibilizado pelo bacilo de Koch reflete principalmente:",
+    "opcoes": [
+      "A) Liberação de histamina por mastócitos sensibilizados por IgE",
+      "B) Resposta celular de linfócitos T sensibilizados no local da injeção",
+      "C) Ativação do complemento por imunocomplexos circulantes",
+      "D) Produção imediata de IgM neutralizante contra toxina tetânica"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PPD avalia memória de linfócitos T contra antígenos micobacterianos; leitura tardia é típica do tipo IV.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: IgE e histamina definem reação imediata tipo I.",
+      "B": "Correta: Infiltrado mononuclear e induração tardia correspondem à hipersensibilidade celular.",
+      "C": "Incorreta: Complexos solúveis são marca do tipo III.",
+      "D": "Incorreta: IgM neutralizante não explica leitura em 48 a 72 horas no braço."
+    },
+    "explicacao": "Resumo: PPD é teste de hipersensibilidade tardia tipo IV, não de anticorpo circulante.\nA) INCORRETA. Incorreta: IgE e histamina definem reação imediata tipo I.\nB) CORRETA. Correta: Infiltrado mononuclear e induração tardia correspondem à hipersensibilidade celular.\nC) INCORRETA. Incorreta: Complexos solúveis são marca do tipo III.\nD) INCORRETA. Incorreta: IgM neutralizante não explica leitura em 48 a 72 horas no braço.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1326,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "A síndrome de Arthus ocorre quando:",
+    "opcoes": [
+      "A) Anticorpos IgG formam depósitos imunocomplexos em tecidos com inflamação local",
+      "B) IgE liga-se a alérgeno e desencadeia choque em minutos",
+      "C) Linfócitos T CD4 destroem alógrafo renal sem participação de anticorpo",
+      "D) Anticorpos anti-receptor da placa neuromuscular causam fraqueza progressiva"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Reação de Arthus é modelo de hipersensibilidade tipo III por imunocomplexos em sitio local.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Complexo antígeno-anticorpo ativa complemento e atrai neutrófilos.",
+      "B": "Incorreta: Descreve anafilaxia tipo I.",
+      "C": "Incorreta: Rejeição celular tardia é tipo IV, não Arthus.",
+      "D": "Incorreta: Miastenia por anti-receptor é exemplo de tipo II, não de complexos em vaso."
+    },
+    "explicacao": "Resumo: Arthus é inflamação por imunocomplexos precipitados localmente, classificada como tipo III.\nA) CORRETA. Correta: Complexo antígeno-anticorpo ativa complemento e atrai neutrófilos.\nB) INCORRETA. Incorreta: Descreve anafilaxia tipo I.\nC) INCORRETA. Incorreta: Rejeição celular tardia é tipo IV, não Arthus.\nD) INCORRETA. Incorreta: Miastenia por anti-receptor é exemplo de tipo II, não de complexos em vaso.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1327,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual par associa corretamente o tipo de hipersensibilidade e um exemplo clássico?",
+    "opcoes": [
+      "A) Tipo I — anemia hemolítica autoimune por anticorpo quente IgG",
+      "B) Tipo III — lúpus com nefrite por depósito de complexos",
+      "C) Tipo II — asma brônquica alérgica a ácaros",
+      "D) Tipo IV — urticária por penicilina em minutos após uso"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Associar cada tipo a exemplos canônicos evita confundir IgE, anticorpos de superfície, complexos e T.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anemia hemolítica por IgG anti-eritrócito é tipo II.",
+      "B": "Correta: Nefrite por imunocomplexos no lúpus ilustra bem o tipo III.",
+      "C": "Incorreta: Asma alérgica é tipo I mediada por IgE.",
+      "D": "Incorreta: Urticária imediata é tipo I, não reação celular tardia."
+    },
+    "explicacao": "Resumo: Lúpus com lesão por complexos é referência de tipo III; asma e urticária imediata são tipo I.\nA) INCORRETA. Incorreta: Anemia hemolítica por IgG anti-eritrócito é tipo II.\nB) CORRETA. Correta: Nefrite por imunocomplexos no lúpus ilustra bem o tipo III.\nC) INCORRETA. Incorreta: Asma alérgica é tipo I mediada por IgE.\nD) INCORRETA. Incorreta: Urticária imediata é tipo I, não reação celular tardia.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1328,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem de 35 anos inicia inalação de pó orgânico no trabalho rural e apresenta febre, tosse e dispneia algumas horas depois. O padrão imunológico predominante costuma ser:",
+    "opcoes": [
+      "A) Hipersensibilidade tipo I por IgE a fungos ambientais",
+      "B) Hipersensibilidade tipo II por autoanticorpos contra alvéolos",
+      "C) Hipersensibilidade tipo III por imunocomplexos precipitados no interstício pulmonar",
+      "D) Hipersensibilidade tipo IV pura sem inflamação neutrofílica"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Pneumonite por hipersensibilidade envolve frequentemente imunocomplexos e resposta mista, com componente tipo III relevante.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pode coexistir sensibilização, mas o quadro agudo tardio não é só IgE imediata.",
+      "B": "Incorreta: Não é classicamente autoanticorpo contra membrana basal alveolar.",
+      "C": "Correta: Antígenos inalados formam complexos que desencadeiam inflamação intersticial.",
+      "D": "Incorreta: Há neutrófilos e componente imune complexo; não é exclusivamente T sem inflamação."
+    },
+    "explicacao": "Resumo: Pneumonite por hipersensibilidade exemplifica resposta a antígenos orgânicos com papel de imunocomplexos.\nA) INCORRETA. Incorreta: Pode coexistir sensibilização, mas o quadro agudo tardio não é só IgE imediata.\nB) INCORRETA. Incorreta: Não é classicamente autoanticorpo contra membrana basal alveolar.\nC) CORRETA. Correta: Antígenos inalados formam complexos que desencadeiam inflamação intersticial.\nD) INCORRETA. Incorreta: Há neutrófilos e componente imune complexo; não é exclusivamente T sem inflamação.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1329,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Na hipersensibilidade tipo I, a sensibilização inicial envolve tipicamente:",
+    "opcoes": [
+      "A) Formação de imunocomplexos circulantes estáveis",
+      "B) Expansão clonal de linfócitos T CD8 citotóxicos",
+      "C) Produção exclusiva de IgA secretória em mucosas",
+      "D) Ligação de IgE ao receptor FcεRI de mastócitos e basófilos"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Reações alérgicas imediatas dependem de IgE ligada a receptores de alta afinidade em mastócitos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Complexos solúveis são típicos do tipo III.",
+      "B": "Incorreta: Citotoxicidade T CD8 não define o primeiro passo da alergia IgE mediada.",
+      "C": "Incorreta: IgA tem papel em mucosa; não é o eixo central da sensibilização alérgica sistêmica.",
+      "D": "Correta: IgE ancorada prepara o sistema para degranulação na reexposição."
+    },
+    "explicacao": "Resumo: Sensibilização tipo I culmina em IgE fixa em mastócitos e basófilos via FcεRI.\nA) INCORRETA. Incorreta: Complexos solúveis são típicos do tipo III.\nB) INCORRETA. Incorreta: Citotoxicidade T CD8 não define o primeiro passo da alergia IgE mediada.\nC) INCORRETA. Incorreta: IgA tem papel em mucosa; não é o eixo central da sensibilização alérgica sistêmica.\nD) CORRETA. Correta: IgE ancorada prepara o sistema para degranulação na reexposição.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1330,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Doença do soro (febre, artralgias e rash após infusão de soro heterólogo) exemplifica principalmente:",
+    "opcoes": [
+      "A) Hipersensibilidade tipo I por degranulação mastocitária isolada",
+      "B) Hipersensibilidade tipo II com lise eritrocitária intravascular",
+      "C) Hipersensibilidade tipo III por imunocomplexos solúveis e deposição tissular",
+      "D) Hipersensibilidade tipo IV restrita a epitélio cutâneo sem sistema imune inato"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Soro heterólogo induz anticorpos que formam complexos com antígeno remanescente, ativando complemento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pode haver componente alérgico, mas o quadro clássico é de complexos.",
+      "B": "Incorreta: Hemólise não é o núcleo da doença do soro.",
+      "C": "Correta: Febre e envolvimento sistêmico refletem tipo III.",
+      "D": "Incorreta: Não é exclusivamente dermatite de contato tipo IV."
+    },
+    "explicacao": "Resumo: Doença do soro é modelo histórico de hipersensibilidade tipo III sistêmica.\nA) INCORRETA. Incorreta: Pode haver componente alérgico, mas o quadro clássico é de complexos.\nB) INCORRETA. Incorreta: Hemólise não é o núcleo da doença do soro.\nC) CORRETA. Correta: Febre e envolvimento sistêmico refletem tipo III.\nD) INCORRETA. Incorreta: Não é exclusivamente dermatite de contato tipo IV.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1331,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação melhor distingue hipersensibilidade tipo II de tipo IV?",
+    "opcoes": [
+      "A) Tipo II depende de linfócitos T sensibilizados e leitura após 48 horas",
+      "B) Ambos compartilham exclusivamente o mesmo mecanismo de imunocomplexos solúveis",
+      "C) Tipo IV é mediada por IgE e ocorre em segundos a minutos",
+      "D) Tipo II envolve anticorpos que reconhecem antígenos de superfície ou teciduais fixos"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Tipo II é humoral dirigida a alvos fixos; tipo IV é celular e tardia, sem anticorpo citotóxico central.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Descreve tipo IV, não II.",
+      "B": "Incorreta: Imunocomplexos solúveis são tipo III, não II nem IV.",
+      "C": "Incorreta: IgE imediata é tipo I.",
+      "D": "Correta: Anticorpo contra superfície celular ou tecido é marca do tipo II."
+    },
+    "explicacao": "Resumo: Tipo II é anticorpo contra antígeno fixo; tipo IV é resposta T tardia sem esse padrão.\nA) INCORRETA. Incorreta: Descreve tipo IV, não II.\nB) INCORRETA. Incorreta: Imunocomplexos solúveis são tipo III, não II nem IV.\nC) INCORRETA. Incorreta: IgE imediata é tipo I.\nD) CORRETA. Correta: Anticorpo contra superfície celular ou tecido é marca do tipo II.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1332,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente com abscesso dentário profundo apresenta-se febril com gás em tecidos moles. A flora mais esperada inclui bactérias:",
+    "opcoes": [
+      "A) Anaeróbias obrigatórias e anaeróbias facultativas associadas a flora oral",
+      "B) Exclusivamente bacilos Gram-positivos aeróbios estritos como único agente",
+      "C) Apenas fungos leveduriformes sem participação bacteriana mista",
+      "D) Cococos Gram-positivos aeróbios sem componente de bacilos Gram-negativos"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Abscessos profundos e polimicrobianos favorecem anaeróbios e flora mista da cavidade oral.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Ambiente redutor e necrose seleciona anaeróbios e associados facultativos.",
+      "B": "Incorreta: Padrão real é misto, não um único aeróbio estrito.",
+      "C": "Incorreta: Fungos não são o núcleo típico desse abscesso bacteriano.",
+      "D": "Incorreta: Gram-negativos anaeróbios ou bacilos frequentemente participam."
+    },
+    "explicacao": "Resumo: Infecções de foco odontogênico profundo costumam envolver anaeróbios e flora polimicrobiana.\nA) CORRETA. Correta: Ambiente redutor e necrose seleciona anaeróbios e associados facultativos.\nB) INCORRETA. Incorreta: Padrão real é misto, não um único aeróbio estrito.\nC) INCORRETA. Incorreta: Fungos não são o núcleo típico desse abscesso bacteriano.\nD) INCORRETA. Incorreta: Gram-negativos anaeróbios ou bacilos frequentemente participam.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1333,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "A coloração de Gram diferencia principalmente bactérias com:",
+    "opcoes": [
+      "A) Capacidade exclusiva de formar esporos termorresistentes em todo patógeno",
+      "B) Parede com espessura de peptidoglicano distinta e, nas Gram-negativas, membrana externa com LPS",
+      "C) Presença obrigatória de cápsula polissacarídica em todas as espécies patogênicas",
+      "D) Síntese de endotoxina exclusivamente em cococos Gram-positivos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Gram reflete arquitetura da parede celular, especialmente peptidoglicano e envelope de Gram-negativas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Esporulação não é critério da técnica de Gram.",
+      "B": "Correta: Retenção do violeta ou captura do safranina segue espessura do peptidoglicano e presença de envelope LPS.",
+      "C": "Incorreta: Cápsula não é critério da coloração Gram.",
+      "D": "Incorreta: LPS é marca de Gram-negativas, não de Gram-positivas."
+    },
+    "explicacao": "Resumo: Gram separa padrões de parede com peptidoglicano espesso versus fino mais membrana externa LPS.\nA) INCORRETA. Incorreta: Esporulação não é critério da técnica de Gram.\nB) CORRETA. Correta: Retenção do violeta ou captura do safranina segue espessura do peptidoglicano e presença de envelope LPS.\nC) INCORRETA. Incorreta: Cápsula não é critério da coloração Gram.\nD) INCORRETA. Incorreta: LPS é marca de Gram-negativas, não de Gram-positivas.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1334,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "O lipopolissacarídeo (LPS) da membrana externa de Gram-negativas é reconhecido por receptores Toll-like, em especial:",
+    "opcoes": [
+      "A) TLR4 com cofator MD-2 em macrófagos e outras células do sistema imune inato",
+      "B) TLR2 como receptor exclusivo sem participação de outros adaptadores",
+      "C) TLR9 diretamente ligado ao peptidoglicano da parede Gram-positiva",
+      "D) Receptor de manose superficial sem sinalização de NF-kappa B"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "LPS acende via TLR4, componente central da resposta inata a endotoxina bacteriana.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Complexo TLR4-MD-2 é o sensor clássico de LPS.",
+      "B": "Incorreta: TLR2 associa-se mais a lipoproteínas e padrões distintos, não LPS clássico.",
+      "C": "Incorreta: TLR9 reconhece DNA CpG, não peptidoglicano.",
+      "D": "Incorreta: Via TLR4 leva a ativação de genes pró-inflamatórios."
+    },
+    "explicacao": "Resumo: Endotoxina Gram-negativa sinaliza predominantemente por TLR4.\nA) CORRETA. Correta: Complexo TLR4-MD-2 é o sensor clássico de LPS.\nB) INCORRETA. Incorreta: TLR2 associa-se mais a lipoproteínas e padrões distintos, não LPS clássico.\nC) INCORRETA. Incorreta: TLR9 reconhece DNA CpG, não peptidoglicano.\nD) INCORRETA. Incorreta: Via TLR4 leva a ativação de genes pró-inflamatórios.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1335,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "O peptidoglicano é componente estrutural essencial da parede de:",
+    "opcoes": [
+      "A) Apenas bactérias Gram-negativas com exclusão total das Gram-positivas",
+      "B) Bactérias Gram-positivas e Gram-negativas, com espessura e organização diferentes",
+      "C) Vírus envelopados sem capsídeo proteico",
+      "D) Micoplasmas com parede de quitina idêntica aos fungos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Peptidoglicano é esqueleto universal das paredes bacterianas eucariotas não possuem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ambos os grupos têm peptidoglicano.",
+      "B": "Correta: Diferença está na espessura e camadas associadas.",
+      "C": "Incorreta: Vírus não têm parede peptidoglicano.",
+      "D": "Incorreta: Micoplasmas carecem de parede peptidoglicano típica."
+    },
+    "explicacao": "Resumo: Peptidoglicano é comum a bacilos e cocos com parede, Gram + ou -.\nA) INCORRETA. Incorreta: Ambos os grupos têm peptidoglicano.\nB) CORRETA. Correta: Diferença está na espessura e camadas associadas.\nC) INCORRETA. Incorreta: Vírus não têm parede peptidoglicano.\nD) INCORRETA. Incorreta: Micoplasmas carecem de parede peptidoglicano típica.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1336,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "A cápsula bacteriana polissacarídica contribui principalmente para:",
+    "opcoes": [
+      "A) Aumentar resistência à fagocitose e à dessecação em alguns contextos",
+      "B) Catalisar a transcrição reversa do genoma viral",
+      "C) Substituir o peptidoglicano em todas as espécies",
+      "D) Impedir a síntese de LPS em Gram-negativas"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cápsula é principal fator antifagocítico e pode modular aderência e sobrevivência extracelular.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Camada extracelular mascara PAMPs e dificulta ingestão.",
+      "B": "Incorreta: Não é enzima de retrotranscrição.",
+      "C": "Incorreta: Não substitui parede universalmente.",
+      "D": "Incorreta: LPS é independente da cápsula."
+    },
+    "explicacao": "Resumo: Cápsula protege contra imunidade inata e complemento em muitos patógenos encapsulados.\nA) CORRETA. Correta: Camada extracelular mascara PAMPs e dificulta ingestão.\nB) INCORRETA. Incorreta: Não é enzima de retrotranscrição.\nC) INCORRETA. Incorreta: Não substitui parede universalmente.\nD) INCORRETA. Incorreta: LPS é independente da cápsula.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1337,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Esporos bacterianos são estruturas que conferem:",
+    "opcoes": [
+      "A) Replicação binária acelerada no sangue circulante",
+      "B) Resistência a dessecação e calor elevado em comparação com formas vegetativas",
+      "C) Sensibilidade imediata a todos os desinfetantes de baixa concentração",
+      "D) Ausência total de parede celular em bacilos Gram-positivos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Esporos são formas dormentes altamente resistentes produzidas por alguns bacilos Gram-positivos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Esporos não se multiplicam por fissão rápida como vegetativas em circulação.",
+      "B": "Correta: A casca do esporo confere resistência térmica e química superior à célula vegetativa.",
+      "C": "Incorreta: Esporos resistem a muitos germicidas comuns.",
+      "D": "Incorreta: Esporo mantém envoltório proteico resistente, não ausência de parede."
+    },
+    "explicacao": "Resumo: Esporulação protege o genoma em ambientes hostis; esterilização exige processos adequados.\nA) INCORRETA. Incorreta: Esporos não se multiplicam por fissão rápida como vegetativas em circulação.\nB) CORRETA. Correta: A casca do esporo confere resistência térmica e química superior à célula vegetativa.\nC) INCORRETA. Incorreta: Esporos resistem a muitos germicidas comuns.\nD) INCORRETA. Incorreta: Esporo mantém envoltório proteico resistente, não ausência de parede.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1338,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher com diverticulite perfurada evolui com coleção intra-abdominal polimicrobiana. Qual componente é mais coerente com flora intestinal mista?",
+    "opcoes": [
+      "A) Somente um único cococo aeróbio estrito sem anaeróbios",
+      "B) Apenas leveduras do gênero Candida sem bactérias",
+      "C) Combinação de anaeróbios como Bacteroides e bacilos Gram-negativos facultativos",
+      "D) Exclusivamente estreptococos beta-hemolíticos do grupo A isolados"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Perfuração de cólon introduz flora endógena rica em anaeróbios e enterobacteriáceas facultativas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Abscesso intra-abdominal não é monoetiológico típico.",
+      "B": "Incorreta: Fungos secundários podem ocorrer, mas o núcleo é bacteriano misto.",
+      "C": "Correta: Bacteroides e outros anaeróbios somam-se a E. coli e afins em muitos casos.",
+      "D": "Incorreta: Strepto grupo A não define perfil típico de perfuração colônica."
+    },
+    "explicacao": "Resumo: Infecção pós-perfuração de cólon replica flora fecal polimicrobiana com anaeróbios predominantes.\nA) INCORRETA. Incorreta: Abscesso intra-abdominal não é monoetiológico típico.\nB) INCORRETA. Incorreta: Fungos secundários podem ocorrer, mas o núcleo é bacteriano misto.\nC) CORRETA. Correta: Bacteroides e outros anaeróbios somam-se a E. coli e afins em muitos casos.\nD) INCORRETA. Incorreta: Strepto grupo A não define perfil típico de perfuração colônica.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1339,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "A endotoxina associada ao LPS de Gram-negativas difere das exotoxinas secretadas principalmente porque:",
+    "opcoes": [
+      "A) É termolábil e destruída facilmente por ebulição breve isolada",
+      "B) Só age após conversão enzimática em toxina botulínica",
+      "C) É componente estrutural da membrana externa, liberado sobretudo na lise bacteriana",
+      "D) É polipeptídeo solúvel secretado ativamente por secreção tipo II em todas as bactérias"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "LPS é parte da membrana externa; exotoxinas são polipeptídeos solúveis secretados ativamente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LPS é relativamente termoestável comparado a muitas exotoxinas proteicas.",
+      "B": "Incorreta: Conversão em toxina botulínica não descreve endotoxina.",
+      "C": "Correta: Endotoxina integra o envelope e entra na circulação principalmente com destruição da bactéria.",
+      "D": "Incorreta: Isso descreve exotoxinas, não LPS lipídico."
+    },
+    "explicacao": "Resumo: Endotoxina é lipopolissacarídeo de envelope; exotoxinas são proteínas solúveis com mecanismos variados.\nA) INCORRETA. Incorreta: LPS é relativamente termoestável comparado a muitas exotoxinas proteicas.\nB) INCORRETA. Incorreta: Conversão em toxina botulínica não descreve endotoxina.\nC) CORRETA. Correta: Endotoxina integra o envelope e entra na circulação principalmente com destruição da bactéria.\nD) INCORRETA. Incorreta: Isso descreve exotoxinas, não LPS lipídico.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1340,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem com ferimento por prego no solo apresenta espasmos e trismo. O agente clássico, bacilo Gram-positivo formador de esporo, anaeróbio obrigatório, é:",
+    "opcoes": [
+      "A) Pseudomonas aeruginosa",
+      "B) Escherichia coli",
+      "C) Staphylococcus aureus",
+      "D) Clostridium tetani"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Tétano é causado por esporos de C. tetani em ferimentos anaeróbios profundos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pseudomonas é bacilo Gram-negativo aeróbio.",
+      "B": "Incorreta: E. coli é enterobactéria facultativa, não agente do tétano.",
+      "C": "Incorreta: S. aureus é cococo Gram-positivo, não anaeróbio esporulante típico do tétano.",
+      "D": "Correta: Clostridium tetani é anaeróbio esporulante produtor da toxina tetânica."
+    },
+    "explicacao": "Resumo: Quadro de tétano clínico aponta para toxina de Clostridium tetani em ferimento contaminado.\nA) INCORRETA. Incorreta: Pseudomonas é bacilo Gram-negativo aeróbio.\nB) INCORRETA. Incorreta: E. coli é enterobactéria facultativa, não agente do tétano.\nC) INCORRETA. Incorreta: S. aureus é cococo Gram-positivo, não anaeróbio esporulante típico do tétano.\nD) CORRETA. Correta: Clostridium tetani é anaeróbio esporulante produtor da toxina tetânica.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1341,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre a parede de Gram-positivas é mais precisa?",
+    "opcoes": [
+      "A) Ausência completa de peptidoglicano substituído apenas por LPS",
+      "B) Membrana dupla com LPS como principal diferencial do Gram",
+      "C) Parede fina de peptidoglicano e espaço periplasmático largo típico de todas as enterobactérias",
+      "D) Peptidoglicano espesso sem folha externa de LPS como nas Gram-negativas"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Gram-positivas retêm cristal violeta por peptidoglicano espesso; não possuem folha externa de LPS.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Gram-positivas têm muito peptidoglicano e não LPS de membrana externa.",
+      "B": "Incorreta: LPS define envelope de Gram-negativas.",
+      "C": "Incorreta: Descreve melhor Gram-negativas.",
+      "D": "Correta: Espessura do peptidoglicano explica a retenção do corante."
+    },
+    "explicacao": "Resumo: Arquitetura de Gram-positivas centra-se em peptidoglicano espesso sem folha LPS externa.\nA) INCORRETA. Incorreta: Gram-positivas têm muito peptidoglicano e não LPS de membrana externa.\nB) INCORRETA. Incorreta: LPS define envelope de Gram-negativas.\nC) INCORRETA. Incorreta: Descreve melhor Gram-negativas.\nD) CORRETA. Correta: Espessura do peptidoglicano explica a retenção do corante.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1342,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem de 22 anos com disúria e corrimento uretral purulento. Gram da secreção mostra diplococos Gram-negativos intracelulares em neutrófilos. O diagnóstico mais provável é:",
+    "opcoes": [
+      "A) Gonorreia por Neisseria gonorrhoeae",
+      "B) Uretrite por Chlamydia trachomatis isolada",
+      "C) Candidíase uretral por leveduras",
+      "D) Sífilis primária por Treponema pallidum"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Gonorreia apresenta diplococos Gram-negativos intracelulares e corrimento purulento intenso no homem.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Morfologia em grãos de café dentro de PMN é clássica de N. gonorrhoeae.",
+      "B": "Incorreta: Chlamydia não se visualiza bem no Gram corrente e o padrão não é diplococo intracelular.",
+      "C": "Incorreta: Candidíase uretral não segue esse Gram.",
+      "D": "Incorreta: Sífilis primária manifesta cancro, não uretrite purulenta típica."
+    },
+    "explicacao": "Resumo: Diplococo Gram-negativo intracelular em uretrite purulenta aponta gonorreia.\nA) CORRETA. Correta: Morfologia em grãos de café dentro de PMN é clássica de N. gonorrhoeae.\nB) INCORRETA. Incorreta: Chlamydia não se visualiza bem no Gram corrente e o padrão não é diplococo intracelular.\nC) INCORRETA. Incorreta: Candidíase uretral não segue esse Gram.\nD) INCORRETA. Incorreta: Sífilis primária manifesta cancro, não uretrite purulenta típica.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1343,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Chlamydia trachomatis difere de bactérias extracelulares livres principalmente porque:",
+    "opcoes": [
+      "A) É vírus de DNA dupla fita sem capsídeo",
+      "B) É bactéria intracelular obrigatória que depende do metabolismo da célula hospedeira",
+      "C) É fungo dimórfico com hifa no tecido",
+      "D) É espiroqueta móvel visível rotineiramente no Gram"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Chlamydia replica-se dentro de inclusões citoplasmáticas e não cultiva em meios bacterianos comuns.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não é vírus.",
+      "B": "Correta: Precisa do hospedeiro para ATP e síntese de macromoléculas.",
+      "C": "Incorreta: Não é fungo.",
+      "D": "Incorreta: Não é espiroqueta e o Gram não é o método padrão de visualização."
+    },
+    "explicacao": "Resumo: Chlamydia é patógeno intracelular obrigatório com ciclo elementar e reticular.\nA) INCORRETA. Incorreta: Não é vírus.\nB) CORRETA. Correta: Precisa do hospedeiro para ATP e síntese de macromoléculas.\nC) INCORRETA. Incorreta: Não é fungo.\nD) INCORRETA. Incorreta: Não é espiroqueta e o Gram não é o método padrão de visualização.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1344,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher com sífilis primária descreve úlcera genital indolor de borda endurecida há três semanas. O agente etiológico é:",
+    "opcoes": [
+      "A) Treponema pallidum, espiroqueta não cultivável em meios artificiais habituais",
+      "B) Haemophilus ducreyi causador de cancro mole doloroso",
+      "C) Neisseria gonorrhoeae com corrimento purulento abundante",
+      "D) Herpes simples com vesículas agrupadas dolorosas"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cancro duro indolor é marca da sífilis primária por Treponema pallidum.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Quadro clássico e biologia do treponema batem com a descrição.",
+      "B": "Incorreta: Cancro mole é doloroso e borda irregular.",
+      "C": "Incorreta: Gonorreia não se apresenta como úlcera indolor endurecida isolada típica de primária.",
+      "D": "Incorreta: Herpes costuma ser doloroso e vesicular."
+    },
+    "explicacao": "Resumo: Cancro duro indolor é sífilis primária; cancro mole é Haemophilus e doloroso.\nA) CORRETA. Correta: Quadro clássico e biologia do treponema batem com a descrição.\nB) INCORRETA. Incorreta: Cancro mole é doloroso e borda irregular.\nC) INCORRETA. Incorreta: Gonorreia não se apresenta como úlcera indolor endurecida isolada típica de primária.\nD) INCORRETA. Incorreta: Herpes costuma ser doloroso e vesicular.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1345,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "O teste treponêmico FTA-Abs em relação ao VDRL não treponêmico caracteriza-se por:",
+    "opcoes": [
+      "A) Ser quantitativo e cair quatro vezes após penicilina benzatina em sífilis tratada",
+      "B) Permanecer frequentemente positivo por longo prazo após infecção tratada, como cicatriz sorológica",
+      "C) Tornar-se negativo precocemente em toda sífilis latente",
+      "D) Substituir a necessidade de teste molecular em todo caso de gonorreia"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "FTA-Abs confirma exposição treponêmica e costuma permanecer reativo; VDRL acompanha resposta ao tratamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: VDRL é que costuma ser quantitativo e monitorado; FTA é qualitativo.",
+      "B": "Correta: Testes treponêmicos frequentemente permanecem positivos após cura microbiológica.",
+      "C": "Incorreta: Não se espera negativação precoce universal do FTA.",
+      "D": "Incorreta: Diagnóstico de gonorreia usa NAAT ou cultura, não FTA."
+    },
+    "explicacao": "Resumo: FTA-Abs confirma sífilis e raramente serve para monitorar queda de título pós-tratamento.\nA) INCORRETA. Incorreta: VDRL é que costuma ser quantitativo e monitorado; FTA é qualitativo.\nB) CORRETA. Correta: Testes treponêmicos frequentemente permanecem positivos após cura microbiológica.\nC) INCORRETA. Incorreta: Não se espera negativação precoce universal do FTA.\nD) INCORRETA. Incorreta: Diagnóstico de gonorreia usa NAAT ou cultura, não FTA.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1346,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Recém-nascido exposto a gonorreia cervical materna não tratada pode desenvolver:",
+    "opcoes": [
+      "A) Oftalmia neonatal potencialmente grave se não profilaxada ou tratada",
+      "B) Tríade de Hutchinson com dentes em parafuso",
+      "C) Roséola generalizada sem envolvimento de palmas na primeira semana de vida",
+      "D) Pneumonia por Pneumocystis sem relação com IST materna"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "N. gonorrhoeae transita por canal de parto e pode causar conjuntivite purulenta neonatal.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Profilaxia ocular e tratamento materno reduzem cegueira por gonococo.",
+      "B": "Incorreta: Tríade de Hutchinson associa-se a sífilis congênita tardia, não à gonorreia neonatal clássica.",
+      "C": "Incorreta: Roséola sifilítica é padrão de sífilis secundária, não deste quadro neonatal imediato.",
+      "D": "Incorreta: Pneumocystis não é a associação clássica descrita aqui."
+    },
+    "explicacao": "Resumo: Gonococo neonatal compromete principalmente conjuntivas; profilaxia ocular é histórica e relevante.\nA) CORRETA. Correta: Profilaxia ocular e tratamento materno reduzem cegueira por gonococo.\nB) INCORRETA. Incorreta: Tríade de Hutchinson associa-se a sífilis congênita tardia, não à gonorreia neonatal clássica.\nC) INCORRETA. Incorreta: Roséola sifilítica é padrão de sífilis secundária, não deste quadro neonatal imediato.\nD) INCORRETA. Incorreta: Pneumocystis não é a associação clássica descrita aqui.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1347,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "O tratamento de escolha atual para gonorreia não complicada no adulto, conforme diretrizes que priorizam resistência, costuma ser:",
+    "opcoes": [
+      "A) Ciprofloxacino oral em dose única para todos os casos",
+      "B) Ceftriaxona intramuscular em dose adequada, com cobertura de clamídia quando indicado",
+      "C) Penicilina G oral por sete dias",
+      "D) Azitromicina isolada como monoterapia de primeira linha para gonococo"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ceftriaxona é cefalosporina de escolha frente a resistência a quinolonas; coinfecção por clamídia é frequente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Quinolonas perderam confiabilidade por resistência crescente.",
+      "B": "Correta: Ceftriaxona IM é padrão; azitromicina ou doxiciclina cobre clamídia associada.",
+      "C": "Incorreta: Penicilina oral não é esquema padrão para gonorreia não complicada atual.",
+      "D": "Incorreta: Azitromicina isolada não é monoterapia de primeira escolha para gonorreia atual."
+    },
+    "explicacao": "Resumo: Tratar gonorreia com ceftriaxona e considerar terapia combinada para clamídia na prática usual.\nA) INCORRETA. Incorreta: Quinolonas perderam confiabilidade por resistência crescente.\nB) CORRETA. Correta: Ceftriaxona IM é padrão; azitromicina ou doxiciclina cobre clamídia associada.\nC) INCORRETA. Incorreta: Penicilina oral não é esquema padrão para gonorreia não complicada atual.\nD) INCORRETA. Incorreta: Azitromicina isolada não é monoterapia de primeira escolha para gonorreia atual.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1348,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente com uretrite e NAAT positivo para Chlamydia trachomatis. A conduta medicamentosa mais alinhada ao material de referência é:",
+    "opcoes": [
+      "A) Penicilina benzatina dose única exclusivamente",
+      "B) Metronidazol oral prolongado como monoterapia",
+      "C) Azitromicina em dose única ou doxiciclina por sete dias",
+      "D) Vancomicina intravenosa por duas semanas"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Tratamento de clamídia não complicada usa macrolídeo em dose única ou tetraciclina curta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Penicilina benzatina trata sífilis, não clamídia.",
+      "B": "Incorreta: Metronidazol não é esquema de primeira linha para C. trachomatis uretrite.",
+      "C": "Correta: Azitromicina 1 g ou doxiciclina 100 mg 12/12h por sete dias são opções clássicas.",
+      "D": "Incorreta: Vancomicina não trata clamídia uretral."
+    },
+    "explicacao": "Resumo: Clamídia responde a azitromicina ou doxiciclina; penicilina não é a escolha.\nA) INCORRETA. Incorreta: Penicilina benzatina trata sífilis, não clamídia.\nB) INCORRETA. Incorreta: Metronidazol não é esquema de primeira linha para C. trachomatis uretrite.\nC) CORRETA. Correta: Azitromicina 1 g ou doxiciclina 100 mg 12/12h por sete dias são opções clássicas.\nD) INCORRETA. Incorreta: Vancomicina não trata clamídia uretral.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1349,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "No ciclo biológico de Chlamydia trachomatis, o corpo elementar e o corpo reticular diferenciam-se porque:",
+    "opcoes": [
+      "A) Ambos são formas extracelulares infectantes",
+      "B) Apenas o reticular atravessa epitélio sem entrar na célula",
+      "C) O elementar é infeccioso e extracelular; o reticular replica-se dentro de inclusões citoplasmáticas",
+      "D) O elementar sintetiza ATP autônomo no meio extracelular"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Corpo elementar é infeccioso e penetra; corpo reticular divide-se em inclusão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Reticular é intracelular replicativo, não infectante extracelular.",
+      "B": "Incorreta: Ambos os estágios interagem com epitélio; reticular fica no citoplasma.",
+      "C": "Correta: Elementar promove entrada; reticular amplifica a carga infecciosa intracelular.",
+      "D": "Incorreta: Chlamydia é auxotrófica de energia do hospedeiro."
+    },
+    "explicacao": "Resumo: Ciclo elementar-reticular explica porque NAAT supera Gram na prática.\nA) INCORRETA. Incorreta: Reticular é intracelular replicativo, não infectante extracelular.\nB) INCORRETA. Incorreta: Ambos os estágios interagem com epitélio; reticular fica no citoplasma.\nC) CORRETA. Correta: Elementar promove entrada; reticular amplifica a carga infecciosa intracelular.\nD) INCORRETA. Incorreta: Chlamydia é auxotrófica de energia do hospedeiro.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1350,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem com gonorreia confirmada. Considerando coinfecção frequente, a abordagem mais segura inclui:",
+    "opcoes": [
+      "A) Observar sete dias sem antibiótico e repetar apenas cultura",
+      "B) Tratar apenas parceiros assintomáticos",
+      "C) Ignorar clamídia se o Gram mostrar diplococos",
+      "D) Associar cobertura anti-chlamydia à terapia anti-gonocócica e orientar parceiros"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Coinfecção gonococo-clamídia é comum; regimes combinados e rastreio de parceiros reduzem retratamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Atraso aumenta complicações e transmissão.",
+      "B": "Incorreta: Parceiros sintomáticos e assintomáticos devem ser avaliados e tratados conforme protocolo.",
+      "C": "Incorreta: Presença de gonococo não exclui clamídia concomitante.",
+      "D": "Correta: Ceftriaxona mais macrolídeo ou doxiciclina segue lógica de cobertura dupla e vigilância de IST."
+    },
+    "explicacao": "Resumo: Tratar gonorreia e clamídia juntos quando indicado e notificar parceiros é padrão de manejo.\nA) INCORRETA. Incorreta: Atraso aumenta complicações e transmissão.\nB) INCORRETA. Incorreta: Parceiros sintomáticos e assintomáticos devem ser avaliados e tratados conforme protocolo.\nC) INCORRETA. Incorreta: Presença de gonococo não exclui clamídia concomitante.\nD) CORRETA. Correta: Ceftriaxona mais macrolídeo ou doxiciclina segue lógica de cobertura dupla e vigilância de IST.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1351,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Sífilis primária, secundária e latente precoce tratada adequadamente em adulto não gestante costuma receber:",
+    "opcoes": [
+      "A) Doxiciclina VO por vinte e um dias como primeira escolha absoluta",
+      "B) Azitromicina 1 g VO isolada substituindo penicilina em todos os casos",
+      "C) Ceftriaxona apenas se VDRL negativo",
+      "D) Penicilina G benzatina 2,4 milhões UI intramuscular em dose única"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Esquema de sífilis precoce usa penicilina benzatina IM conforme estágio e histórico de alergia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Doxiciclina é alternativa em não gestantes alérgicas, não primeira linha geral.",
+      "B": "Incorreta: Macrolídeo não substitui penicilina como padrão ouro em todos os cenários.",
+      "C": "Incorreta: Decisão não depende de VDRL negativo para tratar sífilis documentada.",
+      "D": "Correta: Benzatina 2,4 MI UI dose única cobre formas iniciais clássicas quando indicada."
+    },
+    "explicacao": "Resumo: Penicilina benzatina permanece tratamento de referência para sífilis precoce em esquemas padrão.\nA) INCORRETA. Incorreta: Doxiciclina é alternativa em não gestantes alérgicas, não primeira linha geral.\nB) INCORRETA. Incorreta: Macrolídeo não substitui penicilina como padrão ouro em todos os cenários.\nC) INCORRETA. Incorreta: Decisão não depende de VDRL negativo para tratar sífilis documentada.\nD) CORRETA. Correta: Benzatina 2,4 MI UI dose única cobre formas iniciais clássicas quando indicada.",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1352,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Ulnar:” está correta?",
+    "opcoes": [
+      "A) mão em garra (4º e 5º dedos",
+      "B) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "C) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "D) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ulnar:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mão em garra (4º e 5º dedos",
+      "B": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "C": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "D": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ulnar:”.\nA) CORRETA. Correta: mão em garra (4º e 5º dedos)\nB) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nC) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nD) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1353,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Fator” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "B) Fator — Efeito",
+      "C) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "D) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Fator” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "B": "Correta: Fator — Efeito",
+      "C": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "D": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fator” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nB) CORRETA. Correta: Fator — Efeito\nC) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nD) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1354,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Radial:” está correta?",
+    "opcoes": [
+      "A) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "B) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "C) mão caída (drop wrist), lagoftalmo (ramo do facial",
+      "D) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Radial:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "B": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "C": "Correta: mão caída (drop wrist), lagoftalmo (ramo do facial",
+      "D": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Radial:”.\nA) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nB) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nC) CORRETA. Correta: mão caída (drop wrist), lagoftalmo (ramo do facial)\nD) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1355,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Cápsula” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "B) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "C) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "D) Cápsula — Anti-fagocitária"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Cápsula” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "B": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "C": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "D": "Correta: Cápsula — Anti-fagocitária"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cápsula” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nB) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nC) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nD) CORRETA. Correta: Cápsula — Anti-fagocitária",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1356,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Fibular (peroneiro):” está correta?",
+    "opcoes": [
+      "A) pé caído",
+      "B) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "C) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "D) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fibular (peroneiro):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: pé caído",
+      "B": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "C": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "D": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fibular (peroneiro):”.\nA) CORRETA. Correta: pé caído\nB) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nC) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nD) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1357,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Proteína A” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "B) Proteína A — Liga porção Fc de IgG → bloqueia opsonização",
+      "C) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "D) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Proteína A” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "B": "Correta: Proteína A — Liga porção Fc de IgG → bloqueia opsonização",
+      "C": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "D": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Proteína A” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nB) CORRETA. Correta: Proteína A — Liga porção Fc de IgG → bloqueia opsonização\nC) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nD) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1358,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Mediano:” está correta?",
+    "opcoes": [
+      "A) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "B) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "C) \"mão simiesca\" (hiponar atrofiado",
+      "D) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mediano:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "B": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "C": "Correta: \"mão simiesca\" (hiponar atrofiado",
+      "D": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mediano:”.\nA) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nB) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nC) CORRETA. Correta: \"mão simiesca\" (hiponar atrofiado)\nD) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1359,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “TSST-1 (toxina do choque tóxico)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "B) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "C) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "D) TSST-1 (toxina do choque tóxico) — Superantígeno → ativa 20% dos T cells → tempestade de citocinas → choque"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “TSST-1 (toxina do choque tóxico)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "B": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "C": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "D": "Correta: TSST-1 (toxina do choque tóxico) — Superantígeno → ativa 20% dos T cells → tempestade de citocinas → choque"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “TSST-1 (toxina do choque tóxico)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nB) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nC) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nD) CORRETA. Correta: TSST-1 (toxina do choque tóxico) — Superantígeno → ativa 20% dos T cells → tempestade de citocinas → choque",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1360,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Grande auricular:” está correta?",
+    "opcoes": [
+      "A) espessado e visível no pescoço",
+      "B) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "C) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "D) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Grande auricular:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: espessado e visível no pescoço",
+      "B": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+      "C": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "D": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Grande auricular:”.\nA) CORRETA. Correta: espessado e visível no pescoço\nB) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea\nC) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nD) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1361,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Toxina esfoliativa (ET A/B)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "B) Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "C) Toxina esfoliativa (ET A/B) — Cliva desmoglein-1 → impetigo bolhoso e SSSS",
+      "D) Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Toxina esfoliativa (ET A/B)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática",
+      "B": "Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado",
+      "C": "Correta: Toxina esfoliativa (ET A/B) — Cliva desmoglein-1 → impetigo bolhoso e SSSS",
+      "D": "Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Toxina esfoliativa (ET A/B)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Faringoamigdalite — Exsudato; ausência de tosse; petéquias no palato; base da febre reumática\nB) INCORRETA. Incorreta: Impetigo bolhoso — ET A/B → bolha superficial de conteúdo turvo; não complicado\nC) CORRETA. Correta: Toxina esfoliativa (ET A/B) — Cliva desmoglein-1 → impetigo bolhoso e SSSS\nD) INCORRETA. Incorreta: Hanseníase:: BAAR; nervos palpáveis espessados; anestesia cutânea",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1362,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Tratar apenas em:” está correta?",
+    "opcoes": [
+      "A) gravidez (risco de pielonefrite pré-termo) e antes de procedimento urológico invasivo",
+      "B) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "C) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "D) Proteinúria leve — Pode aparecer em pielonefrite"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Tratar apenas em:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: gravidez (risco de pielonefrite pré-termo) e antes de procedimento urológico invasivo",
+      "B": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "C": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "D": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Tratar apenas em:”.\nA) CORRETA. Correta: gravidez (risco de pielonefrite pré-termo) e antes de procedimento urológico invasivo\nB) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nC) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nD) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1363,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Agente” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Proteinúria leve — Pode aparecer em pielonefrite",
+      "B) Agente — Frequência — Características",
+      "C) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "D) Proteus:: urease → cálculo de estruvita (coraliforme"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Agente” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "B": "Correta: Agente — Frequência — Características",
+      "C": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "D": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Agente” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nB) CORRETA. Correta: Agente — Frequência — Características\nC) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nD) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1364,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Bacteriúria assintomática na gestante” está correta?",
+    "opcoes": [
+      "A) Proteinúria leve — Pode aparecer em pielonefrite",
+      "B) Jato médio (assintomático) — ≥ 10⁵ UFC/mL",
+      "C) → TRATAR (risco de pielonefrite e parto prematuro",
+      "D) Proteus:: urease → cálculo de estruvita (coraliforme"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Bacteriúria assintomática na gestante”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "B": "Incorreta: Jato médio (assintomático) — ≥ 10⁵ UFC/mL",
+      "C": "Correta: → TRATAR (risco de pielonefrite e parto prematuro",
+      "D": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Bacteriúria assintomática na gestante”.\nA) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nB) INCORRETA. Incorreta: Jato médio (assintomático) — ≥ 10⁵ UFC/mL\nC) CORRETA. Correta: → TRATAR (risco de pielonefrite e parto prematuro)\nD) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1365,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “*E. coli* UPEC” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "B) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "C) Proteinúria leve — Pode aparecer em pielonefrite",
+      "D) *E. coli* UPEC — 80–85% de ITU comunitária — Fímbrias tipo 1 e P; hemolisina; toxina CNF"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*E. coli* UPEC” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "B": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "C": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "D": "Correta: *E. coli* UPEC — 80–85% de ITU comunitária — Fímbrias tipo 1 e P; hemolisina; toxina CNF"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*E. coli* UPEC” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nB) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nC) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nD) CORRETA. Correta: *E. coli* UPEC — 80–85% de ITU comunitária — Fímbrias tipo 1 e P; hemolisina; toxina CNF",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1366,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Cistite:” está correta?",
+    "opcoes": [
+      "A) disúria + polaciúria, sem febre; nitrofurantoína ou fosfomicina",
+      "B) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "C) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "D) Proteinúria leve — Pode aparecer em pielonefrite"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cistite:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: disúria + polaciúria, sem febre; nitrofurantoína ou fosfomicina",
+      "B": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "C": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "D": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cistite:”.\nA) CORRETA. Correta: disúria + polaciúria, sem febre; nitrofurantoína ou fosfomicina\nB) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nC) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nD) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1367,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “*Staphylococcus saprophyticus*” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Proteinúria leve — Pode aparecer em pielonefrite",
+      "B) *Staphylococcus saprophyticus* — 5–15% em jovens sexualmente ativas — Coagulase-negativo; único estafilococo comum em ITU comunitária",
+      "C) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "D) Proteus:: urease → cálculo de estruvita (coraliforme"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Staphylococcus saprophyticus*” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "B": "Correta: *Staphylococcus saprophyticus* — 5–15% em jovens sexualmente ativas — Coagulase-negativo; único estafilococo comum em ITU comunitária",
+      "C": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "D": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Staphylococcus saprophyticus*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nB) CORRETA. Correta: *Staphylococcus saprophyticus* — 5–15% em jovens sexualmente ativas — Coagulase-negativo; único estafilococo comum em ITU comunitária\nC) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nD) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1368,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Pielonefrite:” está correta?",
+    "opcoes": [
+      "A) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "B) Proteinúria leve — Pode aparecer em pielonefrite",
+      "C) febre + dor lombar + cilindros leucocitários no EAS",
+      "D) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pielonefrite:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "B": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "C": "Correta: febre + dor lombar + cilindros leucocitários no EAS",
+      "D": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pielonefrite:”.\nA) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nB) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nC) CORRETA. Correta: febre + dor lombar + cilindros leucocitários no EAS\nD) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1369,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “*Klebsiella pneumoniae*” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "B) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "C) Proteinúria leve — Pode aparecer em pielonefrite",
+      "D) *Klebsiella pneumoniae* — 5–8% — Cápsula escorregadia; produtora de ESBL em hospital"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Klebsiella pneumoniae*” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "B": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "C": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "D": "Correta: *Klebsiella pneumoniae* — 5–8% — Cápsula escorregadia; produtora de ESBL em hospital"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Klebsiella pneumoniae*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nB) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nC) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nD) CORRETA. Correta: *Klebsiella pneumoniae* — 5–8% — Cápsula escorregadia; produtora de ESBL em hospital",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1370,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Nitrofurantoína:” está correta?",
+    "opcoes": [
+      "A) NUNCA na pielonefrite",
+      "B) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "C) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "D) Proteinúria leve — Pode aparecer em pielonefrite"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Nitrofurantoína:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: NUNCA na pielonefrite",
+      "B": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+      "C": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "D": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Nitrofurantoína:”.\nA) CORRETA. Correta: NUNCA na pielonefrite\nB) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro)\nC) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nD) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1371,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “*Proteus mirabilis*” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Proteus:: urease → cálculo de estruvita (coraliforme",
+      "B) Proteinúria leve — Pode aparecer em pielonefrite",
+      "C) *Proteus mirabilis* — 2–5% — Urease → alcaliniza urina → cálculo de estruvita (coralliforme",
+      "D) Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Proteus mirabilis*” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme",
+      "B": "Incorreta: Proteinúria leve — Pode aparecer em pielonefrite",
+      "C": "Correta: *Proteus mirabilis* — 2–5% — Urease → alcaliniza urina → cálculo de estruvita (coralliforme",
+      "D": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Proteus mirabilis*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nB) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nC) CORRETA. Correta: *Proteus mirabilis* — 2–5% — Urease → alcaliniza urina → cálculo de estruvita (coralliforme)\nD) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1372,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Aeróbio obrigatório” está correta?",
+    "opcoes": [
+      "A) se encontra em água, solo, equipamentos hospitalares úmidos",
+      "B) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "C) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: se encontra em água, solo, equipamentos hospitalares úmidos",
+      "B": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "C": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.\nA) CORRETA. Correta: se encontra em água, solo, equipamentos hospitalares úmidos\nB) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nC) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico\nD) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1373,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Bactéria” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B) Bactéria — Habitat — Doenças Principais",
+      "C) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "D) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Bactéria” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B": "Correta: Bactéria — Habitat — Doenças Principais",
+      "C": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "D": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Bactéria” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) CORRETA. Correta: Bactéria — Habitat — Doenças Principais\nC) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nD) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1374,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Aeróbio obrigatório” está correta?",
+    "opcoes": [
+      "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B) Etambutol:: neurite óptica → monitorar visão",
+      "C) → preferência por ápices pulmonares (alta pO₂",
+      "D) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B": "Incorreta: Etambutol:: neurite óptica → monitorar visão",
+      "C": "Correta: → preferência por ápices pulmonares (alta pO₂",
+      "D": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) INCORRETA. Incorreta: Etambutol:: neurite óptica → monitorar visão\nC) CORRETA. Correta: → preferência por ápices pulmonares (alta pO₂)\nD) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1375,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “*Escherichia coli*” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "B) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "C) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "D) *Escherichia coli* — Cólon normal + hospitalar — ITU, diarreia (ETEC, EPEC, EHEC), sepse, meningite neonatal"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Escherichia coli*” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "B": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "C": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "D": "Correta: *Escherichia coli* — Cólon normal + hospitalar — ITU, diarreia (ETEC, EPEC, EHEC), sepse, meningite neonatal"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Escherichia coli*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nB) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico\nC) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nD) CORRETA. Correta: *Escherichia coli* — Cólon normal + hospitalar — ITU, diarreia (ETEC, EPEC, EHEC), sepse, meningite neonatal",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1376,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “TB pulmonar cavitária” está correta?",
+    "opcoes": [
+      "A) bacilífero (BAAR 3+) → isolar + notificar",
+      "B) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "C) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “TB pulmonar cavitária”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: bacilífero (BAAR 3+) → isolar + notificar",
+      "B": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "C": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “TB pulmonar cavitária”.\nA) CORRETA. Correta: bacilífero (BAAR 3+) → isolar + notificar\nB) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nC) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico\nD) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1377,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “*Klebsiella pneumoniae*” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B) *Klebsiella pneumoniae* — Cólon; hospitalar + comunidade — Pneumonia lobular (imunodeprimidos); ITU; sepse hospitalar; produtora de KPC/ESBL",
+      "C) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "D) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Klebsiella pneumoniae*” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B": "Correta: *Klebsiella pneumoniae* — Cólon; hospitalar + comunidade — Pneumonia lobular (imunodeprimidos); ITU; sepse hospitalar; produtora de KPC/ESBL",
+      "C": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "D": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Klebsiella pneumoniae*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) CORRETA. Correta: *Klebsiella pneumoniae* — Cólon; hospitalar + comunidade — Pneumonia lobular (imunodeprimidos); ITU; sepse hospitalar; produtora de KPC/ESBL\nC) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nD) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1378,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “EHEC O157:” está correta?",
+    "opcoes": [
+      "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B) Etambutol:: neurite óptica → monitorar visão",
+      "C) toxina Shiga → SHU → NÃO dar antibiótico",
+      "D) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “EHEC O157:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "B": "Incorreta: Etambutol:: neurite óptica → monitorar visão",
+      "C": "Correta: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “EHEC O157:”.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) INCORRETA. Incorreta: Etambutol:: neurite óptica → monitorar visão\nC) CORRETA. Correta: toxina Shiga → SHU → NÃO dar antibiótico\nD) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1379,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “*Salmonella typhi*” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "B) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "C) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "D) *Salmonella typhi* — Via fecal-oral — Febre tifoide: febre plateau, dor abdominal, roséola tífica, leucopenia"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Salmonella typhi*” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "B": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "C": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "D": "Correta: *Salmonella typhi* — Via fecal-oral — Febre tifoide: febre plateau, dor abdominal, roséola tífica, leucopenia"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Salmonella typhi*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nB) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico\nC) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nD) CORRETA. Correta: *Salmonella typhi* — Via fecal-oral — Febre tifoide: febre plateau, dor abdominal, roséola tífica, leucopenia",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1380,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Pseudomonas:” está correta?",
+    "opcoes": [
+      "A) multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso",
+      "B) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "C) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pseudomonas:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso",
+      "B": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+      "C": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "D": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pseudomonas:”.\nA) CORRETA. Correta: multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso\nB) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nC) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico\nD) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1381,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “*Salmonella* não-typhi” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "B) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "C) *Salmonella* não-typhi — Alimento contaminado — Gastrenterite; bacteremia em falcêmicos e imunodeprimidos",
+      "D) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “*Salmonella* não-typhi” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
+      "B": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
+      "C": "Correta: *Salmonella* não-typhi — Alimento contaminado — Gastrenterite; bacteremia em falcêmicos e imunodeprimidos",
+      "D": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “*Salmonella* não-typhi” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico\nB) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nC) CORRETA. Correta: *Salmonella* não-typhi — Alimento contaminado — Gastrenterite; bacteremia em falcêmicos e imunodeprimidos\nD) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1382,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Influenza A:” está correta?",
+    "opcoes": [
+      "A) maior diversidade antigênica; causa epidemias e pandemias",
+      "B) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "C) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "D) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Influenza A:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: maior diversidade antigênica; causa epidemias e pandemias",
+      "B": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "C": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "D": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Influenza A:”.\nA) CORRETA. Correta: maior diversidade antigênica; causa epidemias e pandemias\nB) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nC) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nD) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1383,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Tipo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "B) Tipo — Mecanismo — Consequência",
+      "C) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "D) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\""
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Tipo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "B": "Correta: Tipo — Mecanismo — Consequência",
+      "C": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "D": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\""
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tipo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nB) CORRETA. Correta: Tipo — Mecanismo — Consequência\nC) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nD) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1384,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Influenza B:” está correta?",
+    "opcoes": [
+      "A) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "B) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "C) epidemias sazonais; apenas em humanos (sem reservatório animal",
+      "D) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Influenza B:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "B": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "C": "Correta: epidemias sazonais; apenas em humanos (sem reservatório animal",
+      "D": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Influenza B:”.\nA) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nB) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nC) CORRETA. Correta: epidemias sazonais; apenas em humanos (sem reservatório animal)\nD) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1385,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Drift (deriva antigênica)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "B) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "C) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "D) Drift (deriva antigênica) — Mutações pontuais no RNA de HA/NA — Epidemias sazonais; necessidade de reformulação anual da vacina"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Drift (deriva antigênica)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "B": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "C": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "D": "Correta: Drift (deriva antigênica) — Mutações pontuais no RNA de HA/NA — Epidemias sazonais; necessidade de reformulação anual da vacina"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Drift (deriva antigênica)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nB) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nC) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nD) CORRETA. Correta: Drift (deriva antigênica) — Mutações pontuais no RNA de HA/NA — Epidemias sazonais; necessidade de reformulação anual da vacina",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1386,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Influenza C:” está correta?",
+    "opcoes": [
+      "A) doença leve; sem variação antigênica significativa",
+      "B) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "C) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "D) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Influenza C:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: doença leve; sem variação antigênica significativa",
+      "B": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "C": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "D": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Influenza C:”.\nA) CORRETA. Correta: doença leve; sem variação antigênica significativa\nB) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nC) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nD) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1387,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Shift (salto antigênico)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "B) Shift (salto antigênico) — Rearranjo genético (reassortment) entre 2 cepas em co-infecção — Novo subtipo → sem imunidade prévia → pandemia",
+      "C) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "D) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\""
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Shift (salto antigênico)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "B": "Correta: Shift (salto antigênico) — Rearranjo genético (reassortment) entre 2 cepas em co-infecção — Novo subtipo → sem imunidade prévia → pandemia",
+      "C": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "D": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\""
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Shift (salto antigênico)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nB) CORRETA. Correta: Shift (salto antigênico) — Rearranjo genético (reassortment) entre 2 cepas em co-infecção — Novo subtipo → sem imunidade prévia → pandemia\nC) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nD) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1388,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Hemaglutinina (HA, H1–H18):” está correta?",
+    "opcoes": [
+      "A) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "B) RT-PCR (swab):: padrão ouro; janela positiva: sintomas até ~10 dias",
+      "C) adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "D) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hemaglutinina (HA, H1–H18):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "B": "Incorreta: RT-PCR (swab):: padrão ouro; janela positiva: sintomas até ~10 dias",
+      "C": "Correta: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "D": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hemaglutinina (HA, H1–H18):”.\nA) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nB) INCORRETA. Incorreta: RT-PCR (swab):: padrão ouro; janela positiva: sintomas até ~10 dias\nC) CORRETA. Correta: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nD) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1389,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Síndrome” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "B) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "C) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "D) Síndrome — Manifestações"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Síndrome” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "B": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "C": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "D": "Correta: Síndrome — Manifestações"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Síndrome” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nB) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nC) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nD) CORRETA. Correta: Síndrome — Manifestações",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1390,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Neuraminidase (NA, N1–N11):” está correta?",
+    "opcoes": [
+      "A) ativa liberação dos novos vírus da célula; alvo dos inibidores de neuraminidase (oseltamivir, zanamivir",
+      "B) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "C) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "D) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Neuraminidase (NA, N1–N11):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ativa liberação dos novos vírus da célula; alvo dos inibidores de neuraminidase (oseltamivir, zanamivir",
+      "B": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+      "C": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "D": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Neuraminidase (NA, N1–N11):”.\nA) CORRETA. Correta: ativa liberação dos novos vírus da célula; alvo dos inibidores de neuraminidase (oseltamivir, zanamivir)\nB) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial\nC) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nD) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1391,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Gripe (influenza)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "B) Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "C) Gripe (influenza) — Início abrupto: febre alta (> 38,5°C), mialgia intensa, cefaleia, prostração; coriza e tosse menos proeminentes",
+      "D) Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Gripe (influenza)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"",
+      "B": "Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora",
+      "C": "Correta: Gripe (influenza) — Início abrupto: febre alta (> 38,5°C), mialgia intensa, cefaleia, prostração; coriza e tosse menos proeminentes",
+      "D": "Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Gripe (influenza)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Parainfluenza — Paramyxovirus — Croup (laringotraqueobronquite) em crianças — \"tosse de foca\"\nB) INCORRETA. Incorreta: Hemaglutinina (HA, H1–H18):: adere ao ácido siálico do epitélio respiratório; neutralização por Ac é protetora\nC) CORRETA. Correta: Gripe (influenza) — Início abrupto: febre alta (> 38,5°C), mialgia intensa, cefaleia, prostração; coriza e tosse menos proeminentes\nD) INCORRETA. Incorreta: Microtrombose — Ativação endotelial → coagulopatia → trombose venosa e arterial",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1392,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Síndrome de Guillain-Barré:” está correta?",
+    "opcoes": [
+      "A) desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "B) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "C) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "D) Sinal de Alarme — Dengue Grave"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome de Guillain-Barré:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "B": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "C": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "D": "Incorreta: Sinal de Alarme — Dengue Grave"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome de Guillain-Barré:”.\nA) CORRETA. Correta: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nB) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nC) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nD) INCORRETA. Incorreta: Sinal de Alarme — Dengue Grave",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1393,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Fase” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B) Fase — Tempo — Manifestações",
+      "C) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "D) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Fase” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B": "Correta: Fase — Tempo — Manifestações",
+      "C": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "D": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fase” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nB) CORRETA. Correta: Fase — Tempo — Manifestações\nC) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nD) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1394,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Síndrome congênita do Zika:” está correta?",
+    "opcoes": [
+      "A) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "B) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "C) microcefalia, calcificações cerebrais, malformações oculares → infecção no 1º trimestre tem maior risco",
+      "D) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome congênita do Zika:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "B": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "C": "Correta: microcefalia, calcificações cerebrais, malformações oculares → infecção no 1º trimestre tem maior risco",
+      "D": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome congênita do Zika:”.\nA) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nB) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nC) CORRETA. Correta: microcefalia, calcificações cerebrais, malformações oculares → infecção no 1º trimestre tem maior risco\nD) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1395,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Febril” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "B) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "C) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "D) Febril — Dias 1–3 — Febre alta (+38,5°C), mialgia, artralgia, cefaleia retro-orbitária, eritema macular"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Febril” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "B": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "C": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "D": "Correta: Febril — Dias 1–3 — Febre alta (+38,5°C), mialgia, artralgia, cefaleia retro-orbitária, eritema macular"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Febril” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nB) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nC) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nD) CORRETA. Correta: Febril — Dias 1–3 — Febre alta (+38,5°C), mialgia, artralgia, cefaleia retro-orbitária, eritema macular",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1396,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Fase crônica:” está correta?",
+    "opcoes": [
+      "A) artralgia persistente > 3 meses → artrite inflamatória incapacitante (principal morbidade",
+      "B) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "C) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "D) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fase crônica:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: artralgia persistente > 3 meses → artrite inflamatória incapacitante (principal morbidade",
+      "B": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "C": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "D": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fase crônica:”.\nA) CORRETA. Correta: artralgia persistente > 3 meses → artrite inflamatória incapacitante (principal morbidade)\nB) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nC) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nD) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1397,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Crítica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B) Crítica — Dias 4–5 — Desfervescência → risco de extravasamento plasmático → dengue grave",
+      "C) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "D) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Crítica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B": "Correta: Crítica — Dias 4–5 — Desfervescência → risco de extravasamento plasmático → dengue grave",
+      "C": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "D": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Crítica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nB) CORRETA. Correta: Crítica — Dias 4–5 — Desfervescência → risco de extravasamento plasmático → dengue grave\nC) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nD) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1398,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Dengvaxia (CYD-TDV):” está correta?",
+    "opcoes": [
+      "A) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B) Sinal de Alarme — Dengue Grave",
+      "C) apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "D) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Dengvaxia (CYD-TDV):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B": "Incorreta: Sinal de Alarme — Dengue Grave",
+      "C": "Correta: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "D": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Dengvaxia (CYD-TDV):”.\nA) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nB) INCORRETA. Incorreta: Sinal de Alarme — Dengue Grave\nC) CORRETA. Correta: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nD) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1399,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual alternativa associa corretamente “Recuperação” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "B) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "C) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "D) Recuperação — Dias 6–7 — Resolução; rash \"ilhas brancas em mar vermelho\""
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Recuperação” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "B": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "C": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "D": "Correta: Recuperação — Dias 6–7 — Resolução; rash \"ilhas brancas em mar vermelho\""
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Recuperação” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nB) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nC) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nD) CORRETA. Correta: Recuperação — Dias 6–7 — Resolução; rash \"ilhas brancas em mar vermelho\"",
+    "aula_id": "mad1_a17"
+  },
+  {
+    "id": 1400,
+    "materia": "mad1",
+    "tema": "mad1_a17",
+    "enunciado": "Qual afirmação sobre “Dengue:” está correta?",
+    "opcoes": [
+      "A) AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "C) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "D) Sinal de Alarme — Dengue Grave"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Dengue:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "B": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+      "C": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "D": "Incorreta: Sinal de Alarme — Dengue Grave"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Dengue:”.\nA) CORRETA. Correta: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nB) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente\nC) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nD) INCORRETA. Incorreta: Sinal de Alarme — Dengue Grave",
+    "aula_id": "mad1_a17"
+  }
+]

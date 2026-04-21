@@ -1,6 +1,6 @@
 # MAD1 — Aula 19: Infecção pelo HIV e AIDS
 
-O HIV (Vírus da Imunodeficiência Humana) transformou-se de uma doença fatal em uma condição crônica tratável. Na prova, os temas centrais são o **Ciclo Replicativo Viral**, os critérios para diagnóstico de **AIDS** (CD4 < 200) e as principais **Infecções Oportunistas**.
+O HIV (Vírus da Imunodeficiência Humana) transformou-se de uma doença fatal em uma condição crônica tratável. Na prova, os temas centrais são o **Ciclo Replicativo Viral**, os critérios para diagnóstico de **AIDS** (**CD4 < 200**) e as principais **Infecções Oportunistas**.
 
 Na prática, o início precoce da Terapia Antirretroviral (TARV) e o conceito de **I=I (Indetectável = Intransmissível)** são os pilares do cuidado moderno ao paciente vivendo com HIV.
 
@@ -32,8 +32,8 @@ Ter HIV não é o mesmo que ter AIDS. **AIDS** é o estágio avançado da infec�
 - **OU** Presença de uma **Doença Definidora** (ex: Sarcoma de Kaposi, Pneumocistose).
 
 ### Infecções Oportunistas por Faixa de CD4:
-- **CD4 < 200:** **Pneumocistose (PCP)** — Pneumonia com cansaço extremo e RX com aspecto de "vidro fosco".
-- **CD4 < 100:** **Toxoplasmose Cerebral** — Causa dor de cabeça e convulsões (Imagem mostra "lesões em alvo").
+- **CD4 < 200:** **Pneumocistose (PCP)** — Pneumonia com cansaço extremo e RX com aspecto de "**vidro fosco**".
+- **CD4 < 100:** **Toxoplasmose Cerebral** — Causa dor de cabeça e convulsões (Imagem mostra "**lesões em alvo**").
 - **CD4 < 50:** **CMV (Retinite)** e Micobactérias atípicas.
 
 ---
@@ -76,9 +76,9 @@ Nas complicações, guarde o número **200**. Abaixo de 200 de CD4, o pulmão co
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **HIV+** | **AIDS** | Portador do vírus vs **Imunossuprimido (CD4<200)** |
+| **HIV+** | **AIDS** | Portador do vírus vs **Imunossuprimido (CD4 < 200)** |
 | **PrEP** | **PEP** | Profilaxia **Antes** (Prevenção) vs **Depois** (Emergência) |
-| **Pneumocistose** | **Tuberculose** | CD4 < 200 (Oportunista) vs Qualquer CD4 |
+| **Pneumocistose** | **Tuberculose** | **CD4 < 200 (Oportunista)** vs Qualquer CD4 |
 | **gp120** | **gp41** | Proteína de **Ligação** vs Proteína de **Fusão** |
 | **PCR (Carga Viral)** | **ELISA/Teste Rápido** | Vê o vírus (Monitora cura) vs Vê a defesa (Diagnóstico) |
 

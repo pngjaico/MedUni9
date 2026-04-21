@@ -2,7 +2,7 @@
 
 O Sistema Nervoso Simpático é o acelerador do corpo para situações de "luta ou fuga". Na prova, os temas centrais são a localização e o efeito dos receptores **alfa (α)** e **beta (β)**, o uso da **Adrenalina** e **Noradrenalina** em choques e anafilaxia, e as contraindicações fatais de certos **Betabloqueadores**.
 
-Na prática, o médico deve saber que dar o remédio errado para o receptor errado pode ser a diferença entre salvar um paciente com choque séptico ou causar uma crise de asma fatal em um hipertenso.
+Na prática, o médico deve saber que dar o remédio errado para o receptor errado pode ser a diferença entre salvar um paciente com **choque séptico** ou causar uma **crise de asma fatal** em um hipertenso.
 
 ---
 
@@ -26,10 +26,10 @@ O sistema simpático age através de receptores específicos. Decorar a função
 
 ## 2. Agonistas: As Drogas que "Ligam" o Sistema
 
-- **Adrenalina (Epinefrina):** Ativa α₁, β₁ e β₂. É a droga número um para **Anaerfilaria** (dobra a pressão e abre o pulmão) e na **Parada Cardíaca**.
+- **Adrenalina (Epinefrina):** Ativa α₁, β₁ e β₂. É a droga número um para **Anafilaxia** (dobra a pressão e abre o pulmão) e na **Parada Cardíaca**.
 - **Noradrenalina:** Ativa principalmente α₁ e um pouco de β₁. É a droga de escolha no **Choque Séptico** para subir a pressão arterial sem acelerar demais o coração.
 - **Dobutamina:** Ativa principalmente β₁. É usada no **Choque Cardiogênico** (coração fraco após infarto) para aumentar a força do coração.
-- **Salbutamol (Bombinha):** Ativa β₂. Usado para abrir os brônquios na asma.
+- **Salbutamol (Bombinha):** Ativa β₂. Usado para **abrir os brônquios** na asma.
 
 ---
 
@@ -37,7 +37,7 @@ O sistema simpático age através de receptores específicos. Decorar a função
 
 - **Bloqueadores Alfa-1 (Ex: Tansulosina):** Relaxam a próstata e os vasos. Usados na **HPB (Próstata Grande)** e hipertensão.
 - **Betabloqueadores (BB):** "Acalmam" o coração.
-    - **Não Seletivos (Propranolol):** Bloqueiam β₁ e β₂. **CUIDADO:** Podem fechar o pulmão de quem tem asma.
+    - **Não Seletivos (Propranolol):** Bloqueiam β₁ e β₂. **CUIDADO:** Podem **fechar o pulmão** de quem tem asma.
     - **Seletivos (Atenolol / Metoprolol):** Bloqueiam apenas o β₁ (coração). São mais seguros para asmáticos e diabéticos.
 
 ---

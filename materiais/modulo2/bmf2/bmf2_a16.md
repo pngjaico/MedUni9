@@ -1,4 +1,4 @@
-﻿# BMF2 — Aula 16: Prática — Anatomia e Histologia Respiratória
+# BMF2 — Aula 16: Prática — Anatomia e Histologia Respiratória
 
 ## Relevância Clínica e Acadêmica
 
@@ -26,8 +26,8 @@ No sistema respiratório, isso fica muito evidente: diferenciar brônquio de bro
 1. Comece pela **traqueia** e identifique os anéis cartilaginosos em "C".
 2. Siga até a **carina** e confirme a bifurcação.
 3. Compare **brônquio principal direito** e **esquerdo** pela orientação.
-4. Localize a entrada no hilo de cada pulmão.
-5. Só depois parta para lobos, fissuras e pleura.
+4. Localize a entrada no **hilo** de cada pulmão.
+5. Só depois parta para **lobos**, **fissuras** e **pleura**.
 
 Essa sequência evita a confusão comum de começar pelo pulmão sem ponto de referência central.
 
@@ -56,13 +56,13 @@ Essa sequência evita a confusão comum de começar pelo pulmão sem ponto de re
 
 ### Identificação de lobos e fissuras
 
-No pulmão direito, procure duas fissuras (oblíqua e horizontal) separando três lobos. No esquerdo, procure apenas a fissura oblíqua e a impressão cardíaca mais evidente, além da língula como projeção do lobo superior.
+No pulmão direito, procure duas fissuras (**oblíqua** e **horizontal**) separando três lobos. No esquerdo, procure apenas a **fissura oblíqua** e a **impressão cardíaca** mais evidente, além da **língula** como projeção do lobo superior.
 
 Em prática, a fissura horizontal pode estar incompleta. Nesses casos, use conjunto de sinais, não um único achado.
 
 ### Hilo pulmonar: leitura útil para prova prática
 
-- Estruturas do hilo: **brônquio**, **artéria pulmonar**, **veias pulmonares**, vasos linfáticos e plexos nervosos.
+- Estruturas do hilo: **brônquio**, **artéria pulmonar**, **veias pulmonares**, **vasos linfáticos** e **plexos nervosos**.
 - O brônquio tende a ter parede mais espessa e irregular por conta da cartilagem.
 - Veias pulmonares costumam estar em posição mais inferior/anterior no hilo.
 
@@ -104,9 +104,9 @@ O recesso costodiafragmático é o ponto mais dependente em posição ortostáti
 
 ### Identificação estruturada
 
-- Reconheça o diafragma como principal músculo inspiratório.
-- Relembre inervação motora pelo nervo frênico (C3-C5).
-- Localize os três hiatos clássicos e seu conteúdo.
+- Reconheça o **diafragma** como principal músculo inspiratório.
+- Relembre inervação motora pelo **nervo frênico (C3-C5)**.
+- Localize os três **hiatos** clássicos e seu conteúdo.
 
 ### Tabela útil de alta incidência em prova
 
@@ -141,16 +141,16 @@ Essa ordem reduz confusões entre brônquio, bronquíolo terminal e bronquíolo 
 
 | Estrutura | Critérios-chave | Confusão comum |
 |---|---|---|
-| Traqueia | Epitélio respiratório + cartilagem hialina em arco + glândulas submucosas | Confundir com brônquio extrapulmonar sem avaliar contexto |
-| Brônquio | Placas cartilaginosas + epitélio respiratório + camada muscular | Chamar de traqueia quando a cartilagem não forma arco contínuo |
-| Bronquíolo terminal | Sem cartilagem, sem glândulas, epitélio cúbico/ciliado, sem alvéolos na parede | Confundir com bronquíolo respiratório |
-| Bronquíolo respiratório | Parede já interrompida por alvéolos | Chamar de ducto alveolar cedo demais |
-| Ducto/saco alveolar | Predomínio de alvéolos, paredes muito delgadas | Confundir com artefato de corte |
+| **Traqueia** | Epitélio respiratório + cartilagem hialina em arco + glândulas submucosas | Confundir com brônquio extrapulmonar sem avaliar contexto |
+| **Brônquio** | Placas cartilaginosas + epitélio respiratório + camada muscular | Chamar de traqueia quando a cartilagem não forma arco contínuo |
+| **Bronquíolo terminal** | **Sem cartilagem**, sem glândulas, **epitélio cúbico/ciliado**, sem alvéolos na parede | Confundir com bronquíolo respiratório |
+| **Bronquíolo respiratório** | **Parede já interrompida por alvéolos** | Chamar de ducto alveolar cedo demais |
+| **Ducto/saco alveolar** | Predomínio de alvéolos, paredes muito delgadas | Confundir com artefato de corte |
 
 ### Alvéolo: leitura de detalhe
 
 - **Pneumócito tipo I:** célula achatada, principal para difusão.
-- **Pneumócito tipo II:** célula mais cúbica, produtora de surfactante, reparo epitelial.
+- **Pneumócito tipo II:** célula mais cúbica, produtora de **surfactante**, reparo epitelial.
 - **Macrófago alveolar:** célula livre no lúmen/septo, pode conter pigmento antracótico.
 
 ### Erros clássicos de OSPE em histologia

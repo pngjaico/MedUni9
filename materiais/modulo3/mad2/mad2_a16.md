@@ -1,8 +1,8 @@
 # MAD2 — Aula 16: Antibióticos — Inibidores de Síntese de Parede
 
-Os inibidores da síntese de parede celular são a "supercola" que falha na mão das bactérias. Na prova, os temas centrais são os **Beta-lactâmicos** (Penicilinas, Cefalosporinas, Carbapenêmicos) e os **Glicopeptídeos** (Vancomicina), focando em seus espectros de ação e nos mecanismos de resistência.
+Os inibidores da síntese de parede celular são a "supercola" que falha na mão das bactérias. Na prova, os temas centrais são os **Beta-lactâmicos** (**Penicilinas, Cefalosporinas, Carbapenêmicos**) e os **Glicopeptídeos** (**Vancomicina**), focando em seus espectros de ação e nos mecanismos de resistência.
 
-Na prática, esses são os antibióticos mais usados na medicina, e o médico deve saber qual geração de cefalosporina escolher para cobrir desde uma simples dor de garganta até uma meningite bacteriana grave.
+Na prática, esses são os antibióticos mais usados na medicina, e o médico deve saber qual geração de cefalosporina escolher para cobrir desde uma simples dor de garganta até uma **meningite bacteriana** grave.
 
 ---
 
@@ -18,13 +18,13 @@ Na prática, esses são os antibióticos mais usados na medicina, e o médico de
 ## 1. Beta-Lactâmicos: A Família Real
 
 Eles agem impedindo a formação da parede de peptideoglicano da bactéria.
-- **Penicilinas:** A **Penicilina G** é a droga de escolha para Sífilis. A **Amoxicilina** é o padrão para sinusites e otites.
+- **Penicilinas:** A **Penicilina G** é a droga de escolha para **Sífilis**. A **Amoxicilina** é o padrão para sinusites e otites.
 - **Cefalosporinas:** São divididas em gerações para facilitar o estudo:
     - **1ª Geração (Cefalexina):** Foco em **Gram-positivos** (coisas da pele).
     - **2ª Geração (Cefuroxima):** Começa a pegar alguns Gram-negativos.
     - **3ª Geração (Ceftriaxona):** Excelente para **Meningite** e Pneumonia (atravessa a barreira do cérebro).
-    - **4ª Geração (Cefepime):** "Antipseudomonas", usada em infecções hospitalares graves.
-- **Carbapenêmicos (Meropenem):** O "coringa" do hospital para bactérias multirresistentes.
+    - **4ª Geração (Cefepime):** "**Antipseudomonas**", usada em infecções hospitalares graves.
+- **Carbapenêmicos (Meropenem):** O "coringa" do hospital para bactérias **multirresistentes**.
 
 ---
 
@@ -40,15 +40,15 @@ Algumas bactérias produzem uma enzima (tesoura) chamada **Beta-lactamase** que 
 
 Eles agem em um lugar diferente da parede, sendo muito potentes.
 - **Espectro:** Só funcionam para **Gram-positivos**. São a droga de escolha para tratar o temido **MRSA** (Estafilococo resistente à penicilina/oxacilina).
-- **Atenção:** Se aplicar Vancomicina muito rápido na veia, o paciente pode ficar todo vermelho (**Síndrome do Homem Vermelho**). Não é alergia, é liberação de histamina! Basta correr o soro mais devagar.
+- **Atenção:** Se aplicar **Vancomicina** muito rápido na veia, o paciente pode ficar todo vermelho (**Síndrome do Homem Vermelho**). Não é alergia, é liberação de histamina! Basta correr o soro mais devagar.
 
 ---
 
 ## 4. Resistência Bacteriana: O Contra-Ataque
 
 As bactérias aprendem a se defender de três formas principais:
-1.  **Mudança do Alvo (PBP):** A bactéria muda a "fechadura" onde o antibiótico se ligava. É o que o **MRSA** faz.
-2.  **Produção de Enzimas:** A já citada beta-lactamase (tesoura).
+1.  **Mudança do Alvo (PBP):** A bactéria muda a "**fechadura**" onde o antibiótico se ligava. É o que o **MRSA** faz.
+2.  **Produção de Enzimas:** A já citada **beta-lactamase** (tesoura).
 3.  **Bombas de Efluxo:** A bactéria "cospe" o antibiótico para fora assim que ele entra.
 
 ---
@@ -84,10 +84,10 @@ A Uninove adora o **Meropenem**. Saiba que ele é o "porto seguro" para bactéri
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Penicilina G** | **Oxacilina** | Trata Sífilis/Garganta vs **Trata Estafilococo de pele** |
+| **Penicilina G** | **Oxacilina** | Trata **Sífilis**/Garganta vs **Trata Estafilococo de pele** |
 | **Ceftriaxona (3ª)** | **Cefalexina (1ª)** | Ótimo p/ Gram-negativos (Interno) vs Ótimo p/ Gram-positivos (Externo) |
-| **Bactericida** | **Bacteriostático** | Mata a bactéria (Parede) vs Apenas impede o crescimento |
-| **Beta-lactamase** | **Mudança da PBP** | Tesoura que corta o remédio vs Mudança da fechadura (MRSA) |
+| **Bactericida** | **Bacteriostático** | **Mata a bactéria** (Parede) vs Apenas impede o crescimento |
+| **Beta-lactamase** | **Mudança da PBP** | **Tesoura** que corta o remédio vs Mudança da fechadura (**MRSA**) |
 | **Vancomicina** | **Penicilinas** | Só Gram-positivos graves vs Espectro mais amplo |
 
 ### Frase-âncora para não esquecer

@@ -21,14 +21,14 @@ Na prática, o estudo ecológico é a ferramenta perfeita para a saúde pública
 - **Dados Agregados:** Usa médias e taxas coletadas pelo governo (**DATASUS, IBGE**).
 - **Tipos Principal:** 
   - **Séries Temporais:** Como uma doença muda ao longo dos anos em uma cidade.
-  - **Comparação Geográfica:** Comparar a taxa de infarto de São Paulo com a de Minas Gerais.
+  - **Comparação Geográfica:** Comparar a taxa de infarto de **São Paulo** com a de **Minas Gerais**.
 
 ---
 
 ## 2. A Falácia Ecológica: O Grande Erro
 
 Este é o conceito que mais cai em prova sobre este tema:
-- **A Definição:** É o erro de achar que uma associação encontrada no grupo vale obrigatoriamente para o indivíduo.
+- **Falácia Ecológica:** É o erro de achar que uma associação encontrada no grupo vale obrigatoriamente para o indivíduo.
 - **Exemplo Clássico:** Países com maior venda de televisores têm maior expectativa de vida.
 - **O Erro:** Concluir que "comprar uma TV faz você viver mais". Na verdade, a TV é apenas um sinal de **Riqueza do País**. É a riqueza que traz saúde, não a televisão. O que vale para o país (grupo) não causou o efeito na pessoa (indivíduo).
 
@@ -37,7 +37,7 @@ Este é o conceito que mais cai em prova sobre este tema:
 ## 3. Vantagens e Por que usar?
 
 - **Velocidade:** Como os dados já estão no computador do governo, o estudo pode ser feito em poucas horas.
-- **Fatores Ambientais:** É o melhor estudo para coisas que atingem todo mundo ao mesmo tempo (Ex: Poluição do ar, Temperatura da cidade, Qualidade da água). Não tem como medir a poluição individual "de cada pulmão" facilmente, então medimos a da cidade.
+- **Fatores Ambientais:** É o melhor estudo para coisas que atingem todo mundo ao mesmo tempo (Ex: **Poluição do ar, Temperatura da cidade, Qualidade da água**). Não tem como medir a poluição individual "de cada pulmão" facilmente, então medimos a da cidade.
 - **Gerador de Ideias:** Serve para "dar o estalo" inicial. "Olhe, parece que onde se come mais feijão tem menos anemia. Vamos fazer um teste individual agora?".
 
 ---
@@ -52,13 +52,13 @@ No estudo de grupos, é muito difícil separar o que é causa real do que é coi
 
 ## Ponte com a Clínica
 
-No seu dia a dia, você ouvirá dizer que "em países mediterrâneos, o consumo de azeite protege o coração". Isso é um dado ecológico. Ele é útil para sugerir uma dieta saudável para o seu paciente, mas cuidado para não ser determinista. O fato de um país ter baixa taxa de infarto não garante que **aquele seu paciente específico** esteja protegido apenas por tomar azeite se ele tiver outros riscos genéticos ou hábitos ruins.
+No seu dia a dia, você ouvirá dizer que "em países **mediterrâneos**, o consumo de azeite protege o coração". Isso é um dado ecológico. Ele é útil para sugerir uma dieta saudável para o seu paciente, mas cuidado para não ser determinista. O fato de um país ter baixa taxa de infarto não garante que **aquele seu paciente específico** esteja protegido apenas por tomar azeite se ele tiver outros riscos genéticos ou hábitos ruins.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Grupo**: É a unidade do estudo. Se a questão fala de "Média por cidade" ou "Taxa por estado", o estudo é Ecológico.
+- **Grupo**: É a unidade do estudo. Se a questão fala de "Média por cidade" ou "Taxa por estado", o estudo é **Ecológico**.
 - **Falácia Ecológica**: Não extrapole do grupo para o indivíduo.
 - **Custo Zero**: Geralmente usa dados que já existem (Sistemas de Informação).
 - **Temporalidade**: Séries temporais são as melhores para ver o efeito de uma nova lei ou vacina em uma população.
@@ -82,7 +82,7 @@ A Uninove adora cobrar a **Falácia**. Lembre-se: Viu uma conclusão do tipo "Lo
 | Estudo A | Estudo B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Ecológico** | **Transversal** | Dados de **Grupos** vs Dados de **Indivíduos** |
-| **Série Temporal** | **Coorte** | Olha o **Grupo** mudar vs Olha o **Indivíduo** mudar |
+| **Série Temporal** | **Coorte** | Olha o **Grupo mudar** vs Olha o **Indivíduo mudar** |
 | **Falácia Ecológica**| **Viés de Memória** | Erro de **Inferência de Nível** vs Erro de **Lembrança Individual** |
 | **Dado Agregado** | **Dado Primário** | O que o **Governo** mediu vs O que o **Médico** mediu |
 | **Plausibilidade** | **Causalidade** | Sugere que **Pode ser** vs Prova que **É** |

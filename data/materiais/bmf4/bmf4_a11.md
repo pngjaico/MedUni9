@@ -1,134 +1,94 @@
-# Histologia do Sistema Nervoso — Neurônios e Glia
+# BMF4 — Aula 11: Histologia do Sistema Nervoso — Neurônios e Glia
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a11
+O sistema nervoso é feito de unidades de processamento (neurônios) e de suporte (glia). Na prova, os temas centrais são a estrutura do **Neurônio** (especialmente o **Corpúsculo de Nissl**), a diferença entre **Oligodendrócitos e Células de Schwann** e as funções da **Microglia e Astrócitos**.
+
+Na prática, a histologia explica as doenças. Quando um paciente tem **Esclerose Múltipla**, o alvo do sistema imune é a bainha de mielina no centro (**SNC**). Quando ele tem a **Síndrome de Guillain-Barré**, o alvo é a mielina na periferia (**SNP**). Entender quem produz a mielina em cada lugar te dá o diagnóstico da doença.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-"Células nervosas não se dividem" — essa máxima (parcialmente incorreta) e sua exceção interessam às Unidades Hospitalares que cobram tumores do SNC. Gliomas surgem de células da glia (que se dividem), não de neurônios. Conhecer os tipos de glia explica a patogênese de esclerose múltipla (desmielinização dos oligodendrócitos), doença de Alzheimer (tau em neurônios) e astrogliose pós-trauma.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A11-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de células da glia.
+- **O que mostrar:** O "Exército de Suporte": Uma cena microscópica mostrando um neurônio central e as células ao redor. 1. **Astrócito** (em estrela, tocando o vaso); 2. **Oligodendrócito** (enrolando vários axônios); 3. **Microglia** (pequena, limpando detritos). Destacar a **Barreira Hematoencefálica** formada pelo pé do astrócito.
+- **Tipo sugerido:** Ilustração histológica colorida 3D.
+- **Legenda (rascunho):** Neurônios e células da glia: a cooperação para o funcionamento cerebral.
 
+## 1. O Neurônio: O Processador de Sinais
 
-
-
----
-
-## O Neurônio — Estrutura
-
-O neurônio é a unidade funcional do SN. Componentes:
-
-| Componente | Estrutura | Função |
-|-----------|----------|--------|
-| Corpo celular (pericário) | Nucléolo proeminente; RER = **tigróide (corpúsculo de Nissl)** | Síntese proteica; metabolismo |
-| Dendritos | Múltiplos, curtos, ramificados | Recepção de estímulos |
-| Axônio | Único, longo; origem no Cônico do Axônio | Condução do impulso (em direção ao neurônio seguinte) |
-| Botão terminal | Extremidade do axônio | Liberação do neurotransmissor |
-
-> **Dica:** Corpúsculo de Nissl (RER) está no corpo e dendritos — **ausente** no axônio e no Cone do axônio. Cromatolise = dissolução de Nissl após lesão axonal.
+O neurônio tem partes específicas:
+- **Corpo Celular (Pericário):** É a fábrica da célula. Contém os **Corpúsculos de Nissl** (RER), que são manchas que indicam síntese intensa de proteínas. 
+- **Dendritos:** São os "ouvidos" do neurônio, recebendo o sinal.
+- **Axônio:** É o "fio" que leva o sinal. Ele **NÃO** possui corpúsculos de Nissl.
+- **Cone de Implantação:** O início do axônio, onde o sinal elétrico (**potencial de ação**) realmente começa.
 
 ---
 
-## Classificação dos Neurônios
+## 2. A Bainha de Mielina e a Condução Saltatória
 
-**Por número de prolongamentos:**
-- **Pseudounipolar:** GRD, sensitivos periféricos — um processo que se bifurca.
-- **Bipolar:** retina, cóclea, vestíbulo.
-- **Multipolar:** maioria dos neurônios do SNC (motoneurônios, Purkinje etc.).
-
-**Por função:**
-- Aferentes (sensitivos), eferentes (motores), interneurônios (integração).
-
-**Por axônio:**
-- Tipo I Golgi: axônio longo (projeção). Tipo II Golgi: axônio curto (locais).
+A mielina é uma capa de gordura que isola o axônio e acelera o sinal:
+- **Nódulos de Ranvier:** São os espaços sem mielina. O sinal "pula" de um nódulo para outro (**Condução Saltatória**). Isso torna a transmissão 100x mais rápida.
+- **Fibras Amielínicas:** Algumas fibras (**tipo C**, da dor crônica) não têm mielina e são muito lentas.
 
 ---
 
-## Células da Glia do SNC
+## 3. Células da Glia: O Time de Apoio
 
-| Célula | Origem | Função principal | Patologia relacionada |
-|--------|--------|-----------------|----------------------|
-| **Astrócito** | Ectoderma neural | Suporte, barreira hematoencefálica, cicatriz glial | Gliose reativa; glioblastoma |
-| **Oligodendrócito** | Ectoderma neural | **Mielinização no SNC** (1 oligo → múltiplos axônios) | Esclerose múltipla, leucodistrofias |
-| **Microglia** | Mesênquima (monócitos) | Fagocitose, imunidade inata do SNC | Ativação em HIV, isquemia |
-| **Células ependimárias** | Ectoderma neural | Revestimento de ventrículos e canal central; produção de LCR | Ependimoma |
-
----
-
-## Glia do SNP
-
-| Célula | Função | Patologia |
-|--------|--------|----------|
-| **Célula de Schwann** | Mielinização no SNP (1 Schwann → 1 axônio) | Schwannoma; síndrome de Guillain-Barré (desmielinização) |
-| **Célula satélite** | Envolve corpos celulares de gânglios | Suporte nutricional |
-
-> **Diferença-chave:** Oligodendrócito mieliniza no SNC; Schwann no SNP. Múltipla nos axônios do SNC → oligodendrócito. Guillain-Barré ataca Schwann → SNP.
+A glia é quem mantém a casa em ordem:
+- **Astrócitos:** Estão em todo lugar. Eles formam a **Barreira Hematoencefálica** (impedindo que venenos no sangue entrem no cérebro) e fazem a "cicatriz" se o cérebro sofrer um corte.
+- **Oligodendrócitos:** Fazem a mielina no **SNC** (célula eficiente: um oligo enrola vários axônios).
+- **Células de Schwann:** Fazem a mielina no **SNP** (cada célula cuida de apenas um axônio).
+- **Microglia:** São os lixeiros e defensores (**Fagócitos**) do cérebro. Se houver infecção, elas entram em ação.
 
 ---
 
-## Bainha de Mielina
+## 4. Transporte Axonal: Os Correios Subcelulares
 
-- Mielina = camadas concêntricas de membrana plasmática da célula mielinizante.
-- Nódulo de Ranvier: espaços entre segmentos de mielina onde ocorre a **condução saltatória** (muito mais rápida).
-- Fibras **Tipo A (mielinizadas):** rápidas, motor e propriocepção.
-- Fibras **Tipo C (amielinizadas):** lentas, dor e temperatura difusa.
-
----
-
-## Transporte Axonal
-
-- **Anterógrado (anterograde):** corpo celular → terminal. Rápido (200-400 mm/dia) via kinesina; lento (1-5 mm/dia) — estruturas citoesqueléticas.
-- **Retrógrado:** terminal → corpo. Via dineína. Importante para: neurotrofinas (NGF), vírus (herpes, raiva, poliovírus).
-
-> **Dica clínica:** Vírus da raiva viaja pelo transporte retrógrado do axônio até o SNC.
-
----
-
-## Pontos-Chave
-
-- Nissl (RER) no corpo + dendritos; AUSENTE no axônio e cone.
-- Oligodendrócito → mielina no SNC (1 célula, vários axônios). Schwann → SNP (1 célula, 1 axônio).
-- Microglia = macrófago residente do SNC (origem mesenquimal).
-- Condução saltatória nos nódulos de Ranvier = velocidade.
-- Transporte retrógrado via dineína; vírus (raiva, herpes) usam esse transporte.
+Como o corpo do neurônio está longe do fim do axônio, as proteínas viajam em "trens":
+- **Transporte Anterógrado:** Do corpo para a ponta. Usa a proteína **Cinesina**.
+- **Transporte Retrógrado:** Da ponta para o corpo. Usa a proteína **Dineína**.
+- **Perigo:** O vírus da **Raiva** e do **Herpes** "pegam carona" no transporte retrógrado para invadir o cérebro.
 
 ---
 
 ## Ponte com a Clínica
 
-Esclerose múltipla: desmielinização de oligodendrócitos do SNC → placas de desmielinização → surtos de déficits neurológicos reversíveis. Leucodistrofias: erro metabólico na síntese de mielina (ex.: adrenoleucodistrofia). Síndrome de Guillain-Barré: ataque imunomediado às células de Schwann do SNP → paralisia ascendente flácida com preservação de consciência. Tumores: glioblastoma multiforme (grau IV, astrócitos) é o tumor primário do SNC mais comum e mais agressivo no adulto.
+Se você atender uma criança que sofreu uma mordida de cachorro e começa a apresentar sintomas neurológicos, lembre-se do **Transporte Retrógrado**. O vírus da raiva entrou pelo nervo periférico e viajou lentamente "de ré" (via **dineína**) até chegar ao sistema nervoso central. Por isso, a vacina e o soro devem ser aplicados o quanto antes: estamos em uma corrida contra a "carona" que o vírus pegou nos axônios.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Corpúsculo de Nissl**: Presente no corpo e dendritos, mas **Ausente no Axônio**.
+- **Astrócitos**: Formam a **barreira hematoencefálica** e controlam o ambiente químico dos neurônios.
+- **Microglia**: Única célula da glia com origem no **Mesênquima** (é um parente dos glóbulos brancos).
+- **Oligodendrócitos**: Alvos da destruição autoimune na **Esclerose Múltipla**.
+- **Células de Schwann**: Alvos da destruição autoimune na **Síndrome de Guillain-Barré**.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Nissl (RER):** no corpo e dendritos, ausente no axônio — cromatolise indica lesão.
-- **Oligodendrócito:** mielina no SNC, vários axônios por célula.
-- **Célula de Schwann:** mielina no SNP, 1 axônio por célula.
-- **Microglia:** origem mesenquimal (monócito), fagócito do SNC.
-- **Guillain-Barré:** ataca SNP (Schwann). EM: ataca SNC (oligodendrócito).
-- **Condução saltatória:** nódulo de Ranvier; fibras mielinizadas = mais rápidas.
+
+Para gabaritar histologia, foque em quem faz o quê e onde. 
+**Neurônio** processa. **Glia** protege. **Mielina** acelera. No centro (SNC), quem manda na mielina é o **Oligodendrócito**. Na periferia (SNP), quem manda é a **Schwann**.
+
+A Uninove adora a **Microglia**. Lembre-se: Ela é o lixeiro que vem da medula óssea (monócito). Outro ponto forte: o **Astrócito** é o cara da cicatriz e da comida para o neurônio. Por fim, saiba que a **Dineína** traz as coisas (e vírus) para trás (retrógrado) e a **Cinesina** leva as coisas para frente (anterógrado).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Estrutura A | Estrutura B | Diferença chave |
-|-------------|-------------|----------------|
-| Oligodendrócito | Célula de Schwann | Oligo: SNC, vários axônios; Schwann: SNP, 1 axônio |
-| Astrócito | Microglia | Astro: suporte/BHE (ectoderma); Microglia: fagócito (mesênquima) |
-| Esclerose múltipla | Guillain-Barré | EM: SNC, oligo; GB: SNP, Schwann |
-| Nissl no dendrito | Nissl no axônio | Nissl existe no dendrito, AUSENTE no axônio |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Oligodendrócito** | **C. de Schwann** | Mielina no **Centro (SNC)** vs Mielina na **Ponta (SNP)** |
+| **Cinesina** | **Dineína** | Transporte **p/ Frente** vs Transporte **p/ Trás** |
+| **Astrócitos** | **Microglia** | Suporte e **Barreira** vs Limpeza e **Fagocitose** |
+| **Nissl no Corpo** | **Nissl no Axônio** | **Presente** (Fábrica) vs **Ausente** (Fio Condutor) |
+| **Esclerose Múltipla** | **Guillain-Barré** | Ataca **Oligodendrócitos** vs Ataca **Schwann** |
 
 ### Frase-âncora para não esquecer
-> "No SNC, o Oligo enrola vários; no SNP, a Schwann cuida de um só — como um zelador exclusivo vs. um gerente de vários prédios."
+
+> "Schwann é fiel, cuida só de um no pé. Oligo é garanhão, enrola vários no mundão (SNC). Cinesina sai, Dineína volta com a raiva. Nissl é a fábrica que no axônio não trabalha. Astrócito dá o pão, Microglia faz a faxina no chão."

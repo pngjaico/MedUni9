@@ -1,0 +1,2210 @@
+[
+  {
+    "id": 601,
+    "materia": "semiologia1",
+    "tema": "pmh_a7",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Cetose nutricional” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Lipogênese: usa NADPH e malonil-CoA.",
+      "B) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "C) Cetose nutricional — CAD — Ausência de hiperglicemia grave e desequilíbrio ácido-base.",
+      "D) Insulina: favorece armazenar; jejum favorece queimar."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Cetose nutricional” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "B": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "C": "Correta: Cetose nutricional — CAD — Ausência de hiperglicemia grave e desequilíbrio ácido-base.",
+      "D": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cetose nutricional” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nB) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nC) CORRETA. Correta: Cetose nutricional — CAD — Ausência de hiperglicemia grave e desequilíbrio ácido-base.\nD) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 602,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Quilomícrons:” está correta?",
+    "opcoes": [
+      "A) transportam TG dietéticos (intestino → tecidos).",
+      "B) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "C) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "D) LDL: → tecidos via LDLR; HDL → transporte reverso."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Quilomícrons:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: transportam TG dietéticos (intestino → tecidos).",
+      "B": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "C": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "D": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Quilomícrons:”.\nA) CORRETA. Correta: transportam TG dietéticos (intestino → tecidos).\nB) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nC) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nD) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 603,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual alternativa associa corretamente “Partícula” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "B) Partícula — Elevação típica associada a",
+      "C) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "D) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.)."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Partícula” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "B": "Correta: Partícula — Elevação típica associada a",
+      "C": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "D": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Partícula” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nB) CORRETA. Correta: Partícula — Elevação típica associada a\nC) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nD) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 604,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “VLDL:” está correta?",
+    "opcoes": [
+      "A) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "B) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "C) exporta TG hepáticos.",
+      "D) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “VLDL:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "B": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "C": "Correta: exporta TG hepáticos.",
+      "D": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “VLDL:”.\nA) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nB) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nC) CORRETA. Correta: exporta TG hepáticos.\nD) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 605,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual alternativa associa corretamente “LDL” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "B) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "C) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "D) LDL — risco ASCVD; FH"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “LDL” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "B": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "C": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "D": "Correta: LDL — risco ASCVD; FH"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “LDL” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nB) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nC) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nD) CORRETA. Correta: LDL — risco ASCVD; FH",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 606,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual afirmação sobre “LDL:” está correta?",
+    "opcoes": [
+      "A) colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "B) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "C) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "D) LDL oxidado: e disfunção endotelial iniciam aterosclerose."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “LDL:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "B": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "C": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "D": "Incorreta: LDL oxidado: e disfunção endotelial iniciam aterosclerose."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “LDL:”.\nA) CORRETA. Correta: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nB) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nC) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nD) INCORRETA. Incorreta: LDL oxidado: e disfunção endotelial iniciam aterosclerose.",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 607,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual alternativa associa corretamente “TG” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "B) TG — resistência insulínica; hipertrigliceridemia",
+      "C) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "D) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.)."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “TG” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "B": "Correta: TG — resistência insulínica; hipertrigliceridemia",
+      "C": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "D": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “TG” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nB) CORRETA. Correta: TG — resistência insulínica; hipertrigliceridemia\nC) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nD) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 608,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual afirmação sobre “HDL:” está correta?",
+    "opcoes": [
+      "A) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "B) LDL oxidado: e disfunção endotelial iniciam aterosclerose.",
+      "C) transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "D) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HDL:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "B": "Incorreta: LDL oxidado: e disfunção endotelial iniciam aterosclerose.",
+      "C": "Correta: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "D": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HDL:”.\nA) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nB) INCORRETA. Incorreta: LDL oxidado: e disfunção endotelial iniciam aterosclerose.\nC) CORRETA. Correta: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nD) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 609,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual alternativa associa corretamente “HDL baixo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "B) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "C) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "D) HDL baixo — fator de risco inverso (contexto metabólico"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “HDL baixo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "B": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "C": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "D": "Correta: HDL baixo — fator de risco inverso (contexto metabólico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “HDL baixo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nB) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nC) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nD) CORRETA. Correta: HDL baixo — fator de risco inverso (contexto metabólico",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 610,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Qual afirmação sobre “HMG-CoA redutase” está correta?",
+    "opcoes": [
+      "A) = alvo de estatina.",
+      "B) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "C) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "D) LDL: → tecidos via LDLR; HDL → transporte reverso."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HMG-CoA redutase”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = alvo de estatina.",
+      "B": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+      "C": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "D": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HMG-CoA redutase”.\nA) CORRETA. Correta: = alvo de estatina.\nB) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.\nC) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nD) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 611,
+    "materia": "semiologia1",
+    "tema": "pmh_a8",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “LDL” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "B) LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "C) LDL — VLDL — LDL mais colesterol; VLDL mais TG exportados do fígado.",
+      "D) LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “LDL” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).",
+      "B": "Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.",
+      "C": "Correta: LDL — VLDL — LDL mais colesterol; VLDL mais TG exportados do fígado.",
+      "D": "Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “LDL” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HDL:: transporte reverso — coleta colesterol periférico e retorna ao fígado (SR-B1, etc.).\nB) INCORRETA. Incorreta: LDL: → tecidos via LDLR; HDL → transporte reverso.\nC) CORRETA. Correta: LDL — VLDL — LDL mais colesterol; VLDL mais TG exportados do fígado.\nD) INCORRETA. Incorreta: LDL:: colesterol para tecidos periféricos — receptor LDL (LDLR) medeia captação.",
+    "aula_id": "pmh_a8"
+  },
+  {
+    "id": 612,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual afirmação sobre “Não jejum” está correta?",
+    "opcoes": [
+      "A) pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "B) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "C) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "D) Inibidores PCSK9 — ↑ LDLR na superfície"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Não jejum”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "B": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "C": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "D": "Incorreta: Inibidores PCSK9 — ↑ LDLR na superfície"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Não jejum”.\nA) CORRETA. Correta: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nB) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nC) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nD) INCORRETA. Incorreta: Inibidores PCSK9 — ↑ LDLR na superfície",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 613,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Classe” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "B) Classe — Mecanismo principal",
+      "C) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "D) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Classe” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "B": "Correta: Classe — Mecanismo principal",
+      "C": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "D": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Classe” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nB) CORRETA. Correta: Classe — Mecanismo principal\nC) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nD) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 614,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Leve/moderada:” está correta?",
+    "opcoes": [
+      "A) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "B) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "C) resistência insulínica, síndrome metabólica, DM2.",
+      "D) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Leve/moderada:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "B": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "C": "Correta: resistência insulínica, síndrome metabólica, DM2.",
+      "D": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Leve/moderada:”.\nA) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nB) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nC) CORRETA. Correta: resistência insulínica, síndrome metabólica, DM2.\nD) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 615,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual alternativa associa corretamente “Estatinas” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "B) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "C) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "D) Estatinas — inibem HMG-CoA redutase"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Estatinas” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "B": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "C": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "D": "Correta: Estatinas — inibem HMG-CoA redutase"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Estatinas” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nB) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nC) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nD) CORRETA. Correta: Estatinas — inibem HMG-CoA redutase",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 616,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual afirmação sobre “Severa (TG > 1000 mg/dL):” está correta?",
+    "opcoes": [
+      "A) risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "B) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "C) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "D) Inibidores PCSK9 — ↑ LDLR na superfície"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Severa (TG > 1000 mg/dL):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "B": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "C": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "D": "Incorreta: Inibidores PCSK9 — ↑ LDLR na superfície"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Severa (TG > 1000 mg/dL):”.\nA) CORRETA. Correta: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nB) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nC) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nD) INCORRETA. Incorreta: Inibidores PCSK9 — ↑ LDLR na superfície",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 617,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual alternativa associa corretamente “Ezetimiba” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "B) Ezetimiba — inibe NPC1L1 (absorção intestinal",
+      "C) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "D) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Ezetimiba” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "B": "Correta: Ezetimiba — inibe NPC1L1 (absorção intestinal",
+      "C": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "D": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ezetimiba” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nB) CORRETA. Correta: Ezetimiba — inibe NPC1L1 (absorção intestinal)\nC) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nD) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 618,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual afirmação sobre “LDL” está correta?",
+    "opcoes": [
+      "A) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "B) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "C) como alvo principal na maioria dos cenários de ASCVD.",
+      "D) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “LDL”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "B": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "C": "Correta: como alvo principal na maioria dos cenários de ASCVD.",
+      "D": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “LDL”.\nA) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nB) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nC) CORRETA. Correta: como alvo principal na maioria dos cenários de ASCVD.\nD) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 619,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual alternativa associa corretamente “Fibratos” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "B) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "C) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "D) Fibratos — agonistas PPARα (↑ TG clearance, ↑ HDL"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Fibratos” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "B": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "C": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "D": "Correta: Fibratos — agonistas PPARα (↑ TG clearance, ↑ HDL"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fibratos” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nB) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nC) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nD) CORRETA. Correta: Fibratos — agonistas PPARα (↑ TG clearance, ↑ HDL",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 620,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Qual afirmação sobre “Friedewald” está correta?",
+    "opcoes": [
+      "A) falha com TG altos.",
+      "B) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "C) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "D) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Friedewald”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: falha com TG altos.",
+      "B": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+      "C": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "D": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Friedewald”.\nA) CORRETA. Correta: falha com TG altos.\nB) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.\nC) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nD) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 621,
+    "materia": "semiologia1",
+    "tema": "pmh_a9",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Ácidos graxos ômega-3” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "B) Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "C) Ácidos graxos ômega-3 — reduzem TG hepáticos",
+      "D) Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Ácidos graxos ômega-3” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.",
+      "B": "Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.",
+      "C": "Correta: Ácidos graxos ômega-3 — reduzem TG hepáticos",
+      "D": "Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ácidos graxos ômega-3” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Combinações: (ex.: estatina + ezetimiba) quando meta não atingida.\nB) INCORRETA. Incorreta: Não jejum: pode ser aceito para colesterol e HDL em alguns protocolos; TG mais sensível ao recente alimento.\nC) CORRETA. Correta: Ácidos graxos ômega-3 — reduzem TG hepáticos\nD) INCORRETA. Incorreta: Severa (TG > 1000 mg/dL):: risco de pancreatite aguda — prioridade triglicerídeo, não só LDL.",
+    "aula_id": "pmh_a9"
+  },
+  {
+    "id": 622,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Paciente relata dor em articulações com rigidez após período sem movimento. Na história, o dado mais útil para distinguir padrão inflamatório de padrão mecânico/degenerativo típico é:",
+    "opcoes": [
+      "A) Quantificar quanto tempo a rigidez matinal ou pós-repouso persiste (muitas vezes >30–60 min sugere componente inflamatório",
+      "B) Concluir inflamatório apenas se houver febre documentada no momento do exame",
+      "C) Considerar padrão mecânico sempre que a dor piorar em algum momento do dia",
+      "D) Atribuir neuropatia quando a dor for descrita como em queimação, sem outros dados"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Rigidez matinal ou pós-inatividade prolongada pesa como pista inflamatório; padrão mecânico costuma piorar com carga e melhorar com repouso.",
+    "explicacoes_opcoes": {
+      "A": "Correta: O material destaca rigidez matinal longa como bandeira inflamatória; pedir tempo em minutos é o passo prático.",
+      "B": "Incorreta: Febre ajuda em causas específicas, mas não substitui o tempo de rigidez para separar mecânico de inflamatório.",
+      "C": "Incorreta: Piora diurna com uso é típica de padrão mecânico/degenerativo, não invalida o passo de quantificar rigidez.",
+      "D": "Incorreta: Queimação pode sugerir neuropático, mas a pergunta cobra diferenciação inflamatório versus mecânico na história."
+    },
+    "explicacao": "Resumo: Tempo de rigidez matinal/pós-repouso diferencia inflamatório versus mecânico na história.\nA) CORRETA. Quantificar a rigidez orienta: durações longas favorecem inflamatório, ao passo que o padrão mecânico clássico piora com uso.\nB) INCORRETA. Ausência de febre não exclui doença inflamatória seronegativa ou baixa atividade sistêmica.\nC) INCORRETA. Oscilação diurna por si só não fecha o padrão sem o eixo rigidez-tempo.\nD) INCORRETA. Mistura eixos; o trecho da aula contrasta mecânico, inflamatório e neuropático.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 623,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Idosa de 68 anos refere joelho direito que dói mais ao fim do dia, quando caminha para o mercado, e melhora ao sentar e elevá-lo. Esse relato temporal é mais compatível com:",
+    "opcoes": [
+      "A) Padrão neuropático com alodinia predominante",
+      "B) Padrão mecânico/degenerativo, com piora relacionada ao uso e melhora com repouso",
+      "C) Monoartrite séptica típica, mesmo sem outros dados no enunciado",
+      "D) Poliartrite inflamatória simétrica com rigidez matinal breve, em minutos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "O material associa piora com atividade diurna e alívio com repouso ao padrão mecânico/degenerativo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Neuropatia é associada a queimação, piora noturna e sensibilidade anormal ao estímulo leve.",
+      "B": "Correta: Compatível com a linha mecânica/degenerativa da tabela de padrões temporais.",
+      "C": "Incorreta: Sepse costuma ser aguda, com sinais inflamatórios intensos e frequentemente toxinfeccioso, não quadro domiciliar rotineiro descrito.",
+      "D": "Incorreta: Doença inflamatória sistêmica muitas vezes traz rigidez matinal prolongada, não padrão puramente mecânico de fim de dia."
+    },
+    "explicacao": "Resumo: Dor que acumula com uso e alivia com repouso segue o padrão mecânico da aula.\nA) INCORRETA. Faltam dados de neuropatia.\nB) CORRETA. História espelha mecânica/degenerativa.\nC) INCORRETA. Diagnóstico infeccioso não é suportado pelo enunciado.\nD) INCORRETA. Rigidez breve e padrão poli-inflamatório não são o melhor encaixe.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 624,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Operador de máquinas vibratórias apresenta dor e formigamento noturno na mão direita, piora com repouso e referência de fisgadas ao punho. Qual conjunto de qualidades da dor se alinha ao padrão neuropático descrito ?",
+    "opcoes": [
+      "A) Dor exclusivamente na linha articular, sem dados de dormência",
+      "B) Dor em peso que melhora apenas após semanas de repouso absoluto no leito",
+      "C) Queimação ou choque, piora noturna, hiperestesia a estímulos leves e contexto de compressão nervosa periférica",
+      "D) Rigidez matinal longa só em grandes articulações, sem sintomas distais"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "O material define neuropático como queimação, piora noturna e alodinia, como em compressão nervosa ou radicular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Foco puramente sinovial sem componente neural não reproduz a linha neuropática.",
+      "B": "Incorreta: Imobilização prolongada não é o marcador do padrão; neuropatia frequentemente incomoda à noite.",
+      "C": "Correta: Reúne qualidade, cronologia e mecanismo descritos para dor neuropática.",
+      "D": "Incorreta: Rigidez matinal longa em grandes articulações remete ao eixo inflamatório, não ao neuropático."
+    },
+    "explicacao": "Resumo: Dor neuropática combina queimação/choque, piora noturna e alteração sensitiva.\nA) INCORRETA. Não há sinovite como fio condutor.\nB) INCORRETA. Não corresponde ao padrão temporal neuropático.\nC) CORRETA. Reflete o perfil neuropático da aula.\nD) INCORRETA. Descreve outro eixo fisiopatológico (inflamatório).",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 625,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Atleta de 22 anos refere dor máxima na face anterior do joelho, sobre o tendão patelar e região pré-patelar, com pico ao correr ladeira abaixo; o ponto mais doloroso não coincide com a linha femorotibial e a extensão resistida reproduz o sintoma. A origem aparente é mais sugestiva de:",
+    "opcoes": [
+      "A) Sinovite pura com derrame tenso e dor máxima exatamente na linha articular",
+      "B) Processo viscero-referido retroperitoneal sem irradiação para membro",
+      "C) Lesão exclusivamente ligamentar intra-articular com bloqueio mecânico completo",
+      "D) Dor periarticular em tendão/bolsa, fora da linha articular, com utilidade de manobras isométricas"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Periarticular localiza dor em tendão ou bolsa fora da linha articular; o material cita testes isométricos como auxiliares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sinovite costuma centralizar-se na articulação com sinais de derrame.",
+      "B": "Incorreta: Dor referida costuma ser mal localizada; aqui há topografia tendínea e esforço.",
+      "C": "Incorreta: Bloqueio completo não foi descrito; irritação tendínea predomina.",
+      "D": "Correta: Encaixa na linha periarticular: tendão/bolsa, fora da joint line, isometria útil."
+    },
+    "explicacao": "Resumo: Topografia tendínea e isometria positiva sugerem periarticular.\nA) INCORRETA. Padrão sinovial difere na localização da dor máxima.\nB) INCORRETA. Não há ponte visceral plausível no caso.\nC) INCORRETA. Quadro não sugere trava articular completa.\nD) CORRETA. Compatível com tendão/bolsa e manobras isométricas da aula.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 626,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Ao abordar ombro doloroso agudo após queda, qual sequência respeita o exame físico racional proposto, evitando estresse antes da observação?",
+    "opcoes": [
+      "A) Inspeção comparativa, palpação, amplitude ativa e passiva, depois testes especiais quando indicados",
+      "B) Varredura com testes especiais máximos antes de inspecionar, para ganhar tempo",
+      "C) Punção articular imediata antes de qualquer inspeção externa",
+      "D) Solicitação de ressonância magnética antes de tocar o paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A ordem clássica é inspeção, palpação, ADM ativa e passiva, testes especiais por fim.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Repete o roteiro explícito do material.",
+      "B": "Incorreta: Contraria a lógica de não forçar antes de observar.",
+      "C": "Incorreta: Procedimento invasivo tem indicação; não substitui etapas básicas.",
+      "D": "Incorreta: Imagem segue anamnese e exame semiológico dirigido."
+    },
+    "explicacao": "Resumo: Sequência ordenada reduz dor iatrogênica e otimiza hipóteses.\nA) CORRETA. Inspeção → palpação → ADM → testes condicionais.\nB) INCORRETA. Estresse precoce viola o princípio da aula.\nC) INCORRETA. Punção não é passo universal inicial.\nD) INCORRETA. Exame físico precede indicação de imagem.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 627,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Joelho com calor local, rubor e aumento de volume. Qual pacote melhor corresponde aos sinais inflamatórios locais citados pela aula?",
+    "opcoes": [
+      "A) Apenas estalidos secos indolores ao movimento",
+      "B) Calor, rubor, edema, dor à função e dor à palpação, sugerindo inflamação local",
+      "C) Força 4/5 isolada, sem dor ou alteração térmica",
+      "D) Atrofia tenar bilateral simétrica sem calor articular"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "O texto agrupa calor, rubor, edema, dor à função e dor à palpação como inflamação local.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Crepitação isolada não resume o conjunto inflamatório.",
+      "B": "Correta: Reproduz o bloco semiológico ensinado.",
+      "C": "Incorreta: Achado de força isolado não substitui o conjunto vascular-inflamatório.",
+      "D": "Incorreta: Atrofia tenar remete a outro contexto (ex.: nervo mediano)."
+    },
+    "explicacao": "Resumo: Inflamação articular/local costuma reunir hiperemia, tumefação e dor mecânica.\nA) INCORRETA. Pode ocorrer em artropatia crônica sem flogose aguda completa.\nB) CORRETA. É o pacote do material.\nC) INCORRETA. Não descreve processo inflamatório local típico.\nD) INCORRETA. Desvia para neuropatia de mão, não para sinovite aguda.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 628,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Mulher de 29 anos, três semanas após entorse de tornozelo, apresenta flexão dorsal igualmente limitada no teste ativo e quando o examinador move o pé passivamente. Segundo a tabela da aula sobre ADM, o achado sugere predominantemente:",
+    "opcoes": [
+      "A) Lesão de partes moles sem bloqueio, com passiva plena e só limite ativo",
+      "B) Dor ou inibição pura, pois a passiva sempre deve ser maior que a ativa nesse cenário",
+      "C) Processo articular, capsular ou bloqueio intra-articular, por limitação concordante ativa e passiva",
+      "D) Sempre falta de cooperação voluntária, sem outras causas fisiológicas"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Limitação igual na ativa e na passiva aponta para envolvimento articular/capsular ou bloqueio intra-articular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Passiva preservada caracterizaria padrão só ativo (dor/fraqueza/inibição).",
+      "B": "Incorreta: Passiva maior que ativa existe em alguns contextos, mas não invalida o padrão concordante limitado aqui descrito.",
+      "C": "Correta: É a leitura explícita da tabela de ADM.",
+      "D": "Incorreta: Cooperação deve ser considerada, mas a concordância ativa-passiva tem interpretação estrutural forte."
+    },
+    "explicacao": "Resumo: Bloqueio/capsulite reduz ADM nos dois modos de teste.\nA) INCORRETA. Incompatível com passiva também limitada.\nB) INCORRETA. Generalização incorreta diante de limitação passiva real.\nC) CORRETA. Segue o material sobre limitação ativa e passiva concordantes.\nD) INCORRETA. Afirmação absoluta não condiz com a abordagem semiológica.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 629,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Homem de 54 anos, ex-tabagista intenso, com dor lombar recente após queda de escada, febre baixa persistente, mal-estar e dor profunda local que interfere no sono; ainda sem avaliação neurológica formal no enunciado. Qual postura diagnóstica a aula reforça frente a esse perfil?",
+    "opcoes": [
+      "A) Encerrar como lombalgia postural mecânica sem investigar outras causas",
+      "B) Evitar exame físico para não desconfortar o paciente",
+      "C) Prescrever analgésico comum e remarcar consulta apenas em vários meses, sem critérios de alarme",
+      "D) Manter alerta para red flags (febre, trauma, possível déficit a explorar, perda ponderal quando presente) e não rotular tudo como desgaste sem triagem"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Red flags em dor vertebral/articular incluem febre, déficit neurológico progressivo, trauma relevante e perda de peso inexplicada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Contraria o alerta para não ignorar sinais sistêmicos ou atípicos.",
+      "B": "Incorreta: Exame deve ser realizado com técnica adequada, não suprimido.",
+      "C": "Incorreta: Atrasar reavaliação sem critérios de alarme ignora padrão atípico com febre e trauma.",
+      "D": "Correta: Coerente com a lista de red flags e triagem antes de fechar hipótese funcional."
+    },
+    "explicacao": "Resumo: Quadro sistêmico-atípico exige cautela diagnóstica.\nA) INCORRETA. Febre e traumatismo recente elevam suspeita.\nB) INCORRETA. Semiologia continua obrigatória.\nC) INCORRETA. Conduta expectante longa sem rede de alarme ignora padrão atípico.\nD) CORRETA. Reflete o raciocínio de red flags da aula.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 630,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Na documentação de força, o paciente estende o joelho contra gravidade, mas cede quando o examinador opõe resistência moderada. Segundo a escala MRC resumida qual grau descreve melhor o achado?",
+    "opcoes": [
+      "A) Grau 2 — movimento sem vencer a gravidade",
+      "B) Grau 5 — normal contra resistência plena",
+      "C) Grau 4 — vence a gravidade, porém com resistência incompleta ao examinador",
+      "D) Grau 0 — ausência de contração palpável"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Grau 4 corresponde a superar gravidade com resistência apenas parcial; grau 3 seria somente contra gravidade sem sustentar resistência.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Grau 2 não supera o peso do membro.",
+      "B": "Incorreta: Força normal suporta resistência sem ceder de pronto.",
+      "C": "Correta: Casa com resistência parcial após vencer gravidade.",
+      "D": "Incorreta: Há contração e movimento contra gravidade."
+    },
+    "explicacao": "Resumo: Falha sob resistência após vencer gravidade corresponde ao grau 4 na tabela.\nA) INCORRETA. Paciente venceu gravidade.\nB) INCORRETA. Resistência plena não foi mantida.\nC) CORRETA. Definição explícita do grau 4 no material.\nD) INCORRETA. Contração está presente.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 631,
+    "materia": "semiologia1",
+    "tema": "semio1_a1",
+    "enunciado": "Paciente move o ombro passivamente com amplitude aparentemente completa, porém reluta ou falha na elevação ativa após lesão recente. Pela tabela da aula (ADM ativa versus passiva), a leitura mais adequada é:",
+    "opcoes": [
+      "A) Bloqueio mecânico intra-articular com anquilose confirmada na passiva",
+      "B) Limitação apenas por processo articular com passiva e ativa igualmente reduzidas",
+      "C) Certeza de ruptura completa do manguito sem necessidade de correlacionar com contexto",
+      "D) Dor, fraqueza ou inibição como causas de limitação predominantemente ativa, sem bloqueio estrutural completo capturado na passiva"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Passiva preservada com ativa limitada sugere dor, fraqueza ou inibição — alerta da aula contra assumir lesão intra-articular grave só pelo achado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bloqueio estrutural costuma limitar também a passiva.",
+      "B": "Incorreta: Aqui a passiva foi descrita como preservada em relação à ativa.",
+      "C": "Incorreta: Diagnóstico estrutural definitivo exige correlação clínica e exames quando indicados.",
+      "D": "Correta: Reflete o ensinamento sobre discrepância ativa-passiva sem bloqueio completo."
+    },
+    "explicacao": "Resumo: ADM passiva normal com ativa limitada não equivale automaticamente a lesão intra-articular extensa.\nA) INCORRETA. Anquilose típica restringe a passiva.\nB) INCORRETA. O padrão descrito é divergente entre ativa e passiva.\nC) INCORRETA. Conclusão precipitada sem dados adicionais.\nD) CORRETA. Alinha-se à pegadinha explícita do material.",
+    "aula_id": "semio1_a1"
+  },
+  {
+    "id": 632,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Na anamnese OPQRST adaptada à dor musculoesquelética, a letra O documenta principalmente:",
+    "opcoes": [
+      "A) Se o início foi súbito ou gradual e a data aproximada dos sintomas",
+      "B) Apenas o resultado de exames de imagem já solicitados",
+      "C) Somente a frequência cardíaca em repouso",
+      "D) A classificação de Kellgren-Lawrence sem correlato clínico"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "O (onset) captura como e quando a queixa começou, separando trauma agudo de processos subagudos ou crônicos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: É o conteúdo indicado na linha O da tabela OPQRST da aula.",
+      "B": "Incorreta: Imagem complementa; não substitui a história de início.",
+      "C": "Incorreta: Parâmetro cardiovascular não corresponde ao eixo O.",
+      "D": "Incorreta: Grau radiológico não define o onset clínico."
+    },
+    "explicacao": "Resumo: O registra início temporal e modo de aparecimento da queixa.\nA) CORRETA. Reflete onset súbito/gradual e data aproximada.\nB) INCORRETA. Exames são etapa distinta da anamnese dirigida.\nC) INCORRETA. Fora do escopo do O para dor MSK.\nD) INCORRETA. Radiografia descreve estrutura, não substitui a história.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 633,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Homem de 30 anos apresenta dor intensa, calor e limitação em um único joelho há 48 horas, com febre baixa. O padrão de acometimento articular é classificado como:",
+    "opcoes": [
+      "A) Poliartrite simétrica de pequenas articulações",
+      "B) Monoartrite",
+      "C) Oligoartrite (duas a quatro articulações",
+      "D) Artralgia sem compromisso articular objetivo"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Uma única articulação define monoartrite; a aula coloca infecção, cristal e hemartrose no topo do raciocínio agudo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Poliartrite envolve muitas articulações.",
+      "B": "Correta: Um único joelho inflamado encaixa em monoartrite.",
+      "C": "Incorreta: Oligoartrite descreve duas a quatro articulações.",
+      "D": "Incorreta: Há sinais inflamatórios locais claros."
+    },
+    "explicacao": "Resumo: Número de articulações guia o diagnóstico sindrômico inicial.\nA) INCORRETA. Padrão poli não se aplica.\nB) CORRETA. Monoartrite = uma articulação.\nC) INCORRETA. Oligo implica mais de uma articulação.\nD) INCORRETA. Há comprometimento articular objetivo.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 634,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Jogador de futebol relata torção do joelho com estalo audível e hemartrose precoce. Segundo a tabela de mecanismos traumáticos, as estruturas mais frequentemente citadas como envolvidas nesse mecanismo são:",
+    "opcoes": [
+      "A) Apenas nervo fibular superficial",
+      "B) Exclusivamente bolsa infrapatelar superficial",
+      "C) Menisco e ligamento cruzado anterior",
+      "D) Somente cartilagem patelar sem ligamentos"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Torção/pivot associa-se a lesões de menisco e LCA no texto sobre mecanismos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fibular pode ser avaliado à parte; não é o par clássico do pivot.",
+      "B": "Incorreta: Bursite superficial não explica hemartrose aguda típica do giro traumático.",
+      "C": "Correta: Reproduz a associação menisco/LCA da tabela de mecanismos.",
+      "D": "Incorreta: Afirmação exclusiva de cartilagem patelar ignora menisco/LCA."
+    },
+    "explicacao": "Resumo: Mecanismo de torção no joelho direciona hipótese anatômica.\nA) INCORRETA. Não é o par principal do mecanismo ensinado.\nB) INCORRETA. Bolsa superficial não centraliza hemartrose pós-pivot.\nC) CORRETA. Menisco e LCA são os alvos frequentes do mecanismo.\nD) INCORRETA. Ignora estruturas ligamentares/meniscais centrais.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 635,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Paciente com psoríase cutânea estabelecida desenvolve dor periférica e entesítica. Qual antecedente da aula altera o diagnóstico diferencial em direção a espondiloartrite/artrite psoriásica?",
+    "opcoes": [
+      "A) Hipertensão essencial controlada isoladamente",
+      "B) Uso ocasional apenas de multivitamínico",
+      "C) Epicondilite lateral prévia sem recidiva",
+      "D) Psoríase e outras manifestações imuno-inflamatórias associadas (ex.: uveíte, colite"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Psoríase, colite ou uveíte aparecem na tabela de fatores que mudam a lista diagnóstica para espondiloartrite.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Comorbidade vascular não reclassifica o padrão articular.",
+      "B": "Incorreta: Vitamina não altera o espectro inflamatório axial/periférico.",
+      "C": "Incorreta: Tendinopatia local não substitui o contexto imunológico listado.",
+      "D": "Correta: O material liga psoríase/uveíte/colite a espondiloartrite na tabela de fatores."
+    },
+    "explicacao": "Resumo: Antecedentes imunoinflamatórios reordenam hipóteses em dor MSK.\nA) INCORRETA. Hipertensão não entra na lista de mudança de diferencial.\nB) INCORRETA. Suplemento isolado não reclassifica o caso.\nC) INCORRETA: Epicondilite prévia não substitui o elo psoríase–espondiloartrite.\nD) CORRETA. Psoríase e manifestações associadas direcionam o raciocínio.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 636,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Paciente em uso recente de fluoroquinolona refere dor súbita e estalido no tendão de Aquiles. A aula cita essa classe terapêutica principalmente por qual alerta?",
+    "opcoes": [
+      "A) Risco de ruptura tendínea (evento incomum, mas cobrado",
+      "B) Proteção documentada contra tendinopatia",
+      "C) Indicação clássica para hemartrose espontânea",
+      "D) Causa típica de poliartrite simétrica erosiva"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Fluoroquinolona entra como fármaco que aumenta risco de ruptura tendínea na lista de antecedentes.",
+    "explicacoes_opcoes": {
+      "A": "Correta: É o alerta explícito do material.",
+      "B": "Incorreta: Não há efeito protetor descrito.",
+      "C": "Incorreta: Hemartrose não é o foco do fármaco.",
+      "D": "Incorreta: Padrão poli-inflamatório não é a associação ensinada."
+    },
+    "explicacao": "Resumo: Antecedente farmacológico modula suspeita de lesão tendínea aguda.\nA) CORRETA. Ruptura tendínea é o risco destacado.\nB) INCORRETA. Sem evidência de proteção.\nC) INCORRETA. Mecanismo hemático é outro contexto.\nD) INCORRETA. Erro de sistema inflamatório simétrico.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 637,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Para explorar a qualidade da dor (letra Q do OPQRST), qual pergunta segue o roteiro da aula?",
+    "opcoes": [
+      "A) Qual o endereço residencial completo?",
+      "B) A dor é em punhalada, queimação, peso ou sensação de travamento?",
+      "C) Quantas internações o paciente teve na infância, sem detalhe clínico?",
+      "D) Qual time de futebol o paciente prefere"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Q (quality) pergunta o tipo de dor — punhalada, queimação, peso, travamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dado administrativo não qualifica a dor.",
+      "B": "Correta: Espelha a linha Q da tabela OPQRST.",
+      "C": "Incorreta: História remota genérica não descreve qualidade atual.",
+      "D": "Incorreta: Irrelevante para semiologia MSK."
+    },
+    "explicacao": "Resumo: Q qualifica o sintoma em linguagem do paciente.\nA) INCORRETA. Endereço não descreve qualidade da dor.\nB) CORRETA. Pergunta direta sobre punhalada, queimação, peso, travamento.\nC) INCORRETA. Não captura qualidade sintomática.\nD) INCORRETA. Fora do escopo clínico.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 638,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Paciente apresenta três articulações médias/grandes assimétricas dolorosas, sem padrão simétrico de metacarpofalangianas. Esse agrupamento corresponde ao termo:",
+    "opcoes": [
+      "A) Poliartrite com muitas articulações frequentemente simétricas",
+      "B) Monoartrite estrita",
+      "C) Oligoartrite (duas a quatro articulações",
+      "D) Fibromialgia por definição"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Oligoartrite define duas a quatro articulações; exemplos incluem certas espondiloartrites e artrites reativas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Poliartrite envolve mais articulações e padrão diferente.",
+      "B": "Incorreta: Monoartrite é uma única articulação.",
+      "C": "Correta: Três articulações encaixam na faixa oligoarticular.",
+      "D": "Incorreta: Fibromialgia não se define por número de articulações inflamadas."
+    },
+    "explicacao": "Resumo: Contagem articular classifica o padrão sindrômico.\nA) INCORRETA. Poli excede a faixa oligo.\nB) INCORRETA. Mais de uma articulação exclui mono.\nC) CORRETA. Oligoartrite cobre 2–4 articulações.\nD) INCORRETA. Diagnóstico de exclusão com critérios próprios.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 639,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Criança com claudicação afebril e história de trauma leve duvidoso. Qual conduta cognitiva a aula associa a esse cenário (dica de prova)?",
+    "opcoes": [
+      "A) Atribuir sempre a entorse residual sem investigação",
+      "B) Encaminhar imediatamente para procedimento invasivo sem anamnese",
+      "C) Fechar fibromialgia pediátrica na primeira entrevista",
+      "D) Manter cautela e excluir causas graves conforme protocolo local (incluindo causas ortopédicas sérias até prova em contrário"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Claudicação infantil afebril exige exclusão de causa grave conforme protocolo — a aula alerta explicitamente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Minimizar pode atrasar diagnóstico de lesão importante.",
+      "B": "Incorreta: Invasivo precoce sem raciocínio não é o ensinamento.",
+      "C": "Incorreta: Fibromialgia não é hipótese inicial típica nesse perfil.",
+      "D": "Correta: Reflete a prioridade de excluir causas graves conforme protocolo."
+    },
+    "explicacao": "Resumo: Claudicação na criança sem febre não pode ser sempre banalizada.\nA) INCORRETA. Risco de subdiagnóstico.\nB) INCORRETA. Conduta invasiva precipitada não substitui avaliação clínica.\nC) INCORRETA. Hipótese inadequada para o contexto.\nD) CORRETA. Segue a dica de prova da aula.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 640,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Homem de 26 anos com dor lombar subaguda, rigidez matinal prolongada, melhora com caminhada e boa resposta inicial a anti-inflamatório. Qual raciocínio é mais coerente com a “Ponte com a Clínica”?",
+    "opcoes": [
+      "A) Incluir espondiloartrite na hipótese antes de atribuir só lombalgia mecânica postural",
+      "B) Rotular como postura e encerrar sem considerar espondiloartrite",
+      "C) Ignorar o padrão por ser idade jovem",
+      "D) Diagnosticar hérnia discal aguda sem dados radiculares"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Dor inflamatória lombar jovem com melhora com exercício direciona para espondiloartrite antes de rotular postura.",
+    "explicacoes_opcoes": {
+      "A": "Correta: O texto orienta pensar espondiloartrite antes de rotular postura.",
+      "B": "Incorreta: Postura não explica rigidez inflamatória prolongada.",
+      "C": "Incorreta: Juventude é típica do início, não contra-indica hipótese.",
+      "D": "Incorreta: Falta pista radicular clara."
+    },
+    "explicacao": "Resumo: Padrão inflamatório lombar muda o diferencial em jovens.\nA) CORRETA. Coerente com a ponte clínica da aula.\nB) INCORRETA. Subestima bandeira inflamatória.\nC) INCORRETA. Erro de interpretação etária.\nD) INCORRETA. Hérnia exige correlação clínica.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 641,
+    "materia": "semiologia1",
+    "tema": "semio1_a2",
+    "enunciado": "Digitador refere dor em punho relacionada a jornada longa no teclado, sem febre ou padrão poli-inflamatório. A história ocupacional serve principalmente para:",
+    "opcoes": [
+      "A) Substituir o exame físico em qualquer caso",
+      "B) Demonstrar que tendinopatias não existem em trabalho de escritório",
+      "C) Reconhecer cargas repetitivas e embasar ergonomia e pausas na conduta não farmacológica",
+      "D) Excluir punção de sinovite séptica em todo paciente"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Cargas repetitivas explicam tendinopatias sem achado sistêmico; ergonomia e pausas são conduta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anamnese não dispensa inspeção e palpação.",
+      "B": "Incorreta: Escritório é cenário clássico de sobrecarga.",
+      "C": "Correta: O material liga trabalho repetitivo a tendinopatia e medidas não farmacológicas.",
+      "D": "Incorreta: Indicação de punção depende do quadro inflamatório infeccioso suspeito."
+    },
+    "explicacao": "Resumo: História de trabalho orienta mecanismo de sobrecarga e prevenção.\nA) INCORRETA. Exame físico permanece central.\nB) INCORRETA. Negação incorreta da epidemiologia descrita.\nC) CORRETA. Alinha ergonomia e pausas ao texto.\nD) INCORRETA. Generalização absurda sobre punção.",
+    "aula_id": "semio1_a2"
+  },
+  {
+    "id": 642,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Na inspeção do aparelho locomotor, qual princípio a aula estabelece como regra para reduzir erro de interpretação?",
+    "opcoes": [
+      "A) Comparar lado a lado regiões simétricas sempre que possível",
+      "B) Inspecionar apenas o lado sintomático para ganhar tempo",
+      "C) Evitar expor ambos os membros mesmo em ambiente privado",
+      "D) Descrever achado sem localizar lado, região ou padrão de edema"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Inspeção comparativa (lado a lado) é central para detectar assimetria de volume, alinhamento e cor.",
+    "explicacoes_opcoes": {
+      "A": "Correta: O texto enfatiza inspeção sempre comparativa.",
+      "B": "Incorreta: O lado contralateral serve de referência.",
+      "C": "Incorreta: Exposição adequada dos dois lados é necessária quando seguro.",
+      "D": "Incorreta: Precisão local é cobrada em prova."
+    },
+    "explicacao": "Resumo: Comparação bilateral reduz falso “normal”.\nA) CORRETA. Princípio explícito da aula.\nB) INCORRETA. Perde referência anatômica.\nC) INCORRETA. Compromete exame completo.\nD) INCORRETA. Descrição vaga não substitui topografia.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 643,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Mulher com osteoartrite das interfalangeanas com nódulos dorsais. Na inspeção das mãos, qual achado a aula associa classicamente à OA?",
+    "opcoes": [
+      "A) Desvio ulnar acentuado como único achado, sem nódulos",
+      "B) Nódulos de Heberden e/ou Bouchard, segundo articulações acometidas",
+      "C) Atrofia tenar isolada sem alteração articular visível",
+      "D) Derrame tenso simétrico em todas as MCP com rigidez de segundos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Nódulos de Heberden/Bouchard aparecem na tabela de padrões de mão para OA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Desvio ulnar marcado associa-se mais a AR avançada no texto.",
+      "B": "Correta: Reproduz o padrão descrito para OA.",
+      "C": "Incorreta: Atrofia tenar sugere outro mecanismo (ex.: mediano).",
+      "D": "Incorreta: Padrão inflamatório simétrico difuso não é o foco da OA nodular."
+    },
+    "explicacao": "Resumo: Inspeção das mãos diferencia OA e AR.\nA) INCORRETA. Padrão dominante na tabela para OA são os nódulos.\nB) CORRETA. Heberden/Bouchard são âncoras da aula.\nC) INCORRETA. Achado típico de outro contexto.\nD) INCORRETA. Confunde com poliartrite inflamatória.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 644,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Paciente com edema fusiforme em dedo. Qual leitura visual a aula sugere para esse padrão?",
+    "opcoes": [
+      "A) Edema difuso de antebraço sem foco articular",
+      "B) Lipoma subcutâneo móvel",
+      "C) Edema em fusiforme compatível com sinovite (dedo em fusiforme",
+      "D) Apenas celulite sem envolvimento articular"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Edema fusiforme em dedo é lido como sinovite na tabela de contorno articular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Difuso sem foco não é o padrão fusiforme digital.",
+      "B": "Incorreta: Tumoração lipomatosa tem outra palpação e evolução.",
+      "C": "Correta: Corresponde à linha da aula.",
+      "D": "Incorreta: Celulite costuma ser mais difusa; sinovite centra-se na articulação."
+    },
+    "explicacao": "Resumo: Morfologia do edema orienta sinovite.\nA) INCORRETA. Não descreve fusiforme digital.\nB) INCORRETA. Lesão de partes moles distinta.\nC) CORRETA. Padrão clássico citado.\nD) INCORRETA. Quadro infeccioso de pele difere do achado articular.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 645,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Paciente com queda de pé e marcha em que eleva excessivamente o joelho para não arrastar o pé ao andar. Na tabela de marcha, esse padrão é:",
+    "opcoes": [
+      "A) Claudicação antálgica por redução do tempo de apoio",
+      "B) Passo curto por evitar extensão de quadril",
+      "C) Marcha exclusivamente por dor patelofemoral isolada",
+      "D) Marcha em steppage, com elevação excessiva do pé e suspeita de queda do pé (ex.: fibular"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Steppage associa-se a elevação excessiva do pé para compensar queda (fibular).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Antálgica prioriza dor no apoio, não compensação de queda de pé.",
+      "B": "Incorreta: Passo curto remete a quadril/lombar no texto, não ao padrão descrito.",
+      "C": "Incorreta: Dor patelofemoral não explica o mecanismo de steppage.",
+      "D": "Correta: Reproduz a linha marcha em steppage da tabela."
+    },
+    "explicacao": "Resumo: Marcha em steppage traduz déficit de elevação do pé.\nA) INCORRETA. Outro mecanismo de claudicação.\nB) INCORRETA. Padrão de passo curto é distinto.\nC) INCORRETA. Explicação incorreta do fenômeno.\nD) CORRETA. Definição e suspeita de fibular como .",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 646,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Joelho com aumento de volume anterior após ajoelhamento prolongado. Na inspeção, esse contorno pode representar:",
+    "opcoes": [
+      "A) Bursite pré-patelar versus derrame intra-articular — distinguir com palpação e contexto",
+      "B) Somente hemartrose traumática aguda, sem outras hipóteses",
+      "C) Sempre trombose venosa profunda",
+      "D) Necrose avascular de quadril sem relação com o joelho"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Bolha anterior pode ser bursite pré-patelar ou distensão articular; a inspeção orienta próximos passos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A tabela contrapõe bolha anterior a derrame intra-articular.",
+      "B": "Incorreta: Hemartrose é um contexto, não a única causa de volume anterior.",
+      "C": "Incorreta: TVP não se infere só pela inspeção do joelho.",
+      "D": "Incorreta: Confunde anatomia e diagnóstico."
+    },
+    "explicacao": "Resumo: Contorno anterior do joelho exige diferenciar bolsa superficial de derrame.\nA) CORRETA. Coerente com a tabela de contorno articular.\nB) INCORRETA. Generalização excessiva.\nC) INCORRETA. Diagnóstico vascular exige outros dados.\nD) INCORRETA. Região e patologia inadequadas.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 647,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Ao inspecionar temperatura local num joelho agudamente inflamado, qual achado a aula considera pista de processo inflamatório ou infeccioso na região?",
+    "opcoes": [
+      "A) Calor bilateral simétrico em ambos os joelhos sem dor",
+      "B) Calor unilateral ao comparar com o lado contralateral",
+      "C) Pele fria e marmorizada bilateralmente",
+      "D) Eritema difuso em todo membro superior sem foco articular"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Calor unilateral sugere processo inflamatório/infeccioso na articulação ou partes moles adjacentes.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Unilateralidade é o ponto — bilateral simétrico não destaca foco.",
+      "B": "Correta: Reproduz a linha da tabela sobre calor unilateral.",
+      "C": "Incorreta: Padrão de baixo fluxo não é o achado clássico de artrite aguda.",
+      "D": "Incorreta: Eritema extenso sem foco articular não substitui o sinal local."
+    },
+    "explicacao": "Resumo: Comparar calor com o lado contralateral é inspeção rápida.\nA) INCORRETA. Simetria não destaca processo unilateral.\nB) CORRETA. Calor unilateral é a pista citada.\nC) INCORRETA. Achado não típico de sinovite aguda local.\nD) INCORRETA. Falta focalização articular.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 648,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Em inspeção de membros inferiores em ortostatismo, genu varo ou valgo refletem principalmente:",
+    "opcoes": [
+      "A) Apenas lesão aguda de menisco sempre sem desgaste",
+      "B) Somente fratura recente de tíbia em qualquer idade",
+      "C) Desgaste articular assimétrico (medial/lateral), desenvolvimento ou sobrecarga mecânica",
+      "D) Sempre neuropatia periférica isolada"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Genu varo/valgo relacionam-se a desgaste medial/lateral, desenvolvimento ou sobrecarga conforme a tabela de alinhamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Menisco agudo não explica varismo/valgo estático isoladamente.",
+      "B": "Incorreta: Fratura pode desviar, mas não é o significado principal da linha.",
+      "C": "Correta: Compatível com a coluna de contexto da aula.",
+      "D": "Incorreta: Neuropatia não é a leitura típica do alinhamento em varo/valgo."
+    },
+    "explicacao": "Resumo: Alinhamento do joelho integra mecânica e desgaste.\nA) INCORRETA. Associação simplista.\nB) INCORRETA. Nem todo varo/valgo é fratura aguda.\nC) CORRETA. Reflete desgaste assimétrico e fatores mecânicos.\nD) INCORRETA. Eixo motor não é o foco primário aqui.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 649,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Criança trazida por claudicação sem febre após leve trauma. Pela “Ponte com a Clínica”, a inspeção inicial deve:",
+    "opcoes": [
+      "A) Ser omitida para não stressar a criança",
+      "B) Focar só na face, pois membro inferior é secundário",
+      "C) Ignorar marcha se a criança estiver calma no consultório",
+      "D) Incluir observação de marcha e comparação de membros, lembrando causas graves até descartadas pelo protocolo"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Claudicação infantil afebril exige investigação guiada; inspeção e marcha são parte da triagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inspeção não deve ser abandonada.",
+      "B": "Incorreta: Membros inferiores são centrais na queixa.",
+      "C": "Incorreta: Marcha é teste funcional rápido mesmo com variabilidade.",
+      "D": "Correta: Alinha inspeção comparativa e alerta para causas graves conforme protocolo."
+    },
+    "explicacao": "Resumo: Claudicação pediátrica combina observação funcional e cautela.\nA) INCORRETA. Exame gentil, não omitido.\nB) INCORRETA. Foco errado da anamnese/exame.\nC) INCORRETA. Marcha permanece útil.\nD) CORRETA. Coerente com a ponte clínica da aula.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 650,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Paciente em inspeção de coluna: escoliose visível. Qual complemento a aula sugere quando houver dúvida neurológica ou déficit?",
+    "opcoes": [
+      "A) Avaliar necessidade de investigação neurológica mais ampla se houver sinais associados",
+      "B) Ignorar completamente se a dor for leve",
+      "C) Tratar sempre como postura sem exame",
+      "D) Solicitar cirurgia imediata sem avaliação"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Escoliose na inspeção pode coexistir com dor; déficit neurológico manda ampliar avaliação.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A tabela de alinhamento cita necessidade de avaliação neurológica se déficit.",
+      "B": "Incorreta: Intensidade da dor não exclui comprometimento neurológico.",
+      "C": "Incorreta: Postura não fecha diagnóstico sem dados.",
+      "D": "Incorreta: Indicação cirúrgica requer critérios, não inspeção isolada."
+    },
+    "explicacao": "Resumo: Escoliose + sinais neurológicos elevam grau de investigação.\nA) CORRETA. Coerente com o texto sobre escoliose e avaliação neurológica.\nB) INCORRETA. Subestima gravidade possível.\nC) INCORRETA. Erro de conduta.\nD) INCORRETA. Precipitação indevida.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 651,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Adulto com joelho em flexão leve e volume intenso após trauma em esporte de contato. Qual padrão visual a aula associa a hemartrose?",
+    "opcoes": [
+      "A) Ausência total de deformidade ou volume",
+      "B) Apenas eritema difuso em coxa sem joelho volumoso",
+      "C) Hemartrose com joelho frequentemente em flexão leve e tensão capsular",
+      "D) Edema em fusiforme exclusivamente em dedo sem envolvimento de joelho"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Hemartrose costuma distender a cápsula; o joelho pode permanecer em flexão com tensão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hemartrose volumosa é visível na inspeção.",
+      "B": "Incorreta: Foco no joelho é central no trauma articular.",
+      "C": "Correta: Reproduz a linha hemartrose da tabela de contorno.",
+      "D": "Incorreta: Confunde com padrão digital fusiforme."
+    },
+    "explicacao": "Resumo: Sangue intra-articular distende e limita postura.\nA) INCORRETA. Incompatível com hemartrose significativa.\nB) INCORRETA. Desloca o foco anatômico.\nC) CORRETA. Padrão descrito .\nD) INCORRETA. Região errada.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 652,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Na palpação musculoesquelética, qual técnica a aula recomenda para reduzir erro e aumentar confiança do paciente?",
+    "opcoes": [
+      "A) Pressão gradual com face distal dos dedos e comparação lado a lado",
+      "B) Pressão única máxima sem referência contralateral",
+      "C) Palpar só o ponto mais doloroso primeiro, sempre",
+      "D) Evitar tocar regiões não dolorosas em qualquer circunstância"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Palpação gradual e comparativa é o método descrito; começar por áreas menos dolorosas quando possível.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Reproduz a seção de técnica geral.",
+      "B": "Incorreta: Falta comparação bilateral em membros simétricos.",
+      "C": "Incorreta: Sequência inadequada para ganhar confiança.",
+      "D": "Incorreta: Áreas menos dolorosas ajudam no início do exame."
+    },
+    "explicacao": "Resumo: Palpação sistemática e comparativa localiza estruturas.\nA) CORRETA. Técnica e comparação são centrais.\nB) INCORRETA. Perde referência.\nC) INCORRETA. Ordem não recomendada.\nD) INCORRETA. Contradiz o roteiro sugerido.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 653,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Na palpação do joelho, a linha articular medial e lateral é o local típico para avaliar dor relacionada a:",
+    "opcoes": [
+      "A) Apenas bursite pré-patelar superficial",
+      "B) Menisco e estruturas colaterais, com dor à rotação em flexão no contexto clínico",
+      "C) Exclusivamente tendão patelar central",
+      "D) Nervo safeno sem componente articular"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Linha articular orienta menisco e colaterais na palpação do joelho.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bolsa anterior tem topografia distinta.",
+      "B": "Correta: Compatível com a tabela de palpação articular.",
+      "C": "Incorreta: Tendão patelar é anterior, não a linha mediolateral.",
+      "D": "Incorreta: Neuralgia isolada não é o foco da joint line."
+    },
+    "explicacao": "Resumo: Joint line direciona hipótese meniscal/colateral.\nA) INCORRETA. Topografia diferente.\nB) CORRETA. Reflete o texto.\nC) INCORRETA. Confunde faces palpáveis.\nD) INCORRETA. Eixo errado.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 654,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Paciente com dor na face lateral do cotovelo após esforço repetitivo. Dor máxima à palpação do epicôndilo lateral sugere:",
+    "opcoes": [
+      "A) Epicondilite medial",
+      "B) Bursite olecraniana isolada",
+      "C) Epicondilite lateral (extensores do punho",
+      "D) Compressão do nervo ulnar no sulco"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Epicôndilos são topografia para epicondilite medial ou lateral conforme o lado doloroso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lado medial é outro epicôndilo.",
+      "B": "Incorreta: Bolsa olecraniana tem ponto máximo posterior.",
+      "C": "Correta: Dor no epicôndilo lateral compatível com epicondilite lateral.",
+      "D": "Incorreta: Ulnar palpa-se na crista medial, não no epicôndilo lateral."
+    },
+    "explicacao": "Resumo: Topografia define tendinopatia lateral versus medial.\nA) INCORRETA. Lado oposto.\nB) INCORRETA. Região posterior.\nC) CORRETA. Coerente com a tabela de tendões e bolsas.\nD) INCORRETA. Neurocompressão distinta.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 655,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Massa palpável na face posterior do joelho, compatível com cisto de Baker. A aula alerta que, na dúvida com edema de perna, deve-se:",
+    "opcoes": [
+      "A) Assumir sempre lipoma benigno",
+      "B) Ignorar trombose venosa profunda por ser rara",
+      "C) Tratar como celulite sem exame de imagem",
+      "D) Não confiar só no sinal de Homans e considerar ultrassom quando indicado"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Cisto de Baker pode confundir com TVP — ultrassom na dúvida, não confiar só em Homans.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipoma não substitui diagnóstico diferencial vascular.",
+      "B": "Incorreta: TVP deve ser considerada no edema de perna.",
+      "C": "Incorreta: Celulite é diagnóstico clínico distinto.",
+      "D": "Correta: Reproduz a nota sobre Baker, TVP e USG."
+    },
+    "explicacao": "Resumo: Massa poplítea exige diferenciar cisto de complicação venosa.\nA) INCORRETA. Simplificação perigosa.\nB) INCORRETA. Subdiagnóstico de TVP.\nC) INCORRETA. Confusão infecciosa.\nD) CORRETA. Conduta alinhada ao texto.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 656,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Dor focal na tabaqueira anatômica após queda em mão estendida deve lembrar:",
+    "opcoes": [
+      "A) Suspeita de fratura do escafóide até prova em contrário, sabendo que radiografia inicial pode ser negativa",
+      "B) Entorse trivial sem necessidade de seguimento",
+      "C) Epicondilite lateral",
+      "D) Síndrome do túnel do carpo bilateral aguda"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Tabaqueira é clássica para escafóide; imagem inicial pode não mostrar fratura.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A ponte clínica cita dor na tabaqueira e fratura de escafóide.",
+      "B": "Incorreta: Ignora risco de fratura oculta.",
+      "C": "Incorreta: Epicôndilo é cotovelo.",
+      "D": "Incorreta: Túnel do carpo não é o foco pós-trauma na tabaqueira."
+    },
+    "explicacao": "Resumo: Trauma em punho exige pensar escafóide.\nA) CORRETA. Coerente com a ponte clínica.\nB) INCORRETA. Subestima gravidade.\nC) INCORRETA. Região errada.\nD) INCORRETA. Diagnóstico incoerente.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 657,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Paciente com dor paravertebral profunda e febre. Qual raciocínio a palpação e o contexto sistêmico reforçam?",
+    "opcoes": [
+      "A) Rotular de imediato como lombalgia mecânica sem considerar causas infecciosas",
+      "B) Manter discite/osteomielite no diferencial e não tratar só como lombalgia trivial",
+      "C) Ignorar a febre se a palpação for pouco dolorosa",
+      "D) Suspender qualquer investigação por imagem"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Fever + dor local profunda: infecção vertebral na lista — pegadinha da coluna.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fechamento precoce de lombalgia ignora bandeira infecciosa.",
+      "B": "Correta: Reflete a nota sobre febre e dor profunda paravertebral.",
+      "C": "Incorreta: Febre não pode ser ignorada.",
+      "D": "Incorreta: Investigação segue indicação clínica."
+    },
+    "explicacao": "Resumo: Sinais sistêmicos mudam prioridade na coluna.\nA) INCORRETA. Erro de triagem.\nB) CORRETA. Inclui infecção vertebral no diferencial.\nC) INCORRETA. Conduta insegura.\nD) INCORRETA. Negligência diagnóstica.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 658,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Para estimar temperatura local sem aparelho, a aula sugere como referência rápida:",
+    "opcoes": [
+      "A) Medir pressão arterial",
+      "B) Usar apenas a ponta dos dedos úmida",
+      "C) Comparar o dorso da mão do examinador com a articulação",
+      "D) Avaliar só a cor da unha"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Comparar dorso da mão do examinador com a articulação é método citado para calor local.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PA não substitui avaliação térmica local.",
+      "B": "Incorreta: Não é o truque descrito.",
+      "C": "Correta: Reproduz o texto sobre temperatura e dor à palpação.",
+      "D": "Incorreta: Unha não substitui palpação térmica articular."
+    },
+    "explicacao": "Resumo: Triagem tátil de calor usa referência do examinador.\nA) INCORRETA. Parâmetro sistêmico irrelevante.\nB) INCORRETA. Método não citado.\nC) CORRETA. Definição da aula.\nD) INCORRETA. Substituição inadequada.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 659,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Dor intensa à percussão de processo espinhoso após trauma de alta energia indica:",
+    "opcoes": [
+      "A) Continuar palpação profunda repetidamente sem imagem",
+      "B) Ignorar se não houver déficit neurológico",
+      "C) Apenas repouso domiciliar sem avaliação radiológica quando indicada",
+      "D) Tratar como possível fratura até investigação por imagem adequada"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Percussão dolorosa de proeminência com trauma sugere fratura — indicar imagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insistência sem imagem pode ser prejudicial.",
+      "B": "Incorreta: Ausência de déficit não exclui fratura.",
+      "C": "Incorreta: Atrasar imagem pode ser perigoso no trauma.",
+      "D": "Correta: Coerente com a dica de percussão vertebral."
+    },
+    "explicacao": "Resumo: Trauma + percussão positiva eleva suspeita de lesão óssea.\nA) INCORRETA. Risco iatrogênico.\nB) INCORRETA. Critério insuficiente.\nC) INCORRETA. Negligência.\nD) CORRETA. Indica investigação por imagem.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 660,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Dor desproporcional à palpação leve em quadro de dor crônica sugere, conforme a aula:",
+    "opcoes": [
+      "A) Componente neuropático ou sensibilização central (contexto de dor crônica",
+      "B) Sempre bacteremia documentada",
+      "C) Ausência de qualquer causa periférica",
+      "D) Indicação obrigatória de artroscopia diagnóstica"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Dor desproporcional à palpação leve aponta para componente neuropático ou sensibilização central.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Cita o parágrafo sobre palpação e dor crônica.",
+      "B": "Incorreta: Sepse tem outros critérios.",
+      "C": "Incorreta: Afirmação absoluta não é feita.",
+      "D": "Incorreta: Invasão cirúrgica sem critério clínico."
+    },
+    "explicacao": "Resumo: Hiperestesia à palpação leve integra mecanismos centrais/neurais.\nA) CORRETA. Texto explícito.\nB) INCORRETA. Contexto infeccioso sistêmico não é exigido.\nC) INCORRETA. Generalização falsa.\nD) INCORRETA. Excesso terapêutico.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 661,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Na palpação do tendão de Aquiles, espessamento e dor local sugerem tendinopatia; após ruptura aguda pode haver:",
+    "opcoes": [
+      "A) Sempre edema difuso bilateral em ambas pernas",
+      "B) Indoloridade total e marcha imediata sem limitação",
+      "C) Depressão palpável ou alteração de contorno compatível com ruptura",
+      "D) Calor bilateral simétrico sem história de trauma"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Aquiles: espessamento na tendinopatia; depressão pós-ruptura pode ser palpável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bilateralidade simétrica não é regra.",
+      "B": "Incorreta: Ruptura aguda costuma limitar marcha e gerar dor.",
+      "C": "Correta: Reflete a linha tendão de Aquiles da tabela.",
+      "D": "Incorreta: Padrão infeccioso bilateral não é o foco."
+    },
+    "explicacao": "Resumo: Palpação distingue tendinopatia de ruptura.\nA) INCORRETA. Padrão não descrito assim.\nB) INCORRETA. Incompatível com ruptura aguda.\nC) CORRETA. Achado de depressão pós-ruptura citado.\nD) INCORRETA. Contexto errado.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 662,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "O teste de Lachman avalia principalmente a integridade de:",
+    "opcoes": [
+      "A) Ligamento cruzado anterior, com joelho em cerca de 20–30° de flexão",
+      "B) Ligamento colateral medial em extensão total",
+      "C) Menisco medial isoladamente",
+      "D) Nervo fibular profundo"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Lachman é sensível para LCA no agudo, joelho parcialmente flexionado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Reproduz a tabela Lachman/LCA.",
+      "B": "Incorreta: Colaterais avaliam-se com estresse em varo/valgo.",
+      "C": "Incorreta: Menisco não é o alvo primário do Lachman.",
+      "D": "Incorreta: Estrutura neural não é testada por Lachman."
+    },
+    "explicacao": "Resumo: Lachman isola translação tibial anterior (LCA).\nA) CORRETA. Definição da aula.\nB) INCORRETA. Estrutura errada.\nC) INCORRETA. Outro alvo.\nD) INCORRETA. Fora do escopo.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 663,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "A manobra de gaveta anterior no joelho avalia:",
+    "opcoes": [
+      "A) Apenas irritação da bolsa pré-patelar",
+      "B) Instabilidade do LCA, idealmente comparando com o lado contralateral",
+      "C) Compressão do nervo safeno",
+      "D) Rotura exclusiva do menisco lateral sem LCA"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Gaveta anterior avalia LCA; comparar lados é regra .",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bolsa superficial não é o alvo.",
+      "B": "Correta: Compatível com a tabela gaveta/LCA.",
+      "C": "Incorreta: Neural periférico não é avaliado assim.",
+      "D": "Incorreta: Afirmação exclusiva incorreta."
+    },
+    "explicacao": "Resumo: Gaveta traduz laxidade anterior tibial (LCA).\nA) INCORRETA. Topografia errada.\nB) CORRETA. Texto descreve gaveta e LCA.\nC) INCORRETA. Método inadequado.\nD) INCORRETA. Generalização falsa.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 664,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "O teste de Jobe (esvaziamento) avalia principalmente o músculo:",
+    "opcoes": [
+      "A) Redondo menor",
+      "B) Infraespinhal isoladamente",
+      "C) Supraespinhal do manguito rotador",
+      "D) Peitoral maior"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Jobe associa-se ao supraespinhal na tabela de ombro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não é o músculo citado para Jobe.",
+      "B": "Incorreta: Outros testes avaliam infraespinhal.",
+      "C": "Correta: Reflete a linha Jobe–manguito.",
+      "D": "Incorreta: Peitoral não é alvo do Jobe."
+    },
+    "explicacao": "Resumo: Jobe isola supraespinhal.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 665,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "Phalen e Tinel no punho são usados para suspeita de:",
+    "opcoes": [
+      "A) Tenossinovite de De Quervain",
+      "B) Epicondilite lateral",
+      "C) Ruptura do ligamento colateral do polegar",
+      "D) Síndrome do túnel do carpo (nervo mediano"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Phalen e Tinel são citados para compressão do mediano no túnel do carpo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: De Quervain usa Finkelstein.",
+      "B": "Incorreta: Epicondilite é cotovelo.",
+      "C": "Incorreta: Lesão ligamentar do polegar é outro contexto.",
+      "D": "Correta: Tabela punho–Phalen/Tinel."
+    },
+    "explicacao": "Resumo: Testes de punho mapeiam mediano.\nA) INCORRETA. Outro teste (Finkelstein).\nB) INCORRETA. Região errada.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 666,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "A manobra de Finkelstein reproduz dor típica na:",
+    "opcoes": [
+      "A) Tenossinovite de De Quervain (primeiro compartimento dorsal do punho",
+      "B) Túnel do carpo",
+      "C) Articulação acromioclavicular",
+      "D) Epicôndilo medial"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Finkelstein é listado para De Quervain na tabela punho/cotovelo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Associação explícita .",
+      "B": "Incorreta: Túnel do carpo usa Phalen/Tinel.",
+      "C": "Incorreta: AC é ombro.",
+      "D": "Incorreta: Epicôndilo medial é outro local."
+    },
+    "explicacao": "Resumo: Finkelstein estressa o primeiro compartimento dorsal.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 667,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "O teste de Cozen é descrito para:",
+    "opcoes": [
+      "A) Túnel do carpo",
+      "B) Epicondilite lateral (extensores do punho",
+      "C) Instabilidade glenoumeral anterior",
+      "D) Ruptura do LCA"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Cozen associa-se à epicondilite lateral na tabela.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Punho mediano usa outras manobras.",
+      "B": "Correta: Linha Cozen–epicondilite lateral.",
+      "C": "Incorreta: Instabilidade de ombro usa apreensão/Jobe etc.",
+      "D": "Incorreta: Joelho."
+    },
+    "explicacao": "Resumo: Cozen estressa origem comum dos extensores.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 668,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "Grau 3 na escala MRC significa:",
+    "opcoes": [
+      "A) Força normal contra resistência máxima",
+      "B) Movimento com resistência incompleta após vencer a gravidade",
+      "C) Movimento apenas contra gravidade, sem resistência adicional",
+      "D) Ausência de contração palpável"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Grau 3: apenas contra gravidade — tabela MRC.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Descreve grau 5.",
+      "B": "Incorreta: Resistência parcial é grau 4.",
+      "C": "Correta: Definição do grau 3.",
+      "D": "Incorreta: Grau 0 é ausência de contração."
+    },
+    "explicacao": "Resumo: MRC padroniza documentação de força.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 669,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "Em artropatia séptica suspeita, a aula recomenda:",
+    "opcoes": [
+      "A) Forçar imediatamente bateria máxima de testes ligamentares",
+      "B) Ignorar febre se o joelho mover bem no ativo",
+      "C) Realizar punção sem critério em qualquer dor",
+      "D) Priorizar estabilidade, analgesia e conduta guiada, evitando estresse máximo em ligamentos antes de estabilização/avaliação adequada"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Sepse suspeita: não forçar teste máximo; priorizar segurança e conduta guiada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Contraria quando não forçar o teste.",
+      "B": "Incorreta: Sistêmico não pode ser ignorado.",
+      "C": "Incorreta: Punção segue indicação clínica.",
+      "D": "Correta: Reflete prioridade de imobilização e cautela."
+    },
+    "explicacao": "Resumo: Infecção articular muda prioridade do exame.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 670,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "Pseudo-fraqueza durante manobra dolorosa deve ser distinguida de paresia real ao:",
+    "opcoes": [
+      "A) Documentar contexto, repetir quando seguro e considerar MRC após analgesia adequada",
+      "B) Aumentar sempre a força do examinador até o limite da dor",
+      "C) Ignorar o lado contralateral",
+      "D) Diagnosticar AVC com base isolada no teste"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Pseudo-fraqueza por dor não é paresia — documentar e repetir após analgesia quando seguro.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Reproduz a pegadinha da aula.",
+      "B": "Incorreta: Força excessiva não diferencia dor de déficit.",
+      "C": "Incorreta: Comparação bilateral permanece regra.",
+      "D": "Incorreta: Critérios neurológicos completos faltam."
+    },
+    "explicacao": "Resumo: Dor limita esforço máximo.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 671,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "Neer e Hawkins são citados como manobras relacionadas a:",
+    "opcoes": [
+      "A) Compressão do nervo ulnar no cotovelo",
+      "B) Luxação patelar aguda",
+      "C) Impacto subacromial (sinal clínico, não patognomônico isolado",
+      "D) Sinovite pura de punho"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Neer/Hawkins associam-se a impacto subacromial na tabela de ombro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ulnar no cotovelo usa outras manobras.",
+      "B": "Incorreta: Patela não é o alvo.",
+      "C": "Correta: Texto qualifica como sinal, não patognomônico sozinho.",
+      "D": "Incorreta: Punho não é o foco."
+    },
+    "explicacao": "Resumo: Testes de ombro sugerem impacto, com interpretação contextual.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 672,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Homem com dor em perna em faixa e parestesia em dermatoma. O padrão irradiado sugere:",
+    "opcoes": [
+      "A) Dor apenas articular pura sem neural",
+      "B) Componente radicular (raiz) a considerar na hipótese",
+      "C) Sempre trombose venosa profunda",
+      "D) Apenas fibromialgia"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Irradiação em dermatoma implica radicular na tabela lombociatalgia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dermatoma aponta neural.",
+      "B": "Correta: Texto associa irradiação a raiz.",
+      "C": "Incorreta: TVP não segue dermatoma clássico.",
+      "D": "Incorreta: Fibromialgia não usa dermatoma."
+    },
+    "explicacao": "Resumo: Irradiação dermatomal é pista radicular.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 673,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Sinal de Lasègue positivo reforça suspeita de:",
+    "opcoes": [
+      "A) Tensão de raiz/ciática na lombociatalgia",
+      "B) Apenas coxa pérvia pediátrica",
+      "C) Sempre fratura de fêmur",
+      "D) Osteoartrite de joelho isolada"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Lasègue positivo indica tensão de raiz/ciática no texto.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Definição da tabela.",
+      "B": "Incorreta: Outro diagnóstico pediátrico.",
+      "C": "Incorreta: Fratura tem outros sinais.",
+      "D": "Incorreta: Joelho não explica Lasègue."
+    },
+    "explicacao": "Resumo: Manobra de elevação da perna estica elementos nervosos.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 674,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Paciente com retenção urinária e anestesia em sela após lombalgia intensa. Isso eleva suspeita de:",
+    "opcoes": [
+      "A) Lombalgia mecânica simples",
+      "B) Hérnia discal sem compromisso neural",
+      "C) Síndrome da cauda equina — urgência",
+      "D) Osteoartrite de quadril isolada"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Cauda equina: retenção e sela — emergência na tabela.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sinais de alarme não são mecânicos simples.",
+      "B": "Incorreta: Sem déficit neurológico grave descrito.",
+      "C": "Correta: Combinação clássica ensinada.",
+      "D": "Incorreta: Quadril não explica sela + retenção."
+    },
+    "explicacao": "Resumo: Déficits miccionais + sela são bandeira de cauda equina.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 675,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Idoso febril com monoartrite aguda. No topo da triagem estão:",
+    "opcoes": [
+      "A) Apenas tendinopatia crônica",
+      "B) Sempre fibromialgia",
+      "C) Osteoartrite nodular estável",
+      "D) Sepse articular e gota/cristal até excluídos com líquido quando indicado"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Monoartrite aguda: infecção e cristal no topo — punção quando indicado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Crônica não explica febre aguda.",
+      "B": "Incorreta: Fibromialgia não é monoartrite febril.",
+      "C": "Incorreta: OA estável não costuma ser monoartrite febril aguda típica.",
+      "D": "Correta: Reflete a tabela de monoartrite aguda."
+    },
+    "explicacao": "Resumo: Febre + monoartrite exige triagem de sepse e cristal.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 676,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Rigidez matinal prolongada e simetria de pequenas articulações das mãos sugerem, no quadro sindrômico:",
+    "opcoes": [
+      "A) Poliartrite inflamatória (ex.: AR) como hipótese",
+      "B) OA nodular com padrão predominante DIP",
+      "C) Fibromialgia exclusivamente",
+      "D) Tendinopatia isolada"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Poliartrite simétrica com rigidez inflamatória aponta para doença inflamatória sistêmica.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Coerente com a tabela poliartrite.",
+      "B": "Incorreta: OA nodular tem padrão diferente (DIP, nódulos).",
+      "C": "Incorreta: Fibromialgia não é poliartrite inflamatória.",
+      "D": "Incorreta: Tendão não explica simetria MCP/PIP típica."
+    },
+    "explicacao": "Resumo: Padrão articular guia reumatologia sindrômica.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 677,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Fibromialgia, na visão da aula, é:",
+    "opcoes": [
+      "A) Sinônimo de poliartrite reumatoide",
+      "B) Diagnóstico de exclusão com critérios clínicos, sem confundir com poliartrite inflamatória",
+      "C) Definida exclusivamente por VHS elevado",
+      "D) Sempre infecção oculta com hemocultura positiva"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Fibromialgia é diagnóstico de exclusão; não confundir com poliartrite inflamatória.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AR tem critérios inflamatórios distintos.",
+      "B": "Correta: Reflete o parágrafo sobre fibromialgia.",
+      "C": "Incorreta: VHS pode ser normal.",
+      "D": "Incorreta: Fibromialgia não é definida por hemocultura."
+    },
+    "explicacao": "Resumo: Fibromialgia não substitui inflamação articular documentada.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 678,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Osteoartrite, na abordagem semiológica da aula, caracteriza-se por:",
+    "opcoes": [
+      "A) Dor exclusivamente inflamatória matinal longa como único padrão",
+      "B) Rigidez matinal curta e padrão simétrico de MCP como regra",
+      "C) Dor mecânica, crepitação e limitação progressiva com impacto funcional",
+      "D) Febre alta persistente como achado típico"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "OA: dor mecânica, crepitação, limitação — visão semiológica da aula.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Padrão inflamatório longo não é o núcleo da OA.",
+      "B": "Incorreta: Simetria MCP é mais AR.",
+      "C": "Correta: Texto descreve OA assim.",
+      "D": "Incorreta: Febre não é típica de OA estável."
+    },
+    "explicacao": "Resumo: OA é desgaste mecânico com função comprometida.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 679,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Babinski e hiperreflexia em paciente com cervicalgia e irradiação sugerem:",
+    "opcoes": [
+      "A) Apenas tendinite de manguito",
+      "B) Lombalgia mecânica pura",
+      "C) Sempre apenas ansiedade",
+      "D) Possível mielopatia por compressão medular — alerta"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Hiperreflexia e Babinski com cervicalgia apontam mielopatia — compressão medular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Tendinite não explica sinais piramidais.",
+      "B": "Incorreta: Lombalgia não explica hiperreflexia bilateral superior.",
+      "C": "Incorreta: Sinais objetivos não são só ansiedade.",
+      "D": "Correta: Tabela cervical associa Babinski/hiperreflexia a mielopatia."
+    },
+    "explicacao": "Resumo: Sinais piramidais no contexto cervical elevam gravidade.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 680,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Paciente com dor difusa, fadiga e distúrbio do sono, sem sinovite objetiva. A conduta cognitiva é:",
+    "opcoes": [
+      "A) Fechar fibromialgia sem critérios e ignorar exclusões",
+      "B) Tratar como poliartrite reumatoide sem critérios",
+      "C) Considerar fibromialgia como diagnóstico de exclusão, sem inventar inflamação laboratorial",
+      "D) Iniciar antibiótico de amplo espectro em todo caso"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Fibromialgia: exclusão; não inventar inflamação — texto da aula.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Critérios e exclusões são necessários.",
+      "B": "Incorreta: AR exige achados inflamatórios.",
+      "C": "Correta: Reflete o parágrafo sobre fibromialgia.",
+      "D": "Incorreta: Sem indicação infecciosa."
+    },
+    "explicacao": "Resumo: Dor difusa exige critérios clínicos e exclusão de inflamatório.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 681,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "enunciado": "Síndrome dolorosa regional complexa, na visão geral da aula, deve ser entendida como:",
+    "opcoes": [
+      "A) Substituição da busca por causa orgânica tratável",
+      "B) Dor desproporcional com alterações autonômicas após trauma — abordagem multidisciplinar",
+      "C) Sempre sepse hematogênica",
+      "D) Diagnóstico exclusivamente por radiografia simples"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "SDRC: dor desproporcional, edema, autonômico — não substitui busca de causa tratável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ainda se busca causa orgânica quando aplicável.",
+      "B": "Correta: Síntese do bloco sobre SDRC.",
+      "C": "Incorreta: Sepse é outro quadro.",
+      "D": "Incorreta: RX não diagnostica SDRC."
+    },
+    "explicacao": "Resumo: SDRC é síndrome neuropática/autonômica pós-evento.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 682,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Na simulação MSK, automatizar a mesma sequência lógica a cada rodada visa principalmente:",
+    "opcoes": [
+      "A) Reduzir vícios e manter inspeção antes de manobras de estresse máximo",
+      "B) Eliminar o consentimento informado",
+      "C) Evitar feedback após a estação",
+      "D) Substituir exame físico real em todos os serviços"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Checklist e sequência fixa reduzem esquecimento sob estresse.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Alinha objetivos da tabela de simulação.",
+      "B": "Incorreta: Consentimento permanece ético.",
+      "C": "Incorreta: Feedback é essencial.",
+      "D": "Incorreta: Simulação complementa, não substitui tudo."
+    },
+    "explicacao": "Resumo: Sequência fixa treina hábito seguro.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 683,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Vantagem explícita dos manequins citada :",
+    "opcoes": [
+      "A) Impossibilitam demonstrar Lachman",
+      "B) Anatomia estável e repetição ilimitada de manobras como Lachman",
+      "C) Reproduzem perfeitamente textura de sinovite e empatia",
+      "D) Anulam a necessidade de prontuário"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Manequim: anatomia estável e repetição; limitações incluem textura e empatia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lachman pode ser demonstrado.",
+      "B": "Correta: Vantagem listada na tabela.",
+      "C": "Incorreta: Limitações são citadas explicitamente.",
+      "D": "Incorreta: Documentação permanece importante."
+    },
+    "explicacao": "Resumo: Manequim treina técnica repetível.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 684,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Paciente padronizado (ator) acrescenta principalmente:",
+    "opcoes": [
+      "A) Repetição ilimitada de anatomia idêntica",
+      "B) Eliminação total de dor simulada",
+      "C) Feedback estruturado e treino de comunicação sob estresse",
+      "D) Remoção de critérios de desempenho"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Ator segue roteiro, pode simular dor e oferece feedback pós-estação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Isso é manequim.",
+      "B": "Incorreta: Dor pode ser simulada.",
+      "C": "Correta: Papel do SP .",
+      "D": "Incorreta: OSCE mantém checklist."
+    },
+    "explicacao": "Resumo: SP treina relação médico-paciente.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 685,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "No checklist exemplo do joelho, o último passo citado inclui:",
+    "opcoes": [
+      "A) Ignorar neurovascular por ser treino",
+      "B) Solicitar ressonância antes de inspecionar",
+      "C) Punção obrigatória em todo caso",
+      "D) Pulso distal, sensibilidade e extensão dos dedos após manobras"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Após manobras, avaliar neurovascular — item 5 do checklist.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Segurança replica prática real.",
+      "B": "Incorreta: Imagem segue exame.",
+      "C": "Incorreta: Punção tem indicação.",
+      "D": "Correta: Reproduz o checklist."
+    },
+    "explicacao": "Resumo: Neurovascular após manobras é segurança.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 686,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Debriefing em grupo após rodadas visa:",
+    "opcoes": [
+      "A) Compartilhar erros comuns e acelerar correção (ex.: esquecer lado contralateral",
+      "B) Substituir estudo individual",
+      "C) Punir publicamente o aluno com menor nota",
+      "D) Evitar que a turma aprenda com terceiros"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Debriefing social acelera correção de erros frequentes.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Função descrita .",
+      "B": "Incorreta: Complementa, não substitui.",
+      "C": "Incorreta: Propósito educativo.",
+      "D": "Incorreta: Aprendizado social é o objetivo."
+    },
+    "explicacao": "Resumo: Erro comum da turma vira lição coletiva.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 687,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Ao comunicar resultados, a aula recomenda:",
+    "opcoes": [
+      "A) Usar apenas termos técnicos para parecer avançado",
+      "B) Resumir em linguagem acessível e confirmar compreensão do paciente",
+      "C) Omitir hipóteses quando houver incerteza",
+      "D) Garantir alta complexidade sem explicação"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Evitar jargão sem explicar; confirmar compreensão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Contraria comunicação acessível.",
+      "B": "Correta: Bloco de comunicação de resultados.",
+      "C": "Incorreta: Incerteza pode ser transparente com plano.",
+      "D": "Incorreta: Confunde o paciente."
+    },
+    "explicacao": "Resumo: Comunicação clara é competência cobrada.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 688,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Dica de prova: em OSCE, se estiver incerto sobre um achado, deve-se:",
+    "opcoes": [
+      "A) Declarar achado falso para cumprir tempo",
+      "B) Ignorar o lado contralateral",
+      "C) Reexaminar com calma antes de concluir — evitar verbalizar achado falso",
+      "D) Pedir que o examinador responda pela paciente"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Não verbalizar achado falso; reexaminar se incerto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Viola integridade.",
+      "B": "Incorreta: Comparar lados é regra.",
+      "C": "Correta: Dica explícita da aula.",
+      "D": "Incorreta: Antiético."
+    },
+    "explicacao": "Resumo: Integridade em estação simulada.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 689,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Registrar o que foi feito e pendências após estação simulada objetiva:",
+    "opcoes": [
+      "A) Apenas pontuação interna irrelevante para o cuidado",
+      "B) Eliminar necessidade de consentimento",
+      "C) Anular feedback do ator",
+      "D) Continuidade entre estações e plantão real, reduzindo perda de informação"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Prontuário na simulação treina continuidade e segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Registro tem propósito assistencial simulado.",
+      "B": "Incorreta: Ética permanece.",
+      "C": "Incorreta: Feedback é mantido.",
+      "D": "Correta: Texto sobre comunicação e registro."
+    },
+    "explicacao": "Resumo: Documentação é ética e segurança.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 690,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Limitação dos manequins inclui:",
+    "opcoes": [
+      "A) Textura de tendão e consistência de derrame não reproduzem 100% o real",
+      "B) Impossibilidade de qualquer repetição",
+      "C) Proibição de demonstrar Lachman",
+      "D) Eliminação da necessidade de paciente padronizado"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Textura e derrame são limitações; empatia treina com ator.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Limitação explícita.",
+      "B": "Incorreta: Repetição é vantagem.",
+      "C": "Incorreta: Lachman pode ser demonstrado.",
+      "D": "Incorreta: SP ainda é necessário para outras competências."
+    },
+    "explicacao": "Resumo: Fidelidade parcial da simulação.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 691,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Simulação com paciente padronizado prepara especialmente para:",
+    "opcoes": [
+      "A) Cirurgia sem supervisão",
+      "B) Diagnóstico exclusivamente por laboratório",
+      "C) Entrevista com dor crônica e expectativas — competência humanística cobrada em provas integradas",
+      "D) Eliminar exame físico"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "SP prepara entrevista, expectativas e comunicação em dor crônica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fora do escopo da simulação descrita.",
+      "B": "Incorreta: Laboratório não substitui história.",
+      "C": "Correta: Reflete a ponte com a clínica sobre SP.",
+      "D": "Incorreta: Exame continua necessário."
+    },
+    "explicacao": "Resumo: Dimensão humana do cuidado.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 692,
+    "materia": "semiologia1",
+    "tema": "semio1_a8",
+    "enunciado": "Na consulta ambulatorial supervisionada (15–20 min), qual etapa vem após anamnese na estrutura mínima?",
+    "opcoes": [
+      "A) Exame físico (inspeção, palpação, ADM, testes indicados",
+      "B) Alta sem plano",
+      "C) Pedido automático de RM de coluna em toda dor",
+      "D) Encaminhamento sem explicar ao paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Pergunta “quando puncionar?” alinha sepse suspeita e diagnóstico incerto relevante.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sepse é justamente indicação possível.",
+      "B": "Incorreta: Sem critério inflamatório/infeccioso.",
+      "C": "Correta: Ecoa a tabela de perguntas provocativas.",
+      "D": "Incorreta: Anamnese permanece base."
+    },
+    "explicacao": "Resumo: Indicação de punção é clínica.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a8"
+  }
+]

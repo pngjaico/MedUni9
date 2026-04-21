@@ -2,7 +2,7 @@
 
 Os indicadores de morbidade medem o "estoque" e o "fluxo" das doenças em uma população. Na prova, o tema central é a diferenciação entre **Incidência** (casos novos) e **Prevalência** (casos totais), além do uso da **Taxa de Ataque** em situações de surto.
 
-Na prática, esses números dizem ao médico se uma doença está se espalhando rápido (incidência) ou se o sistema de saúde está sobrecarregado por muitos doentes crônicos (prevalência).
+Na prática, esses números dizem ao médico se uma doença está se espalhando rápido (**incidência**) ou se o sistema de saúde está sobrecarregado por muitos **doentes crônicos** (**prevalência**).
 
 ---
 
@@ -19,7 +19,7 @@ Na prática, esses números dizem ao médico se uma doença está se espalhando 
 
 Mede o **Risco** ou a **Chance** de alguém ficar doente em um período de tempo.
 - **Fórmula:** Casos Novos / População sob risco.
-- **Uso:** Avaliar se uma prevenção (como vacina) está funcionando. Se a incidência cai, o risco diminuiu.
+- **Uso:** Avaliar se uma prevenção (como vacina) está funcionando. Se a incidência cai, o **risco** diminuiu.
 - **Dica de Prova:** Denominador são pessoas que **não** têm a doença no começo do estudo.
 
 ---
@@ -28,7 +28,7 @@ Mede o **Risco** ou a **Chance** de alguém ficar doente em um período de tempo
 
 Mede quantos doentes existem em um momento específico, somando os casos antigos e os novos.
 - **Fórmula:** Total de casos (Antigos + Novos) / População Total.
-- **Uso:** Planejar a compra de remédios para diabetes ou contratar médicos especialistas. Ela mostra o "tamanho do problema" agora.
+- **Uso:** Planejar a compra de remédios para diabetes ou contratar médicos especialistas. Ela mostra o "**tamanho do problema**" agora.
 - **Fatores que aumentam a Prevalência:** 
   - Doença que dura muito tempo (crônica).
   - Remédios que fazem a pessoa viver mais, mas não curam.
@@ -39,7 +39,7 @@ Mede quantos doentes existem em um momento específico, somando os casos antigos
 
 É uma incidência especial usada para **Surtos** rápidos (Intoxicação alimentar, surto de gripe em escola).
 - **Fórmula:** (Pessoas que adoeceram / Total de pessoas que se expuseram) x 100.
-- **Exemplo:** Em um churrasco de 100 pessoas, 40 tiveram diarreia. A taxa de ataque foi de 40%.
+- **Exemplo:** Em um churrasco de 100 pessoas, 40 tiveram diarreia. A **taxa de ataque** foi de 40%.
 
 ---
 

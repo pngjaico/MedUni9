@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1805,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual alternativa associa corretamente “Superior (1/3 proximal)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "B) Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "C) Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "D) Superior (1/3 proximal) — Estriado esquelético — Controle voluntário da deglutição"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Superior (1/3 proximal)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "B": "Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "C": "Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "D": "Correta: Superior (1/3 proximal) — Estriado esquelético — Controle voluntário da deglutição"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Superior (1/3 proximal)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos\nB) INCORRETA. Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo)\nC) INCORRETA. Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina)\nD) CORRETA. Correta: Superior (1/3 proximal) — Estriado esquelético — Controle voluntário da deglutição",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1807,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Médio (1/3 médio)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "B) Médio (1/3 médio) — Misto (estriado + liso) — Zona de transição",
+      "C) Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "D) Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Médio (1/3 médio)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "B": "Correta: Médio (1/3 médio) — Misto (estriado + liso) — Zona de transição",
+      "C": "Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "D": "Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Médio (1/3 médio)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina)\nB) CORRETA. Correta: Médio (1/3 médio) — Misto (estriado + liso) — Zona de transição\nC) INCORRETA. Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos\nD) INCORRETA. Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1808,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Muscular propria:” está correta?",
+    "opcoes": [
+      "A) Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "B) Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "C) variação por terço — ponto crucial para prova",
+      "D) Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Muscular propria:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "B": "Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "C": "Correta: variação por terço — ponto crucial para prova",
+      "D": "Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Muscular propria:”.\nA) INCORRETA. Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo)\nB) INCORRETA. Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina)\nC) CORRETA. Correta: variação por terço — ponto crucial para prova\nD) INCORRETA. Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1809,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Inferior (1/3 distal)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "B) Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "C) Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "D) Inferior (1/3 distal) — Liso — Peristaltismo involuntário"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Inferior (1/3 distal)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "B": "Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "C": "Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+      "D": "Correta: Inferior (1/3 distal) — Liso — Peristaltismo involuntário"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Inferior (1/3 distal)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos\nB) INCORRETA. Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo)\nC) INCORRETA. Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina)\nD) CORRETA. Correta: Inferior (1/3 distal) — Liso — Peristaltismo involuntário",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1810,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Esôfago:” está correta?",
+    "opcoes": [
+      "A) epitélio escamoso estratificado não-queratinizado",
+      "B) Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "C) Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "D) Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esôfago:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: epitélio escamoso estratificado não-queratinizado",
+      "B": "Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos",
+      "C": "Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo",
+      "D": "Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esôfago:”.\nA) CORRETA. Correta: epitélio escamoso estratificado não-queratinizado\nB) INCORRETA. Incorreta: Muscular da mucosa (MM):: camada de músculo liso — mais espessa no esôfago que em outros segmentos\nC) INCORRETA. Incorreta: Célula D — Antro/Piloro — Somatostatina — Inibe gastrina e HCl (feedback negativo)\nD) INCORRETA. Incorreta: Célula G — Célula D — G = gastrina (estimula HCl); D = somatostatina (inibe gastrina",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1812,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Taeniae coli:” está correta?",
+    "opcoes": [
+      "A) três faixas de músculo liso longitudinal (muscular da mucosa concentrada) — vistas nas haustras",
+      "B) Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+      "C) Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "D) Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Taeniae coli:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: três faixas de músculo liso longitudinal (muscular da mucosa concentrada) — vistas nas haustras",
+      "B": "Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+      "C": "Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "D": "Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Taeniae coli:”.\nA) CORRETA. Correta: três faixas de músculo liso longitudinal (muscular da mucosa concentrada) — vistas nas haustras\nB) INCORRETA. Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo\nC) INCORRETA. Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem\nD) INCORRETA. Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1814,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Haustras:” está correta?",
+    "opcoes": [
+      "A) Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "B) Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+      "C) saculações características do cólon",
+      "D) Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Haustras:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "B": "Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+      "C": "Correta: saculações características do cólon",
+      "D": "Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Haustras:”.\nA) INCORRETA. Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem\nB) INCORRETA. Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial)\nC) CORRETA. Correta: saculações características do cólon\nD) INCORRETA. Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1817,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual alternativa associa corretamente “Célula caliciforme (goblet)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+      "B) Célula caliciforme (goblet) — Secreção de muco — Vacúolos claros supranucleares",
+      "C) Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+      "D) Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Célula caliciforme (goblet)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+      "B": "Correta: Célula caliciforme (goblet) — Secreção de muco — Vacúolos claros supranucleares",
+      "C": "Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+      "D": "Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Célula caliciforme (goblet)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial)\nB) CORRETA. Correta: Célula caliciforme (goblet) — Secreção de muco — Vacúolos claros supranucleares\nC) INCORRETA. Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo\nD) INCORRETA. Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1818,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Colonócitos:” está correta?",
+    "opcoes": [
+      "A) Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "B) Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+      "C) células absortivas sem borda em escova proeminente; absorvem água",
+      "D) Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Colonócitos:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "B": "Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+      "C": "Correta: células absortivas sem borda em escova proeminente; absorvem água",
+      "D": "Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Colonócitos:”.\nA) INCORRETA. Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem\nB) INCORRETA. Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial)\nC) CORRETA. Correta: células absortivas sem borda em escova proeminente; absorvem água\nD) INCORRETA. Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1820,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Intestino delgado:” está correta?",
+    "opcoes": [
+      "A) vilosidades + criptas de Lieberkühn + células de Paneth (na base das criptas",
+      "B) Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+      "C) Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "D) Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Intestino delgado:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: vilosidades + criptas de Lieberkühn + células de Paneth (na base das criptas",
+      "B": "Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo",
+      "C": "Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem",
+      "D": "Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Intestino delgado:”.\nA) CORRETA. Correta: vilosidades + criptas de Lieberkühn + células de Paneth (na base das criptas)\nB) INCORRETA. Incorreta: Doença de Crohn — RCU — Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo\nC) INCORRETA. Incorreta: Intestino delgado — Intestino grosso — Delgado tem vilosidades; grosso não tem\nD) INCORRETA. Incorreta: Células de Paneth:: delgado + apêndice; ausência no grosso (marco diferencial",
+    "aula_id": "fp3_a12"
+  },
+  {
+    "id": 1822,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Veia centrolobular (VCL)” está correta?",
+    "opcoes": [
+      "A) no centro",
+      "B) Células endoteliais fenestradas: (sem membrana basal contínua",
+      "C) Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "D) Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Veia centrolobular (VCL)”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: no centro",
+      "B": "Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua",
+      "C": "Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "D": "Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Veia centrolobular (VCL)”.\nA) CORRETA. Correta: no centro\nB) INCORRETA. Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua)\nC) INCORRETA. Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar\nD) INCORRETA. Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1826,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Funções:” está correta?",
+    "opcoes": [
+      "A) síntese de proteínas plasmáticas (albumina, fatores de coagulação), metabolismo de lipídios, gliconeogênese, detoxificação, secreção de bile",
+      "B) Células endoteliais fenestradas: (sem membrana basal contínua",
+      "C) Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "D) Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Funções:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: síntese de proteínas plasmáticas (albumina, fatores de coagulação), metabolismo de lipídios, gliconeogênese, detoxificação, secreção de bile",
+      "B": "Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua",
+      "C": "Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "D": "Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Funções:”.\nA) CORRETA. Correta: síntese de proteínas plasmáticas (albumina, fatores de coagulação), metabolismo de lipídios, gliconeogênese, detoxificação, secreção de bile\nB) INCORRETA. Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua)\nC) INCORRETA. Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar\nD) INCORRETA. Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1827,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Ramo da veia porta” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+      "B) Ramo da veia porta — Sistema porta — Sangue rico em nutrientes do TGI",
+      "C) Células endoteliais fenestradas: (sem membrana basal contínua",
+      "D) Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Ramo da veia porta” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+      "B": "Correta: Ramo da veia porta — Sistema porta — Sangue rico em nutrientes do TGI",
+      "C": "Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua",
+      "D": "Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ramo da veia porta” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos)\nB) CORRETA. Correta: Ramo da veia porta — Sistema porta — Sangue rico em nutrientes do TGI\nC) INCORRETA. Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua)\nD) INCORRETA. Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1829,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Ducto biliar” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Células endoteliais fenestradas: (sem membrana basal contínua",
+      "B) Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "C) Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+      "D) Ducto biliar — Drenagem biliar dos hepatócitos — Bile (flui em sentido contrário ao sangue"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Ducto biliar” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua",
+      "B": "Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "C": "Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+      "D": "Correta: Ducto biliar — Drenagem biliar dos hepatócitos — Bile (flui em sentido contrário ao sangue"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ducto biliar” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua)\nB) INCORRETA. Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar\nC) INCORRETA. Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos)\nD) CORRETA. Correta: Ducto biliar — Drenagem biliar dos hepatócitos — Bile (flui em sentido contrário ao sangue",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1830,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Células de Kupffer” está correta?",
+    "opcoes": [
+      "A) (macrófagos residentes do fígado) — fagocitose",
+      "B) Células endoteliais fenestradas: (sem membrana basal contínua",
+      "C) Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "D) Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Células de Kupffer”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (macrófagos residentes do fígado) — fagocitose",
+      "B": "Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua",
+      "C": "Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar",
+      "D": "Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Células de Kupffer”.\nA) CORRETA. Correta: (macrófagos residentes do fígado) — fagocitose\nB) INCORRETA. Incorreta: Células endoteliais fenestradas: (sem membrana basal contínua)\nC) INCORRETA. Incorreta: Lóbulo portal (triângulo) — Tríade portal — VCLs — Fisiologia biliar\nD) INCORRETA. Incorreta: Ácinos pancreáticos:: agrupamentos de células acinosas (piramidais, com grânulos de zimogênio apicais basofílicos",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1832,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Esfíncter Esofagiano Superior (EES):” está correta?",
+    "opcoes": [
+      "A) cricofaríngeo — músculo estriado",
+      "B) Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "C) DRGE:: EEI hipotônico → refluxo ácido",
+      "D) Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esfíncter Esofagiano Superior (EES):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: cricofaríngeo — músculo estriado",
+      "B": "Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "C": "Incorreta: DRGE:: EEI hipotônico → refluxo ácido",
+      "D": "Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esfíncter Esofagiano Superior (EES):”.\nA) CORRETA. Correta: cricofaríngeo — músculo estriado\nB) INCORRETA. Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios\nC) INCORRETA. Incorreta: DRGE:: EEI hipotônico → refluxo ácido\nD) INCORRETA. Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1834,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Esfíncter Esofagiano Inferior (EEI):” está correta?",
+    "opcoes": [
+      "A) DRGE:: EEI hipotônico → refluxo ácido",
+      "B) Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+      "C) músculo liso — relaxa via VIP e óxido nítrico (NO",
+      "D) Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esfíncter Esofagiano Inferior (EEI):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DRGE:: EEI hipotônico → refluxo ácido",
+      "B": "Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+      "C": "Correta: músculo liso — relaxa via VIP e óxido nítrico (NO",
+      "D": "Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esfíncter Esofagiano Inferior (EEI):”.\nA) INCORRETA. Incorreta: DRGE:: EEI hipotônico → refluxo ácido\nB) INCORRETA. Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade\nC) CORRETA. Correta: músculo liso — relaxa via VIP e óxido nítrico (NO)\nD) INCORRETA. Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1835,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual alternativa associa corretamente “Peristaltismo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "B) DRGE:: EEI hipotônico → refluxo ácido",
+      "C) Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+      "D) Peristaltismo — Todo o TGI — Progressão do conteúdo luminal"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Peristaltismo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "B": "Incorreta: DRGE:: EEI hipotônico → refluxo ácido",
+      "C": "Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+      "D": "Correta: Peristaltismo — Todo o TGI — Progressão luminal"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Peristaltismo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios\nB) INCORRETA. Incorreta: DRGE:: EEI hipotônico → refluxo ácido\nC) INCORRETA. Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade\nD) CORRETA. Correta: Peristaltismo — Todo o TGI — Progressão do conteúdo luminal",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1836,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “DRGE:” está correta?",
+    "opcoes": [
+      "A) EEI hipotônico → refluxo ácido",
+      "B) Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "C) Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+      "D) Excitação:: acetilcolina, substância P"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “DRGE:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: EEI hipotônico → refluxo ácido",
+      "B": "Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "C": "Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+      "D": "Incorreta: Excitação:: acetilcolina, substância P"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “DRGE:”.\nA) CORRETA. Correta: EEI hipotônico → refluxo ácido\nB) INCORRETA. Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios\nC) INCORRETA. Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade\nD) INCORRETA. Incorreta: Excitação:: acetilcolina, substância P",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1840,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Plexo submucoso (de Meissner):” está correta?",
+    "opcoes": [
+      "A) na submucosa → controla secreção e absorção",
+      "B) Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "C) DRGE:: EEI hipotônico → refluxo ácido",
+      "D) Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Plexo submucoso (de Meissner):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: na submucosa → controla secreção e absorção",
+      "B": "Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios",
+      "C": "Incorreta: DRGE:: EEI hipotônico → refluxo ácido",
+      "D": "Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Plexo submucoso (de Meissner):”.\nA) CORRETA. Correta: na submucosa → controla secreção e absorção\nB) INCORRETA. Incorreta: Oral (voluntária) — Voluntário (córtex) — Língua, músculos mastigatórios\nC) INCORRETA. Incorreta: DRGE:: EEI hipotônico → refluxo ácido\nD) INCORRETA. Incorreta: Plexo mioentérico (de Auerbach):: entre as camadas musculares → controla motilidade",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1844,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Criptas de Lieberkühn” está correta?",
+    "opcoes": [
+      "A) Parótida:: serosa, amilase salivar",
+      "B) Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "C) (delgado): secreção de cloro e água (via CFTR); lócus da secreção no cólera (toxina ativa CFTR → diarreia secretória maciça",
+      "D) IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Criptas de Lieberkühn”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parótida:: serosa, amilase salivar",
+      "B": "Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "C": "Correta: (delgado): secreção de cloro e água (via CFTR); lócus da secreção no cólera (toxina ativa CFTR → diarreia secretória maciça",
+      "D": "Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Criptas de Lieberkühn”.\nA) INCORRETA. Incorreta: Parótida:: serosa, amilase salivar\nB) INCORRETA. Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa\nC) CORRETA. Correta: (delgado): secreção de cloro e água (via CFTR); lócus da secreção no cólera (toxina ativa CFTR → diarreia secretória maciça)\nD) INCORRETA. Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1847,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Submandibular” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "B) Submandibular — Mista — Amilase + mucina — 60-70%",
+      "C) IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+      "D) Parótida:: serosa, amilase salivar"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Submandibular” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "B": "Correta: Submandibular — Mista — Amilase + mucina — 60-70%",
+      "C": "Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+      "D": "Incorreta: Parótida:: serosa, amilase salivar"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Submandibular” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa\nB) CORRETA. Correta: Submandibular — Mista — Amilase + mucina — 60-70%\nC) INCORRETA. Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2)\nD) INCORRETA. Incorreta: Parótida:: serosa, amilase salivar",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1848,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Célula parietal:” está correta?",
+    "opcoes": [
+      "A) Parótida:: serosa, amilase salivar",
+      "B) Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "C) HCl (via H⁺/K⁺-ATPase) + FI; estimulada por ACh, gastrina, histamina",
+      "D) IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Célula parietal:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parótida:: serosa, amilase salivar",
+      "B": "Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "C": "Correta: HCl (via H⁺/K⁺-ATPase) + FI; estimulada por ACh, gastrina, histamina",
+      "D": "Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Célula parietal:”.\nA) INCORRETA. Incorreta: Parótida:: serosa, amilase salivar\nB) INCORRETA. Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa\nC) CORRETA. Correta: HCl (via H⁺/K⁺-ATPase) + FI; estimulada por ACh, gastrina, histamina\nD) INCORRETA. Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1849,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Sublingual” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+      "B) Parótida:: serosa, amilase salivar",
+      "C) Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "D) Sublingual — Mucosa — Mucina (lípase lingual) — 5%"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Sublingual” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+      "B": "Incorreta: Parótida:: serosa, amilase salivar",
+      "C": "Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+      "D": "Correta: Sublingual — Mucosa — Mucina (lípase lingual) — 5%"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sublingual” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2)\nB) INCORRETA. Incorreta: Parótida:: serosa, amilase salivar\nC) INCORRETA. Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa\nD) CORRETA. Correta: Sublingual — Mucosa — Mucina (lípase lingual) — 5%",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1850,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Célula principal:” está correta?",
+    "opcoes": [
+      "A) pepsinogênio → pepsina (ativada por HCl",
+      "B) IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+      "C) Parótida:: serosa, amilase salivar",
+      "D) Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Célula principal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: pepsinogênio → pepsina (ativada por HCl",
+      "B": "Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2",
+      "C": "Incorreta: Parótida:: serosa, amilase salivar",
+      "D": "Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Célula principal:”.\nA) CORRETA. Correta: pepsinogênio → pepsina (ativada por HCl)\nB) INCORRETA. Incorreta: IBP (omeprazol):: bloqueia H⁺/K⁺-ATPase (não o receptor H2)\nC) INCORRETA. Incorreta: Parótida:: serosa, amilase salivar\nD) INCORRETA. Incorreta: Bicarbonato — Células mucosas — — — Cria gradiente de pH na camada mucosa",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1852,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Glicose:” está correta?",
+    "opcoes": [
+      "A) SGLT1 (Na⁺-glicose, ativo); Frutose: GLUT5 (difusão facilitada",
+      "B) Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+      "C) K — Coagulopatia (↓fatores II, VII, IX, X",
+      "D) Vitamina — Deficiência Clínica"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Glicose:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: SGLT1 (Na⁺-glicose, ativo); Frutose: GLUT5 (difusão facilitada",
+      "B": "Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+      "C": "Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X",
+      "D": "Incorreta: Vitamina — Deficiência Clínica"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Glicose:”.\nA) CORRETA. Correta: SGLT1 (Na⁺-glicose, ativo); Frutose: GLUT5 (difusão facilitada)\nB) INCORRETA. Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência\nC) INCORRETA. Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X)\nD) INCORRETA. Incorreta: Vitamina — Deficiência Clínica",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1853,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual alternativa associa corretamente “Nutriente” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Vitamina — Deficiência Clínica",
+      "B) Nutriente — Principal Local de Absorção — Mecanismo",
+      "C) Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+      "D) K — Coagulopatia (↓fatores II, VII, IX, X"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Nutriente” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Vitamina — Deficiência Clínica",
+      "B": "Correta: Nutriente — Principal Local de Absorção — Mecanismo",
+      "C": "Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+      "D": "Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Nutriente” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Vitamina — Deficiência Clínica\nB) CORRETA. Correta: Nutriente — Principal Local de Absorção — Mecanismo\nC) INCORRETA. Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência\nD) INCORRETA. Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1854,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual afirmação sobre “Lipídios de cadeia longa:” está correta?",
+    "opcoes": [
+      "A) K — Coagulopatia (↓fatores II, VII, IX, X",
+      "B) Vitamina — Deficiência Clínica",
+      "C) micelas → enterócito → quilomícron → linfa (não sangue portal",
+      "D) Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Lipídios de cadeia longa:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X",
+      "B": "Incorreta: Vitamina — Deficiência Clínica",
+      "C": "Correta: micelas → enterócito → quilomícron → linfa (não sangue portal",
+      "D": "Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Lipídios de cadeia longa:”.\nA) INCORRETA. Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X)\nB) INCORRETA. Incorreta: Vitamina — Deficiência Clínica\nC) CORRETA. Correta: micelas → enterócito → quilomícron → linfa (não sangue portal)\nD) INCORRETA. Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1858,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Ferro:” está correta?",
+    "opcoes": [
+      "A) K — Coagulopatia (↓fatores II, VII, IX, X",
+      "B) Vitamina — Deficiência Clínica",
+      "C) Fe³⁺ → HCl → Fe²⁺ → DMT1 (duodeno) → ferroportina → transferrina",
+      "D) Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ferro:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X",
+      "B": "Incorreta: Vitamina — Deficiência Clínica",
+      "C": "Correta: Fe³⁺ → HCl → Fe²⁺ → DMT1 (duodeno) → ferroportina → transferrina",
+      "D": "Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ferro:”.\nA) INCORRETA. Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X)\nB) INCORRETA. Incorreta: Vitamina — Deficiência Clínica\nC) CORRETA. Correta: Fe³⁺ → HCl → Fe²⁺ → DMT1 (duodeno) → ferroportina → transferrina\nD) INCORRETA. Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1859,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Aminoácidos” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+      "B) K — Coagulopatia (↓fatores II, VII, IX, X",
+      "C) Vitamina — Deficiência Clínica",
+      "D) Aminoácidos — Jejuno — Cotransportes Na⁺-dependentes"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Aminoácidos” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência",
+      "B": "Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X",
+      "C": "Incorreta: Vitamina — Deficiência Clínica",
+      "D": "Correta: Aminoácidos — Jejuno — Cotransportes Na⁺-dependentes"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Aminoácidos” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Vitaminas A D E K:: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência\nB) INCORRETA. Incorreta: K — Coagulopatia (↓fatores II, VII, IX, X)\nC) INCORRETA. Incorreta: Vitamina — Deficiência Clínica\nD) CORRETA. Correta: Aminoácidos — Jejuno — Cotransportes Na⁺-dependentes",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1862,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Na lesão celular reversível por isquemia, qual achado morfológico inicial costuma aparecer primeiro?",
+    "opcoes": [
+      "A) Edema celular com citoplasma turvo e falha da bomba Na⁺/K⁺-ATPase por queda de ATP.",
+      "B) Picnose nuclear com fragmentação do material genético.",
+      "C) Necrose caseosa com centro granular amarelado.",
+      "D) Dissolução maciça do núcleo (cariólise) com infiltrado neutrofílico intenso."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A lesão reversível começa com edema celular: falta de ATP compromete a bomba Na⁺/K⁺, há entrada de sódio e água e o citoplasma fica turvo; a célula pode recuperar se o estressor cessar a tempo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: é o padrão clássico da lesão reversível por isquemia (material da aula).",
+      "B": "Incorreta: picnose é alteração nuclear típica da necrose, não o primeiro passo da lesão reversível.",
+      "C": "Incorreta: necrose caseosa é padrão de granuloma (ex.: tuberculose), não de lesão reversível aguda genérica.",
+      "D": "Incorreta: cariólise avançada e resposta inflamatória exuberante acompanham necrose, não a fase reversível inicial."
+    },
+    "explicacao": "Resumo: Lesão reversível na isquemia inicia com edema celular e falha da bomba Na⁺/K⁺ por falta de ATP.\nA) CORRETA. Primeira manifestação típica descrita no material.\nB) INCORRETA. Picnose integra o espectro de morte celular/necrose, não o achado inaugural da reversibilidade.\nC) INCORRETA. Necrose caseosa é entidade distinta (ex.: TB), fora do conceito de lesão reversível isquêmica inicial.\nD) INCORRETA. Cariólise e neutrofilia intensa sugerem necrose evoluída, não lesão reversível.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1863,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual descrição melhor caracteriza a necrose coagulativa em infarto de órgãos sólidos?",
+    "opcoes": [
+      "A) Infarto de órgão sólido com preservação do contorno celular em “fantasma” e tecido firme ou pálido.",
+      "B) Cavitação rápida com pus em tecido cerebral.",
+      "C) Centro necrótico com aspecto de queijo branco no granuloma tuberculoso.",
+      "D) Apenas apoptose sem qualquer alteração estrutural visível."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Na coagulativa o arcabouço proteico é desnaturado (isquemia/calor), mantendo o esboço celular; é o padrão do infarto em rim, coração ou baço.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde à definição morfológica dada .",
+      "B": "Incorreta: liquefação com pus ou cavidade é mais compatível com padrão liquefativo ou abscesso, não coagulativo clássico.",
+      "C": "Incorreta: descreve necrose caseosa (TB), não coagulativa de infarto arterial de órgão sólido.",
+      "D": "Incorreta: apoptose é morte programada distinta; infarto coagulativo é necrose, não apoptose isolada."
+    },
+    "explicacao": "Resumo: Necrose coagulativa = contorno preservado após isquemia em parênquima sólido.\nA) CORRETA. Combina infarto e morfologia coagulativa.\nB) INCORRETA. Cavitação/pus não definem o infarto coagulativo clássico de órgão sólido.\nC) INCORRETA. “Queijo branco” remete à caseosa, não à coagulativa de IAM/infarto esplênico etc.\nD) INCORRETA. Confunde apoptose com necrose coagulativa isquêmica.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1864,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Quando a lesão celular torna-se irreversível, quais eventos costumam marcar o “ponto de não retorno”?",
+    "opcoes": [
+      "A) Somente edema celular leve sem queda de ATP.",
+      "B) Disfunção mitocondrial grave com queda irreversível de ATP e lesão de membranas lisossômicas com liberação enzimática.",
+      "C) Apenas ativação de caspases sem alteração mitocondrial.",
+      "D) Reversão espontânea apenas com hidratação venosa, sem perfusão."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A aula define irreversibilidade pela combinação de falência mitocondrial (ATP) e ruptura lisossômica levando à digestão autolítica; aí segue necrose ou apoptose.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: edema leve isolado caracteriza fase reversível, não o limiar irreversível.",
+      "B": "Correta: reproduz o binômio mitocôndria + lisossomos do material.",
+      "C": "Incorreta: caspases são centrais na apoptose, mas a lesão irreversível não se resume a isso nem exclui a mitocôndria.",
+      "D": "Incorreta: hidratação sem restabelecer perfusão e sem janela adequada não reverte dano já irreversível."
+    },
+    "explicacao": "Resumo: Irreversível = falência energética mitocondrial + lesão lisossômica.\nA) INCORRETA. Descreve reversível, não irreversível.\nB) CORRETA. Alinha-se ao texto da aula.\nC) INCORRETA. Simplifica indevidamente o mecanismo e ignora o eixo mitocondrial/lisossomal.\nD) INCORRETA. Não substitui reperfusão oportuna nem nega dano estrutural já instalado.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1865,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Em relação à apoptose frente à necrose, qual contraste fisiopatológico é o mais adequado?",
+    "opcoes": [
+      "A) Ambas desencadeiam sempre o mesmo grau de inflamação aguda.",
+      "B) Na necrose o conteúdo celular extravasa e tende a inflamar; na apoptose há fragmentação ordenada e fagocitose sem inflamação típica.",
+      "C) Apoptose ocorre só em neoplasias malignas.",
+      "D) Necrose é sempre um processo programado dependente exclusivamente de caspase 8."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Necrose = morte com extravasamento e inflamação; apoptose = morte “limpa” com corpos apoptóticos fagocitados, sem reação inflamatória exuberante.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: justamente a apoptose evita o “escândalo” inflamatório da necrose.",
+      "B": "Correta: ecoa a comparação explícita do material.",
+      "C": "Incorreta: apoptose é fisiológica e patológica em vários contextos, não só câncer.",
+      "D": "Incorreta: necrose não é sinônimo de via extrínseca das caspases; confunde conceitos."
+    },
+    "explicacao": "Resumo: Necrose inflama; apoptose fragmenta sem inflamação clássica.\nA) INCORRETA. Inverte a relação com a inflamação.\nB) CORRETA. Reflete a tabela e o texto da aula.\nC) INCORRETA. Restringe indevidamente a apoptose.\nD) INCORRETA. Mistura necrose com uma via apoptótica específica.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1872,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual critério é essencial para definir síndrome nefrótica?",
+    "opcoes": [
+      "A) Proteinúria maior que 3,5 g/24h, geralmente com hipoalbuminemia.",
+      "B) Hematúria com cilindros hemáticos e queda de C3.",
+      "C) FeNa maior que 2% com urina isostenúrica.",
+      "D) Oligúria súbita após desidratação com ureia/creatinina elevada."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A síndrome nefrótica é definida por proteinúria maciça, com repercussões como hipoalbuminemia e edema.",
+    "explicacoes_opcoes": {
+      "A": "Correta: esse é o critério-chave do diagnóstico sindrômico.",
+      "B": "Incorreta: esse padrão é nefrítico.",
+      "C": "Incorreta: achado de IRA intrínseca tubular.",
+      "D": "Incorreta: sugere IRA pré-renal."
+    },
+    "explicacao": "Resumo: síndrome nefrótica exige proteinúria em faixa nefrótica (> 3,5 g/24h).\nA) CORRETA. Define o quadro.\nB) INCORRETA. Caracteriza síndrome nefrítica.\nC) INCORRETA. Relaciona-se à NTA.\nD) INCORRETA. Padrão de hipoperfusão renal.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1874,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual achado favorece síndrome nefrítica em vez de síndrome nefrótica?",
+    "opcoes": [
+      "A) Hipoalbuminemia importante com edema generalizado.",
+      "B) Proteinúria isolada em faixa nefrótica com lipidúria.",
+      "C) Microalbuminúria sem alterações urinárias inflamatórias.",
+      "D) Hematúria com cilindros eritrocitários e hipertensão."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A síndrome nefrítica é inflamatória e tipicamente cursa com hematúria glomerular, cilindros hemáticos e hipertensão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: padrão nefrótico.",
+      "B": "Incorreta: descreve síndrome nefrótica.",
+      "C": "Incorreta: alteração precoce sem fenótipo nefrítico.",
+      "D": "Correta: é o padrão clássico nefrítico."
+    },
+    "explicacao": "Resumo: nefrítica envolve inflamação glomerular com hematúria ativa e HAS.\nA) INCORRETA. Quadro nefrótico.\nB) INCORRETA. Padrão nefrótico.\nC) INCORRETA. Não define síndrome nefrítica.\nD) CORRETA. Conjunto típico.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1878,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual glomerulopatia primária é a mais comum no mundo e se apresenta com hematúria recorrente após infecções de mucosa?",
+    "opcoes": [
+      "A) Nefropatia por IgA (doença de Berger).",
+      "B) Glomeruloesclerose segmentar e focal.",
+      "C) Nefropatia membranosa secundária.",
+      "D) Glomerulonefrite membranoproliferativa tipo II."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A nefropatia por IgA é a glomerulonefrite primária mais prevalente e cursa com hematúria episódica.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde ao padrão clínico descrito.",
+      "B": "Incorreta: costuma cursar mais com proteinúria e síndrome nefrótica.",
+      "C": "Incorreta: não é a glomerulopatia primária mais prevalente nesse contexto.",
+      "D": "Incorreta: entidade menos prevalente e com perfil distinto."
+    },
+    "explicacao": "Resumo: a doença de Berger é a principal glomerulopatia primária mundial, com hematúria recorrente pós-IVAS.\nA) CORRETA. Define a entidade pedida.\nB) INCORRETA. Fenótipo mais nefrótico.\nC) INCORRETA. Não é a mais prevalente nesse padrão.\nD) INCORRETA. Menos comum e diferente.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1879,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Na nefropatia diabética inicial, qual intervalo corresponde à microalbuminúria?",
+    "opcoes": [
+      "A) Menor que 10 mg/dia.",
+      "B) Entre 10 e 25 mg/dia.",
+      "C) Acima de 3,5 g/dia.",
+      "D) Entre 30 e 300 mg/dia."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Microalbuminúria é marcador precoce e situa-se entre 30 e 300 mg/dia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: abaixo do limiar.",
+      "B": "Incorreta: ainda abaixo da faixa diagnóstica.",
+      "C": "Incorreta: representa proteinúria em faixa nefrótica.",
+      "D": "Correta: intervalo clássico de microalbuminúria."
+    },
+    "explicacao": "Resumo: microalbuminúria na nefropatia diabética é 30-300 mg/dia.\nA) INCORRETA. Valor baixo demais.\nB) INCORRETA. Ainda subdiagnóstico.\nC) INCORRETA. Faixa de proteinúria nefrótica.\nD) CORRETA. Faixa correta.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1882,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual é a causa mais frequente de síndrome de Cushing na prática clínica?",
+    "opcoes": [
+      "A) Uso prolongado de glicocorticoide exógeno (causa iatrogênica).",
+      "B) Adenoma hipofisário secretor de ACTH.",
+      "C) Carcinoma de suprarrenal produtor autônomo de cortisol.",
+      "D) Hiperplasia nodular primária bilateral do córtex suprarrenal."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A forma iatrogênica por corticoide exógeno é a principal causa de hipercortisolismo clínico.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde à epidemiologia descrita neste conteúdo.",
+      "B": "Incorreta: causa endógena importante, porém não a mais comum globalmente.",
+      "C": "Incorreta: menos frequente que iatrogenia na população geral.",
+      "D": "Incorreta: entidade menos comum que o uso exógeno de corticoide."
+    },
+    "explicacao": "Resumo: a causa mais comum de síndrome de Cushing é o uso crônico de glicocorticoides exógenos.\nA) CORRETA. É a etiologia mais frequente.\nB) INCORRETA. Importante entre causas endógenas, mas não globalmente.\nC) INCORRETA. Menos prevalente.\nD) INCORRETA. Também menos comum.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1886,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Na síndrome de Cushing por produção ectópica de ACTH, qual associação é mais típica?",
+    "opcoes": [
+      "A) ACTH moderadamente elevado e supressão com alta dose de dexametasona em todos os casos.",
+      "B) Carcinoma de pulmão de pequenas células com ACTH muito elevado e ausência de supressão em alta dose.",
+      "C) Tumor adrenal com ACTH suprimido e resposta a dexametasona alta.",
+      "D) Insuficiência adrenal primária com ACTH baixo e hiperpigmentação ausente."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O ACTH ectópico costuma ser muito alto, produzido por neoplasias como CPPC; o cortisol raramente suprime com testes de dexametasona.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ectópico frequentemente não suprime; ACTH costuma ser muito alto.",
+      "B": "Correta: associação clássica com ectopia de ACTH.",
+      "C": "Incorreta: padrão de Cushing ACTH-independente.",
+      "D": "Incorreta: descreve outra entidade (Addison)."
+    },
+    "explicacao": "Resumo: ACTH ectópico cursa com ACTH muito alto, geralmente por CPPC, e sem supressão com dexametasona alta.\nA) INCORRETA. Não é o comportamento esperado.\nB) CORRETA. Melhor descrição da causa ectópica.\nC) INCORRETA. Refere perfil adrenal autônomo.\nD) INCORRETA. Não corresponde a hipercortisolismo.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1887,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual mecanismo é central na fisiopatologia da hiperplasia prostática benigna?",
+    "opcoes": [
+      "A) Crescimento da zona de transição mediado por DHT gerada pela 5-alfa-redutase.",
+      "B) Origem na zona periférica, com metástase precoce linfonodal.",
+      "C) Origem preferencial na zona periférica, igual ao adenocarcinoma precoce.",
+      "D) Redução brusca de testosterona sérica como gatilho único."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A HPB afeta a zona periuretral/transição; DHT derivada da testosterona pela 5-alfa-redutase impulsiona o crescimento glandular.",
+    "explicacoes_opcoes": {
+      "A": "Correta: descreve topografia e mecanismo hormonal da HPB.",
+      "B": "Incorreta: isso é linguagem de neoplasia maligna.",
+      "C": "Incorreta: confunde com adenocarcinoma.",
+      "D": "Incorreta: o eixo envolve metabolismo local de andrógenos, não queda só sistêmica."
+    },
+    "explicacao": "Resumo: HPB cresce na zona de transição por estímulo de DHT local.\nA) CORRETA. Conceito essencial da aula.\nB) INCORRETA. Não descreve HPB.\nC) INCORRETA. Relaciona-se ao câncer prostático.\nD) INCORRETA. Mecanismo incompleto.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1888,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Paciente com HPB usa finasterida há 6 meses e traz PSA de 4 ng/mL. Como interpretar esse resultado no rastreamento?",
+    "opcoes": [
+      "A) O valor não precisa de correção porque finasterida não altera PSA.",
+      "B) O valor deve ser dividido por quatro para qualquer paciente.",
+      "C) A finasterida eleva o PSA em cerca de 50%, então divide-se por 2.",
+      "D) Deve-se corrigir aproximadamente para o dobro, pois finasterida reduz PSA em torno de 50%."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Inibidores da 5-alfa-redutase reduzem PSA em torno de 50%; a orientação prática é comparar como se o valor medido fosse o dobrado para interpretação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ignora efeito farmacológico conhecido.",
+      "B": "Incorreta: fator de correção incorreto.",
+      "C": "Incorreta: a direção do efeito está invertida.",
+      "D": "Correta: conduta de interpretação adequada."
+    },
+    "explicacao": "Resumo: finasterida reduz PSA, então o valor medido costuma ser corrigido para o dobro na análise clínica.\nA) INCORRETA. Falso.\nB) INCORRETA. Correção inadequada.\nC) INCORRETA. Efeito invertido.\nD) CORRETA. Ajuste esperado.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1892,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Mulher de 30 anos com dismenorreia progressiva, dispareunia profunda e infertilidade deseja tratamento inicial para suspeita de endometriose. Qual opção é a melhor?",
+    "opcoes": [
+      "A) Dismenorreia progressiva, dispareunia profunda e infertilidade; supressão hormonal (ex.: ACO contínuo, progestágeno, análogo de GnRH conforme caso).",
+      "B) Hematúria recorrente pós-faringite e hipocomplementemia isolada.",
+      "C) Metrorragia pós-menopausa como único sintoma sem dor pélvica.",
+      "D) Proteinúria maciça com edema generalizado e hipoalbuminemia."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A endometriose costuma cursar com dor cíclica progressiva, dor à relação profunda e subfertilidade; o tratamento hormonal visa suprimir estímulo estrogênico.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde à tríade e ao princípio terapêutico do material.",
+      "B": "Incorreta: sugere glomerulonefrite pós-infecciosa, não endometriose.",
+      "C": "Incorreta: padrão típico de investigação de câncer de endométrio, não endometriose.",
+      "D": "Incorreta: descreve síndrome nefrótica."
+    },
+    "explicacao": "Resumo: a tríade clássica da endometriose é dismenorreia progressiva, dispareunia profunda e infertilidade, com supressão hormonal como conduta inicial frequente.\nA) CORRETA. Alinha clínica e terapia.\nB) INCORRETA. Quadro nefrológico.\nC) INCORRETA. Sugere outro diagnóstico.\nD) INCORRETA. Não se relaciona ao caso.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1893,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual teoria explica de forma mais clássica a presença de endométrio ectópico na pelve?",
+    "opcoes": [
+      "A) Infecção ascendente exclusiva por bacilos álcool-ácido resistentes.",
+      "B) Menstruação retrógrada (refluxo tubáceo) com implante de fragmentos endometriais no peritônio pélvico.",
+      "C) Metástase hematogênica obrigatória a partir do útero para o fígado em todos os casos.",
+      "D) Autoimunidade com anticorpos anti-receptor de TSH como gatilho único."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A teoria de Sampson propõe refluxo menstrual pelas tubas e implante de endométrio ectópico na pelve, entre outras teorias complementares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o núcleo da teoria mais citada para endometriose.",
+      "B": "Correta: corresponde à menstruação retrógrada descrita .",
+      "C": "Incorreta: não é o mecanismo clássico predominante na explicação didática.",
+      "D": "Incorreta: confunde com tireoide; não explica endometriose."
+    },
+    "explicacao": "Resumo: a teoria de Sampson descreve menstruação retrógrada com implante de tecido endometrial fora do útero.\nA) INCORRETA. Não é mecanismo principal da endometriose.\nB) CORRETA. Teoria mais cobrada.\nC) INCORRETA. Não é via obrigatória e universal.\nD) INCORRETA. Não explica essa doença.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1899,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Segundo o esquema citado, após dois exames anuais normais, quando iniciar e com que periodicidade manter o Papanicolaou?",
+    "opcoes": [
+      "A) Aos 25 anos, repetindo a cada 3 anos até 64 anos.",
+      "B) Aos 18 anos anualmente por toda a vida.",
+      "C) Aos 40 anos, apenas uma vez na vida.",
+      "D) Somente após primeiro caso de HPV clinicamente tratado."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O esquema citado indica início aos 25 anos após dois Paps anuais normais e repetição trienal até 64 anos, conforme diretrizes MS.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reproduz idade de início e intervalo descritos.",
+      "B": "Incorreta: idade inicial e estratégia não batem com o texto.",
+      "C": "Incorreta: início tardio demais e frequência incorreta.",
+      "D": "Incorreta: rastreamento não depende de tratamento prévio documentado de HPV."
+    },
+    "explicacao": "Resumo: a orientação citada é iniciar aos 25 anos e seguir a cada 3 anos até 64 anos após dois exames anuais normais.\nA) CORRETA. Reflete o protocolo mencionado.\nB) INCORRETA. Não corresponde ao esquema.\nC) INCORRETA. Está fora do recomendado.\nD) INCORRETA. Critério inadequado.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  },
+  {
+    "id": 1900,
+    "materia": "fisiopato3",
+    "tema": "fp3_a12",
+    "enunciado": "Qual comparação entre câncer de endométrio tipo I e tipo II está correta?",
+    "opcoes": [
+      "A) Tipo II é tipicamente estrogênio-dependente e indolente; tipo I é sempre seroso e agressivo.",
+      "B) Tipo I e tipo II têm biologia idêntica, mudando apenas estadiamento.",
+      "C) Tipo I costuma ser estrogênio-dependente e de melhor prognóstico; tipo II tende a ser mais agressivo.",
+      "D) Tipo II é sempre precedido por hiperplasia endometrial típica."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O tipo I (endometrioide) costuma ser estrogênio-dependente e de melhor prognóstico; o tipo II (seroso, células claras) tende a ser mais agressivo e menos ligado a estrogênio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte os perfis típicos de agressividade e dependência estrogênica.",
+      "B": "Incorreta: há diferenças biológicas importantes.",
+      "C": "Correta: descreve adequadamente a distinção.",
+      "D": "Incorreta: não é regra obrigatória."
+    },
+    "explicacao": "Resumo: tipo I é mais associado a estrogênio e tende a melhor prognóstico; tipo II é biologicamente mais agressivo.\nA) INCORRETA. Está invertido.\nB) INCORRETA. Ignora diferenças fundamentais.\nC) CORRETA. Comparação correta.\nD) INCORRETA. Afirmação absoluta indevida.",
+    "aula_id": "fp3_a12",
+    "essencial": false
+  }
+]

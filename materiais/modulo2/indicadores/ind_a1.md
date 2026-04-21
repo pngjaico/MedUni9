@@ -2,7 +2,7 @@
 
 A epidemiologia não é apenas o estudo das doenças, mas a ciência que permite ao médico tomar decisões baseadas em dados populacionais. Na prova, o tema central é a evolução do método científico: da observação ambiental de **Hipócrates** à investigação de campo de **John Snow**, até chegar à vigilância moderna no **SUS**.
 
-Na prática, entender essa história ajuda a compreender por que medimos indicadores e como eles guiam as políticas de saúde pública hoje.
+Na prática, entender essa história ajuda a compreender por que medimos indicadores e como eles guiam as **políticas de saúde pública** hoje.
 
 ---
 
@@ -25,24 +25,24 @@ Antigamente, acreditava-se que as doenças eram castigos divinos.
 
 ## 2. John Snow: O Pai da Epidemiologia Moderna
 
-O marco mais importante para as provas é a investigação do **Cólera** em Londres (1854) por John Snow.
+O marco mais importante para as provas é a investigação do **Cólera** em Londres (1854) por **John Snow**.
 - **O que ele fez:** Mapeou as mortes em um bairro e percebeu que elas se concentravam ao redor de uma **Bomba de Água** pública (Broad Street).
-- **A Conclusão:** Mesmo sem saber que existiam bactérias, ele provou que a água estava transmitindo a doença. 
+- **A Conclusão:** Mesmo sem saber que existiam bactérias, ele provou que a **água** estava transmitindo a doença. 
 - **A Ação:** Ele removeu a alavanca da bomba e as mortes pararam. Isso é o nascimento da **Epidemiologia Analítica**.
 
 ---
 
 ## 3. Revolução Sanitária e Teoria Microbiana
 
-- **Miasmas:** Antes dos microscópios, achavam que o "mau cheiro" (miasma) causava doenças. Isso levou a grandes obras de esgoto e limpeza urbana.
+- **Miasmas:** Antes dos microscópios, achavam que o "mau cheiro" (**miasma**) causava doenças. Isso levou a grandes obras de esgoto e limpeza urbana.
 - **Teoria Microbiana:** Pasteur e Koch provaram que microrganismos causam doenças. A epidemiologia passou a focar no **Agente** (o bicho), no **Hospedeiro** (quem pega) e no **Ambiente** (onde vivem).
 
 ---
 
 ## 4. A Epidemiologia Moderna no SUS
 
-Hoje, a epidemiologia não foca apenas em bactérias, mas em **Doenças Crônicas** (Câncer, Diabetes) e nos **Determinantes Sociais** (pobreza, escolaridade). No SUS, ela serve para:
-- Monitorar surtos (Dengue, COVID).
+Hoje, a epidemiologia não foca apenas em bactérias, mas em **Doenças Crônicas** (Câncer, Diabetes) e nos **Determinantes Sociais** (pobreza, escolaridade). No **SUS**, ela serve para:
+- Monitorar surtos (**Dengue**, **COVID**).
 - Planejar campanhas de vacinação.
 - Distribuir recursos para as áreas que mais precisam.
 

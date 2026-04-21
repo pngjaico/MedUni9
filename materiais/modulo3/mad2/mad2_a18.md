@@ -1,8 +1,8 @@
 # MAD2 — Aula 18: Antibióticos — Inibidores de Síntese de DNA e Antimetabólitos
 
-Os antibióticos que atacam o "comando central" da bactéria (DNA) ou sua "energia vital" (Folato) são ferramentas poderosas. Na prova, os temas centrais são as **Quinolonas** (Ciprofloxacino), as **Sulfas** (Bactrim) e o papel do **Metronidazol** em infecções por anaeróbios.
+Os antibióticos que atacam o "comando central" da bactéria (DNA) ou sua "energia vital" (Folato) são ferramentas poderosas. Na prova, os temas centrais são as **Quinolonas** (Ciprofloxacino), as **Sulfas** (Bactrim) e o papel do **Metronidazol** em infecções por **anaeróbios**.
 
-Na prática, o médico deve saber que o uso dessas drogas exige cuidado em idosos e atletas devido ao risco de lesões em tendões, e que a resistência bacteriana, especialmente em infecções urinárias, está tornando muitas dessas opções de primeira linha obsoletas.
+Na prática, o médico deve saber que o uso dessas drogas exige cuidado em idosos e atletas devido ao risco de lesões em **tendões**, e que a resistência bacteriana, especialmente em infecções urinárias, está tornando muitas dessas opções de primeira linha obsoletas.
 
 ---
 
@@ -20,16 +20,16 @@ Na prática, o médico deve saber que o uso dessas drogas exige cuidado em idoso
 Elas atacam as enzimas que controlam o enovelamento do DNA (**DNA Girase** e **Topoisomerase IV**). Sem isso, a bactéria não consegue se duplicar e morre.
 - **Ciprofloxacino:** O rei das infecções urinárias e gastrointestinais por Gram-negativos.
 - **Levofloxacino / Moxifloxacino ("Quinolonas Respiratórias"):** Ganham força contra o *Pneumococo*, sendo muito usadas em pneumonias graves.
-- **Efeito Colateral Grave:** Podem causar **Ruptura do Tendão de Aquiles** e alterações no sistema nervoso (confusão mental em idosos).
+- **Efeito Colateral Grave:** Podem causar **Ruptura do Tendão de Aquiles** e alterações no sistema nervoso (**confusão mental** em idosos).
 
 ---
 
 ## 2. Sulfonamidas e Trimetoprima: O Bloqueio do Folato
 
 Bactérias precisam fabricar seu próprio ácido fólico para sobreviver; humanos pegam da comida. Por isso, esse remédio é tóxico para a bactéria e seguro para nós.
-- **Bactrim (Sulfametoxazol + Trimetoprima):** Usado para infecções urinárias e a droga de escolha para prevenir a pneumonia por *Pneumocystis* no **HIV**.
+- **Bactrim (Sulfametoxazol + Trimetoprima):** Usado para infecções urinárias e a droga de escolha para prevenir a pneumonia por ***Pneumocystis*** no **HIV**.
 - **Atenção:** As duas drogas juntas fazem um **Bloqueio Sequencial**, o que as torna muito mais potentes do que se fossem usadas sozinhas.
-- **Efeito Colateral:** Pode causar **Anemia Megaloblástica** e reações de pele graves (Síndrome de Stevens-Johnson).
+- **Efeito Colateral:** Pode causar **Anemia Megaloblástica** e reações de pele graves (**Síndrome de Stevens-Johnson**).
 
 ---
 
@@ -38,7 +38,7 @@ Bactérias precisam fabricar seu próprio ácido fólico para sobreviver; humano
 Age causando danos diretos na hélice do DNA por meio de radicais livres.
 - **Uso:** Funciona apenas contra **Anaeróbios** (bactérias que vivem sem oxigênio) e protozoários (Ameba e Giardia).
 - **Destaque:** É usado para infecções abdominais e ginecológicas.
-- **Efeito Antabuse (Dissulfiram):** Se o paciente beber álcool enquanto toma Metronidazol, terá vômitos violentos, dor de cabeça e pressão baixa. **Álcool é proibido!**
+- **Efeito Antabuse (Dissulfiram):** Se o paciente beber **álcool** enquanto toma Metronidazol, terá vômitos violentos, dor de cabeça e pressão baixa. **Álcool é proibido!**
 
 ---
 
@@ -47,7 +47,7 @@ Age causando danos diretos na hélice do DNA por meio de radicais livres.
 Age em vários pontos da síntese de DNA e proteínas.
 - **Uso:** É usada quase exclusivamente para **Cistite** (infecção da bexiga) não complicada.
 - **Vantagem:** Quase não causa resistência bacteriana fora da bexiga, preservando a flora normal do corpo.
-- **Limite:** Não serve para infecção nos rins (Pielonefrite), pois não atinge concentração boa fora da urina.
+- **Limite:** Não serve para infecção nos rins (**Pielonefrite**), pois não atinge concentração boa fora da urina.
 
 ---
 
@@ -82,11 +82,11 @@ A Uninove adora o **Efeito Antabuse**. Se o paciente tomou Metronidazol e passou
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Ciprofloxacino** | **Levofloxacino** | Foco em **Gram-negativos/Urina** vs Foco em **Pulmão (Respiratória)** |
+| **Ciprofloxacino** | **Levofloxacino** | Foco em **Gram-negativos/Urina** vs Foco em **Pulmão** (Respiratória) |
 | **Metronidazol** | **Clindamicina** | Anaeróbios **Abdominal** vs Anaeróbios **Boca/Pulmão** |
 | **Nitrofurantoína** | **Ciprofloxacino** | Só para **Cistite** vs Usado em **Pielonefrite** |
 | **Sulfa** | **Trimetoprima** | Inibe etapa 1 do folato vs **Inibe etapa 2 (Sinergia)** |
-| **Antagonista do DNA** | **Beta-lactâmico** | Mata o "cérebro" vs **Quebra a carapaça (parede)** |
+| **Antagonista do DNA** | **Beta-lactâmico** | Mata o "**cérebro**" vs **Quebra a carapaça (parede)** |
 
 ### Frase-âncora para não esquecer
 

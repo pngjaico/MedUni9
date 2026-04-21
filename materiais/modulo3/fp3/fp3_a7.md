@@ -2,7 +2,7 @@
 
 Os anti-inflamatórios são as ferramentas mais usadas na medicina para combater a dor e o inchaço. Na prova, os temas centrais são a cascata do **Ácido Araquidônico**, a diferença entre os **AINEs** (como o Ibuprofeno) e os **Corticoides** (como a Prednisona), e o reconhecimento dos efeitos colaterais graves, como a **Gastrite** e a **Síndrome de Cushing**.
 
-Na prática, o médico deve saber que o uso crônico dessas drogas pode "desligar" as defesas naturais do corpo, levando a úlceras no estômago, diabetes e até a falência das glândulas suprarrenais se o remédio for parado de uma vez.
+Na prática, o médico deve saber que o uso crônico dessas drogas pode "desligar" as defesas naturais do corpo, levando a **úlceras no estômago**, diabetes e até a **falência das glândulas suprarrenais** se o remédio for parado de uma vez.
 
 ---
 
@@ -27,9 +27,9 @@ Os Anti-inflamatórios Não Esteroidais (AINEs) agem inibindo a enzima **Cicloxi
 ## 2. Efeitos Colaterais dos AINEs (Cuidado Clínico)
 
 Apesar de comuns, os AINEs têm "pegadinhas" perigosas:
-- **Estômago:** Inibem a proteção natural, causando úlceras e sangramentos (Hemorragia Digestiva).
+- **Estômago:** Inibem a proteção natural, causando úlceras e sangramentos (**Hemorragia Digestiva**).
 - **Rins:** Diminuem o sangue que chega ao rim. Em idosos desidratados, podem causar **Insuficiência Renal**.
-- **Asma Aspirínica:** Ao bloquear a via da COX, o corpo desvia tudo para a via da LOX (Leucotrienos), o que fecha o pulmão de alguns pacientes asmáticos.
+- **Asma Aspirínica:** Ao bloquear a via da COX, o corpo desvia tudo para a via da LOX (**Leucotrienos**), o que fecha o pulmão de alguns pacientes asmáticos.
 - **Terceiro Trimestre:** Proibido na gravidez, pois pode fechar prematuramente o **Duto Arterioso** do bebê.
 
 ---
@@ -38,7 +38,7 @@ Apesar de comuns, os AINEs têm "pegadinhas" perigosas:
 
 A **Prednisona**, **Dexametasona** e **Hidrocortisona** são muito mais potentes que os AINEs porque bloqueiam a **Fosfolipase A2**, a "mãe" da inflamação.
 - **Ação:** Bloqueiam prostaglandinas, leucotrienos e citocinas. São usados em alergias graves, doenças autoimunes e transplantes.
-- **Uso Crônico (Síndrome de Cushing):** O excesso de corticoide causa gordura na barriga, rosto em **"Lua Cheia"**, estrias roxas, ossos fracos (osteoporose) e diabetes.
+- **Uso Crônico (Síndrome de Cushing):** O excesso de corticoide causa gordura na barriga, rosto em **"Lua Cheia"**, **estrias roxas**, ossos fracos (**osteoporose**) e diabetes.
 
 ---
 

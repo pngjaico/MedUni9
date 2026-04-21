@@ -48816,6 +48816,366 @@
       "explicacao": "Esse tempo garante a eliminação da flora transitória e redução da flora residente.",
       "dificuldade": 2,
       "id": 11970
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "As três camadas das meninges, da mais externa para a mais interna, são: {{c1::Dura-máter}}, {{c2::Aracnoide}} e {{c3::Pia-máter}}.",
+      "verso": "Dura-máter, Aracnoide e Pia-máter",
+      "explicacao": "A dura é a mais resistente (paquimeninge), enquanto aracnoide e pia formam a leptomeninge.",
+      "dificuldade": 1,
+      "id": 12001
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "O hematoma {{c1::Epidural}} ocorre geralmente por ruptura da artéria {{c2::meníngea média}}, apresentando o clássico {{c3::intervalo lúcido}}.",
+      "verso": "Epidural / Meníngea média / Intervalo Lúcido",
+      "explicacao": "O sangramento é arterial e rápido, acumulando-se entre o osso e a dura-máter.",
+      "dificuldade": 3,
+      "id": 12002
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "O hematoma {{c1::Subdural}} é causado pela ruptura de {{c2::veias em ponte}} e é mais comum em {{c3::idosos}} após quedas leves.",
+      "verso": "Subdural / Veias em ponte / Idosos",
+      "explicacao": "Como o sangramento é venoso, a progressão é mais lenta que no epidural.",
+      "dificuldade": 2,
+      "id": 12003
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "O líquor (LCR) é produzido principalmente pelo {{c1::plexo corioide}} e reabsorvido pelas {{c2::granulações aracnoides}}.",
+      "verso": "Plexo Corioide / Granulações Aracnoides",
+      "explicacao": "O líquor circula no espaço subaracnoideo antes de ser devolvido ao sistema venoso.",
+      "dificuldade": 2,
+      "id": 12004
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "O líquor circula dos ventrículos laterais para o III ventrículo através do {{c1::forame interventricular (de Monro)}}.",
+      "verso": "Forame de Monro",
+      "explicacao": "A circulação líquórica segue um fluxo unidirecional através dos ventrículos cerebrais.",
+      "dificuldade": 2,
+      "id": 12005
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "Uma obstrução no {{c1::aqueduto cerebral (de Sylvius)}} causa uma hidrocefalia do tipo {{c2::não comunicante}}.",
+      "verso": "Aqueduto de Sylvius / Não comunicante",
+      "explicacao": "Obstruções dentro do sistema ventricular impedem a comunicação com o espaço subaracnoideo.",
+      "dificuldade": 3,
+      "id": 12006
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "O espaço onde circula o líquor e onde ocorrem as hemorragias por aneurismas é o espaço {{c1::subaracnoideo}}.",
+      "verso": "Subaracnoideo",
+      "explicacao": "A hemorragia subaracnoide (HSA) é frequentemente descrita como a 'pior dor de cabeça da vida'.",
+      "dificuldade": 2,
+      "id": 12007
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "Na meningite bacteriana, o líquor apresenta aspecto {{c1::turvo/purulento}}, com {{c2::queda}} da glicose e {{c3::aumento}} de proteínas.",
+      "verso": "Turvo / Glicose Baixa / Proteína Alta",
+      "explicacao": "As bactérias consomem a glicose líquórica, alterando sua composição normal (água de rocha).",
+      "dificuldade": 2,
+      "id": 12008
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "A barreira hematoencefálica (BHE) é formada por junções oclusivas endoteliais e pelos pés dos {{c1::astrócitos}}.",
+      "verso": "Astrócitos",
+      "explicacao": "Esta barreira protege o SNC de toxinas, mas dificulta a passage de alguns fármacos.",
+      "dificuldade": 2,
+      "id": 12009
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a15",
+      "frente": "A prega da dura-máter que separa os dois hemisférios cerebrais é chamada de {{c1::foice do cérebro}}.",
+      "verso": "Foice do cérebro",
+      "explicacao": "Outras pregas importantes incluem a tenda do cerebelo e a foice do cerebelo.",
+      "dificuldade": 2,
+      "id": 12010
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "Na retina, os {{c1::cones}} são responsáveis pela visão de cores e detalhes, enquanto os {{c2::bastonetes}} atuam na visão noturna (sombra/preto e branco).",
+      "verso": "Cones (Cores) / Bastonetes (Escuro)",
+      "explicacao": "Os cones concentram-se na fóvea central; os bastonetes na periferia da retina.",
+      "dificuldade": 1,
+      "id": 12011
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "Um tumor na hipófise pode comprimir o {{c1::quiasmo óptico}}, causando uma {{c2::hemianopsia bitemporal}} (perda da visão lateral).",
+      "verso": "Quiasmo óptico / Hemianopsia Bitemporal",
+      "explicacao": "Fibras das hemirretinas nasais cruzam no quiasmo e levam informação do campo visual temporal.",
+      "dificuldade": 3,
+      "id": 12012
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "No teste de Weber, se o paciente ouve melhor o diapasão no ouvido DOENTE, o diagnóstico sugere surdez {{c1::condutiva}}.",
+      "verso": "Condutiva",
+      "explicacao": "A obstrução (como cera) isola o ouvido do ruído externo, fazendo o som ósseo parecer mais alto.",
+      "dificuldade": 3,
+      "id": 12013
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "No teste de Weber, se o paciente ouve melhor no ouvido SAUDÁVEL, o diagnóstico sugere surdez {{c1::neurossensorial}}.",
+      "verso": "Neurossensorial",
+      "explicacao": "Neste caso, a lesão está no nervo ou cóclea, impedindo a percepção sonora mesmo via óssea.",
+      "dificuldade": 3,
+      "id": 12014
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "A drenagem do humor aquoso ocorre pelo {{c1::canal de Schlemm}}; seu entupimento causa o aumento da pressão ocular conhecido como {{c2::glaucoma}}.",
+      "verso": "Canal de Schlemm / Glaucoma",
+      "explicacao": "O glaucoma não tratado causa lesão progressiva do nervo óptico.",
+      "dificuldade": 2,
+      "id": 12015
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "A perda da acuidade auditiva para sons AGUDOS com o envelhecimento é chamada de {{c1::presbiacusia}}.",
+      "verso": "Presbiacusia",
+      "explicacao": "Células ciliadas na base da cóclea (agudos) são as primeiras a degenerar.",
+      "dificuldade": 2,
+      "id": 12016
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "A tontura posicional curta causada por cristais soltos nos canais semicirculares é a {{c1::VPPB}}.",
+      "verso": "VPPB (Vertigem Posicional Paroxística Benigna)",
+      "explicacao": "O tratamento é mecânico, através da Manobra de Epley.",
+      "dificuldade": 2,
+      "id": 12017
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "O paladar dos 2/3 anteriores da língua é transmitido pelo nervo {{c1::facial (NC VII)}}, enquanto o 1/3 posterior é pelo {{c2::glossofaríngeo (NC IX)}}.",
+      "verso": "Facial (VII) / Glossofaríngeo (IX)",
+      "explicacao": "O nervo facial usa o ramo 'corda do tímpano' para essa função sensorial.",
+      "dificuldade": 2,
+      "id": 12018
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "Uma fratura na {{c1::lâmina cribriforme}} do osso etmoide pode causar a perda do olfato, condição chamada {{c2::anosmia}}.",
+      "verso": "Lâmina Cribriforme / Anosmia",
+      "explicacao": "Os filetes do nervo olfatório (NC I) passam por essa lâmina e são facilmente lesados em traumas.",
+      "dificuldade": 2,
+      "id": 12019
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a17",
+      "frente": "O cristalino opaco, comum no envelhecimento, é característico da {{c1::catarata}}.",
+      "verso": "Catarata",
+      "explicacao": "Diferente do glaucoma, a catarata é uma opacificação da lente natural do olho.",
+      "dificuldade": 1,
+      "id": 12020
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "O intestino delgado é dividido em três partes: {{c1::Duodeno}}, {{c2::Jejuno}} e {{c3::Íleo}}.",
+      "verso": "Duodeno, Jejuno e Íleo",
+      "explicacao": "O duodeno é fixo, enquanto o jejuno e o íleo são móveis e suspensos pelo mesentério.",
+      "dificuldade": 1,
+      "id": 12021
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "Comparativamente, o {{c1::Jejuno}} possui paredes mais grossas e avermelhadas, enquanto o {{c2::Íleo}} é mais fino e pálido.",
+      "verso": "Jejuno / Íleo",
+      "explicacao": "O jejuno é o local de maior absorção, por isso sua maior vascularização.",
+      "dificuldade": 2,
+      "id": 12022
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "As {{c1::Placas de Peyer}} são agregados linfoides encontrados caracteristicamente na parede do {{c2::Íleo}}.",
+      "verso": "Placas de Peyer / Íleo",
+      "explicacao": "Elas fazem parte do sistema imunológico (GALT) e são essenciais para a defesa do TGI.",
+      "dificuldade": 2,
+      "id": 12023
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "O divisor anatômico entre hemorragia digestiva alta (HDA) e baixa (HDB) é o {{c1::Ligamento de Treitz (ou Músculo Suspensor do Duodeno)}}.",
+      "verso": "Ligamento de Treitz",
+      "explicacao": "Ele marca a transição entre o duodeno e o jejuno.",
+      "dificuldade": 3,
+      "id": 12024
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "As três características exclusivas do intestino grosso são: {{c1::Tênias cólicas}}, {{c2::Haustros}} e {{c3::Apêndices epiploicos}}.",
+      "verso": "Tênias, Haustros e Apêndices epiploicos",
+      "explicacao": "Essas estruturas ajudam a diferenciar o cólon do intestino delgado durante a cirurgia.",
+      "dificuldade": 2,
+      "id": 12025
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "Para localizar a base do apêndice cecal, o cirurgião deve seguir as {{c1::Tênias cólicas}} até o ponto de convergência.",
+      "verso": "Tênias cólicas",
+      "explicacao": "As três tênias convergem exatamente na base do apêndice.",
+      "dificuldade": 2,
+      "id": 12026
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "O lado direito do cólon (Ceco ao Transverso) é irrigado pela artéria {{c1::Mesentérica Superior (AMS)}}.",
+      "verso": "Mesentérica Superior (AMS)",
+      "explicacao": "A AMS também irriga todo o intestino delgado móvel.",
+      "dificuldade": 2,
+      "id": 12027
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "O lado esquerdo do cólon (até o reto superior) é irrigado pela artéria {{c1::Mesentérica Inferior (AMI)}}.",
+      "verso": "Mesentérica Inferior (AMI)",
+      "explicacao": "A transição de vascularização ocorre na flexura esplênica (ângulo esquerdo).",
+      "dificuldade": 2,
+      "id": 12028
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "O ponto de maior dor na apendicite, localizado a 1/3 da distância entre o umbigo e a crista ilíaca, é o {{c1::Ponto de McBurney}}.",
+      "verso": "Ponto de McBurney",
+      "explicacao": "A compressão e descompressão súbita deste ponto são sinais clínicos clássicos (Blumberg).",
+      "dificuldade": 2,
+      "id": 12029
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a2",
+      "frente": "As hemorroidas {{c1::internas}} são localizadas acima da linha pectínea e são geralmente indolores, enquanto as {{c2::externas}} são muito dolorosas.",
+      "verso": "Internas (Indolores) / Externas (Dolorosas)",
+      "explicacao": "As hemorroidas externas possuem inervação somática, por isso a dor intensa.",
+      "dificuldade": 3,
+      "id": 12030
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "A compatibilidade principal para o transplante de órgãos sólidos é definida pela tipagem {{c1::HLA}}.",
+      "verso": "HLA (Antígeno Leucocitário Humano)",
+      "explicacao": "Quanto maior a compatibilidade de alelos HLA, menor o risco de rejeição imunológica.",
+      "dificuldade": 1,
+      "id": 12031
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "Um transplante NÃO pode ocorrer se o teste de {{c1::Crossmatch (Prova Cruzada)}} for positivo.",
+      "verso": "Crossmatch (ou Prova Cruzada)",
+      "explicacao": "Crossmatch positivo indica a presença de anticorpos pré-formados no receptor contra o doador.",
+      "dificuldade": 2,
+      "id": 12032
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "A rejeição {{c1::Hiperaguda}} ocorre em minutos ou horas após o transplante, devido a {{c2::anticorpos pré-formados}} no receptor.",
+      "verso": "Hiperaguda / Anticorpos pré-formados",
+      "explicacao": "O órgão sofre isquemia e trombose imediata, ficando com aspecto arroxeado.",
+      "dificuldade": 2,
+      "id": 12033
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "A rejeição {{c1::Aguda}} ocorre em dias ou semanas e é mediada principalmente por {{c2::Linfócitos T}}.",
+      "verso": "Aguda / Linfócitos T",
+      "explicacao": "É a forma mais comum de rejeição e pode ser revertida com ajuste da imunossupressão.",
+      "dificuldade": 2,
+      "id": 12034
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "O desgaste lento do órgão transplantado ao longo de anos, caracterizado por fibrose, é a rejeição {{c1::Crônica}}.",
+      "verso": "Crônica",
+      "explicacao": "Geralmente é irreversível e leva à perda gradual da função do enxerto.",
+      "dificuldade": 2,
+      "id": 12035
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "A tríade clínica da reação transfusional hemolítica aguda é: {{c1::Febre}}, {{c2::Dor lombar}} e {{c3::Urina escura (Hemoglobinúria)}}.",
+      "verso": "Febre, Dor Lombar e Urina Escura",
+      "explicacao": "É uma emergência médica causada geralmente por incompatibilidade ABO (erro administrativo).",
+      "dificuldade": 3,
+      "id": 12036
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "A principal causa de morte por transfusão, onde anticorpos atacam o pulmão causando falta de ar, é a {{c1::TRALI}}.",
+      "verso": "TRALI (Lesão Pulmonar Aguda Relacionada à Transfusão)",
+      "explicacao": "Diferente da sobrecarga volêmica, a TRALI é uma reação inflamatória pulmonar.",
+      "dificuldade": 3,
+      "id": 12037
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "Idosos com coração frágil podem sofrer edema pulmonar por excesso de volume transfundido, condição chamada {{c1::TACO}}.",
+      "verso": "TACO (Sobrecarga Volêmica Associada à Transfusão)",
+      "explicacao": "Ocorre pelo volume excessivo ou infusão muito rápida para a capacidade cardíaca.",
+      "dificuldade": 3,
+      "id": 12038
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "A primeira conduta diante de qualquer sintoma suspeito durante uma transfusão é {{c1::interromper a transfusão imediatamente}}.",
+      "verso": "Interromper a transfusão",
+      "explicacao": "Nunca se deve esperar o término da bolsa se houver suspeita de reação.",
+      "dificuldade": 1,
+      "id": 12039
+    },
+    {
+      "materia": "mad2",
+      "tema": "mad2_a4",
+      "frente": "Pacientes transplantados correm alto risco de {{c1::infecções oportunistas}} (como CMV e fungos) devido ao uso crônico de imunossupressores.",
+      "verso": "Infecções oportunistas",
+      "explicacao": "A imunossupressão necessária para evitar a rejeição baixa a guarda contra patógenos incomuns.",
+      "dificuldade": 2,
+      "id": 12040
     }
   ]
 }

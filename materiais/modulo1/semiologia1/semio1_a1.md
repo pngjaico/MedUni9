@@ -38,12 +38,12 @@ O primeiro filtro é **temporal e funcional**: quando a dor aparece, o que piora
 
 ## Topografia da dor: articular, periarticular e referida
 
-Localizar o **ponto de máxima dor** e compará-lo com a linha articular muda o diagnóstico diferencial. **Dor exatamente na interlinha articular** favorece acometimento **articular**; dor em tendão ou bursa aponta para processo **periarticular**.
+Localizar o **ponto de máxima dor** e compará-lo com a **interlinha articular** muda o diagnóstico diferencial. **Dor exatamente na interlinha articular** favorece acometimento **articular**; dor em tendão ou bursa aponta para processo **periarticular**.
 
 | Origem provável | Achado predominante | Exemplo clínico frequente |
 |-----------------|---------------------|---------------------------|
-| **Articular** | Dor na interlinha, edema articular, limitação passiva | Artrite, artrose em atividade |
-| **Periarticular** | Dor focal em tendão/bursa, dor à contração resistida | Tendinopatia, bursite |
+| **Articular** | Dor na **interlinha**, edema articular, limitação passiva | Artrite, artrose em atividade |
+| **Periarticular** | Dor focal em tendão/bursa, dor à **contração resistida** | Tendinopatia, bursite |
 | **Referida** | Dor mal delimitada, exame local pobre | Dor de quadril referida no joelho |
 
 ---
@@ -100,7 +100,7 @@ Registrar apenas o número não basta; é essencial anotar qual movimento foi te
 
 ## Red flags que não podem ser ignoradas
 
-Antes de concluir que a dor é benigna, é obrigatório rastrear **sinais de alarme**: febre, perda ponderal inexplicada, **trauma relevante**, imunossupressão, antecedente oncológico, dor noturna progressiva e déficit neurológico.
+Antes de concluir que a dor é benigna, é obrigatório rastrear **sinais de alarme**: febre, perda ponderal inexplicada, **trauma relevante**, imunossupressão, **antecedente oncológico**, dor noturna progressiva e **déficit neurológico**.
 
 Esses dados não fecham diagnóstico sozinhos, mas mudam prioridade de investigação e nível de urgência.
 

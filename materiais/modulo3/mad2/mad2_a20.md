@@ -1,8 +1,8 @@
 # MAD2 — Aula 20: Antiparasitários e Antifúngicos
 
-Fungos e Parasitas são "primos" mais próximos de nós do que as bactérias, por isso seus remédios costumam ser mais tóxicos para o corpo humano. Na prova, os temas centrais são os alvos na **Membrana do Fungo** (Ergosterol) e os mecanismos dos **Benzimidazóis** (Albendazol) contra os vermes, focando sempre na toxicidade e no uso correto.
+Fungos e Parasitas são "primos" mais próximos de nós do que as bactérias, por isso seus remédios costumam ser mais tóxicos para o corpo humano. Na prova, os temas centrais são os alvos na **Membrana do Fungo** (**Ergosterol**) e os mecanismos dos **Benzimidazóis** (**Albendazol**) contra os vermes, focando sempre na toxicidade e no uso correto.
 
-Na prática, o médico deve saber que tratar uma micose sistêmica exige monitorização constante dos rins e do fígado, e que o uso indiscriminado de vermífugos pode mascarar doenças mais graves ou falhar em imunossuprimidos.
+Na prática, o médico deve saber que tratar uma **micose sistêmica** exige monitorização constante dos **rins** e do **fígado**, e que o uso indiscriminado de vermífugos pode mascarar doenças mais graves ou falhar em imunossuprimidos.
 
 ---
 
@@ -18,16 +18,16 @@ Na prática, o médico deve saber que tratar uma micose sistêmica exige monitor
 ## 1. Antifúngicos: Atacando a Parede e a Membrana
 
 Os fungos têm uma membrana rica em **Ergosterol** (que o humano não tem).
-- **Polienos (Anfotericina B):** A "Anfo-terrível". Ela fura a membrana do fungo e o mata. É muito potente, mas causa muita lesão no **Rim** (Nefrotoxicidade) e queda de potássio.
-- **Azóis (Fluconazol / Itraconazol):** Impedem a produção do ergosterol. São muito seguros para uso oral, mas podem sobrecarregar o **Fígado** (Pausa na Hepatite medicamentosa).
-- **Equinocandinas (Micafungina):** Agem na parede do fungo (Betaglicano). São a nova primeira linha para infecções graves por *Candida* no sangue (Candidemia).
+- **Polienos (Anfotericina B):** A "**Anfo-terrível**". Ela fura a membrana do fungo e o mata. É muito potente, mas causa muita lesão no **Rim** (**Nefrotoxicidade**) e queda de potássio.
+- **Azóis (Fluconazol / Itraconazol):** Impedem a produção do **ergosterol**. São muito seguros para uso oral, mas podem sobrecarregar o **Fígado** (Pausa na Hepatite medicamentosa).
+- **Equinocandinas (Micafungina):** Agem na parede do fungo (**Betaglicano**). São a nova primeira linha para infecções graves por *Candida* no sangue (**Candidemia**).
 
 ---
 
 ## 2. Antiparasitários: Contra os Vermes (Helmintos)
 
-- **Benzimidazóis (Albendazol / Mebendazol):** Agem travando os **Microtúbulos** do verme. O verme não consegue "comer" glicose e morre de fome.
-- **Ivermectina:** Paralisa o verme (causa uma paralisia flácida) ao agir nos canais de cloro. É a droga de escolha para **Sarna (Escabiose)** e **Estrongiloidíase**.
+- **Benzimidazóis (Albendazol / Mebendazol):** Agem travando os **Microtúbulos** do verme. O verme não consegue "comer" glicose e **morre de fome**.
+- **Ivermectina:** Paralisa o verme (causa uma **paralisia flácida**) ao agir nos canais de cloro. É a droga de escolha para **Sarna (Escabiose)** e **Estrongiloidíase**.
 - **Praziquantel:** Aumenta a permeabilidade ao cálcio, causando contração paralisante e morte do verme. Usado para **Esquistossomose** e Teníase.
 
 ---
@@ -46,7 +46,7 @@ Os fungos têm uma membrana rica em **Ergosterol** (que o humano não tem).
 | **Anfotericina B** | **Nefrotoxicidade (Rim)** | Creatinina e Potássio diariamente |
 | **Itra / Fluconazol** | **Hepatotoxicidade (Fígado)** | Enzimas hepáticas (TGO / TGP) |
 | **Benznidazol** | **Neuropatia e Rash** | Exame físico e queixas neurológicas |
-| **Albendazol** | Geralmente Baixa | Evitar no primeiro trimestre de gestação |
+| **Albendazol** | Geralmente Baixa | **Evitar no primeiro trimestre** de gestação |
 
 ---
 
@@ -85,7 +85,7 @@ A Uninove adora a **Toxicidade da Anfotericina**. Lembre-se: ela derruba o Potá
 | **Albendazol** | **Ivermectina** | Mata por **Fome** vs Mata por **Paralisia** |
 | **Nefrotoxicidade** | **Hepatotoxicidade** | Medo na **Anfotericina** vs Medo nos **Azóis** |
 | **Esquistossomose** | **Ascaridíase** | Praziquantel vs **Albendazol** |
-| **Artemisinina** | **Cloroquina** | Droga de escolha moderna (Malária) vs Droga antiga com resistência |
+| **Artemisinina** | **Cloroquina** | Droga de escolha **moderna** (Malária) vs Droga antiga |
 
 ### Frase-âncora para não esquecer
 

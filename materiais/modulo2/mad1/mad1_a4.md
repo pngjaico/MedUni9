@@ -2,7 +2,7 @@
 
 A inflamação é a resposta coordenada do organismo a danos teciduais. Na prova, os temas centrais são os **Sinais Cardinais**, a sequência da **Diapedese** e a formação de **Granulomas** na inflamação crônica.
 
-Na prática, a transição da inflamação aguda (resolução) para a crônica (fibrose) é o mecanismo base de doenças como a aterosclerose e a cirrose hepática.
+Na prática, a transição da inflamação aguda (resolução) para a crônica (**fibrose**) é o mecanismo base de doenças como a aterosclerose e a cirrose hepática.
 
 ---
 
@@ -19,10 +19,10 @@ Na prática, a transição da inflamação aguda (resolução) para a crônica (
 
 | Sinal | Mecanismo Fisiopatológico |
 |---|---|
-| **Rubor** | Vasodilatação (aumento do fluxo). |
-| **Calor** | Vasodilatação + aumento do metabolismo local. |
+| **Rubor** | **Vasodilatação** (aumento do fluxo). |
+| **Calor** | **Vasodilatação** + aumento do metabolismo local. |
 | **Tumor (Edema)** | Aumento da **Permeabilidade Vascular**. |
-| **Dor** | **Bradicinina** e Prostaglandinas sensibilizam nervos. |
+| **Dor** | **Bradicinina** e **Prostaglandinas** sensibilizam nervos. |
 | **Perda de Função** | Limitação por dor e inchaço. |
 
 ---
@@ -51,7 +51,7 @@ Na prática, a transição da inflamação aguda (resolução) para a crônica (
 ## Inflamação Crônica Granulomatosa
 
 A formação de um **Granuloma** é uma tentativa do corpo de isolar um agente de difícil digestão.
-- **Granuloma Caseoso:** Possui necrose central (aspecto de queijo). É a marca da **Tuberculose**.
+- **Granuloma Caseoso:** Possui **necrose central** (aspecto de queijo). É a marca da **Tuberculose**.
 - **Granuloma Não Caseoso:** Sem necrose. Comum na Sarcoidose e corpos estranhos.
 
 ---
@@ -68,7 +68,7 @@ Um paciente com febre, perda de peso e sudorese noturna que apresenta uma cavita
 - **Crônica**: Macrófagos + Fibrose + Angiogênese.
 - **Sinais Cardinais**: Rubor, Calor, Tumor e Dor.
 - **Diapedese**: **Selectinas** (rolamento) → **Integrinas** (adesão).
-- **Granuloma**: Coleção de macrófagos epitelioides (ativados por IFN-γ).
+- **Granuloma**: Coleção de macrófagos epitelioides (ativados por **IFN-γ**).
 
 ---
 
@@ -91,7 +91,7 @@ No laboratório: **Exsudato** (proteína alta) é inflamação. **Transudato** (
 | **Inflamação Aguda** | **Inflamação Crônica** | **Neutrófilos** vs **Macrófagos/Linfócitos** |
 | **Selectinas** | **Integrinas** | Rolamento (Início) vs **Adesão firme** |
 | **Granuloma Caseoso** | **Granuloma Não-Caseoso** | **Tuberculose** vs Sarcoidose/Corpo Estranho |
-| **Exsudato** | **Transudato** | **Rico em Proteínas** vs Pobre em Proteínas (Apenas edema) |
+| **Exsudato** | **Transudato** | **Rico em Proteínas** vs Pobre em Proteínas (**Apenas edema**) |
 | **Macrófago M1** | **Macrófago M2** | Pró-inflamatório (Mata) vs **Anti-inflamatório (Reparo/Fibrose)** |
 
 ### Frase-âncora para não esquecer

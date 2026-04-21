@@ -1,8 +1,8 @@
 # IND — Aula 7: Mortalidade Materno-Infantil e Perinatal
 
-A mortalidade de mães e bebês é o principal indicador da qualidade de um sistema de saúde. Na prova, o tema central é saber dividir a **Mortalidade Infantil** em seus componentes (Neonatal e Pós-neonatal) e entender a **Razão de Mortalidade Materna**, sempre prestando atenção nos denominadores.
+A mortalidade de mães e bebês é o principal indicador da qualidade de um sistema de saúde. Na prova, o tema central é saber dividir a **Mortalidade Infantil** em seus componentes (**Neonatal** e **Pós-neonatal**) e entender a **Razão de Mortalidade Materna**, sempre prestando atenção nos denominadores.
 
-Na prática, esses números dizem se o problema está no pré-natal (morte fetal), no parto (neonatal precoce) ou nas condições de vida da família (pós-neonatal).
+Na prática, esses números dizem se o problema está no pré-natal (**morte fetal**), no parto (**neonatal precoce**) ou nas condições de vida da família (**pós-neonatal**).
 
 ---
 
@@ -18,9 +18,9 @@ Na prática, esses números dizem se o problema está no pré-natal (morte fetal
 ## 1. Razão de Mortalidade Materna (RMM)
 
 Mede as mortes de mulheres por causas ligadas à gravidez, parto ou puerpério (até 42 dias após o parto).
-- **Fórmula:** (Óbitos Maternos / Nascidos Vivos) x **100.000**.
-- **Cuidado:** O multiplicador é 100 mil, diferente da maioria dos outros que é 1.000.
-- **O que indica:** Se a RMM é alta, o sistema de pré-natal e assistência ao parto está falhando.
+- **Fórmula:** **(Óbitos Maternos / Nascidos Vivos) x 100.000**.
+- **Cuidado:** O multiplicador é **100 mil**, diferente da maioria dos outros que é 1.000.
+- **O que indica:** Se a **RMM** é alta, o sistema de pré-natal e assistência ao parto está falhando.
 
 ---
 
@@ -30,15 +30,15 @@ Mede as mortes de mulheres por causas ligadas à gravidez, parto ou puerpério (
 
 | Componente | Idade | Causa mais comum | O que indica? |
 |---|---|---|---|
-| **Neonatal Precoce** | 0 a 6 dias | Asfixia, prematuridade. | Má qualidade no **Parto**. |
-| **Neonatal Tardia** | 7 a 27 dias | Infecção hospitalar, malformação. | Cuidado na **UTI Neonatal**. |
-| **Pós-neonatal** | 28 a 364 dias | Diarreia, pneumonia, desnutrição. | Má qualidade de **Vida/Saneamento**. |
+| **Neonatal Precoce** | 0 a 6 dias | **Asfixia**, **prematuridade**. | Má qualidade no **Parto**. |
+| **Neonatal Tardia** | 7 a 27 dias | **Infecção hospitalar**, malformação. | Cuidado na **UTI Neonatal**. |
+| **Pós-neonatal** | 28 a 364 dias | **Diarreia**, **pneumonia**, **desnutrição**. | Má qualidade de **Vida/Saneamento**. |
 
 ---
 
 ## 3. Mortalidade Perinatal e Fetal
 
-- **Mortalidade Fetal:** Bebês que nascem mortos (Natimortos). Denominador: Nascidos Vivos + Óbitos Fetais (**Nascimentos Totais**).
+- **Mortalidade Fetal:** Bebês que nascem mortos (**Natimortos**). Denominador: Nascidos Vivos + Óbitos Fetais (**Nascimentos Totais**).
 - **Mortalidade Perinatal:** Soma os **Óbitos Fetais** + **Neonatais Precoces** (até 6 dias). É o indicador mais sensível para avaliar o momento do parto.
 
 ---
@@ -74,10 +74,10 @@ A Uninove adora cobrar a **Razão de Mortalidade Materna**. Lembre-se: o denomin
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **RMM** | **Mortalidade Infantil** | Risco da MÃE (x100.000) vs **Risco do BEBÊ (x1.000)** |
-| **Neonatal Precoce** | **Neonatal Tardia** | 0-6 dias (Parto) vs **7-27 dias (Pós-Parto)** |
+| **RMM** | **Mortalidade Infantil** | Risco da MÃE (**x100.000**) vs **Risco do BEBÊ (x1.000)** |
+| **Neonatal Precoce** | **Neonatal Tardia** | **0-6 dias (Parto)** vs **7-27 dias (Pós-Parto)** |
 | **Óbito Fetal** | **Nascido Vivo** | Nasceu sem vida vs **Qualquer sinal de vida** |
-| **Perinatal** | **Neonatal** | Inclui fetos mortos vs **Só conta quem nasceu vivo** |
+| **Perinatal** | **Neonatal** | **Inclui fetos mortos** vs **Só conta quem nasceu vivo** |
 | **Evitabilidade** | **Inevitabilidade** | Falha do sistema vs **Malformações incompatíveis com a vida** |
 
 ### Frase-âncora para não esquecer

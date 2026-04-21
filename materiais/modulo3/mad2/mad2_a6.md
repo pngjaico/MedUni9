@@ -2,7 +2,7 @@
 
 A pele é a nossa primeira barreira de defesa, mas quando ela falha, o estrago pode ser rápido ou silencioso. Na prova, os temas centrais são a diferenciação entre **Erisipela** e **Celulite**, a identificação de abscessos e o diagnóstico dermatoneurológico da **Hanseníase**.
 
-Na prática, o médico deve saber distinguir uma inflamação que exige antibiótico urgente de uma mancha que esconde a perda de sensibilidade de um nervo, evitando sequelas permanentes.
+Na prática, o médico deve saber distinguir uma inflamação que exige **antibiótico urgente** de uma mancha que esconde a **perda de sensibilidade** de um nervo, evitando sequelas permanentes.
 
 ---
 
@@ -18,9 +18,9 @@ Na prática, o médico deve saber distinguir uma inflamação que exige antibió
 ## 1. Erisipela vs Celulite: A Guerra do Contorno
 
 Ambas são infecções bacterianas (geralmente por Estrepto ou Estafilo), mas a profundidade muda tudo:
-- **Erisipela:** É superficial (atinge a derme). A placa é vermelha, brilhante, quente e tem **Bordas Muito Bem Definidas**. Parece um "degrau" quando você passa o dedo.
+- **Erisipela:** É superficial (atinge a derme). A placa é vermelha, brilhante, quente e tem **Bordas Muito Bem Definidas**. Parece um "**degrau**" quando você passa o dedo.
 - **Celulite:** É profunda (atinge o tecido gorduroso). A vermelhidão é mais "borrada" e **Sem Borda Definida**. É mais perigosa pois pode se espalhar mais fácil para o sangue.
-- **Sinal de Gravidade:** Se houver bolhas, pele preta (necrose) ou dor que não passa nem com remédio forte, pode ser uma **Fasciíte Necrosante** (emergência cirúrgica).
+- **Sinal de Gravidade:** Se houver bolhas, pele preta (**necrose**) ou dor que não passa nem com remédio forte, pode ser uma **Fasciíte Necrosante** (emergência cirúrgica).
 
 ---
 
@@ -36,7 +36,7 @@ Quando a infecção "se fecha" em uma bolsa de pus, temos um abscesso.
 
 Diferente das infecções agudas, a hanseníase é lenta e ataca não só a pele, mas os **Nervos Periféricos**.
 - **A Mancha:** A marca registrada é a **Hipoestesia** (perda de sensibilidade). O paciente tem uma mancha clara ou avermelhada onde ele não sente calor, dor ou toque.
-- **Espessamento Neural:** O médico deve apalpar os nervos (corpo ulnar, tibial, etc). Se o nervo estiver grosso e dolorido, o diagnóstico está quase fechado.
+- **Espessamento Neural:** O médico deve apalpar os nervos (corpo ulnar, tibial, etc). Se o nervo estiver **grosso** e **dolorido**, o diagnóstico está quase fechado.
 - **Complicação:** Como o paciente para de sentir dor na mão ou no pé, ele se queima ou se corta sem perceber, gerando feridas crônicas e deformidades.
 
 ---
@@ -44,9 +44,9 @@ Diferente das infecções agudas, a hanseníase é lenta e ataca não só a pele
 ## 4. Classificação e Tratamento da Hanseníase
 
 O tratamento depende da quantidade de bacilos (carga de doença):
-- **Paucibacilar (Poucas manchas):** Sistema imune forte contra o bacilo. Tratamento por 6 meses.
-- **Multibacilar (Muitas manchas):** Sistema imune fraco contra o bacilo. Tratamento por 12 meses.
-- **Poli quimioterapia (PQT):** É o tratamento padrão oferecido pelo SUS, combinando vários antibióticos potentes.
+- **Paucibacilar (Poucas manchas):** Sistema imune **forte** contra o bacilo. Tratamento por 6 meses.
+- **Multibacilar (Muitas manchas):** Sistema imune **fraco** contra o bacilo. Tratamento por 12 meses.
+- **Poliquimioterapia (PQT):** É o tratamento padrão oferecido pelo SUS, combinando vários antibióticos potentes.
 
 ---
 
@@ -82,7 +82,7 @@ A Uninove ama cobrar sobre a sensibilidade da Hanseníase. Lembre-se que a sequ�
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Erisipela** | **Celulite** | Borda **Nítida** vs Borda **Borrada** |
-| **Abscesso** | **Flegmão** | Pus **Fechado (drenável)** vs Pus **Espalhado entre os tecidos** |
+| **Abscesso** | **Flegmão** | Pus **Fechado (drenável)** vs Pus **Espalhado** entre os tecidos |
 | **Hanseníase** | **Pitiríase (Pano Branco)** | Tem **Perda de Sensibilidade** vs Apenas mancha estética |
 | **Paucibacilar** | **Multibacilar** | Sistema imune **Forte** (6 meses tto) vs Sistema imune **Fraco** (12 meses) |
 | **Drenagem** | **Antibiótico** | Resolve o **Pus acumulado** vs Resolve a **Infecção no tecido** |

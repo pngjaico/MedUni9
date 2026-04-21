@@ -2,7 +2,7 @@
 
 As infecções do trato urinário (ITUs) são algumas das infecções bacterianas mais comuns, afetando desproporcionalmente as mulheres devido à anatomia. Na prova, os temas centrais são a diferenciação entre **Cistite e Pielonefrite**, a virulência da ***E. coli* UPEC** e a conduta na **Bacteriúria Assintomática**.
 
-Na prática, saber quando tratar um paciente sem sintomas e qual antibiótico usar (e qual NÃO usar) na pielonefrite é fundamental para a segurança do paciente.
+Na prática, saber quando tratar um paciente sem sintomas e qual antibiótico usar (e qual NÃO usar) na **pielonefrite** é fundamental para a segurança do paciente.
 
 ---
 
@@ -18,8 +18,8 @@ Na prática, saber quando tratar um paciente sem sintomas e qual antibiótico us
 ## 1. O Principal Agente: Escherichia coli UPEC
 
 A *E. coli* uropatogênica (UPEC) é responsável por mais de 80% das ITUs comunitárias.
-- **Fímbrias P:** São os "ganchos" que permitem que a bactéria grude no rim, causando pielonefrite.
-- **Fímbrias Tipo 1:** Permitem a adesão na bexiga (cistite).
+- **Fímbrias P:** São os "ganchos" que permitem que a bactéria grude no **rim**, causando **pielonefrite**.
+- **Fímbrias Tipo 1:** Permitem a adesão na **bexiga** (**cistite**).
 
 ### Outros Agentes Importantes
 - ***Staphylococcus saprophyticus*:*** Causa comum em mulheres jovens e sexualmente ativas.
@@ -32,8 +32,8 @@ A *E. coli* uropatogênica (UPEC) é responsável por mais de 80% das ITUs comun
 | Característica | Cistite (Baixa) | Pielonefrite (Alta) |
 |---|---|---|
 | **Local** | Bexiga e Uretra. | Rins e Ureteres. |
-| **Sintomas** | Disúria (dor ao urinar), Polaciúria. | **Febre alta**, Calafrios, Náuseas. |
-| **Sinal Físico** | Dor suprapúbica. | **Sinal de Giordano** (Dor à percussão lombar). |
+| **Sintomas** | Disúria (dor ao urinar), Polaciúria. | **Febre alta**, **Calafrios**, Náuseas. |
+| **Sinal Físico** | Dor suprapúbica. | **Sinal de Giordano** (**Dor à percussão lombar**). |
 | **Urinálise (EAS)** | Leucocitúria, Nitrito+. | **Cilindros Leucocitários** (Patognomônico). |
 
 ---
@@ -50,7 +50,7 @@ A *E. coli* uropatogênica (UPEC) é responsável por mais de 80% das ITUs comun
 
 ## Ponte com a Clínica
 
-Uma gestante no segundo trimestre traz um exame de urina com nitrito positivo e 100.000 colônias de *E. coli*, mas diz que não sente nada. O médico **deve tratar** imediatamente e solicitar uroculturas mensais até o final da gravidez. Se essa mesma paciente apresentar febre e dor lombar, o diagnóstico muda para **Pielonefrite**, e o tratamento deve ser mais agressivo (Ceftriaxona), pois a **Nitrofurantoína** não funciona no rim.
+Uma gestante no segundo trimestre traz um exame de urina com nitrito positivo e 100.000 colônias de *E. coli*, mas diz que não sente nada. O médico **deve tratar** imediatamente e solicitar uroculturas mensais até o final da gravidez. Se essa mesma paciente apresentar febre e dor lombar, o diagnóstico muda para **Pielonefrite**, e o tratamento deve ser mais agressivo (**Ceftriaxona**), pois a **Nitrofurantoína** não funciona no rim.
 
 ---
 
@@ -79,9 +79,9 @@ Na grávida, a regra muda: mesmo que ela não sinta nada (**Bacteriúria Assinto
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Cistite** | **Pielonefrite** | **Sem Febre** vs Com Febre e Dor Lombar |
+| **Cistite** | **Pielonefrite** | **Sem Febre** vs **Com Febre e Dor Lombar** |
 | **Nitrofurantoína** | **Ceftriaxona** | Só para Cistite vs **Para Pielonefrite/Grave** |
-| **Bacteriúria Assintomática** | **ITU Sintomática** | Trata só na gestante/cirurgia vs **Trata sempre** |
+| **Bacteriúria Assintomática** | **ITU Sintomática** | **Trata só na gestante/cirurgia** vs Trata sempre |
 | **Fímbria Tipo 1** | **Fímbria P** | Adesão na Bexiga vs **Adesão no Rim** |
 | **Nitrito Positivo** | **Nitrito Negativo** | Sugere *E. coli*/*Klebsiella* vs Sugere G+ ou urina diluída |
 

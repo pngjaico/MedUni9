@@ -1,8 +1,8 @@
 # MAD2 — Aula 4: Transplantes e Transfusão Sanguínea
 
-Transplantes e transfusões são os momentos em que a medicina "troca as peças" do corpo. Na prova, os temas centrais são os tipos de **Rejeição** (Hiperaguda, Aguda e Crônica) e as reações à **Transfusão Sanguínea** (especialmente como diferenciar uma simples febre de uma reação hemolítica fatal).
+Transplantes e transfusões são os momentos em que a medicina "troca as peças" do corpo. Na prova, os temas centrais são os tipos de **Rejeição** (Hiperaguda, Aguda e Crônica) e as reações à **Transfusão Sanguínea** (especialmente como diferenciar uma simples febre de uma **reação hemolítica fatal**).
 
-Na prática, o médico deve saber agir em segundos se um paciente começar a passar mal durante uma transfusão, pois a rapidez na interrupção do procedimento é o que define a sobrevida.
+Na prática, o médico deve saber agir em segundos se um paciente começar a passar mal durante uma transfusão, pois a rapidez na **interrupção do procedimento** é o que define a sobrevida.
 
 ---
 
@@ -26,7 +26,7 @@ Para um órgão ser aceito, o corpo do receptor precisa ser testado exaustivamen
 ## 2. Tipos de Rejeição: O Tempo é a Chave
 
 - **Hiperaguda (Minutos/Horas):** O órgão morre na mesa de cirurgia ou logo depois. Ocorre porque o paciente já tinha anticorpos contra o doador. O órgão fica roxo e sofre **Trombose**.
-- **Aguda (Dias/Semanas):** É a mais comum. O sistema imune (Linfócitos T) começa a perceber que o órgão é estranho e o ataca. Pode ser revertida com aumento dos remédios imunossupressores.
+- **Aguda (Dias/Semanas):** É a mais comum. O sistema imune (**Linfócitos T**) começa a perceber que o órgão é estranho e o ataca. Pode ser revertida com aumento dos remédios imunossupressores.
 - **Crônica (Anos):** É um desgaste lento. O órgão vai sofrendo cicatrizes (**Fibrose**) e perdendo a função aos poucos, como um envelhecimento acelerado.
 
 ---
@@ -34,8 +34,8 @@ Para um órgão ser aceito, o corpo do receptor precisa ser testado exaustivamen
 ## 3. Transfusão Sanguínea: O Perigo da Incompatibilidade
 
 A transfusão é, tecnicamente, um transplante de tecido líquido.
-- **Reação Hemolítica Aguda:** O pior cenário. O sangue transfundido é destruído na hora. O paciente sente dor lombar, febre alta e a urina fica preta (**Hemoglobinúria**).
-- **TRALI (Lesão Pulmonar):** O anticorpo da bolsa ataca o pulmão do paciente, causando falta de ar súbita. É uma das principais causas de morte por transfusão.
+- **Reação Hemolítica Aguda:** O pior cenário. O sangue transfundido é destruído na hora. O paciente sente **dor lombar**, **febre alta** e a urina fica preta (**Hemoglobinúria**).
+- **TRALI (Lesão Pulmonar):** O anticorpo da bolsa ataca o pulmão do paciente, causando **falta de ar súbita**. É uma das principais causas de morte por transfusão.
 - **TACO (Sobrecarga):** O coração do paciente não aguenta o volume de sangue e "encharca" o pulmão (**Edema Agudo**). Comum em idosos.
 
 ---
@@ -44,7 +44,7 @@ A transfusão é, tecnicamente, um transplante de tecido líquido.
 
 Se o paciente apresentar qualquer sintoma novo (febre, falta de ar, coceira, dor) durante a transfusão:
 1.  **PARA TUDO:** Interrompa a transfusão imediatamente.
-2.  **Mantenha o Acesso:** Não tire a agulha, troque apenas o soro para manter a veia aberta.
+2.  **Mantenha o Acesso:** Não tire a agulha, troque apenas o soro para manter a **veia aberta**.
 3.  **Verifique os Rótulos:** Veja se a bolsa era realmente para aquele paciente.
 4.  **Chame o Hemocentro:** Envie a bolsa e o sangue do paciente para análise urgente.
 
@@ -83,7 +83,7 @@ A Uninove ama cobrar a **Reação Hemolítica**. Lembre-se que o erro quase semp
 |------------|------------|-----------------|
 | **Rejeição Hiperaguda** | **Rejeição Aguda** | **Minutos** (Anticorpos) vs **Dias** (Linfócitos T) |
 | **TRALI** | **TACO** | Lesão **Inflamatória** vs Lesão por **Excesso de Volume** |
-| **Hemólise** | **Reação Febril Simples**| Urina **Preta/Dor Lombar** vs Apenas febre/calafrio |
+| **Hemólise** | **Reação Febril Simples**| **Urina Preta/Dor Lombar** vs Apenas febre/calafrio |
 | **HLA** | **ABO** | Importante para **Órgãos** vs Importante para **Sangue** |
 | **Doador Vivo** | **Doador Falecido** | Melhor compatibilidade vs Maior disponibilidade |
 

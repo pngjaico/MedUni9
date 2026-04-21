@@ -19,13 +19,13 @@ Na prática, não basta saber que "muita gente tem câncer". O médico precisa s
 
 - **Incidência (Casos Novos):** É a velocidade com que as pessoas ficam doentes. Mede o **Risco**. É como a torneira aberta enchendo a banheira.
 - **Prevalência (Casos Totais):** É a "fotografia" do momento. Inclui quem ficou doente hoje e quem já estava doente há anos. Mede a **Carga** da doença na sociedade.
-- **Regra:** Se uma doença mata rápido (ex: Ebola), a incidência pode ser alta, mas a prevalência será baixa (porque as pessoas não ficam doentes por muito tempo).
+- **Regra:** Se uma doença mata rápido (ex: Ebola), a **incidência** pode ser alta, mas a **prevalência** será baixa (porque as pessoas não ficam doentes por muito tempo).
 
 ---
 
 ## 2. Medidas de Associação: O Tamanho do Risco
 
-- **Risco Relativo (RR):** Usado em estudos de **Coorte** (quem seguimos no tempo). RR = 3 significa que o grupo exposto tem 3 vezes mais chance de adoecer.
+- **Risco Relativo (RR):** Usado em estudos de **Coorte** (quem seguimos no tempo). **RR = 3** significa que o grupo exposto tem 3 vezes mais chance de adoecer.
 - **Odds Ratio (OR):** Usado em estudos de **Caso-Controle** (quem já está doente). É uma estimativa do risco quando não podemos medir a incidência diretamente.
 - **Risco Atribuível:** É a conta de "subtração". Diz quanto da doença sumiria se tirássemos o fator de risco (ex: Se ninguém fumasse, quantos casos de câncer seriam evitados?).
 
@@ -37,7 +37,7 @@ Como provar que A causa B? Usamos nove critérios, mas os mais importantes para 
 1. **Temporalidade (Obrigatório!):** A causa deve vir **Antes** do efeito. Não existe causa que vem depois da doença.
 2. **Dose-Resposta:** Quanto mais você fuma, maior a chance de ter câncer.
 3. **Plausibilidade Biológica:** A explicação tem que fazer sentido para a biologia humana.
-4. **Força da Associação:** Se o RR é gigante (ex: RR = 20), é quase certo que a causa é real.
+4. **Força da Associação:** Se o RR é gigante (ex: **RR = 20**), é quase certo que a causa é real.
 
 ---
 
@@ -45,7 +45,7 @@ Como provar que A causa B? Usamos nove critérios, mas os mais importantes para 
 
 Um **Confundidor** é uma variável intrusa que faz duas coisas parecerem ligadas quando não estão:
 - **Exemplo Clássico:** Observa-se que quem toma muito café tem mais infarto.
-- **A Confusão:** O café causa o infarto? Não! Acontece que quem toma muito café geralmente **fuma mais**. O fumo é o verdadeiro causador, mas o café leva a culpa injustamente.
+- **A Confusão:** O café causa o infarto? Não! Acontece que quem toma muito café geralmente **fuma mais**. O **fumo** é o verdadeiro causador, mas o café leva a culpa injustamente.
 - **Como resolver:** No estudo, você deve "limpar" os dados separando fumantes de não-fumantes.
 
 ---
@@ -60,7 +60,7 @@ No consultório, você usará o **Risco Relativo** para convencer o paciente a m
 
 - **Incidência**: Foca em casos **Novos**.
 - **Prevalência**: Foca em casos **Existentes**.
-- **Relação**: Prevalência = Incidência x Duração da doença.
+- **Relação**: **Prevalência = Incidência x Duração da doença**.
 - **Temporalidade**: É o único critério de causalidade que é **indispensável**.
 - **RR = 1**: Significa que o fator não fede nem cheira (não há associação).
 
@@ -81,11 +81,11 @@ A Uninove adora o **Estudo de Coorte**. Lembre-se: Coorte mede incidência e usa
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Incidência** | **Prevalência** | Casos **Novos** (Risco) vs Casos **Totais** (Carga) |
+| **Incidência** | **Prevalência** | **Casos Novos (Risco)** vs **Casos Totais (Carga)** |
 | **Risco Relativo (RR)**| **Odds Ratio (OR)** | Usado em **Coorte** vs Usado em **Caso-Controle** |
-| **Fator de Risco** | **Fator de Proteção** | RR **Maior que 1** vs RR **Menor que 1** |
-| **Confundidor** | **Modificador de Efeito** | Deve ser **Removido** vs Deve ser **Relatado** (É biológico) |
-| **Associação** | **Causalidade** | Estão **Juntos** vs Um **Gera** o outro |
+| **Fator de Risco** | **Fator de Proteção** | **RR Maior que 1** vs **RR Menor que 1** |
+| **Confundidor** | **Modificador de Efeito** | **Deve ser Removido** vs **Deve ser Relatado** (É biológico) |
+| **Associação** | **Causalidade** | **Estão Juntos** vs **Um Gera o outro** |
 
 ### Frase-âncora para não esquecer
 

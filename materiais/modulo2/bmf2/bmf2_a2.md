@@ -12,33 +12,33 @@
 
 ## Automatismo e condutibilidade: geração e propagação do impulso
 
-**Automatismo** é a capacidade de despolarização espontânea, mais evidente no nó sinoatrial (NSA), seguida de nó atrioventricular (NAV) e sistema His-Purkinje. O marcapasso dominante é o que atinge limiar primeiro.
+**Automatismo** é a capacidade de **despolarização espontânea**, mais evidente no **nó sinoatrial (NSA)**, seguida de nó atrioventricular (NAV) e sistema His-Purkinje. O marcapasso dominante é o que atinge limiar primeiro.
 
 A inclinação da fase 4 no NSA define a frequência intrínseca. Estímulo simpático aumenta essa inclinação (acelera frequência), enquanto parassimpático a reduz (desacelera frequência).
 
-**Condutibilidade** é a capacidade de conduzir o impulso de forma coordenada. A sequência fisiológica é: NSA -> átrios -> NAV (atraso fisiológico) -> feixe de His -> ramos -> Purkinje -> ventrículos.
+**Condutibilidade** é a capacidade de **conduzir o impulso** de forma coordenada. A sequência fisiológica é: NSA -> átrios -> NAV (**atraso fisiológico**) -> feixe de His -> ramos -> **Purkinje** -> ventrículos.
 
-O atraso no NAV é crítico para enchimento ventricular. Sem esse atraso, a contribuição atrial para volume diastólico final cai, reduzindo eficiência do débito, especialmente em idosos e disfunção diastólica.
+O **atraso no NAV** é crítico para o **enchimento ventricular**. Sem esse atraso, a contribuição atrial para o **volume diastólico final** cai, reduzindo a eficiência do débito, especialmente em idosos e disfunção diastólica.
 
-A velocidade de condução é maior no sistema Purkinje e menor no NAV. Em provas, isso aparece em questões sobre bloqueios AV, QRS alargado e dessincronia ventricular.
+A velocidade de condução é maior no sistema **Purkinje** e menor no NAV. Em provas, isso aparece em questões sobre bloqueios AV, **QRS alargado** e dessincronia ventricular.
 
 ### Sequência elétrica e impacto funcional
 
 | Etapa | O que ocorre | Relevância para prova e clínica |
 |------|---------------|----------------------------------|
-| Nó SA dispara | Início do impulso espontâneo | Define marcapasso sinusal normal |
-| Despolarização atrial | Ativação dos átrios | Relaciona-se à onda P |
-| Atraso no nó AV | Condução lenta fisiológica | Permite enchimento ventricular adequado |
-| His-Purkinje conduz rápido | Ativação sincronizada dos ventrículos | QRS estreito em condução normal |
-| Repolarização ventricular | Retorno elétrico ao basal | Relaciona-se à onda T |
+| **Nó SA dispara** | Início do impulso espontâneo | Define **marcapasso sinusal normal** |
+| **Despolarização atrial** | Ativação dos átrios | Relaciona-se à **onda P** |
+| **Atraso no nó AV** | Condução lenta fisiológica | Permite **enchimento ventricular adequado** |
+| **His-Purkinje conduz rápido** | Ativação sincronizada dos ventrículos | **QRS estreito** em condução normal |
+| **Repolarização ventricular** | Retorno elétrico ao basal | Relaciona-se à **onda T** |
 
 ## Contratilidade e inotropismo: força mecânica do coração
 
-**Contratilidade** é a capacidade intrínseca do miocárdio gerar força para um dado pré-carga e pós-carga. Seu determinante imediato é o Ca2+ citosólico disponível para interação actina-miosina.
+**Contratilidade** é a capacidade intrínseca do miocárdio gerar força para um dado pré-carga e pós-carga. Seu determinante imediato é o **Ca2+ citosólico** disponível para interação **actina-miosina**.
 
-No coração, o potencial de ação prolongado abre canais de Ca2+ tipo L durante o platô (fase 2). O Ca2+ que entra desencadeia liberação adicional de Ca2+ do retículo sarcoplasmático pelos receptores de rianodina (RyR2): é a base do acoplamento excitação-contração.
+No coração, o potencial de ação prolongado abre **canais de Ca2+ tipo L** durante o platô (fase 2). O Ca2+ que entra desencadeia liberação adicional de Ca2+ do retículo sarcoplasmático pelos **receptores de rianodina (RyR2)**: é a base do **acoplamento excitação-contração**.
 
-**Inotropismo positivo** aumenta força contrátil, em geral por maior disponibilidade de Ca2+ intracelular (ex.: catecolaminas beta-1). **Inotropismo negativo** reduz força (ex.: beta-bloqueadores e isquemia extensa).
+**Inotropismo positivo** aumenta a força contrátil, em geral por maior disponibilidade de Ca2+ intracelular (ex.: **catecolaminas beta-1**). **Inotropismo negativo** reduz a força (ex.: **beta-bloqueadores** e isquemia extensa).
 
 Em insuficiência cardíaca sistólica, a contratilidade está reduzida e o organismo compensa com hiperatividade simpática. No curto prazo, isso sustenta o débito; no longo prazo, piora o remodelamento e aumenta o consumo de O2 pelo miocárdio.
 
@@ -46,11 +46,11 @@ Em insuficiência cardíaca sistólica, a contratilidade está reduzida e o orga
 
 No miocárdio, eletricidade e mecânica são inseparáveis. O potencial de ação abre canais de Ca2+ tipo L, ativa RyR2, eleva Ca2+ citosólico e inicia encurtamento sarcomérico. O relaxamento depende da retirada de Ca2+ do citosol, principalmente via SERCA2a e trocador Na+/Ca2+.
 
-**Lusitropismo** é a propriedade de relaxamento miocárdico. Lusitropismo positivo significa relaxamento mais rápido e eficiente, essencial em frequências elevadas, quando a diástole encurta.
+**Lusitropismo** é a propriedade de **relaxamento miocárdico**. Lusitropismo positivo significa relaxamento mais rápido e eficiente, essencial em frequências elevadas, quando a diástole encurta.
 
-Estímulo beta-adrenérgico aumenta inotropismo e também lusitropismo: a fosforilação de fosfolambano favorece SERCA2a, acelerando recaptura de Ca2+ e melhorando relaxamento.
+Estímulo beta-adrenérgico aumenta inotropismo e também lusitropismo: a fosforilação de fosfolambano favorece **SERCA2a**, acelerando a recaptura de Ca2+ e melhorando o relaxamento.
 
-Disfunção lusitrópica é chave na insuficiência cardíaca com fração de ejeção preservada (ICFEP): o ventrículo contrai relativamente bem, mas relaxa mal, elevando pressão diastólica e causando dispneia aos esforços.
+Disfunção lusitrópica é chave na **insuficiência cardíaca com fração de ejeção preservada (ICFEP)**: o ventrículo contrai relativamente bem, mas relaxa mal, elevando a pressão diastólica e causando dispneia aos esforços.
 
 ## Refratariedade, cronotropismo e risco arrítmico
 
@@ -125,11 +125,11 @@ O acoplamento excitação-contração é o elo mais cobrado em integração: ent
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Excitabilidade | Contratilidade | Excitabilidade define disparo elétrico; contratilidade define força mecânica gerada |
-| Automatismo | Condutibilidade | Automatismo gera impulso espontâneo; condutibilidade propaga o impulso no tecido |
-| Inotropismo | Lusitropismo | Inotropismo altera força de ejeção; lusitropismo altera velocidade/eficiência de relaxamento |
-| Músculo cardíaco | Músculo esquelético | Cardíaco tem potencial de ação com platô e refratariedade longa; esquelético permite tetania |
-| Cronotropismo | Dromotropismo | Cronotropismo altera frequência do marcapasso; dromotropismo altera velocidade de condução |
+| **Excitabilidade** | **Contratilidade** | Excitabilidade define disparo elétrico; contratilidade define força mecânica gerada |
+| **Automatismo** | **Condutibilidade** | Automatismo gera impulso espontâneo; condutibilidade propaga o impulso no tecido |
+| **Inotropismo** | **Lusitropismo** | Inotropismo altera força de ejeção; lusitropismo altera velocidade/eficiência de relaxamento |
+| **Músculo cardíaco** | **Músculo esquelético** | Cardíaco tem potencial de ação com **platô** e refratariedade longa; esquelético permite tetania |
+| **Cronotropismo** | **Dromotropismo** | Cronotropismo altera frequência do marcapasso; dromotropismo altera velocidade de condução |
 
 ### Frase-âncora para não esquecer
 > "No coração, a eletricidade dita o ritmo, o cálcio dita a força e a refratariedade protege a diástole."

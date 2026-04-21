@@ -33,7 +33,7 @@ Lembre-se da "Regra dos 10 Minutos" para o ECG em qualquer suspeita isquêmica.
 O manejo depende de classificar o paciente em perfis hemodinâmicos:
 
 - **Quente e Úmido:** Bem perfundido, mas **Congestão** (Edema/Crepitações). É o mais comum.
-- **Frio e Úmido:** Baixa perfusão (Choque) e **Congestão**. Perfil de maior gravidade.
+- **Frio e Úmido:** Baixa perfusão (**Choque**) e **Congestão**. Perfil de maior gravidade.
 - **Quente e Seco:** Paciente estável ou compensado.
 - **Frio e Seco:** Desidratado ou em choque hipovolêmico/obstrutivo.
 

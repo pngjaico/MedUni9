@@ -15,7 +15,7 @@ Na prática cardiorrespiratória da Uninove, a banca costuma integrar a forma co
 
 ## Roteiro Macro: Anatomia do Coração e Vasos
 
-O primeiro passo em qualquer estação de anatomia é a **Orientação Espacial**. Localize a base (onde estão os vasos) e o ápice (a ponta inferior voltada para a esquerda). A partir daí, identifique as faces anterior (esternocostal) e inferior. Ao abrir a peça, o critério de ouro para diferenciar ventrículos é a **Espessura Miocárdica**: o Ventrículo Esquerdo (VE) é significativamente mais espesso e tem formato circular no corte transversal, refletindo sua necessidade de vencer a alta resistência sistêmica.
+O primeiro passo em qualquer estação de anatomia é a **Orientação Espacial**. Localize a base (onde estão os vasos) e o ápice (a ponta inferior voltada para a esquerda). A partir daí, identifique as faces anterior (esternocostal) e inferior. Ao abrir a peça, o critério de ouro para diferenciar ventrículos é a **Espessura Miocárdica**: o **Ventrículo Esquerdo (VE)** é significativamente mais espesso e tem formato circular no corte transversal, refletindo sua necessidade de vencer a alta resistência sistêmica.
 
 Ao identificar as valvas, use a regra da "Câmara de Saída": a **Valva Mitral** está à esquerda, entre o átrio e o ventrículo elíptico, enquanto a **Tricúspide** está à direita. Na base do coração, o **Tronco Pulmonar** é geralmente o vaso mais anterior e emerge do Ventrículo Direito (VD), enquanto a **Aorta** emerge do VE e possui paredes elásticas extremamente robustas. Não confie apenas na cor da peça, confie na continuidade anatômica.
 

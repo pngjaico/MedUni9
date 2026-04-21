@@ -1,0 +1,2223 @@
+[
+  {
+    "id": 901,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Para avaliar a curvatura da coluna vertebral em um exame de 'perfil' (vista lateral), qual plano anatômico o técnico de RX deve utilizar para alinhar o feixe de radiação?",
+    "opcoes": [
+      "A) Plano Axial.",
+      "B) Plano Coronal.",
+      "C) Plano Transversal.",
+      "D) Plano Sagital."
+    ],
+    "explicacao_geral": "Planos e visualização diagnóstica.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O plano **Sagital** corta o corpo em metades direita e esquerda, sendo o único que permite a visão de 'perfil'."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 902,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual a principal característica fisiológica do **Tecido Epitelial** que o torna dependente do tecido conjuntivo subjacente?",
+    "opcoes": [
+      "A) Presença de vasos linfáticos em grande escala.",
+      "B) Natureza avascular (ausência de vasos sanguíneos próprios).",
+      "C) Capacidade de produzir colágeno tipo I em abundância.",
+      "D) Ser composto majoritariamente por matriz extracelular calcificada."
+    ],
+    "explicacao_geral": "O tecido epitelial é caracterizado por células justapostas e avascularidade.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Como não possui vasos próprios, o epitélio recebe oxigênio e nutrientes por **difusão** a partir dos vasos presentes no tecido conjuntivo, atravessando a lâmina basal."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 903,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Diferencie funcionalmente as especializações apicais **Cílios** e **Microvilosidades**:",
+    "opcoes": [
+      "A) Cílios absorvem nutrientes; microvilosidades protegem contra o frio.",
+      "B) Microvilosidades movem o muco; cílios aumentam a superfície de absorção.",
+      "C) Ambos têm a mesma função de ancorar a célula à lâmina basal.",
+      "D) Cílios promovem o movimento de partículas/muco sobre a superfície; Microvilosidades aumentam a área de absorção celular."
+    ],
+    "explicacao_geral": "Especializações de membrana refletem a função do órgão.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Cílios são encontrados na traqueia (limpeza) e tubas uterinas; microvilosidades no intestino delgado (absorção)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 904,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual a célula predominante no **Tecido Conjuntivo Propriamente Dito**, responsável direta pela síntese de fibras colágenas e da matriz extracelular?",
+    "opcoes": [
+      "A) Fibroblasto.",
+      "B) Macrófago.",
+      "C) Adipócito.",
+      "D) Melanócito."
+    ],
+    "explicacao_geral": "Os fibroblastos são os 'pedreiros' que constroem a estrutura de suporte do corpo.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Além da síntese de fibras, o fibroblasto é essencial na cicatrização e manutenção da integridade tecidual."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 905,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Em condições de **Edema** (inchaço) acentuado no tecido conjuntivo, por que o tecido epitelial sobrejacente corre risco de sofrer isquemia e descamação?",
+    "opcoes": [
+      "A) Porque o líquido do edema é tóxico para a queratina.",
+      "B) Porque os vasos do epitélio estouram com a pressão.",
+      "C) Porque o excesso de líquido aumenta a distância de difusão entre os capilares do conjuntivo e as células do epitélio.",
+      "D) Porque o edema impede a célula epitelial de realizar mitose."
+    ],
+    "explicacao_geral": "A eficácia da difusão é inversamente proporcional à distância.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O oxigênio tem um limite de alcance por difusão livre. Quando o conjuntivo 'se afasta' do epitélio por acúmulo de líquido, as células superficiais morrem por hipóxia."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 906,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Como se denomina o processo adaptativo no qual o corpo substitui um tipo de tecido maduro (ex: epitélio respiratório ciliado) por outro tipo de tecido também maduro, mas mais resistente ao estresse (ex: epitélio escamoso)?",
+    "opcoes": [
+      "A) Neoplasia.",
+      "B) Metaplasia.",
+      "C) Hiperplasia.",
+      "D) Atrofia."
+    ],
+    "explicacao_geral": "A metaplasia é uma defesa, mas predispõe à transformação maligna a longo prazo.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A metaplasia é a 'troca de uniforme' para sobreviver a um ambiente hostil (como a fumaça do cigarro)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 907,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Na fase inicial da cicatrização, os fibroblastos depositam um colágeno mais fino e delicado. Com o tempo, este é substituído por um colágeno mais espesso e resistente. Quais são esses tipos, respectivamente?",
+    "opcoes": [
+      "A) Tipo III (Reticular) e Tipo I (Fibrilar).",
+      "B) Tipo II (Cartilagem) e Tipo IV (Lâmina Basal).",
+      "C) Queratina e Elastina.",
+      "D) Colágeno Tipo I e Colágeno Tipo X."
+    ],
+    "explicacao_geral": "A maturação da cicatriz envolve a troca do colágeno de granulação pelo colágeno de força.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O Tipo III forma o arcabouço inicial (tecido de granulação); o Tipo I provê a resistência final da cicatriz."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 908,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Ao observar uma lâmina histológica ao microscópio, você identifica uma região com **células muito próximas uma das outras** e quase nenhuma matriz visível. Logo abaixo, há uma região com **poucas células mergulhadas em uma rede de fibras**. Quais tecidos são esses?",
+    "opcoes": [
+      "A) Tecido Nervoso e Tecido Muscular.",
+      "B) Cartilagem e Osso.",
+      "C) Tecido Epitelial e Tecido Conjuntivo, respectivamente.",
+      "D) Tecido Conjuntivo e Tecido Adiposo, respectivamente."
+    ],
+    "explicacao_geral": "A proporção entre células e matriz define os tecidos básicos.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Alta cellularidade e baixa matriz = Epitélio. Baixa cellularidade e alta matriz = Conjuntivo."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 909,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Um marinheiro antigo apresenta sangramento nas gengivas, perda de dentes e feridas de pele que não cicatrizam há meses. Ele não consome frutas frescas ou vegetais. Qual a base fisiopatológica desta condição (Escorbuto)?",
+    "opcoes": [
+      "A) Falta de cálcio no tecido epitelial.",
+      "B) Excesso de elastina no tecido conjuntivo.",
+      "C) Ausência de queratina na epiderme.",
+      "D) Deficiência de Vitamina C, impedindo a correta hidroxilação e estabilização das fibras de Colágeno pelos fibroblastos."
+    ],
+    "explicacao_geral": "A Vitamina C é cofator obrigatório na síntese de colágeno.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Sem o 'nó' químico da Vitamina C, o colágeno se torna frágil, levando à desintegração do tecido conjuntivo (escorbuto)."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 910,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Uma biópsia do brônquio de um fumante de longa data revela que o epitélio padrão (pseudoestratificado ciliado) foi substituído por um epitélio estratificado pavimentoso queratinizado. Como o patologista deve classificar este achado?",
+    "opcoes": [
+      "A) Atrofia por desuso.",
+      "B) Metaplasia Escamosa.",
+      "C) Hipertrofia glandular.",
+      "D) Neoplasia maligna de pequenas células."
+    ],
+    "explicacao_geral": "Exemplo clássico de adaptação tecidual ao estresse crônico.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O corpo 'sacrifica' a função dos cílios (limpeza) em troca de uma barreira mais grossa contra o calor e produtos químicos do cigarro."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 911,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Após uma cirurgia abdominal, o paciente desenvolve uma cicatriz volumosa, endurecida, que ultrapassa os limites da incisão original (Quelóide). Qual o mecanismo celular envolvido?",
+    "opcoes": [
+      "A) Hiperatividade de fibroblastos com deposição excessiva e desorganizada de Colágeno no tecido conjuntivo.",
+      "B) Morte celular programada de todas as células epiteliais da derme.",
+      "C) Falta de nutrição por difusão no local do corte.",
+      "D) Transformação da derme em tecido cartilaginoso hialino."
+    ],
+    "explicacao_geral": "O quelóide é uma falha na regulação da síntese de matriz.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Os fibroblastos 'não sabem quando parar', gerando uma massa excessiva de colágeno que deforma a topografia da pele."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 912,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "O esqueleto humano é dividido funcionalmente em dois grupos. Quais ossos compõem o **Esqueleto Axial**, responsável pela proteção do eixo central do corpo?",
+    "opcoes": [
+      "A) Fêmur, Úmero e Rádio.",
+      "B) Crânio, Coluna Vertebral, Costelas e Esterno.",
+      "C) Escápula, Clavícula e Ossos do Quadril.",
+      "D) Apenas os ossos dos pés e das mãos."
+    ],
+    "explicacao_geral": "O esqueleto axial forma o pilar de proteção vital do organismo.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O esqueleto **Axial** protege o sistema nervoso central (crânio/coluna) e os órgãos torácicos (grade costal)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 913,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Os ossos que se desenvolvem no interior de determinados tendões, com a função de reduzir o atrito e proteger o tendão contra o desgaste excessivo, são classificados como:",
+    "opcoes": [
+      "A) Ossos Longos.",
+      "B) Ossos Pneumáticos.",
+      "C) Ossos Planos.",
+      "D) Ossos Sesamoides (ex: Patela)."
+    ],
+    "explicacao_geral": "Classificação morfológica baseada na localização e função mecânica.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A **Patela** é o maior osso sesamoide do corpo, agindo como uma roldana para o tendão do quadríceps."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 914,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Em qual região do osso ocorre o processo de **Hematopoese** (produção de células sanguíneas)?",
+    "opcoes": [
+      "A) No Osso Esponjoso, especificamente na Medula Óssea Vermelha.",
+      "B) No Osso Compacto (diáfise).",
+      "C) No interior do Periósteo.",
+      "D) Apenas na cavidade medular preenchida por gordura (medula amarela)."
+    ],
+    "explicacao_geral": "O osso esponjoso abriga o tecido mieloide ativo.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] As trabéculas do **osso esponjoso** protegem e sustentam a medula vermelha, onde nascem hemácias e leucócitos."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 915,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "O tecido ósseo funciona como um importante **'Banco de Minerais'**. Quando os níveis de Cálcio no sangue estão baixos, como o organismo reage em relação ao esqueleto?",
+    "opcoes": [
+      "A) O organismo deposita mais cálcio nos ossos para guardá-lo.",
+      "B) O esqueleto para de produzir sangue para economizar energia.",
+      "C) Ocorre a reabsorção óssea para liberar íons de cálcio na corrente sanguínea através da atividade dos osteoclastos.",
+      "D) Não há relação entre cálcio sanguíneo e tecido ósseo."
+    ],
+    "explicacao_geral": "Homeostase mineral depende da remodelação óssea.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O osso é o principal reservatório de cálcio e fósforo do corpo, sendo vital para a função cardíaca e muscular."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 916,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Por que a fratura de um osso é extremamente dolorosa e qual estrutura é a principal responsável por essa percepção sensorial?",
+    "opcoes": [
+      "A) O osso compacto não possui nervos, a dor vem do sangue.",
+      "B) Devido à rica inervação do Periósteo (membrana conjuntiva que reveste o osso).",
+      "C) A dor vem apenas do músculo que fica em volta do osso.",
+      "D) Os ossos não doem; apenas a cartilagem articular dói."
+    ],
+    "explicacao_geral": "O periósteo é uma membrana altamente sensível e vascularizada.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Periósteo** é densamente inervado por fibras de dor, avisando ao corpo sobre o trauma e iniciando o processo de reparo."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 917,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A **Fise** (ou Placa Epifisária), presente em ossos longos de crianças e adolescentes, é responsável por qual processo fisiológico?",
+    "opcoes": [
+      "A) Produção de medula amarela (gordura).",
+      "B) Crescimento do dente siso.",
+      "C) Cicatrização de feridas de pele.",
+      "D) Crescimento longitudinal (em altura) do osso através da ossificação endocondral."
+    ],
+    "explicacao_geral": "Desenvolvimento ósseo pediátrico.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A **Placa Epifisária** é um disco de cartilagem que permite o alongamento do osso até a idade adulta, quando ela se fecha (estirão)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 918,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na dinâmica da remodelação óssea constante, diferencie a função das células **Osteoblastos** e **Osteoclastos**:",
+    "opcoes": [
+      "A) Osteoblastos sintetizam matriz óssea (constroem); Osteoclastos reabsorvem a matriz (consomem).",
+      "B) Osteoclastos protegem o osso do sol; Osteoblastos fabricam gordura.",
+      "C) Osteoblastos são células mortas; Osteoclastos estão sempre vivos.",
+      "D) Osteoblastos limpam o osso e Osteoclastos colam as fraturas."
+    ],
+    "explicacao_geral": "Biologia celular do osso.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O equilíbrio entre 'Blasto' (Build) e 'Clasto' (Consume) mantém a densidade óssea saudável."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 919,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Uma criança de 8 anos sofre uma queda de altura e fratura a região próxima à articulação do joelho (fêmur distal). Qual a maior preocupação a longo prazo do ortopedista pediatra?",
+    "opcoes": [
+      "A) Que a criança nunca mais consiga caminhar.",
+      "B) Que o osso fique amarelo para sempre.",
+      "C) A lesão da placa epifisária (fise), o que pode causar o encurtamento ou deformidade permanente do membro.",
+      "D) Que a pele demore para fechar em cima do osso."
+    ],
+    "explicacao_geral": "Impacto clínico de trauma na placa de crescimento.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Se a **Fise** for danificada em um estágio de crescimento ativo, o osso pode parar de crescer ou crescer torto na região da lesão."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 920,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Uma idosa de 75 anos sofre uma fratura de quadril após um escorregão leve em casa. Os exames mostram um osso com o 'miolo' extremamente poroso. Como se explica esse fenômeno fisopatológico?",
+    "opcoes": [
+      "A) É um processo normal de hematopoese acelerada.",
+      "B) Osteoporose, com perda predominante da microarquitetura do Osso Esponjoso, tornando-o frágil a mínimos esforços.",
+      "C) Excesso de periósteo impedindo o osso de respirar.",
+      "D) Transformação do osso compacto em medula amarela."
+    ],
+    "explicacao_geral": "Osteoporose e biomecânica óssea.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A osteoporose atinge prioritariamente o osso esponjoso metabolicamente ativo, reduzindo a união das trabéculas e a resistência do osso."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 921,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Um paciente queixa-se de peso e dor na face, que piora ao abaixar a cabeça. Ele tem diagnóstico de sinusite. A inflamação está ocorrendo em cavidades localizadas dentro de qual tipo de ossos?",
+    "opcoes": [
+      "A) Ossos Sesamoides.",
+      "B) Ossos Curtos.",
+      "C) Ossos Irregulares.",
+      "D) Ossos Pneumáticos (como o Frontal e o Maxilar)."
+    ],
+    "explicacao_geral": "Ossos pneumáticos e seios da face.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Ossos **Pneumáticos** possuem seios (cavidades aeradas) revestidas por mucosa. Quando esta inflama, temos a sinusite."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 922,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Haploinsuficiência em doença autossômica dominante explica que:",
+    "opcoes": [
+      "A) Uma cópia mutada pode ser suficiente se a dose da proteína funcional ficar abaixo do limiar celular.",
+      "B) Sempre são necessários dois alelos mutados para fenótipo.",
+      "C) O mecanismo só ocorre em genes ligados ao Y.",
+      "D) A proteína mutada nunca interfere com a wild-type."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Haploinsuficiência — 50% da proteína insuficiente (ex.: Marfan, alguns contextos BRCA).",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: descreve recessividade.",
+      "C": "Incorreta.",
+      "D": "Incorreta: isso aproxima-se de dominante negativo, não haploinsuficiência pura."
+    },
+    "explicacao": "Resumo: Haploinsuficiência.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: descreve recessividade.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: isso aproxima-se de dominante negativo, não haploinsuficiência pura.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 923,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "No padrão autossômico dominante, o risco para cada filho de um progenitor afetado heterozigoto e parceiro geneticamente típico é tipicamente:",
+    "opcoes": [
+      "A) 0%.",
+      "B) 50% por gestação.",
+      "C) 100%.",
+      "D) 25%."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "AD — 50% se heterozigoto; transmissão vertical.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta: salvo homozigoto (geralmente raro/inviável).",
+      "D": "Incorreta: 25% é típico AR entre dois heterozigotos."
+    },
+    "explicacao": "Resumo: Risco AD.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta: salvo homozigoto (geralmente raro/inviável).\nD) INCORRETA. Incorreta: 25% é típico AR entre dois heterozigotos.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 924,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Efeito dominante negativo é bem ilustrado quando:",
+    "opcoes": [
+      "A) O alelo mutado é completamente silencioso.",
+      "B) Perde-se apenas uma cópia sem interação entre subunidades.",
+      "C) A proteína mutante integra complexos multiméricos e prejudica a função global.",
+      "D) Há deleção homozigota de supressor de tumor no mesmo clone somático apenas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Dominante negativo — subunidade tóxica ao complexo (ex.: alguns colágenos, p53 mutante).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: aproxima haploinsuficiência simples.",
+      "C": "Correta.",
+      "D": "Incorreta: mecanismo de supressor — perda de função."
+    },
+    "explicacao": "Resumo: Dominante negativo.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: aproxima haploinsuficiência simples.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta: mecanismo de supressor — perda de função.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 925,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Penetrância incompleta em doença autossômica dominante significa que:",
+    "opcoes": [
+      "A) Apenas homens manifestam o fenótipo.",
+      "B) Todo portador do alelo mutado apresenta doença com igual severidade.",
+      "C) Gêmeos monozigóticos têm sempre fenótipo idêntico.",
+      "D) Indivíduos com o alelo patogênico podem permanecer assintomáticos."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Penetrância — fração com fenótipo; incompleta \"pula\" gerações aparentemente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AD afeta ambos os sexos.",
+      "B": "Incorreta: isso seria penetrância completa.",
+      "C": "Incorreta: expressividade pode variar.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Penetrância.\nA) INCORRETA. Incorreta: AD afeta ambos os sexos.\nB) INCORRETA. Incorreta: isso seria penetrância completa.\nC) INCORRETA. Incorreta: expressividade pode variar.\nD) CORRETA. Correta.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 926,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "A acondroplasia associa-se a mutação ativadora em FGFR3 com mecanismo de:",
+    "opcoes": [
+      "A) Perda total de função do receptor.",
+      "B) Homozigose recessiva obrigatória.",
+      "C) Ganho de função com inibição da proliferação de condrócitos na placa de crescimento.",
+      "D) Ligação exclusiva ao DNA como supressor de transcrição."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Acondroplasia — FGFR3 constitutivo; nanismo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: AD.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Acondroplasia.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: AD.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 927,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "A doença de Huntington caracteriza-se por:",
+    "opcoes": [
+      "A) Deleção de grandes segmentos em BRCA1.",
+      "B) Hipometilação global do genoma sem expansão de repeats.",
+      "C) Mosaicismo confinado ao fígado sem envolvimento neural.",
+      "D) Expansão de repeats CAG no gene HTT com toxicidade de ganho de função e antecipação fenotípica entre gerações."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Huntington — poliQ expansivo; piora nas gerações (antecipação).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Huntington.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 928,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Nova mutação (de novo) em síndrome de Marfan explica cenários em que:",
+    "opcoes": [
+      "A) Pais fenotipicamente típicos têm filho com mutação nova em FBN1.",
+      "B) Não há mutação em FBN1 no indivíduo afetado.",
+      "C) Apenas o parentesco materno transmite o alelo.",
+      "D) A penetrância do alelo é obrigatoriamente zero."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Marfan — ~25% de novo; critérios de Ghent.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: AD autossômica.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Marfan de novo.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: AD autossômica.\nD) INCORRETA. Incorreta.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 929,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Neurofibromatose tipo 1 (NF1) segue padrão:",
+    "opcoes": [
+      "A) Autossômico recessivo com consanguinidade obrigatória.",
+      "B) Autossômico dominante com expressividade variável.",
+      "C) Ligado ao X recessivo.",
+      "D) Exclusivamente somático sem transmissão familiar."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "NF1 — gene NF1; manchas café com leite, neurofibromas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta: germinativa comum."
+    },
+    "explicacao": "Resumo: NF1.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: germinativa comum.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 930,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Polipose adenomatosa familiar (PAF) associa-se classicamente a:",
+    "opcoes": [
+      "A) Mutações dominante negativas em colágeno tipo I.",
+      "B) Herança mitocondrial pura.",
+      "C) Múltiplos adenomas coloretais por mutação germinativa no gene APC.",
+      "D) Trissomia do cromossomo 21."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "FAP — APC; adenoma-carcinoma; colectomia profilática.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: PAF.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 931,
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "enunciado": "Expressividade variável em doença autossômica dominante implica:",
+    "opcoes": [
+      "A) Risco nulo para filhos de indivíduo afetado.",
+      "B) Penetrância sempre completa em todos os portadores.",
+      "C) Apenas mulheres apresentam manifestações.",
+      "D) A severidade e o espectro clínico podem diferir entre portadores do mesmo alelo."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Expressividade — grau fenotípico; penetrância — presença/ausência.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Expressividade.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta.",
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 932,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No osso compacto lamelar, a unidade funcional é o **Osteon** (Sistema de Havers). Como se diferenciam os canais de **Havers** e de **Volkmann** em relação à nutrição óssea?",
+    "opcoes": [
+      "A) Havers são canais verticais (longo eixo); Volkmann são transversais, conectando os canais de Havers entre si.",
+      "B) Havers levam gordura; Volkmann levam apenas nervos motorores.",
+      "C) Ambos são horizontais e não possuem vasos sanguíneos.",
+      "D) Volkmann são os únicos que contêm vasos; Havers são canais de ar (pneumáticos)."
+    ],
+    "explicacao_geral": "A microarquitetura óssea garante que as células presas na matriz rígida recebam nutrientes.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Os canais de **Havers** seguem o eixo longitudinal do osso, enquanto os canais de **Volkmann** perfuram as lamelas transversalmente para integrar a rede vascular."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 933,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Ao contrário das outras células ósseas que derivam do mesênquima, de qual linhagem celular se originam os **Osteoclastos**?",
+    "opcoes": [
+      "A) Células epiteliais da epiderme.",
+      "B) Condrócitos maduros da cartilagem hialina.",
+      "C) Células-tronco neurais.",
+      "D) Linhagem hematopoiética (Monócitos/Macrófagos do sangue)."
+    ],
+    "explicacao_geral": "Os osteoclastos são células multinucleadas especializadas em reabsorção, pertencentes ao sistema fagocitário mononuclear.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Os osteoclastos são 'primos' dos macrófagos, fundindo-se para formar células gigantes capazes de secretar ácidos que digerem o osso."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 934,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Diferencie os processos de **Ossificação Intramembranosa** e **Endocondral**:",
+    "opcoes": [
+      "A) Ambas utilizam um molde de cartilagem para iniciar o processo.",
+      "B) Intramembranosa ocorre direto no tecido conjuntivo (ex: crânio); Endocondral substitui um molde de cartilagem (ex: fêmur).",
+      "C) Endocondral é exclusiva para ossos da face; Intramembranosa para ossos longos.",
+      "D) Não há diferença; são apenas nomes diferentes para o mesmo processo."
+    ],
+    "explicacao_geral": "Os ossos podem se formar por vias diretas ou através de modelos cartilaginosos prévios.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O crânio e a clavícula usam a via **intramembranosa**; já os membros utilizam a via **endocondral**, onde a cartilagem é 'trocada' por osso."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 935,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A matriz óssea é um material compósito (concreto biológico). Qual a função mecânica exercida pela **fração orgânica** (principalmente Colágeno Tipo I)?",
+    "opcoes": [
+      "A) Prover dureza extrema para resistir a perfurações.",
+      "B) Armazenar Cálcio e Fósforo para o restante do corpo.",
+      "C) Prover flexibilidade e resistência à tração, evitando que o osso seja quebradiço como vidro.",
+      "D) Impedir que o osso de mova de forma independente."
+    ],
+    "explicacao_geral": "A combinação de mineral (dureza) e colágeno (elasticidade) define a biomecânica óssea.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O colágeno age como o 'aço' dentro do concreto, permitindo que o osso sofra pequenas deformações sem se estilhaçar."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 936,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Como o **Paratormônio (PTH)** atua no metabolismo ósseo para restaurar os níveis de Cálcio no sangue (em casos de hipocalcemia)?",
+    "opcoes": [
+      "A) Ativando os osteoclastos para que estes realizem a reabsorção óssea e liberem cálcio na circulação.",
+      "B) Inibindo os osteoclastos para que o cálcio não saia do osso.",
+      "C) Transformando o osso compacto em cartilagem elástica.",
+      "D) Estimulando os osteoblastos a guardarem mais cálcio na matriz."
+    ],
+    "explicacao_geral": "O PTH é o principal hormônio hipocalcemiante (saque de banco).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O PTH estimula a reabsorção óssea, 'sacando' cálcio do esqueleto para garantir o funcionamento vital (coração e nervos)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 937,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "De acordo com a **Lei de Wolff**, qual o efeito do estímulo mecânico (como exercício físico de carga) na microarquitetura óssea?",
+    "opcoes": [
+      "A) O osso fica mais fino para facilitar o movimento rápido.",
+      "B) O osso se reforça e aumenta sua densidade nas áreas sujeitas a maior estresse mecânico.",
+      "C) O exercício físico 'gasta' o osso, levando à osteoporose precoce.",
+      "D) Não há efeito, pois o osso é uma estrutura imutável após a idade adulta."
+    ],
+    "explicacao_geral": "O osso responde à carga reforçando suas trabéculas.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Os osteócitos sentem a carga e sinalizam para os osteoblastos reforçarem a matriz, aumentando a massa óssea."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 938,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Durante o processo de **Consolidação de uma Fratura**, qual a sequência correta de eventos biológicos para o reparo do osso?",
+    "opcoes": [
+      "A) Calo Duro -> Hematoma -> Calo Mole.",
+      "B) Ossificação Intramembranosa direta sem sangue.",
+      "C) Hematoma -> Calo Fibrocartilaginoso (Mole) -> Calo Ósseo (Duro).",
+      "D) O osso apenas se cola através de uma ponte de pele."
+    ],
+    "explicacao_geral": "A consolidação é uma recapitulação curta do desenvolvimento ósseo.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O hematoma inicia a inflamação; o calo mole providencia estabilidade provisória e o calo duro consolida a união óssea."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 939,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Um paciente tabagista crônico apresenta uma fratura de tíbia que não 'cola' após 6 meses (Pseudoartrose). Sabendo que o fumo prejudica a microcirculação, qual estrutura microscópica do osso compacto foi a mais afetada, impedindo a nutrição das células reparadoras?",
+    "opcoes": [
+      "A) A substância cinzenta central.",
+      "B) O periósteo externo apenas.",
+      "C) As lacunas de Howship vazias.",
+      "D) Os Canais de Havers e Volkmann, que transportam os vasos sanguíneos necessários para a ossificação."
+    ],
+    "explicacao_geral": "A consolidação óssea é um processo dependente de alta vascularização.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Se a microvascularização nos canais de **Havers** falha, os osteoblastos não recebem nutrientes para formar o calo duro, gerando a pseudoartrose."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 940,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Diagnóstico Diferencial: Um paciente idoso apresenta ossos porosos e frágeis (perda de massa), enquanto um paciente com deficiência de Vitamina D apresenta ossos 'moles' e tortos por falta de mineralização. Quais são as patologias?",
+    "opcoes": [
+      "A) Osteoporose e Osteomalácia, respectivamente.",
+      "B) Osteomalácia e Raquitismo, respectivamente.",
+      "C) Escorbuto e Osteoporose, respectivamente.",
+      "D) Ambas são apenas 'falta de cálcio' sem distinção."
+    ],
+    "explicacao_geral": "Diferenciar a densidade (massa) da qualidade (mineralização).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Na **Osteoporose**, o osso é bem mineralizado, mas há pouco osso. Na **Osteomalácia**, a matriz existe, mas não consegue mineralizar (fica mole)."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 941,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em um acidente de bicicleta, uma criança de 10 anos sofre uma fratura que atravessa a região do 'disco de cartilagem' na extremidade do osso longo. Qual o risco principal associado a essa lesão de **Fise** (Placa Epifisária)?",
+    "opcoes": [
+      "A) A criança nunca mais terá sangue novo.",
+      "B) Interrupção ou desvio do crescimento longitudinal do membro.",
+      "C) Transformação do osso em músculo liso.",
+      "D) Febre reumática aguda imediata."
+    ],
+    "explicacao_geral": "Fraturas de Salter-Harris envolvem a placa de crescimento.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Fise** é a zona de crescimento; lesões nesta área podem causar fechamento precoce e encurtamento do membro em relação ao outro."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 942,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "As duas primeiras vértebras cervicais possuem características anatômicas únicas para permitir o suporte e a movimentação da cabeça. Diferencie **Atlas** (C1) de **Áxis** (C2):",
+    "opcoes": [
+      "A) O Atlas possui um corpo massivo e o Áxis não possui corpo.",
+      "B) O Atlas (C1) não possui corpo vertebral e sustenta o crânio; o Áxis (C2) possui o processo odontoide (dente), que serve de eixo para rotação.",
+      "C) O Atlas é responsável pelo movimento de 'Não' e o Áxis pelo movimento de 'Sim'.",
+      "D) Ambas as vértebras são idênticas às vértebras lombares."
+    ],
+    "explicacao_geral": "C1 e C2 formam o complexo articular craniocervical.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Atlas** é um anel ósseo que 'carrega' o mundo (cabeça); o **Áxis** provê o pivô (dente) para que o Atlas gire sobre ele."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 943,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual acidente anatômico é **exclusivo** das vértebras cervicais e permite a passagem da importante artéria vertebral em direção ao cérebro?",
+    "opcoes": [
+      "A) Processo Espinhoso bífido.",
+      "B) Forame Vertebral largo.",
+      "C) Forames Transversários (localizados nos processos transversos).",
+      "D) Fóveas costais para articulação com as costelas."
+    ],
+    "explicacao_geral": "As vértebras cervicais possuem adaptações para a proteção vascular cerebral.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Apenas as vértebras cervicais (C1-C7) possuem os **forames transversários**, que formam um canal seguro para a ascensão da artéria vertebral."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 944,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O **Acetábulo**, cavidade profunda na pelve que recebe a cabeça do fêmur, é formado pela fusão de quais três ossos?",
+    "opcoes": [
+      "A) Ílio, Ísquio e Púbis.",
+      "B) Sacro, Cóccix e Ílio.",
+      "C) Fêmur, Tíbia e Patela.",
+      "D) Vértebra lombar, Sacro e Púbis."
+    ],
+    "explicacao_geral": "O osso do quadril é um osso plano complexo derivado da fusão embrionária de três partes.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O acetábulo é o ponto de encontro onde o **Ílio** (superior), o **Ísquio** (posterior) e o **Púbis** (anterior) se fundem no adulto."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 945,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No antebraço em posição anatômica, como se localizam os ossos **Rádio** e **Ulna**?",
+    "opcoes": [
+      "A) O Rádio é medial e a Ulna é lateral.",
+      "B) Ambos são paralelos e mediais.",
+      "C) A Ulna é superior e o Rádio é inferior.",
+      "D) O Rádio é lateral (lado do polegar) e a Ulna é medial (lado do dedo mínimo)."
+    ],
+    "explicacao_geral": "Localização óssea baseada na posição anatômica universal.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O **Rádio** segue a linha do polegar (antena do rádio) e localiza-se lateralmente."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 946,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A coluna vertebral apresenta curvaturas fisiológicas para amortecimento de carga. Diferencie os tipos de curva presentes na região **Cervical/Lombar** versus a região **Torácica/Sacral**:",
+    "opcoes": [
+      "A) Cifose na Cervical e Lordose na Torácica.",
+      "B) Lordose nas regiões Cervical e Lombar; Cifose nas regiões Torácica e Sacral.",
+      "C) Escoliose em todas as regiões saudáveis.",
+      "D) Lordose na Torácica e Cifose na Lombar."
+    ],
+    "explicacao_geral": "O design da coluna alterna lordoses (curvas primárias côncavas posteriormente) e cifoses.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] As **Lordoses** (C e L) são curvas 'para dentro'; as **Cifoses** (T e S) são curvas 'para fora'."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 947,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As **costelas flutuantes** (11ª e 12ª) possuem uma relevância clínica importante em traumas abdominais posteriores por estarem próximas a quais órgãos?",
+    "opcoes": [
+      "A) Coração e Pulmões.",
+      "B) Estômago e Pâncreas.",
+      "C) Rins.",
+      "D) Bexiga e Útero."
+    ],
+    "explicacao_geral": "Anatomia topográfica e proteção de órgãos vitais.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] As costelas flutuantes protegem a região superior dos **rins**, mas fraturas nestes ossos podem causar lacerações renais graves."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 948,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual vértebra é conhecida como **'Vértebra Proeminente'** e serve como um marco anatômico visível e palpável na transição entre o pescoço e o dorso?",
+    "opcoes": [
+      "A) Sétima Vértebra Cervical (C7).",
+      "B) Primeira Vértebra Torácica (T1).",
+      "C) Quinta Vértebra Lombar (L5).",
+      "D) Axis (C2)."
+    ],
+    "explicacao_geral": "Marcos palpatórios facilitam o exame físico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **C7** possui o processo espinhoso mais longo e saliente, sendo facilmente identificada na palpação."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 949,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Cenário: Paciente cai com a mão espalmada e queixa-se de dor intensa na **Tabaqueira Anatômica** (entre os tendões do polegar). Mesmo com RX inicial normal, o médico suspeita de fratura e imobiliza o punho. Qual a justificativa anatômica para essa conduta?",
+    "opcoes": [
+      "A) O rádio costuma se fundir com a ulna nesses casos.",
+      "B) A dor na tabaqueira indica apenas lesão muscular leve.",
+      "C) O osso Trapézio pode explodir com a pressão.",
+      "D) Suspeita de fratura do Escafóide, que possui vascularização retrógrada e alto risco de Necrose Avascular se não imobilizado."
+    ],
+    "explicacao_geral": "Anatomia clínica do carpo.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O **Escafóide** é o osso mais fraturado do carpo. O suprimento sanguíneo vem da extremidade distal; uma fratura pode interromper o sangue para a parte proximal, matando o osso."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 950,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Uma paciente idosa de 82 anos cai da própria altura e é encontrada caída com o **membro inferior direito encurtado e em rotação lateral**. Qual o sítio provável da fratura óssea?",
+    "opcoes": [
+      "A) Colo do Fêmur.",
+      "B) Maléolo Lateral da Fíbula.",
+      "C) Diáfise da Tíbia.",
+      "D) Ossos do Tarso."
+    ],
+    "explicacao_geral": "Fraturas de fêmur proximal em geriatria.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A apresentação clínica clássica (encurtamento + rotação externa) em idosos após queda aponta para fratura do **Colo do Fêmur**."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 951,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente queixa-se de dor lombar intensa que 'corre' para a perna (ciatalgia). O médico explica que o peso do corpo sobrecarregou a curvatura de amortecimento da região baixa das costas. Qual o nome dessa curvatura e a zona de maior carga?",
+    "opcoes": [
+      "A) Cifose Torácica (T1-T12).",
+      "B) Escoliose Idiopática.",
+      "C) Lordose Lombar (L1-L5), com destaque para o disco L4-L5.",
+      "D) Lordose Cervical (C1-C7)."
+    ],
+    "explicacao_geral": "Correlação clínica entre postura e patologia discal.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A **Lordose Lombar** suporta a maior parte do peso axial do corpo; hérnias discais nessas vértebras são causas comuns de compressão nervosa."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 952,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Para que uma articulação seja classificada como **Sinovial**, ela deve apresentar obrigatoriamente quais elementos estruturais?",
+    "opcoes": [
+      "A) Apenas osso e tendão.",
+      "B) Cartilagem fibrosa e suturas calcificadas.",
+      "C) Cápsula articular, membrana sinovial, cavidade articular (com líquido) e cartilagem articular.",
+      "D) Meniscos e discos intervertebrais em todos os casos."
+    ],
+    "explicacao_geral": "Os componentes sinoviais garantem a diartrose (movimento livre).",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Esta é a 'trindade' da articulação móvel; a membrana sinovial secreta o líquido que lubrifica a cavidade protegida pela cápsula."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 953,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A articulação trapézio-metacarpiana (na base do polegar) é classificada como sendo do tipo **em Sela**. Qual movimento único ela permite, sendo essencial para a destreza humana?",
+    "opcoes": [
+      "A) Oposição (tocar as pontas dos outros dedos).",
+      "B) Rotação axial pura de 360 graus.",
+      "C) Apenas deslizamento lateral (plana).",
+      "D) Não possui movimento próprio, serve apenas de apoio."
+    ],
+    "explicacao_geral": "A articulação em sela é biaxial e permite a pinça humana.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O movimento de **oposição** do polegar é possibilitado pelo encaixe recíproco das superfícies em forma de sela."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 954,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No pronto-socorro, é vital diferenciar uma **Luxação** de um **Entorse**. Como se define tecnicamente a **Luxação**?",
+    "opcoes": [
+      "A) É o estiramento de um músculo perto da articulação.",
+      "B) É quando o osso quebra dentro da articulação.",
+      "C) É o desgaste crônico da cartilagem por idade.",
+      "D) É a perda total de contato entre as superfícies articulares dos ossos que formam a articulação."
+    ],
+    "explicacao_geral": "Terminologia ortopédica fundamental.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Na luxação, as superfícies param de se tocar completamente, exigindo 'redução' para voltarem ao lugar.",
+      "C": "[INCORRETA] Isso descreve a osteoartrite."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 955,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Baseado no trade-off da engenharia biológica (Moore), por que a articulação do **Ombro** sofre mais luxações enquanto a do **Quadril** sofre mais fraturas?",
+    "opcoes": [
+      "A) Porque o ombro tem ossos mais grossos que o quadril.",
+      "B) Devido à relação Mobilidade vs Estabilidade: o ombro é extremamente móvel (instável), enquanto o quadril é muito estável (encaixe profundo), o que transmite a energia do trauma para o osso.",
+      "C) Porque o líquido sinovial do quadril é mais ácido.",
+      "D) Não há diferença; ambos sofrem de forma igual."
+    ],
+    "explicacao_geral": "A profundidade do encaixe articular define a estabilidade óssea.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O ombro (glenoumeral) é uma esfera em um prato raso; o quadril (coxofemoral) é uma esfera em um 'buraco' profundo (acetábulo)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 956,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A **Cartilagem Hialina (Articular)** reveste as superfícies ósseas. Por que lesões graves nessa estrutura raramente cicatrizam sozinhas e tendem a levar à degeneração crônica?",
+    "opcoes": [
+      "A) Porque ela é feita de osso morto.",
+      "B) Porque ela sangra demais e impede a cicatrização.",
+      "C) Porque ela é avascular e anervada, dependendo da difusão lenta de nutrientes a partir do líquido sinovial.",
+      "D) Porque ela é atacada pelo sistema nervoso central."
+    ],
+    "explicacao_geral": "A nutrição da cartilagem depende de movimento (compressão/descompressão).",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Sem vasos sanguíneos próprios, a cartilagem tem um metabolismo extremamente lento e capacidade de regeneração quase nula no adulto."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 957,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Como o **Líquido Sinovial** se comporta fisicamente em relação ao movimento articular (Tixotropia)?",
+    "opcoes": [
+      "A) Torna-se menos viscoso (mais fluido) com o movimento, facilitando o deslizamento dos ossos.",
+      "B) Torna-se sólido como gelo para travar a articulação.",
+      "C) Desaparece completamente durante o exercício físico.",
+      "D) Entra dentro do osso para ajudar os osteoblastos."
+    ],
+    "explicacao_geral": "A reologia do líquido sinovial protege as articulações durante a carga.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] É por isso que o 'aquecimento' é importante; o líquido fica mais ralo e lubrifica melhor a articulação ativa."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 958,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Relacione a classificação estrutural com a funcional. As articulações **Sinoviais** são sempre classificadas funcionalmente como:",
+    "opcoes": [
+      "A) Sinartroses (imóveis).",
+      "B) Anfiartroses (limitadas).",
+      "C) Suturas permanentes.",
+      "D) Diartroses (movimento livre)."
+    ],
+    "explicacao_geral": "Classificação morfológica x funcional.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O termo **Diartrose** é sinônimo funcional para a liberdade de movimento das articulações sinoviais."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 959,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Após um trauma no joelho, o paciente apresenta edema volumoso localizado dentro da cápsula articular (Derrame Articular ou 'água no joelho'). Qual estrutura é a responsável pela hipersecreção desse líquido?",
+    "opcoes": [
+      "A) O periósteo do fêmur.",
+      "B) A Membrana Sinovial, que reveste a face interna da cápsula articular.",
+      "C) O menisco medial lesionado.",
+      "D) Os vasos sanguíneos da cartilagem hialina."
+    ],
+    "explicacao_geral": "A membrana sinovial reage a traumas produzindo excesso de fluído.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Membrana Sinovial** é ricamente vascularizada e responsável pela produção (e absorção) do líquido sinovial. Em inflamações, ela exagera na produção."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 960,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Um jogador de futebol 'vira o pé' durante uma partida. Ele sente dor lateral no tornozelo, mas consegue caminhar com dificuldade e o exame físico não mostra deformidade óssea, apenas inchaço. Como o médico deve classificar essa lesão?",
+    "opcoes": [
+      "A) Luxação completa do tálus.",
+      "B) Fratura exposta de fíbula.",
+      "C) Entorse de Tornozelo (estiramento de ligamentos).",
+      "D) Ruptura do tendão de Aquiles."
+    ],
+    "explicacao_geral": "A entorse envolve lesão de partes moles (ligamentos), mantendo o contato articular.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Como não houve perda de contato articular (deformidade visível), classifica-se como **Entorse**."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 961,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um paciente jovem apresenta luxações recorrentes do ombro (instabilidade do ombro). Qual característica biomecânica da articulação glenoumeral explica essa facilidade em 'sair do lugar'?",
+    "opcoes": [
+      "A) O fato de ser uma articulação Esferoide com grande amplitude de movimento, sacrificando a estabilidade óssea em prol da mobilidade triaxial.",
+      "B) A presença de meniscos que empurram o osso para fora.",
+      "C) A falta de líquido sinovial no braço.",
+      "D) O ombro não ser uma articulação sinovial, e sim uma sutura fibrosa."
+    ],
+    "explicacao_geral": "A articulação mais móvel do corpo é a mais instável.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Por ser **triaxial** e ter uma cavidade (glenoide) muito rasa para o tamanho da cabeça do úmero, o ombro depende de lubrificação e ligamentos, sendo vulnerável a luxações."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 962,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual a principal limitação biológica do **Tecido Cartilaginoso** que justifica sua baixíssima capacidade de regeneração no adulto?",
+    "opcoes": [
+      "A) Presença de excesso de nervos que impedem a cicatrização.",
+      "B) Natureza avascular (ausência de vasos sanguíneos próprios).",
+      "C) Crescimento exclusivo por minerais pesados.",
+      "D) Ser composto majoritariamente por células mortas."
+    ],
+    "explicacao_geral": "A cartilagem é um tecido isolado, sem suprimento sanguíneo direto.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Por ser **avascular**, os nutrientes devem caminhar por difusão através da matriz densa, o que torna o metabolismo lento e o reparo ineficiente."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 963,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Relacione corretamente o tipo de cartilagem com seu componente fibrilar predominante:",
+    "opcoes": [
+      "A) Hialina - Elastina; Fibrocartilagem - Colágeno Tipo II.",
+      "B) Elástica - Colágeno Tipo I; Hialina - Queratina.",
+      "C) Fibrocartilagem - Colágeno Tipo III; Elástica - Colágeno Tipo IV.",
+      "D) Hialina - Colágeno Tipo II; Elástica - Elastina; Fibrocartilagem - Colágeno Tipo I."
+    ],
+    "explicacao_geral": "A composição da matriz determina a função mecânica do tecido.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] É a classificação de prova: Hialina (padrão II), Elástica (retorno à forma) e Fibro (resistência I)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 964,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Como se denomina o crescimento cartilaginoso que ocorre 'de dentro para fora', através da divisão de condrócitos pré-existentes que formam **Grupos Isogênicos**?",
+    "opcoes": [
+      "A) Crescimento Intersticial.",
+      "B) Crescimento Aposicional.",
+      "C) Ossificação Endocondral.",
+      "D) Metaplasia Cartilaginosa."
+    ],
+    "explicacao_geral": "A cartilagem cresce por dois mecanismos distintos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O crescimento **Intersticial** é marcado pela mitose de condrócitos dentro de suas lacunas, comum em cartilagens jovens e placas epifisárias."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 965,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A resiliência biomecânica da cartilagem (capacidade de amortecer e voltar ao normal) depende da retenção de água na matriz óssea. Qual molécula é a principal responsável por 'puxar' água para dentro do tecido?",
+    "opcoes": [
+      "A) Colágeno Tipo I purificado.",
+      "B) Cristais de Hidroxiapatita.",
+      "C) Proteoglicanos (como o Aggrecan), que possuem cargas negativas que atraem moléculas de água.",
+      "D) Queratina hidrofóbica."
+    ],
+    "explicacao_geral": "Biofísica da matriz extracelular.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A cartilagem funciona como uma 'esponja hidráulica'; os **proteoglicanos** garantem que a água preencha os espaços entre as fibras de colágeno."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 966,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A **Cartilagem Hialina Articular** (nas pontas dos ossos) é uma exceção nutricional. Como ela sobrevive sem Pericôndrio?",
+    "opcoes": [
+      "A) Ela se alimenta diretamente do sangue do osso subjacente.",
+      "B) Através da difusão de nutrientes a partir do Líquido Sinovial, auxiliada pelo movimento articular.",
+      "C) Ela realiza fotossíntese na superfície externa.",
+      "D) Através de nervos que trazem glicose das glândulas."
+    ],
+    "explicacao_geral": "Diferentes fontes de nutrição para o mesmo tipo de tecido.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Sem **pericôndrio**, a cartilagem articular depende exclusivamente do líquido sinovial. O movimento atua como uma 'bomba' facilitando a entrada de nutrientes."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 967,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Quando ocorre uma lesão extensa na cartilagem hialina de um joelho adulto, o corpo tenta realizar o reparo. Por que esse reparo é considerado **patológico** e ineficiente?",
+    "opcoes": [
+      "A) Porque o corpo usa osso para tampar o buraco.",
+      "B) Porque a cartilagem nova derrete com o calor do sol.",
+      "C) Porque a cartilagem cicatrizada fica mole demais.",
+      "D) Porque a Hialina é substituída por Fibrocartilagem, que é mais rígida, menos resiliente e altera a biomecânica da junta."
+    ],
+    "explicacao_geral": "O reparo tecidual não regenerativo.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O adulto não regenera hialina; a **fibrocartilagem** de reparo não tem a mesma capacidade de amortecimento, levando à artrose futura."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 968,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Quais são as duas principais exceções estruturais que **não possuem Pericôndrio** (camada regeneradora externa)?",
+    "opcoes": [
+      "A) Cartilagem Articular e Fibrocartilagem.",
+      "B) Cartilagem da Orelha e Traqueia.",
+      "C) Septo Nasal e Epiglote.",
+      "D) Discos Intervertebrais e Costelas."
+    ],
+    "explicacao_geral": "Anatomia microscópica e ausência de reparo pericondral.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O pericôndrio traria atrito para a junta (articular) e a fibrocartilagem já é uma transição para o tecido conjuntivo denso, não necessitando dele."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 969,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente com desgaste moderado de cartilagem no joelho (Artrose) não sente dor ao caminhar no início, mas a dor torna-se insuportável quando a lesão atinge o osso. Qual a justificativa histológica para a ausência de dor inicial?",
+    "opcoes": [
+      "A) A cartilagem é rica em nervos motores, mas pobre em sensoriais.",
+      "B) O cérebro ignora a dor de tecidos moles.",
+      "C) A cartilagem é anervada; a dor só surge quando o osso subcondral (muito inervado) fica exposto e sofre compressão.",
+      "D) A cartilagem produz sua própria anestesia (sinovialina)."
+    ],
+    "explicacao_geral": "Clínica da artropatia degenerativa.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O tecido cartilaginoso íntegro não possui terminações nervosas. A dor da 'artrose' é na verdade dor óssea e inflamação da membrana sinovial."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 970,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um bebê apresenta estridores (barulhos) ao respirar que pioram quando chora. O diagnóstico é **Traqueomalácia**, caracterizada pelo amolecimento dos anéis da traqueia. Qual tecido básico está falhando nesse cenário?",
+    "opcoes": [
+      "A) Tecido Muscular Liso.",
+      "B) Tecido Cartilaginoso Hialino, que deveria manter a via aérea aberta através de sua rigidez elástica.",
+      "C) Tecido Adiposo Peritraqueal.",
+      "D) Tecido Epitelial Ciliado."
+    ],
+    "explicacao_geral": "A função estrutural da hialina nas vias aéreas.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Hialina** provê o arcabouço rígido que impede a traqueia de murchar durante a inspiração. Se a matriz for muito mole, a traqueia colapsa."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 971,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Diferencie histologicamente um **Menisco** (joelho) de uma **Epiglote** (garganta) quanto à sua composição de fibras:",
+    "opcoes": [
+      "A) Ambos são feitos de fibras nervosas puras.",
+      "B) Menisco tem elastina e Epiglote tem colágeno tipo II.",
+      "C) Epiglote tem colágeno tipo I e Menisco tem gordura.",
+      "D) Menisco (Fibrocartilagem) possui feixes densos de Colágeno Tipo I; Epiglote (Elástica) apresenta abundantes fibras de Elastina**."
+    ],
+    "explicacao_geral": "Morfologia funcional das cartilagens especiais.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O menisco precisa resistir a toneladas de peso (Tipo I); a epiglote precisa ser flexível para fechar a via aérea durante a deglutição (Elastina)."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 972,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O disco intervertebral é uma articulação do tipo sínfise fundamental para o amortecimento de carga. De qual estrutura se origina a **Hérnia de Disco** quando o anel fibroso se rompe?",
+    "opcoes": [
+      "A) Do ligamento amarelo.",
+      "B) Do Núcleo Pulposo (conteúdo gelatinoso central).",
+      "C) Da cartilagem hialina das facetas.",
+      "D) Do processo espinhoso da vértebra."
+    ],
+    "explicacao_geral": "A hérnia de disco é a extrusão do material central do disco.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Núcleo Pulposo** é comprimido e 'pula' para fora através das fissuras no anel fibroso, podendo comprimir raízes nervosas."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 973,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A articulação **Atlantoaxial** (entre C1 e C2) é o único nível da coluna sem disco intervertebral e é classificada como **Trocoide (Pivô)**. Qual o movimento principal dessa articulação?",
+    "opcoes": [
+      "A) Flexão lateral extrema.",
+      "B) Flexão e Extensão (movimento de Sim).",
+      "C) Deslizamento mudo.",
+      "D) Rotação da cabeça (movimento de 'Não')."
+    ],
+    "explicacao_geral": "Anatomia funcional da coluna cervical alta.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O processo odontoide de C2 serve de pivô para que o Atlas gire, permitindo a rotação lateral da cabeça."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 974,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O **Ligamento Cruzado Anterior (LCA)** é vital para a estabilidade do joelho durante a marcha e o esporte. Qual o movimento específico que este ligamento impede?",
+    "opcoes": [
+      "A) O deslizamento anterior da Tíbia em relação ao Fêmur.",
+      "B) O deslizamento posterior da Tíbia.",
+      "C) A flexão excessiva do joelho.",
+      "D) A rotação do quadril."
+    ],
+    "explicacao_geral": "Cinemática ligamentar do joelho.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O LCA segura a tíbia como uma 'rede', impedindo que ela avance para frente do fêmur (sinal da gaveta anterior)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 975,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "As vértebras da coluna articulam-se entre si em dois locais distintos por nível. Como se classificam estruturalmente as articulações entre os **corpos** (frente) e entre os **arcos** (trás/facetas)?",
+    "opcoes": [
+      "A) Ambas são Sinoviais.",
+      "B) Ambas são Fibrosas.",
+      "C) Cartilaginosa (Sínfise) entre os corpos e Sinovial (Facetária) entre os processos articulares superiores e inferiores.",
+      "D) Sinovial entre os corpos e Fibrosa entre os arcos."
+    ],
+    "explicacao_geral": "A coluna possui um sistema duplo de união: um para carga (discos) e outro para guiar movimento (facetas).",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Na frente temos os discos (sínfises); atrás temos as facetas (sinoviais zigapofisárias), que permitem o deslizamento."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 976,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A maioria dos entorses de tornozelo ocorre por um mecanismo de **Inversão** (virar a planta do pé para dentro). Qual complexo ligamentar é o mais frequentemente lesionado nesse trauma?",
+    "opcoes": [
+      "A) Ligamentos Laterais (ex: Talofibular Anterior).",
+      "B) Ligamento Deltoide (Medial).",
+      "C) Tendão de Aquiles.",
+      "D) Ligamento Cruzado Posterior."
+    ],
+    "explicacao_geral": "Mecanismo de entorse de tornozelo.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Ao virar o pé 'para dentro', o lado de fora (lateral) é esticado ao limite, rompendo os ligamentos laterais mais frágeis."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 977,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O Ombro e o Quadril são ambas articulações Esferoides (bola e soquete). Por que o Quadril raramente luxa em comparação com o Ombro?",
+    "opcoes": [
+      "A) Porque o fêmur é mais comprido.",
+      "B) Devido à profundidade do Acetábulo e à forte contenção ligamentar, priorizando estabilidade sobre mobilidade extrema.",
+      "C) Porque o ombro não tem cápsula articular.",
+      "D) Porque no quadril o líquido sinovial é colante como mel."
+    ],
+    "explicacao_geral": "Oencaixe ósseo é o principal fator de estabilidade estabilidade passiva.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O acetábulo 'abraça' a cabeça do fêmur quase totalmente, enquanto a glenoide (ombro) é rasa como um pires."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 978,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual a função fundamental dos **Meniscos** no complexo articular do joelho?",
+    "opcoes": [
+      "A) Fabricar o líquido que amolece o osso.",
+      "B) Impedir que o sangue chegue à articulação.",
+      "C) Servir como alavanca para o músculo quadríceps.",
+      "D) Distribuir o peso do corpo uniformemente sobre o platô tibial e amolecer o impacto entre os ossos."
+    ],
+    "explicacao_geral": "Os meniscos são coxins de fibrocartilagem que protegem a hialina.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Sem os meniscos, toda a carga do fêmur seria concentrada em pequenos pontos da tíbia, destruindo rapidamente a cartilagem hialina."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 979,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Atleta de futebol sofre entorse de joelho com estalido. No exame físico, o médico realiza o **Teste de Lachman**, puxando a tíbia para frente. O teste é positivo (a tíbia avança excessivamente). Qual a sua principal hipótese diagnóstica?",
+    "opcoes": [
+      "A) Ruptura do Ligamento Cruzado Anterior (LCA).",
+      "B) Ruptura do Tendão Patelar.",
+      "C) Fratura de Patela.",
+      "D) Lesão isolada de menisco lateral."
+    ],
+    "explicacao_geral": "Aplicação clínica de testes de estabilidade do joelho.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O teste de Lachman (e a gaveta anterior) avaliam a competência do **LCA** em conter o deslocamento anterior da tíbia."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 980,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente queixa-se de dor lombar e perda de força no pé direito. A RNM mostra que o conteúdo central gelatinoso do disco entre L4-L5 escapou e está 'pinçando' uma raiz nervosa. Qual o nome deste evento anatômico?",
+    "opcoes": [
+      "A) Artrite Reumatoide vertebral.",
+      "B) Esclerose lateral amiotrófica.",
+      "C) Hérnia de Disco Lombar com compressão radicular.",
+      "D) Sinovite transitória do quadril."
+    ],
+    "explicacao_geral": "Mecanismo da dor radicular (ciática).",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A extrusão do núcleo pulposo (**hérnia**) invade o espaço do forame intervertebral e comprime quimicamente e mecanicamente o nervo."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 981,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Um jovem 'desloca' o ombro (luxação anterior) pela terceira vez no ano ao lançar uma bola. Por que a articulação glenoumeral é o local mais comum desse evento no corpo?",
+    "opcoes": [
+      "A) Porque os ligamentos do braço são gordurosos.",
+      "B) Devido à grande amplitude de movimento (Esferoide triaxial) aliada a uma cavidade glenoide rasa, sendo uma articulação inerentemente instável que depende de partes moles.",
+      "C) Porque o ombro não possui músculos ao seu redor.",
+      "D) Porque a ulna é mais fraca que o úmero."
+    ],
+    "explicacao_geral": "Instabilidade mecânica do membro superior.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Em anatomia, você não pode ter mobilidade 360º e estabilidade absoluta ao mesmo tempo. O ombro é o extremo de mobilidade (frágil)."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 982,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Para garantir a transmissão eficiente da força muscular ao osso, o músculo é revestido por camadas de tecido conjuntivo. Relacione corretamente o nível de organização com seu respectivo envoltório:",
+    "opcoes": [
+      "A) Fascículo - Endomísio; Fibra - Perimísio; Órgão - Epimísio.",
+      "B) Fibra (Célula) - Endomísio; Fascículo - Perimísio; Ventre Muscular - Epimísio.",
+      "C) Órgão - Endomísio; Fibra - Epimísio.",
+      "D) Tendão - Perimísio; Aponeurose - Endomísio."
+    ],
+    "explicacao_geral": "Os envoltórios conjuntivos (fáscias profundas) organizam a mecânica muscular.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O **Endomísio** envolve a célula individual; o **Perimísio** agrupa as células em fascículos; o **Epimísio** envolve o conjunto global (ventre)."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 983,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As fibras musculares são classificadas metabolica e mecanicamente em **Tipo I** e **Tipo II**. Qual a principal característica da **Fibra Tipo I** (Vermelha)?",
+    "opcoes": [
+      "A) Contração extremamente rápida e dependente de glicose (explosão).",
+      "B) Grande diâmetro e alta produção de ácido lático.",
+      "C) Alta resistência à fadiga, rica em mioglobina e mitocôndrias (aeróbica/postural).",
+      "D) Incapaz de realizar contração muscular voluntária."
+    ],
+    "explicacao_geral": "Fisiologia das fibras de contração lenta.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] As fibras **Tipo I** são lentas e oxidativas, ideais para manter a postura corporal por longas horas sem cansar."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 984,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A verdadeira unidade funcional do sistema muscular, responsável pela coordenação motora fina ou bruta, é a **Unidade Motora**. Como ela é definida?",
+    "opcoes": [
+      "A) Um único neurônio motor + todas as fibras musculares que ele inerva.",
+      "B) O conjunto de todos os músculos de um único braço.",
+      "C) A zona de contato entre o osso e o tendão.",
+      "D) Uma única fibra muscular que trabalha sozinha e sem nervo."
+    ],
+    "explicacao_geral": "Conceito de unidade motora.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Quando um neurônio motor dispara, **todas** as fibras daquela unidade motora contraem simultaneamente."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 985,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A arquitetura do músculo dita sua função. Por que os músculos **Penados** (com fibras em ângulo, como uma pena) são proporcionalmente mais fortes que os músculos de fibras paralelas (fusiformes)?",
+    "opcoes": [
+      "A) Porque as fibras penadas são mais longas.",
+      "B) Porque o arranjo penado permite 'empacotar' um número muito maior de fibras no mesmo espaço, aumentando a área de secção transversa fisiológica.",
+      "C) Porque as fibras penadas não precisam de sangue.",
+      "D) Porque músculos penados são sempre biarticulares."
+    ],
+    "explicacao_geral": "Morfologia funcional muscular.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Mais fibras agindo em paralelo significam maior capacidade de gerar torque (força bruta), enquanto os fusiformes ganham em velocidade e amplitude."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 986,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Durante uma atividade física, o músculo pode realizar diferentes tipos de trabalho isotônico. Qual fase da contração é a mais associada a lesões por **estiramento** e dor muscular tardia?",
+    "opcoes": [
+      "A) Contração Isométrica (comprimento parado).",
+      "B) Contração Concêntrica (o músculo encurta ao vencer o peso).",
+      "C) Ativação do tônus basal de repouso.",
+      "D) Contração Excêntrica (o músculo faz força enquanto é alongado pela carga/freio)."
+    ],
+    "explicacao_geral": "Biofísica da lesão muscular.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A fase **excêntrica** (descida do peso) gera maiores tensões por sarcômero, facilitando microlesões e roturas macroscópicas."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 987,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Durante a flexão do cotovelo, o músculo Bíceps Braquial é o agente principal. Qual a classificação funcional do músculo Tríceps Braquial, que realiza a ação contrária para estabilizar o movimento?",
+    "opcoes": [
+      "A) Sinergista.",
+      "B) Agonista principal.",
+      "C) Antagonista.",
+      "D) Fixador da escápula apenas."
+    ],
+    "explicacao_geral": "Dinâmica muscular coordenada.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] O **Antagonista** é o músculo que se opõe ao movimento do agonista, permitindo um movimento controlado e protegendo a articulação."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 988,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual a diferença anatômica e funcional entre um **Tendão** e uma **Aponeurose**?",
+    "opcoes": [
+      "A) O Tendão é cilíndrico/cordão (concentra força); a Aponeurose é uma lâmina/lençol flat (espalha a força).",
+      "B) Tendão é osso e Aponeurose é pele.",
+      "C) Tendão só existe no braço e Aponeurose só no pé.",
+      "D) Não há diferença; são apenas nomes para a mesma estrutura conjuntiva."
+    ],
+    "explicacao_geral": "Elementos de transmissão de força muscular.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O design depende da necessidade mecânica: áreas de parede larga (como abdome) usam **aponeuroses** para distribuir a tração."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 989,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente apresenta trauma de esmagamento na perna. Horas depois, a perna está extremamente inchada, dura, e ele não sente mais o pulso no pé. O cirurgião indica uma **Fasciotomia**. Qual o objetivo anatômico deste procedimento?",
+    "opcoes": [
+      "A) Retirar o osso quebrado para diminuir o peso.",
+      "B) Cortar a Fáscia rígida para aliviar a pressão interna do compartimento, que está esmagando vasos e nervos (Síndrome Compartimental).",
+      "C) Costurar o músculo que rasgou.",
+      "D) Remover a pele para que o músculo respire melhor através do ar."
+    ],
+    "explicacao_geral": "Emergência vascular e fáscia inelástica.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Fáscia** é inelástica; se o músculo sangra ou incha no compartimento, a pressão sobe rápido. Abrir a fáscia salva o membro da necrose."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 990,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um corredor de trilha sente uma dor aguda na panturrilha durante a fase de descida de uma montanha (fase de freio). Qual tipo de trabalho muscular estava sendo realizado no momento da lesão?",
+    "opcoes": [
+      "A) Contração concêntrica pura.",
+      "B) Isometria máxima.",
+      "C) Trabalho Excêntrico (o músculo tríceps sural alongava-se sob carga para frear o corpo).",
+      "D) Relaxamento total do membro."
+    ],
+    "explicacao_geral": "Análise da biomecânica da lesão esportiva.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A descida exige controle **excêntrico** dos flexores plantares, que é o gatilho clássico para distensões musculares."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 991,
+    "categoria": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Um paciente fica acamado por 4 semanas após uma cirurgia complexa. Ao tentar se levantar, percebe que suas pernas estão visivelmente mais finas e ele não tem força. Histologicamente, o que explica essa perda de massa?",
+    "opcoes": [
+      "A) O músculo transformou-se em cartilagem hialina.",
+      "B) As células musculares morreram todas e foram substituídas por osso.",
+      "C) Os tendões mudaram de posição espontaneamente.",
+      "D) Atrofia por Desuso, com redução do tamanho da fibra muscular (miócito) e perda de proteínas contráteis pela falta de recrutamento mecânico."
+    ],
+    "explicacao_geral": "Impacto da imobilização no tecido contrátil.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Sem estímulo das unidades motoras, o músculo degrada suas proteínas para economizar energia, resultando em atrofia clínica visível."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 992,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Durante a contração do sarcômero (teoria do deslizamento), quais bandas ou zonas sofrem alteração de comprimento visível ao microscópio?",
+    "opcoes": [
+      "A) Apenas a Banda A encurta significativamente.",
+      "B) A Banda I e a Zona H encurtam, enquanto a Banda A permanece com comprimento fixo.",
+      "C) Todas as bandas encurtam na mesma proporção.",
+      "D) Nenhuma banda muda de tamanho; apenas o osso se move."
+    ],
+    "explicacao_geral": "Diferenciação das bandas do sarcômero na contração.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A **Banda I** (actina) e a **Zona H** (espaço central) encurtam à medida que os filamentos deslizam. A **Banda A** (comprimento da miosina) nunca muda de tamanho."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 993,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No músculo estriado esquelético, a estrutura conhecida como **Tríade** é fundamental para o acoplamento excitação-contração. De que ela é composta?",
+    "opcoes": [
+      "A) Três sarcômeros em série.",
+      "B) Um núcleo, uma mitocôndria e um ribossomo.",
+      "C) Dois Túbulos T e uma cisterna de retículo.",
+      "D) Um Túbulo T ladeado por duas cisternas terminais do Retículo Sarcoplasmático."
+    ],
+    "explicacao_geral": "A tríade garante que o sinal elétrico libere o cálcio estocado.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O **Túbulo T** traz a despolarização para o interior da célula, estimulando as cisternas do **Retículo Sarcoplasmático** a liberarem Cálcio."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 994,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual característica histológica é **exclusiva** do músculo estriado cardíaco e permite que as células funcionem como um 'sincício funcional'?",
+    "opcoes": [
+      "A) Discos Intercalados (contendo junções comunicantes/gap).",
+      "B) Núcleos periféricos e múltiplos.",
+      "C) Ausência total de mitocôndrias.",
+      "D) Presença de placas motoras voluntárias."
+    ],
+    "explicacao_geral": "Morfologia do miocárdio.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Os **Discos Intercalados** unem as células cardíacas, e suas **junções gap** permitem a passagem instantânea de íons para a contração coordenada."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 995,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Ao analisar uma lâmina de músculo ao microscópio, você observa fibras longas, cilíndricas, com estriações transversais e **múltiplos núcleos localizados na periferia**. Qual o diagnóstico histológico?",
+    "opcoes": [
+      "A) Músculo liso intestinal.",
+      "B) Músculo cardíaco ventricular.",
+      "C) Músculo estriado esquelético.",
+      "D) Tecido conjuntivo denso modelado."
+    ],
+    "explicacao_geral": "Critérios de identificação histológica de base.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A multinucleação periférica é um marco patognomônico do **músculo esquelético**."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 996,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual o papel biomecânico fundamental do **Cálcio** no início da contração muscular esquelética?",
+    "opcoes": [
+      "A) Fornecer energia direta para a quebra do ATP.",
+      "B) Fabricar novas fibras de actina.",
+      "C) Expulsar o sódio de dentro da célula nervosa.",
+      "D) Ligar-se à Troponina, provocando o deslocamento da Tropomiosina e expondo os sítios de ligação na actina."
+    ],
+    "explicacao_geral": "Histoquímica da contração.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] O Cálcio é a chave que 'abre a porta' (afasta a tropomiosina) para que a miosina possa morder a actina."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 997,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O músculo **Liso** não apresenta as estrias típicas dos outros músculos porque não possui sarcômeros alinhados. Onde os filamentos de actina se ancoram nestas células?",
+    "opcoes": [
+      "A) Nos Discos Z periféricos.",
+      "B) Nos Corpos Densos (homólogos citoplasmáticos dos Discos Z).",
+      "C) Diretamente no núcleo da célula.",
+      "D) Nos discos intercalados."
+    ],
+    "explicacao_geral": "Anatomia microscópica do músculo liso.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] Os **Corpos Densos** servem como pontos de ancoragem para a rede de filamentos no músculo liso, permitindo a contração 'em saco'."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 998,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Por que o músculo liso é considerado o mais eficiente para o controle da pressão arterial (tônus vascular) em comparação ao esquelético?",
+    "opcoes": [
+      "A) Pela sua capacidade de realizar contrações lentas e sustentadas com baixíssimo consumo de energia (ATP), sem fadigar.",
+      "B) Porque ele contrai mais rápido que o cardíaco.",
+      "C) Por possuir trilhões de núcleos por célula.",
+      "D) Porque ele não depende de cálcio para contrair."
+    ],
+    "explicacao_geral": "Funcionalidade do tecido visceral.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O músculo liso é otimizado para resistência e manutenção de tônus permanente, ao contrário da explosão do esquelético."
+    },
+    "caso_clinico": false,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 999,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Paciente resgatado de esmagamento apresenta urina escura (cor de coca-cola) e insuficiência renal. O médico suspeita de lesão muscular maciça. Qual proteína histológica, responsável pelo transporte de oxigênio no músculo, está causando a toxicidade renal?",
+    "opcoes": [
+      "A) Hemoglobina.",
+      "B) Albúmina.",
+      "C) Mioglobina.",
+      "D) Creatinina pura."
+    ],
+    "explicacao_geral": "Impacto clínico da rabdomiólise.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A **Mioglobina** vaza do citoplasma da fibra lesada e cristaliza nos túbulos renais, causando lesão aguda grave."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  },
+  {
+    "id": 1000,
+    "category": "inedita",
+    "materia": "bmf1",
+    "tema": "bmf1_a11",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A **Distrofia Muscular de Duchenne** é uma doença genética grave que leva à fraqueza progressiva. Qual a base histopatológica desta doença?",
+    "opcoes": [
+      "A) Excesso de cálcio que queima o músculo.",
+      "B) Destruição dos nervos periféricos (doença neurológica).",
+      "C) Substituição do músculo por cartilagem elástica.",
+      "D) Ausência da proteína Distrofina, que deveria ancorar o citoesqueleto da fibra à matriz extracelular, causando rompimento da membrana nas contrações."
+    ],
+    "explicacao_geral": "Correlação clínica de biologia celular muscular.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] Sem a **Distrofina**, a fibra muscular 'estoura' cada vez que faz força, sendo substituída por tecido adiposo e fibroso ao longo do tempo."
+    },
+    "caso_clinico": true,
+    "aula_id": "bmf1_a11"
+  }
+]

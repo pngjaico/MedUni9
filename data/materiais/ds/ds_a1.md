@@ -2,7 +2,7 @@
 
 Os desafios socioambientais não são apenas temas de jornais; eles mudam como as pessoas adoecem. Na prova, o tema central é entender como as **Mudanças Climáticas**, a **Poluição** e a **Falta de Saneamento** criam uma "bola de neve" que sobrecarrega o SUS e aumenta a mortalidade, especialmente entre os mais pobres.
 
-Na prática, o médico deve entender que o ambiente onde o paciente vive (se tem esgoto, se mora perto de lixão ou se sofre com enchentes) é o que define se ele vai se recuperar ou ficar doente de novo.
+Na prática, o médico deve entender que o ambiente onde o paciente vive (se tem **esgoto**, se mora perto de **lixão** ou se sofre com **enchentes**) é o que define se ele vai se recuperar ou ficar doente de novo.
 
 ---
 
@@ -18,17 +18,17 @@ Na prática, o médico deve entender que o ambiente onde o paciente vive (se tem
 ## 1. Mudanças Climáticas (O multiplicador de riscos)
 
 O clima extremo não mata apenas no momento da tragédia. Ele gera:
-- **Calor Extremo:** Aumenta infartos, AVCs e desidratação em idosos.
-- **Enchentes:** Trazem leptospirose, diarreia e hepatite A.
-- **Secas:** Pioram a qualidade do ar (queimadas) e causam doenças respiratórias.
+- **Calor Extremo:** Aumenta **infartos**, **AVCs** e desidratação em idosos.
+- **Enchentes:** Trazem **leptospirose**, **diarreia** e **hepatite A**.
+- **Secas:** Pioram a qualidade do ar (**queimadas**) e causam doenças respiratórias.
 - **Deslocados Ambientais:** Pessoas que perdem a casa e acabam em abrigos, onde doenças se espalham mais rápido.
 
 ---
 
 ## 2. Poluição e Saneamento
 
-- **Poluição do Ar:** É a principal causa "invisível" de asma, DPOC e câncer de pulmão nas grandes cidades.
-- **Saneamento Básico:** É a base da saúde pública. Sem água tratada e esgoto, as crianças vivem em um ciclo eterno de verminoses e diarreias que atrasam seu crescimento.
+- **Poluição do Ar:** É a principal causa "invisível" de **asma**, **DPOC** e **câncer de pulmão** nas grandes cidades.
+- **Saneamento Básico:** É a base da saúde pública. Sem **água tratada** e **esgoto**, as crianças vivem em um ciclo eterno de **verminoses** e **diarreias** que atrasam seu crescimento.
 - **Regra de Ouro:** Investir 1 real em saneamento economiza 4 reais no tratamento de doenças no hospital.
 
 ---
@@ -36,8 +36,8 @@ O clima extremo não mata apenas no momento da tragédia. Ele gera:
 ## 3. Urbanização Desigual e Iniquidade
 
 O problema não é morar na cidade, mas morar em cidades onde a infraestrutura não chega para todos.
-- **Ilhas de Calor:** Áreas sem árvores (periferias) são muito mais quentes que bairros nobres.
-- **Áreas de Risco:** Pessoas pobres moram em encostas ou beira de rio, ficando mais expostas a deslizamentos.
+- **Ilhas de Calor:** Áreas sem árvores (**periferias**) são muito mais quentes que bairros nobres.
+- **Áreas de Risco:** Pessoas pobres moram em **encostas** ou **beira de rio**, ficando mais expostas a deslizamentos.
 - **Iniquidade:** É a diferença **injusta** e **evitável**. Se o rico e o pobre sofrem com a mesma chuva, mas o pobre perde a casa e adoece, há iniquidade.
 
 ---
@@ -82,10 +82,10 @@ Diferencie **Igualdade** (dar o mesmo para todos) de **Equidade** (priorizar que
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Igualdade** | **Equidade** | Dar igual vs **Dar conforme a necessidade** |
-| **Doença Infectocontagiosa** | **Doença Crônica** | Curto prazo (Ex: Dengue) vs **Longo prazo (Ex: DPOC)** |
-| **Impacto Direto** | **Impacto Indireto** | Trauma/Queimadura vs **Falta de água/Comida** |
-| **Saneamento** | **Assistência Médica** | Evita que adoeça vs **Trata quem já adoeceu** |
-| **Urbanização** | **Gentrificação** | Crescimento da cidade vs **Expulsão de pobres para periferias** |
+| **Doença Infectocontagiosa** | **Doença Crônica** | Curto prazo (Ex: **Dengue**) vs Longo prazo (Ex: **DPOC**) |
+| **Impacto Direto** | **Impacto Indireto** | **Trauma/Queimadura** vs Falta de água/Comida |
+| **Saneamento** | **Assistência Médica** | **Evita que adoeça** vs Trata quem já adoeceu |
+| **Urbanização** | **Gentrificação** | Crescimento da cidade vs **Expulsão de pobres** para periferias |
 
 ### Frase-âncora para não esquecer
 

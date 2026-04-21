@@ -9,7 +9,7 @@
 
 A regulação da Pressão Arterial (PA) é um dos sistemas mais dinâmicos e refinados do corpo humano. Compreender como o sistema nervoso e os rins coordenam o fluxo sanguíneo é vital para entender a fisiopatologia da **Hipertensão**, da **Insuficiência Cardíaca** e dos diversos tipos de **Choque**.
 
-Na prática clínica, quase todas as medicações cardiovasculares atuam em algum ponto desta aula: dos beta-bloqueadores que modulam a inervação simpática aos IECA/BRA que bloqueiam o eixo hormonal renal. Dominar esses mecanismos permite ao aluno não apenas decorar nomes, mas prever como o corpo de um paciente responderá a uma hemorragia ou a uma crise de ansiedade.
+Na prática clínica, quase todas as medicações cardiovasculares atuam em algum ponto desta aula: dos **beta-bloqueadores** que modulam a inervação simpática aos **IECA/BRA** que bloqueiam o eixo hormonal renal. Dominar esses mecanismos permite ao aluno não apenas decorar nomes, mas prever como o corpo de um paciente responderá a uma hemorragia ou a uma crise de ansiedade.
 
 ---
 
@@ -17,7 +17,7 @@ Na prática clínica, quase todas as medicações cardiovasculares atuam em algu
 
 O coração possui uma ritmicidade intrínseca, mas sua modulação momento a momento depende do equilíbrio entre os sistemas simpático e parassimpático. O **Sistema Simpático**, via nervos espinais, libera noradrenalina que atua em receptores **Beta-1**, resultando em um aumento global da performance: acelera o ritmo (cronotropismo), aumenta a força (inotropismo) e agiliza a condução (dromotropismo).
 
-Em contrapartida, o **Sistema Parassimpático** atua através do **Nervo Vago** (X par craniano). Sua liberação de acetilcolina atinge principalmente os nódulos SA e AV, agindo como um freio que reduz a frequência cardíaca e retarda a condução elétrica. Em repouso, o tônus vagal é predominante; por isso, nossa frequência cardíaca basal é significativamente menor do que a frequência natural do marcapasso cardíaco isolado.
+Em contrapartida, o **Sistema Parassimpático** atua através do **Nervo Vago** (X par craniano). Sua liberação de acetilcolina atinge principalmente os nódulos SA e AV, agindo como um freio que reduz a frequência cardíaca e retarda a condução elétrica. Em repouso, o **tônus vagal** é predominante; por isso, nossa frequência cardíaca basal é significativamente menor do que a frequência natural do marcapasso cardíaco isolado.
 
 ### Tabela: Efeitos Autonômicos no Coração
 
@@ -25,7 +25,7 @@ Em contrapartida, o **Sistema Parassimpático** atua através do **Nervo Vago** 
 |-------------|----------------------------|----------------------------|
 | **Cronotropismo** | Aumenta FC | Diminui FC |
 | **Inotropismo** | Aumenta Força | Diminui Força (discreto em átrios) |
-| **Dromotropismo** | Condução AV mais rápida | Condução AV mais lenta |
+| **Dromotropismo** | **Condução AV mais rápida** | **Condução AV mais lenta** |
 | **Lusitropismo** | Relaxamento mais rápido | Sem efeito relevante |
 
 ---
@@ -34,14 +34,14 @@ Em contrapartida, o **Sistema Parassimpático** atua através do **Nervo Vago** 
 
 A Pressão Arterial é regida por uma relação matemática fundamental: **PA = Débito Cardíaco (DC) x Resistência Vascular Periférica (RVP)**. Qualquer alteração em um desses braços exige uma resposta compensatória do outro para manter a perfusão dos órgãos vitais.
 
-A regulação ocorre em diferentes janelas temporais. O controle de **Curto Prazo (Segundos)** é mediado pelo **Sistema Nervoso** através do reflexo barorreceptor: sensores no seio carotídeo e arco aórtico detectam mudanças no estiramento da parede arterial e ajustam o tônus autonômico instantaneamente. Já o controle de **Longo Prazo (Horas a Dias)** é mediado pelo **Rim e Hormônios**, com destaque para o sistema **Renina-Angiotensina-Aldosterona (SRAA)**, que retém sódio e água para aumentar o volume sanguíneo e a pressão de forma sustentada.
+A regulação ocorre em diferentes janelas temporais. O controle de **Curto Prazo (Segundos)** é mediado pelo **Sistema Nervoso** através do **reflexo barorreceptor**: sensores no seio carotídeo e arco aórtico detectam mudanças no estiramento da parede arterial e ajustam o tônus autonômico instantaneamente. Já o controle de **Longo Prazo (Horas a Dias)** é mediado pelo **Rim e Hormônios**, com destaque para o sistema **Renina-Angiotensina-Aldosterona (SRAA)**, que retém sódio e água para aumentar o volume sanguíneo e a pressão de forma sustentada.
 
 ### Comparativo: Neural vs Humoral
 
 | Mecanismo | Velocidade | Principal Ator | Efeito Final |
 |-----------|------------|----------------|--------------|
-| **Neural** | Ultrarrápida | Barorreceptores | Ajuste de FC e Vasomotricidade |
-| **Humoral** | Lenta / Sustentada| Renina / Aldosterona | Ajuste de Volemia (Sódio/Água) |
+| **Neural** | Ultrarrápida | **Barorreceptores** | Ajuste de FC e Vasomotricidade |
+| **Humoral** | Lenta / Sustentada| **Renina / Aldosterona** | Ajuste de **Volemia** (Sódio/Água) |
 
 ---
 
@@ -77,7 +77,7 @@ Lembre-se das terminologias técnicas: **Cronotropismo** (Frequência), **Inotro
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Barorreceptor** | **Quimiorreceptor** | Lê **Pressão** (estiramento) vs Lê **Química** (O2, CO2, pH) |
-| **Angiotensina II** | **Aldosterona** | Vasoconstrição potente vs Retenção de Sódio/Água |
+| **Angiotensina II** | **Aldosterona** | **Vasoconstrição potente** vs **Retenção de Sódio/Água** |
 | **Nervo Vago** | **Simpático** | Sobra em **Repouso** vs Sobra em **Estresse/Exercício** |
 | **PAM** | **Sistólica/Diastólica** | Média de perfusão vs Picos de pressão do ciclo |
 

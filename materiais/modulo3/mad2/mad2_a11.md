@@ -1,8 +1,8 @@
 # MAD2 — Aula 11: Infecções Virais do SNC — Poliovírus
 
-O Poliovírus é um exemplo clássico de como uma infecção que começa no intestino pode terminar em paralisia permanente. Na prova, os temas centrais são a **Transmissão Fecal-Oral**, o padrão de **Paralisia Flácida Aguda** (que ataca o neurônio motor inferior) e as diferenças entre as vacinas **Salk (VIP)** e **Sabin (VOP)**.
+O Poliovírus é um exemplo clássico de como uma infecção que começa no intestino pode terminar em paralisia permanente. Na prova, os temas centrais são a **Transmissão Fecal-Oral**, o padrão de **Paralisia Flácida Aguda** (que ataca o **neurônio motor inferior**) e as diferenças entre as vacinas **Salk (VIP)** e **Sabin (VOP)**.
 
-Na prática, embora a pólio esteja erradicada no Brasil, o risco de reintrodução devido à baixa cobertura vacinal é real, e o médico deve saber identificar uma paralisia súbita para notificar as autoridades imediatamente.
+Na prática, embora a pólio esteja erradicada no Brasil, o risco de reintrodução devido à baixa cobertura vacinal é real, e o médico deve saber identificar uma **paralisia súbita** para notificar as autoridades imediatamente.
 
 ---
 
@@ -20,28 +20,28 @@ Na prática, embora a pólio esteja erradicada no Brasil, o risco de reintroduç
 Diferente do que muitos pensam, a pólio é um **Enterovírus**.
 - **Porta de Entrada:** Ingestão de água ou alimentos contaminados (**Fecal-Oral**).
 - **Replicação:** O vírus se multiplica na garganta e no intestino. A imensa maioria das pessoas (90-95%) não sente nada ou tem apenas uma leve diarreia.
-- **Viremia:** Em poucos casos, o vírus cai no sangue e decide "viajar" até o sistema nervoso.
+- **Viremia:** Em poucos casos, o vírus cai no **sangue** e decide "viajar" até o sistema nervoso.
 
 ---
 
 ## 2. A Poliomielite Paralítica
 
 Quando o vírus atinge o sistema nervoso, ele tem um alvo específico: o **Neurônio Motor Inferior**.
-- **A Lesão:** O vírus destrói as células do corno anterior da medula. Sem essas células, o músculo não recebe mais comando elétrico.
+- **A Lesão:** O vírus destrói as células do **corno anterior da medula**. Sem essas células, o músculo não recebe mais comando elétrico.
 - **O Quadro Clínico:** Causa uma **Paralisia Flácida Aguda**. As características são:
     - **Assimetria:** Geralmente ataca mais uma perna do que a outra.
     - **Hiporreflexia/Arreflexia:** Os reflexos (como o do joelhinho) somem.
     - **Sensibilidade Preservada:** O paciente **SENTE** o toque e a dor, mas **NÃO CONSEGUE MOVER** o membro.
-- **Poliomielite Bulbar:** É a forma mais grave, atingindo os nervos que controlam a respiração e a deglutição.
+- **Poliomielite Bulbar:** É a forma mais grave, atingindo os nervos que controlam a **respiração** e a **deglutição**.
 
 ---
 
 ## 3. As Armas de Prevenção: VIP vs VOP
 
 Este é o ponto que a Uninove mais ama cobrar em provas de saúde pública:
-- **VIP (Salk/Inativada):** Vírus morto, aplicada por **Injeção**. É a mais segura, não causa doença. É a usada nas primeiras doses da criança.
-- **VOP (Sabin/Atenuada):** Vírus vivo "enfraquecido", aplicada por **Gotinha**. É ótima para campanhas porque o vírus vacinal é eliminado nas fezes e acaba vacinando indiretamente outras crianças (imunidade de rebanho).
-- **Risco da VOP:** Em casos raríssimos, o vírus da gotinha pode sofrer mutação e causar a própria paralisia. Por isso, o mundo está trocando a gotinha pela injeção.
+- **VIP (Salk/Inativada):** **Vírus morto**, aplicada por **Injeção**. É a mais segura, não causa doença. É a usada nas primeiras doses da criança.
+- **VOP (Sabin/Atenuada):** **Vírus vivo "enfraquecido"**, aplicada por **Gotinha**. É ótima para campanhas porque o vírus vacinal é eliminado nas fezes e acaba vacinando indiretamente outras crianças (**imunidade de rebanho**).
+- **Risco da VOP:** Em casos raríssimos, o vírus da gotinha pode sofrer mutação e causar a própria paralisia. Por isso, o mundo está trocando a **gotinha pela injeção**.
 
 ---
 
@@ -88,7 +88,7 @@ A Uninove adora cobrar sobre a **Vacina**. Grave isso: As primeiras doses (2, 4 
 | **VIP (Salk)** | **VOP (Sabin)** | Vírus **Morto** (Segura) vs Vírus **Vivo** (Imunidade de rebanho) |
 | **Neurônio Motor Superior** | **Neurônio Motor Inferior** | Paralisia **Espástica** (dura) vs Paralisia **Flácida** (mole) |
 | **Fase Intestinal** | **Fase Neurológica** | Ocorre em **95% dos infectados** vs Ocorre em **< 1%** |
-| **Erradicação** | **Eliminação** | Vírus sumiu do **Mundo** (só Pólio 2 e 3) vs Vírus sumiu de **Um local** |
+| **Erradicação** | **Eliminação** | Vírus sumiu do **Mundo** vs Vírus sumiu de **Um local** |
 
 ### Frase-âncora para não esquecer
 

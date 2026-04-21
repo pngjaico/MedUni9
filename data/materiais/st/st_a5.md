@@ -7,9 +7,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-As Normas Regulamentadoras (NRs) estruturam o padrão mínimo de proteção em saúde e segurança do trabalho no Brasil. Na prática médica, elas orientam condutas de prevenção, vigilância, emissão de documentos e discussão de nexo ocupacional.
+As **Normas Regulamentadoras (NRs)** estruturam o padrão mínimo de proteção em saúde e segurança do trabalho no Brasil. Na prática médica, elas orientam condutas de prevenção, vigilância, emissão de documentos e discussão de nexo ocupacional.
 
-Em prova, o erro mais comum é decorar número de NR sem entender função operacional. A banca costuma cobrar o que cada norma exige no cotidiano do serviço, especialmente em hospitais, ambulatórios e empresas com exposição a riscos químicos, físicos, biológicos, ergonômicos e de acidentes.
+Em prova, o erro mais comum é decorar número de NR sem entender função operacional. A banca costuma cobrar o que cada norma exige no cotidiano do serviço, especialmente em hospitais, ambulatórios e empresas com exposição a riscos **químicos, físicos, biológicos, ergonômicos e de acidentes**.
 
 ### Figura sugerida
 
@@ -27,7 +27,7 @@ Em prova, o erro mais comum é decorar número de NR sem entender função opera
 
 A NR-1 estabelece disposições gerais e introduz o **Gerenciamento de Riscos Ocupacionais (GRO)**, operacionalizado pelo **Programa de Gerenciamento de Riscos (PGR)**. O foco é transformar risco em plano de ação contínuo.
 
-O PGR deve mapear perigos, avaliar riscos, priorizar controles e acompanhar eficácia das medidas. Em serviços de saúde, isso inclui exposição biológica, jornada, sobrecarga postural e risco de acidentes perfurocortantes.
+O PGR deve mapear perigos, avaliar riscos, priorizar controles e acompanhar eficácia das medidas. Em serviços de saúde, isso inclui exposição biológica, jornada, sobrecarga postural e risco de **acidentes perfurocortantes**.
 
 > **Dica de Prova:** quando aparecer "gestão contínua de risco com inventário e plano de ação", pense em **GRO/PGR (NR-1)**.
 
@@ -66,9 +66,9 @@ Ou seja, saiu o foco de documento isolado e entrou o foco de gestão integrada.
 
 ## NR-15, NR-16 e NR-32: quando a clínica encontra direito do trabalho
 
-A **NR-15** define atividades insalubres com base em exposição nociva e prevê adicional de insalubridade em graus distintos.  
-A **NR-16** define atividades perigosas com risco acentuado de evento grave e prevê adicional de periculosidade.  
-A **NR-32** especifica proteção em serviços de saúde, incluindo imunização ocupacional, biossegurança e conduta pós-exposição.
+A **NR-15** define atividades **insalubres** com base em exposição nociva e prevê adicional de insalubridade em graus distintos.  
+A **NR-16** define atividades **perigosas** com risco acentuado de evento grave e prevê adicional de **periculosidade**.  
+A **NR-32** especifica proteção em **serviços de saúde**, incluindo imunização ocupacional, biossegurança e conduta pós-exposição.
 
 Na rotina médica, essas normas orientam decisões sobre aptidão, afastamento, prevenção de agravos e qualidade do ambiente de trabalho.
 
@@ -86,7 +86,7 @@ Na rotina médica, essas normas orientam decisões sobre aptidão, afastamento, 
 
 ## Ponte com a Clínica
 
-Em ambulatório ocupacional hospitalar, uma técnica de enfermagem com acidentes perfurocortantes repetidos exige análise integrada: revisão de processo de trabalho (NR-1), acompanhamento clínico e sorológico (NR-7), protocolo de exposição biológica (NR-32) e avaliação de condições de risco no setor.
+Em ambulatório ocupacional hospitalar, uma técnica de enfermagem com **acidentes perfurocortantes repetidos** exige análise integrada: revisão de processo de trabalho (NR-1), acompanhamento clínico e sorológico (NR-7), protocolo de exposição biológica (NR-32) e avaliação de condições de risco no setor.
 
 Quando a equipe aplica a lógica integrada das NRs, deixa de atuar apenas "após o dano" e passa a interromper cadeias de adoecimento e acidente.
 

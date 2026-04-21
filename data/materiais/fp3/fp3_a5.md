@@ -1,140 +1,92 @@
 # FP3 — Aula 5: Farmacologia do SNA Parassimpático
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+O Sistema Nervoso Parassimpático é o modo "descansar e digerir" do corpo. Na prova, os temas centrais são a ação da **Acetilcolina**, a diferença entre receptores **Muscarínicos** e **Nicotínicos**, e o manejo de situações críticas como a **Intoxicação por Agrotóxicos** (organofosforados) e o tratamento da **Miastenia Gravis**.
+
+Na prática, o médico deve saber reconhecer a **síndrome colinérgica** (excesso de secreção e bradicardia) e usar a **Atropina** como o antídoto que "**seca e acelera**" o paciente em perigo.
 
 ---
 
-## Relevância Clínica e Acadêmica
+### Figura sugerida
 
-Cai bastante em intoxicações, efeitos anticolinérgicos e manejo respiratório.
+**Figura-ID:** `FP3-A5-F01`
 
-Esse conteúdo cai com frequência em questões de caso clínico. O padrão da banca é apresentar sintoma + exame simples e pedir o mecanismo principal.
+- **Momento:** Seção de receptores e efeitos.
+- **O que mostrar:** O "Boneco Colinérgico": Um desenho do corpo humano demonstrando o mnemônico **DUMBELS**: **D**iarreia, **U**rinação, **M**iose (pupila pequena), **B**radicardia (coração lento), **E**mese (vômito), **L**acrimejamento e **S**alivação.
+- **Tipo sugerido:** Infográfico didático | Esquema anatômico.
+- **Legenda (rascunho):** Efeitos da estimulação colinérgica sistêmica (Síndrome Colinérgica).
 
-## Conceito Central
+## 1. Acetilcolina e seus Receptores
 
-O sistema colinérgico regula secreções, motilidade e frequência cardíaca por receptores muscarínicos.
+O parassimpático usa a **Acetilcolina (ACh)** para mandar mensagens. Ela se liga a dois tipos de receptores:
+- **Muscarínicos (M):** Estão nos órgãos (**coração**, **pulmão**, **glândulas**). Quando ativados, causam os efeitos de "descanso": suor, saliva, digestão e batimento cardíaco lento.
+- **Nicotínicos (N):** Estão nos **Músculos** (junção neuromuscular) e nos gânglios. Quando ativados, fazem o músculo contrair.
 
-## Eixos Essenciais
+---
 
-- Identificar síndrome dominante antes de nomear a doença final.
-- Relacionar sinal clínico ao mecanismo fisiopatológico principal.
-- Diferenciar condição aguda de condição crônica no enunciado.
-- Reconhecer marcador de gravidade que muda conduta imediata.
+## 2. Inibidores da Acetilcolinesterase (Anticolinesterásicos)
 
-## Tabela de Integração para Prova
+Existem remédios que impedem a destruição da acetilcolina, fazendo com que ela dure mais tempo na sinapse.
+- **Piridostigmina / Neostigmina:** Usados no tratamento da **Miastenia Gravis** (fraqueza muscular). Eles aumentam a acetilcolina no músculo para ajudar o paciente a ter força para abrir os olhos e respirar.
+- **Donepezila:** Usada no **Alzheimer** para tentar melhorar a memória aumentando a acetilcolina no cérebro.
+- **Organofosforados (Veneno):** Inibem a enzima de forma irreversível. O paciente fica "inundado" de acetilcolina e morre afogado em suas próprias secreções (**DUMBELS**).
 
-| Situação Clínica | Mecanismo Fisiopatológico | Dica de Raciocínio |
-|------------------|---------------------------|--------------------|
-| Organofosforado | Excesso colinérgico | Atropina e pralidoxima |
-| DPOC | Bloqueio muscarínico inalatório | Broncodilatação útil |
-| Idoso com delirium farmacológico | Efeito anticolinérgico central | Revisar carga anticolinérgica |
+---
 
-## Armadilhas que Mais Derrubam
+## 3. Antagonistas Muscarínicos (Anticolinérgicos)
 
-- Começar pelo nome da doença sem fechar a síndrome.
-- Ignorar dado laboratorial simples que já aponta o mecanismo.
-- Confundir efeito terapêutico com efeito adverso da mesma classe.
-- Desconsiderar comorbidade que muda conduta (rim, fígado, risco trombótico).
-- Tratar marcador isolado sem interpretar contexto clínico.
+São drogas que bloqueiam o sistema parassimpático.
+- **Atropina:** É a estrela do grupo. Bloqueia o efeito "descansar". Resultado: **Taquicardia** (acelera o coração) e **Seca as secreções**. É o antídoto para intoxicação por veneno de rato/agrotóxico.
+- **Ipratrópio (Atrovent):** Bloqueia a contração dos pulmões. Usado na **DPOC** e Asma para ajudar a respirar.
+- **Escopolamina (Buscopan):** Bloqueia a contração do intestino. Usado para **Cólicas**.
+- **Oxibutinina:** Usada para "acalmar" a bexiga em quem tem incontinência urinária.
 
-## Fluxo de Decisão em 8 Passos
+---
 
-1. Defina o sistema-alvo principal.
-2. Classifique o processo como inflamatório, vascular, neoplásico ou farmacológico.
-3. Liste o mecanismo mais provável e um mecanismo alternativo.
-4. Compare com o exame laboratorial mais relevante.
-5. Busque sinal de gravidade imediata.
-6. Estabeleça diagnóstico sindrômico.
-7. Escolha conduta inicial segura.
-8. Planeje reavaliação de resposta.
+## 4. Síndrome Anticolinérgica (Intoxicação por Atropina)
 
-## Casos de Fixação
+Grave este mnemônico clássico para a prova:
+- "Quente como brasa (Febre), seco como osso (Pele seca), vermelho como beterraba (Rubor), cego como morcego (**Midríase** - pupila grande), louco como um chapeleiro (Delírio)."
+- Isso ocorre quando há excesso de bloqueio colinérgico (ex: overdose de Buscopan ou certos antidepressivos).
 
-**Caso 1:** paciente com quadro clássico do tema e exame-chave alterado.  
-**Como pensar:** reconhecer síndrome dominante e excluir o principal diferencial cobrado.
-
-**Caso 2:** paciente em uso de medicamento da aula com evento adverso.  
-**Como pensar:** ligar receptor/alvo da droga ao efeito observado e ajustar estratégia.
-
-**Caso 3:** cenário de progressão rápida.  
-**Como pensar:** priorizar estabilização e só depois ampliar investigação etiológica.
-
-## Pontos-Chave para Prova
-
-- Mecanismo manda no raciocínio.
-- Síndrome manda na primeira decisão.
-- Gravidade manda na urgência da conduta.
-- Diferencial manda no acerto da questão.
-- Reavaliação manda na segurança terapêutica.
+---
 
 ## Ponte com a Clínica
 
-Na prática, o acerto vem de método, não de memória solta. Quando você organiza o caso por síndrome, mecanismo e gravidade, reduz erro diagnóstico e evita conduta precipitada.
+No pronto-socorro, chegará um paciente que tentou suicídio ingerindo "chumbinho" ou agrotóxico. Ele estará babando, urinando, com o coração bem lento (bradicardia) e as pupilas minúsculas (miose pontiforme). O diagnóstico é **Síndrome Colinérgica**. O tratamento imediato é a **Atropina** em doses altas e repetidas até que as secreções do pulmão sumam ("atropinização"). Lembre-se: a atropina salva o pulmão e o coração, mas a **Pralidoxima** é necessária para tentar desfazer o nó que o veneno deu na enzima.
 
-Esse mesmo método melhora desempenho em prova porque transforma enunciado confuso em sequência lógica de decisão.
+---
+
+## Pontos-Chave para Prova
+
+- **DUMBELS**: Mnemônico essencial para identificar excesso de acetilcolina.
+- **Miastenia Gravis**: Tratada com piridostigmina (anticolinesterásico).
+- **Glaucoma**: Pilocarpina ajuda a drenar o líquido do olho ao causar miose.
+- **Atropina**: Antagonista muscarínico; antídoto para bradicardia e organofosforados.
+- **Ipratrópio**: Anticolinérgico inalatório; evita broncoconstrição.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Síndrome dominante:** define direção do caso.
-- **Mecanismo principal:** explica sinais e exames.
-- **Diferencial crítico:** evita confusão em alternativas parecidas.
-- **Sinal de gravidade:** muda urgência da conduta.
-- **Conduta inicial:** deve ser segura e justificada.
+Para gabaritar Farmacologia do Parassimpático, foque nos opostos. 
+**Muita Secreção / Coração Lento** = Colinérgico (Ativar). **Boca Seca / Coração Rápido** = Anticolinérgico (Bloquear). Na **Intoxicação por Agrotóxico**, o paciente derrama líquidos por todos os poros; a resposta é Atropina para secar. Na **Miastenia Gravis**, o paciente está sem força; a resposta é Piridostigmina.
+
+A Uninove adora cobrar o efeito na **Pupila**. Remédio colinérgico (Pilocarpina) faz **Miose** (pupila pequena). Remédio anticolinérgico (Atropina) faz **Midríase** (pupila grande). Outro ponto forte: o **Ipratrópio** é fundamental no tratamento da DPOC porque bloqueia o reflexo de fechar os brônquios. Por fim, saiba que a **Escopolamina** tira a cólica justamente porque "desliga" a contração exagerada do músculo liso do intestino.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico mostra adaptação e progressão |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera tecido |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução |
+| **Miose** | **Midríase** | Pupila **Pequena** (Colinérgico) vs Pupila **Grande** (Anticolinérgico) |
+| **Atropina** | **Adrenalina** | Aumenta FC por **Bloqueio** vs Aumenta FC por **Estímulo Direto** |
+| **Neostigmina** | **Pilocarpina** | Age na **Junção Muscular** vs Age no **Olho (Glaucoma)** |
+| **Síndrome Colinérgica** | **Síndrome Anticolinérgica** | **Úmido** (Babel/Suor) vs **Seco** (Boca seca/Calor) |
+| **Ipratrópio** | **Salbutamol** | **Antagonista Muscarínico** vs **Agonista Beta-2** |
 
 ### Frase-âncora para não esquecer
 
-> "Colinérgico molha e desacelera; anticolinérgico seca e acelera."
-## Revisão Clínica Expandida
-
-### Erros que a banca força no enunciado
-
-- Trocar síndrome dominante por diagnóstico específico cedo demais.
-- Ignorar marcador laboratorial simples que já muda conduta.
-- Desconsiderar contexto de risco (idade, comorbidade, uso de fármacos).
-- Tratar achado isolado sem fechar mecanismo fisiopatológico.
-- Confundir gravidade clínica com duração do quadro.
-
-### Perguntas de checagem rápida
-
-- Qual é o mecanismo principal deste caso?
-- Qual achado mais fortalece esse mecanismo?
-- Qual diferencial mais próximo precisa ser descartado?
-- Há sinal de gravidade que muda urgência?
-- Qual conduta inicial é mais segura neste cenário?
-
-### Aplicação prática resumida
-
-- Em prova: primeiro feche a síndrome, depois escolha o mecanismo.
-- Em clínica: primeiro estabilize, depois refine etiologia.
-- Em farmacoterapia: ajuste pela função orgânica e risco individual.
-- Em seguimento: reavalie resposta e reclassifique risco.
-
-### Microtabela final de memorização
-
-| Chave | Lembrete |
-|------|----------|
-| Síndrome | Define direção inicial |
-| Mecanismo | Explica exame e sintoma |
-| Gravidade | Define urgência |
-| Conduta | Deve ser segura e justificável |
-| Reavaliação | Evita erro de manutenção |
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
+> "O parassimpático molha, fecha e acalma. O anticolinérgico seca, abre e dispara. No veneno do agrotóxico, o paciente vira uma fonte; com a Atropina, o médico constrói a ponte para a cura."

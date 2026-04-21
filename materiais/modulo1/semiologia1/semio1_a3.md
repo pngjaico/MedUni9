@@ -97,9 +97,9 @@ Mãos e pés concentram sinais valiosos de doença articular crônica e alteraç
 
 | Região | Achado | Associação clínica frequente |
 |--------|--------|------------------------------|
-| **Mãos** | Nódulos interfalângicos | Osteoartrite nodal |
-| **Mãos** | Desvio ulnar avançado | Artrite reumatoide de longa evolução |
-| **Pés** | Hálux valgo | Sobrecarga mecânica e alteração de apoio |
+| **Mãos** | **Nódulos interfalângicos** | Osteoartrite nodal |
+| **Mãos** | **Desvio ulnar avançado** | Artrite reumatoide de longa evolução |
+| **Pés** | **Hálux valgo** | Sobrecarga mecânica e alteração de apoio |
 
 ### Figura sugerida
 

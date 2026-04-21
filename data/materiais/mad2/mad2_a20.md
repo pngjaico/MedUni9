@@ -1,108 +1,92 @@
 # MAD2 — Aula 20: Antiparasitários e Antifúngicos
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+Fungos e Parasitas são "primos" mais próximos de nós do que as bactérias, por isso seus remédios costumam ser mais tóxicos para o corpo humano. Na prova, os temas centrais são os alvos na **Membrana do Fungo** (**Ergosterol**) e os mecanismos dos **Benzimidazóis** (**Albendazol**) contra os vermes, focando sempre na toxicidade e no uso correto.
+
+Na prática, o médico deve saber que tratar uma **micose sistêmica** exige monitorização constante dos **rins** e do **fígado**, e que o uso indiscriminado de vermífugos pode mascarar doenças mais graves ou falhar em imunossuprimidos.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Tema de fechamento integrando farmacologia anti-infecciosa para fungos e parasitas, com foco em mecanismo e segurança.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo fisiopatológico, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A20-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismo dos antifúngicos.
+- **O que mostrar:** O "Alvo na Parede": Um desenho da célula do fungo. O antibiótico **Anfotericina B** abrindo "buracos" na membrana (como uma metralhadora) e os **Azóis** (Fluconazol) impedindo a fábrica de membrana de funcionar.
+- **Tipo sugerido:** Infográfico didático | Esquema molecular.
+- **Legenda (rascunho):** Diferentes alvos terapêuticos na célula fúngica.
 
-## Conceito Central
+## 1. Antifúngicos: Atacando a Parede e a Membrana
 
-Escolha antiparasitária e antifúngica depende do agente, sítio de infecção, gravidade e estado imune do paciente.
+Os fungos têm uma membrana rica em **Ergosterol** (que o humano não tem).
+- **Polienos (Anfotericina B):** A "**Anfo-terrível**". Ela fura a membrana do fungo e o mata. É muito potente, mas causa muita lesão no **Rim** (**Nefrotoxicidade**) e queda de potássio.
+- **Azóis (Fluconazol / Itraconazol):** Impedem a produção do **ergosterol**. São muito seguros para uso oral, mas podem sobrecarregar o **Fígado** (Pausa na Hepatite medicamentosa).
+- **Equinocandinas (Micafungina):** Agem na parede do fungo (**Betaglicano**). São a nova primeira linha para infecções graves por *Candida* no sangue (**Candidemia**).
 
-## Eixo 1
+---
 
-Antifúngicos: alvo em membrana, parede ou síntese de ácidos nucleicos.
+## 2. Antiparasitários: Contra os Vermes (Helmintos)
 
-## Eixo 2
+- **Benzimidazóis (Albendazol / Mebendazol):** Agem travando os **Microtúbulos** do verme. O verme não consegue "comer" glicose e **morre de fome**.
+- **Ivermectina:** Paralisa o verme (causa uma **paralisia flácida**) ao agir nos canais de cloro. É a droga de escolha para **Sarna (Escabiose)** e **Estrongiloidíase**.
+- **Praziquantel:** Aumenta a permeabilidade ao cálcio, causando contração paralisante e morte do verme. Usado para **Esquistossomose** e Teníase.
 
-Antiparasitários: ação específica por espécie e fase de ciclo.
+---
 
-## Eixo 3
+## 3. Antiprotozoários (Malária e Chagas)
 
-Toxicidade e interação exigem monitorização clínica e laboratorial.
+- **Cloroquina / Artemisinina:** Usadas para Malária. A Artemisinina é a mais moderna e potente hoje no mundo.
+- **Benznidazol:** A única droga disponível para tratar **Chagas**. É muito tóxica e tem muitos efeitos colaterais na pele e nos nervos, por isso muitos pacientes abandonam o tratamento.
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Micose invasiva em imunossuprimido | Necessidade de terapia sistêmica | Avaliar risco-benefício continuamente |
-| Parasitose intestinal persistente | Alvo específico por espécie | Correlacionar diagnóstico etiológico |
-| Evento adverso relevante | Toxicidade de classe | Ajustar dose e estratégia |
+## 4. Toxicidade e Segurança
 
-## Checklist de Raciocínio
+| Droga | Principal Toxicidade | Monitoramento Necessário |
+|---|---|---|
+| **Anfotericina B** | **Nefrotoxicidade (Rim)** | Creatinina e Potássio diariamente |
+| **Itra / Fluconazol** | **Hepatotoxicidade (Fígado)** | Enzimas hepáticas (TGO / TGP) |
+| **Benznidazol** | **Neuropatia e Rash** | Exame físico e queixas neurológicas |
+| **Albendazol** | Geralmente Baixa | **Evitar no primeiro trimestre** de gestação |
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-No manejo real, terapia anti-infecciosa eficaz depende de diagnóstico correto, adesão e acompanhamento de segurança.
+No hospital, ao prescrever **Anfotericina B**, o médico deve sempre "preparar" o rim do paciente com uma hidratação vigorosa antes da medicação (**Expansão volêmica**). Já em micoses de unha (Onicomicoses), o tratamento com **Azóis** orais pode durar meses. Nunca inicie esses remédios sem pedir exames de sangue para checar se o fígado do paciente aguenta a jornada, pois a hepatite medicamentosa é um risco real e silencioso.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **Ergosterol**: Alvo principal dos polienos (fura) e azóis (impede síntese).
+- **Anfotericina B**: "Padrão-ouro" para micoses sistêmicas graves, apesar da toxicidade renal.
+- **Albendazol**: Ataca microtúbulos bacterianos; mata o verme por inanição (fome).
+- **Ivermectina**: Droga de escolha para Estrongiloidíase e Sarna; causa paralisia do parasita.
+- **Hepatotoxicidade**: Principal preocupação no uso prolongado de antifúngicos azólicos.
+
+---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Síndrome dominante:** define direção da hipótese principal.
-- **Mecanismo-chave:** explica sinais e exames mais relevantes.
-- **Diferencial crítico:** separa alternativas muito parecidas.
-- **Marcador de gravidade:** muda urgência e nível de cuidado.
-- **Conduta inicial:** precisa ser segura e justificável.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Antifúngicos e Antiparasitários, foque no mecanismo. 
+**Membrana Fúngica/Ergosterol** = Azóis e Polienos. **Parede Fúngica** = Equinocandinas. **Vermes/Microtúbulos** = Albendazol. Se a questão fala de um paciente queimado ou com câncer que tem um fungo no sangue, a resposta é **Anfotericina** ou Equinocandina. Na sarna, a resposta é **Ivermectina**.
+
+A Uninove adora a **Toxicidade da Anfotericina**. Lembre-se: ela derruba o Potássio (hipocalemia) e o Magnésio. Outro ponto forte: o **Albendazol** é contraindicado na gravidez. No tratamento de Chagas, o **Benznidazol** é herói e vilão: trata, mas causa muita alergia de pele. Por fim, saiba que para tratar Micose de Unha, o tratamento é longo porque o remédio tem que se acumular na queratina da unha nova.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Anfotericina B** | **Fluconazol** | **Mata** o fungo (estoura) vs **Trava** o crescimento |
+| **Albendazol** | **Ivermectina** | Mata por **Fome** vs Mata por **Paralisia** |
+| **Nefrotoxicidade** | **Hepatotoxicidade** | Medo na **Anfotericina** vs Medo nos **Azóis** |
+| **Esquistossomose** | **Ascaridíase** | Praziquantel vs **Albendazol** |
+| **Artemisinina** | **Cloroquina** | Droga de escolha **moderna** (Malária) vs Droga antiga |
 
 ### Frase-âncora para não esquecer
-> "Em fungo e parasito, o alvo certo vale mais que o tratamento empírico prolongado."
+
+> "Anfotericina fura o ergosterol mas judia do rim; o Albendazol mata o verme de fome até o fim. Proteja o fígado se o Fluconazol usar, e hidrate bem o paciente se a Anfo-terrível precisar gotejar."

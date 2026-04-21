@@ -2,7 +2,7 @@
 
 O conhecimento da estrutura bacteriana é a base para entender o mecanismo de ação dos antibióticos e a patogênese das infecções. Na prova, os temas centrais são a **Coloração de Gram**, a função do **LPS (Lipopolissacarídeo)** e as **Estruturas de Virulência** (Cápsula e Esporos).
 
-Na prática, a diferenciação entre Gram-positivas e Gram-negativas orienta a escolha empírica do tratamento antibiótico antes mesmo do resultado da cultura.
+Na prática, a diferenciação entre **Gram-positivas** e **Gram-negativas** orienta a escolha empírica do tratamento antibiótico antes mesmo do resultado da cultura.
 
 ---
 
@@ -30,9 +30,9 @@ Na prática, a diferenciação entre Gram-positivas e Gram-negativas orienta a e
 
 ## Estruturas de Virulência e Sobrevivência
 
-- **Cápsula:** Camada de açúcar que impede a fagocitose. É a base das vacinas (ex: Pneumococo/Meningococo).
+- **Cápsula:** Camada de açúcar que impede a **fagocitose**. É a base das vacinas (ex: Pneumococo/Meningococo).
 - **Fímbrias (Pili):** "Pelos" que ajudam a bactéria a grudar nos tecidos (ex: *E. coli* na bexiga casuando ITU).
-- **Esporos:** Formas de resistência extrema ao calor e álcool (ex: *Clostridium tetani* / Tétano).
+- **Esporos:** Formas de **resistência extrema** ao calor e álcool (ex: *Clostridium tetani* / Tétano).
 - **Plasmídeos:** Fragmentos de DNA que carregam genes de **Resistência a Antibióticos** e podem ser passados para outras bactérias.
 
 ---
@@ -40,7 +40,7 @@ Na prática, a diferenciação entre Gram-positivas e Gram-negativas orienta a e
 ## Metabolismo e Oxigênio
 
 Diferentes bactérias têm diferentes necessidades de ar para crescer:
-- **Aeróbias Obrigatórias:** Precisam de oxigênio (ex: Tuberculose).
+- **Aeróbias Obrigatórias:** Precisam de **oxigênio** (ex: Tuberculose).
 - **Anaeróbias Obrigatórias:** Morrem no oxigênio (ex: Tétano/Botulismo). Vivem em tecidos mortos ou abscessos.
 - **Anaeróbias Facultativas:** Crescem com ou sem oxigênio (ex: maioria das bactérias do intestino).
 
@@ -81,7 +81,7 @@ Sobre a sobrevivência: se a bactéria tem **Cápsula**, o macrófago não conse
 | **Endotoxina (LPS)** | **Exotoxina** | Presa na parede (Gram-) vs **Secretada** (Gram+ ou -) |
 | **Cápsula** | **Esporo** | **Evita ser comido** vs Sobrevive ao ambiente hostil |
 | **Aeróbio** | **Anaeróbio** | Precisa de O2 vs **O2 é veneno** |
-| **Ribossomo 70S** | **Ribossomo 80S** | Alvo do antibiótico (Bactéria) vs Célula Humana |
+| **Ribossomo 70S** | **Ribossomo 80S** | Alvo do antibiótico (**Bactéria**) vs Célula Humana |
 
 ### Frase-âncora para não esquecer
 

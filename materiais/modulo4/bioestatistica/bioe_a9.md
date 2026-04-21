@@ -30,7 +30,7 @@ Na prática, o estudo de coorte é o desenho mais forte entre os estudos observa
 - Usamos registros antigos (prontuários de 1990, por exemplo).
 - Separamos quem era exposto e quem não era naquela época.
 - Vemos quem ficou doente até hoje.
-- **Atenção:** Mesmo usando o passado, o raciocínio é **Pra Frente** (da causa para o efeito). Isso a diferencia do Caso-Controle.
+- **Atenção:** Mesmo usando o passado, o raciocínio é **Pra Frente** (da causa para o efeito). Isso a diferencia do **Coorte Retrospectiva** e do Caso-Controle.
 
 ---
 
@@ -46,7 +46,7 @@ Na prática, o estudo de coorte é o desenho mais forte entre os estudos observa
 
 É a medida oficial da coorte:
 - **Fórmula:** Incidência no grupo exposto ÷ Incidência no grupo não-exposto.
-- **Interpretação:** Se o RR é 5, o grupo exposto tem 5 vezes mais risco do que o outro.
+- **Interpretação:** Se o **RR é 5**, o grupo exposto tem 5 vezes mais risco do que o outro.
 - **Regra de Ouro:** Se o RR é **Maior que 1**, o fator é de **Risco**. Se o RR é **Menor que 1**, o fator é de **Proteção**.
 
 ---
@@ -82,9 +82,9 @@ A Uninove adora **Perda de Seguimento**. Lembre-se: Se o paciente muda de cidade
 
 | Estudo A | Estudo B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Coorte** | **Caso-Controle** | Parte da **Exposição** vs Parte do **Desfecho (Já doente)** |
-| **Coorte Prospectiva** | **Coorte Retrospectiva**| Acompanha de **Agora pra frente** vs Usa **Registros antigos** |
-| **Risco Relativo (RR)**| **Odds Ratio (OR)** | Mede o **Risco Real** vs Mede a **Chance/Sorte** |
+| **Coorte** | **Caso-Controle** | **Exposição** vs **Desfecho (Já doente)** |
+| **Coorte Prospectiva** | **Coorte Retrospectiva**| **Agora pra frente** vs **Registros antigos** |
+| **Risco Relativo (RR)**| **Odds Ratio (OR)** | **Risco Real** vs **Chance/Sorte** |
 | **Incidência** | **Prevalência** | Casos **Novos** vs Casos **Atuais** |
 | **Viés de Memória** | **Perda de Seguimento** | Comum no **Caso-Controle** vs Comum na **Coorte** |
 

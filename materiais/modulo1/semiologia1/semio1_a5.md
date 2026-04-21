@@ -22,16 +22,16 @@ Testar a **Mobilidade** e a **Força Muscular** é o núcleo funcional do exame 
 
 ## Amplitude de movimento: ativa x passiva
 
-A amplitude ativa depende de comando motor, força, coordenação e dor. A passiva depende mais da integridade articular, capsular e da complacência de tecidos periarticulares. Comparar as duas, no mesmo segmento, é uma das etapas mais informativas da semiologia musculoesquelética.
+A amplitude **ativa** depende de comando motor, força, coordenação e dor. A **passiva** depende mais da **integridade articular, capsular e da complacência** de tecidos periarticulares. Comparar as duas, no mesmo segmento, é uma das etapas mais informativas da semiologia musculoesquelética.
 
 Se ambas estão reduzidas, pense primeiro em limitação estrutural articular, rigidez capsular ou bloqueio mecânico. Se apenas a ativa está prejudicada, as hipóteses principais são dor, inibição antálgica ou déficit neuromuscular.
 
 | Tipo de Limitação | Ativa | Passiva | Interpretação Clínica |
 |-------------------|-------|---------|------------------------|
-| **Estrutural/Capsular**| Reduzida| **Reduzida** | Artropatia, **Capsulite** ou Bloqueio |
-| **Dor/Fraqueza**| **Reduzida**| Normal | Lesão de Tendão, Músculo ou Nervo |
+| **Estrutural/Capsular**| **Reduzida**| **Reduzida** | Artropatia, **Capsulite** ou Bloqueio |
+| **Dor/Fraqueza**| **Reduzida**| Normal | **Lesão de Tendão, Músculo ou Nervo** |
 | **Impacto** | Dor no arco | Normal | Conflito mecânico subacromial |
-| **Hipermobilidade**| Aumentada | **Aumentada** | Frouxidão Ligamentar |
+| **Hipermobilidade**| Aumentada | **Aumentada** | **Frouxidão Ligamentar** |
 
 > **Dica de Prova:** quando o enunciado descreve limitação ativa com passiva preservada, a banca geralmente espera raciocínio funcional (dor/fraqueza), não anquilose.
 
@@ -43,12 +43,12 @@ O registro padronizado da força pela escala MRC permite comparar evolução ent
 
 | Grau MRC | Definição prática | Interpretação clínica |
 |----------|-------------------|-----------------------|
-| 5/5 | Movimento completo contra resistência plena | Força normal |
-| 4/5 | Movimento completo contra resistência parcial | Déficit leve |
-| 3/5 | Movimento completo contra gravidade, sem resistência | Déficit moderado |
-| 2/5 | Movimento sem gravidade | Déficit importante |
-| 1/5 | Contração palpável sem movimento útil | Déficit grave |
-| 0/5 | Sem contração detectável | Paralisia completa do grupo avaliado |
+| **5/5** | Movimento completo contra resistência plena | **Força normal** |
+| **4/5** | Movimento completo contra resistência parcial | **Déficit leve** |
+| **3/5** | Movimento completo contra gravidade, sem resistência | **Déficit moderado** |
+| **2/5** | Movimento sem gravidade | **Déficit importante** |
+| **1/5** | Contração palpável sem movimento útil | **Déficit grave** |
+| **0/5** | Sem contração detectável | **Paralisia completa** do grupo avaliado |
 
 Sempre documente lado, movimento testado e condição de dor durante o teste. Essa informação evita confusão entre fraqueza verdadeira e limitação por dor.
 
@@ -74,14 +74,14 @@ Teste positivo isolado não fecha diagnóstico definitivo; ele aumenta ou reduz 
 
 ## Ombro: mobilidade, dor e manguito rotador
 
-No ombro, a combinação entre arco doloroso, limitação ativa e testes de resistência direciona o raciocínio. Jobe sugere comprometimento de supraespinal, mas não distingue sozinho tendinopatia de rotura parcial.
+No ombro, a combinação entre arco doloroso, limitação ativa e testes de resistência direciona o raciocínio. **Jobe** sugere comprometimento de **supraespinal**, mas não distingue sozinho tendinopatia de rotura parcial.
 
 | Manobra | O que sugere | Limitação da manobra |
 |---------|--------------|----------------------|
-| Jobe | Disfunção do supraespinal | Dor isolada pode ser impacto sem rotura |
-| Neer | Impacto subacromial | Baixa especificidade isolada |
-| Hawkins-Kennedy | Conflito subacromial | Deve ser interpretado com outros achados |
-| Apreensão | Instabilidade anterior | Exige correlação com história de luxação |
+| **Jobe** | Disfunção do **Supraespinal** | Dor isolada pode ser impacto sem rotura |
+| **Neer** | **Impacto subacromial** | Baixa especificidade isolada |
+| **Hawkins-Kennedy** | **Conflito subacromial** | Deve ser interpretado com outros achados |
+| **Apreensão** | Instabilidade anterior | Exige correlação com história de luxação |
 
 ### Figura sugerida
 
@@ -97,10 +97,10 @@ No membro superior distal, o valor dos testes aumenta quando a topografia da dor
 
 | Teste | Região | Hipótese principal | Erro frequente |
 |-------|--------|--------------------|----------------|
-| Phalen | Punho | Compressão do nervo mediano | Considerar positivo sem parestesia típica |
-| Tinel no túnel do carpo | Punho | Irritabilidade do nervo mediano | Usar como diagnóstico definitivo isolado |
-| Finkelstein | Punho/polegar | Tenossinovite de De Quervain | Confundir com teste mal executado de Eichhoff |
-| Cozen | Cotovelo lateral | Epicondilalgia lateral | Ignorar dor à palpação do epicôndilo |
+| **Phalen** | Punho | Compressão do **nervo mediano** | Considerar positivo sem parestesia típica |
+| **Tinel** no túnel do carpo | Punho | Irritabilidade do nervo mediano | Usar como diagnóstico definitivo isolado |
+| **Finkelstein** | Punho/polegar | **Tenossinovite de De Quervain** | Confundir com teste mal executado de Eichhoff |
+| **Cozen** | Cotovelo lateral | **Epicondilalgia lateral** | Ignorar dor à palpação do epicôndilo |
 
 ---
 
@@ -136,7 +136,7 @@ Em paciente com dor no ombro que não eleva o braço, limitação ativa importan
 
 ### Síntese para a prova
 
-- **Lachman vs Gaveta:** O Lachman é soberano no agudo porque o espasmo dos isquiotibiais atrapalha menos a manobra.
+- **Lachman vs Gaveta:** O **Lachman** é soberano no agudo porque o espasmo dos isquiotibiais atrapalha menos a manobra.
 - **Manguito Rotador:** Composto por **Supraespinal**, **Infraespinal**, **Redondo Menor** e **Subescapular**. O Supra é o que mais sofre.
 - **Epicondilite:** Dor no lado de fora (**Lateral**) é do Tenista; dor no lado de dentro (**Medial**) é do Golfista.
 - **Trendelenburg:** Se a bacia cai quando ele tira o pé do chão, a fraqueza é do **Glúteo Médio**.

@@ -20,7 +20,7 @@ Em clínica real, o estudante que improvisa pode perder achados importantes.
 
 | Meta da Simulação | Atitude na Estação | Por que cai em Prova? |
 |-------------------|--------------------|------------------------|
-| **Padronização** | Seguir a sequência canônica | Avalia **Organização Mental** |
+| **Padronização** | Seguir a **sequência canônica** | Avalia **Organização Mental** |
 | **Precisão Técnica**| Mão leve e posição correta | Erros técnicos zeram o item |
 | **Comunicação** | Explicar cada passo ao paciente | Ganha pontos de **Empatia** |
 | **Gestão de Tempo** | Ser direto e objetivo | Estações de OSCE duram 5-8 min|
@@ -44,13 +44,13 @@ Nesse cenário, o estudante precisa integrar técnica com vínculo terapêutico.
 
 | Recurso | Vantagem principal | Limitação principal | Melhor uso pedagógico |
 |---------|--------------------|---------------------|-----------------------|
-| Manequim | Repetição ilimitada da manobra | Não reproduz completamente dor e resposta emocional | Treino inicial de técnica e sequência |
-| Paciente padronizado | Treino de comunicação e empatia | Menor padronização de achado físico fino | Treino intermediário e avaliação comportamental |
-| Simulação híbrida | Integra técnica e comunicação | Requer organização docente maior | Preparação final para OSCE e ambulatório |
+| **Manequim** | Repetição ilimitada da manobra | Não reproduz completamente dor e resposta emocional | Treino inicial de técnica e sequência |
+| **Paciente padronizado** | Treino de **comunicação e empatia** | Menor padronização de achado físico fino | Treino intermediário e avaliação comportamental |
+| **Simulação híbrida** | Integra técnica e comunicação | Requer organização docente maior | Preparação final para OSCE e ambulatório |
 
 ## Sequência operacional de um exame simulado (exemplo: joelho doloroso)
 
-1. **Abertura e segurança:** identificação, consentimento e higiene das mãos.
+1. **Abertura e segurança:** identificação, consentimento e **higiene das mãos**.
 2. **Inspeção estática e dinâmica:** edema, alinhamento, marcha antálgica.
 3. **Palpação dirigida:** linha articular, patela, ligamentos colaterais e pontos dolorosos.
 4. **Amplitude de movimento:** ativa e passiva, com descrição objetiva da limitação.
@@ -109,7 +109,7 @@ são exatamente as mesmas exigidas na prática clínica supervisionada.
 
 ## Pontos-Chave para Prova
 
-- **Higiene das Mãos:** É o PRIMEIRO item do checklist de qualquer prova prática. Nunca pule.
+- **Higiene das Mãos:** É o **PRIMEIRO item** do checklist de qualquer prova prática. Nunca pule.
 - **Abertura:** "Olá, sou o Dr. [Nome], posso examinar seu joelho?" (**Consentimento**).
 - **Sequência:** Se você fizer um teste especial antes da palpação, perde pontos de **Método**.
 - **Comparação Lateral:** Se o paciente reclama do joelho direito, você DEVE olhar o esquerdo primeiro.

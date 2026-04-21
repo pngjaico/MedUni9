@@ -2,7 +2,7 @@
 
 Diferente dos antibióticos, que matam bactérias, a maioria dos antivirais apenas "trava" a replicação do vírus, dando tempo para o sistema imune agir. Na prova, os temas centrais são o mecanismo do **Aciclovir** (Herpes), do **Oseltamivir** (Gripe) e as indicações críticas para pacientes imunossuprimidos.
 
-Na prática, o sucesso do tratamento antiviral depende quase totalmente do **Tempo**. Iniciar o remédio após a janela de 48-72 horas muitas vezes não traz benefício real, pois o vírus já completou sua replicação em massa no corpo.
+Na prática, o sucesso do tratamento antiviral depende quase totalmente do **Tempo**. Iniciar o remédio após a janela de **48-72 horas** muitas vezes não traz benefício real, pois o vírus já completou sua replicação em massa no corpo.
 
 ---
 
@@ -18,7 +18,7 @@ Na prática, o sucesso do tratamento antiviral depende quase totalmente do **Tem
 ## 1. Aciclovir: O Falso Tijolo (Herpesvírus)
 
 É a droga padrão para Herpes Simples (frio e genital) e Varicela-Zóster.
-- **Mecanismo:** É um **Análogo de Nucleosídeo**. O vírus "pensa" que o Aciclovir é uma peça do seu DNA, tenta usá-lo e acaba travando a sua própria replicação (**DNA Polimerase**).
+- **Mecanismo:** É um **Análogo de Nucleosídeo**. O vírus "pensa" que o **Aciclovir** é uma peça do seu DNA, tenta usá-lo e acaba travando a sua própria replicação (**DNA Polimerase**).
 - **Ativação:** O remédio só funciona dentro de células infectadas, pois precisa de uma enzima do próprio vírus (**Timidina Quinase**) para ser ativado. Isso o torna muito seguro para nossas células saudáveis.
 - **Ganciclovir:** É o "irmão forte" do aciclovir, usado apenas para o temido **Citomegalovírus (CMV)** em pacientes graves.
 
@@ -26,8 +26,8 @@ Na prática, o sucesso do tratamento antiviral depende quase totalmente do **Tem
 
 ## 2. Oseltamivir (Tamiflu): Travando a Saída (Influenza)
 
-Usado para o vírus da Gripe (H1N1 e outros Influenza).
-- **Mecanismo:** É um **Inibidor da Neuraminidase**. A neuraminidase é a "tesoura" que o vírus usa para se desprender da célula infectada. Sem ela, os novos vírus ficam presos e não conseguem se espalhar.
+Usado para o vírus da Gripe (**H1N1** e outros Influenza).
+- **Mecanismo:** É um **Inibidor da Neuraminidase**. A neuraminidase é a "**tesoura**" que o vírus usa para se desprender da célula infectada. Sem ela, os novos vírus ficam presos e não conseguem se espalhar.
 - **A Janela de Ouro:** Deve ser iniciado idealmente nas primeiras **48 horas** de sintomas para reduzir complicações e tempo de internação.
 
 ---
@@ -80,9 +80,9 @@ A Uninove adora a **Segurança do Aciclovir**. Saiba que ele é muito bem tolera
 |------------|------------|-----------------|
 | **Aciclovir** | **Valaciclovir** | Mesma droga, mas o **Valaciclovir absorve melhor** (toma menos vezes) |
 | **Oseltamivir** | **Antibiótico** | Trata o **Vírus da Gripe** vs Trata bactéria (Pneumonia) |
-| **Ganciclovir** | **Aciclovir** | Mais potente/tóxico (CMV) vs **Mais seguro (Herpes Simples)** |
-| **Inibidor de Protease** | **Inibidor de Polimerase** | Trava a montagem vs **Trava a cópia do código genético** |
-| **Profilaxia** | **Tratamento** | Remédio para evitar a doença vs Remédio para curar a crise |
+| **Ganciclovir** | **Aciclovir** | Mais potente/tóxico (**CMV**) vs **Mais seguro (Herpes Simples)** |
+| **Inibidor de Protease** | **Inibidor de Polimerase** | Trava a "**montagem**" vs **Trava a cópia do código genético** |
+| **Profilaxia** | **Tratamento** | Remédio para **evitar** a doença vs Remédio para **curar** a crise |
 
 ### Frase-âncora para não esquecer
 

@@ -20,7 +20,7 @@ Na prática, saber qual vacina pode ou não ser aplicada em gestantes e paciente
 | Tipo | Fonte do Anticorpo | Duração | Exemplo |
 |---|---|---|---|
 | **Ativa** | Próprio organismo produz. | **Longa (Memória)** | Vacinas e Infecção Natural. |
-| **Passiva** | Recebe pronto de fora. | **Curta** (Semanas) | Soros, Imunoglobulinas e **Leite Materno**. |
+| **Passiva** | Recebe pronto de fora. | **Curta** (Semanas) | **Soros**, **Imunoglobulinas** e **Leite Materno**. |
 
 ---
 
@@ -29,13 +29,13 @@ Na prática, saber qual vacina pode ou não ser aplicada em gestantes e paciente
 ### 1. Vacinas Atenuadas (Vírus/Bactéria "Vivos")
 - **Características:** Resposta imune muito forte, geralmente requer poucas doses.
 - **Risco:** Podem causar a doença se a imunidade do paciente estiver muito baixa.
-- **Exemplos:** **BCG**, **Febre Amarela**, **Tríplice Viral (SCR)**, Varicela e Sabin (VOP).
+- **Exemplos:** **BCG**, **Febre Amarela**, **Tríplice Viral (SCR)**, **Varicela** e **Sabin (VOP)**.
 - **CONTRAINDICAÇÃO:** **Gestantes** e **Imunossuprimidos** graves (HIV com CD4 < 200).
 
 ### 2. Vacinas Inativadas / Subunidades (Partes do Vírus ou Mortos)
 - **Características:** Extremamente seguras; não causam doença em ninguém.
 - **Necessidade:** Geralmente precisam de **Adjuvantes** e múltiplas doses de reforço.
-- **Exemplos:** **Influenza**, **Hepatite B**, HPV, Salk (VIP) e Tétano.
+- **Exemplos:** **Influenza**, **Hepatite B**, **HPV**, **Salk (VIP)** e **Tétano**.
 - **Dica de Prova:** São as vacinas de escolha para pacientes oncológicos e transplantados.
 
 ---
@@ -44,7 +44,7 @@ Na prática, saber qual vacina pode ou não ser aplicada em gestantes e paciente
 
 Algumas bactérias têm uma cápsula de açúcar (polissacarídeo) que o sistema imune de crianças < 2 anos não reconhece bem.
 - **Vacina Conjugada:** Gruda uma proteína no açúcar da bactéria para "enganar" o sistema imune e ativar os **Linfócitos T**. 
-- **Resultado:** Gera **Memória** e funciona em bebês. Ex: Meningocócica e Pneumocócica.
+- **Resultado:** Gera **Memória Imunológica** e funciona em bebês. Ex: Meningocócica e Pneumocócica.
 
 ---
 
@@ -80,9 +80,9 @@ Lembre-se da diferença entre **Soro** e **Vacina**. O Soro é o "antídoto" (Pa
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Vacina Atenuada** | **Vacina Inativada** | **Vírus Vivo (Atenuado)** vs Vírus Morto |
-| **Imunização Ativa** | **Imunização Passiva** | **Gera Memória** (Ensina) vs Não gera memória (Soro) |
+| **Imunização Ativa** | **Imunização Passiva** | **Gera Memória** (Ensina) vs **Não gera memória (Soro)** |
 | **Sabin (VOP)** | **Salk (VIP)** | Gotinha (Viva/Atenuada) vs **Injetável (Morta/Inativada)** |
-| **Hepatite B** | **Febre Amarela** | **Segura p/ todos (Subunidade)** vs Perigosa p/ imuno (Atenuada) |
+| **Hepatite B** | **Febre Amarela** | **Segura p/ todos (Subunidade)** vs **Perigosa p/ imuno (Atenuada)** |
 | **Conjugada** | **Polissacarídica** | **Funciona < 2 anos** vs Não funciona bem em bebês |
 
 ### Frase-âncora para não esquecer

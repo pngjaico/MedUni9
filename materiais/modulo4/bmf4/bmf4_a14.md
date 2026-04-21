@@ -2,7 +2,7 @@
 
 O cérebro é um órgão que não tolera falta de sangue. Apenas alguns minutos sem oxigênio e glicose podem causar danos irreversíveis. Na prova, os temas centrais são o **Círculo de Willis**, os territórios das **Artérias Cerebrais (Anterior, Média e Posterior)** e as síndromes de **AVC** relacionadas a cada uma.
 
-Na prática, o médico deve ser capaz de olhar para um paciente paralisado e dizer qual artéria entupiu. Se a perna não move, o problema é em um lugar; se o rosto e o braço pararam, o problema é outro. O tempo é cérebro: quanto mais rápido você entende a anatomia da obstrução, mais rápido pode tentar desobstruir o vaso.
+Na prática, o médico deve ser capaz de olhar para um paciente paralisado e dizer qual artéria entupiu. Se a perna não move, o problema é em um lugar; se o rosto e o braço pararam, o problema é outro. O **tempo é cérebro**: quanto mais rápido você entende a anatomia da obstrução, mais rápido pode tentar desobstruir o vaso.
 
 ---
 
@@ -27,6 +27,7 @@ O cérebro recebe sangue por dois sistemas principais:
 ## 2. A Trindade das Artérias Cerebrais
 
 Cada grande artéria cuida de uma "fatia" do cérebro:
+- **Cada grande artéria cuida de uma "fatia" do cérebro:
 - **Artéria Cerebral Anterior (ACA):** Irriga a face medial do cérebro. **Foco:** Controla o movimento e a sensibilidade das **Pernas**.
 - **Artéria Cerebral Média (ACM):** É a artéria mais importante e a que mais entope. Irriga as laterais. **Foco:** Controla o **Rosto e os Braços**, além da **Fala (Broca/Wernicke)**.
 - **Artéria Cerebral Posterior (ACP):** Irriga a parte de trás. **Foco:** Controla a **Visão**.
@@ -37,7 +38,7 @@ Cada grande artéria cuida de uma "fatia" do cérebro:
 
 O tronco e o cerebelo dependem do sistema de trás (vertebrobasilar):
 - **PICA (Artéria Cerebelar Posterior Inferior):** Se ela entupir, causa a **Síndrome de Wallenberg** (o paciente fica rouco, com soluços e perde o equilíbrio).
-- **Artéria Basilar:** Se ela entupir totalmente na ponte, o paciente entra em **Locked-in** (Enclausuramento): ele vê e ouve tudo, mas não consegue mover nem um músculo, exceto abrir e fechar os olhos.
+- **Artéria Basilar:** Se ela entupir totalmente na ponte, o paciente entra em **Locked-in (Enclausuramento)**: ele vê e ouve tudo, mas não consegue mover nem um músculo, exceto abrir e fechar os olhos.
 
 ---
 

@@ -18,10 +18,10 @@ Na prática, a combinação de **Turgência Jugular**, **Ictus Cordis** desviado
 ## Sequência do Exame Físico
 
 Para garantir a segurança e não omitir sinais, siga a ordem:
-1. **Inspeção Geral:** Estado geral, coloração (cianose) e edema.
+1. **Inspeção Geral:** Estado geral, coloração (**cianose**) e edema.
 2. **Avaliação Venosa Jugular:** Paciente a 30-45°, buscando turgência patológica.
-3. **Palpação de Pulsos:** Ritmo, frequência e amplitude (Pulso filiforme = gravidade).
-4. **Palpação do Precórdio:** Localização do **Ictus Cordis** e presença de frêmitos.
+3. **Palpação de Pulsos:** Ritmo, frequência e amplitude (**Pulso filiforme** = gravidade).
+4. **Palpação do Precórdio:** Localização do **Ictus Cordis** e presença de **frêmitos**.
 5. **Ausculta:** Sistemática, focando em bulhas e sopros.
 
 ---

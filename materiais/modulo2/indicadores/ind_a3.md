@@ -1,8 +1,8 @@
 # IND — Aula 3: Transição Epidemiológica, Demográfica e Nutricional
 
-O Brasil vive um fenômeno triplo: as pessoas estão envelhecendo (Demográfica), adoecendo de formas diferentes (Epidemiológica) e mudando o que comem (Nutricional). Na prova, o tema central é entender que essas mudanças não são "limpas" — no Brasil, o velho e o novo convivem no mesmo território.
+O Brasil vive um fenômeno triplo: as pessoas estão envelhecendo (**Demográfica**), adoecendo de formas diferentes (**Epidemiológica**) e mudando o que comem (**Nutricional**). Na prova, o tema central é entender que essas mudanças não são "limpas" — no Brasil, o velho e o novo convivem no mesmo território.
 
-Na prática, o médico deve estar preparado para tratar, no mesmo dia, uma criança com dengue e um idoso com complicação de diabetes, reflexo dessas transições.
+Na prática, o médico deve estar preparado para tratar, no mesmo dia, uma criança com **dengue** e um idoso com complicação de **diabetes**, reflexo dessas transições.
 
 ---
 
@@ -18,17 +18,17 @@ Na prática, o médico deve estar preparado para tratar, no mesmo dia, uma crian
 ## 1. Transição Demográfica (Quem somos?)
 
 Refere-se à mudança na estrutura etária da população.
-- **O que mudou:** Antigamente morria-se muito cedo e nasciam muitos filhos. Hoje, a mortalidade caiu e a fecundidade (filhos por mulher) também caiu drasticamente.
+- **O que mudou:** Antigamente morria-se muito cedo e nasciam muitos filhos. Hoje, a **mortalidade** caiu e a **fecundidade** (filhos por mulher) também caiu drasticamente.
 - **O Resultado:** A população brasileira está **Envelhecendo**.
-- **Impacto no SUS:** Precisa-se de mais foco em cuidados crônicos e menos em doenças exclusivamente infantis.
+- **Impacto no SUS:** Precisa-se de mais foco em **cuidados crônicos** e menos em doenças exclusivamente infantis.
 
 ---
 
 ## 2. Transição Epidemiológica (Do que morremos?)
 
 Refere-se à mudança no perfil de doenças.
-- **Antes:** Doenças infecciosas e carenciais (diarreia, sarampo) eram as principais causas de morte.
-- **Agora:** Doenças Crônicas Não Transmissíveis (**DCNT**), como Câncer e Infarto, lideram.
+- **Antes:** Doenças **infecciosas e carenciais** (diarreia, sarampo) eram as principais causas de morte.
+- **Agora:** Doenças Crônicas Não Transmissíveis (**DCNT**), como **Câncer** e **Infarto**, lideram.
 - **A "Cilada" Brasileira:** Temos uma **Dupla Carga**. Ainda temos muita Dengue e Tuberculose (velhas doenças) convivendo com o aumento das doenças do coração (novas doenças).
 
 ---
@@ -37,8 +37,8 @@ Refere-se à mudança no perfil de doenças.
 
 Mudança do padrão de estado nutricional da população.
 - **Antigamente:** O grande problema era a **Desnutrição**.
-- **Hoje:** O grande problema é o **Sobrepeso e a Obesidade**.
-- **A Realidade:** Obesidade no Brasil não significa "comer bem". Frequentemente, a pessoa é obesa mas tem carência de vitaminas (come muita caloria vazia/ultraprocessados).
+- **Hoje:** O grande problema é o **Sobrepeso** e a **Obesidade**.
+- **A Realidade:** Obesidade no Brasil não significa "comer bem". Frequentemente, a pessoa é obesa mas tem **carência de vitaminas** (come muita caloria vazia/**ultraprocessados**).
 
 ---
 
@@ -74,9 +74,9 @@ A Uninove adora perguntar se o Brasil já completou essas transições. A respos
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Queda de Fecundidade** | **Queda de Mortalidade** | Menos nascimentos vs **Viver mais tempo** |
-| **DCNT** | **Doenças Infecciosas** | Não passa (Câncer/HAS) vs **Passa (Dengue/Gripe)** |
+| **DCNT** | **Doenças Infecciosas** | **Não passa (Câncer/HAS)** vs Passa (Dengue/Gripe) |
 | **Obesidade** | **Insegurança Alimentar** | Excesso de peso vs **Não saber se vai ter o que comer** |
-| **Transição Demográfica** | **Transição Epidemiológica** | Muda IDADE da população vs **Muda CAUSA da morte** |
+| **Transição Demográfica** | **Transição Epidemiológica** | **Muda IDADE da população** vs Muda CAUSA da morte |
 | **Média Nacional** | **Realidade Local** | Dado Geral vs **Foco no Território (Importante no SUS)** |
 
 ### Frase-âncora para não esquecer

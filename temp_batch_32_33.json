@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 3303,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A 'Claudicação Neurogênica' é um sintoma onde o paciente sente dor e fraqueza nas pernas ao caminhar, que melhora ao inclinar o tronco para a frente (posição de 'empurrar carrinho de supermercado'). Qual a causa anatômica provável?",
+    "opcoes": [
+      "A) Estenose do Canal Vertebral Lombar.",
+      "B) Obstrução da artéria ilíaca.",
+      "C) Ruptura do tendão de Aquiles.",
+      "D) Luxação do quadril."
+    ],
+    "explicacao_geral": "A inclinação para frente aumenta o diâmetro do canal vertebral, aliviando a compressão sobre os nervos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **estenose de canal** causa a claudicação neurogênica típica.",
+      "B": "[INCORRETA] Causaria claudicação vascular (melhora parando de andar, independente da posição do tronco).",
+      "C": "[INCORRETA] Dor aguda localizada, impede o apoio.",
+      "D": "[INCORRETA] Causaria deformidade e encurtamento do membro."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3308,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Ao observar a coluna de um paciente de perfil, o médico nota um aumento da curvatura fisiológica da região dorsal (torácica), conferindo um aspecto 'corcunda'. Qual o termo técnico?",
+    "opcoes": [
+      "A) Escoliose.",
+      "B) Lordose.",
+      "C) Cifose.",
+      "D) Gibosidade."
+    ],
+    "explicacao_geral": "O reconhecimento dos desvios posturais é parte da inspeção estática da coluna.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Desvio lateral da coluna visto de frente/costas.",
+      "B": "[INCORRETA] Curvatura para dentro, fisiológica na cervical e lombar.",
+      "C": "[CORRETA] O aumento da curvatura torácica posterior é chamado de **Hipercifose** ou apenas **Cifose**.",
+      "D": "[INCORRETA] É a proeminência costal visível na escoliose durante o teste de Adams."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3310,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A 'Atrofia Muscular' pode ser observada na inspeção estática. Qual a importância de notar atrofia da musculatura tenar (na base do polegar)?",
+    "opcoes": [
+      "A) Sugere lesão do nervo ulnar.",
+      "B) Sugere compressão crônica do nervo mediano (Síndrome do Túnel do Carpo).",
+      "C) É um sinal normal de envelhecimento em todos os pacientes.",
+      "D) Indica que o paciente é canhoto."
+    ],
+    "explicacao_geral": "A atrofia indica desuso prolongado ou denervação persistente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O ulnar inerva a maioria dos músculos intrínsecos e a eminência hipotenar (lado do dedinho).",
+      "B": "[CORRETA] A **atrofia tenar** é um sinal de gravidade na **Síndrome do Túnel do Carpo**.",
+      "C": "[INCORRETA] Pode haver perda de massa (sarcopenia), mas atrofia focal tenar é patológica.",
+      "D": "[INCORRETA] Não há relação."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3313,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual a técnica correta recomendada para a avaliação da temperatura local (calor) durante a palpação de uma articulação?",
+    "opcoes": [
+      "A) Utilizar a palma da mão, pressionando com força.",
+      "B) Utilizar o dorso da mão (costas das mãos), comparando com a articulação contralateral.",
+      "C) Utilizar apenas a ponta do dedo indicador.",
+      "D) Não é necessário palpar, basta olhar a cor da pele."
+    ],
+    "explicacao_geral": "O dorso da mão é mais sensível a variações de temperatura do que a palma.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A palma da mão é menos sensível e a pressão pode esconder o calor local.",
+      "B": "[CORRETA] O **dorso da mão** é a técnica padrão para detectar **calor local**.",
+      "C": "[INCORRETA] Área muito pequena para uma comparação fidedigna.",
+      "D": "[INCORRETA] O calor pode estar presente sem rubor (vermelhidão)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3320,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A palpação da 'Goteira Bicipital' no ombro visa avaliar qual estrutura anatômica frequentemente inflamada?",
+    "opcoes": [
+      "A) Tendão do músculo deltóide.",
+      "B) Tendão da cabeça longa do músculo bíceps braquial.",
+      "C) Nervo axilar.",
+      "D) Clavícula distal."
+    ],
+    "explicacao_geral": "O tendão bicipital passa por um sulco no úmero e sua palpação dolorosa indica tendinite bicipital.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O deltóide recobre a região, mas não é palpado na goteira.",
+      "B": "[CORRETA] A **cabeça longa do bíceps** corre dentro da goteira bicipital.",
+      "C": "[INCORRETA] O nervo não é palpado nesse local de forma diagnóstica habitual.",
+      "D": "[INCORRETA] Localizada superiormente (articulação acromioclavicular)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3325,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A 'Goniometria' é a técnica utilizada para medir objetivamente os ângulos das articulações. Qual o instrumento utilizado para esta finalidade?",
+    "opcoes": [
+      "A) Estetoscópio.",
+      "B) Esfigmomanômetro.",
+      "C) Martelo de reflexos.",
+      "D) Goniômetro."
+    ],
+    "explicacao_geral": "A medida exata da amplitude ajuda a monitorar a evolução da fisioterapia ou da doença.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Usado na ausculta.",
+      "B": "[INCORRETA] Usado para medir pressão arterial.",
+      "C": "[INCORRETA] Usado para testes neurológicos.",
+      "D": "[CORRETA] O **goniômetro** é uma espécie de transferidor clínico para medir a **amplitude articular**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3328,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A 'Hipermetria' ou frouxidão ligamentar generalizada pode ser pontuada pelo Escore de Beighton. Qual das opções é um teste componente desse escore?",
+    "opcoes": [
+      "A) Conseguir morder o próprio cotovelo.",
+      "B) Conseguir girar a cabeça 180 graus.",
+      "C) Conseguir tocar a nuca com o pé.",
+      "D) Hiperextensão passiva do 5º quirodáctilo (dedinho) além de 90 graus."
+    ],
+    "explicacao_geral": "O escore de Beighton avalia a hipermobilidade articular sistêmica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Teste inexistente na escala clínica.",
+      "B": "[INCORRETA] Impossível em humanos vivos.",
+      "C": "[INCORRETA] Não faz parte dos 9 pontos da escala.",
+      "D": "[CORRETA] A **hiperextensão do 5º dedo** é um dos critérios clássicos do **Escore de Beighton**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3335,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A 'Artrite Microcristalina' engloba a Gota e a Pseudogota (Condrocalcinose). Qual a diferença no cristal envolvido na Pseudogota?",
+    "opcoes": [
+      "A) Cristal de Pirofosfato de Cálcio.",
+      "B) Cristal de Monourato de Sódio.",
+      "C) Cristal de Colesterol.",
+      "D) Cristal de Oxalato de Cálcio."
+    ],
+    "explicacao_geral": "A pseudogota mimetiza a gota clinamente, mas ocorre mais em idosos e em joelhos/punhos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Pseudogota** é causada pelo depósito de **Pirofosfato de Cálcio**.",
+      "B": "[INCORRETA] Este é o cristal da Gota clássica.",
+      "C": "[INCORRETA] Não causa artrite aguda microcristalina clássica.",
+      "D": "[INCORRETA] Comumente associado a cálculos renais."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3336,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual 'Red Flag' semiológica em um paciente com dor articular sugeriria um processo NEOPLÁSICO (Câncer) ósseo?",
+    "opcoes": [
+      "A) Dor que ocorre apenas ao meio-dia.",
+      "B) Dor que melhora com fisioterapia em uma semana.",
+      "C) Fraqueza apenas em um dedo.",
+      "D) Dor óssea persistente, que piora à noite e não cede com repouso, associada a perda de peso."
+    ],
+    "explicacao_geral": "A dor neoplásica é progressiva e incoercível pelo repouso físico.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Horário sem correlação fisiopatológica.",
+      "B": "[INCORRETA] Câncer não melhora rapidamente com medidas locais simples.",
+      "C": "[INCORRETA] Sugere lesão nervosa focal ou tendínea.",
+      "D": "[CORRETA] **Dor noturna** e **perda ponderal** são sinais de alerta para malignidade."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3339,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A utilização de 'checklist' em práticas simuladas tem como objetivo principal:",
+    "opcoes": [
+      "A) Garantir que todas as etapas do exame físico sistemático sejam cumpridas sem omissões.",
+      "B) Avaliar apenas a velocidade com que o aluno termina a estação.",
+      "C) Servir como prova de que o aluno é um bom médico.",
+      "D) Substituir o raciocínio clínico pela memorização de itens."
+    ],
+    "explicacao_geral": "O checklist padroniza a avaliação e garante a segurança do paciente pela completitude do exame.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **checklist** evita a **omissão de etapas críticas** (Ex: lavar as mãos, comparar os dois lados).",
+      "B": "[INCORRETA] A qualidade e técnica são mais importantes que a velocidade.",
+      "C": "[INCORRETA] Avalia competência técnica pontual, não a totalidade da competência médica.",
+      "D": "[INCORRETA] O checklist organiza o raciocínio, não o substitui."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3341,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O 'Feedback' após uma prática simulada é considerado o momento mais importante do aprendizado. Qual a característica de um bom feedback?",
+    "opcoes": [
+      "A) Apontar apenas os erros de forma agressiva para que o aluno não esqueça.",
+      "B) Ser construtivo, baseado em evidências observadas e focado em comportamentos que podem ser melhorados.",
+      "C) Dizer apenas que 'foi tudo bem' para não desmotivar o grupo.",
+      "D) Criticar a personalidade do estudante."
+    ],
+    "explicacao_geral": "O feedback orienta o estudante sobre sua performance real versus o padrão esperado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O feedback punitivo impede o aprendizado efetivo no ambiente seguro da simulação.",
+      "B": "[CORRETA] O **feedback estruturado** foca no **aprimoramento de competências**.",
+      "C": "[INCORRETA] Feedback vazio não gera crescimento técnico.",
+      "D": "[INCORRETA] O feedback deve ser sobre a tarefa/ação, não sobre a pessoa."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3342,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Ao realizar o exame físico da coluna em um manequim simulado, o instrutor pede para o aluno avaliar a 'Gibosidade'. Qual manobra deve ser simulada?",
+    "opcoes": [
+      "A) Teste de Lasègue.",
+      "B) Teste de Romberg.",
+      "C) Percussão das apófises espinhosas.",
+      "D) Teste de Adams (inclinação do tronco para frente)."
+    ],
+    "explicacao_geral": "A gibosidade é a assimetria das costelas na escoliose estrutural.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Avalia compressão radicular lombar.",
+      "B": "[INCORRETA] Avalia equilíbrio e propriocepção.",
+      "C": "[INCORRETA] Avalia dor óssea localizada (Ex: fratura/infecção).",
+      "D": "[CORRETA] O **Teste de Adams** evidencia a rotação vertebral através da **gibosidade**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3347,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O sigilo médico deve ser mantido rigorosamente durante a prática no ambulatório escola. Em qual situação abaixo a quebra do sigilo é permitida por dever legal?",
+    "opcoes": [
+      "A) Contar o diagnóstico para o vizinho do paciente sem permissão.",
+      "B) Postar fotos do exame físico nas redes sociais para ganhar seguidores.",
+      "C) Notificação de doenças de comunicação compulsória ou suspeita de violência contra vulneráveis.",
+      "D) Nunca, sob nenhuma circunstância, nem por ordem judicial."
+    ],
+    "explicacao_geral": "O sigilo é a regra, mas a proteção da saúde pública e de vulneráveis são exceções legais.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Infração ética grave.",
+      "B": "[INCORRETA] Violação grave do código de ética e do direito à imagem.",
+      "C": "[CORRETA] A **notificação compulsória** e a **proteção de vulneráveis** são deveres legais superiores ao sigilo individual.",
+      "D": "[INCORRETA] Existem exceções previstas no Código de Ética Médica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3350,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A 'Adesão Terapêutica' é o maior desafio no ambulatório. Qual estratégia comprovadamente melhora a adesão do paciente ao tratamento de fisioterapia em casa?",
+    "opcoes": [
+      "A) Envolvimento do paciente na tomada de decisão e pactuação de metas realistas.",
+      "B) Dar ordens diretas e secas sem explicar o porquê.",
+      "C) Entregar um folheto e não falar nada.",
+      "D) Ameaçar o paciente dizendo que ele vai ficar inválido."
+    ],
+    "explicacao_geral": "Decisões compartilhadas geram maior compromisso do paciente com sua própria saúde.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **cuidado centrado no paciente** aumenta a adesão.",
+      "B": "[INCORRETA] Piora a relação médico-paciente e a confiança.",
+      "C": "[INCORRETA] Informação sem contexto é pouco eficaz.",
+      "D": "[INCORRETA] Coerção gera medo e baixa adesão a longo prazo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3352,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual a periodicidade ideal para o médico reavaliar os exames laboratoriais de monitorização (Ex: Creatinina, TGO/TGP) em um paciente de ambulatório que iniciou o uso crônico de Metotrexato?",
+    "opcoes": [
+      "A) Apenas se o paciente passar mal daqui a 5 anos.",
+      "B) Periodicamente (mensal no início, depois trimestral) devido ao risco de toxicidade hepática e medular.",
+      "C) Todos os dias.",
+      "D) Nunca, os exames iniciais são o que valem forever."
+    ],
+    "explicacao_geral": "Drogas modificadoras do curso da doença exigem vigilância de efeitos adversos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Pode ser tarde demais.",
+      "B": "[CORRETA] O **monitoramento periódico** é indispensável na segurança do paciente sob medicação reumatológica.",
+      "C": "[INCORRETA] Inviável e desnecessário se o paciente estiver estável.",
+      "D": "[INCORRETA] Perfil de segurança muda com o tempo e dosagem."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3356,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O 'Plano Terapêutico' deve ser a conclusão de uma boa discussão de caso. Qual componente NÃO deve faltar em um plano ambulatorial bem feito?",
+    "opcoes": [
+      "A) Apenas a receita de analgésico.",
+      "B) O nome de um cirurgião famoso que o paciente deve procurar fora do SUS.",
+      "C) Medidas imediatas, Orientações de autocuidado e Sinais de Alarme para retorno antecipado.",
+      "D) Um pedido de 50 sessões de fisioterapia sem diagnóstico definido."
+    ],
+    "explicacao_geral": "O plano deve ser completo e garantir que o paciente saiba o que fazer em caso de piora.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Plano incompleto e meramente sintomático.",
+      "B": "[INCORRETA] Antiético e foge do fluxo assistencial padrão.",
+      "C": "[CORRETA] **Sinais de Alarme** são o seguro de vida do paciente e do médico.",
+      "D": "[INCORRETA] O tratamento deve ser baseado no diagnóstico sindrômico ou nosológico."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3358,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Durante a discussão de equipe, o médico assistente pergunta: 'Qual o impacto funcional da dor na vida deste paciente?'. Por que essa pergunta é crucial?",
+    "opcoes": [
+      "A) Para saber se ele vai faltar ao trabalho por preguiça.",
+      "B) Para decidir o valor da aposentadoria dele.",
+      "C) Não é crucial, dor é dor em qualquer pessoa.",
+      "D) Porque a gravidade da doença musculoesquelética é medida pela perda de independência e qualidade de vida, não apenas pela intensidade da dor."
+    ],
+    "explicacao_geral": "O objetivo final do tratamento é restaurar a função e autonomia.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Atitude preconceituosa contra o paciente.",
+      "B": "[INCORRETA] Função pericial que não é o foco do tratamento clínico agudo.",
+      "C": "[INCORRETA] O contexto do paciente muda a agressividade da conduta.",
+      "D": "[CORRETA] O **impacto funcional** orienta a prioridade do cuidado e da reabilitação."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3359,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Em uma reunião clínica interdisciplinar, o fisioterapeuta levanta uma dúvida sobre a estabilidade articular de um paciente. Qual a atitude correta do estudante de medicina?",
+    "opcoes": [
+      "A) Dizer que médico sabe mais e ignorar o comentário.",
+      "B) Escutar a perspectiva do colega, revisar o exame físico juntos e ajustar o plano se necessário.",
+      "C) Sair da sala nervoso.",
+      "D) Recomendar que o paciente troque de fisioterapeuta."
+    ],
+    "explicacao_geral": "A prática colaborativa reduz erros diagnósticos e melhora o desfecho do paciente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Atitude arrogante que prejudica o paciente e a equipe.",
+      "B": "[CORRETA] O **trabalho em equipe** é fundamental para o sucesso do tratamento musculoesquelético.",
+      "C": "[INCORRETA] Falta de profissionalismo.",
+      "D": "[INCORRETA] Atitude antiética se não houver motivo técnico real."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3361,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Antes da criação do SUS, o acesso à saúde pública no Brasil era fragmentado. Quem tinha direito à assistência médica pelo INAMPS (Instituto Nacional de Assistência Médica da Previdência Social)?",
+    "opcoes": [
+      "A) Toda a população brasileira, independente de renda.",
+      "B) Apenas as crianças e gestantes.",
+      "C) Apenas os trabalhadores com carteira assinada (contribuintes da previdência).",
+      "D) Apenas os moradores de áreas rurais."
+    ],
+    "explicacao_geral": "O sistema era contributivo, deixando os 'indigentes' (não trabalhadores formais) dependentes de caridade ou santas casas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A universalidade só veio com a Constituição de 1988 e o SUS.",
+      "B": "[INCORRETA] Havia programas específicos, mas o sistema previdenciário era para o trabalhador.",
+      "C": "[CORRETA] O **INAMPS** era voltado ao **trabalhador formal**; o restante da população era excluída.",
+      "D": "[INCORRETA] Os trabalhadores rurais foram incluídos tardiamente pelo FUNRURAL."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3362,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual evento histórico, realizado em 1986, é considerado o marco fundamental da Reforma Sanitária e base para a criação do SUS na Constituição de 1988?",
+    "opcoes": [
+      "A) 8ª Conferência Nacional de Saúde.",
+      "B) Revolta da Vacina.",
+      "C) Criação do Ministério da Saúde.",
+      "D) Conferência de Alma-Ata."
+    ],
+    "explicacao_geral": "A 8ª Conferência foi a primeira com ampla participação popular e definiu o conceito de saúde como direito de todos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **8ª CNS** consolidou as diretrizes do **SUS** e a democracia na saúde.",
+      "B": "[INCORRETA] Ocorreu em 1904, contra a vacinação obrigatória liderada por Oswaldo Cruz.",
+      "C": "[INCORRETA] Ocorreu em 1953, mas a reforma sanitária foi um movimento posterior.",
+      "D": "[INCORRETA] Ocorreu na URSS em 1978, definindo a Atenção Primária em nível mundial."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3363,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Um historiador estuda o período de 1923, quando a 'Lei Eloy Chaves' foi promulgada. Qual a importância dessa lei para a previdência e saúde no Brasil?",
+    "opcoes": [
+      "A) Criou o Ministério da Educação e Saúde.",
+      "B) Criou as Caixas de Aposentadoria e Pensões (CAPs) por empresa.",
+      "C) Instituiu a vacinação obrigatória contra a gripe.",
+      "D) Deu fim ao INAMPS."
+    ],
+    "explicacao_geral": "As CAPs eram organizadas por empresas (como ferroviários) e iniciaram a relação entre trabalho formal e acesso à saúde.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ocorreu na década de 30 com Vargas.",
+      "B": "[CORRETA] A **Lei Eloy Chaves** é o marco inicial da **Previdência Social** no Brasil via **CAPs**.",
+      "C": "[INCORRETA] Não está relacionado à lei.",
+      "D": "[INCORRETA] O INAMPS foi criado muito depois e extinto na década de 90."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3364,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Na 'Era Vargas', as CAPs (por empresa) foram substituídas por modelos organizados por categorias profissionais. Qual o nome dessa nova estrutura?",
+    "opcoes": [
+      "A) SUS regionais.",
+      "B) Santas Casas de Misericórdia.",
+      "C) Unidades de Pronto Atendimento.",
+      "D) Institutos de Aposentadoria e Pensões (IAPs)."
+    ],
+    "explicacao_geral": "Os IAPs (Ex: Marítimos, Bancários) centralizaram os recursos e o poder sobre o estado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O SUS é pós-1988.",
+      "B": "[INCORRETA] Instituições filantrópicas que existem desde o período colonial.",
+      "C": "[INCORRETA] Modelo recente de atenção às urgências.",
+      "D": "[CORRETA] Os **IAPs** centralizaram a previdência por **categoria profissional** durante o governo Vargas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3365,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Durante o início do século XX, o Brasil adotou o 'Sanitarismo Campanhista', liderado por figuras como Oswaldo Cruz. Qual era a principal estratégia desse modelo?",
+    "opcoes": [
+      "A) Investimento pesado na atenção primária e prevenção individual.",
+      "B) Democratização total das decisões de saúde.",
+      "C) Ações autoritárias e impositivas focadas no controle de doenças específicas (pestes) que ameaçavam a economia exportadora.",
+      "D) Criação de hospitais de luxo para a população carente."
+    ],
+    "explicacao_geral": "O objetivo era 'limpar' os portos (Rio e Santos) para garantir o comércio, muitas vezes usando a força policial.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O foco era no coletivo 'peste' e não no indivíduo ou prevenção ampla.",
+      "B": "[INCORRETA] Era um modelo extremamente autoritário (gerando a Revolta da Vacina).",
+      "C": "[CORRETA] O **Sanitarismo Campanhista** visava erradicar focos de doenças para proteger o **fluxo econômico**.",
+      "D": "[INCORRETA] Absurdo para a época."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3366,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A Conferência de Alma-Ata (1978) influenciou profundamente a Reforma Sanitária Brasileira ao defender qual conceito fundamental?",
+    "opcoes": [
+      "A) Atenção Primária à Saúde como porta de entrada e centro do sistema para atingir 'Saúde para todos no ano 2000'.",
+      "B) Privatização total dos hospitais públicos.",
+      "C) Uso obrigatório de tecnologia de última geração para todos os sintomas.",
+      "D) Extinção da profissão de médico de família."
+    ],
+    "explicacao_geral": "Alma-Ata definiu que a saúde requer ações intersetoriais e foco na necessidade social básica.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] **Alma-Ata** é o marco mundial da **Atenção Primária à Saúde**.",
+      "B": "[INCORRETA] Defendia justamente o papel do estado e da comunidade.",
+      "C": "[INCORRETA] Defendia tecnologias apropriadas e custo-efetivas.",
+      "D": "[INCORRETA] Pelo contrário, valorizou a medicina geral e comunitária."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3367,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "No período do Milagre Econômico (Ditadura Militar), houve um incentivo maciço ao 'Modelo Médico-Assistencial Privatista'. Como isso se refletia no sistema de saúde da época?",
+    "opcoes": [
+      "A) Criação de milhares de postos de saúde na periferia.",
+      "B) O governo (INAMPS) comprava serviços de hospitais privados e focava em cura/hospitalização, em vez de prevenção.",
+      "C) Proibição do funcionamento de clínicas particulares.",
+      "D) O foco era total na saúde ambiental e saneamento básico."
+    ],
+    "explicacao_geral": "Neste período, a 'medicina de cura' e a indústra hospitalar cresceram com subsidios estatais, negligenciando a saúde pública preventiva.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A rede pública de postos era mínima e negligenciada.",
+      "B": "[CORRETA] O **Modelo Privatista** financiou o setor privado com verbas do **INAMPS**, focando no hospital.",
+      "C": "[INCORRETA] Pelo contrário, houve estímulo à iniciativa privada.",
+      "D": "[INCORRETA] O saneamento básico sofreu grande desinvestimento relativo nesse período."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3368,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Antes do SUS, os cidadãos que não tinham carteira assinada nem dinheiro para pagar consultas eram chamados na linguagem da época de:",
+    "opcoes": [
+      "A) Clientes preferenciais.",
+      "B) Segurados obrigatórios.",
+      "C) Contribuintes facultativos.",
+      "D) Indigentes."
+    ],
+    "explicacao_geral": "O termo refletia a falta de cidadania na saúde e a dependência da caridade.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ironia sem base técnica.",
+      "B": "[INCORRETA] Eram os trabalhadores formais.",
+      "C": "[INCORRETA] Não define o grupo excluído.",
+      "D": "[CORRETA] O termo **indigente** era usado para designar os brasileiros sem direito ao sistema previdenciário de saúde."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3370,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "A Constituição de 1988 insere a Saúde dentro de um sistema maior de proteção social. Qual o nome desse sistema?",
+    "opcoes": [
+      "A) Bolsa Família.",
+      "B) Seguro Desemprego.",
+      "C) Previdência Privada.",
+      "D) Seguridade Social."
+    ],
+    "explicacao_geral": "A Seguridade Social compreende um conjunto integrado de ações destinadas a assegurar os direitos à Saúde, Previdência e Assistência Social.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Programa de transferência de renda, parte da assistência social.",
+      "B": "[INCORRETA] Benefício trabalhista específico.",
+      "C": "[INCORRETA] Complemento individual de renda.",
+      "D": "[CORRETA] A **Seguridade Social** (Tríade: Saúde, Previdência e Assistência) é o guarda-chuva constitucional."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3372,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O Artigo 199 da Constituição Federal trata da participação da iniciativa privada na saúde. Como essa participação é definida?",
+    "opcoes": [
+      "A) A iniciativa privada é a gestora principal do SUS.",
+      "B) É proibida a participação de hospitais particulares no território nacional.",
+      "C) A assistência à saúde é livre à iniciativa privada, podendo participar do SUS de forma complementar.",
+      "D) Hospitais privados devem ser estatizados obrigatoriamente."
+    ],
+    "explicacao_geral": "O Estado recorre ao setor privado quando sua capacidade instalada é insuficiente, priorizando entidades filantrópicas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A gestão é pública (federal, estadual ou municipal).",
+      "B": "[INCORRETA] É livre ao setor privado explorar o mercado de saúde.",
+      "C": "[CORRETA] O setor privado atua em **caráter complementar**, seguindo as diretrizes do SUS.",
+      "D": "[INCORRETA] Não há previsão de estatização forçada."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3376,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A Constituição de 1988 proíbe a destinação de recursos públicos para auxílios ou subvenções a instituições privadas com fins lucrativos. Qual a exceção a essa regra que permite o financiamento complementar?",
+    "opcoes": [
+      "A) Entidades filantrópicas e sem fins lucrativos (como as Santas Casas).",
+      "B) Grandes redes de hospitais de luxo estrangeiros.",
+      "C) Clínicas de estética para a classe alta.",
+      "D) Não existe exceção, nenhuma verba pública pode ir para o privado."
+    ],
+    "explicacao_geral": "O SUS prioriza o contratualismo com quem tem vocação social demonstrada.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] As **entidades filantrópicas** são as parceiras preferenciais do SUS na rede complementar.",
+      "B": "[INCORRETA] Fere o preceito de prioridade social.",
+      "C": "[INCORRETA] Assistência estética não essencial não é prioridade do financiamento SUS.",
+      "D": "[INCORRETA] Existe a previsão legal para o caráter complementar."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3382,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O princípio da 'Resolutividade' no SUS exige que os serviços de saúde estejam preparados para resolver a maioria dos problemas apresentados pela população. Qual a meta de resolutividade esperada da Atenção Básica?",
+    "opcoes": [
+      "A) Aproximadamente 80% a 90% dos problemas de saúde da comunidade.",
+      "B) Apenas 10%, pois tudo deve ser enviado ao especialista.",
+      "C) 100%, sem necessidade de hospitais secundários.",
+      "D) 0%, a UBS serve apenas para pesar crianças e medir pressão."
+    ],
+    "explicacao_geral": "Uma Atenção Básica forte filtra a entrada do sistema e evita a sobrecarga dos hospitais.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Espera-se que a **Atenção Básica** resolva a imensa **maioria (80-90%)** das demandas de saúde.",
+      "B": "[INCORRETA] Se fosse assim, o sistema de especialistas colapsaria.",
+      "C": "[INCORRETA] Casos complexos e cirurgias exigem níveis superiores de cuidado.",
+      "D": "[INCORRETA] Visão preconceituosa que ignora o papel técnico do médico de família."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3384,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Um conselho municipal de saúde vota contra a construção de uma nova praça com verba da saúde, exigindo que o dinheiro seja usado em remédios. Qual princípio organizativo está sendo exercido?",
+    "opcoes": [
+      "A) Hierarquização.",
+      "B) Equidade.",
+      "C) Resolutividade.",
+      "D) Participação Popular (Controle Social)."
+    ],
+    "explicacao_geral": "O controle social permite à comunidade decidir e fiscalizar as políticas públicas de saúde.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Refere-se aos níveis de atenção.",
+      "B": "[INCORRETA] Refere-se à justiça distributiva.",
+      "C": "[INCORRETA] Refere-se à capacidade técnica de cura/tratamento.",
+      "D": "[CORRETA] A atuação dos **Conselhos de Saúde** é a expressão máxima da **Participação Popular**."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3389,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As Conferências de Saúde são fóruns de debate para avaliar a situação de saúde e propor diretrizes. Qual a periodicidade obrigatória de realização das Conferências de Saúde segundo a Lei 8.142?",
+    "opcoes": [
+      "A) Todos os meses.",
+      "B) A cada 2 anos.",
+      "C) A cada 4 anos.",
+      "D) Apenas quando o presidente da república solicitar."
+    ],
+    "explicacao_geral": "As conferências ocorrem nas três esferas de governo para planejar o futuro do sistema.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Inviável logisticamente para conferências amplas.",
+      "B": "[INCORRETA] Os conselhos são permanentes, as conferências não.",
+      "C": "[CORRETA] As **Conferências de Saúde** ocorrem obrigatoriamente a cada **4 anos**.",
+      "D": "[INCORRETA] É um dever legal independente da vontade política pontual."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3391,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A Lei 8.080 estabelece que as ações de saúde do trabalhador incluem a revisão periódica da listagem oficial de doenças originadas no processo de trabalho. Qual a finalidade assistencial dessa ação?",
+    "opcoes": [
+      "A) Garantir o nexo causal para fins de diagnóstico, tratamento e proteção previdenciária do trabalhador.",
+      "B) Aumentar o preço dos planos de saúde das empresas.",
+      "C) Culpar o trabalhador pela própria doença.",
+      "D) Impedir que o trabalhador se aposente."
+    ],
+    "explicacao_geral": "O SUS deve olhar para o ambiente de trabalho como um local de risco e prevenção.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Saúde do Trabalhador** visa integrar o cuidado com a realidade laboral.",
+      "B": "[INCORRETA] O SUS não foca no lucro de planos privados.",
+      "C": "[INCORRETA] O foco é na responsabilidade ambiental e laboral do empregador/estado.",
+      "D": "[INCORRETA] Visa o contrário: proteger os direitos do trabalhador adoecido."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3396,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O modelo 'Flexneriano' (ou Biomédico), que dominou a medicina por décadas, é criticado no contexto do SUS por qual motivo?",
+    "opcoes": [
+      "A) Por ser focado na doença e na especialização excessiva, negligenciando os aspectos sociais e a prevenção.",
+      "B) Por ser muito barato e simples.",
+      "C) Por proibir o uso de estetoscópios.",
+      "D) Por defender que todos devem ter acesso à saúde."
+    ],
+    "explicacao_geral": "O modelo flexneriano fragmenta o corpo humano e foca apenas no tratamento da patologia biológica isolada.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Modelo Biomédico** é focado na cura da 'máquina' biológica, ignorando o contexto de vida.",
+      "B": "[INCORRETA] Pelo contrário, exige alta tecnologia e é muito custoso.",
+      "C": "[INCORRETA] Absurdo sem base histórica.",
+      "D": "[INCORRETA] Esta é uma defesa do modelo sanitário/comunitário, não do puramente flexneriano."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3400,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Uma UBS decide abrir em horário estendido (até às 21h) para atender trabalhadores que não conseguem ir ao médico durante o horário comercial. Qual atributo essencial da APS está sendo fortalecido?",
+    "opcoes": [
+      "A) Integralidade.",
+      "B) Longitudinalidade.",
+      "C) Acesso (Primer Contato).",
+      "D) Regionalização."
+    ],
+    "explicacao_geral": "Acesso não é apenas ter o prédio aberto, mas ter horários e acolhimento compatíveis com a necessidade da população.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Refere-se à oferta de serviços diversos.",
+      "B": "[INCORRETA] Refere-se ao acompanhamento ao longo do tempo.",
+      "C": "[CORRETA] A redução de barreiras geográficas, temporais e organizacionais melhora o **Acesso**.",
+      "D": "[INCORRETA] Atributo organizativo da rede territorial."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3407,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Um município apresenta baixos indicadores de cobertura vacinal e alta mortalidade infantil. O governo federal utiliza repasses financeiros extras vinculados ao cumprimento de metas de desempenho. Qual o nome dessa lógica de financiamento por resultados?",
+    "opcoes": [
+      "A) Piso de Atenção Básica Fixo.",
+      "B) Pagamento por Desempenho (dentro do modelo atual como o Previne Brasil).",
+      "C) Multa eleitoral.",
+      "D) Subsídio por km rodado."
+    ],
+    "explicacao_geral": "Atualmente, parte do financiamento municipal depende do alcance de indicadores de saúde específicos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Valor per capita fixo que era comum no passado, independentemente do desempenho.",
+      "B": "[CORRETA] O **Pagamento por Desempenho** busca induzir melhorias nos resultados de saúde pública.",
+      "C": "[INCORRETA] Não é uma multa, mas um incentivo ao cumprimento de metas.",
+      "D": "[INCORRETA] Não reflete a complexidade da gestão em saúde."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3408,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A 'Gestão Plena do Sistema' por um Município significa que:",
+    "opcoes": [
+      "A) O prefeito pode fechar todos os hospitais e usar o dinheiro em festas.",
+      "B) O município não precisa mais prestar contas ao Tribunal de Contas.",
+      "C) O governo federal assume as dívidas do prefeito.",
+      "D) O município assume a responsabilidade total pela gestão de todos os serviços de saúde em seu território, inclusive os prestadores privados e estaduais contratualizados."
+    ],
+    "explicacao_geral": "Isso demonstra a maturidade administrativa do município no comando do SUS local.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Fere o dever constitucional de assistência pública.",
+      "B": "[INCORRETA] A prestação de contas é obrigatória e rigorosa.",
+      "C": "[INCORRETA] O financiamento é pactuado, não há assumção de dívidas irresponsáveis.",
+      "D": "[CORRETA] A **Gestão Plena** é o teto da autonomia municipal na **descentralização do SUS**."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3414,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A Ouvidoria do SUS desempenha qual papel principal no controle social?",
+    "opcoes": [
+      "A) Castigar os funcionários que chegam atrasados.",
+      "B) Servir apenas para elogios ao governo.",
+      "C) Vender planos de saúde privados.",
+      "D) Ser um canal de comunicação entre o cidadão e o sistema para denúncias, reclamações, sugestões e elogios."
+    ],
+    "explicacao_geral": "A ouvidoria permite o acompanhamento individual da experiência do usuário no sistema.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Função administrativa/correcional indireta, baseada nos relatórios da ouvidoria.",
+      "B": "[INCORRETA] Deve aceitar críticas e denúncias para melhoria do sistema.",
+      "C": "[INCORRETA] Incompatível com a função pública.",
+      "D": "[CORRETA] A **Ouvidoria** é o canal de escuta e **exercício de cidadania** do usuário."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3416,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Por que a participação dos 'Trabalhadores da Saúde' no Conselho (25% das vagas) é considerada fundamental?",
+    "opcoes": [
+      "A) Para que eles possam pedir aumento de salário toda semana.",
+      "B) Porque eles são os únicos que entendem de biologia.",
+      "C) Para que a perspectiva técnica de quem executa o cuidado real seja integrada às decisões políticas e dos usuários.",
+      "D) Porque eles representam os interesses das multinacionais farmacêuticas."
+    ],
+    "explicacao_geral": "O trabalhador conhece as dificuldades operacionais que o gestor e o usuário podem desconhecer.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A pauta deve ser a política de saúde, não apenas corporativa.",
+      "B": "[INCORRETA] O saber dos usuários (saber de experiência) também é valorizado.",
+      "C": "[CORRETA] O **trabalhador da saúde** traz a **experiência do cotidiano** assistencial para o conselho.",
+      "D": "[INCORRETA] Absurdo ético."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3418,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Qual das redes temáticas do SUS é voltada especificamente para o cuidado integral à gestante e à criança até os 24 meses?",
+    "opcoes": [
+      "A) Rede de Cuidados à Pessoa com Deficiência.",
+      "B) Rede de Atenção Psicossocial (RAPS).",
+      "C) Rede de Urgência e Emergência (RUE).",
+      "D) Rede Cegonha."
+    ],
+    "explicacao_geral": "A Rede Cegonha visa reduzir a mortalidade materna e infantil através da humanização e segurança no parto.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Foco em reabilitação e inclusão.",
+      "B": "[INCORRETA] Foco em saúde mental e dependência química.",
+      "C": "[INCORRETA] Foco no pronto atendimento e SAMU.",
+      "D": "[CORRETA] A **Rede Cegonha** organiza o cuidado materno-infantil em todos os pontos da rede."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3422,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O 'Sistema de Apoio' de uma RAS inclui serviços transversais que dão suporte a todos os pontos de atenção. Qual destes é um exemplo de Sistema de Apoio?",
+    "opcoes": [
+      "A) Recepção da UBS.",
+      "B) Assistência Farmacêutica e Apoio Diagnóstico (exames).",
+      "C) O pátio do estacionamento do hospital.",
+      "D) O jornal da cidade."
+    ],
+    "explicacao_geral": "Os sistemas de apoio garantem insumos e informações necessárias para o cuidado em qualquer nível.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ponto de acolhimento específico de uma unidade.",
+      "B": "[CORRETA] **Farmácia** e **Laboratório** são serviços de apoio fundamentais na rede.",
+      "C": "[INCORRETA] Infraestrutura física secundária.",
+      "D": "[INCORRETA] Meio de comunicação social externo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3430,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Saúde Digital' e o ConecteSUS visam integrar os dados do paciente em todo o Brasil. Qual a principal vantagem clínica dessa integração para o médico na ponta?",
+    "opcoes": [
+      "A) Poder postar as informações no Facebook.",
+      "B) Ter acesso ao histórico vacinal, de exames e consultas realizadas em outras cidades, evitando duplicidade de condutas e erros de prescrição.",
+      "C) Fiscalizar quanto o paciente ganha por mês.",
+      "D) Saber o endereço da ex-namorada do paciente."
+    ],
+    "explicacao_geral": "A informação que acompanha o paciente é vital para a continuidade e segurança do cuidado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Violação ética gravíssima.",
+      "B": "[CORRETA] A **Saúde Digital** promove a **Coordenação do Cuidado** em larga escala.",
+      "C": "[INCORRETA] Não é o foco da integração de dados de saúde pública.",
+      "D": "[INCORRETA] Dado irrelevante e invasão de privacidade."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3432,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A 'Literacia em Saúde' (capacidade do paciente de entender e aplicar informações de saúde) é um desafio atual. Como o médico do SUS pode contribuir para melhorá-la?",
+    "opcoes": [
+      "A) Usando termos técnicos em latim para parecer mais inteligente.",
+      "B) Escrevendo receitas com letra ilegível para manter o mistério.",
+      "C) Explicando de forma clara, simples e adaptada ao contexto cultural do paciente, validando a compreensão ao final da consulta.",
+      "D) Dizendo para o paciente procurar tudo no Google sozinho."
+    ],
+    "explicacao_geral": "A comunicação clara é uma ferramenta terapêutica que aumenta a adesão e a segurança do paciente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Barreiras de linguagem impedem a literacia.",
+      "B": "[INCORRETA] Causa erros de medicação perigosos.",
+      "C": "[CORRETA] A **relação médico-paciente empática** e informativa é o núcleo da **Educação em Saúde**.",
+      "D": "[INCORRETA] O Google pode confundir o paciente sem a mediação técnica do profissional."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3433,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A Teoria Celular é um dos pilares da biologia moderna. Qual das afirmações abaixo define corretamente um de seus postulados centrais?",
+    "opcoes": [
+      "A) As células surgem espontaneamente da matéria bruta (Abiogênese).",
+      "B) Todos os seres vivos são constituídos por uma ou mais células, que são as unidades morfológicas e funcionais da vida.",
+      "C) Apenas os animais possuem células; as plantas são feitas de fibras sólidas.",
+      "D) As células não possuem material genético próprio."
+    ],
+    "explicacao_geral": "A teoria celular estabelece que a vida depende da estrutura celular preexistente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A teoria afirma a Biogênese (células vêm de células preexistentes).",
+      "B": "[CORRETA] Este é o postulado fundamental da **Teoria Celular**.",
+      "C": "[INCORRETA] Todos os seres vivos (incluindo plantas e fungos) são celulares.",
+      "D": "[INCORRETA] O material genético é essencial para a vida celular."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3436,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A resolução de um microscópio é definida como a menor distância entre dois pontos para que eles sejam vistos como distintos. Qual o limite de resolução aproximado do olho humano e do microscópio óptico, respectivamente?",
+    "opcoes": [
+      "A) 1 metro e 1 centímetro.",
+      "B) 1 micrometro e 1 nanometro.",
+      "C) 0,2 milímetros e 0,2 micrômetros.",
+      "D) 10 nanômetros e 10 angstrons."
+    ],
+    "explicacao_geral": "O microscópio óptico aumenta a resolução do olho humano em cerca de 1000 vezes.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Valores macroscópicos demais.",
+      "B": "[INCORRETA] O olho humano não enxerga micrômetros.",
+      "C": "[CORRETA] O **microscópio óptico** atinge o limite de **0,2 µm** devido ao comprimento de onda da luz visível.",
+      "D": "[INCORRETA] Faixa de resolução da microscopia eletrônica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3442,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual a proporção aproximada de água no corpo humano adulto e onde se localiza a maior parte desse volume?",
+    "opcoes": [
+      "A) Cerca de 60-70% do peso corporal, com a maior parte no meio intracelular (dentro das células).",
+      "B) Cerca de 10% do peso corporal, apenas no sangue.",
+      "C) Cerca de 95% do peso corporal, todo no meio extracelular.",
+      "D) A proporção de água não importa para a vida humana."
+    ],
+    "explicacao_geral": "O compartimento intracelular é o maior reservatório hídrico do organismo.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **água intracelular** representa cerca de **2/3 do total** hídrico do corpo.",
+      "B": "[INCORRETA] Valor muito baixo.",
+      "C": "[INCORRETA] Valor alto demais e distribuição invertida.",
+      "D": "[INCORRETA] A homeostase hídrica é vital."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3443,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A propriedade da água que permite que pequenos insetos caminhem sobre ela sem afundar é a:",
+    "opcoes": [
+      "A) Baixa densidade do gelo.",
+      "B) Tensão Superficial (gerada pela coesão entre moléculas de água).",
+      "C) Alta viscosidade.",
+      "D) Capacidade de ebulição."
+    ],
+    "explicacao_geral": "As pontes de hidrogênio na interface ar-água criam uma 'película' resistente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Refere-se à flutuação de sólidos.",
+      "B": "[CORRETA] A **tensão superficial** é crucial em fenômenos como a mecânica pulmonar (surfactante).",
+      "C": "[INCORRETA] A água tem baixa viscosidade.",
+      "D": "[INCORRETA] Refere-se à mudança de estado físico."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3449,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Os carboidratos são as principais fontes de energia rápida para a célula. Qual monossacarídeo é a forma de açúcar mais utilizada no metabolismo energético celular?",
+    "opcoes": [
+      "A) Sacarose.",
+      "B) Glicose.",
+      "C) Amido.",
+      "D) Celulose."
+    ],
+    "explicacao_geral": "A glicose é o combustível universal das células para a produção de ATP.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Dissacarídeo (Glicose + Frutose).",
+      "B": "[CORRETA] A **Glicose** é o monossacarídeo central da glicólise.",
+      "C": "[INCORRETA] Polissacarídeo de reserva vegetal.",
+      "D": "[INCORRETA] Polissacarídeo estrutural vegetal."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3450,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Os lipídios são moléculas orgânicas com diversas funções. Qual das alternativas abaixo descreve uma função EXCLUSIVA dos lipídios na fisiologia humana?",
+    "opcoes": [
+      "A) Transporte de código genético.",
+      "B) Catalisador de reações bioquímicas.",
+      "C) Principal componente estrutural das membranas biológicas (fosfolipídios) e isolamento térmico.",
+      "D) Contração das fibras musculares."
+    ],
+    "explicacao_geral": "A natureza anfipática dos fosfolipídios permite a formação da bicamada lipídica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Função dos ácidos nucleicos.",
+      "B": "[INCORRETA] Função das enzimas (proteínas).",
+      "C": "[CORRETA] Os **lipídios** formam a barreira das **membranas** e protegem contra o frio.",
+      "D": "[INCORRETA] Função das proteínas actina e miosina."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3457,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "As proteínas são polímeros de aminoácidos. Qual o nome da ligação covalente que une dois aminoácidos em uma cadeia polipeptídica?",
+    "opcoes": [
+      "A) Ligação Peptídica.",
+      "B) Ligação Glicosídica.",
+      "C) Ligação Fosfodiéster.",
+      "D) Ponte de Hidrogênio."
+    ],
+    "explicacao_geral": "A ligação ocorre entre o grupamento carboxila de um aminoácido e o grupamento amina de outro.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **ligação peptídica** é a base da estrutura primária das proteínas.",
+      "B": "[INCORRETA] Liga açúcares.",
+      "C": "[INCORRETA] Liga nucleotídeos no DNA/RNA.",
+      "D": "[INCORRETA] É uma ligação fraca (intermolecular) que estabiliza estruturas secundárias e terciárias."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3458,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A 'Estrutura Primária' de uma proteína refere-se a:",
+    "opcoes": [
+      "A) O dobramento em hélices e folhas plissadas.",
+      "B) A associação de várias cadeias polipeptídicas juntas.",
+      "C) A sequência linear exata de aminoácidos na cadeia.",
+      "D) O formato tridimensional final da proteína."
+    ],
+    "explicacao_geral": "A sequência de aminoácidos é determinada geneticamente e define todo o dobramento futuro.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Esta é a estrutura secundária.",
+      "B": "[INCORRETA] Esta é a estrutura quaternária.",
+      "C": "[CORRETA] A **Estrutura Primária** é a ordem dos **aminoácidos** na 'fila'.",
+      "D": "[INCORRETA] Esta é a estrutura terciária."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3466,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Qual o nome da região específica da enzima onde o substrato se liga e a reação química é catalisada?",
+    "opcoes": [
+      "A) Núcleo enzimático.",
+      "B) Cauda de poli-A.",
+      "C) Membrana externa.",
+      "D) Sítio Ativo."
+    ],
+    "explicacao_geral": "O sítio ativo é uma fenda ou cavidade com propriedades químicas específicas para um substrato.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Termo inexistente.",
+      "B": "[INCORRETA] Estrutura do RNA mensageiro.",
+      "C": "[INCORRETA] Referência a organelas, não enzimas isoladas.",
+      "D": "[CORRETA] O **Sítio Ativo** garante a **especificidade** da enzima."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3470,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Certas enzimas precisam de componentes não-proteicos para funcionar, como vitaminas do complexo B ou íons metálicos. Qual o nome dado a esse componente não-proteico orgânico?",
+    "opcoes": [
+      "A) Catalisador.",
+      "B) Resíduo.",
+      "C) Substrato secundário.",
+      "D) Coenzima (ou Cofator se for inorgânico)."
+    ],
+    "explicacao_geral": "A enzima completa e ativa com seu cofator é chamada de Holoenzima.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A enzima toda é o catalisador.",
+      "B": "[INCORRETA] Resíduos são as cadeias laterais de aminoácidos.",
+      "C": "[INCORRETA] O substrato é o que será transformado.",
+      "D": "[CORRETA] **Coenzimas** (orgânicas/vitaminas) e **Cofatores** (íons) são ajudantes essenciais."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3478,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O teste de FRAP (Ferramenta de Recuperação de Fluorescência após Fotobranqueamento) provou qual aspecto fundamental da biologia de membranas?",
+    "opcoes": [
+      "A) Que a membrana é rígida como metal.",
+      "B) Que as proteínas nunca mudam de lugar.",
+      "C) Que os componentes da membrana (lipídios e proteínas) possuem difusão lateral (movimentam-se pelo plano da membrana).",
+      "D) Que a membrana brilha no escuro naturalmente."
+    ],
+    "explicacao_geral": "O FRAP mostrou que áreas 'apagadas' por laser são preenchidas por moléculas vizinhas que migram para lá.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O FRAP prova o oposto.",
+      "B": "[INCORRETA] Quase todas as proteínas se difundem, a menos que ancoradas ao citoesqueleto.",
+      "C": "[CORRETA] O **FRAP** confirmou a **fluidez** do modelo do mosaico fluido.",
+      "D": "[INCORRETA] O brilho vem do corante fluorescente adicionado pelo pesquisador."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3479,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Certas regiões da membrana são ricas em colesterol e esfingolipídios, formando microdomínios mais rígidos e espessos que servem como plataformas para sinalização celular. Qual o nome dessas estruturas?",
+    "opcoes": [
+      "A) Desmossomos.",
+      "B) 'Lipid Rafts' (Balsas Lipídicas).",
+      "C) Ribossomos de membrana.",
+      "D) Canais de Sódio."
+    ],
+    "explicacao_geral": "As balsas lipídicas organizam as proteínas receptoras para facilitar a sinalização.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Junções de ancoragem celular.",
+      "B": "[CORRETA] As **Balsas Lipídicas** são domínios de **especialização funcional** na membrana.",
+      "C": "[INCORRETA] Ribossomos ficam no citoplasma ou RE rugoso.",
+      "D": "[INCORRETA] Proteínas transmembrana específicas, não microdomínios lipídicos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3481,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A 'Difusão Facilitada' é uma forma de transporte passivo. O que a torna diferente da difusão simples?",
+    "opcoes": [
+      "A) Exige gasto de energia (ATP).",
+      "B) Depende da ajuda de proteínas transportadoras (permeases) ou canais iônicos específicos.",
+      "C) Ocorre contra o gradiente de concentração.",
+      "D) Ocorre apenas em células mortas."
+    ],
+    "explicacao_geral": "Ambas as difusões são passivas (a favor do gradiente), mas a facilitada lida com moléculas que não cruzam a gordura sozinhas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Transporte passivo não consome ATP.",
+      "B": "[CORRETA] A **Difusão Facilitada** usa as **proteínas de membrana** para agilizar o fluxo.",
+      "C": "[INCORRETA] Isso define o transporte ativo.",
+      "D": "[INCORRETA] Células vivas utilizam intensamente para glicose e íons."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3487,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Exocitose é o processo de liberação de substâncias para o meio extracelular. Em qual das situações abaixo a exocitose é o mecanismo fundamental de ação?",
+    "opcoes": [
+      "A) Liberação de insulina pelas células beta do pâncreas e neurotransmissores nas sinapses neuronais.",
+      "B) Entrada de oxigênio nos pulmões.",
+      "C) Filtragem de sangue no rim.",
+      "D) Contração do coração."
+    ],
+    "explicacao_geral": "Moléculas grandes produzidas na célula são empacotadas no Golgi e liberadas por vesículas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **secreção de hormônios e sinalizadores** ocorre via **exocitose**.",
+      "B": "[INCORRETA] Ocorre por difusão.",
+      "C": "[INCORRETA] Ocorre por pressão hidrostática (ultrafiltração).",
+      "D": "[INCORRETA] Resultado do deslizamento de proteínas contráteis."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3489,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "A sinalização celular permite que as células respondam ao ambiente. Qual o tipo de sinalização em que a molécula sinalizadora atua em células vizinhas, localizadas a curta distância, sem entrar na corrente sanguínea?",
+    "opcoes": [
+      "A) Sinalização Endócrina.",
+      "B) Sinalização Autócrina.",
+      "C) Sinalização Parácrina.",
+      "D) Sinalização Sináptica distante."
+    ],
+    "explicacao_geral": "A sinalização parácrina é típica de mediadores inflamatórios ou fatores de crescimento locais.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Hormônios viajam pelo sangue até alvos distantes.",
+      "B": "[INCORRETA] A célula sinaliza para si mesma.",
+      "C": "[CORRETA] A **Sinalização Parácrina** é a comunicação com as **vizinhas** de tecido.",
+      "D": "[INCORRETA] Sináptica ocorre entre neurônio e célula alvo via fenda microscópica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3490,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Os receptores de superfície celular são divididos em classes. Qual classe de receptor, após a ligação do ligante, abre ou fecha um canal para permitir o fluxo de íons através da membrana?",
+    "opcoes": [
+      "A) Receptores Ionotrópicos (Canais Iônicos dependentes de ligante).",
+      "B) Receptores Acoplados à Proteína G (GPCR).",
+      "C) Receptores Catalíticos (Tirosina Cinase).",
+      "D) Receptores Nucleares."
+    ],
+    "explicacao_geral": "Estes receptores convertem o sinal químico diretamente em um sinal elétrico/iônico rápido.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Os **Receptores Ionotrópicos** são típicos da neurotransmissão rápida (Ex: Nicotínico).",
+      "B": "[INCORRETA] Atuam via segundos mensageiros, de forma mais lenta.",
+      "C": "[INCORRETA] Atuam via fosforilação de proteínas.",
+      "D": "[INCORRETA] Localizados no interior da célula, não na superfície."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3498,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Os microtúbulos surgem a partir de um centro organizador central na célula eucariótica animal. Qual o nome dessa região?",
+    "opcoes": [
+      "A) Nucleolo.",
+      "B) Mitocondria.",
+      "C) Aparelho de Golgi.",
+      "D) Centrossomo (ou MTOC)."
+    ],
+    "explicacao_geral": "O centrossomo contém o par de centríolos e a matriz pericentriolar rica em tubulina-gama.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Local de síntese de ribossomos dentro do núcleo.",
+      "B": "[INCORRETA] Produção de energia.",
+      "C": "[INCORRETA] Processamento de proteínas.",
+      "D": "[CORRETA] O **Centrossomo** é a 'âncora' dos **microtúbulos** citoplasmáticos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  }
+]

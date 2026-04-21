@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 1602,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Estudante inicia uma estação simulada de exame cardíaco em manequim, com supervisão e tempo delimitado. Em relação ao papel pedagógico da simulação clínica, qual afirmação é mais adequada?",
+    "opcoes": [
+      "A) Promover ponte segura entre conhecimento teórico e execução técnica antes do cenário real.",
+      "B) Substituir integralmente o atendimento a pacientes reais durante toda a graduação.",
+      "C) Servir apenas como entretenimento, sem critérios objetivos de desempenho.",
+      "D) Avaliar unicamente velocidade, dispensando padronização da técnica."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A simulação integra teoria e prática em ambiente controlado, permitindo repetir, receber feedback e reduzir risco antes do contato clínico real.",
+    "explicacoes_opcoes": {
+      "A": "Correta. É o núcleo pedagógico esperado: treino seguro que conecta conteúdo teórico à execução observável.",
+      "B": "Incorreta. A simulação complementa e prepara; não elimina a necessidade de experiência com paciente real supervisionado.",
+      "C": "Incorreta. A estação costuma ter critérios explícitos (técnica, comunicação, síntese), não é lúdica sem avaliação.",
+      "D": "Incorreta. A técnica deve ser padronizada e reprodutível; rapidez isolada não substitui método nem segurança."
+    },
+    "explicacao": "Resumo: A simulação funciona como ponte entre teoria e prática com segurança e método.\nA) CORRETA. Reflete o papel central da simulação no aprendizado cardiorrespiratório.\nB) INCORRETA. Não substitui o cuidado ao paciente real em todos os momentos do curso.\nC) INCORRETA. Há objetivos e feedback estruturado, não é atividade sem critério.\nD) INCORRETA. Padronização e competência importam mais que velocidade isolada.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1606,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Na avaliação de desempenho em estação prática de semiologia, qual papel a comunicação clínica ocupa?",
+    "opcoes": [
+      "A) É avaliada apenas em provas escritas, não na simulação.",
+      "B) Restringe-se a cumprimentar o paciente, sem influência na nota.",
+      "C) Constitui parte obrigatória da avaliação prática, integrada à técnica e à síntese.",
+      "D) Substitui a necessidade de técnica padronizada quando o aluno é eloquente."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Em rubricas de estação, comunicação clínica costuma ser eixo explícito junto à execução técnica e ao raciocínio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. A estação prática cobra comunicação observável, não só teoria escrita.",
+      "B": "Incorreta. Vai além do cumprimento; inclui explicar o exame, escuta ativa e clareza.",
+      "C": "Correta. Reflete que comunicação é componente obrigatório da avaliação prática.",
+      "D": "Incorreta. Eloquência não dispensa técnica reprodutível e método."
+    },
+    "explicacao": "Resumo: Comunicação entra no escore da estação, não é ornamento.\nA) INCORRETA. A simulação avalia habilidade relacional em contexto prático.\nB) INCORRETA. O escopo é mais amplo que formalidade inicial.\nC) CORRETA. Alinhada a critérios típicos de estação prática.\nD) INCORRETA. Técnica e comunicação são complementares, não permutáveis arbitrariamente.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1607,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual distinção conceitual melhor descreve um exame limitado às manobras físicas, sem anamnese dirigida nem síntese ao final?",
+    "opcoes": [
+      "A) Contraste entre exame meramente mecânico e exame clínico completo, que inclui história, relação e síntese.",
+      "B) Diferença entre simulação de alta fidelidade e baixa fidelidade.",
+      "C) Equivalência entre falha pontual e falha de método na mesma gravidade.",
+      "D) Prioridade do diagnóstico final sobre qualquer aspecto de método ou segurança."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Propedêutica integrada opõe execução mecânica das manobras ao exame clínico completo, que incorpora vínculo e fechamento racional.",
+    "explicacoes_opcoes": {
+      "A": "Correta. Reproduz o contraste central entre técnica isolada e propedêutica integrada com vínculo e síntese.",
+      "B": "Incorreta. O enunciado trata de abrangência do exame clínico, não de grau de fidelidade do equipamento de simulação.",
+      "C": "Incorreta. O enunciado não trata de tipos de falha, e sim de abrangência do exame.",
+      "D": "Incorreta. Método, sequência e segurança costumam pesar além do palpite diagnóstico final."
+    },
+    "explicacao": "Resumo: Propedêutica completa exige integração clínica, não só manobras.\nA) CORRETA. Melhor encaixa o contraste mecânico versus completo.\nB) INCORRETA. Desvio de foco do problema descrito.\nC) INCORRETA. Não é o eixo do enunciado.\nD) INCORRETA. Subestima método e processo em favor só do diagnóstico final.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1611,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "No contexto de aprendizado deliberado em simulação clínica, qual postura melhor traduz o significado do erro cometido durante o treino?",
+    "opcoes": [
+      "A) Tratar o erro como fracasso terminal que encerra o aprendizado naquele tema.",
+      "B) Considerar o erro irrelevante se o diagnóstico final estiver correto.",
+      "C) Utilizar o erro como oportunidade de aprendizado deliberado em ambiente seguro.",
+      "D) Ignorar o erro para não prejudicar a autoestima do estudante."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na simulação, o erro deve ser acoplado a feedback e correção de método, não estigmatizado como fim de trajetória.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. O texto enfatiza maturidade de processo e correção, não encerramento do aprendizado.",
+      "B": "Incorreta. Método, comunicação e sequência importam independentemente do palpite final.",
+      "C": "Correta. Reproduz a ideia de erro como ferramenta em contexto seguro de treino.",
+      "D": "Incorreta. O erro deve ser reconhecido e trabalhado, não omitido."
+    },
+    "explicacao": "Resumo: Erro simulado alimenta reflexão e ajuste de conduta sem risco ao paciente.\nA) INCORRETA. Contradiz o papel formativo do erro.\nB) INCORRETA. Subestima critérios de processo.\nC) CORRETA. Alinhada ao conceito de aprendizado deliberado com segurança.\nD) INCORRETA. Evitar discussão do erro perde o ensino central.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1612,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "O ambulatório supervisionado, no contexto da propedêutica, caracteriza-se principalmente como:",
+    "opcoes": [
+      "A) espaço em que o estudante decide com autonomia plena, sem revisão dos atos clínicos.",
+      "B) modalidade equivalente à simulação, pois o paciente e o cenário são padronizados.",
+      "C) ambiente de integração entre técnica semiológica e atitude profissional, com supervisão docente.",
+      "D) serviço exclusivamente administrativo, voltado a filas e agendamento."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O material define o ambulatório supervisionado como integração técnica e atitude profissional, com papel formativo e de segurança sob orientação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: autonomia plena sem revisão ignora a supervisão e a progressão responsável descritas .",
+      "B": "Incorreta: a simulação e o ambulatório real não são equivalentes; no real há variabilidade e incerteza maiores.",
+      "C": "Correta: corresponde ao núcleo do tema — método, postura profissional e supervisão para qualidade assistencial.",
+      "D": "Incorreta: reduz o ambulatório à gestão administrativa, quando a aula enfatiza cuidado clínico e ensino."
+    },
+    "explicacao": "Resumo: O ambulatório supervisionado integra técnica semiológica, ética e supervisão.\nA) INCORRETA. Autonomia sem revisão não condiz com autonomia progressiva e limites.\nB) INCORRETA. O cenário real não é padronizado como na simulação.\nC) CORRETA. Reflete a definição operacional do material (integração técnica + atitude profissional).\nD) INCORRETA. O foco não é só administrativo, mas assistência e aprendizado clínico.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1613,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Em relação à simulação, a prática no ambulatório real acrescenta, de forma central:",
+    "opcoes": [
+      "A) garantia de que sinais clássicos de livro-texto estarão sempre presentes.",
+      "B) maior incerteza, contexto social e variabilidade, que exigem adaptação do método semiológico.",
+      "C) eliminação da necessidade de consentimento informado para o exame físico.",
+      "D) redução da importância da correlação sinal–hipótese na anamnese."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A tabela da aula contrasta simulação e ambulatório real: o real soma incerteza, contexto social e variabilidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a própria aula alerta que sinais clássicos nem sempre aparecem como no livro.",
+      "B": "Correta: é o contraste explícito do material (real adiciona incerteza, contexto social e variabilidade).",
+      "C": "Incorreta: o consentimento permanece obrigatório; a aula cita consentimento antes do exame.",
+      "D": "Incorreta: a correlação sinal–hipótese continua central na propedêutica."
+    },
+    "explicacao": "Resumo: O ambulatório real impõe variabilidade e contexto que a simulação não reproduz por completo.\nA) INCORRETA. Variabilidade real é regra, não exceção.\nB) CORRETA. Alinha-se ao contraste simulação versus ambulatório real do material.\nC) INCORRETA. Consentimento não é supérfluo na prática real.\nD) INCORRETA. O raciocínio com hipóteses permanece essencial.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1616,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual é o papel central atribuído à supervisão docente no ambulatório supervisionado, segundo a aula?",
+    "opcoes": [
+      "A) substituir sistematicamente o estudante sempre que a consulta estiver curta.",
+      "B) avaliar apenas a fluência verbal do aluno, desconsiderando método e segurança.",
+      "C) garantir segurança assistencial e qualidade técnica enquanto o estudante desenvolve autonomia progressiva.",
+      "D) limitar-se a corrigir o prontuário depois que o paciente já se ausentou."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A supervisão aparece como componente de segurança e qualidade, sem anular a progressão da autonomia do aluno.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: substituição sistemática não é o modelo; o aluno deve atuar com supervisão, não ser sempre substituído.",
+      "B": "Incorreta: reduz a supervisão à oratória, quando a aula fala em técnica e segurança.",
+      "C": "Correta: sintetiza “supervisão garante segurança e qualidade” + autonomia progressiva responsável.",
+      "D": "Incorreta: supervisão só documental e tardia não cobre segurança durante o atendimento."
+    },
+    "explicacao": "Resumo: Supervisão assegura qualidade e segurança no processo, não só no papel.\nA) INCORRETA. Não é substituição rotineira.\nB) INCORRETA. Método e segurança são centrais.\nC) CORRETA. Conforme pontos-chave e texto sobre simulação → paciente real.\nD) INCORRETA. Feedback só após a saída do paciente não esgota o papel da supervisão.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1618,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Sobre o registro clínico no ambulatório, a posição defendida é que o prontuário:",
+    "opcoes": [
+      "A) é instrumento meramente burocrático, dissociado do cuidado ao paciente.",
+      "B) pode ser omitido em casos simples, desde que a conduta seja segura verbalmente.",
+      "C) não interfere na continuidade do cuidado entre consultas.",
+      "D) integra o cuidado ao paciente e a continuidade assistencial; não é mero formalismo."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O material afirma que registro clínico é parte do cuidado (não burocracia) e contrapõe registro objetivo ao incompleto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: contradiz diretamente “parte do cuidado, não burocracia”.",
+      "B": "Incorreta: registro objetivo é necessário para continuidade e segurança, não opcional por simplicidade.",
+      "C": "Incorreta: registro objetivo sustenta continuidade e segurança entre encontros.",
+      "D": "Correta: compatível com registro como componente do cuidado e com a tabela objetivo versus incompleto."
+    },
+    "explicacao": "Resumo: Prontuário documenta decisões e achados para segurança e continuidade.\nA) INCORRETA. Visão puramente burocrática é rejeitada.\nB) INCORRETA. Verbalizar sem registrar prejudica rastreabilidade.\nC) INCORRETA. Registro interfere positivamente na continuidade.\nD) CORRETA. Reflete os pontos-chave e a pré-prova da aula.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1623,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Na discussão de caso, o que distingue melhor uma hipótese diagnóstica prioritária de uma hipótese remota?",
+    "opcoes": [
+      "A) A hipótese prioritária é sempre a mais rara epidemiologicamente.",
+      "B) A hipótese prioritária combina probabilidade clínica e gravidade potencial.",
+      "C) A hipótese prioritária é necessariamente a primeira queixa verbalizada pelo paciente.",
+      "D) A hipótese remota é sempre mais grave que a prioritária."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A tabela da aula define a hipótese prioritária como aquela que une gravidade e probabilidade, não como mero rótulo ou ordem de fala.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: raridade não define prioridade; doenças comuns graves costumam ser prioritárias.",
+      "B": "Correta: reproduz o critério explícito do material (gravidade + probabilidade).",
+      "C": "Incorreta: primeira queixa pode ser irrelevante ou redirecionar, mas não define sozinha a prioridade.",
+      "D": "Incorreta: inverte o conceito; remota é menos provável ou menos pertinente no contexto, não “mais grave” por definição."
+    },
+    "explicacao": "Resumo: Prioridade diagnóstica integra quão provável e quão perigosa é cada hipótese no contexto clínico.\nA) INCORRETA. Confunde raridade com prioridade.\nB) CORRETA. É a formulação canônica da aula para hipótese prioritária.\nC) INCORRETA. Prioridade exige análise, não só ordem narrativa do paciente.\nD) INCORRETA. Contradiz a definição de hipótese remota na discussão.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1625,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Sobre exames complementares na discussão de um caso cardiovascular, qual assertiva está correta?",
+    "opcoes": [
+      "A) Quanto maior o número de exames solicitados, maior a segurança, independentemente da pergunta clínica.",
+      "B) Deve existir um pacote padrão de exames para qualquer paciente, antes da anamnese dirigida.",
+      "C) O ecocardiograma deve sempre ser o primeiro exame pedido, antes de qualquer formulação de hipótese.",
+      "D) O exame deve ser indicado para responder a uma pergunta clínica definida na discussão."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Exame orientado tem maior rendimento quando nasce de dúvida clínica explícita; exame sem pergunta desperdiça recurso e pode confundir.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: volume de testes não substitui raciocínio; pode gerar achados incidentais sem ganho clínico.",
+      "B": "Incorreta: contradiz a ideia de exame com objetivo vinculado ao caso.",
+      "C": "Incorreta: nem todo quadro exige ecocardiograma primeiro; a sequência depende da hipótese e da urgência.",
+      "D": "Correta: corresponde ao contraste “exame orientado” versus “exame sem pergunta clínica” da aula."
+    },
+    "explicacao": "Resumo: Cada pedido deve amarrar-se a uma incógnita clínica levantada na discussão.\nA) INCORRETA. Mistura quantidade com qualidade decisória.\nB) INCORRETA. “Pacote” fixo ignora probabilidade e custo-benefício.\nC) INCORRETA. Generalização absurda; ordem depende do problema sindrômico.\nD) CORRETA. É o critério de exame orientado descrito no material.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1627,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Como método de ensino-aprendizagem, a reunião clínica cardiovascular prioriza principalmente qual competência?",
+    "opcoes": [
+      "A) Memorização enciclopédica do maior número de nomes de doenças.",
+      "B) Síntese do caso e tomada de decisão fundamentada em dados clínicos.",
+      "C) Competição entre os membros da equipe para ver quem cita mais diagnósticos.",
+      "D) Substituição sistemática da anamnese pelo exame físico."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O texto enfatiza decisão coletiva baseada em evidência clínica e síntese, não volume de termos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: explicitamente rejeitada (não é competição de nomes).",
+      "B": "Correta: condensa o papel da reunião clínica nos pontos-chave do material.",
+      "C": "Incorreta: a aula descreve colaboração e racionalidade, não disputa.",
+      "D": "Incorreta: método integra várias fontes de dado; não há substituição absoluta anunciada."
+    },
+    "explicacao": "Resumo: A reunião treina síntese e decisão compartilhada, pilares citados nos pontos-chave.\nA) INCORRETA. Confunde acúmulo lexical com raciocínio clínico.\nB) CORRETA. Reflete fielmente a definição operacional da aula.\nC) INCORRETA. Contradiz o espírito colaborativo descrito.\nD) INCORRETA. Propõe exclusão artificial de etapas da propedêutica.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1630,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Na comparação entre decisão compartilhada e decisão isolada em discussão de caso clínico, qual contraste é o mais adequado?",
+    "opcoes": [
+      "A) Decisão isolada aumenta sistematicamente a segurança em relação à compartilhada.",
+      "B) A decisão compartilhada na equipe tende a aumentar robustez do raciocínio e reduzir erro de decisão.",
+      "C) Decisão compartilhada elimina a necessidade de ancoragem em dados clínicos objetivos.",
+      "D) Em cardiologia, apenas a decisão isolada é eticamente aceitável em discussão de caso."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A tabela diferencia decisão compartilhada (mais robustez e segurança) de decisão isolada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte o contraste do material; isolamento aumenta risco de viés e erro.",
+      "B": "Correta: reproduz a ideia de robustez e segurança associadas à deliberação coletiva.",
+      "C": "Incorreta: compartilhamento não dispensa evidência clínica; exige mais clareza de dados.",
+      "D": "Incorreta: afirmação absoluta falsa; discussão em equipe é justamente valorizada."
+    },
+    "explicacao": "Resumo: Deliberar com a equipe melhora checagem de premissas e conduta, segundo a aula.\nA) INCORRETA. Contradiz o contraste explícito da tabela.\nB) CORRETA. Alinhada à linha “Compartilhada aumenta robustez e segurança”.\nC) INCORRETA. Confunde participação com subjetivismo sem dados.\nD) INCORRETA. Propõe regra inexistente e contrária ao texto.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1632,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Paciente com queixa respiratória aguda em atendimento. Segundo o raciocínio prioritário em caso respiratório, qual deve ser o primeiro passo na avaliação?",
+    "opcoes": [
+      "A) Estimar gravidade clínica e risco imediato.",
+      "B) Definir o agente etiológico com certeza antes de qualquer conduta.",
+      "C) Solicitar tomografia de tórax de rotina em todos os casos.",
+      "D) Iniciar antibioticoterapia empírica de amplo espectro sem avaliar estabilidade."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Em caso respiratório, a gravidade e o risco imediato vêm antes do refinamento etiológico; isso evita atraso em paciente que pode deteriorar rapidamente.",
+    "explicacoes_opcoes": {
+      "A": "Correta: priorizar gravidade é o núcleo da abordagem segura descrita .",
+      "B": "Incorreta: fechar etiologia costuma ser posterior à avaliação de estabilidade e necessidade de suporte.",
+      "C": "Incorreta: exame de imagem deve ser pedido com propósito clínico, não como triagem universal.",
+      "D": "Incorreta: tratar sem avaliar estabilidade e gravidade ignora a sequência prioritária defendida no tema."
+    },
+    "explicacao": "Resumo: Em caso respiratório, estimar gravidade primeiro orienta conduta imediata e segurança do paciente.\nA) CORRETA. A avaliação inicial deve priorizar gravidade e risco imediato.\nB) INCORRETA. Etiologia definitiva frequentemente não está disponível de imediato e não deve atrasar medidas de suporte quando necessárias.\nC) INCORRETA. TC não substitui critério clínico de gravidade nem deve ser rotina indiscriminada.\nD) INCORRETA. Antibiótico empírico pode fazer parte do plano, mas não dispensa avaliação de gravidade e estabilização quando indicadas.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1634,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Na abordagem de um caso respiratório, o conceito de síndrome clínica respiratória serve principalmente para:",
+    "opcoes": [
+      "A) Substituir a necessidade de exame físico detalhado.",
+      "B) Confirmar microbiologicamente a infecção na primeira hora de atendimento.",
+      "C) Organizar hipóteses iniciais e direcionar exames com propósito clínico.",
+      "D) Excluir a necessidade de monitorização da oxigenação."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A síndrome clínica é etapa antes do diagnóstico etiológico final: organiza hipóteses e torna os exames mais objetivos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: exame físico permanece central; a síndrome organiza o raciocínio, não o substitui.",
+      "B": "Incorreta: confirmação microbiológica costuma ser posterior e nem sempre disponível no primeiro momento.",
+      "C": "Correta: é exatamente a função de enquadrar o quadro antes do refinamento diagnóstico.",
+      "D": "Incorreta: monitorizar oxigenação segue sendo prioritário independentemente do enquadramento sindrômico."
+    },
+    "explicacao": "Resumo: Sindrome clínica orienta hipótese inicial e escolha racional de exames.\nA) INCORRETA. Exame físico continua indispensável.\nB) INCORRETA. Diagnóstico microbiológico não é requisito imediato para toda decisão clínica.\nC) CORRETA. Organiza hipóteses e direciona investigação com finalidade.\nD) INCORRETA. Gravidade e oxigenação não deixam de ser monitoradas.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1636,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Em paciente instável respiratoriamente, qual relação melhor descreve a prioridade entre estabilização e investigação detalhada?",
+    "opcoes": [
+      "A) Estabilizar o paciente antes de aprofundar exames quando houver risco imediato.",
+      "B) Adiar qualquer intervenção até resultado de culturas e antibiograma.",
+      "C) Priorizar sempre procedimento invasivo diagnóstico antes de suporte ventilatório.",
+      "D) Confiar apenas em um achado isolado à ausculta para decidir nível de cuidado."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Em instabilidade, estabilizar vem antes da investigação aprofundada; conduta imediata pode preceder diagnóstico etiológico final.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reproduz a priorização segura entre conduta de estabilização e investigação detalhada.",
+      "B": "Incorreta: esperar cultura em paciente instável pode ser inseguro; há condutas imediatas antes do resultado.",
+      "C": "Incorreta: suporte não deve ser postergado por procedimento diagnóstico quando há risco imediato.",
+      "D": "Incorreta: decisão de gravidade deve ser integrada, não baseada em achado único isolado."
+    },
+    "explicacao": "Resumo: Instabilidade respiratória exige resposta clínica rápida; investigação detalhada segue quando o paciente estiver mais seguro.\nA) CORRETA. Estabilização precede aprofundamento quando há risco imediato.\nB) INCORRETA. Culturas são importantes, mas não devem bloquear medidas de suporte necessárias.\nC) INCORRETA. Ordem invertida em relação à segurança do paciente.\nD) INCORRETA. Semiologia guia hipóteses, mas gravidade integra múltiplos dados.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1640,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual par melhor expressa a diferença central entre gravidade respiratória e etiologia definitiva na fase inicial da avaliação?",
+    "opcoes": [
+      "A) Apenas a etiologia determina internação; a gravidade não influencia a decisão.",
+      "B) A gravidade orienta ação imediata; a etiologia refina o tratamento posteriormente.",
+      "C) Gravidade e etiologia são equivalentes na prática e podem ser usadas como sinônimos.",
+      "D) A gravidade só deve ser considerada após resultado de tomografia computadorizada."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Gravidade decide conduta imediata e segurança; etiologia refinada orienta tratamento específico depois.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: gravidade é determinante central para escalação de cuidados, independentemente de etiologia fechada.",
+      "B": "Correta: reproduz exatamente o contraste da tabela de diferenciações do material.",
+      "C": "Incorreta: são dimensões distintas com papéis diferentes no tempo da decisão.",
+      "D": "Incorreta: gravidade é avaliada clinicamente e com dados de monitorização, não condicionada a TC."
+    },
+    "explicacao": "Resumo: Na fase inicial, prioriza-se o que ameaça vida primeiro; etiologia completa costuma vir depois.\nA) INCORRETA. Internação e suporte seguem critérios de gravidade, não só etiologia definida.\nB) CORRETA. Distinção explícita do conteúdo: gravidade → ação imediata; etiologia → refinamento terapêutico.\nC) INCORRETA. Confundir os termos leva a atraso em paciente instável.\nD) INCORRETA. TC é complementar; gravidade não espera exame de imagem para ser reconhecida.",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1642,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “EEI como esfíncter anatômico:” está correta?",
+    "opcoes": [
+      "A) é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+      "B) Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "C) Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "D) Omento maior:: gastrocólico (\"avental\" que pende da curvatura maior"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “EEI como esfíncter anatômico:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+      "B": "Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "C": "Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "D": "Incorreta: Omento maior:: gastrocólico (\"avental\" que pende da curvatura maior"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “EEI como esfíncter anatômico:”.\nA) CORRETA. Correta: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.\nB) INCORRETA. Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente\nC) INCORRETA. Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE\nD) INCORRETA. Incorreta: Omento maior:: gastrocólico (\"avental\" que pende da curvatura maior",
+    "aula_id": "bmf3_a14"
+  },
+  {
+    "id": 1648,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Confundir os 3 estreitamentos:” está correta?",
+    "opcoes": [
+      "A) Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "B) Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "C) 1° cricofaríngeo (C6, muscular), 2° aorta/brônquio (T4–T5, extrínseco), 3° hiato (T10, diafragmático). Questões invertem a ordem.",
+      "D) EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Confundir os 3 estreitamentos:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "B": "Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "C": "Correta: 1° cricofaríngeo (C6, muscular), 2° aorta/brônquio (T4–T5, extrínseco), 3° hiato (T10, diafragmático). Questões invertem a ordem.",
+      "D": "Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Confundir os 3 estreitamentos:”.\nA) INCORRETA. Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente\nB) INCORRETA. Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE\nC) CORRETA. Correta: 1° cricofaríngeo (C6, muscular), 2° aorta/brônquio (T4–T5, extrínseco), 3° hiato (T10, diafragmático). Questões invertem a ordem.\nD) INCORRETA. Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+    "aula_id": "bmf3_a14"
+  },
+  {
+    "id": 1649,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Laringofaringe” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+      "B) Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "C) Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "D) Laringofaringe — Posterior à laringe — Continua com o esôfago em C6"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Laringofaringe” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+      "B": "Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "C": "Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "D": "Correta: Laringofaringe — Posterior à laringe — Continua com o esôfago em C6"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Laringofaringe” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.\nB) INCORRETA. Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente\nC) INCORRETA. Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE\nD) CORRETA. Correta: Laringofaringe — Posterior à laringe — Continua com o esôfago em C6",
+    "aula_id": "bmf3_a14"
+  },
+  {
+    "id": 1650,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Esôfago abdominal como totalmente intraperitoneal:” está correta?",
+    "opcoes": [
+      "A) o segmento abdominal do esôfago (~2 cm) não tem serosa na face posterior — é parcialmente retroperitoneal.",
+      "B) EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+      "C) Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "D) Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esôfago abdominal como totalmente intraperitoneal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: o segmento abdominal do esôfago (~2 cm) não tem serosa na face posterior — é parcialmente retroperitoneal.",
+      "B": "Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+      "C": "Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "D": "Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Esôfago abdominal como totalmente intraperitoneal:”.\nA) CORRETA. Correta: o segmento abdominal do esôfago (~2 cm) não tem serosa na face posterior — é parcialmente retroperitoneal.\nB) INCORRETA. Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.\nC) INCORRETA. Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente\nD) INCORRETA. Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+    "aula_id": "bmf3_a14"
+  },
+  {
+    "id": 1651,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual alternativa associa corretamente “Região” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "B) Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "C) Região — Nível — Relações importantes",
+      "D) EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Região” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente",
+      "B": "Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE",
+      "C": "Correta: Região — Nível — Relações importantes",
+      "D": "Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Região” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cervical — C6–T1 — Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente\nB) INCORRETA. Incorreta: Cárdia — Junção com esôfago; anel mucoso Z — Adenocarcinoma da JGE, DRGE\nC) CORRETA. Correta: Região — Nível — Relações importantes\nD) INCORRETA. Incorreta: EEI como esfíncter anatômico:: é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.",
+    "aula_id": "bmf3_a14"
+  },
+  {
+    "id": 1652,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Rim direito:” está correta?",
+    "opcoes": [
+      "A) ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "B) Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "C) Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "D) Ureter esquerdo:: cruza sob a artéria ilíaca comum esquerda"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Rim direito:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "B": "Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "C": "Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "D": "Incorreta: Ureter esquerdo:: cruza sob a artéria ilíaca comum esquerda"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Rim direito:”.\nA) CORRETA. Correta: ligeiramente mais baixo que o esquerdo (relação com o fígado)\nB) INCORRETA. Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2\nC) INCORRETA. Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter\nD) INCORRETA. Incorreta: Ureter esquerdo:: cruza sob a artéria ilíaca comum esquerda",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1653,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual alternativa associa corretamente “Estrutura” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "B) Estrutura — Localização — Função",
+      "C) Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "D) Micção:: parassimpático S2-S4; Continência: simpático L1-L2"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Estrutura” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "B": "Correta: Estrutura — Localização — Função",
+      "C": "Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "D": "Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Estrutura” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter\nB) CORRETA. Correta: Estrutura — Localização — Função\nC) INCORRETA. Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado)\nD) INCORRETA. Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1656,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “Hilo renal:” está correta?",
+    "opcoes": [
+      "A) face medial — entrada de artéria renal, saída de veia renal e ureter (da frente para trás: V, A, U — mnemônico VAU",
+      "B) Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "C) Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "D) Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hilo renal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: face medial — entrada de artéria renal, saída de veia renal e ureter (da frente para trás: V, A, U — mnemônico VAU",
+      "B": "Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "C": "Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "D": "Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Hilo renal:”.\nA) CORRETA. Correta: face medial — entrada de artéria renal, saída de veia renal e ureter (da frente para trás: V, A, U — mnemônico VAU)\nB) INCORRETA. Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado)\nC) INCORRETA. Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2\nD) INCORRETA. Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1658,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Ureter direito:” está correta?",
+    "opcoes": [
+      "A) Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "B) Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "C) cruza sob a artéria ilíaca comum direita",
+      "D) Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ureter direito:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "B": "Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "C": "Correta: cruza sob a artéria ilíaca comum direita",
+      "D": "Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ureter direito:”.\nA) INCORRETA. Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2\nB) INCORRETA. Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter\nC) CORRETA. Correta: cruza sob a artéria ilíaca comum direita\nD) INCORRETA. Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1659,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Coluna de Bertin” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "B) Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "C) Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "D) Coluna de Bertin — Extensões corticais entre pirâmides — Vascularização"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Coluna de Bertin” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado",
+      "B": "Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2",
+      "C": "Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter",
+      "D": "Correta: Coluna de Bertin — Extensões corticais entre pirâmides — Vascularização"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Coluna de Bertin” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Rim direito:: ligeiramente mais baixo que o esquerdo (relação com o fígado)\nB) INCORRETA. Incorreta: Micção:: parassimpático S2-S4; Continência: simpático L1-L2\nC) INCORRETA. Incorreta: Pelve renal — Expansão do ureter no hilo — Reservatório antes do ureter\nD) CORRETA. Correta: Coluna de Bertin — Extensões corticais entre pirâmides — Vascularização",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1663,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual alternativa associa corretamente “Célula” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "B) Célula — Localização — Função",
+      "C) Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "D) Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Célula” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "B": "Correta: Célula — Localização — Função",
+      "C": "Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "D": "Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Célula” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺)\nB) CORRETA. Correta: Célula — Localização — Função\nC) INCORRETA. Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração\nD) INCORRETA. Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1664,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “Cápsula de Bowman:” está correta?",
+    "opcoes": [
+      "A) Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+      "B) Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "C) duas folhas (parietal externa + visceral interna com os podócitos",
+      "D) Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cápsula de Bowman:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+      "B": "Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "C": "Correta: duas folhas (parietal externa + visceral interna com os podócitos",
+      "D": "Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cápsula de Bowman:”.\nA) INCORRETA. Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado\nB) INCORRETA. Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺)\nC) CORRETA. Correta: duas folhas (parietal externa + visceral interna com os podócitos)\nD) INCORRETA. Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1666,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “Espaço de Bowman (urinário):” está correta?",
+    "opcoes": [
+      "A) entre as duas folhas — recebe o ultrafiltrado",
+      "B) Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "C) Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "D) Células mesangiais extraglomerulares (Goormaghtigh) — Entre aferente, eferente e mácula densa — Transdução de sinal"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Espaço de Bowman (urinário):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: entre as duas folhas — recebe o ultrafiltrado",
+      "B": "Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "C": "Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "D": "Incorreta: Células mesangiais extraglomerulares (Goormaghtigh) — Entre aferente, eferente e mácula densa — Transdução de sinal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Espaço de Bowman (urinário):”.\nA) CORRETA. Correta: entre as duas folhas — recebe o ultrafiltrado\nB) INCORRETA. Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração\nC) INCORRETA. Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺)\nD) INCORRETA. Incorreta: Células mesangiais extraglomerulares (Goormaghtigh) — Entre aferente, eferente e mácula densa — Transdução de sinal",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1667,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Célula endotelial fenestrada” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "B) Célula endotelial fenestrada — Parede dos capilares — Filtração (fenestras = poros sem diafragma",
+      "C) Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "D) Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Célula endotelial fenestrada” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "B": "Correta: Célula endotelial fenestrada — Parede dos capilares — Filtração (fenestras = poros sem diafragma",
+      "C": "Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "D": "Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Célula endotelial fenestrada” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺)\nB) CORRETA. Correta: Célula endotelial fenestrada — Parede dos capilares — Filtração (fenestras = poros sem diafragma)\nC) INCORRETA. Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração\nD) INCORRETA. Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1668,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Função:” está correta?",
+    "opcoes": [
+      "A) Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+      "B) Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "C) reabsorção de ~65-70% do filtrado (Na⁺, glicose, AA, bicarbonato, fosfato, água",
+      "D) Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Função:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+      "B": "Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+      "C": "Correta: reabsorção de ~65-70% do filtrado (Na⁺, glicose, AA, bicarbonato, fosfato, água",
+      "D": "Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Função:”.\nA) INCORRETA. Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado\nB) INCORRETA. Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺)\nC) CORRETA. Correta: reabsorção de ~65-70% do filtrado (Na⁺, glicose, AA, bicarbonato, fosfato, água)\nD) INCORRETA. Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1670,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “Vulnerabilidade:” está correta?",
+    "opcoes": [
+      "A) Necrose Tubular Aguda (NTA) isquêmica/nefrotóxica preferencia o TCP",
+      "B) Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "C) Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+      "D) Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Vulnerabilidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Necrose Tubular Aguda (NTA) isquêmica/nefrotóxica preferencia o TCP",
+      "B": "Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração",
+      "C": "Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado",
+      "D": "Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Vulnerabilidade:”.\nA) CORRETA. Correta: Necrose Tubular Aguda (NTA) isquêmica/nefrotóxica preferencia o TCP\nB) INCORRETA. Incorreta: Podócito — Folha visceral (entre os capilares) — Fenda de filtração com pedicelos; barreira de filtração\nC) INCORRETA. Incorreta: Espaço de Bowman (urinário):: entre as duas folhas — recebe o ultrafiltrado\nD) INCORRETA. Incorreta: Célula principal — Célula intercalada — Principal: responde a ADH e aldosterona (reabsorção); Intercalada: equilibrio ácido-base (secreção H⁺",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1672,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Valor normal:” está correta?",
+    "opcoes": [
+      "A) ~125 mL/min (~180 L/dia filtrados; ~99% reabsorvidos",
+      "B) AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+      "C) Estágio — Descrição — TFG (mL/min/1,73m²",
+      "D) Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Valor normal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ~125 mL/min (~180 L/dia filtrados; ~99% reabsorvidos",
+      "B": "Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+      "C": "Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²",
+      "D": "Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Valor normal:”.\nA) CORRETA. Correta: ~125 mL/min (~180 L/dia filtrados; ~99% reabsorvidos)\nB) INCORRETA. Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco\nC) INCORRETA. Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²)\nD) INCORRETA. Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1674,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “Volume de urina final:” está correta?",
+    "opcoes": [
+      "A) Estágio — Descrição — TFG (mL/min/1,73m²",
+      "B) Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+      "C) ~1-2 L/dia",
+      "D) AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Volume de urina final:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²",
+      "B": "Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+      "C": "Correta: ~1-2 L/dia",
+      "D": "Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Volume de urina final:”.\nA) INCORRETA. Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²)\nB) INCORRETA. Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG\nC) CORRETA. Correta: ~1-2 L/dia\nD) INCORRETA. Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1678,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Feedback túbulo-glomerular (FTG):” está correta?",
+    "opcoes": [
+      "A) Estágio — Descrição — TFG (mL/min/1,73m²",
+      "B) Angiotensina II — Vasoconstritora — Vasoconstritora (mais intensa) — ↑ pressão glomérulo / ↓ TFG se severo",
+      "C) mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+      "D) AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Feedback túbulo-glomerular (FTG):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²",
+      "B": "Incorreta: Angiotensina II — Vasoconstritora — Vasoconstritora (mais intensa) — ↑ pressão glomérulo / ↓ TFG se severo",
+      "C": "Correta: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+      "D": "Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Feedback túbulo-glomerular (FTG):”.\nA) INCORRETA. Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²)\nB) INCORRETA. Incorreta: Angiotensina II — Vasoconstritora — Vasoconstritora (mais intensa) — ↑ pressão glomérulo / ↓ TFG se severo\nC) CORRETA. Correta: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG\nD) INCORRETA. Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1680,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “CKD-EPI e MDRD:” está correta?",
+    "opcoes": [
+      "A) equações para estimar TFG por creatinina sérica + idade + sexo + raça",
+      "B) AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+      "C) Estágio — Descrição — TFG (mL/min/1,73m²",
+      "D) Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “CKD-EPI e MDRD:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: equações para estimar TFG por creatinina sérica + idade + sexo + raça",
+      "B": "Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+      "C": "Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²",
+      "D": "Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “CKD-EPI e MDRD:”.\nA) CORRETA. Correta: equações para estimar TFG por creatinina sérica + idade + sexo + raça\nB) INCORRETA. Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco\nC) INCORRETA. Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²)\nD) INCORRETA. Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1681,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual alternativa associa corretamente “Estímulo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Estágio — Descrição — TFG (mL/min/1,73m²",
+      "B) Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+      "C) Estímulo — Artéria Aferente — Artéria Eferente — Efeito na TFG",
+      "D) AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Estímulo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²",
+      "B": "Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG",
+      "C": "Correta: Estímulo — Artéria Aferente — Artéria Eferente — Efeito na TFG",
+      "D": "Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Estímulo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Estágio — Descrição — TFG (mL/min/1,73m²)\nB) INCORRETA. Incorreta: Feedback túbulo-glomerular (FTG):: mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG\nC) CORRETA. Correta: Estímulo — Artéria Aferente — Artéria Eferente — Efeito na TFG\nD) INCORRETA. Incorreta: AINEs:: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1682,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Na⁺/K⁺-ATPase” está correta?",
+    "opcoes": [
+      "A) basolateral cria gradiente → Na⁺ entra apicalmente com cotransportadores (SGLT2, NaPi, NHE3",
+      "B) Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+      "C) Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+      "D) TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Na⁺/K⁺-ATPase”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: basolateral cria gradiente → Na⁺ entra apicalmente com cotransportadores (SGLT2, NaPi, NHE3",
+      "B": "Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+      "C": "Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+      "D": "Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Na⁺/K⁺-ATPase”.\nA) CORRETA. Correta: basolateral cria gradiente → Na⁺ entra apicalmente com cotransportadores (SGLT2, NaPi, NHE3)\nB) INCORRETA. Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável\nC) INCORRETA. Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP\nD) INCORRETA. Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1687,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Ramo descendente ALH” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+      "B) Ramo descendente ALH — — — Água (osmose) — Alta (aquaporina-1",
+      "C) Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+      "D) Secretase de ácido úrico:: urato secretado e reabsorvido no TCP"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Ramo descendente ALH” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+      "B": "Correta: Ramo descendente ALH — — — Água (osmose) — Alta (aquaporina-1",
+      "C": "Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+      "D": "Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ramo descendente ALH” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1)\nB) CORRETA. Correta: Ramo descendente ALH — — — Água (osmose) — Alta (aquaporina-1)\nC) INCORRETA. Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável\nD) INCORRETA. Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1688,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “Secretase de ácido úrico:” está correta?",
+    "opcoes": [
+      "A) TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+      "B) PTH:: ↑reabsorção de Ca²⁺ no TCD; ↓reabsorção de fosfato no TCP (fosfatúria",
+      "C) urato secretado e reabsorvido no TCP",
+      "D) Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Secretase de ácido úrico:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+      "B": "Incorreta: PTH:: ↑reabsorção de Ca²⁺ no TCD; ↓reabsorção de fosfato no TCP (fosfatúria",
+      "C": "Correta: urato secretado e reabsorvido no TCP",
+      "D": "Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Secretase de ácido úrico:”.\nA) INCORRETA. Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1)\nB) INCORRETA. Incorreta: PTH:: ↑reabsorção de Ca²⁺ no TCD; ↓reabsorção de fosfato no TCP (fosfatúria)\nC) CORRETA. Correta: urato secretado e reabsorvido no TCP\nD) INCORRETA. Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1690,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Reabsorção:” está correta?",
+    "opcoes": [
+      "A) TCP (65%), ASE (25%) via NKCC2",
+      "B) Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+      "C) Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+      "D) TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Reabsorção:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: TCP (65%), ASE (25%) via NKCC2",
+      "B": "Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+      "C": "Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+      "D": "Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Reabsorção:”.\nA) CORRETA. Correta: TCP (65%), ASE (25%) via NKCC2\nB) INCORRETA. Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável\nC) INCORRETA. Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP\nD) INCORRETA. Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1691,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual alternativa associa corretamente “TCD” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+      "B) TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+      "C) TCD — 5-8% — NaCl (cotransportador NCC); Ca²⁺ (regulado por PTH) — Baixa",
+      "D) Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “TCD” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP",
+      "B": "Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1",
+      "C": "Correta: TCD — 5-8% — NaCl (cotransportador NCC); Ca²⁺ (regulado por PTH) — Baixa",
+      "D": "Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “TCD” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Secretase de ácido úrico:: urato secretado e reabsorvido no TCP\nB) INCORRETA. Incorreta: TCP — 65-70% — Na⁺, Cl⁻, HCO₃⁻, glicose, AA, fosfato, K⁺, urato — Alta (aquaporina-1)\nC) CORRETA. Correta: TCD — 5-8% — NaCl (cotransportador NCC); Ca²⁺ (regulado por PTH) — Baixa\nD) INCORRETA. Incorreta: Ramo ascendente espesso — 25% — Na⁺, K⁺, 2Cl⁻ (NKCC2); Mg²⁺, Ca²⁺ — Impermeável",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1692,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “pH arterial normal:” está correta?",
+    "opcoes": [
+      "A) 7,35–7,45",
+      "B) HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+      "C) P — Paraldehyde — Acetazolamida",
+      "D) Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “pH arterial normal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: 7,35–7,45",
+      "B": "Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+      "C": "Incorreta: P — Paraldehyde — Acetazolamida",
+      "D": "Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “pH arterial normal:”.\nA) CORRETA. Correta: 7,35–7,45\nB) INCORRETA. Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim)\nC) INCORRETA. Incorreta: P — Paraldehyde — Acetazolamida\nD) INCORRETA. Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1694,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “pH < 7,35:” está correta?",
+    "opcoes": [
+      "A) P — Paraldehyde — Acetazolamida",
+      "B) Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+      "C) acidemia | pH > 7,45: alcalemia",
+      "D) HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “pH < 7,35:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: P — Paraldehyde — Acetazolamida",
+      "B": "Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+      "C": "Correta: acidemia | pH > 7,45: alcalemia",
+      "D": "Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “pH < 7,35:”.\nA) INCORRETA. Incorreta: P — Paraldehyde — Acetazolamida\nB) INCORRETA. Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente\nC) CORRETA. Correta: acidemia | pH > 7,45: alcalemia\nD) INCORRETA. Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1697,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual alternativa associa corretamente “Hemoglobina” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+      "B) Hemoglobina — Eritrócitos — Tampão rápido intraeritrocitário",
+      "C) HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+      "D) P — Paraldehyde — Acetazolamida"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A opção correta é a linha em que “Hemoglobina” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+      "B": "Correta: Hemoglobina — Eritrócitos — Tampão rápido intraeritrocitário",
+      "C": "Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+      "D": "Incorreta: P — Paraldehyde — Acetazolamida"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Hemoglobina” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente\nB) CORRETA. Correta: Hemoglobina — Eritrócitos — Tampão rápido intraeritrocitário\nC) INCORRETA. Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim)\nD) INCORRETA. Incorreta: P — Paraldehyde — Acetazolamida",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1698,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “PaCO₂ normal:” está correta?",
+    "opcoes": [
+      "A) P — Paraldehyde — Acetazolamida",
+      "B) Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+      "C) 35-45 mmHg (regulado pelo pulmão",
+      "D) HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PaCO₂ normal:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: P — Paraldehyde — Acetazolamida",
+      "B": "Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+      "C": "Correta: 35-45 mmHg (regulado pelo pulmão",
+      "D": "Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PaCO₂ normal:”.\nA) INCORRETA. Incorreta: P — Paraldehyde — Acetazolamida\nB) INCORRETA. Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente\nC) CORRETA. Correta: 35-45 mmHg (regulado pelo pulmão)\nD) INCORRETA. Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  },
+  {
+    "id": 1700,
+    "materia": "bmf3",
+    "tema": "bmf3_a14",
+    "enunciado": "Qual afirmação sobre “Acidose crônica → glutaminase ↑ → mais NH₄⁺ excretado” está correta?",
+    "opcoes": [
+      "A) (principal mecanismo adaptativo renal",
+      "B) HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+      "C) P — Paraldehyde — Acetazolamida",
+      "D) Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Acidose crônica → glutaminase ↑ → mais NH₄⁺ excretado”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (principal mecanismo adaptativo renal",
+      "B": "Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim",
+      "C": "Incorreta: P — Paraldehyde — Acetazolamida",
+      "D": "Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Acidose crônica → glutaminase ↑ → mais NH₄⁺ excretado”.\nA) CORRETA. Correta: (principal mecanismo adaptativo renal)\nB) INCORRETA. Incorreta: HCO₃⁻ normal:: 22-26 mEq/L (regulado pelo rim)\nC) INCORRETA. Incorreta: P — Paraldehyde — Acetazolamida\nD) INCORRETA. Incorreta: Bicarbonato/CO₂ — Plasma (principal) — Sistema mais importante clinicamente",
+    "aula_id": "bmf3_a14",
+    "essencial": false
+  }
+]

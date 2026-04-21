@@ -1,8 +1,8 @@
 # BCM1 — Aula 3: Organização Genômica e Estrutura Gênica
 
-O genoma humano é como uma biblioteca gigantesca com 3,2 bilhões de "letras" (pares de bases). Na prova, o tema central é entender que apenas **1,5%** dessa biblioteca realmente faz proteínas (Exons), enquanto o restante é composto por regiões regulatórias, repetições e o chamado "DNA lixo", que hoje sabemos ser essencial para a regulação.
+O genoma humano é como uma biblioteca gigantesca com 3,2 bilhões de "letras" (pares de bases). Na prova, o tema central é entender que apenas **1,5%** dessa biblioteca realmente faz proteínas (**Exons**), enquanto o restante é composto por regiões regulatórias, repetições e o chamado "**DNA lixo**", que hoje sabemos ser essencial para a regulação.
 
-Na prática, entender como os genes são organizados é fundamental para compreender as doenças genéticas e o câncer, onde "erros de digitação" nessa biblioteca mudam o funcionamento das células.
+Na prática, entender como os genes são organizados é fundamental para compreender as doenças genéticas e o **câncer**, onde "erros de digitação" nessa biblioteca mudam o funcionamento das células.
 
 ---
 
@@ -86,7 +86,7 @@ Outro ponto importante: o número de **Corpúsculos de Barr** é sempre o númer
 | **Exon** | **Íntron** | Codificante (vê o sol) vs **Não-codificante (cortado fora)** |
 | **Eucromatina** | **Heterocromatina** | Clara e Ativa vs **Escura e Inativa** |
 | **Metilação** | **Acetilação** | Silencia o gene vs **Ativa o gene (relaxa a histona)** |
-| **DNA Mitocondrial** | **DNA Nuclear** | Circular e Materno vs **Linear e de ambos os pais** |
+| **DNA Mitocondrial** | **DNA Nuclear** | **Circular e Materno** vs **Linear e de ambos os pais** |
 | **SNP** | **Mutação** | Variação comum (>1%) vs **Alteração rara e patológica** |
 
 ### Frase-âncora para não esquecer

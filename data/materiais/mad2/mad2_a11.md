@@ -1,128 +1,95 @@
 # MAD2 — Aula 11: Infecções Virais do SNC — Poliovírus
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+O Poliovírus é um exemplo clássico de como uma infecção que começa no intestino pode terminar em paralisia permanente. Na prova, os temas centrais são a **Transmissão Fecal-Oral**, o padrão de **Paralisia Flácida Aguda** (que ataca o **neurônio motor inferior**) e as diferenças entre as vacinas **Salk (VIP)** e **Sabin (VOP)**.
+
+Na prática, embora a pólio esteja erradicada no Brasil, o risco de reintrodução devido à baixa cobertura vacinal é real, e o médico deve saber identificar uma **paralisia súbita** para notificar as autoridades imediatamente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Poliovírus é um tema que costuma parecer antigo até o aluno perceber que ele condensa várias ideias centrais da medicina: transmissão fecal-oral, neurotropismo viral, diferença entre infecção assintomática e doença grave, além do papel decisivo da vacinação coletiva. É uma aula importante não só pelo agente em si, mas porque ensina como uma infecção aparentemente banal pode, em pequena parcela dos casos, atingir o sistema nervoso central e produzir sequela incapacitante.
-
-Na Uninove, a cobrança geralmente mistura microbiologia, clínica neurológica e saúde pública. A questão pode perguntar sobre a via de transmissão, o padrão de paralisia, o motivo de a vacinação ser tão importante ou o raciocínio que diferencia poliomielite de outras causas de fraqueza aguda. Quem entende a lógica do poliovírus como enterovírus com potencial neuroinvasivo não depende de decorar frases soltas.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A11-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de fisiopatologia.
+- **O que mostrar:** O "Caminho do Vírus": Um esquema mostrando a entrada pela boca, a replicação no intestino, a passagem para o sangue e a invasão da **Medula Espinhal**, especificamente o **Corno Anterior**, onde moram os neurônios que mandam o comando para os músculos.
+- **Tipo sugerido:** Infográfico didático | Esquema anatômico.
+- **Legenda (rascunho):** Trajeto do poliovírus da mucosa intestinal ao sistema nervoso central.
 
+## 1. Transmissão e Ciclo Viral
 
-
+Diferente do que muitos pensam, a pólio é um **Enterovírus**.
+- **Porta de Entrada:** Ingestão de água ou alimentos contaminados (**Fecal-Oral**).
+- **Replicação:** O vírus se multiplica na garganta e no intestino. A imensa maioria das pessoas (90-95%) não sente nada ou tem apenas uma leve diarreia.
+- **Viremia:** Em poucos casos, o vírus cai no **sangue** e decide "viajar" até o sistema nervoso.
 
 ---
 
-## O primeiro erro é achar que poliovírus começa pelo sistema nervoso
+## 2. A Poliomielite Paralítica
 
-Poliovírus entra no organismo, em geral, pela via fecal-oral. Isso significa que o primeiro cenário não é o cérebro nem a medula, mas o trato gastrointestinal e os tecidos linfoides associados. Essa etapa é fundamental porque explica por que a circulação do vírus depende tanto de condições sanitárias, higiene e cobertura vacinal na comunidade.
+Quando o vírus atinge o sistema nervoso, ele tem um alvo específico: o **Neurônio Motor Inferior**.
+- **A Lesão:** O vírus destrói as células do **corno anterior da medula**. Sem essas células, o músculo não recebe mais comando elétrico.
+- **O Quadro Clínico:** Causa uma **Paralisia Flácida Aguda**. As características são:
+    - **Assimetria:** Geralmente ataca mais uma perna do que a outra.
+    - **Hiporreflexia/Arreflexia:** Os reflexos (como o do joelhinho) somem.
+    - **Sensibilidade Preservada:** O paciente **SENTE** o toque e a dor, mas **NÃO CONSEGUE MOVER** o membro.
+- **Poliomielite Bulbar:** É a forma mais grave, atingindo os nervos que controlam a **respiração** e a **deglutição**.
 
-A maioria das infecções não evolui para quadro neurológico grave. Esse é um ponto importante de prova: o fato de poucos casos desenvolverem paralisia não reduz a relevância da doença. Pelo contrário, justamente porque a maioria é assintomática ou oligossintomática, a circulação viral pode passar despercebida enquanto ainda existe risco de casos graves e de transmissão sustentada.
+---
 
-> **Dica de Prova:** poliovírus é lembrado primeiro como enterovírus de transmissão fecal-oral e só depois como causa de acometimento neurológico.
+## 3. As Armas de Prevenção: VIP vs VOP
 
-> **Pegadinha:** pensar que ausência de quadro gastrointestinal importante afasta poliovírus. A porta de entrada e a transmissão são entéricas, mas a apresentação clínica pode ser pouco chamativa antes do acometimento neurológico.
+Este é o ponto que a Uninove mais ama cobrar em provas de saúde pública:
+- **VIP (Salk/Inativada):** **Vírus morto**, aplicada por **Injeção**. É a mais segura, não causa doença. É a usada nas primeiras doses da criança.
+- **VOP (Sabin/Atenuada):** **Vírus vivo "enfraquecido"**, aplicada por **Gotinha**. É ótima para campanhas porque o vírus vacinal é eliminado nas fezes e acaba vacinando indiretamente outras crianças (**imunidade de rebanho**).
+- **Risco da VOP:** Em casos raríssimos, o vírus da gotinha pode sofrer mutação e causar a própria paralisia. Por isso, o mundo está trocando a **gotinha pela injeção**.
 
-## Quando a infecção deixa de ser sistêmica e ganha relevância neurológica
+---
 
-O que torna a poliomielite marcante é a capacidade de, em parte dos casos, alcançar o sistema nervoso e lesar neurônios motores. O resultado clássico é fraqueza flácida, assimétrica, com redução de reflexos e sem o padrão piramidal típico de lesões centrais mais altas. Esse detalhe semiológico é muito cobrado porque ajuda a separar poliomielite de outras síndromes neurológicas.
+## 4. Diagnóstico Diferencial: Pólio vs Guillain-Barré
 
-A banca gosta especialmente da ideia de **paralisia flácida aguda**. Esse termo deve acender alerta imediato. Nem toda paralisia flácida é poliomielite, mas toda questão sobre poliovírus costuma orbitar esse conceito. O raciocínio certo é perceber que o problema está no comprometimento motor periférico, não em rigidez, espasticidade ou sinal clássico de lesão do trato corticoespinal.
+Na prova, você precisará diferenciar a Pólio de outras paralisias flácidas:
+- **Poliomielite:** Frequentemente **Assimétrica** (um lado pior que o outro) e precedida por febre e dor muscular intensa.
+- **Síndrome de Guillain-Barré:** Geralmente **Simétrica** (os dois lados sobem juntos) e começa pelos pés, subindo para as mãos de forma rápida.
 
-Outro ponto importante é que o déficit pode ser permanente. A relevância clínica da poliomielite não está apenas na fase infecciosa aguda, mas na incapacidade residual que ela pode deixar. Isso dá à aula um peso de prevenção muito maior do que o de simples tratamento de episódio infeccioso.
-
-## Paralisia flácida aguda: por que esse termo vale tanto em prova
-
-Paralisia flácida aguda é expressão-chave porque resume a manifestação mais temida. Fraqueza de instalação relativamente rápida, tônus reduzido e hiporreflexia ou arreflexia puxam o raciocínio para acometimento do neurônio motor inferior. Em poliomielite, o padrão clássico é motor, com preservação sensitiva relativa.
-
-É justamente essa combinação que a prova costuma usar para diferenciar poliovírus de outros diagnósticos neurológicos. Se o enunciado enfatiza perda sensitiva marcante, alteração esfincteriana proeminente ou sinais centrais exuberantes, o aluno precisa repensar. Já quando o quadro é de fraqueza flácida aguda em contexto epidemiológico compatível, a hipótese sobe bastante.
-
-> **Dica de Prova:** poliomielite clássica é mais lembrada por déficit motor flácido do que por síndrome sensitiva importante.
-
-| Situação clínica | Pista que favorece poliovírus | O que ajuda a diferenciar |
-|------------------|-------------------------------|---------------------------|
-| Criança com fraqueza aguda assimétrica | Paralisia flácida com contexto infeccioso | Pensar em acometimento de neurônio motor inferior |
-| Doença febril prévia seguida de déficit motor | Sequência temporal compatível | Nem todo caso começa já com paralisia |
-| Quadro neurológico em área com baixa cobertura vacinal | Epidemiologia reforça suspeita | Vacinação muda muito a probabilidade |
-| Fraqueza com importante alteração sensitiva | Menos típico de pólio | Exige ampliar diferencial |
-
-## O papel da vacinação: aqui prevenção é praticamente o centro da aula
-
-Há temas em que a vacina entra como detalhe complementar. Em poliovírus, ela é praticamente o eixo mais importante do ponto de vista populacional. A história natural da doença mostra como a vacinação em massa muda radicalmente a circulação viral e a incidência de formas paralíticas. Por isso, a prova frequentemente sai do indivíduo e pergunta pelo impacto coletivo.
-
-Esse é um daqueles assuntos em que microbiologia e saúde pública se encontram de forma muito evidente. O estudante precisa enxergar que poliomielite não é discutida apenas porque causa paralisia, mas porque é uma doença prevenível por imunização e extremamente sensível à queda de cobertura vacinal. Quando a cobertura cai, o risco deixa de ser teórico.
-
-A cobrança também gosta de contrapor erradicação local com necessidade de vigilância contínua. Mesmo em cenário de eliminação de transmissão autóctone, a manutenção da vacinação permanece essencial para evitar reintrodução e perda de proteção coletiva.
-
-## Como a questão costuma ser montada
-
-O formato mais frequente é um caso de paralisia flácida aguda associado a dado epidemiológico, como criança não vacinada, contexto comunitário vulnerável ou história prévia de síndrome infecciosa. Outra possibilidade é a pergunta conceitual sobre via de transmissão e razão da vacinação. Em ambos os formatos, a prova quer ver se você pensa da porta de entrada até a sequela neurológica.
-
-Para organizar melhor, vale seguir esta ordem: primeiro definir se o quadro é motor flácido; depois perguntar se o contexto epidemiológico sustenta poliovírus; por fim, lembrar que o verdadeiro instrumento de controle é a vacinação, não a expectativa de reconhecer clinicamente todos os casos a tempo.
-
-> **Pegadinha:** achar que basta saber tratar o doente individual para controlar pólio. O ponto decisivo da doença sempre foi prevenção coletiva por vacinação e vigilância.
-
-## O que diferencia poliomielite de outras infecções virais do SNC
-
-Nem toda infecção viral do SNC se apresenta como poliovírus. Muitas produzem meningite asséptica, encefalite, rebaixamento do nível de consciência ou convulsão. A poliomielite chama atenção porque o dano mais clássico recai sobre a função motora periférica, gerando a imagem semiológica da fraqueza flácida.
-
-Esse detalhe ajuda muito quando a questão tenta confundir com outras viroses neurotrópicas. Se o núcleo do caso for alteração comportamental, convulsão ou encefalopatia difusa, o raciocínio principal provavelmente está em outro lugar. Se o enunciado puxa para paralisia flácida em contexto epidemiológico compatível, a pólio volta ao centro.
+---
 
 ## Ponte com a Clínica
 
-Na prática, o médico pode até nunca encontrar um caso clássico de poliomielite paralítica, mas precisa entender perfeitamente por que ela continua sendo tema obrigatório. O valor clínico da aula está em reconhecer síndromes neurológicas, compreender o papel da vigilância epidemiológica e, sobretudo, não subestimar o poder preventivo da vacinação em doenças potencialmente devastadoras.
+Embora não vejamos novos casos de pólio há décadas, a **Vigilância de Paralisia Flácida Aguda (PFA)** é obrigatória. Qualquer criança menor de 15 anos que apresente fraqueza súbita em um membro deve ser notificada em até 24 horas. O diagnóstico é feito pela **Pesquisa do Vírus nas Fezes**. Manter coberturas vacinais acima de 95% é a única forma de garantir que o poliovírus selvagem não volte a circular em nosso território.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Poliovírus:** é transmitido principalmente por via fecal-oral.
-- **Infecção inicial:** não começa no SNC, mas em território entérico.
-- **Maioria dos casos:** não evolui para forma neurológica grave.
-- **Poliomielite paralítica:** é lembrada por paralisia flácida aguda.
-- **Déficit motor:** costuma ser mais marcante que alterações sensitivas.
-- **Fraqueza assimétrica:** reforça o padrão clássico da doença.
-- **Vacinação:** é a principal medida de controle populacional.
-- **Cobertura vacinal baixa:** aumenta risco de reintrodução e circulação viral.
+- **Neurônio Motor Inferior**: Alvo principal da destruição viral na medula espinhal.
+- **Paralisia Flácida Aguda**: Marca registrada da pólio; tônus e reflexos abolidos.
+- **Assimetria**: Diferente de outras síndromes, a pólio costuma poupar alguns grupos musculares de um lado.
+- **VIP (Injetável)**: Vírus morto; usada no início do esquema vacinal.
+- **VOP (Gotinha)**: Vírus vivo atenuado; excelente para imunidade coletiva.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Via fecal-oral:** é a porta clássica da pólio.
-- **Enterovírus:** esse é o grupo do poliovírus.
-- **Paralisia flácida:** é o quadro neurológico mais cobrado.
-- **Motor mais que sensitivo:** esse contraste ajuda muito.
-- **Assimetria da fraqueza:** favorece pólio.
-- **Vacina:** é o eixo de prevenção real.
-- **Cobertura coletiva:** define proteção populacional.
-- **Vigilância:** continua essencial mesmo com baixa incidência.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Poliovírus, foque no neurônio motor. 
+Se a questão descreve uma criança que teve febre e depois parou de mexer **uma das pernas**, mas continua sentindo dor e toque, o diagnóstico é **Poliomielite**. Lembre-se que o vírus é **Enterovírus** e a transmissão é fecal-oral. A paralisia é flácida (músculo mole) e não espástica (músculo duro).
+
+A Uninove adora cobrar sobre a **Vacina**. Grave isso: As primeiras doses (2, 4 e 6 meses) devem ser sempre **VIP** (injetável/vírus morto). A gotinha (VOP) é usada apenas nos reforços e campanhas. Se a questão perguntar sobre o diagnóstico, saiba que o exame de escolha é o isolamento do vírus em **Amostras de Fezes** coletadas precocemente. Por fim, lembre-se: sensibilidade normal e reflexo ausente é a "assinatura" da pólio.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Poliomielite | Encefalite viral difusa | Pólio pesa por déficit motor flácido, não por encefalopatia predominante |
-| Paralisia flácida aguda | Síndrome espástica central | Flacidez e hiporreflexia apontam para neurônio motor inferior |
-| Controle clínico individual | Controle epidemiológico | Em pólio, vacinação coletiva é decisiva |
-| Via entérica | Via respiratória principal | Poliovírus é classicamente lembrado pela transmissão fecal-oral |
+| **Poliomielite** | **Síndrome de Guillain-Barré** | Paralisia **Assimétrica** vs Paralisia **Simétrica Ascendente** |
+| **VIP (Salk)** | **VOP (Sabin)** | Vírus **Morto** (Segura) vs Vírus **Vivo** (Imunidade de rebanho) |
+| **Neurônio Motor Superior** | **Neurônio Motor Inferior** | Paralisia **Espástica** (dura) vs Paralisia **Flácida** (mole) |
+| **Fase Intestinal** | **Fase Neurológica** | Ocorre em **95% dos infectados** vs Ocorre em **< 1%** |
+| **Erradicação** | **Eliminação** | Vírus sumiu do **Mundo** vs Vírus sumiu de **Um local** |
 
 ### Frase-âncora para não esquecer
-> "Pólio entra pelo intestino, mas a sequela que marca a história aparece no movimento."
+
+> "Pólio entra pela boca, mora no intestino e viaja até a medula para calar o neurônio motor. A perna fica mole e o reflexo some, mas o toque o paciente ainda sente. VIP para proteger o um, gotinha para proteger o milhão."

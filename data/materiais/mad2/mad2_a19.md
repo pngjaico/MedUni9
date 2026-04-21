@@ -1,108 +1,89 @@
-# MAD2 — Aula 19: Antivirais
+# MAD2 — Aula 19: Antivirais (Exceto HIV)
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+Diferente dos antibióticos, que matam bactérias, a maioria dos antivirais apenas "trava" a replicação do vírus, dando tempo para o sistema imune agir. Na prova, os temas centrais são o mecanismo do **Aciclovir** (Herpes), do **Oseltamivir** (Gripe) e as indicações críticas para pacientes imunossuprimidos.
+
+Na prática, o sucesso do tratamento antiviral depende quase totalmente do **Tempo**. Iniciar o remédio após a janela de **48-72 horas** muitas vezes não traz benefício real, pois o vírus já completou sua replicação em massa no corpo.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Antivirais são cobrados por fase do ciclo viral e janela ideal de início terapêutico.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo fisiopatológico, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A19-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismo de ação geral.
+- **O que mostrar:** O "Cadeado na Célula": Uma célula sendo invadida por um vírus. O antiviral bloqueando pontos específicos: a entrada, a leitura do DNA viral (**Aciclovir**) ou a saída de novos vírus para infectar outras células (**Oseltamivir**).
+- **Tipo sugerido:** Infográfico didático | Esquema do ciclo viral.
+- **Legenda (rascunho):** Principais alvos dos antivirais no ciclo de replicação.
 
-## Conceito Central
+## 1. Aciclovir: O Falso Tijolo (Herpesvírus)
 
-A maioria dos antivirais inibe etapas específicas da replicação viral e funciona melhor quando iniciada precocemente.
+É a droga padrão para Herpes Simples (frio e genital) e Varicela-Zóster.
+- **Mecanismo:** É um **Análogo de Nucleosídeo**. O vírus "pensa" que o **Aciclovir** é uma peça do seu DNA, tenta usá-lo e acaba travando a sua própria replicação (**DNA Polimerase**).
+- **Ativação:** O remédio só funciona dentro de células infectadas, pois precisa de uma enzima do próprio vírus (**Timidina Quinase**) para ser ativado. Isso o torna muito seguro para nossas células saudáveis.
+- **Ganciclovir:** É o "irmão forte" do aciclovir, usado apenas para o temido **Citomegalovírus (CMV)** em pacientes graves.
 
-## Eixo 1
+---
 
-Alvos: entrada, replicação genômica, montagem e liberação viral.
+## 2. Oseltamivir (Tamiflu): Travando a Saída (Influenza)
 
-## Eixo 2
+Usado para o vírus da Gripe (**H1N1** e outros Influenza).
+- **Mecanismo:** É um **Inibidor da Neuraminidase**. A neuraminidase é a "**tesoura**" que o vírus usa para se desprender da célula infectada. Sem ela, os novos vírus ficam presos e não conseguem se espalhar.
+- **A Janela de Ouro:** Deve ser iniciado idealmente nas primeiras **48 horas** de sintomas para reduzir complicações e tempo de internação.
 
-Resistência viral pode surgir por mutações sob pressão seletiva.
+---
 
-## Eixo 3
+## 3. Ribavirina e Antivirais para Hepatite C
 
-Indicação depende de gravidade, tempo de sintomas e risco do hospedeiro.
+- **Hepatite C:** Antigamente usava-se o Interferon (com muitos efeitos colaterais). Hoje, usamos os **Antivirais de Ação Direta (DAAs)**, que conseguem curar mais de 95% dos pacientes com poucos comprimidos por dia.
+- **Ribavirina:** Pode causar anemia hemolítica e é altamente **Teratogênica** (causa malformações no feto). Gestantes ou parceiros de gestantes não podem usar!
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Início precoce de tratamento | Maior impacto na replicação | Janela terapêutica importa |
-| Imunossuprimido com infecção viral | Maior risco de progressão | Agressividade terapêutica maior |
-| Falha virológica | Resistência por mutação | Reavaliar esquema antiviral |
+## 4. Remdesivir: A Nova Geração (RNA Vírus)
 
-## Checklist de Raciocínio
+Ganhou destaque no tratamento da **COVID-19** grave.
+- **Ação:** Bloqueia a enzima que o vírus usa para copiar seu RNA (RNA Polimerase dependente de RNA).
+- **Indicação:** Recomendado para pacientes hospitalizados que precisam de oxigênio suplementar, ajudando a diminuir o tempo de recuperação.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-No cuidado diário, o momento de iniciar antiviral costuma ser tão importante quanto a escolha da droga.
+No consultório e no hospital, o médico deve saber que antivirais não são "milagrosos". Para o **Herpes-Zóster** (Cobreiro), o uso do Aciclovir busca, acima de tudo, prevenir a dor crônica (**Neuralgia Pós-Herpética**). Já para a gripe, o **Tamiflu** é obrigatório para qualquer paciente do "Grupo de Risco" (idosos, crianças, gestantes, obesos e doentes crônicos) mesmo com sintomas leves, para evitar a pneumonia viral fatal.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **Analogia de Nucleosídeo**: Mecanismo de ação do Aciclovir contra DNA polimerase viral.
+- **Timidina Quinase Viral**: Enzima essencial para ativar o Aciclovir dentro da célula doente.
+- **48 Horas**: Janela ideal para início do Oseltamivir em casos de suspeita de Influenza.
+- **Ganciclovir**: Droga de escolha para CMV; maior toxicidade medular do que o aciclovir.
+- **Neuraminidase**: Alvo do Tamiflu; impede o "brotamento" e disseminação do vírus da gripe.
+
+---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Síndrome dominante:** define direção da hipótese principal.
-- **Mecanismo-chave:** explica sinais e exames mais relevantes.
-- **Diferencial crítico:** separa alternativas muito parecidas.
-- **Marcador de gravidade:** muda urgência e nível de cuidado.
-- **Conduta inicial:** precisa ser segura e justificável.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Antivirais, foque no vírus-alvo. 
+**Herpes/Zóster** = Aciclovir. **Gripe/Influenza** = Oseltamivir. **CMV** = Ganciclovir. Se a questão fala de um idoso com bolhas no corpo que começaram há 5 dias, o Aciclovir terá pouco efeito curativo, mas ainda é usado para prevenir a dor crônica. Na gripe, se o paciente tem febre, dor no corpo e falta de ar, não espere o teste: prescreva Tamiflu imediatamente.
+
+A Uninove adora a **Segurança do Aciclovir**. Saiba que ele é muito bem tolerado, mas em doses altas na veia pode causar cristais nos rins (nefropatia por cristal). Garanta hidratação! Outro ponto forte: o **Zidovudina (AZT)** foi o primeiro antiviral de sucesso para o HIV e continua sendo usado para prevenir a transmissão da mãe para o bebê no parto. Por fim, lembre-se: antiviral NÃO trata vírus comum de resfriado (Rinovírus).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Aciclovir** | **Valaciclovir** | Mesma droga, mas o **Valaciclovir absorve melhor** (toma menos vezes) |
+| **Oseltamivir** | **Antibiótico** | Trata o **Vírus da Gripe** vs Trata bactéria (Pneumonia) |
+| **Ganciclovir** | **Aciclovir** | Mais potente/tóxico (**CMV**) vs **Mais seguro (Herpes Simples)** |
+| **Inibidor de Protease** | **Inibidor de Polimerase** | Trava a "**montagem**" vs **Trava a cópia do código genético** |
+| **Profilaxia** | **Tratamento** | Remédio para **evitar** a doença vs Remédio para **curar** a crise |
 
 ### Frase-âncora para não esquecer
-> "Antiviral funciona melhor quando chega cedo no ciclo da doença."
+
+> "Aciclovir é o tijolo falso que trava a obra do herpes; Tamiflu é a corrente que prende a gripe dentro da célula. O tempo é o senhor da cura: chegue antes das 48 horas ou o vírus já terá dominado a vizinhança."

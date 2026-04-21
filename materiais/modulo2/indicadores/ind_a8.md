@@ -1,8 +1,8 @@
 # IND — Aula 8: Sistemas de Informação em Saúde
 
-Os Sistemas de Informação em Saúde (SIS) são o "cérebro" do SUS. Eles coletam dados de cada consulta, nascimento e óbito para gerar as estatísticas que guiam a saúde pública. Na prova, o tema central é saber o nome das siglas (SIM, SINAN, SINASC, etc.) e o que cada uma coleta.
+Os **Sistemas de Informação em Saúde (SIS)** são o "cérebro" do SUS. Eles coletam dados de cada consulta, nascimento e óbito para gerar as estatísticas que guiam a saúde pública. Na prova, o tema central é saber o nome das siglas (**SIM**, **SINAN**, **SINASC**, etc.) e o que cada uma coleta.
 
-Na prática, o médico alimenta esses sistemas toda vez que preenche uma ficha de notificação ou uma certidão de óbito. Se o preenchimento for ruim, a estatística da cidade será mentirosa.
+Na prática, o médico alimenta esses sistemas toda vez que preenche uma **ficha de notificação** ou uma **certidão de óbito**. Se o preenchimento for ruim, a estatística da cidade será mentirosa.
 
 ---
 
@@ -21,7 +21,7 @@ Estes são os mais cobrados em provas de Residência e da Uninove:
 
 - **SIM (Sistema de Informações sobre Mortalidade):** Coleta as **Declarações de Óbito (DO)**. Serve para saber de que o povo está morrendo.
 - **SINASC (Sistema de Informações sobre Nascidos Vivos):** Coleta as **Declarações de Nascido Vivo (DNV)**. Serve para saber o peso dos bebês, idade da mãe e tipo de parto.
-- **SINAN (Sistema de Informação de Agravos de Notificação):** Coleta as fichas de doenças que "avisamos" ao governo (Dengue, Tuberculose, Hanseníase, Malária, Violência).
+- **SINAN (Sistema de Informação de Agravos de Notificação):** Coleta as fichas de doenças que "avisamos" ao governo (**Dengue**, **Tuberculose**, **Hanseníase**, **Malária**, **Violência**).
 
 ---
 
@@ -29,9 +29,9 @@ Estes são os mais cobrados em provas de Residência e da Uninove:
 
 Focam mais no dinheiro e na produção do que na vigilância:
 
-- **SIH-SUS (Sistema de Informações Hospitalares):** Registra as internações (AIH). Serve para pagar os hospitais e ver qual a maior causa de internação.
+- **SIH-SUS (Sistema de Informações Hospitalares):** Registra as internações (**AIH**). Serve para pagar os hospitais e ver qual a maior causa de internação.
 - **SIA-SUS (Sistema de Informações Ambulatoriais):** Registra consultas e exames.
-- **e-SUS APS:** É o sistema que o médico usa no posto de saúde (UBS) para registrar os atendimentos e as famílias cadastradas.
+- **e-SUS APS:** É o sistema que o médico usa no posto de saúde (**UBS**) para registrar os atendimentos e as famílias cadastradas.
 
 ---
 
@@ -39,7 +39,7 @@ Focam mais no dinheiro e na produção do que na vigilância:
 
 Nenhum sistema é perfeito. Os principais problemas são:
 - **Subnotificação:** O evento aconteceu (ex: alguém teve Dengue) mas ninguém avisou o sistema. O dado parece bom, mas a realidade é ruim.
-- **Causas Mal Definidas:** Quando o médico escreve "Parada Cardiorrespiratória" no óbito. Isso não diz a causa real (ex: foi infarto? foi tiro?).
+- **Causas Mal Definidas:** Quando o médico escreve "**Parada Cardiorrespiratória**" no óbito. Isso não diz a causa real (ex: foi infarto? foi tiro?).
 - **Atraso:** O dado demora meses para aparecer no computador do Ministério da Saúde.
 
 ---
@@ -76,11 +76,11 @@ Lembre-se: o sistema só é bom se o médico preencher direito. Se a questão fa
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **SIM** | **SINAN** | Só óbitos vs **Doenças mesmo sem morte** |
-| **SIH** | **SIM** | Internação (Pode ter alta) vs **Atestado de óbito** |
+| **SIM** | **SINAN** | **Só óbitos** vs Doenças mesmo sem morte |
+| **SIH** | **SIM** | **Internação** (Pode ter alta) vs Atestado de óbito |
 | **SINASC** | **SIH** | Bebês saudáveis e doentes vs **Apenas quem internou** |
 | **Subnotificação** | **Sub-registro** | Caso não avisado vs **Civil (não tirou documento)** |
-| **Causa Básica** | **Causa Terminal** | O que começou a doença vs **O jeito que o corpo parou** |
+| **Causa Básica** | **Causa Terminal** | **O que começou a doença** vs O jeito que o corpo parou |
 
 ### Frase-âncora para não esquecer
 

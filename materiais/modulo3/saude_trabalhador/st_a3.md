@@ -7,11 +7,11 @@
 
 ## Relevância Clínica e Acadêmica
 
-Vigilância em saúde do trabalhador (VISAT) transforma caso individual em ação coletiva.
+**Vigilância em saúde do trabalhador (VISAT)** transforma caso individual em ação coletiva.
 Esse raciocínio é muito cobrado em saúde coletiva e medicina preventiva.
 Na prática, ele evita repetir adoecimento no mesmo território produtivo.
 
-A VISAT integra cuidado clínico, notificação qualificada e intervenção no processo de trabalho.
+A VISAT integra cuidado clínico, notificação qualificada e **intervenção no processo de trabalho**.
 Sem esse ciclo, a rede trata consequências e deixa a causa ativa.
 Com esse ciclo, o serviço aprende e previne novos eventos.
 
@@ -28,19 +28,19 @@ Com esse ciclo, o serviço aprende e previne novos eventos.
 
 ## VISAT: o que é e como funciona
 
-A VISAT reúne ações para detectar, analisar e intervir em riscos relacionados ao trabalho.
+A VISAT reúne ações para detectar, analisar e intervir em **riscos relacionados ao trabalho**.
 Ela articula vigilância epidemiológica, sanitária, ambiental e assistência.
 O objetivo é proteger trabalhadores e reduzir agravos evitáveis.
 
 Pilares operacionais:
 
-- identificação de eventos sentinela;
+- identificação de **eventos sentinela**;
 - análise territorial por atividade econômica;
-- investigação do processo produtivo;
+- investigação do **processo produtivo**;
 - recomendação de medidas de controle;
 - monitoramento da efetividade.
 
-> **Dica de Prova:** questão com vários casos parecidos no mesmo setor sugere evento sentinela e ação de vigilância.
+> **Dica de Prova:** questão com vários casos parecidos no mesmo setor sugere **evento sentinela** e ação de vigilância.
 
 ---
 
@@ -51,10 +51,10 @@ Sem método, surgem registros frágeis e decisões inconsistentes.
 
 Roteiro prático:
 
-1. cronologia de exposição e sintomas;
+1. **cronologia de exposição e sintomas**;
 2. descrição da tarefa crítica e do agente;
-3. relação melhora-piora com jornada, folga e férias;
-4. presença de colegas com sintomas semelhantes;
+3. relação **melhora-piora com jornada**, folga e férias;
+4. presença de **colegas com sintomas semelhantes**;
 5. diferenciais não ocupacionais relevantes;
 6. conclusão com grau de probabilidade.
 
@@ -66,11 +66,11 @@ Roteiro prático:
 
 | Agravo | Exposição típica | Sinal de nexo | Conduta inicial |
 |--------|------------------|---------------|-----------------|
-| PAIR | ruído ocupacional crônico | piora auditiva bilateral progressiva | reduzir exposição e seguir vigilância |
-| Dermatite ocupacional | químicos irritantes e sensibilizantes | melhora parcial em afastamento | tratar pele e revisar barreiras |
-| Asma ocupacional | poeiras e vapores | piora no turno e melhora em folga | manejo respiratório e controle ambiental |
-| LER/DORT | repetição e força | dor progressiva com tarefa | analgesia funcional e intervenção ergonômica |
-| Transtorno mental relacionado ao trabalho | assédio, metas abusivas | sintomas vinculados ao contexto laboral | acolhimento e plano multiprofissional |
+| **PAIR** | ruído ocupacional crônico | **piora auditiva bilateral progressiva** | reduzir exposição e seguir vigilância |
+| **Dermatite ocupacional** | químicos irritantes e sensibilizantes | melhora parcial em afastamento | tratar pele e revisar barreiras |
+| **Asma ocupacional** | poeiras e vapores | piora no turno e melhora em folga | manejo respiratório e controle ambiental |
+| **LER/DORT** | repetição e força | dor progressiva com tarefa | analgesia funcional e intervenção ergonômica |
+| **Transtorno mental relacionado ao trabalho** | assédio, metas abusivas | sintomas vinculados ao contexto laboral | acolhimento e plano multiprofissional |
 
 Tabela de agravos ajuda a banca a cobrar diferenciação entre causalidade ocupacional provável e hipótese inespecífica.
 
@@ -104,10 +104,10 @@ CEREST oferece suporte técnico, formação e articulação regional.
 
 | Ponto da rede | Função central | Limite comum |
 |---------------|----------------|--------------|
-| UBS/ESF | cuidado longitudinal e suspeição de nexo | subregistro de ocupação |
-| Vigilância municipal | análise e intervenção no território | baixa integração com assistência |
-| CEREST | apoio técnico e educação permanente | expectativa de função ambulatorial direta |
-| Atenção especializada | confirmação diagnóstica e reabilitação | pouca devolutiva para APS |
+| **UBS/ESF** | cuidado longitudinal e suspeição de nexo | subregistro de ocupação |
+| **Vigilância municipal** | análise e intervenção no território | baixa integração com assistência |
+| **CEREST** | **apoio técnico e educação permanente** | expectativa de função ambulatorial direta |
+| **Atenção especializada** | confirmação diagnóstica e reabilitação | pouca devolutiva para APS |
 
 ---
 
@@ -149,8 +149,8 @@ CEREST oferece suporte técnico, formação e articulação regional.
 
 Em uma UBS, três trabalhadores de frigorífico procuram atendimento em duas semanas com dor em punho e parestesia noturna.
 A leitura isolada trataria cada um com analgesia e afastamento curto.
-A leitura vigilante identifica padrão setorial, orienta intervenção ergonômica coletiva e melhora desfecho.
-Esse é o núcleo prático da VISAT: aprender com repetição para evitar novos casos.
+A leitura vigilante identifica **padrão setorial**, orienta intervenção ergonômica coletiva e melhora desfecho.
+Esse é o núcleo prático da VISAT: **aprender com repetição para evitar novos casos**.
 
 ---
 

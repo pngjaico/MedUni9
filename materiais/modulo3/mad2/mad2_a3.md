@@ -1,8 +1,8 @@
 # MAD2 — Aula 3: Autoimunidade
 
-A autoimunidade é o cenário onde o sistema de defesa "perde a bússola" e passa a atacar o próprio corpo como se fosse um invasor. Na prova, os temas centrais são a diferença entre doenças **Sistêmicas** e **Órgão-específicas**, e os mecanismos de dano: se o problema são os **Autoanticorpos** ou os **Linfócitos T**.
+A **autoimunidade** é o cenário onde o sistema de defesa "perde a bússola" e passa a atacar o próprio corpo como se fosse um invasor. Na prova, os temas centrais são a diferença entre doenças **Sistêmicas** e **Órgão-específicas**, e os mecanismos de dano: se o problema são os **Autoanticorpos** ou os **Linfócitos T**.
 
-Na prática, o médico deve ser capaz de identificar quando sintomas genéricos (como cansaço e dor articular) escondem um ataque silencioso aos rins, sangue ou glândulas, agindo antes que o dano seja permanente.
+Na prática, o médico deve ser capaz de identificar quando sintomas genéricos (como cansaço e dor articular) escondem um ataque silencioso aos **rins**, **sangue** ou **glândulas**, agindo antes que o dano seja permanente.
 
 ---
 
@@ -17,8 +17,8 @@ Na prática, o médico deve ser capaz de identificar quando sintomas genéricos 
 
 ## 1. Doenças Sistêmicas vs Órgão-Específicas
 
-- **Sistêmicas (Ex: Lúpus):** O corpo produz anticorpos contra coisas que existem em todas as células (como o DNA). Por isso, o ataque atinge pele, articulações, rins e sangue ao mesmo tempo.
-- **Órgão-Específicas (Ex: Diabetes Tipo 1 ou Tireoidite):** O ataque é focado em um único alvo. No Diabetes, o sistema imune destrói apenas as células do pâncreas que produzem insulina.
+- **Sistêmicas (Ex: Lúpus):** O corpo produz anticorpos contra coisas que existem em todas as células (como o **DNA**). Por isso, o ataque atinge **pele**, **articulações**, **rins** e **sangue** ao mesmo tempo.
+- **Órgão-Específicas (Ex: Diabetes Tipo 1 ou Tireoidite):** O ataque é focado em um único alvo. No Diabetes, o sistema imune destrói apenas as células do **pâncreas** que produzem **insulina**.
 
 ---
 
@@ -27,7 +27,7 @@ Na prática, o médico deve ser capaz de identificar quando sintomas genéricos 
 Existem três formas principais de o sistema imune causar estrago:
 1.  **Imunocomplexos:** São "bolos" de anticorpos grudados em antígenos que circulam no sangue e entopem pequenos vasos, causando inflamação no rim (**Glomerulonefrite**) ou na pele.
 2.  **Ataque Direto (Citotóxico):** O anticorpo gruda na célula (ex: hemácia) e manda o sistema imune destruí-la na hora, causando **Anemia Autoimune**.
-3.  **Bloqueio de Função:** O anticorpo não destroi a célula, mas "entope" o receptor de carga dela (ex: na Miastenia Gravis, ele bloqueia o receptor de movimento do músculo).
+3.  **Bloqueio de Função:** O anticorpo não destroi a célula, mas "entope" o receptor de carga dela (ex: na **Miastenia Gravis**, ele bloqueia o receptor de movimento do músculo).
 
 ---
 
@@ -35,8 +35,8 @@ Existem três formas principais de o sistema imune causar estrago:
 
 Cuidado com a pegadinha: ter o exame positivo (como o FAN) não significa que o paciente tem a doença.
 - **FAN Positivo:** Muitas pessoas saudáveis têm FAN positivo em títulos baixos. O diagnóstico exige **Sintomas Clínicos**.
-- **Marcadores de Inflamação:** Exames como o PCR e o VHS dizem se a "guerra" está ativa no momento, ajudando a decidir se é hora de aumentar o remédio.
-- **Função do Órgão:** O mais importante é ver se o órgão está sofrendo (ex: dosar creatinina para ver o rim).
+- **Marcadores de Inflamação:** Exames como o **PCR** e o **VHS** dizem se a "guerra" está ativa no momento, ajudando a decidir se é hora de aumentar o remédio.
+- **Função do Órgão:** O mais importante é ver se o órgão está sofrendo (ex: dosar **creatinina** para ver o rim).
 
 ---
 
@@ -82,7 +82,7 @@ A Uninove adora cobrar a interpretação de anticorpos. Saiba que existem antico
 |------------|------------|-----------------|
 | **Lúpus (LES)** | **Tireoidite de Hashimoto** | Doença **Sistêmica** vs Doença **Órgão-específica** |
 | **Imunocomplexos** | **Citotoxicidade Direta** | Entope os vasos vs **Destrói a célula** alvo |
-| **FAN** | **Anti-DNA / Anti-Sm** | Muito sensível (triagem) vs **Muito específico (confirmação)** |
+| **FAN** | **Anti-DNA / Anti-Sm** | **Sensível (triagem)** vs **Muito específico (confirmação)** |
 | **Remissão** | **Atividade (Flare)** | Doença controlada vs **Ataque agudo ao órgão** |
 | **Anticorpo Bloqueador** | **Anticorpo Estimulador** | Causa perda de função (fraqueza) vs **Excesso de função (hormônio alto)** |
 

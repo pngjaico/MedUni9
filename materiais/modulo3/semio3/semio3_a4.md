@@ -29,15 +29,15 @@ Não faça perguntas aleatórias. Siga este roteiro:
 
 Esta diferenciação salva o testículo do paciente:
 - **Torção Testicular:** Dor **Súbita e Explosiva**. O testículo fica alto e "atravessado" na bolsa. É uma **Urgência Cirúrgica** (tempo é tecido!).
-- **Epididimite:** Dor **Gradual**. Geralmente acompanhada de febre, ardor ao urinar e o epidídimo fica inchado e dolorido. Melhora um pouco ao levantar o escroto (Sinal de Prehn).
+- **Epididimite:** Dor **Gradual**. Geralmente acompanhada de febre, ardor ao urinar e o epidídimo fica inchado e dolorido. Melhora um pouco ao levantar o escroto (**Sinal de Prehn**).
 
 ---
 
 ## 3. Exame Físico: O que procurar?
 
-- **Inspeção:** Procure por **Úlceras** (Feridas), verrugas (**HPV**) ou secreção no canal (pus).
+- **Inspeção:** Procure por **Úlceras** (Feridas), verrugas (**HPV**) ou secreção no canal (**pus**).
 - **Palpação:** O testículo normal é firme como uma borracha escolar. Se sentir um **Nódulo Duro e Indolor**, suspeite de **Câncer** imediatamente.
-- **Varicocele:** Veias inchadas que parecem um "saco de vermes" acima do testículo. Piora quando o paciente fica em pé.
+- **Varicocele:** Veias inchadas que parecem um "**saco de vermes**" acima do testículo. Piora quando o paciente fica em pé.
 - **Hidrocele:** Líquido ao redor do testículo. Se você encostar uma lanterna na pele e a luz atravessar (**Transiluminação**), é apenas líquido.
 
 ---
@@ -87,7 +87,7 @@ A Uninove adora o **Exame Escrotal**. Lembre-se: a **Transiluminação** positiv
 | **HPB** | **Câncer de Próstata** | Superfície **Lisa** vs Superfície **Nodular/Dura** |
 | **Varicocele** | **Hidrocele** | **"Saco de vermes"** vs **Bolsa de Líquido** (Luz) |
 | **Uretrite** | **Cistite** | **Secreção de Pus** vs apenas **Dor ao Urinar** |
-| **Parafimose** | **Fimose** | Urgência (Anel estrangulando) vs Dificuldade crônica de retrair |
+| **Parafimose** | **Fimose** | **Urgência (Anel estrangulando)** vs Dificuldade crônica de retrair |
 
 ### Frase-âncora para não esquecer
 

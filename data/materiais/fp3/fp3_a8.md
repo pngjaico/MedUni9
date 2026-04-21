@@ -1,140 +1,93 @@
 # FP3 — Aula 8: Neoplasias — Carcinogênese, Disseminação e Estadiamento
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+O câncer é o resultado de uma célula que "esqueceu como morrer" e passou a se dividir sem parar. Na prova, os temas centrais são a diferenciação entre tumores **Benignos** e **Malignos**, as etapas da **Carcinogênese** (Iniciação, Promoção e Progressão) e o sistema **TNM de Estadiamento**, que define o futuro do paciente.
+
+Na prática, o médico deve saber que um diagnóstico precoce de um **Carcinoma In Situ** (que ainda não rompeu a barreira do tecido) pode significar a cura total, enquanto a descoberta de uma metástase mexe em toda a estratégia de tratamento, passando de curativa para paliativa.
 
 ---
 
-## Relevância Clínica e Acadêmica
+### Figura sugerida
 
-Tema central por unir patologia tumoral, vias de metástase e estadiamento TNM.
+**Figura-ID:** `FP3-A8-F01`
 
-Esse conteúdo cai com frequência em questões de caso clínico. O padrão da banca é apresentar sintoma + exame simples e pedir o mecanismo principal.
+- **Momento:** Seção de benigno vs maligno.
+- **O que mostrar:** O "Invasor vs o Vizinho": De um lado, o tumor **Benigno**, redondinho, dentro de uma cápsula, apenas empurrando os tecidos. Do outro, o tumor **Maligno**, com "braços" (caranguejo) que entram nos vasos sanguíneos e nervos, destruindo tudo ao redor.
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Diferenças fundamentais de crescimento e invasão entre neoplasias benignas e malignas.
 
-## Conceito Central
+## 1. Benigno vs. Maligno: O Nome e o Comportamento
 
-Tumor maligno combina proliferação desregulada, invasão local e disseminação.
+Saber o nome do tumor já diz muito sobre ele:
+- **Benignos (Sufixo -oma):** Têm crescimento lento, são organizados e não viajam pelo corpo. Ex: Lipoma (gordura), Mioma (músculo do útero).
+- **Malignos (Câncer):** Têm crescimento rápido e invadem os vizinhos.
+    - **Carcinomas:** Nascem na pele ou mucosas (epitélio). Viajam preferencialmente pelos **Linfonodos**.
+    - **Sarcomas:** Nascem nos ossos, músculos ou cartilagens. Viajam preferencialmente pelo **Sangue** (Hematogênica).
 
-## Eixos Essenciais
+---
 
-- Identificar síndrome dominante antes de nomear a doença final.
-- Relacionar sinal clínico ao mecanismo fisiopatológico principal.
-- Diferenciar condição aguda de condição crônica no enunciado.
-- Reconhecer marcador de gravidade que muda conduta imediata.
+## 2. Carcinogênese: A Receita do Câncer
 
-## Tabela de Integração para Prova
+O câncer não surge do nada; ele precisa de três erros acumulados:
+1.  **Iniciação:** O DNA da célula sofre um dano irreversível (sol, cigarro, vírus). A célula fica "marcada".
+2.  **Promoção:** A célula marcada é estimulada a se dividir (inflamação crônica ou hormônios).
+3.  **Progressão:** A célula sofre mais mutações e ganha "superpoderes" de invasão e metástase.
 
-| Situação Clínica | Mecanismo Fisiopatológico | Dica de Raciocínio |
-|------------------|---------------------------|--------------------|
-| Lesão invasiva em biópsia | Ruptura de membrana basal | Critério de malignidade |
-| Linfonodo regional positivo | Disseminação linfática | Muda estádio |
-| Metástase hepática | Disseminação hematogênica | Buscar sítio primário |
+---
 
-## Armadilhas que Mais Derrubam
+## 3. Os Genes Estrelas: Aceleradores e Freios
 
-- Começar pelo nome da doença sem fechar a síndrome.
-- Ignorar dado laboratorial simples que já aponta o mecanismo.
-- Confundir efeito terapêutico com efeito adverso da mesma classe.
-- Desconsiderar comorbidade que muda conduta (rim, fígado, risco trombótico).
-- Tratar marcador isolado sem interpretar contexto clínico.
+O câncer mexe em dois tipos de genes:
+- **Proto-oncogenes (Aceleradores):** Quando sofrem mutação (vão para **Oncogenes**), o acelerador fica "travado no fundo" e a célula não para de crescer.
+- **Genes Supressores de Tumor (Freios):** Como o **p53**. Eles deveriam parar a célula doente. No câncer, esse freio "falha", permitindo que a célula estragada continue viva.
 
-## Fluxo de Decisão em 8 Passos
+---
 
-1. Defina o sistema-alvo principal.
-2. Classifique o processo como inflamatório, vascular, neoplásico ou farmacológico.
-3. Liste o mecanismo mais provável e um mecanismo alternativo.
-4. Compare com o exame laboratorial mais relevante.
-5. Busque sinal de gravidade imediata.
-6. Estabeleça diagnóstico sindrômico.
-7. Escolha conduta inicial segura.
-8. Planeje reavaliação de resposta.
+## 4. TNM: O Estadiamento (O CPF do Tumor)
 
-## Casos de Fixação
+Para tratar o câncer, o médico precisa saber em que estágio a doença está usando a escala **TNM**:
+- **T (Tumor):** O tamanho do tumor original. T1 é pequeno; T4 é grande e invadiu órgãos vizinhos.
+- **N (Node/Linfonodo):** Se o câncer já chegou às "ínguas" (linfonodos) perto dele.
+- **M (Metástase):** Se o câncer já viajou para órgãos distantes como pulmão, fígado ou ossos. **M1** significa metástase presente (estágio avançado).
 
-**Caso 1:** paciente com quadro clássico do tema e exame-chave alterado.  
-**Como pensar:** reconhecer síndrome dominante e excluir o principal diferencial cobrado.
-
-**Caso 2:** paciente em uso de medicamento da aula com evento adverso.  
-**Como pensar:** ligar receptor/alvo da droga ao efeito observado e ajustar estratégia.
-
-**Caso 3:** cenário de progressão rápida.  
-**Como pensar:** priorizar estabilização e só depois ampliar investigação etiológica.
-
-## Pontos-Chave para Prova
-
-- Mecanismo manda no raciocínio.
-- Síndrome manda na primeira decisão.
-- Gravidade manda na urgência da conduta.
-- Diferencial manda no acerto da questão.
-- Reavaliação manda na segurança terapêutica.
+---
 
 ## Ponte com a Clínica
 
-Na prática, o acerto vem de método, não de memória solta. Quando você organiza o caso por síndrome, mecanismo e gravidade, reduz erro diagnóstico e evita conduta precipitada.
+No consultório, a técnica do **Linfonodo Sentinela** é fundamental no câncer de mama. O cirurgião identifica o primeiro linfonodo que "drena" a mama. Se esse linfonodo estiver limpo de câncer, a chance de a doença ter se espalhado é mínima, e a paciente pode ser poupada de uma cirurgia agressiva de retirada de todos os gânglios da axila. Já o **Carcinoma In Situ** é a maior vitória da prevenção: as células são malignas, mas como ainda não romperam a "parede" (membrana basal), o risco de metástase é zero se retirado a tempo.
 
-Esse mesmo método melhora desempenho em prova porque transforma enunciado confuso em sequência lógica de decisão.
+---
+
+## Pontos-Chave para Prova
+
+- **Metástase**: O sinal inequívoco de malignidade; tumores benignos nunca metastatizam.
+- **p53**: Conhecido como o "Guardião do Genoma"; sua falta ou mutação está em 50% dos cânceres.
+- **Angiogênese**: Capacidade do tumor de criar seus próprios vasos sanguíneos para se alimentar.
+- **Linfonodo Sentinela**: O primeiro gânglio a ser colonizado por uma metástase linfática.
+- **Indiferenciação/Anaplasia**: Quanto mais "bagunçada" e menos parecida com o original a célula for, mais maligno é o tumor.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Síndrome dominante:** define direção do caso.
-- **Mecanismo principal:** explica sinais e exames.
-- **Diferencial crítico:** evita confusão em alternativas parecidas.
-- **Sinal de gravidade:** muda urgência da conduta.
-- **Conduta inicial:** deve ser segura e justificada.
+Para gabaritar Neoplasias, foque nas definições. 
+**Benigno** = Encapsulado e Diferenciado. **Maligno** = Invasivo e Metástase. Se a questão fala de um gene que deveria ter parado o câncer mas falhou, o tema é **Gene Supressor (p53)**. Se fala de uma mutação que ativou o crescimento sem parar, é **Oncogene**.
+
+A Uninove adora o **TNM**. Lembre-se: M1 é sempre o pior cenário (metástase à distância). Estágio I é precoce; Estágio IV é disseminado. Outro ponto forte: Carcinomas (mama/pulmão) preferem os **Linfonodos** primeiro. Sarcomas (osso/músculo) preferem o **Sangue**. Por fim, saiba que o prefixo **Adeno-** significa glândula; assim, um Adenocarcinoma é um câncer de glândula (ex: Intestino).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico mostra adaptação e progressão |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera tecido |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução |
+| **Benigno** | **Maligno** | Tem **Cápsula** vs **Invade** tecidos vizinhos |
+| **Carcinoma** | **Sarcoma** | Origem **Epitelial** vs Origem **Conjuntiva** (Osso/Músculo) |
+| **In situ** | **Invasor** | Não rompeu a **Base** vs Já atravessou a barreira |
+| **Grau** | **Estágio** | Aparência na **Lupa** (G1-G4) vs Onde o tumor está (**TNM**) |
+| **Proto-oncogene** | **Gene Supressor** | Acelerador **LIGADO** vs Freio **QUEBRADO** |
 
 ### Frase-âncora para não esquecer
 
-> "Em câncer, tamanho importa, mas invasão e metástase decidem prognóstico."
-## Revisão Clínica Expandida
-
-### Erros que a banca força no enunciado
-
-- Trocar síndrome dominante por diagnóstico específico cedo demais.
-- Ignorar marcador laboratorial simples que já muda conduta.
-- Desconsiderar contexto de risco (idade, comorbidade, uso de fármacos).
-- Tratar achado isolado sem fechar mecanismo fisiopatológico.
-- Confundir gravidade clínica com duração do quadro.
-
-### Perguntas de checagem rápida
-
-- Qual é o mecanismo principal deste caso?
-- Qual achado mais fortalece esse mecanismo?
-- Qual diferencial mais próximo precisa ser descartado?
-- Há sinal de gravidade que muda urgência?
-- Qual conduta inicial é mais segura neste cenário?
-
-### Aplicação prática resumida
-
-- Em prova: primeiro feche a síndrome, depois escolha o mecanismo.
-- Em clínica: primeiro estabilize, depois refine etiologia.
-- Em farmacoterapia: ajuste pela função orgânica e risco individual.
-- Em seguimento: reavalie resposta e reclassifique risco.
-
-### Microtabela final de memorização
-
-| Chave | Lembrete |
-|------|----------|
-| Síndrome | Define direção inicial |
-| Mecanismo | Explica exame e sintoma |
-| Gravidade | Define urgência |
-| Conduta | Deve ser segura e justificável |
-| Reavaliação | Evita erro de manutenção |
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
+> "O tumor benigno empurra, o maligno fura. O estadiamento olha o mapa da viagem; o grau olha o rosto do passageiro. Na dúvida, se tem metástase, a guerra é contra um câncer (maligno)."

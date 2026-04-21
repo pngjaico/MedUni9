@@ -1105,6 +1105,199 @@
       border-color: var(--primary);
     }
 
+    /* Premium Segmented Control */
+    .mg-segmented-control {
+      display: flex;
+      position: relative;
+      background: rgba(15, 23, 42, 0.45);
+      backdrop-filter: blur(12px);
+      border-radius: 14px;
+      padding: 4px;
+      margin: 12px 16px;
+      border: 1px solid var(--border-card);
+      user-select: none;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .mg-segmented-tab {
+      flex: 1;
+      position: relative;
+      z-index: 2;
+      padding: 10px 12px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      cursor: pointer;
+      transition: color 0.3s var(--ease-spring);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .mg-segmented-tab.active {
+      color: #000;
+    }
+    .mg-segmented-indicator {
+      position: absolute;
+      top: 4px;
+      bottom: 4px;
+      left: 4px;
+      width: calc(50% - 4px);
+      background: var(--primary);
+      border-radius: 10px;
+      z-index: 1;
+      transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 0 4px 15px rgba(0, 200, 150, 0.35);
+    }
+
+    /* Quiz question card with premium feel */
+    .quiz-question-card {
+      background: rgba(255,255,255,0.035);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-left: 4px solid var(--primary);
+      border-radius: 14px;
+      padding: 18px 20px;
+      margin-bottom: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      position: relative;
+      overflow: hidden;
+    }
+    .quiz-question-card::after {
+      content: '';
+      position: absolute;
+      top: 0; right: 0;
+      width: 100px; height: 100px;
+      background: radial-gradient(circle at top right, rgba(0, 200, 150, 0.05), transparent 70%);
+      pointer-events: none;
+    }
+
+    /* Quiz Options Premium Styling */
+    .quiz-options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+    .quiz-option {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 18px;
+      background: var(--bg-card);
+      border: 1.5px solid var(--border-card);
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      color: var(--text-primary);
+      position: relative;
+    }
+    .quiz-option:hover:not(.correct):not(.incorrect) {
+      border-color: var(--primary);
+      background: rgba(0, 200, 150, 0.05);
+      transform: translateX(4px);
+    }
+    .quiz-option.selected {
+      border-color: var(--primary);
+      background: rgba(0, 200, 150, 0.1);
+      box-shadow: 0 0 15px rgba(0, 200, 150, 0.15);
+    }
+    .quiz-option-number {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.05);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-family: 'Outfit', sans-serif;
+      font-size: 14px;
+      color: var(--text-secondary);
+      transition: all 0.2s;
+    }
+    .quiz-option.selected .quiz-option-number {
+      background: var(--primary);
+      color: #000;
+    }
+
+    .quiz-option.correct {
+      background: rgba(16, 185, 129, 0.12);
+      border-color: #10B981;
+      color: #10B981;
+    }
+    .quiz-option.correct .quiz-option-number {
+      background: #10B981;
+      color: #FFF;
+    }
+    .quiz-option.incorrect {
+      background: rgba(239, 68, 68, 0.08);
+      border-color: rgba(239, 68, 68, 0.4);
+      opacity: 0.8;
+    }
+    .quiz-option.incorrect-selected {
+      background: rgba(239, 68, 68, 0.12);
+      border-color: #EF4444;
+      opacity: 1;
+      color: #EF4444;
+    }
+    .quiz-option.incorrect-selected .quiz-option-number {
+      background: #EF4444;
+      color: #FFF;
+    }
+    .quiz-option.crossed-out {
+      opacity: 0.3;
+      filter: grayscale(1);
+      text-decoration: line-through;
+    }
+
+    /* Subject select cards improvement */
+    .subject-select-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 16px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      cursor: pointer;
+      transition: all 0.3s var(--ease-spring);
+      position: relative;
+      overflow: hidden;
+    }
+    .subject-select-card:hover {
+      border-color: var(--primary);
+      background: rgba(0, 200, 150, 0.04);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+    }
+    .subject-select-card:active {
+      transform: scale(0.98);
+    }
+    .subject-select-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      flex-shrink: 0;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .subject-select-name {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      color: var(--text-primary);
+      margin-bottom: 2px;
+    }
+    .subject-select-meta {
+      font-size: 12.5px;
+      color: var(--text-secondary);
+    }
+
     /* Quiz question card with better readability */
     .quiz-question-card {
       background: rgba(255,255,255,0.035);
@@ -2306,6 +2499,42 @@
       width: 100%;
       padding: 0 16px;
       margin-bottom: 20px;
+    }
+
+    /* Cloze Deletion (Lacunas) Styling */
+    .cloze-gap {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0, 200, 150, 0.15);
+      border: 1px dashed var(--primary);
+      color: var(--primary);
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-family: 'Outfit', sans-serif;
+      margin: 0 2px;
+      min-width: 40px;
+      box-shadow: 0 0 10px rgba(0, 200, 150, 0.1);
+      vertical-align: middle;
+    }
+
+    .cloze-answer {
+      color: var(--primary);
+      font-weight: 800;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+      text-decoration-thickness: 2px;
+    }
+
+    html[data-theme="light"] .cloze-gap {
+      background: rgba(0, 200, 150, 0.1);
+      border-style: solid;
+      color: #058661;
+    }
+    
+    html[data-theme="light"] .cloze-answer {
+      color: #058661;
     }
 
     .progress-dots {
@@ -7079,10 +7308,20 @@
       if (typeof text !== 'string' || !text.trim()) return null;
       const matches = [...text.matchAll(CLOZE_REGEX_GLOBAL)];
       if (!matches.length) return null;
+      
       const answers = matches.map((m) => (m[1] || '').trim()).filter(Boolean);
-      const frontMasked = text.replace(CLOZE_REGEX_GLOBAL, '_____');
+      
+      // Front: Replace with styled placeholder [...]
+      const frontMasked = text.replace(CLOZE_REGEX_GLOBAL, '<span class="cloze-gap">[...]</span>');
+      
+      // Back: Replace with highlighted answer
+      const backHighlighted = text.replace(CLOZE_REGEX_GLOBAL, (match, p1) => {
+        return `<span class="cloze-answer">${p1}</span>`;
+      });
+
       return {
         frontMasked,
+        backHighlighted,
         answers,
       };
     }
@@ -7574,13 +7813,23 @@
                   <div className="flashcard-front">
                     <div className="flashcard-label">{currentCardCloze ? 'Lacuna' : 'Pergunta'}</div>
                     <div className="flashcard-text">
-                      {currentCardCloze?.frontMasked || currentCard.pergunta}
+                      {currentCardCloze ? (
+                        <div dangerouslySetInnerHTML={{ __html: currentCardCloze.frontMasked }} />
+                      ) : (
+                        currentCard.pergunta
+                      )}
                     </div>
                     <div className="flashcard-hint">Espaço para virar</div>
                   </div>
                   <div className="flashcard-back">
                     <div className="flashcard-label">Resposta</div>
-                    <div className="flashcard-text flashcard-answer">{currentCard.resposta}</div>
+                    <div className="flashcard-text flashcard-answer">
+                      {currentCardCloze ? (
+                        <div dangerouslySetInnerHTML={{ __html: currentCardCloze.backHighlighted }} />
+                      ) : (
+                        currentCard.resposta
+                      )}
+                    </div>
                     {currentCard.explicacao && (
                       <div className="flashcard-explanation">{currentCard.explicacao}</div>
                     )}
@@ -7686,6 +7935,7 @@
       const [selectedOption, setSelectedOption] = useState(null);
       const [crossedOut, setCrossedOut] = useState(new Set());
       const [answered, setAnswered] = useState(false);
+      const [userAnswers, setUserAnswers] = useState({}); // New: Persist answers for navigation
       const [quizStats, setQuizStats] = useState({ correct: 0, total: 0 });
       const [startTime, setStartTime] = useState(Date.now());
       const [quizComplete, setQuizComplete] = useState(false);
@@ -7696,19 +7946,17 @@
       const [showCadernoErros, setShowCadernoErros] = useState(false);
       const [reportQuizOpen, setReportQuizOpen] = useState(false);
       const [reportQuizReason, setReportQuizReason] = useState('');
+      const [reportQuizTarget, setReportQuizTarget] = useState(null);
       const [reportQuizSending, setReportQuizSending] = useState(false);
       const [reportQuizError, setReportQuizError] = useState('');
-      const [reportQuizTarget, setReportQuizTarget] = useState(null);
       const quizRouteAulaAppliedRef = useRef(false);
       const highlighterRef = useRef(null);
 
-      // Highlight logic for Quiz
       useEffect(() => {
         if (!highlighterRef.current) return;
         return setupHighlighter(highlighterRef.current);
       }, [currentQuestion, activeQuiz, showCadernoErros, reviewQuestionIds, quizComplete]);
 
-      // Caderno de erros — localStorage
       const getErros = () => JSON.parse(localStorage.getItem('meduni9_caderno_erros') || '[]');
       const addErro = (questionId) => {
         const erros = getErros();
@@ -7721,19 +7969,15 @@
         const erros = getErros().filter(id => id !== questionId);
         localStorage.setItem('meduni9_caderno_erros', JSON.stringify(erros));
       };
-      const clearErros = () => localStorage.setItem('meduni9_caderno_erros', '[]');
       const getQuizProgress = () => JSON.parse(localStorage.getItem(QUIZ_PROGRESS_KEY) || '{}');
       const markQuizAsDone = (questionId, correct) => {
         if (questionId == null) return;
         const map = getQuizProgress();
         const key = String(questionId);
         const prev = map[key] || { attempts: 0, correctAttempts: 0, done: false, level: 0 };
-        
         const newLevel = correct ? Math.min((prev.level || 0) + 1, 5) : 0;
-        // Basic Review Interval: level 1=1d, 2=3d, 3=7d, 4=14d, 5=30d
         const intervals = [0, 1, 3, 7, 14, 30];
         const nextInterval = intervals[newLevel] || 0;
-        
         map[key] = {
           ...prev,
           done: true,
@@ -7793,47 +8037,35 @@
         return result;
       }, [quizzes, semesterFilter, searchQuery]);
 
-      // Keyboard shortcuts for quiz
       useEffect(() => {
         if (!activeQuiz || quizComplete) return;
         const handleKey = (e) => {
           if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-          const activeCards = getActiveCards();
-          const card = activeCards[currentQuestion];
-          if (!card) return;
-
-          // Atalhos de Navegação (Setas)
-          if (e.key === 'ArrowRight') {
-            e.preventDefault();
-            handleNextQuestion();
+          
+          // Navigation Shortcuts
+          if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+            if (answered) { e.preventDefault(); handleNextQuestion(); }
           }
-          if (e.key === 'ArrowLeft') {
-            e.preventDefault();
-            if (currentQuestion > 0) {
-              setCurrentQuestion(prev => prev - 1);
-              setSelectedOption(null);
-              setAnswered(false);
-              setCrossedOut(new Set());
+          if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+            if (currentQuestion > 0) { e.preventDefault(); handlePreviousQuestion(); }
+          }
+
+          // Option Selection (A, B, C, D, E)
+          if (!answered) {
+            const key = e.key.toUpperCase();
+            if (['A', 'B', 'C', 'D', 'E'].includes(key)) {
+              const idx = key.charCodeAt(0) - 65;
+              const activeCards = getActiveCards();
+              if (activeCards[currentQuestion]?.opcoes && idx < activeCards[currentQuestion].opcoes.length) {
+                if (!crossedOut.has(idx)) setSelectedOption(idx);
+              }
             }
           }
 
           if (!answered) {
-            // 1-5 select option
-            const num = parseInt(e.key);
-            if (num >= 1 && num <= card.opcoes.length && !crossedOut.has(num - 1)) {
-              setSelectedOption(num - 1);
-            }
-            // Enter = confirm
-            if (e.key === 'Enter' && selectedOption !== null) {
-              e.preventDefault();
-              handleAnswer();
-            }
+            if (e.key === 'Enter' && selectedOption !== null) { e.preventDefault(); handleAnswer(); }
           } else {
-            // Enter or Space = next question
-            if (e.key === 'Enter' || e.code === 'Space') {
-              e.preventDefault();
-              handleNextQuestion();
-            }
+            if (e.key === 'Enter') { e.preventDefault(); handleNextQuestion(); }
           }
         };
         window.addEventListener('keydown', handleKey);
@@ -7844,30 +8076,22 @@
         setActiveQuiz(materiaId);
         setActiveTemas(temasArray || []);
         setReviewQuestionIds([]);
-        setPendingTemaSearch('');
         setCurrentQuestion(0);
         setSelectedOption(null);
+        setUserAnswers({}); // Reset persistence
         setCrossedOut(new Set());
         setAnswered(false);
         setQuizStats({ correct: 0, total: 0 });
         setAnswerResults({});
         setStartTime(Date.now());
         setShowTemaSelector(false);
-        setPendingQuiz(null);
-        setPendingTemas([]);
         setQuizComplete(false);
       };
 
       const handleMateriaClick = (materiaId) => {
         onSelectMateria(materiaId);
         const cards = quizzes[materiaId]?.cards || [];
-        if (cards.length === 0) {
-          handleQuizStart(materiaId, []);
-          return;
-        }
-        // Usa as aulas definidas no materias.json como fonte primária.
-        // Evita pular o seletor quando só 1 aula tem questões essenciais
-        // mas a matéria tem muitas aulas definidas.
+        if (cards.length === 0) { handleQuizStart(materiaId, []); return; }
         const materiaObj = materias.find(m => m.id === materiaId);
         const aulasCount = (materiaObj?.aulas || []).length;
         const temas = [...new Set(cards.map(c => c.tema).filter(Boolean))];
@@ -7881,34 +8105,13 @@
         }
       };
 
-      useEffect(() => {
-        quizRouteAulaAppliedRef.current = false;
-      }, [initialAulaId, selectedMateria]);
-
-      useEffect(() => {
-        if (!selectedMateria || activeQuiz || showTemaSelector || showCadernoErros || quizComplete) return;
-        if (!quizzes[selectedMateria]) return;
-        if (initialAulaId && !quizRouteAulaAppliedRef.current) {
-          const cards = quizzes[selectedMateria]?.cards || [];
-          if (cards.some(c => c.tema === initialAulaId)) {
-            quizRouteAulaAppliedRef.current = true;
-            handleQuizStart(selectedMateria, [initialAulaId]);
-            return;
-          }
-        }
-        handleMateriaClick(selectedMateria);
-      }, [selectedMateria, quizzes, activeQuiz, showTemaSelector, showCadernoErros, quizComplete, initialAulaId]);
-
       const togglePendingTema = (temaId) => {
-        setPendingTemas(prev =>
-          prev.includes(temaId) ? prev.filter(t => t !== temaId) : [...prev, temaId]
-        );
+        setPendingTemas(prev => prev.includes(temaId) ? prev.filter(t => t !== temaId) : [...prev, temaId]);
       };
 
       const toggleCross = (idx) => {
         const next = new Set(crossedOut);
-        if (next.has(idx)) next.delete(idx);
-        else next.add(idx);
+        if (next.has(idx)) next.delete(idx); else next.add(idx);
         if (selectedOption === idx) setSelectedOption(null);
         setCrossedOut(next);
       };
@@ -7925,15 +8128,12 @@
         if (!activeQuiz) return [];
         const quiz = quizzes[activeQuiz];
         if (!quiz) return [];
-        return activeTemas.length > 0
-          ? quiz.cards.filter(c => activeTemas.includes(c.tema))
-          : quiz.cards;
+        return activeTemas.length > 0 ? quiz.cards.filter(c => activeTemas.includes(c.tema)) : quiz.cards;
       };
 
       const parseQuizExplanation = (card) => {
         const options = card?.opcoes || [];
         const letters = options.map((_, idx) => String.fromCharCode(65 + idx));
-
         const parseOptionMapFromText = (text) => {
           if (!text || typeof text !== 'string') return {};
           const map = {};
@@ -7944,7 +8144,6 @@
           }
           return map;
         };
-
         const explicacoesOpcoes = Array.isArray(card?.explicacoes_opcoes)
           ? card.explicacoes_opcoes.reduce((acc, txt, idx) => {
               const letter = String.fromCharCode(65 + idx);
@@ -7952,23 +8151,17 @@
               return acc;
             }, {})
           : (card?.explicacoes_opcoes || {});
-
         const parsedFromText = parseOptionMapFromText(card?.explicacao || '');
         const optionMap = { ...parsedFromText, ...explicacoesOpcoes };
-
-        const resumoMatch = typeof card?.explicacao === 'string'
-          ? card.explicacao.match(/Resumo:\s*([\s\S]*?)(?=\n[A-D]\)|$)/i)
-          : null;
+        const resumoMatch = typeof card?.explicacao === 'string' ? card.explicacao.match(/Resumo:\s*([\s\S]*?)(?=\n[A-D]\)|$)/i) : null;
         const generalRaw = card?.explicacao_geral || (resumoMatch ? resumoMatch[1].trim() : (card?.explicacao || ''));
         const general = String(generalRaw || '').trim();
-
         const optionExplanations = letters.map((letter, idx) => {
           const explanation = optionMap[letter];
           if (explanation) return explanation;
           if (idx === card?.correta) return 'Alternativa correta para este enunciado.';
           return 'Alternativa incorreta neste contexto.';
         });
-
         return { general, optionExplanations };
       };
 
@@ -7977,39 +8170,62 @@
         const card = activeCards[currentQuestion];
         const correct = selectedOption === card.correta;
         markQuizAsDone(card?.id, correct);
-        if (card?.id != null) {
-          setAnswerResults(prev => ({ ...prev, [card.id]: correct }));
-        }
-
-        if (correct) {
-          setQuizStats(prev => ({ ...prev, correct: prev.correct + 1 }));
-          // Remove from caderno de erros if answered correctly
-          removeErro(card.id);
-        } else {
-          // Add to caderno de erros on wrong answer
-          addErro(card.id);
-        }
+        
+        setUserAnswers(prev => ({ ...prev, [currentQuestion]: selectedOption }));
+        
+        if (card?.id != null) setAnswerResults(prev => ({ ...prev, [card.id]: correct }));
+        if (correct) { setQuizStats(prev => ({ ...prev, correct: prev.correct + 1 })); removeErro(card.id); }
+        else { addErro(card.id); }
         setAnswered(true);
       };
 
       const handleNextQuestion = () => {
         const activeCards = getActiveCards();
         if (currentQuestion < activeCards.length - 1) {
-          setCurrentQuestion(currentQuestion + 1);
-          setSelectedOption(null);
+          const nextIdx = currentQuestion + 1;
+          const prevAnswer = userAnswers[nextIdx];
+          
+          setCurrentQuestion(nextIdx);
           setCrossedOut(new Set());
-          setAnswered(false);
+          
+          if (prevAnswer !== undefined) {
+            setSelectedOption(prevAnswer);
+            setAnswered(true);
+          } else {
+            setSelectedOption(null);
+            setAnswered(false);
+          }
         } else {
           setQuizComplete(true);
           const quizHistory = JSON.parse(localStorage.getItem('meduni9_quiz_history') || '[]');
-          quizHistory.push({
-            date: new Date().toISOString(),
-            materia: showCadernoErros ? 'caderno_erros' : activeQuiz,
-            score: quizStats.correct,
-            total: activeCards.length,
-            time: formatTime(Date.now() - startTime)
-          });
+          quizHistory.push({ date: new Date().toISOString(), materia: showCadernoErros ? 'caderno_erros' : activeQuiz, score: quizStats.correct, total: activeCards.length, time: formatTime(Date.now() - startTime) });
           localStorage.setItem('meduni9_quiz_history', JSON.stringify(quizHistory));
+        }
+      };
+
+      const handlePreviousQuestion = () => {
+        if (currentQuestion > 0) {
+          const prevIdx = currentQuestion - 1;
+          const prevAnswer = userAnswers[prevIdx];
+          
+          setCurrentQuestion(prevIdx);
+          setCrossedOut(new Set());
+          
+          if (prevAnswer !== undefined) {
+            setSelectedOption(prevAnswer);
+            setAnswered(true);
+          } else {
+            setSelectedOption(null);
+            setAnswered(false);
+          }
+        }
+      };
+
+      const handleRestartQuiz = () => {
+        if (showCadernoErros) {
+          setCurrentQuestion(0); setSelectedOption(null); setUserAnswers({}); setCrossedOut(new Set()); setAnswered(false); setQuizStats({ correct: 0, total: 0 }); setAnswerResults({}); setReviewQuestionIds([]); setStartTime(Date.now()); setQuizComplete(false);
+        } else {
+          handleQuizStart(activeQuiz, activeTemas);
         }
       };
 
@@ -8017,113 +8233,36 @@
         const activeCards = getActiveCards();
         const card = activeCards[currentQuestion];
         if (!card) return;
-        setReportQuizTarget(card);
-        setReportQuizReason('');
-        setReportQuizError('');
-        setReportQuizOpen(true);
+        setReportQuizTarget(card); setReportQuizReason(''); setReportQuizError(''); setReportQuizOpen(true);
       };
 
       const submitQuizReport = async () => {
         if (!reportQuizTarget) return;
-        setReportQuizSending(true);
-        setReportQuizError('');
+        setReportQuizSending(true); setReportQuizError('');
         try {
-          await submitContentFeedback({
-            origem: 'questoes',
-            mensagem: reportQuizReason?.trim() || 'Erro reportado em questão',
-            itemId: reportQuizTarget.id,
-            materia: reportQuizTarget.materia || activeQuiz,
-            tema: reportQuizTarget.tema,
-            contexto: {
-              pergunta: reportQuizTarget.pergunta,
-              opcoes: reportQuizTarget.opcoes || [],
-              correta: reportQuizTarget.correta,
-              explicacao: reportQuizTarget.explicacao || ''
-            }
-          });
-          setReportQuizOpen(false);
-          setReportQuizTarget(null);
-        } catch (e) {
-          setReportQuizError('Nao foi possivel enviar agora. Tente novamente em instantes.');
-        } finally {
-          setReportQuizSending(false);
-        }
+          await submitContentFeedback({ origem: 'questoes', mensagem: reportQuizReason?.trim() || 'Erro reportado em questão', itemId: reportQuizTarget.id, materia: reportQuizTarget.materia || activeQuiz, tema: reportQuizTarget.tema, contexto: { pergunta: reportQuizTarget.pergunta, opcoes: reportQuizTarget.opcoes || [], correta: reportQuizTarget.correta, explicacao: reportQuizTarget.explicacao || '' } });
+          setReportQuizOpen(false); setReportQuizTarget(null);
+        } catch (e) { setReportQuizError('Erro ao enviar report.'); } finally { setReportQuizSending(false); }
       };
 
-      const handleRestartQuiz = () => {
-        if (showCadernoErros) {
-          setCurrentQuestion(0);
-          setSelectedOption(null);
-          setCrossedOut(new Set());
-          setAnswered(false);
-          setQuizStats({ correct: 0, total: 0 });
-          setAnswerResults({});
-          setReviewQuestionIds([]);
-          setStartTime(Date.now());
-          setQuizComplete(false);
-        } else {
-          handleQuizStart(activeQuiz, activeTemas);
-        }
-      };
-
-      // Start caderno de erros quiz
       const startCadernoErros = () => {
-        onSelectMateria(null);
-        setShowCadernoErros(true);
-        setActiveQuiz('__erros__');
-        setReviewQuestionIds([]);
-        setCurrentQuestion(0);
-        setSelectedOption(null);
-        setCrossedOut(new Set());
-        setAnswered(false);
-        setQuizStats({ correct: 0, total: 0 });
-        setAnswerResults({});
-        setStartTime(Date.now());
-        setQuizComplete(false);
-      };
-
-      const openTemaSelectorFromResult = () => {
-        if (showCadernoErros || !activeQuiz) return;
-        setQuizComplete(false);
-        setActiveQuiz(null);
-        setActiveTemas([]);
-        setShowCadernoErros(false);
-        setReviewQuestionIds([]);
-        setPendingQuiz(activeQuiz);
-        setPendingTemas([]);
-        setShowTemaSelector(true);
+        onSelectMateria(null); setShowCadernoErros(true); setActiveQuiz('__erros__'); setReviewQuestionIds([]);
+        setCurrentQuestion(0); setSelectedOption(null); setCrossedOut(new Set()); setAnswered(false); setQuizStats({ correct: 0, total: 0 }); setAnswerResults({}); setStartTime(Date.now()); setQuizComplete(false);
       };
 
       const startWrongOnlyReview = () => {
         const activeCards = getActiveCards();
-        const wrongIds = activeCards
-          .filter(card => card?.id != null && answerResults[card.id] === false)
-          .map(card => card.id);
+        const wrongIds = activeCards.filter(card => card?.id != null && answerResults[card.id] === false).map(card => card.id);
         if (!wrongIds.length) return;
-        setQuizComplete(false);
-        setShowCadernoErros(false);
-        setReviewQuestionIds(wrongIds);
-        setCurrentQuestion(0);
-        setSelectedOption(null);
-        setCrossedOut(new Set());
-        setAnswered(false);
-        setQuizStats({ correct: 0, total: 0 });
-        setAnswerResults({});
-        setStartTime(Date.now());
+        setQuizComplete(false); setShowCadernoErros(false); setReviewQuestionIds(wrongIds); setCurrentQuestion(0); setSelectedOption(null); setUserAnswers({}); setCrossedOut(new Set()); setAnswered(false); setQuizStats({ correct: 0, total: 0 }); setAnswerResults({}); setStartTime(Date.now());
       };
 
       const getNextRecommendedTemaId = () => {
         if (!activeQuiz || showCadernoErros) return null;
-        const quiz = quizzes[activeQuiz];
-        const materia = materiasById[activeQuiz];
-        if (!quiz) return null;
+        const quiz = quizzes[activeQuiz]; const materia = materiasById[activeQuiz]; if (!quiz) return null;
         const temasComQuestoes = [...new Set((quiz.cards || []).map(c => c.tema).filter(Boolean))];
-        if (!temasComQuestoes.length) return null;
         const aulas = Array.isArray(materia?.aulas) ? materia.aulas : [];
-        const ordenadas = aulas.length
-          ? aulas.map(a => a.id).filter(id => temasComQuestoes.includes(id))
-          : temasComQuestoes;
-        if (!ordenadas.length) return null;
+        const ordenadas = aulas.length ? aulas.map(a => a.id).filter(id => temasComQuestoes.includes(id)) : temasComQuestoes;
         const temaAtual = activeTemas.length === 1 ? activeTemas[0] : (getActiveCards()[0]?.tema || null);
         if (!temaAtual) return ordenadas[0];
         const idx = ordenadas.indexOf(temaAtual);
@@ -8131,518 +8270,238 @@
         return ordenadas.find(id => id !== temaAtual) || null;
       };
 
-      const startNextRecommendedTema = () => {
-        const nextTema = getNextRecommendedTemaId();
-        if (!nextTema) return;
-        handleQuizStart(activeQuiz, [nextTema]);
-      };
+      const startNextRecommendedTema = () => { const nextTema = getNextRecommendedTemaId(); if (nextTema) handleQuizStart(activeQuiz, [nextTema]); };
 
       if (quizComplete) {
         const activeCards = getActiveCards();
         const percentage = Math.round((quizStats.correct / Math.max(activeCards.length, 1)) * 100);
-        const wrongIds = activeCards
-          .filter(card => card?.id != null && answerResults[card.id] === false)
-          .map(card => card.id);
+        const wrongIds = activeCards.filter(card => card?.id != null && answerResults[card.id] === false).map(card => card.id);
         const nextTemaId = getNextRecommendedTemaId();
-
         return (
-          <>
-            <div className="screen-content">
-              <div className="quiz-result-screen">
-                <div style={{
-                  width: '64px', height: '64px', margin: '0 auto 18px',
-                  borderRadius: '999px', border: '1px solid rgba(255,255,255,0.16)',
-                  background: percentage >= 70 ? 'rgba(16,185,129,0.12)' : 'rgba(255,255,255,0.06)',
-                  color: percentage >= 70 ? '#34D399' : 'var(--text-primary)',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                }}>
-                  {percentage >= 70 ? <IconTrophy /> : <IconTarget />}
-                </div>
-                <div className="quiz-score">{percentage}%</div>
-                <p style={{ color: 'var(--text-secondary)', marginBottom: '8px' }}>
-                  {quizStats.correct} de {activeCards.length} questões
-                  {activeTemas.length === 1 && <span> — {getTemaDisplayName(activeQuiz, activeTemas[0])}</span>}
-                  {activeTemas.length > 1 && <span> — {activeTemas.length} assuntos</span>}
-                </p>
-                <div className="quiz-time">{formatTime(Date.now() - startTime)}</div>
-                <div className="quiz-result-actions">
-                  {wrongIds.length > 0 && (
-                    <button className="btn quiz-result-secondary" onClick={startWrongOnlyReview}>
-                      <IconFileText /> Revisar apenas erradas
-                    </button>
-                  )}
-                  {!showCadernoErros && (
-                    <button className="btn quiz-result-secondary" onClick={openTemaSelectorFromResult}>
-                      <IconLayers /> Trocar aula ou assuntos
-                    </button>
-                  )}
-                  {!showCadernoErros && nextTemaId && (
-                    <button className="btn quiz-result-secondary" onClick={startNextRecommendedTema}>
-                      <IconChevronRight /> Próxima aula sugerida
-                    </button>
-                  )}
-                  <button className="btn btn-primary" onClick={handleRestartQuiz}>Tentar Novamente</button>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>Voltar</button>
-                </div>
+          <div className="screen-content">
+            <div className="quiz-result-screen">
+              <div style={{ width: '64px', height: '64px', margin: '0 auto 18px', borderRadius: '50%', border: '1px solid rgba(255,255,255,0.16)', background: percentage >= 70 ? 'rgba(16,185,129,0.12)' : 'rgba(255,255,255,0.06)', color: percentage >= 70 ? '#34D399' : 'var(--text-primary)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                {percentage >= 70 ? <IconTrophy /> : <IconTarget />}
+              </div>
+              <div className="quiz-score">{percentage}%</div>
+              <p style={{ color: 'var(--text-secondary)' }}>{quizStats.correct} de {activeCards.length} questões</p>
+              <div className="quiz-time">{formatTime(Date.now() - startTime)}</div>
+              <div className="quiz-result-actions" style={{ display: 'grid', gap: '10px', marginTop: '20px' }}>
+                {wrongIds.length > 0 && <button className="btn btn-secondary" onClick={startWrongOnlyReview}>Revisar Erradas</button>}
+                {nextTemaId && <button className="btn btn-secondary" onClick={startNextRecommendedTema}>Próxima Aula</button>}
+                <button className="btn btn-primary" onClick={handleRestartQuiz}>Tentar Novamente</button>
+                <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); setReviewQuestionIds([]); onSelectMateria(null); }}>Voltar ao Início</button>
               </div>
             </div>
-          </>
+          </div>
         );
       }
 
-      // Tema selector screen for quiz (multi-select) — uses aulas from materias.json
       if (showTemaSelector && pendingQuiz) {
         const quiz = quizzes[pendingQuiz];
         const materiaObj = materias.find(m => m.id === pendingQuiz);
         const aulas = materiaObj?.aulas || [];
-        const hasAulas = aulas.length > 0;
-        const temasFromCardsQ = [...new Set(quiz.cards.map(c => c.tema).filter(Boolean))];
-        const temaSearch = normalizeText(pendingTemaSearch || '');
-        const aulasFiltradas = hasAulas
-          ? aulas.filter((aula) => {
-              if (!temaSearch) return true;
-              return (
-                normalizeText(aula.tema || '').includes(temaSearch) ||
-                normalizeText(aula.descricao || '').includes(temaSearch) ||
-                normalizeText(aula.id || '').includes(temaSearch)
-              );
-            })
-          : [];
-        const temasFallbackFiltrados = hasAulas
-          ? []
-          : temasFromCardsQ.sort().filter((tema) => {
-              if (!temaSearch) return true;
-              const label = getTemaDisplayName(pendingQuiz, tema);
-              return normalizeText(label).includes(temaSearch) || normalizeText(tema).includes(temaSearch);
-            });
-        const hasTemaFilterResult = hasAulas ? aulasFiltradas.length > 0 : temasFallbackFiltrados.length > 0;
-
+        const filteredAulas = aulas.filter(a => !pendingTemaSearch || normalizeText(a.tema).includes(normalizeText(pendingTemaSearch)));
         return (
-          <>
-            <div className="screen-content">
-              <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); setPendingTemas([]); onSelectMateria(null); }}>← Questões</button>
-              <h2 className="section-title">{quiz.sigla || quiz.name}</h2>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
-                Selecione um ou mais assuntos:
-              </p>
-              <div className="subject-search-wrap" style={{ marginBottom: '10px' }}>
-                <span className="subject-search-icon"><IconSearch /></span>
-                <input
-                  type="search"
-                  className="subject-search"
-                  placeholder="Buscar aula por nome..."
-                  value={pendingTemaSearch}
-                  onChange={(e) => setPendingTemaSearch(e.target.value)}
-                />
+          <div className="screen-content">
+            <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); onSelectMateria(null); }}>← Voltar</button>
+            <h2 className="section-title">{quiz.sigla || quiz.name}</h2>
+            <div className="subject-search-wrap" style={{ marginBottom: '16px' }}><span className="subject-search-icon"><IconSearch /></span><input type="search" className="subject-search" placeholder="Buscar aula..." value={pendingTemaSearch} onChange={e => setPendingTemaSearch(e.target.value)} /></div>
+            <div className="subject-select-list">
+              <div className="subject-select-card" onClick={() => handleQuizStart(pendingQuiz, [])} style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '12px' }}>
+                <div className="subject-select-icon" style={{ background: 'rgba(0,200,150,0.15)', color: 'var(--primary)' }}><IconClipboardList /></div>
+                <div className="subject-select-info"><div className="subject-select-name">Tudo desta matéria</div><div className="subject-select-meta">{quiz.cards.length} questões</div></div>
               </div>
-              <div className="subject-select-list" style={{ paddingBottom: pendingTemas.length > 0 ? '72px' : '0' }}>
-                <div className="subject-select-card" onClick={() => handleQuizStart(pendingQuiz, [])}
-                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '8px' }}>
-                  <div className="subject-select-icon" style={{ background: 'rgba(0,200,150,0.15)', color: 'var(--primary)' }}><IconClipboardList /></div>
-                  <div className="subject-select-info">
-                    <div className="subject-select-name">Todas as questões</div>
-                    <div className="subject-select-meta">{quiz.cards.length} questões</div>
+              {filteredAulas.map(aula => {
+                const count = quiz.cards.filter(c => c.tema === aula.id).length;
+                if (count === 0) return null;
+                const isSelected = pendingTemas.includes(aula.id);
+                return (
+                  <div key={aula.id} className={`subject-select-card ${isSelected ? 'tema-selected' : ''}`} onClick={() => togglePendingTema(aula.id)}>
+                    <div className={`tema-checkbox ${isSelected ? 'tema-checkbox-checked' : ''}`}>{isSelected ? '✓' : ''}</div>
+                    <div className="subject-select-info"><div className="subject-select-name">{aula.tema}</div><div className="subject-select-meta">{count} questões</div></div>
                   </div>
-                  <div style={{ color: 'var(--primary)' }}><IconChevronRight /></div>
-                </div>
-                {hasAulas ? (
-                  aulasFiltradas.map(aula => {
-                    const count = quiz.cards.filter(c => c.tema === aula.id).length;
-                    const isChecked = pendingTemas.includes(aula.id);
-                    const hasQs = count > 0;
-                    return (
-                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}${!hasQs ? ' subject-card-empty' : ''}`} onClick={() => hasQs && togglePendingTema(aula.id)}>
-                        <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
-                        <div className="subject-select-info">
-                          <div className="subject-select-name">{aula.tema}</div>
-                          <div className="subject-select-meta">{hasQs ? `${count} questões` : 'Em breve'}</div>
-                        </div>
-                      </div>
-                    );
-                  })
-                ) : (
-                  temasFallbackFiltrados.map(tema => {
-                    const count = quiz.cards.filter(c => c.tema === tema).length;
-                    const isChecked = pendingTemas.includes(tema);
-                    return (
-                      <div key={tema} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(tema)}>
-                        <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
-                        <div className="subject-select-info">
-                          <div className="subject-select-name">{getTemaDisplayName(pendingQuiz, tema)}</div>
-                          <div className="subject-select-meta">{count} questões</div>
-                        </div>
-                      </div>
-                    );
-                  })
-                )}
-                {!hasTemaFilterResult && (
-                  <div style={{ textAlign: 'center', padding: '22px 0', color: 'var(--text-secondary)', fontSize: '13px' }}>
-                    Nenhuma aula encontrada para a busca.
-                  </div>
-                )}
-              </div>
-
-              {pendingTemas.length > 0 && (
-                <div className="tema-start-bar">
-                  <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
-                    {pendingTemas.length} assunto{pendingTemas.length > 1 ? 's' : ''} selecionado{pendingTemas.length > 1 ? 's' : ''}
-                  </span>
-                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => handleQuizStart(pendingQuiz, pendingTemas)}>
-                    Iniciar questões →
-                  </button>
-                </div>
-              )}
+                );
+              })}
             </div>
-          </>
+            {pendingTemas.length > 0 && (
+              <div className="tema-start-bar"><button className="btn btn-primary" onClick={() => handleQuizStart(pendingQuiz, pendingTemas)}>Iniciar {pendingTemas.length} assunto(s)</button></div>
+            )}
+          </div>
         );
       }
 
       if (activeQuiz) {
         const activeCards = getActiveCards();
-
-        if (activeCards.length === 0) {
-          const emptyMsg = showCadernoErros
-            ? 'Nenhuma questão no caderno de erros!'
-            : 'Questões em breve para esta matéria.';
-          return (
-            <>
-              <div className="screen-content">
-                <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>← Questões</button>
-                <div style={{ textAlign: 'center', marginTop: '60px' }}>
-                  <div style={{
-                    width: '64px', height: '64px', margin: '0 auto 20px',
-                    borderRadius: '999px', border: '1px solid rgba(255,255,255,0.14)',
-                    background: showCadernoErros ? 'rgba(239,68,68,0.12)' : 'rgba(255,255,255,0.06)',
-                    color: showCadernoErros ? 'var(--error)' : 'var(--text-primary)',
-                    display: 'flex', alignItems: 'center', justifyContent: 'center'
-                  }}>
-                    {showCadernoErros ? <IconFileText /> : <IconClipboardList />}
-                  </div>
-                  <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>{emptyMsg}</p>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>Voltar</button>
-                </div>
-              </div>
-            </>
-          );
-        }
-
         const card = activeCards[currentQuestion];
-        const explanationBundle = parseQuizExplanation(card);
+        if (!card) return null;
         const progress = ((currentQuestion + 1) / activeCards.length) * 100;
-        const quizLabel = showCadernoErros ? 'Caderno de Erros' : (quizzes[activeQuiz]?.sigla || quizzes[activeQuiz]?.name || 'Questões');
-
+        const explanationBundle = parseQuizExplanation(card);
         return (
-          <>
-            <div className="screen-content">
-              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>
-                ← {activeTemas.length === 1 ? getTemaDisplayName(activeQuiz, activeTemas[0]) : quizLabel}
-              </button>
-              <div className="quiz-screen">
-                <div className="quiz-progress-section">
-                  <div className="quiz-progress-bar">
-                    <div className="quiz-progress-fill" style={{ width: `${progress}%` }}></div>
+          <div className="screen-content">
+            <button className="back-btn" onClick={() => { setActiveQuiz(null); onSelectMateria(null); }}>← Sair</button>
+            <div className="quiz-screen">
+              <div className="quiz-progress-section">
+                <div className="quiz-progress-bar"><div className="quiz-progress-fill" style={{ width: `${progress}%` }}></div></div>
+                <div className="quiz-counter">{currentQuestion + 1} de {activeCards.length}</div>
+              </div>
+              <div className="quiz-question-card" ref={highlighterRef}><div className="quiz-question" dangerouslySetInnerHTML={{ __html: renderMarkdown(card.pergunta) }} /></div>
+              <div className="quiz-options">
+                {card.opcoes.map((option, idx) => (
+                  <div key={idx} className={`quiz-option ${selectedOption === idx && !answered ? 'selected' : ''} ${answered && idx === card.correta ? 'correct' : ''} ${answered && selectedOption === idx && idx !== card.correta ? 'incorrect-selected' : ''} ${crossedOut.has(idx) ? 'crossed-out' : ''}`} onClick={() => !answered && !crossedOut.has(idx) && setSelectedOption(idx)}>
+                    <span className="quiz-option-number">{String.fromCharCode(65 + idx)}</span>
+                    <span style={{ flex: 1 }} dangerouslySetInnerHTML={{ __html: renderMarkdown(option) }} />
+                    {!answered && !crossedOut.has(idx) && <button className="cross-btn" onClick={(e) => { e.stopPropagation(); toggleCross(idx); }}>✕</button>}
                   </div>
-                  <div className="quiz-counter">
-                    {currentQuestion + 1} de {activeCards.length}
-                    {card.tema && activeTemas.length !== 1 && <span style={{ marginLeft: '8px', color: 'var(--primary)', fontSize: '11px' }}>{getTemaDisplayName(card.materia || activeQuiz, card.tema)}</span>}
+                ))}
+              </div>
+              {answered && (
+                <div className="quiz-feedback" style={{ marginTop: '20px', borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '20px', animation: 'mgFadeSlide 0.3s ease-out' }}>
+                  <div style={{ display: 'flex', gap: '10px', alignItems: 'center', marginBottom: '16px', color: selectedOption === card.correta ? '#10B981' : '#EF4444', fontWeight: 800 }}>
+                    {selectedOption === card.correta ? <><IconCheck /> Correto!</> : <><IconX /> Incorreto</>}
                   </div>
-                </div>
-
-                <div className="quiz-question-card" ref={highlighterRef}>
-                  <div className="quiz-question" dangerouslySetInnerHTML={{ __html: renderMarkdown(card.pergunta) }} />
-                </div>
-
-                <div className="quiz-options">
-                  {card.opcoes.map((option, idx) => (
-                    <div
-                      key={idx}
-                      className={`quiz-option ${
-                        crossedOut.has(idx) ? 'crossed-out' : ''
-                      } ${
-                        selectedOption === idx && !answered ? 'selected' : ''
-                      } ${
-                        answered && idx === card.correta ? 'correct' : ''
-                      } ${
-                        answered && idx !== card.correta ? 'incorrect' : ''
-                      } ${
-                        answered && selectedOption === idx && idx !== card.correta ? 'incorrect-selected' : ''
-                      }`}
-                      onClick={() => {
-                        if (!answered && !crossedOut.has(idx)) setSelectedOption(idx);
-                      }}
-                    >
-                      <span className="quiz-option-number">{String.fromCharCode(65 + idx)}</span>
-                      <span dangerouslySetInnerHTML={{ __html: renderMarkdown(option) }} />
-                      {!answered && !crossedOut.has(idx) && (
-                        <button
-                          className="cross-btn"
-                          onClick={(e) => { e.stopPropagation(); toggleCross(idx); }}
-                          title="Riscar alternativa"
-                        >✕</button>
-                      )}
+                  
+                  {explanationBundle.general && (
+                    <div style={{ marginBottom: '20px' }}>
+                      <div style={{ fontSize: '12px', color: 'var(--primary)', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '8px' }}>Explicação Geral</div>
+                      <p style={{ fontSize: '14.5px', opacity: 0.95, lineHeight: 1.6 }} dangerouslySetInnerHTML={{ __html: renderMarkdown(explanationBundle.general) }} />
                     </div>
-                  ))}
-                </div>
+                  )}
 
-                {answered && (
-                  <div className="quiz-feedback">
-                    <div className="quiz-feedback-title" style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                      {selectedOption === card.correta ? <IconCheck /> : <IconX />}
-                      <span>{selectedOption === card.correta ? 'Correto!' : 'Incorreto'}</span>
-                    </div>
-                    {explanationBundle.general && (
-                      <p 
-                        style={{ color: 'rgba(255, 255, 255, 0.85)', lineHeight: '1.55', marginBottom: '12px', fontSize: '13px' }}
-                        dangerouslySetInnerHTML={{ __html: renderMarkdown(explanationBundle.general) }}
-                      />
-                    )}
-                    <div style={{ display: 'grid', gap: '8px' }}>
-                      {card.opcoes.map((option, idx) => {
-                        const letter = String.fromCharCode(65 + idx);
-                        const text = String(option || '').replace(/^[A-D]\)\s*/, '').trim();
-                        const isCorrect = idx === card.correta;
-                        const cleanExp = (explanationBundle.optionExplanations[idx] || '').replace(/^\[(?:IN)?CORRETA\]\s*/i, '');
-                        return (
-                          <div key={`exp-${idx}`} style={{
-                            border: `1px solid ${isCorrect ? 'rgba(34,197,94,0.3)' : 'rgba(255,255,255,0.08)'}`,
-                            borderRadius: '10px',
-                            padding: '8px 10px',
-                            background: isCorrect ? 'rgba(34,197,94,0.06)' : 'rgba(255,255,255,0.02)'
-                          }}>
-                            <div style={{ fontWeight: 700, fontSize: '12px', marginBottom: '4px', color: isCorrect ? '#22c55e' : '#ef4444' }}>
-                              {letter}) <span dangerouslySetInnerHTML={{ __html: renderMarkdown(text) }} />
-                            </div>
-                            <div 
-                              style={{ color: 'rgba(255, 255, 255, 0.85)', fontSize: '13px', lineHeight: '1.5' }}
-                              dangerouslySetInnerHTML={{ __html: renderMarkdown(cleanExp) }}
-                            />
-                          </div>
-                        );
+                  {explanationBundle.optionExplanations && explanationBundle.optionExplanations.some(txt => txt && !txt.includes('Alternativa ')) && (
+                    <div style={{ display: 'grid', gap: '12px' }}>
+                      <div style={{ fontSize: '12px', color: 'var(--text-secondary)', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>Análise das Alternativas</div>
+                      {explanationBundle.optionExplanations.map((txt, i) => {
+                         if (!txt || txt.includes('Alternativa ')) return null;
+                         const letter = String.fromCharCode(65 + i);
+                         const isCorreta = i === card.correta;
+                         return (
+                           <div key={i} style={{ padding: '12px', borderRadius: '10px', background: isCorreta ? 'rgba(16,185,129,0.06)' : 'rgba(255,255,255,0.02)', borderLeft: `3px solid ${isCorreta ? '#10B981' : 'rgba(255,255,255,0.1)'}` }}>
+                             <div style={{ fontSize: '12px', fontWeight: 800, color: isCorreta ? '#10B981' : 'var(--text-secondary)', marginBottom: '4px' }}>{letter}) {isCorreta ? 'CORRETA' : 'INCORRETA'}</div>
+                             <div style={{ fontSize: '13.5px', opacity: 0.9, lineHeight: 1.5 }} dangerouslySetInnerHTML={{ __html: renderMarkdown(txt) }} />
+                           </div>
+                         );
                       })}
                     </div>
+                  )}
+                </div>
+              )}
+              <div className="quiz-action-bar" style={{ display: 'flex', gap: '12px', marginTop: '30px', alignItems: 'center' }}>
+                {/* 1. Report (Fixed size) */}
+                <button className="btn quiz-report-btn" onClick={handleReportQuestion} style={{ width: '48px', height: '48px', minWidth: '48px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center' }} title="Reportar Questão">
+                  <IconMessageSquare />
+                </button>
+                
+                {/* 2. Navigation: Previous (Always visible if not first) */}
+                <button 
+                  className="btn btn-secondary" 
+                  style={{ width: '48px', height: '48px', minWidth: '48px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center' }} 
+                  onClick={handlePreviousQuestion}
+                  disabled={currentQuestion === 0}
+                  title="Anterior [Seta Esquerda]"
+                >
+                  <IconChevronLeft />
+                </button>
+
+                {/* 3. Central Action: Confirmar or Status */}
+                {!answered ? (
+                  <button 
+                    className="btn btn-primary" 
+                    style={{ flex: 1, height: '48px', borderRadius: '12px', fontWeight: 700, letterSpacing: '0.02em' }} 
+                    onClick={handleAnswer} 
+                    disabled={selectedOption === null}
+                  >
+                    Confirmar
+                  </button>
+                ) : (
+                  <div style={{ flex: 1, textAlign: 'center', fontSize: '12px', color: 'var(--text-secondary)', fontWeight: 600, textTransform: 'uppercase' }}>
+                    Questão Respondida
                   </div>
                 )}
 
-                <div className="quiz-action-bar" style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                  <button
-                    className="btn quiz-report-btn"
-                    onClick={handleReportQuestion}
-                    style={{ flex: 'none' }}
-                  >
-                    <IconMessageSquare />
-                  </button>
-
-                  <div style={{ flex: 1, display: 'flex', gap: '8px' }}>
-                    {currentQuestion > 0 && (
-                      <button
-                        className="btn btn-secondary"
-                        style={{ flex: 1, padding: '10px' }}
-                        onClick={() => {
-                          setCurrentQuestion(prev => prev - 1);
-                          setSelectedOption(null);
-                          setAnswered(false);
-                          setCrossedOut(new Set());
-                        }}
-                      >
-                         <IconChevronLeft /> Anterior
-                      </button>
-                    )}
-
-                    {!answered ? (
-                      <>
-                        <button
-                          className="btn btn-secondary"
-                          style={{ flex: 1, padding: '10px' }}
-                          onClick={handleNextQuestion}
-                        >
-                          Pular <IconChevronRight />
-                        </button>
-                        <button
-                          className="btn btn-primary"
-                          style={{ flex: 2, padding: '10px' }}
-                          onClick={handleAnswer}
-                          disabled={selectedOption === null}
-                        >
-                          Confirmar <span className="kbd-hint">Enter</span>
-                        </button>
-                      </>
-                    ) : (
-                      <button className="btn btn-primary" style={{ flex: 1 }} onClick={handleNextQuestion}>
-                        {currentQuestion === activeCards.length - 1 ? 'Finalizar' : 'Próxima Questão'} <span className="kbd-hint">Enter</span>
-                      </button>
-                    )}
-                  </div>
-                </div>
+                {/* 4. Navigation: Next (Always visible to allow skip or finish) */}
+                <button 
+                  className={`btn ${answered ? 'btn-primary' : 'btn-secondary'}`}
+                  style={{ width: '48px', height: '48px', minWidth: '48px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center' }} 
+                  onClick={handleNextQuestion}
+                  title={currentQuestion === activeCards.length - 1 ? "Finalizar [Seta Direita]" : "Próxima [Seta Direita]"}
+                >
+                  {currentQuestion === activeCards.length - 1 ? <IconCheck /> : <IconChevronRight />}
+                </button>
               </div>
             </div>
-            <ContentReportModal
-              open={reportQuizOpen}
-              title="Reportar questão"
-              subtitle="Descreva o problema encontrado nesta questão."
-              reason={reportQuizReason}
-              setReason={setReportQuizReason}
-              sending={reportQuizSending}
-              errorMsg={reportQuizError}
-              onClose={() => { if (!reportQuizSending) { setReportQuizOpen(false); setReportQuizTarget(null); } }}
-              onSubmit={submitQuizReport}
-            />
-          </>
+            <ContentReportModal open={reportQuizOpen} title="Reportar questão" reason={reportQuizReason} setReason={setReportQuizReason} sending={reportQuizSending} errorMsg={reportQuizError} onClose={() => setReportQuizOpen(false)} onSubmit={submitQuizReport} />
+          </div>
         );
       }
 
-      // Quiz list with caderno de erros, semester filter, search
-      const quizProgressMap = getQuizProgress();
       const semesters = [...new Set(Object.values(quizzes).filter(q => q.ativo !== false).map(q => q.semestre))].sort((a,b) => a-b);
+      const quizProgressMap = getQuizProgress();
       const errosCount = getErros().length;
-
       return (
-        <>
-          <div className="screen-content">
-            <h2 className="section-title">{title}</h2>
-
-            {semesters.length > 1 && (
-              <div className="semester-tabs">
-                <button
-                  className={`semester-tab ${!semesterFilter ? 'active' : ''}`}
-                  onClick={() => setSemesterFilter(null)}
-                >Todos</button>
-                {semesters.map(s => (
-                  <button
-                    key={s}
-                    className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
-                    onClick={() => setSemesterFilter(s)}
-                  >Módulo {s}</button>
-                ))}
-              </div>
-            )}
-
-            <div className="subject-search-wrap">
-              <span className="subject-search-icon"><IconSearch /></span>
-              <input
-                type="search"
-                className="subject-search"
-                placeholder="Buscar matéria..."
-                value={searchQuery}
-                onChange={e => setSearchQuery(e.target.value)}
-              />
-            </div>
-
-            {/* Caderno de Erros */}
-            {errosCount > 0 && (
-              <div className="subject-select-card caderno-erros-card" onClick={startCadernoErros}
-                style={{ borderColor: 'var(--error)', background: 'rgba(239,68,68,0.06)', marginBottom: '12px' }}>
-                <div className="subject-select-icon" style={{ background: 'rgba(239,68,68,0.15)', color: 'var(--error)', width: '40px', height: '40px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}><IconFileText /></div>
-                <div className="subject-select-info">
-                  <div className="subject-select-name" style={{ color: 'var(--error)' }}>Caderno de Erros</div>
-                  <div className="subject-select-meta">{errosCount} questões para revisar</div>
-                </div>
-                <div style={{ color: 'var(--error)' }}><IconChevronRight /></div>
-              </div>
-            )}
-
-            <div className="subject-select-list">
-              {Object.entries(filteredQuizzes).length === 0 && (
-                <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
-                  <p>Nenhuma questão encontrada.</p>
-                </div>
-              )}
-              {Object.entries(filteredQuizzes).map(([id, quiz]) => {
-                const doneCount = quiz.cards.filter((q) => quizProgressMap[String(q.id)]?.done).length;
-                return (
-                <div key={id} className={`subject-select-card${quiz.cards.length === 0 ? ' subject-card-empty' : ''}`} onClick={() => handleMateriaClick(id)}>
+        <div className="screen-content">
+          <h2 className="section-title">{title}</h2>
+          <div className="semester-tabs">{semesters.map(s => <button key={s} className={`semester-tab ${semesterFilter === s ? 'active' : ''}`} onClick={() => setSemesterFilter(s)}>Módulo {s}</button>)}</div>
+          <div className="subject-search-wrap"><span className="subject-search-icon"><IconSearch /></span><input type="search" className="subject-search" placeholder="Buscar matéria..." value={searchQuery} onChange={e => setSearchQuery(e.target.value)} /></div>
+          {errosCount > 0 && <div className="subject-select-card" onClick={startCadernoErros} style={{ borderColor: 'var(--error)', background: 'rgba(239,68,68,0.05)', marginBottom: '16px' }}><div className="subject-select-icon" style={{ color: 'var(--error)' }}><IconFileText /></div><div className="subject-select-info"><div className="subject-select-name" style={{ color: 'var(--error)' }}>Caderno de Erros</div><div className="subject-select-meta">{errosCount} para rever</div></div></div>}
+          <div className="subject-select-list">
+            {Object.entries(filteredQuizzes).map(([id, quiz]) => {
+              const done = quiz.cards.filter(c => quizProgressMap[String(c.id)]?.done).length;
+              return (
+                <div key={id} className="subject-select-card" onClick={() => handleMateriaClick(id)}>
                   <SubjectIcon materiaId={id} icon={quiz.icon} cor={quiz.cor} />
-                  <div className="subject-select-info">
-                    <div className="subject-select-name">{quiz.sigla || quiz.name}</div>
-                    <div className="subject-select-meta">
-                      {quiz.cards.length > 0
-                        ? `${quiz.cards.length} questões — ${doneCount} feitas — Módulo ${quiz.semestre}`
-                        : 'Em breve'}
-                    </div>
-                  </div>
-                  <div style={{ color: 'var(--text-secondary)' }}>
-                    <IconChevronRight />
-                  </div>
+                  <div className="subject-select-info"><div className="subject-select-name">{quiz.sigla || quiz.name}</div><div className="subject-select-meta">{quiz.cards.length} questões — {done} feitas</div></div>
+                  <IconChevronRight />
                 </div>
-              )})}
-            </div>
+              );
+            })}
           </div>
-        </>
+        </div>
       );
     };
 
     const TO_ESTUDOS_MATERIA_ID = 'tecnica_operatoria';
 
     function normalizeInstrumentAnswerText(s) {
-      const base = String(s || '')
-        .trim()
-        .replace(/\s+/g, ' ')
-        .toLowerCase();
-      try {
-        return base.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-      } catch (e) {
-        return base;
-      }
+      const base = String(s || '').trim().replace(/\s+/g, ' ').toLowerCase();
+      try { return base.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) { return base; }
     }
 
-    /**
-     * Aceita nome completo ou parte principal: ignora maiúsculas/minúsculas e acentos (após normalizar).
-     * Ex.: "farabeuf", "FARABEUF" ou "Afastador Farabeuf" para gabarito "Afastador Farabeuf".
-     */
     function instrumentAnswerMatchesRelaxed(nu, ne) {
-      if (!nu || !ne) return false;
-      if (nu.length < 2) return false;
+      if (!nu || !ne || nu.length < 2) return false;
       if (nu === ne) return true;
       if (ne.endsWith(' ' + nu)) return true;
       const tokens = ne.split(/\s+/).filter(Boolean);
       const last = tokens[tokens.length - 1] || '';
       if (nu === last) return true;
       const stop = new Set(['de', 'da', 'do', 'das', 'dos', 'e', 'o', 'a', 'em', 'no', 'na', 'tipo', 'com', 'para']);
-      for (const t of tokens) {
-        if (t === nu && t.length >= 3 && !stop.has(t)) return true;
-      }
+      for (const t of tokens) { if (t === nu && t.length >= 3 && !stop.has(t)) return true; }
       return false;
     }
 
-    /** Compara resposta ao nome canônico; destaca caracteres (verde se acerto ou resposta aceita no modo flexível). */
     function buildInstrumentAnswerDiff(userRaw, expectedNome) {
       const nu = normalizeInstrumentAnswerText(userRaw);
       const ne = normalizeInstrumentAnswerText(expectedNome);
-      if (!nu.length) {
-        return { isEmpty: true, isCorrect: false, userSpans: [], normalizedExpected: ne };
-      }
+      if (!nu.length) return { isEmpty: true, isCorrect: false, userSpans: [], normalizedExpected: ne };
       const relaxedOk = instrumentAnswerMatchesRelaxed(nu, ne);
       const userSpans = [];
-      if (relaxedOk) {
-        for (let i = 0; i < nu.length; i += 1) {
-          userSpans.push({ ch: nu[i], ok: true });
-        }
-      } else {
-        for (let i = 0; i < nu.length; i += 1) {
-          const ch = nu[i];
-          const ok = i < ne.length && ne[i] === ch;
-          userSpans.push({ ch, ok });
-        }
-      }
+      if (relaxedOk) { for (let i = 0; i < nu.length; i += 1) userSpans.push({ ch: nu[i], ok: true }); }
+      else { for (let i = 0; i < nu.length; i += 1) { const ch = nu[i]; userSpans.push({ ch, ok: i < ne.length && ne[i] === ch }); } }
       return { isEmpty: false, isCorrect: relaxedOk, userSpans, normalizedUser: nu, normalizedExpected: ne };
     }
 
     function shuffleInstrumentIds(ids) {
       const a = ids.slice();
-      for (let i = a.length - 1; i > 0; i -= 1) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [a[i], a[j]] = [a[j], a[i]];
-      }
+      for (let i = a.length - 1; i > 0; i -= 1) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
       return a;
     }
 
-    /** Codifica segmentos do path para img src (espaços e caracteres especiais nos nomes de ficheiro). */
     function encodeLocalAssetPath(p) {
       const s = String(p || '').trim();
       if (!s) return s;
       return s.split('/').map((seg) => (seg === '' ? '' : encodeURIComponent(seg))).join('/');
     }
 
-    /** Negrito estilo Markdown `**trecho**` em texto inline (guia TO). */
     function renderInlineBoldMarkdown(s, strongStyle) {
       const str = String(s || '');
       const style = strongStyle || { fontWeight: 700, color: 'inherit' };
@@ -8654,134 +8513,44 @@
       });
     }
 
-    /**
-     * Troca pixels muito escuros (fundo preto “embutido” em raster) por branco.
-     * Quando r,g,b <= threshold. Cuidado: sombras muito escuras do instrumento também podem clarear.
-     */
     function toEstudosWhitenEmbeddedBlackBg(img, opts) {
       const threshold = opts && typeof opts.threshold === 'number' ? opts.threshold : 40;
-      const maxMegapixels = 18;
-      const w = img.naturalWidth;
-      const h = img.naturalHeight;
-      if (!w || !h) return false;
-      if (w * h > maxMegapixels * 1_000_000) return false;
-      const canvas = document.createElement('canvas');
-      canvas.width = w;
-      canvas.height = h;
-      const ctx = canvas.getContext('2d');
-      if (!ctx) return false;
-      ctx.drawImage(img, 0, 0);
-      let data;
-      try {
-        data = ctx.getImageData(0, 0, w, h);
-      } catch (e) {
-        return false;
-      }
-      const px = data.data;
-      let changed = false;
-      for (let i = 0; i < px.length; i += 4) {
-        const r = px[i];
-        const g = px[i + 1];
-        const b = px[i + 2];
-        if (r <= threshold && g <= threshold && b <= threshold) {
-          px[i] = 255;
-          px[i + 1] = 255;
-          px[i + 2] = 255;
-          changed = true;
-        }
-      }
-      if (!changed) return false;
-      ctx.putImageData(data, 0, 0);
-      try {
-        img.src = canvas.toDataURL('image/png');
-        return true;
-      } catch (e) {
-        return false;
-      }
+      const w = img.naturalWidth; const h = img.naturalHeight;
+      if (!w || !h || w * h > 18_000_000) return false;
+      const canvas = document.createElement('canvas'); canvas.width = w; canvas.height = h;
+      const ctx = canvas.getContext('2d'); if (!ctx) return false;
+      ctx.drawImage(img, 0, 0); let data; try { data = ctx.getImageData(0, 0, w, h); } catch (e) { return false; }
+      const px = data.data; let changed = false;
+      for (let i = 0; i < px.length; i += 4) { if (px[i] <= threshold && px[i + 1] <= threshold && px[i + 2] <= threshold) { px[i] = 255; px[i + 1] = 255; px[i + 2] = 255; changed = true; } }
+      if (!changed) return false; ctx.putImageData(data, 0, 0);
+      try { img.src = canvas.toDataURL('image/png'); return true; } catch (e) { return false; }
     }
 
     function ToEstudosInstrumentFigure({ src, alt, onError }) {
       const doneRef = useRef(false);
-      const onLoad = useCallback(
-        (e) => {
-          const el = e.currentTarget;
-          if (doneRef.current) return;
-          const s = String(src || '');
-          if (!/\.(png|jpe?g)(\?|#|$)/i.test(s)) return;
-          try {
-            if (toEstudosWhitenEmbeddedBlackBg(el, { threshold: 40 })) {
-              doneRef.current = true;
-            }
-          } catch (err) {}
-        },
-        [src],
-      );
-      return (
-        <img src={src} alt={alt} loading="lazy" decoding="async" onLoad={onLoad} onError={onError} />
-      );
+      const onLoad = useCallback((e) => { const el = e.currentTarget; if (doneRef.current) return; const s = String(src || ''); if (!/\.(png|jpe?g)(\?|#|$)/i.test(s)) return; try { if (toEstudosWhitenEmbeddedBlackBg(el, { threshold: 40 })) doneRef.current = true; } catch (err) {} }, [src]);
+      return <img src={src} alt={alt} loading="lazy" decoding="async" onLoad={onLoad} onError={onError} />;
     }
 
-    // Materials Screen — ciclos alinhados a resolveModulesFromCodeEntry (1–4 / 5–8 / 9–12)
     const MATERIALS_CYCLES = [
       { id: 'basico', label: 'Ciclo Básico', sub: 'Módulos 1 a 4', min: 1, max: 4, anchor: 'materials-cycle-basico' },
       { id: 'clinico', label: 'Ciclo Clínico', sub: 'Módulos 5 a 8', min: 5, max: 8, anchor: 'materials-cycle-clinico' },
       { id: 'internato', label: 'Internato', sub: 'Módulos 9 a 12', min: 9, max: 12, anchor: 'materials-cycle-internato' },
     ];
 
-    /** Alinhado a firestore.rules → isAdmin(): só JWT Firebase (email verificado). */
     const MATERIAL_ADMIN_EMAILS = ['pngjaico@gmail.com'];
     function isMaterialAdminSession() {
       const cu = typeof window !== 'undefined' ? window.__fbAuth?.currentUser : null;
       if (!cu) return false;
       const em = normalizeAuthEmail(cu.email || '');
-      if (!MATERIAL_ADMIN_EMAILS.includes(em)) return false;
-      return cu.emailVerified === true;
+      return MATERIAL_ADMIN_EMAILS.includes(em) && cu.emailVerified === true;
     }
-    /** Email na lista admin (Auth), ainda que falte no doc Firestore / perfil local. */
     function isListedMaterialAdminAuth() {
       const cu = typeof window !== 'undefined' ? window.__fbAuth?.currentUser : null;
       if (!cu) return false;
-      return MATERIAL_ADMIN_EMAILS.includes(normalizeAuthEmail(cu.email || ''));
+      const em = normalizeAuthEmail(cu.email || '');
+      return MATERIAL_ADMIN_EMAILS.includes(em) && cu.emailVerified !== true;
     }
-
-
-
-    // --- Material Parser Utils ---
-    const parseMdMiniQuiz = (md) => {
-      if (!md) return [];
-      const parts = md.split(/^#{2,3}\s*Mini\s*Quiz\s*[\r\n]+/im);
-      if (parts.length < 2) return [];
-      
-      const content = parts[1].split(/^#+/m)[0]; // Tudo até o próximo header
-      const questions = [];
-      const qBlocks = content.split(/^\d+\.\s+/m).filter(b => b.trim());
-      
-      qBlocks.forEach(block => {
-        const lines = block.split('\n');
-        const pergunta = lines[0].replace(/\*\*|\*/g, '').trim();
-        const opcoes = [];
-        let correta = -1;
-        let explicacao = '';
-        
-        lines.slice(1).forEach(line => {
-          const l = line.trim();
-          const opMatch = l.match(/^-\s*\[([ xX])\]\s*(.*)/);
-          if (opMatch) {
-            if (opMatch[1].toLowerCase() === 'x') correta = opcoes.length;
-            opcoes.push(opMatch[2].trim());
-          } else {
-            const explMatch = l.match(/^>\s*\*\*Explicaç[ãa]o:\*\*\s*(.*)/i);
-            if (explMatch) explicacao = explMatch[1].trim();
-          }
-        });
-        
-        if (pergunta && opcoes.length > 0) {
-          questions.push({ pergunta, opcoes, correta: correta === -1 ? 0 : correta, explicacao });
-        }
-      });
-      return questions;
-    };
-
 
     const MaterialsScreen = ({ materias, materiasCatalog, user, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
@@ -13806,17 +13575,25 @@
                 </div>
               ) : (
                 <React.Fragment>
-                  <div style={{ display: 'flex', gap: '8px', padding: '10px 16px', background: 'var(--bg-card)', borderBottom: '1px solid var(--border-card)' }}>
+                  <div className="mg-segmented-control" style={{ margin: '14px 16px' }}>
+                    <div 
+                      className="mg-segmented-indicator" 
+                      style={{ transform: quizMode === 'todas' ? 'translateX(100%)' : 'translateX(0)' }}
+                    ></div>
                     <button
-                      className={'category-tab' + (quizMode === 'essenciais' ? ' active' : '')}
+                      className={'mg-segmented-tab' + (quizMode === 'essenciais' ? ' active' : '')}
                       onClick={() => setQuizMode('essenciais')}
-                      style={{ flex: 1 }}
-                    >⭐ Essenciais</button>
+                    >
+                      <span style={{ fontSize: '16px' }}>⭐</span>
+                      <span>Essenciais</span>
+                    </button>
                     <button
-                      className={'category-tab' + (quizMode === 'todas' ? ' active' : '')}
+                      className={'mg-segmented-tab' + (quizMode === 'todas' ? ' active' : '')}
                       onClick={() => setQuizMode('todas')}
-                      style={{ flex: 1 }}
-                    >📚 Todas</button>
+                    >
+                      <span style={{ fontSize: '16px' }}>📚</span>
+                      <span>Todas</span>
+                    </button>
                   </div>
                   <QuizScreen
                     key={quizMode}

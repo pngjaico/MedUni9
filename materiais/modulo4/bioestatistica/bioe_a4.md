@@ -47,8 +47,8 @@ O tamanho do estudo (**n**) não é chutado. Ele depende de:
 
 Para usar os testes matemáticos "famosos" (Teste t, ANOVA), os dados precisam seguir a **Distribuição Normal** (Curva de Gauss):
 - **Como saber?** Usamos o teste de **Shapiro-Wilk**.
-  - Se p > 0,05: Os dados **são Normais**. Podemos usar **Testes Paramétricos** (mais potentes).
-  - Se p ≤ 0,05: Os dados **não são Normais**. Devemos usar **Testes Não-Paramétricos** (baseados em rankings).
+  - Se **p > 0,05**: Os dados **são Normais**. Podemos usar **Testes Paramétricos** (mais potentes).
+  - Se **p ≤ 0,05**: Os dados **não são Normais**. Devemos usar **Testes Não-Paramétricos** (baseados em rankings).
 
 ---
 
@@ -62,7 +62,7 @@ Muitas vezes, lemos que um estudo "não achou diferença estatística" entre doi
 
 - **Amostragem Estratificada**: Divide por grupos (sexo, idade) para garantir que ninguém fique de fora.
 - **Amostragem por Conglomerados**: Usada em grandes pesquisas nacionais (como o IBGE) por ser mais barata.
-- **Shapiro-Wilk**: É o "teste de normalidade" mais cobrado. Lembrar que p > 0,05 é sinal verde para a Normal.
+- **Shapiro-Wilk**: É o "teste de normalidade" mais cobrado. Lembrar que **p > 0,05** é sinal verde para a Normal.
 - **Erro Tipo I (Alfa)**: É o **Falso Positivo** (dizer que funciona quando não funciona).
 - **Erro Tipo II (Beta)**: É o **Falso Negativo** (dizer que não funciona quando funciona).
 

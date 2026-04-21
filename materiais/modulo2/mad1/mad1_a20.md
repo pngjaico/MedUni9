@@ -2,7 +2,7 @@
 
 A família Herpesviridae tem uma característica marcante: a **Latência**. Uma vez infectado, o vírus permanece "dormindo" no seu corpo para sempre, podendo reativar quando a sua imunidade cai. Na prova, os temas centrais são as manifestações clínicas dos 8 tipos de herpesvírus e o tratamento com **Aciclovir** e **Ganciclovir**.
 
-Na prática, identificar o padrão de reativação (como o "Cobreiro") e saber quando usar antivirais potentes evita complicações graves como cegueira e encefalite.
+Na prática, identificar o padrão de reativação (como o "**Cobreiro**") e saber quando usar antivirais potentes evita complicações graves como **cegueira** e **encefalite**.
 
 ---
 
@@ -17,9 +17,9 @@ Na prática, identificar o padrão de reativação (como o "Cobreiro") e saber q
 
 ## 1. Herpes Simplex (HSV-1 e HSV-2)
 
-- **HSV-1 (Oral):** Geralmente causa feridas nos lábios. A complicação mais grave é a **Encefalite Herpética** (ataca o lobo temporal do cérebro).
+- **HSV-1 (Oral):** Geralmente causa feridas nos lábios. A complicação mais grave é a **Encefalite Herpética** (ataca o **lobo temporal** do cérebro).
 - **HSV-2 (Genital):** Transmitido sexualmente, causa vesículas dolorosas que estouram e viram feridas.
-- **Diagnóstico:** O "Teste de Tzanck" (raspado da ferida) mostra células gigantes com muitos núcleos.
+- **Diagnóstico:** O "**Teste de Tzanck**" (raspado da ferida) mostra células gigantes com muitos núcleos.
 
 ---
 
@@ -27,15 +27,15 @@ Na prática, identificar o padrão de reativação (como o "Cobreiro") e saber q
 
 - **Varicela (Catapora):** É a infecção primária. O corpo todo fica com "bolhinhas" em diferentes estágios (umas secando, outras nascendo).
 - **Herpes-Zóster (Cobreiro):** É a reativação. O vírus acorda em um nervo específico e causa dor intensa seguida de bolhas que seguem o caminho desse nervo (**unilateral** — não cruza o meio do corpo).
-- **Tratamento:** Aciclovir ou Valaciclovir. Deve ser iniciado em até 72h para evitar a dor crônica (Neuralgia Pós-Herpética).
+- **Tratamento:** **Aciclovir** ou **Valaciclovir**. Deve ser iniciado em até **72h** para evitar a dor crônica (**Neuralgia Pós-Herpética**).
 
 ---
 
 ## 3. Os "Outros" Herpesvírus
 
-- **Epstein-Barr (EBV):** Causa a **Mononucleose** ("Doença do Beijo").
-  - **Sinal de Prova:** Se você der Amoxicilina para alguém com Mononucleose (achando que era bactéria), o paciente vai ter um **Rash/Exantema** (manchas vermelhas) no corpo todo.
-- **Citomegalovírus (CMV):** O grande perigo na AIDS (CD4 < 50). Causa **Retinite**, que no fundo de olho parece uma **"Pizza de Tomate"** (sangue e pus) e leva à cegueira.
+- **Epstein-Barr (EBV):** Causa a **Mononucleose** ("**Doença do Beijo**").
+  - **Sinal de Prova:** Se você der **Amoxicilina** para alguém com Mononucleose (achando que era bactéria), o paciente vai ter um **Rash/Exantema** (manchas vermelhas) no corpo todo.
+- **Citomegalovírus (CMV):** O grande perigo na AIDS (**CD4 < 50**). Causa **Retinite**, que no fundo de olho parece uma **"Pizza de Tomate"** (sangue e pus) e leva à **cegueira**.
 - **HHV-8:** Causa o **Sarcoma de Kaposi** (manchas roxas na pele), comum em pacientes com AIDS.
 
 ---
@@ -74,7 +74,7 @@ No paciente com AIDS, decore os perigos: se a visão sumir e virar "pizza", é o
 | **Varicela** | **Herpes-Zóster** | Generalizada vs **Seguindo um nervo (Unilateral)** |
 | **Aciclovir** | **Ganciclovir** | HSV/Zóster vs **CMV** |
 | **Mononucleose EBV** | **Faringite Bacteriana** | Gânglios posteriores vs Gânglios anteriores |
-| **Encefalite Herpética** | **Meningite Comum** | Afeta o cérebro (Temporal) vs Afeta as membranas |
+| **Encefalite Herpética** | **Meningite Comum** | Afeta o cérebro (**Temporal**) vs Afeta as membranas |
 | **HSV-1** | **HSV-2** | Acima da cintura vs **Abaixo da cintura (regra geral)** |
 
 ### Frase-âncora para não esquecer

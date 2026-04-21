@@ -8,7 +8,7 @@
 ## Relevância Clínica e Acadêmica
 
 A conduta inicial em agravo ocupacional exige rapidez, segurança e raciocínio estruturado.
-Na prova, esse tema aparece em cenários de urgência, intoxicação, acidente biológico e dor incapacitante.
+Na prova, esse tema aparece em cenários de **urgência, intoxicação, acidente biológico e dor incapacitante**.
 Na prática, decisão correta na primeira abordagem reduz dano imediato e evita recorrência.
 
 O médico precisa equilibrar duas frentes:
@@ -33,9 +33,9 @@ Quando isso é feito de forma integrada, melhora o desfecho clínico e funcional
 
 Quatro princípios orientam a conduta:
 
-1. afastar o trabalhador de risco imediato;
-2. estabilizar clinicamente quando houver gravidade;
-3. coletar história ocupacional de alto rendimento;
+1. **afastar o trabalhador de risco imediato**;
+2. **estabilizar clinicamente** quando houver gravidade;
+3. coletar **história ocupacional de alto rendimento**;
 4. definir plano de seguimento e prevenção.
 
 Esses passos valem para UBS, UPA e pronto-socorro, com adaptação conforme gravidade.
@@ -60,9 +60,9 @@ Cinco perguntas aumentam a qualidade diagnóstica na primeira consulta:
 
 | Achado na anamnese | Interpretação | Próxima ação |
 |--------------------|---------------|--------------|
-| piora no fim do turno | nexo ocupacional provável | reduzir exposição e seguir investigação |
-| melhora em folga/férias | reforça relação temporal | manter hipótese ocupacional ativa |
-| casos semelhantes no setor | risco coletivo | acionar vigilância local |
+| piora no fim do turno | **nexo ocupacional provável** | reduzir exposição e seguir investigação |
+| melhora em folga/férias | **reforça relação temporal** | manter hipótese ocupacional ativa |
+| casos semelhantes no setor | **risco coletivo** | **acionar vigilância local** |
 | exposição aguda intensa | risco de gravidade | manejo imediato e monitorização |
 
 ---
@@ -72,15 +72,15 @@ Cinco perguntas aumentam a qualidade diagnóstica na primeira consulta:
 ### Exposição química aguda
 
 - interromper exposição;
-- descontaminar conforme agente;
+- **descontaminar** conforme agente;
 - avaliar função respiratória e neurológica;
 - tratar suporte e monitorar evolução.
 
 ### Acidente com material biológico
 
-- cuidado local imediato;
-- estratificação de risco da exposição;
-- protocolo pós-exposição conforme rotina;
+- **cuidado local imediato**;
+- **estratificação de risco** da exposição;
+- **protocolo pós-exposição** conforme rotina;
 - seguimento clínico-laboratorial.
 
 ### LER/DORT com dor intensa
@@ -93,7 +93,7 @@ Cinco perguntas aumentam a qualidade diagnóstica na primeira consulta:
 ### Sofrimento mental relacionado ao trabalho
 
 - acolhimento e escuta qualificada;
-- avaliação de risco de autoagressão;
+- avaliação de risco de **autoagressão**;
 - manejo inicial em saúde mental;
 - articulação multiprofissional.
 
@@ -106,10 +106,10 @@ Elas ajudam a explicar por que o evento ocorreu e o que previne repetição.
 
 | Situação clínica | NR prioritária | Implicação prática |
 |------------------|----------------|--------------------|
-| acidente com perfurocortante em hospital | NR-32 | reforçar protocolo e organização segura do fluxo |
-| dor cervical em teleatendimento | NR-17 | revisar posto, pausa e carga de tarefa |
-| perda auditiva em setor ruidoso | NR-7 e NR-9 | vigilância periódica e controle de exposição |
-| queimadura por químico sem proteção | NR-6 | revisar adequação de EPI e treinamento |
+| acidente com perfurocortante em hospital | **NR-32** | reforçar protocolo e organização segura do fluxo |
+| dor cervical em teleatendimento | **NR-17** | revisar posto, pausa e carga de tarefa |
+| perda auditiva em setor ruidoso | **NR-7 e NR-9** | vigilância periódica e controle de exposição |
+| queimadura por químico sem proteção | **NR-6** | revisar adequação de **EPI** e treinamento |
 
 Sem conexão entre clínica e NR, a tendência é repetir evento com novos trabalhadores.
 

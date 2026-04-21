@@ -2,7 +2,7 @@
 
 A farmacoterapia é o encontro da ciência com a prescrição. Na prova, os temas centrais são a **Farmacocinética** (o que o corpo faz com o remédio — ADME) e a **Farmacodinâmica** (o que o remédio faz com o corpo), focando em conceitos como **Meia-Vida**, **Janela Terapêutica** e o papel do **Fígado** no metabolismo.
 
-Na prática, entender esses princípios evita que o médico prescreva doses tóxicas para pacientes com problemas nos rins ou no fígado e garante que o nível do remédio no sangue seja o ideal para a cura.
+Na prática, entender esses princípios evita que o médico prescreva doses tóxicas para pacientes com problemas nos **rins** ou no **fígado** e garante que o nível do remédio no sangue seja o ideal para a cura.
 
 ---
 

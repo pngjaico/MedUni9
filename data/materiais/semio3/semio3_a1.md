@@ -1,90 +1,99 @@
-# Semiologia 3 — Aula 1: Revisão da Semiologia Abdominal — Anamnese
+# SEMIO3 — Aula 1: Anamnese Abdominal — O Alicerce do Diagnóstico
 
-**Disciplina:** Semiologia dos Aparelhos Renal e Reprodutor
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+A queixa de "dor de barriga" é uma das mais comuns no pronto-socorro e, ao mesmo dizer, uma das mais perigosas. Na prova, os temas centrais são a aplicação dos mnemônicos **SOCRATES e OPQRST** para caracterizar a dor, a identificação dos **Red Flags** (sinais de alerta) e a diferenciação entre **Dor Visceral e Dor Somática**.
+
+Na prática, a anamnese abdominal bem feita poupa exames caros e tempo precioso. Pedir ao paciente para apontar com **Um Único Dedo** onde a dor começou e para onde ela foi é o passo mais importante para diferenciar uma **apendicite** de uma simples gastrite ou de uma **emergência cirúrgica**.
 
 ---
 
-## Relevância Clínica e Acadêmica
+### Figura sugerida
 
-A anamnese abdominal volta no módulo 3 porque rim e aparelho reprodutor raramente chegam ao consultório dizendo o próprio nome. Dor lombar pode ser renal, mas também musculoesquelética. Dor pélvica pode ser ginecológica, urinária, intestinal ou inflamatória. O bom aluno não sai pedindo exame antes de organizar a história. A banca costuma usar essa aula para cobrar sequência lógica de perguntas, diferenciação da dor e associação entre sintomas urinários, intestinais e reprodutivos.
+**Figura-ID:** `SEMIO3-A1-F01`
 
-## Começo Certo: Queixa Principal e Linha do Tempo
+- **Momento:** Seção de Topografia Abdominal.
+- **O que mostrar:** O "Mapa da Dor": Divisão do abdome em 9 quadrantes. Destacar órgãos principais em cada um (ex: Fossa Ilíaca Direita = **Apendicite**; Hipocôndrio Direito = **Vesícula**; Epigástrio = **Estômago/Pâncreas**). Usar setas para mostrar irradiações clássicas.
+- **Tipo sugerido:** Infográfico didático | Ilustração estilo atlas.
+- **Legenda (rascunho):** Topografia da dor abdominal e correlação com órgãos subjacentes.
 
-Toda anamnese abdominal precisa começar por localização, início, duração e progressão do sintoma. A pergunta não é apenas “onde dói?”, mas “como começou, para onde irradia, o que piora, o que melhora e o que veio junto?”.
+## 1. Caracterizando a Dor (Mnemônicos de Elite)
 
-Na prática, você precisa localizar o sintoma em um mapa funcional:
+Para não esquecer nada, use o **SOCRATES**:
+- **S (Site):** Local exato. Peça para apontar com o **dedo**.
+- **O (Onset):** Início. Foi **súbito** (segundos) ou progressivo (horas)?
+- **C (Character):** Tipo. É queimação, pontada, peso ou **Cólica** (ondas)?
+- **R (Radiation):** Irradiação. Vai para o **dorso**, **ombro** ou **virilha**?
+- **A (Associations):** Sintomas juntos (vômitos, febre, diarreia).
+- **T (Timing):** É constante ou vem e vai?
+- **E (Exacerbating/Relieving):** Piora ao caminhar? Melhora ao vomitar?
+- **S (Severity):** Nota de 0 a 10.
 
-- dor em flanco e lombar sugere mais trato urinário superior
-- dor suprapúbica chama atenção para bexiga e trato urinário inferior
-- dor pélvica exige correlação com ciclo menstrual, corrimento, atividade sexual e sintomas urinários
+---
 
-## Como Explorar a Dor
+## 2. Tipos de Dor Abdominal
 
-As perguntas clássicas continuam valendo:
+- **Dor Visceral:** É profunda e **mal localizada**. O paciente não sabe apontar o ponto exato. É causada por distensão das vísceras.
+- **Dor Somática (Parietal):** É aguda, intensa e **Bem Localizada**. O paciente aponta o ponto exato com o dedo. Piora muito com qualquer movimento (tosse, respiração, caminhar).
+- **Dor Referida:** Sentida longe da causa (ex: dor no ombro direito causada por problema na vesícula).
 
-- início súbito ou progressivo
-- intensidade e tipo de dor
-- irradiação
-- relação com alimentação, micção, evacuação ou menstruação
-- presença de febre, náusea, vômito, disúria, hematúria ou corrimento
+---
 
-> **Dica de Prova:** dor tipo cólica, com irradiação para virilha e inquietação do paciente, favorece litíase. Dor em peso com febre e sintomas urinários favorece processo infeccioso.
+## 3. Red Flags: Quando Correr?
 
-## Sintomas Urinários que Não Podem Faltar
+Se o paciente apresentar qualquer um desses sinais, a investigação deve ser imediata:
+- **Início Súbito e Explosivo:** "A pior dor da vida" que começa em segundos (pensar em **perfuração**).
+- **Vômito Bilioso (Verde/Amarelo):** Sinal clássico de **Obstrução Intestinal**.
+- **Síncope ou Desmaio:** Pode indicar **sangramento interno** (gravidez ectópica ou aneurisma).
+- **Febre Alta + Dor Localizada:** Sinal de infecção grave (abscesso ou **peritonite**).
+- **Parada de Eliminar Gases:** Indica que o intestino parou de funcionar.
 
-Na revisão abdominal do módulo 3, é obrigatório perguntar:
+---
 
-- disúria
-- polaciúria
-- urgência urinária
-- nictúria
-- hematúria
-- redução do volume urinário
-- espuma na urina
-- edema associado
+## 4. Antecedentes que Mudam Tudo
 
-Esses dados mudam totalmente a direção do raciocínio. Dor abdominal sem pergunta urinária é anamnese incompleta para este módulo.
+Nunca esqueça de perguntar:
+- **Cirurgias Prévias:** Aumentam o risco de "**bridas**" (cicatrizes internas que prendem o intestino).
+- **Uso de AINEs (Ibuprofeno, Diclofenaco):** Risco altíssimo de **Úlcera Perfurada**.
+- **Data da Última Menstruação:** Em mulheres, dor abdominal é **gravidez** até que o teste prove o contrário.
 
-## Pontos Reprodutivos Essenciais
-
-Em mulheres, dor pélvica ou abdominal baixa exige investigação de ciclo menstrual, data da última menstruação, possibilidade de gestação, padrão do sangramento e corrimento. Em homens, dor abdominal baixa pode coexistir com sintomas prostáticos, testiculares ou sexuais. O erro frequente é separar demais abdome e aparelho reprodutor, quando o módulo justamente pede integração.
-
-## Sinais de Alarme
-
-- febre persistente
-- vômitos incoercíveis
-- anúria ou oligúria marcada
-- hematúria macroscópica
-- síncope ou instabilidade hemodinâmica
-- atraso menstrual com dor pélvica importante
+---
 
 ## Ponte com a Clínica
 
-Uma anamnese abdominal boa não serve apenas para “suspeitar de apendicite”. No módulo 3, ela serve para transformar dor vaga em hipótese orientada: cistite, pielonefrite, litíase, cólica ureteral, prostatite, DIP, endometriose ou gestação ectópica. A diferença entre atendimento confuso e raciocínio clínico começa aqui.
+No consultório, saiba que a **Apendicite** clássica começa com uma dor chata ao redor do umbigo (visceral) e só depois de algumas horas "migra" e se fixa na **Fossa Ilíaca Direita** (parietal). Se o paciente diz que a dor piora quando o carro passa em um buraco no caminho para o hospital, ele tem irritação do peritônio. Essa informação vale mais do que qualquer hemograma para fechar o diagnóstico de uma emergência cirúrgica.
+
+---
+
+## Pontos-Chave para Prova
+
+- **SOCRATES**: Técnica padrão-ouro para desmembrar a queixa de dor abdominal.
+- **Vômito Bilioso**: Indica que o conteúdo está vindo debaixo do duodeno; suspeita alta de obstrução.
+- **Migração da Dor**: O deslocamento da dor do epigástrio para a FID é o sinal clínico mais forte de apendicite.
+- **AINEs**: Medicamentos que "furam" o estômago; principal causa de abdome agudo perfurativo em idosos.
+- **Sinal de Alerta**: Síncope + dor abdominal em mulher jovem = excluir gravidez ectópica imediatamente.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Anamnese abdominal no módulo 3:** sempre integrar sintomas urinários e reprodutivos.
-- **Dor em flanco/lombar:** pensar em trato urinário superior.
-- **Dor suprapúbica:** lembrar bexiga e trato urinário inferior.
-- **Dor pélvica:** correlacionar com ciclo menstrual, corrimento, gestação e urinário.
-- **Perguntas urinárias obrigatórias:** disúria, hematúria, polaciúria, urgência, volume urinário.
-- **Sinais de alarme:** anúria, hematúria importante, febre alta, instabilidade, atraso menstrual com dor.
+Para gabaritar Anamnese Abdominal, foque na localização e no início. 
+**Início Súbito** = Perfuração ou Isquemia. **Início Gradual** = Inflamação (Apendicite/Colecistite). Se a dor **Melhora com o Vômito**, pense em obstrução alta. Se a dor **Piora ao Tossir**, há peritonite.
+
+A Uninove adora **Irradiações**. Lembre-se: Vesícula irradia para a escápula direita. Pâncreas irradia em "barra" para as costas. Rim irradia para os testículos ou grandes lábios. Outro ponto forte: sempre pergunte sobre cirurgias anteriores; se o paciente operou a barriga há 10 anos, ele tem risco de obstrução por brida. Por fim, saiba que o vômito que aparece ANTES da dor costuma ser gastroenterite; o vômito que aparece DEPOIS da dor costuma ser cirúrgico.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Dor renal/cólica ureteral | Dor visceral inespecífica | Dor renal costuma irradiar e acompanhar sintomas urinários |
-| Dor suprapúbica | Dor pélvica ginecológica | Suprapúbica favorece bexiga; pélvica exige correlação menstrual e genital |
-| Sintoma urinário alto | Sintoma urinário baixo | Alto: flanco/lombar e repercussão sistêmica; baixo: disúria, urgência, polaciúria |
-| Anamnese geral | Anamnese dirigida | A dirigida organiza hipótese diagnóstica e diferencial |
+| **Dor Visceral** | **Dor Parietal** | Mal localizada (**Geral**) vs Bem localizada (**Dedo**) |
+| **Início Súbito** | **Início Insidioso** | **Perfura/Vascular** (Explosivo) vs **Inflama** (Lento) |
+| **Vômito Bilioso** | **Vômito Alimentar** | Obstrução **Baixa** vs Problema **Gástrico** |
+| **Cólica** | **Dor Contínua** | **Víscera Oca** (Pedra/Fezes) vs **Inflamação** (Peritônio) |
+| **Cirurgia Prévia** | **AINE recente** | Risco de **Obstrução** vs Risco de **Perfuração** |
 
 ### Frase-âncora para não esquecer
 
-> "No módulo 3, dor abdominal sem pergunta urinária e reprodutiva é história mal colhida."
+> "O dedo do paciente vale mais que a imagem. Dor que migra inflama, dor que explode perfura. Na dúvida, abra o olho: vômito verde ou desmaio é cirurgia chegando no raio."

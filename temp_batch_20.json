@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 2101,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual fármaco abaixo inibe a síntese proteica bacteriana por ligação à subunidade 50S e pertence à classe das oxazolidinonas?",
+    "opcoes": [
+      "A) Gentamicina.",
+      "B) Doxiciclina.",
+      "C) Linezolida.",
+      "D) Rifampicina."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Linezolida é oxazolidinona e bloqueia a formação do complexo de iniciação na subunidade 50S.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: aminoglicosídeo, 30S.",
+      "B": "Incorreta: tetraciclinas, 30S.",
+      "C": "Correta: oxazolidinona, 50S.",
+      "D": "Incorreta: rifampicina inibe RNA polimerase; não é oxazolidinona."
+    },
+    "explicacao": "Resumo: Linezolida é oxazolidinona com alvo na 50S.\nA) INCORRETA. Gentamicina — 30S.\nB) INCORRETA. Doxiciclina — 30S.\nC) CORRETA. Linezolida — oxazolidinona.\nD) INCORRETA. Rifampicina tem outro mecanismo.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2102,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "O trimetoprima, componente do esquema sulfametoxazol + trimetoprima, exerce efeito principalmente sobre qual etapa do metabolismo do folato bacteriano?",
+    "opcoes": [
+      "A) Inibição da diidrofolato redutase bacteriana.",
+      "B) Bloqueio da síntese de ácido para-aminobenzoico sem etapas subsequentes.",
+      "C) Inibição da DNA girase.",
+      "D) Inibição da RNA polimerase dependente de DNA."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Trimetoprima inibe a diidrofolato redutase; o sulfametoxazol inibe a sintase de diidropteroato — bloqueio sequencial do folato.",
+    "explicacoes_opcoes": {
+      "A": "Correta: TMP inibe DHFR bacteriana.",
+      "B": "Incorreta: descreve outra etapa; o SMX atua na sintase de diidropteroato.",
+      "C": "Incorreta: fluoroquinolonas atuam na girase/topoisomerase IV.",
+      "D": "Incorreta: rifamicinas atuam na RNA polimerase."
+    },
+    "explicacao": "Resumo: TMP inibe DHFR.\nA) CORRETA. Inibição da DHFR.\nB) INCORRETA. Não descreve o alvo do TMP.\nC) INCORRETA. Alvo de quinolonas.\nD) INCORRETA. Alvo de rifamicinas.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2103,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual é o principal alvo molecular das fluoroquinolonas em bacilos Gram-negativos sensíveis?",
+    "opcoes": [
+      "A) Subunidade ribossomal 30S.",
+      "B) DNA girase (topoisomerase II) e, em vários casos, topoisomerase IV.",
+      "C) Proteína de ligação à penicilina.",
+      "D) Sintase de ácido para-aminobenzoico."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Fluoroquinolonas inibem topoisomerases bacterianas, levando a quebras no DNA replicativo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ribossomo, não é o alvo das quinolonas.",
+      "B": "Correta: girase em Gram-negativos; topoisomerase IV relevante especialmente em Gram-positivos.",
+      "C": "Incorreta: beta-lactâmicos atuam em PBPs.",
+      "D": "Incorreta: alvo de sulfonamidas."
+    },
+    "explicacao": "Resumo: Quinolonas inibem DNA girase e topoisomerase IV.\nA) INCORRETA. Não é ribossomo.\nB) CORRETA. Alvo: topoisomerases.\nC) INCORRETA. Não é PBP.\nD) INCORRETA. Não é folato.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2108,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "No esquema sulfametoxazol + trimetoprima, qual etapa do metabolismo do folato bacteriano é bloqueada predominantemente pelo sulfametoxazol?",
+    "opcoes": [
+      "A) Conversão de ácido para-aminobenzoico em diidropteroato (síntese de diidropteroato).",
+      "B) Redução de diidrofolato a tetraidrofolato (diidrofolato redutase).",
+      "C) Replicação do DNA pela DNA girase.",
+      "D) Ligação peptídica transversal na parede celular."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Sulfonamidas competem com o ácido para-aminobenzoico e inibem a diidropteroato sintetase; o trimetoprima bloqueia a DHFR — bloqueio sequencial.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alvo clássico das sulfonamidas.",
+      "B": "Incorreta: etapa inibida pelo trimetoprima.",
+      "C": "Incorreta: alvo de fluoroquinolonas.",
+      "D": "Incorreta: mecanismo de beta-lactâmicos."
+    },
+    "explicacao": "Resumo: SMX inibe a síntese de diidropteroato.\nA) CORRETA. Diidropteroato sintetase.\nB) INCORRETA. Etapa do trimetoprima.\nC) INCORRETA. DNA girase não é o alvo.\nD) INCORRETA. Não é transpeptidação.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2110,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Por que a associação sulfametoxazol + trimetoprima costuma ser descrita como sinérgica contra muitos patógenos sensíveis?",
+    "opcoes": [
+      "A) Porque ambos inibem exatamente a mesma enzima em etapas idênticas.",
+      "B) Porque bloqueiam etapas sequenciais da síntese de folato bacteriano (sequência SMX → TMP).",
+      "C) Porque anulam a resistência a meticilina por MRSA.",
+      "D) Porque inibem simultaneamente a DNA girase e a subunidade 30S."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "SMX reduz substratos a montante e TMP bloqueia etapa a jusante na via do folato, produzindo efeito combinado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: enzimas diferentes.",
+      "B": "Correta: bloqueio sequencial do folato.",
+      "C": "Incorreta: não é o mecanismo de ação da combinação.",
+      "D": "Incorreta: descreve outros fármacos."
+    },
+    "explicacao": "Resumo: Bloqueio sequencial do folato explica a sinergia.\nA) INCORRETA. Não é a mesma enzima.\nB) CORRETA. Etapas sequenciais do folato.\nC) INCORRETA. Não é o efeito sobre MRSA descrito.\nD) INCORRETA. Alvos incorretos.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2111,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Entre os agentes abaixo, qual inibe predominantemente a DNA girase bacteriana (e topoisomerases relacionadas) como mecanismo central?",
+    "opcoes": [
+      "A) Trimetoprima.",
+      "B) Sulfametoxazol.",
+      "C) Ciprofloxacino.",
+      "D) Nitrofurantoína (mecanismo exclusivamente antifúngico)."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Fluoroquinolonas como ciprofloxacino inibem DNA girase e topoisomerase IV; nitrofurantoína não é antifúngica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: trimetoprima age no folato.",
+      "B": "Incorreta: sulfonamida no folato.",
+      "C": "Correta: fluoroquinolona.",
+      "D": "Incorreta: nitrofurantoína é antibacteriana com outro mecanismo; a afirmação está errada."
+    },
+    "explicacao": "Resumo: Ciprofloxacino é fluoroquinolona.\nA) INCORRETA. TMP — folato.\nB) INCORRETA. SMX — folato.\nC) CORRETA. Quinolona — girase.\nD) INCORRETA. Nitrofurantoína não é antifúngica exclusiva.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2112,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual princípio explica por que muitos antivirais têm melhor efeito quando iniciados precocemente, durante replicação viral ativa?",
+    "opcoes": [
+      "A) Bloqueiam etapas da replicação viral e reduzem carga viral antes do pico de disseminação.",
+      "B) Aumentam a resistência viral se usados cedo.",
+      "C) Só funcionam após formação de anticorpos, sem relação com replicação.",
+      "D) Substituem a vacinação em qualquer infecção viral."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Antivirais atuam em etapas do ciclo replicativo; iniciar cedo limita replicação e complicações.",
+    "explicacoes_opcoes": {
+      "A": "Correta: janela terapêutica e impacto na replicação.",
+      "B": "Incorreta: resistência não é o objetivo do início precoce.",
+      "C": "Incorreta: o raciocínio central é o ciclo viral, não só anticorpos.",
+      "D": "Incorreta: não substituem vacinação."
+    },
+    "explicacao": "Resumo: Início precoce atinge replicação viral.\nA) CORRETA. Bloqueio de etapas do ciclo.\nB) INCORRETA. Não é o efeito esperado do timing.\nC) INCORRETA. Mecanismo incorreto.\nD) INCORRETA. Não substitui imunização.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2113,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Inibidores da neuraminidase (ex.: oseltamivir) usados em influenza não complicada são mais eficazes quando:",
+    "opcoes": [
+      "A) Iniciados após 14 dias de sintomas, independentemente do quadro.",
+      "B) Iniciados nas primeiras 48 horas do início dos sintomas, quando o diagnóstico é compatível.",
+      "C) Usados apenas após cultura viral negativa.",
+      "D) Associados exclusivamente a antibióticos de amplo espectro sem indicação."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Janela precoce maximiza benefício dos antivirais anti-influenza ao reduzir replicação viral.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: janela tardia reduz benefício.",
+      "B": "Correta: alinhado à janela clássica de 48h.",
+      "C": "Incorreta: cultura não é pré-requisito universal em manejo clínico.",
+      "D": "Incorreta: antibiótico empírico não é a regra para influenza viral típica."
+    },
+    "explicacao": "Resumo: Oseltamivir funciona melhor nas primeiras 48h.\nA) INCORRETA. Tarde demais reduz efeito.\nB) CORRETA. Janela precoce.\nC) INCORRETA. Cultura não é obrigatória para decisão.\nD) INCORRETA. Antibiótico não é o foco.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2114,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual mecanismo descreve melhor a ação do aciclovir sobre herpesvírus sensíveis?",
+    "opcoes": [
+      "A) Inibição direta da DNA girase bacteriana.",
+      "B) Bloqueio da síntese de folato viral.",
+      "C) Fosforilação viral dependente (timidina quinase) e inibição da DNA polimerase viral.",
+      "D) Inibição da síntese de parede celular do vírus."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Aciclovir é análogo de nucleosídeo; precisa ser ativado na célula infectada e inibe DNA polimerase viral.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: alvo bacteriano de quinolonas.",
+      "B": "Incorreta: não é antimetabólito de folato.",
+      "C": "Correta: ativação por TK viral e bloqueio da polimerase.",
+      "D": "Incorreta: vírus não tem parede peptidoglicana."
+    },
+    "explicacao": "Resumo: Aciclovir inibe DNA polimerase viral após ativação.\nA) INCORRETA. Não é girase.\nB) INCORRETA. Não é folato.\nC) CORRETA. TK viral + polimerase.\nD) INCORRETA. Vírus não tem parede.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2118,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual fármaco abaixo é exemplo de análogo de nucleotídeo usado em hepatite B crônica, inibindo a DNA polimerase do vírus?",
+    "opcoes": [
+      "A) Oseltamivir.",
+      "B) Aciclovir tópico.",
+      "C) Tenofovir (forma oral sistêmica).",
+      "D) Sulfametoxazol."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Tenofovir (e outros análogos) inibem a polimerase/reverse transcriptase do HBV como parte do tratamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: antiviral de influenza.",
+      "B": "Incorreta: uso tópico não é tratamento sistêmico de HBV.",
+      "C": "Correta: tenofovir é usado no manejo do HBV crônico.",
+      "D": "Incorreta: antibacteriano."
+    },
+    "explicacao": "Resumo: Tenofovir trata HBV crônico.\nA) INCORRETA. Oseltamivir — influenza.\nB) INCORRETA. Aciclovir tópico não trata HBV sistêmico.\nC) CORRETA. Tenofovir — HBV.\nD) INCORRETA. SMX não é antiviral para HBV.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2121,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual classe de antirretroviral inibe a integrase do HIV, impedindo a inserção do DNA pró-viral no genoma da célula hospedeira?",
+    "opcoes": [
+      "A) Inibidores da protease.",
+      "B) Inibidores da fusão.",
+      "C) Inibidores da integrase (inibidores da transferência de fita).",
+      "D) Análogos de nucleosídeo inibidores da transcriptase reversa apenas."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Inibidores de integrase bloqueiam a enzima integrase necessária para incorporar o DNA viral.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: protease cliva poliproteínas virais.",
+      "B": "Incorreta: fusão impede entrada.",
+      "C": "Correta: classe dos inibidores de integrase.",
+      "D": "Incorreta: NRTIs atuam na transcriptase reversa."
+    },
+    "explicacao": "Resumo: Inibidores de integrase bloqueiam a integração do DNA.\nA) INCORRETA. Protease — outro alvo.\nB) INCORRETA. Fusão — entrada.\nC) CORRETA. Integrase.\nD) INCORRETA. NRTIs — transcriptase reversa.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2122,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "A seleção negativa de linfócitos T com reconhecimento forte de autoantígenos ocorre principalmente em qual órgão linfóide primário?",
+    "opcoes": [
+      "A) Timo.",
+      "B) Medula óssea.",
+      "C) Baço.",
+      "D) Placas de Peyer isoladas."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A maturação e a tolerância central dos linfócitos T estão centradas no timo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: local clássico da seleção negativa tímica.",
+      "B": "Incorreta: é mais central para maturação de células B.",
+      "C": "Incorreta: órgão secundário.",
+      "D": "Incorreta: não é o sítio principal da seleção tímica."
+    },
+    "explicacao": "Resumo: Tolerância central T no timo.\nA) CORRETA. Órgão correto.\nB) INCORRETA. Outro compartimento.\nC) INCORRETA. Não é primário para T central.\nD) INCORRETA. Local incorreto para o processo descrito.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2123,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "A edição de receptores e mecanismos de deleção/rearranjo na linhagem B durante a maturação inicial ocorre predominantemente em qual tecido?",
+    "opcoes": [
+      "A) Timo.",
+      "B) Medula óssea.",
+      "C) Gânglio linfático periférico.",
+      "D) Timus e medula de forma equivalente para o mesmo evento em T."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A tolerância central dos linfócitos B ocorre na medula óssea.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: é o sítio principal para seleção de linfócitos T.",
+      "B": "Correta: medula óssea é o microambiente da maturação B central.",
+      "C": "Incorreta: periferia não substitui o nicho central de maturação B.",
+      "D": "Incorreta: generalização incorreta."
+    },
+    "explicacao": "Resumo: B central na medula.\nA) INCORRETA. Órgão errado para B central.\nB) CORRETA. Local correto.\nC) INCORRETA. Não é o principal para maturação B inicial.\nD) INCORRETA. Confunde linhagens e sítios.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2124,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual mecanismo descreve melhor a anergia de linfócitos T na periferia?",
+    "opcoes": [
+      "A) Morte imediata por apoptose sem contato antigênico.",
+      "B) Proliferação descontrolada após coestimulação excessiva.",
+      "C) Reconhecimento antigênico sem coestimulação adequada levando a inatividade funcional.",
+      "D) Troca isotípica espontânea sem antígeno."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Anergia é estado de não resposta funcional quando faltam sinais coestimulatórios adequados.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não define anergia.",
+      "B": "Incorreta: oposto ao conceito.",
+      "C": "Correta: definição compatível com o material.",
+      "D": "Incorreta: processo distinto."
+    },
+    "explicacao": "Resumo: Anergia = sinal 1 sem sinal 2 adequado.\nA) INCORRETA. Conceito errado.\nB) INCORRETA. Não é anergia.\nC) CORRETA. Definição correta.\nD) INCORRETA. Irrelevante ao mecanismo.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2126,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Infecções podem preceder surtos autoimunes em indivíduos geneticamente suscetíveis. Qual mecanismo é frequentemente citado nesse contexto?",
+    "opcoes": [
+      "A) Mimetismo molecular entre epítopos microbianos e estruturas do hospedeiro.",
+      "B) Eliminação completa da tolerância central em todos os indivíduos expostos.",
+      "C) Aumento exclusivo de IgD sérica.",
+      "D) Bloqueio permanente de todos os receptores Toll-like."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Mimetismo molecular é um elo plausível entre infecção e quebra de tolerância.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mecanismo clássico de ativação cruzada.",
+      "B": "Incorreta: generalização falsa.",
+      "C": "Incorreta: não é o núcleo do raciocínio.",
+      "D": "Incorreta: não descreve o fenômeno usualmente ensinado."
+    },
+    "explicacao": "Resumo: Mimetismo molecular liga infecção a autoimunidade.\nA) CORRETA. Mecanismo coerente.\nB) INCORRETA. Exagero absoluto.\nC) INCORRETA. Irrelevante.\nD) INCORRETA. Não é a explicação típica.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2128,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual opção lista exclusivamente mecanismos classicamente enquadrados como tolerância periférica?",
+    "opcoes": [
+      "A) Seleção positiva e negativa no timo fetal.",
+      "B) Edição de receptor na medula óssea exclusivamente.",
+      "C) Anergia, supressão por células reguladoras e deleção por ativação inadequada prolongada.",
+      "D) Rearranjo gênico inicial sem contato com antígeno."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Tolerância periférica inclui anergia, Treg e deleção por estímulo persistente em contexto inadequado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: eventos centrais no timo.",
+      "B": "Incorreta: foco central de linfócitos B, não lista de tolerância periférica.",
+      "C": "Correta: trinca clássica do material.",
+      "D": "Incorreta: não define tolerância periférica funcional."
+    },
+    "explicacao": "Resumo: Periferia: anergia, Treg, deleção.\nA) INCORRETA. Central, não periférica.\nB) INCORRETA. Não responde ao enunciado.\nC) CORRETA. Lista correta.\nD) INCORRETA. Conceito inadequado.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2132,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual mecanismo explica o efeito principal dos azóis (ex.: fluconazol) contra muitos fungos sensíveis?",
+    "opcoes": [
+      "A) Inibição da síntese de ergosterol na membrana fúngica.",
+      "B) Inibição da β-(1,3)-glucano sintetase.",
+      "C) Bloqueio da DNA girase fúngica.",
+      "D) Inibição da síntese de folato fúngico."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Azóis inibem a lanosterol 14α-desmetilase (CYP51), reduzindo ergosterol e alterando a membrana.",
+    "explicacoes_opcoes": {
+      "A": "Correta: depleção de ergosterol.",
+      "B": "Incorreta: equinocandinas atuam no glucano.",
+      "C": "Incorreta: não é o alvo clássico dos azóis.",
+      "D": "Incorreta: folato não é o mecanismo principal aqui."
+    },
+    "explicacao": "Resumo: Azóis reduzem ergosterol.\nA) CORRETA. Ergosterol.\nB) INCORRETA. Glucano é equinocandina.\nC) INCORRETA. Não é girase.\nD) INCORRETA. Não é folato.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2133,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Anfotericina B liga-se ao ergosterol na membrana fúngica. Qual efeito biofísico é mais associado à sua ação fungicida?",
+    "opcoes": [
+      "A) Inibição exclusiva da parede sem efeito na membrana.",
+      "B) Formação de poros que aumentam permeabilidade e perda de íons.",
+      "C) Bloqueio da transcriptase reversa viral.",
+      "D) Inibição da DNA girase bacteriana."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Anfotericina forma complexos com ergosterol e cria poros que dissipam gradiente iônico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o alvo principal é membrana lipídica.",
+      "B": "Correta: poros e permeabilidade.",
+      "C": "Incorreta: não é antirretroviral.",
+      "D": "Incorreta: não é quinolona."
+    },
+    "explicacao": "Resumo: Anfotericina forma poros na membrana fúngica.\nA) INCORRETA. Não é só parede.\nB) CORRETA. Poros e perda de permeabilidade seletiva.\nC) INCORRETA. Não é HIV.\nD) INCORRETA. Não é girase.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2138,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Paciente em uso prolongado de anfotericina B desoxicolato apresenta elevação de creatinina e hipocalemia. Qual toxicidade da classe é mais coerente com o quadro?",
+    "opcoes": [
+      "A) Ototoxicidade exclusiva sem envolvimento renal.",
+      "B) Nefrotoxicidade e distúrbios eletrolíticos (ex.: hipocalemia, hipomagnesemia).",
+      "C) Discrasia sanguínea isolada sem função renal.",
+      "D) Hepatotoxicidade fulminante universal em 100% dos casos."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Anfotericina B clássica associa-se a nefrotoxicidade e perdas tubulares de potássio e magnésio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: rim frequentemente envolvido.",
+      "B": "Correta: rim e eletrólitos.",
+      "C": "Incorreta: não é o padrão principal descrito.",
+      "D": "Incorreta: hepatotoxicidade não é universal."
+    },
+    "explicacao": "Resumo: Anfotericina: nefrotoxicidade e hipocalemia.\nA) INCORRETA. Rim pode estar afetado.\nB) CORRETA. Toxicidade renal e eletrolítica.\nC) INCORRETA. Padrão incorreto.\nD) INCORRETA. Não é universal hepático.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2140,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Paciente inicia voriconazol prolongado para aspergilose pulmonar. Qual monitorização laboratorial é mais relevante para toxicidade hepática da classe dos azóis?",
+    "opcoes": [
+      "A) TSH isolado sem transaminases.",
+      "B) Hemograma sem função hepática.",
+      "C) Transaminases hepáticas (AST/ALT) seriadas, conforme protocolo clínico.",
+      "D) Amilase exclusiva."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Azóis podem causar hepatotoxicidade; monitorar enzimas hepáticas em uso prolongado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tireoide não substitui monitor hepático.",
+      "B": "Incorreta: função hepática importa.",
+      "C": "Correta: AST/ALT.",
+      "D": "Incorreta: pâncreas não é o foco principal aqui."
+    },
+    "explicacao": "Resumo: Voriconazol: monitorar transaminases.\nA) INCORRETA. TSH não basta.\nB) INCORRETA. Ignorar fígado é inadequado.\nC) CORRETA. Enzimas hepáticas.\nD) INCORRETA. Amilase não é o foco.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2141,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Criança com diarreia aquosa e desidratação leve; exame de fezes com Giardia lamblia. Qual princípio terapêutico é mais adequado além da reidratação?",
+    "opcoes": [
+      "A) Antibiótico beta-lactâmico de amplo espectro empírico.",
+      "B) Tratamento antigiardíase com nitroimidazol (ex.: metronidazol), conforme esquema e peso.",
+      "C) Antiviral para influenza em todos os casos.",
+      "D) Apenas dieta zero sem medicação."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Giardíase trata-se com antiprotozoários como nitroimidazóis; reidratação é base.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: beta-lactâmico não trata Giardia.",
+      "B": "Correta: esquema antigiardíase clássico.",
+      "C": "Incorreta: não é influenza.",
+      "D": "Incorreta: tratamento etiológico frequentemente indicado."
+    },
+    "explicacao": "Resumo: Giardia: metronidazol ou alternativas conforme caso.\nA) INCORRETA. Beta-lactâmico inadequado.\nB) CORRETA. Nitroimidazol.\nC) INCORRETA. Não é antiviral de influenza.\nD) INCORRETA. Jejum não substitui tratamento.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2142,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual evento inicial é necessário para que uma resposta imune adaptativa se torne autoagressiva de forma sustentada na autoimunidade?",
+    "opcoes": [
+      "A) Perda de tolerância a autoantígenos com inflamação persistente.",
+      "B) Elevação isolada de hemoglobina sem inflamação.",
+      "C) Infecção urinária não complicada tratada precocemente.",
+      "D) Jejum prolongado isolado."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Autoimunidade clínica requer quebra de tolerância e ciclo inflamatório que alimenta dano tecidual.",
+    "explicacoes_opcoes": {
+      "A": "Correta: descreve o núcleo fisiopatológico.",
+      "B": "Incorreta: irrelevante ao tema.",
+      "C": "Incorreta: não define autoimunidade.",
+      "D": "Incorreta: não explica mecanismo imune descrito."
+    },
+    "explicacao": "Resumo: Quebra de tolerância + inflamação crônica.\nA) CORRETA. Conceito central.\nB) INCORRETA. Sem relação.\nC) INCORRETA. Fora do escopo.\nD) INCORRETA. Não aplicável.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2143,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual afirmação compara corretamente doença autoimune sistêmica e doença órgão-específica?",
+    "opcoes": [
+      "A) Sistêmica sempre afeta apenas um órgão isolado.",
+      "B) A sistêmica costuma combinar manifestações em múltiplos sistemas; a órgão-específica concentra o dano principal em um alvo.",
+      "C) Órgão-específica nunca pode ter repercussão sistêmica.",
+      "D) Não há diferença clínica entre os padrões."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O enquadramento sistêmico versus focal orienta hipóteses e monitorização.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte o conceito.",
+      "B": "Correta: distinção didática esperada.",
+      "C": "Incorreta: pode haver repercussões.",
+      "D": "Incorreta: há diferenças típicas de apresentação."
+    },
+    "explicacao": "Resumo: Sistêmica = multiorgânico; órgão-específica = foco principal.\nA) INCORRETA. Erro de definição.\nB) CORRETA. Comparação correta.\nC) INCORRETA. Afirmação absoluta falsa.\nD) INCORRETA. Incorreto.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2144,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Na fisiopatologia da autoimunidade, por que a inflamação crônica tende a perpetuar o dano?",
+    "opcoes": [
+      "A) Porque elimina imediatamente todos os autoanticorpos.",
+      "B) Porque reduz apresentação antigênica a zero.",
+      "C) Porque o tecido lesado libera novos autoantígenos e mantém estímulo imune em ciclo vicioso.",
+      "D) Porque bloqueia completamente o complemento."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Lesão expõe antígenos e sustenta a resposta, cronificando o processo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não descreve o ciclo.",
+      "B": "Incorreta: geralmente aumenta apresentação em inflamação.",
+      "C": "Correta: mecanismo de feedback patológico.",
+      "D": "Incorreta: não é o núcleo do raciocínio."
+    },
+    "explicacao": "Resumo: Ciclo lesão–antígeno–inflamação.\nA) INCORRETA. Falso.\nB) INCORRETA. Inverso do esperado.\nC) CORRETA. Explica cronificação.\nD) INCORRETA. Irrelevante ao ciclo descrito.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2146,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Na prática, o dano na autoimunidade pode ser mediado por diferentes braços. Qual alternativa resume melhor essa ideia?",
+    "opcoes": [
+      "A) O dano pode ser predominantemente humoral, celular ou misto, conforme a doença e a fase.",
+      "B) Somente IgE participa.",
+      "C) Somente neutrófilos participam.",
+      "D) Nunca há autoanticorpos nas doenças autoimunes."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Mecanismos incluem autoanticorpos, complexos, citotoxicidade e inflamação celular.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reflete a diversidade fisiopatológica.",
+      "B": "Incorreta: não é regra geral da autoimunidade.",
+      "C": "Incorreta: reducionismo falso.",
+      "D": "Incorreta: contradiz a literatura e o material."
+    },
+    "explicacao": "Resumo: Mecanismos múltiplos: humoral e/ou celular.\nA) CORRETA. Resumo correto.\nB) INCORRETA. Inadequado.\nC) INCORRETA. Inadequado.\nD) INCORRETA. Falso.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2147,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual padrão é mais típico de autoanticorpo citotóxico com opsonização ou lise de células-alvo?",
+    "opcoes": [
+      "A) Apenas urticária por calor.",
+      "B) Citopenias autoimunes ou lesão tecidual por anticorpos citotóxicos.",
+      "C) Infecção por helmintos exclusivamente.",
+      "D) Hipertrofia muscular isolada."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Anticorpos citotóxicos podem mediar destruição celular ou citopenias.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não define o mecanismo.",
+      "B": "Correta: exemplifica o padrão clássico.",
+      "C": "Incorreta: parasitose não é o foco aqui.",
+      "D": "Incorreta: irrelevante."
+    },
+    "explicacao": "Resumo: Citotoxicidade humoral: citopenia/opsinização.\nA) INCORRETA. Não relacionado.\nB) CORRETA. Exemplo adequado.\nC) INCORRETA. Fora do tema.\nD) INCORRETA. Sem relação.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2152,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Receptor de enxerto renal apresenta crossmatch positivo para anticorpos anti-HLA do doador. Qual implicação imunológica é mais direta?",
+    "opcoes": [
+      "A) Alto risco de rejeição humoral precoce por anticorpos pré-formados.",
+      "B) Garantia absoluta de tolerância ao enxerto sem imunossupressão.",
+      "C) Indicação exclusiva de rejeição exclusivamente celular tardia.",
+      "D) Ausência de participação do complemento na lesão endotelial."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Crossmatch positivo indica sensibilização prévia e risco elevado de reação humoral imediata contra o enxerto.",
+    "explicacoes_opcoes": {
+      "A": "Correta: coerente com anticorpos pré-existentes contra antígenos do doador.",
+      "B": "Incorreta: o achado aponta risco, não tolerância.",
+      "C": "Incorreta: o problema imediato é humoral, não apenas celular tardio.",
+      "D": "Incorreta: vias humorais frequentemente envolvem complemento e lesão endotelial."
+    },
+    "explicacao": "Resumo: Crossmatch + = risco de rejeição humoral precoce.\nA) CORRETA. Interpretação adequada.\nB) INCORRETA. Contradiz o achado.\nC) INCORRETA. Cronologia e mecanismo incorretos.\nD) INCORRETA. Fisiopatologia usual envolve complemento.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2153,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual par tempo–mecanismo descreve melhor a rejeição hiperaguda de enxerto?",
+    "opcoes": [
+      "A) Meses a anos, com fibrose lenta.",
+      "B) Minutos a horas, mediada por anticorpos pré-formados e ativação de complemento, com trombose/necrose precoce.",
+      "C) Semanas a meses, apenas por linfócitos T na ausência de anticorpos.",
+      "D) Anos após transplante, exclusivamente por infecção viral sem inflamação do enxerto."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Hiperaguda é reação imediata por imunidade humoral pré-existente contra o enxerto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve padrão crônico.",
+      "B": "Correta: janela temporal e mecanismo compatíveis.",
+      "C": "Incorreta: timing e exclusividade de T não caracterizam hiperaguda.",
+      "D": "Incorreta: cronologia e mecanismo incorretos."
+    },
+    "explicacao": "Resumo: Hiperaguda: imediata, anticorpo pré-formado.\nA) INCORRETA. Crônica, não hiperaguda.\nB) CORRETA. Descrição correta.\nC) INCORRETA. Não é o perfil clássico.\nD) INCORRETA. Incompatível com hiperaguda.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2155,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Homem transplantado há 3 anos apresenta perda progressiva de função do enxerto com fibrose e vasculopatia. Qual padrão de rejeição é mais compatível?",
+    "opcoes": [
+      "A) Hiperaguda imediata.",
+      "B) Aguda com início em 24 horas após cirurgia exclusivamente.",
+      "C) Infecção urinária não complicada como única explicação obrigatória.",
+      "D) Rejeição crônica, com remodelamento vascular e fibrose ao longo de meses a anos."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Rejeição crônica evolui lentamente com injúria vascular e fibrose do enxerto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: temporalmente incompatível.",
+      "B": "Incorreta: não descreve perda lenta tardia.",
+      "C": "Incorreta: não substitui o padrão de rejeição descrito.",
+      "D": "Correta: compatível com curso e achados."
+    },
+    "explicacao": "Resumo: Perda lenta: rejeição crônica.\nA) INCORRETA. Timing errado.\nB) INCORRETA. Não explica evolução de anos.\nC) INCORRETA. Hipótese insuficiente para o padrão.\nD) CORRETA. Melhor enquadramento.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2156,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Qual princípio resume o manejo da imunossupressão no transplante?",
+    "opcoes": [
+      "A) Equilibrar proteção do enxerto com risco infeccioso e toxicidade.",
+      "B) Imunossupressão máxima permanente independentemente de infecções.",
+      "C) Suspender toda imunossupressão após o primeiro mês em todos os pacientes.",
+      "D) Evitar qualquer monitorização laboratorial após alta."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O objetivo é imunossupressão suficiente para o enxerto, sem excesso que aumente infecção e efeitos adversos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reflete o balanço clínico central.",
+      "B": "Incorreta: ignora risco infeccioso e toxicidade.",
+      "C": "Incorreta: não é conduta padrão universal.",
+      "D": "Incorreta: seguimento é necessário."
+    },
+    "explicacao": "Resumo: Imunossupressão é dose e risco balanceados.\nA) CORRETA. Princípio correto.\nB) INCORRETA. Prática insegura.\nC) INCORRETA. Generalização falsa.\nD) INCORRETA. Negligência de cuidado.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2157,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "enunciado": "Durante hemotransfusão, paciente desenvolve febre intensa, calafrios, dor lombar e hipotensão imediata. Qual é a primeira medida?",
+    "opcoes": [
+      "A) Acelerar a infusão para 'lavar' o antígeno.",
+      "B) Interromper a transfusão, manter acesso venoso e acionar protocolo de reação aguda.",
+      "C) Administrar antitérmico e continuar a mesma bolsa sem pausa.",
+      "D) Apenas observar por 24 horas sem notificar o serviço de hemoterapia."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Suspeita de reação hemolítica aguda exige parar a bolsa imediatamente e estabilizar o paciente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: piora o dano.",
+      "B": "Correta: conduta inicial segura.",
+      "C": "Incorreta: continuar a bolsa é arriscado.",
+      "D": "Incorreta: negligencia evento potencialmente grave."
+    },
+    "explicacao": "Resumo: Reação grave na transfusão: parar e estabilizar.\nA) INCORRETA. Contraindicado.\nB) CORRETA. Prioridade de segurança.\nC) INCORRETA. Arriscado.\nD) INCORRETA. Inadequado.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2164,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Na sífilis secundária, qual achado é mais característico em relação à primária?",
+    "opcoes": [
+      "A) Úlcera genital dolorosa única",
+      "B) Abscesso de glândula de Bartholin como manifestação inicial",
+      "C) Manifestações cutâneas sistêmicas, frequentemente com rash e envolvimento palmoplantar",
+      "D) Ausência de qualquer sinal extracutâneo"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "A sífilis secundária dissemina hematogenicamente e costuma apresentar rash e achados sistêmicos, diferindo da lesão local da primária.",
+    "explicacoes_opcoes": {
+      "A": "Úlcera dolorosa isolada não é o padrão clássico da sífilis secundária.",
+      "B": "Abscesso de Bartholin não define a fase secundária da sífilis.",
+      "C": "Rash, linfadenopatia e lesões mucocutâneas, incluindo palmoplantar, são típicos da secundária.",
+      "D": "A secundária é justamente uma fase com expressão sistêmica, não apenas local."
+    },
+    "explicacao": "Resumo: A sífilis secundária dissemina hematogenicamente e costuma apresentar rash e achados sistêmicos, diferindo da lesão local da primária.\nA) INCORRETA. Úlcera dolorosa isolada não é o padrão clássico da sífilis secundária.\nB) INCORRETA. Abscesso de Bartholin não define a fase secundária da sífilis.\nC) CORRETA. Rash, linfadenopatia e lesões mucocutâneas, incluindo palmoplantar, são típicos da secundária.\nD) INCORRETA. A secundária é justamente uma fase com expressão sistêmica, não apenas local.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2165,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Homem com uretrite aguda e corrimento uretral purulento abundante. Qual associação etiológica é mais coerente com esse padrão?",
+    "opcoes": [
+      "A) Infecção fúngica ascendente como causa principal",
+      "B) Uretrite não gonocócica sem possibilidade de coinfecção",
+      "C) Prostatite bacteriana crônica como única hipótese",
+      "D) Neisseria gonorrhoeae como agente frequente de corrimento mais exuberante"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Uretrite purulenta chama atenção para gonorreia; coinfecção com clamídia é comum, mas o padrão purulento exuberante associa-se mais ao gonococo.",
+    "explicacoes_opcoes": {
+      "A": "Uretrite purulenta aguda não é o quadro típico de infecção fúngica uretral.",
+      "B": "Na prática, gonorreia e clamídia frequentemente coexistem; negar coinfecção é incorreto.",
+      "C": "O quadro descrito é agudo e uretral; não é o padrão clássico isolado de prostatite crônica.",
+      "D": "Gonococo é clássico em uretrite purulenta, com corrimento frequentemente mais exuberante que em muitos quadros de clamídia."
+    },
+    "explicacao": "Resumo: Uretrite purulenta chama atenção para gonorreia; coinfecção com clamídia é comum, mas o padrão purulento exuberante associa-se mais ao gonococo.\nA) INCORRETA. Uretrite purulenta aguda não é o quadro típico de infecção fúngica uretral.\nB) INCORRETA. Na prática, gonorreia e clamídia frequentemente coexistem; negar coinfecção é incorreto.\nC) INCORRETA. O quadro descrito é agudo e uretral; não é o padrão clássico isolado de prostatite crônica.\nD) CORRETA. Gonococo é clássico em uretrite purulenta, com corrimento frequentemente mais exuberante que em muitos quadros de clamídia.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2167,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Por que Chlamydia trachomatis pode causar grande dano reprodutivo mesmo quando o quadro clínico é pouco chamativo?",
+    "opcoes": [
+      "A) Porque produz sempre abscesso hepático de Fitz-Hugh-Curtis em toda infecção",
+      "B) Porque pode persistir de forma silenciosa e ascender, lesionando tubas ao longo do tempo",
+      "C) Porque não existe terapia antimicrobiana eficaz",
+      "D) Porque só ocorre em gestantes no terceiro trimestre"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Clamídia pode ser assintomática ou discreta, mas persiste e ascende, levando a cervicite, salpingite e sequelas tubárias.",
+    "explicacoes_opcoes": {
+      "A": "Fitz-Hugh-Curtis pode ocorrer, mas não em 100% dos casos; o ponto central é persistência e ascensão silenciosa.",
+      "B": "A persistência e a ascensão explicam sequela tubária apesar de quadro inicial discreto.",
+      "C": "Existem esquemas antimicrobianos eficazes; o problema é subdiagnóstico e persistência.",
+      "D": "Clamídia acomete sexualmente ativos de várias faixas etárias, não só gestantes tardias."
+    },
+    "explicacao": "Resumo: Clamídia pode ser assintomática ou discreta, mas persiste e ascende, levando a cervicite, salpingite e sequelas tubárias.\nA) INCORRETA. Fitz-Hugh-Curtis pode ocorrer, mas não em 100% dos casos; o ponto central é persistência e ascensão silenciosa.\nB) CORRETA. A persistência e a ascensão explicam sequela tubária apesar de quadro inicial discreto.\nC) INCORRETA. Existem esquemas antimicrobianos eficazes; o problema é subdiagnóstico e persistência.\nD) INCORRETA. Clamídia acomete sexualmente ativos de várias faixas etárias, não só gestantes tardias.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2168,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "O cancro duro da sífilis primária costuma ser descrito clinicamente como:",
+    "opcoes": [
+      "A) Vesículas agrupadas muito dolorosas",
+      "B) Úlcera com bordo violáceo e dor intensa local",
+      "C) Úlcera genital indolor, com base relativamente limpa",
+      "D) Pústula com crostas hemáticas e prurido intenso"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "O cancro duro é úlcera indolor, de base endurecida e limpa, com linfadenopatia regional; contraste com herpes doloroso.",
+    "explicacoes_opcoes": {
+      "A": "Vesículas dolorosas lembram mais herpes genital.",
+      "B": "Úlcera muito dolorosa não é o padrão clássico do cancro duro.",
+      "C": "Indolor e base limpa são pistas centrais da sífilis primária.",
+      "D": "Padrão pustular com crostas não descreve o cancro duro típico."
+    },
+    "explicacao": "Resumo: O cancro duro é úlcera indolor, de base endurecida e limpa, com linfadenopatia regional; contraste com herpes doloroso.\nA) INCORRETA. Vesículas dolorosas lembram mais herpes genital.\nB) INCORRETA. Úlcera muito dolorosa não é o padrão clássico do cancro duro.\nC) CORRETA. Indolor e base limpa são pistas centrais da sífilis primária.\nD) INCORRETA. Padrão pustular com crostas não descreve o cancro duro típico.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2169,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Na prática de uretrite e cervicite, por que muitas diretrizes preconizam cobertura para gonorreia e clamídia quando o contexto sugere IST?",
+    "opcoes": [
+      "A) Porque os dois agentes são anaeróbios obrigatórios no mesmo meio",
+      "B) Porque a clamídia só infecta após os 50 anos",
+      "C) Porque gonococo e clamídia nunca coexistem no mesmo paciente",
+      "D) Pela frequência de coinfecção e necessidade de cobrir ambos no manejo sindrômico"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Coinfecção gonococo/clamídia é frequente; tratar só um agente deixa doença ativa e risco de sequela.",
+    "explicacoes_opcoes": {
+      "A": "Gonococo é Gram-negativo aeróbio; clamídia é intracelular obrigatória; não são anaeróbios compartilhados assim.",
+      "B": "IST por clamídia é comum em adultos jovens sexualmente ativos.",
+      "C": "Coinfecção é bem descrita na literatura clínica.",
+      "D": "A cobertura combinada reflete epidemiologia e reduz falha terapêutica parcial."
+    },
+    "explicacao": "Resumo: Coinfecção gonococo/clamídia é frequente; tratar só um agente deixa doença ativa e risco de sequela.\nA) INCORRETA. Gonococo é Gram-negativo aeróbio; clamídia é intracelular obrigatória; não são anaeróbios compartilhados assim.\nB) INCORRETA. IST por clamídia é comum em adultos jovens sexualmente ativos.\nC) INCORRETA. Coinfecção é bem descrita na literatura clínica.\nD) CORRETA. A cobertura combinada reflete epidemiologia e reduz falha terapêutica parcial.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2174,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Em relação à erisipela, a celulite infecciosa costuma apresentar:",
+    "opcoes": [
+      "A) Bordas mais nítidas e processo mais superficial",
+      "B) Lesão sempre indolor",
+      "C) Acometimento mais difuso e profundo do subcutâneo",
+      "D) Predomínio exclusivo em face, sem outros sítios"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "Celulite envolve tecido subcutâneo de forma mais difusa; erisipela é mais superficial e delimitada.",
+    "explicacoes_opcoes": {
+      "A": "Borda nítida é mais típica de erisipela.",
+      "B": "Celulite costuma ser dolorosa e inflamada.",
+      "C": "A profundidade e a difusão são pistas para celulite.",
+      "D": "Celulite pode ocorrer em membros e outros sítios, não só face."
+    },
+    "explicacao": "Resumo: Celulite envolve tecido subcutâneo de forma mais difusa; erisipela é mais superficial e delimitada.\nA) INCORRETA. Borda nítida é mais típica de erisipela.\nB) INCORRETA. Celulite costuma ser dolorosa e inflamada.\nC) CORRETA. A profundidade e a difusão são pistas para celulite.\nD) INCORRETA. Celulite pode ocorrer em membros e outros sítios, não só face.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2176,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Durante exame de celulite, qual achado à palpação sugere coleção purulenta e pode mudar a conduta para além de antibiótico oral isolado?",
+    "opcoes": [
+      "A) Flutuação",
+      "B) Eritema exclusivamente periférico, sem calor",
+      "C) Prurido isolado sem calor",
+      "D) Descamação fina sem edema"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "Flutuação indica líquido/lus; abscesso pode exigir drenagem, não só antibioticoterapia.",
+    "explicacoes_opcoes": {
+      "A": "Flutuação é sinal clássico de coleção que pode necessitar drenagem.",
+      "B": "Eritema periférico pode ocorrer sem abscesso fechado.",
+      "C": "Prurido não substitui avaliação de coleção.",
+      "D": "Descamação não é equivalente a flutuação de abscesso."
+    },
+    "explicacao": "Resumo: Flutuação indica líquido/lus; abscesso pode exigir drenagem, não só antibioticoterapia.\nA) CORRETA. Flutuação é sinal clássico de coleção que pode necessitar drenagem.\nB) INCORRETA. Eritema periférico pode ocorrer sem abscesso fechado.\nC) INCORRETA. Prurido não substitui avaliação de coleção.\nD) INCORRETA. Descamação não é equivalente a flutuação de abscesso.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2178,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Por que a avaliação neurológica periférica é tão importante na suspeita de hanseníase?",
+    "opcoes": [
+      "A) Porque todo paciente apresenta crises convulsivas",
+      "B) Porque dor local é o achado mais sensível",
+      "C) Porque déficit sensitivo e nervos espessados orientam diagnóstico e prevenção de incapacidade",
+      "D) Porque não há envolvimento neural nas formas paucibacilares"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "O dano neurológico leva a trauma, úlcera e deformidade; examinar sensibilidade e nervos muda o valor do atendimento.",
+    "explicacoes_opcoes": {
+      "A": "Convulsão não é o eixo típico da hanseníase.",
+      "B": "Na hanseníase, perda sensitiva pode ocorrer com pouca dor local.",
+      "C": "Exame neurológico periférico identifica comprometimento precoce e guia prevenção de incapacidade.",
+      "D": "Formas paucibacilares podem ter comprometimento neural relevante."
+    },
+    "explicacao": "Resumo: O dano neurológico leva a trauma, úlcera e deformidade; examinar sensibilidade e nervos muda o valor do atendimento.\nA) INCORRETA. Convulsão não é o eixo típico da hanseníase.\nB) INCORRETA. Na hanseníase, perda sensitiva pode ocorrer com pouca dor local.\nC) CORRETA. Exame neurológico periférico identifica comprometimento precoce e guia prevenção de incapacidade.\nD) INCORRETA. Formas paucibacilares podem ter comprometimento neural relevante.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2179,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Homem com erisipela em tratamento; surgem dor desproporcional, progressão rápida da lesão e toxemia. Qual afirmação sobre vigilância é correta?",
+    "opcoes": [
+      "A) Sinais sistêmicos e progressão acelerada são irrelevantes",
+      "B) Linfangite descarta gravidade",
+      "C) Necrose cutânea nunca ocorre em infecção de pele",
+      "D) Esses achados exigem reavaliar gravidade e possível complicação além de infecção superficial simples"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Sinais de gravidade (toxemia, progressão rápida, dor desproporcional) mudam o nível de urgência e o espectro diagnóstico.",
+    "explicacoes_opcoes": {
+      "A": "Toxemia e progressão rápida são pistas de gravidade.",
+      "B": "Linfangite pode acompanhar infecções de pele mais agressivas.",
+      "C": "Infecções de partes moles podem evoluir com necrose em cenários graves.",
+      "D": "Dor desproporcional, progressão rápida e toxemia exigem reavaliar gravidade e possível complicação."
+    },
+    "explicacao": "Resumo: Sinais de gravidade (toxemia, progressão rápida, dor desproporcional) mudam o nível de urgência e o espectro diagnóstico.\nA) INCORRETA. Toxemia e progressão rápida são pistas de gravidade.\nB) INCORRETA. Linfangite pode acompanhar infecções de pele mais agressivas.\nC) INCORRETA. Infecções de partes moles podem evoluir com necrose em cenários graves.\nD) CORRETA. Dor desproporcional, progressão rápida e toxemia exigem reavaliar gravidade e possível complicação.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2181,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "O espectro clínico da hanseníase (paucibacilar versus multibacilar) depende principalmente de:",
+    "opcoes": [
+      "A) Ser causada por bactérias completamente diferentes",
+      "B) O paciente multibacilar nunca apresentar nervo espessado",
+      "C) A resposta imune do hospedeiro e a carga bacilar relativa, gerando apresentações distintas",
+      "D) A forma paucibacilar cursar sempre sem lesões cutâneas"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "O espectro de Ridley-Jopling reflete interação imune-hospedeiro e carga, não apenas 'uma' apresentação cutânea.",
+    "explicacoes_opcoes": {
+      "A": "O agente é o mesmo; muda o patrótipo imunológico e a carga.",
+      "B": "Nervo periférico pode ser acometido em diferentes formas.",
+      "C": "Resposta celular mais robusta associa-se a padrões paucibacilares; multibacilar costuma ter maior carga.",
+      "D": "Formas paucibacilares podem ter lesões cutâneas claras."
+    },
+    "explicacao": "Resumo: O espectro de Ridley-Jopling reflete interação imune-hospedeiro e carga, não apenas uma apresentação cutânea.\nA) INCORRETA. O agente é o mesmo; muda o patrótipo imunológico e a carga.\nB) INCORRETA. Nervo periférico pode ser acometido em diferentes formas.\nC) CORRETA. Resposta celular mais robusta associa-se a padrões paucibacilares; multibacilar costuma ter maior carga.\nD) INCORRETA. Formas paucibacilares podem ter lesões cutâneas claras.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2184,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Qual combinação reforça fortemente a hipótese de sarampo em relação a outras viroses exantemáticas comuns?",
+    "opcoes": [
+      "A) Exantema sem febre",
+      "B) Ausência de sintomas respiratórios",
+      "C) Febre alta associada a tosse, coriza e conjuntivite",
+      "D) Somente linfadenopatia inguinal isolada"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "Febre alta com tríade respiratória é muito mais sugestiva de sarampo do que de rubéola.",
+    "explicacoes_opcoes": {
+      "A": "Sarampo costuma cursar com febre alta.",
+      "B": "Tosse, coriza e conjuntivite são centrais no pródromo do sarampo.",
+      "C": "Pródromo respiratório intenso com febre alta é combinação clássica para sarampo.",
+      "D": "Linfonodo isolado não substitui o conjunto clínico."
+    },
+    "explicacao": "Resumo: Febre alta com tríade respiratória é muito mais sugestiva de sarampo do que de rubéola.\nA) INCORRETA. Sarampo costuma cursar com febre alta.\nB) INCORRETA. Tosse, coriza e conjuntivite são centrais no pródromo do sarampo.\nC) CORRETA. Pródromo respiratório intenso com febre alta é combinação clássica para sarampo.\nD) INCORRETA. Linfonodo isolado não substitui o conjunto clínico.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2186,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Em adulto não gestante, a rubéola costuma ser descrita, em comparação com muitos quadros de sarampo, como:",
+    "opcoes": [
+      "A) Sempre associada a choque séptico",
+      "B) Mais branda em intensidade sintomática",
+      "C) Impossível após qualquer dose de vacina no passado",
+      "D) Sempre com encefalite como primeira manifestação"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Rubéola frequentemente é mais suave no adulto não gestante; o risco maior na gestação é outro eixo clínico.",
+    "explicacoes_opcoes": {
+      "A": "Choque séptico não é o padrão clássico descrito para rubéola.",
+      "B": "Na comparação clássica, rubéola costuma ser mais branda no indivíduo não gestante que o sarampo.",
+      "C": "Imunização reduz risco, mas interpretação depende de esquema e resposta.",
+      "D": "Encefalite não é a primeira manifestação típica na maioria dos casos."
+    },
+    "explicacao": "Resumo: Rubéola frequentemente é mais suave no adulto não gestante; o risco maior na gestação é outro eixo clínico.\nA) INCORRETA. Choque séptico não é o padrão clássico descrito para rubéola.\nB) CORRETA. Na comparação clássica, rubéola costuma ser mais branda no indivíduo não gestante que o sarampo.\nC) INCORRETA. Imunização reduz risco, mas interpretação depende de esquema e resposta.\nD) INCORRETA. Encefalite não é a primeira manifestação típica na maioria dos casos.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2188,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "No sarampo, lactentes desnutridos ou muito jovens podem evoluir com complicações graves, incluindo:",
+    "opcoes": [
+      "A) Pneumonia, desidratação e, em alguns casos, acometimento neurológico",
+      "B) Apenas alteração cosmética do exantema",
+      "C) Pneumonia é impossível no sarampo",
+      "D) Somente artralgia, sem outras repercussões"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "explicacao_geral": "Sarampo não é apenas exantema; complicações respiratórias e outras são parte da gravidade em vulneráveis.",
+    "explicacoes_opcoes": {
+      "A": "Pneumonia e desidratação são complicações clássicas; encefalite pode ocorrer.",
+      "B": "Subestimar complicações em vulneráveis é erro clínico.",
+      "C": "Pneumonia bacteriana secundária é complicação frequente.",
+      "D": "Artralgia não resume o espectro de gravidade."
+    },
+    "explicacao": "Resumo: Sarampo não é apenas exantema; complicações respiratórias e outras são parte da gravidade em vulneráveis.\nA) CORRETA. Pneumonia e desidratação são complicações clássicas; encefalite pode ocorrer.\nB) INCORRETA. Subestimar complicações em vulneráveis é erro clínico.\nC) INCORRETA. Pneumonia bacteriana secundária é complicação frequente.\nD) INCORRETA. Artralgia não resume o espectro de gravidade.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2189,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Gestante com exantema leve e poucos sintomas sistêmicos. Qual afirmação sobre gravidade global é correta?",
+    "opcoes": [
+      "A) Quadro materno leve exclui risco fetal na rubéola",
+      "B) Rubéola gestacional só importa no terceiro trimestre",
+      "C) Exantema ausente exclui rubéola",
+      "D) Gravidade fetal pode ser alta mesmo com quadro materno aparentemente leve"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Rubéola pode ser branda na mãe e ainda assim ter impacto fetal; há contraste entre gravidade clínica materna e risco reprodutivo.",
+    "explicacoes_opcoes": {
+      "A": "Leveza materna não garante ausência de dano fetal em infecção teratogênica.",
+      "B": "Primeiro trimestre costuma ser o período de maior sensibilidade teratogênica para várias infecções.",
+      "C": "Casos subclínicos podem ocorrer; diagnóstico depende de laboratório e contexto.",
+      "D": "O risco fetal é o eixo central quando se fala de rubéola na gestação."
+    },
+    "explicacao": "Resumo: Rubéola pode ser branda na mãe e ainda assim ter impacto fetal; há contraste entre gravidade clínica materna e risco reprodutivo.\nA) INCORRETA. Leveza materna não garante ausência de dano fetal em infecção teratogênica.\nB) INCORRETA. Primeiro trimestre costuma ser o período de maior sensibilidade teratogênica para várias infecções.\nC) INCORRETA. Casos subclínicos podem ocorrer; diagnóstico depende de laboratório e contexto.\nD) CORRETA. O risco fetal é o eixo central quando se fala de rubéola na gestação.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2190,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Por que o estado vacinal é peça central em doenças exantemáticas imunopreveníveis?",
+    "opcoes": [
+      "A) Cartão vacinal é irrelevante após a infância",
+      "B) Imunização efetiva reduz drasticamente a probabilidade de doença e muda o diferencial diagnóstico",
+      "C) Vacinação não altera epidemiologia de surtos",
+      "D) Suspeita diagnóstica depende só do exame físico dermatológico"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Cobertura vacinal altera incidência e probabilidade pré-teste; integra clínica e vigilância.",
+    "explicacoes_opcoes": {
+      "A": "Vacinas de rotina mantêm relevância ao longo da vida.",
+      "B": "Imunidade comunitária e individual mudam o pré-teste para sarampo/rubéola.",
+      "C": "Campanhas e cobertura alteram surtos e circulação viral.",
+      "D": "O rash exige contexto epidemiológico e vacinal."
+    },
+    "explicacao": "Resumo: Cobertura vacinal altera incidência e probabilidade pré-teste; integra clínica e vigilância.\nA) INCORRETA. Vacinas de rotina mantêm relevância ao longo da vida.\nB) CORRETA. Imunidade comunitária e individual mudam o pré-teste para sarampo/rubéola.\nC) INCORRETA. Campanhas e cobertura alteram surtos e circulação viral.\nD) INCORRETA. O rash exige contexto epidemiológico e vacinal.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2192,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Após viagem, surto familiar de icterícia com suspeita de água potencialmente contaminada. Qual grupo de hepatites virais segue a lógica de transmissão fecal-oral?",
+    "opcoes": [
+      "A) Hepatites A e E",
+      "B) Hepatites B e C",
+      "C) Apenas hepatite D isolada",
+      "D) Vírus Epstein-Barr como hepatotropismo exclusivo"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "HAV e HEV são clássicos de via entérica; surtos hídricos/alimentares apontam para esse grupo.",
+    "explicacoes_opcoes": {
+      "A": "Hepatites A e E associam-se a transmissão fecal-oral e contextos sanitários.",
+      "B": "HBV e HCV têm vias parenterais/sexuais predominantes, não entéricas clássicas.",
+      "C": "HDV depende de HBV; não explica surto entérico isolado.",
+      "D": "EBV pode causar mononucleose com elevação hepática, mas não é o padrão de surto hídrico descrito."
+    },
+    "explicacao": "Resumo: HAV e HEV são clássicos de via entérica; surtos hídricos/alimentares apontam para esse grupo.\nA) CORRETA. Hepatites A e E associam-se a transmissão fecal-oral e contextos sanitários.\nB) INCORRETA. HBV e HCV têm vias parenterais/sexuais predominantes, não entéricas clássicas.\nC) INCORRETA. HDV depende de HBV; não explica surto entérico isolado.\nD) INCORRETA. EBV pode causar mononucleose com elevação hepática, mas não é o padrão de surto hídrico descrito.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2194,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Por que hepatites B e C têm peso particular na prática ambulatorial de longo prazo?",
+    "opcoes": [
+      "A) Nunca evoluem com doença hepática crônica",
+      "B) São exclusivamente transmitidas por via fecal-oral",
+      "C) Podem cronificar e progredir para doença hepática crônica, cirrose e complicações tardias",
+      "D) Curam espontaneamente em uma semana em todos os adultos"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "HBV e HCV podem persistir; o seguimento não termina na melhora sintomática aguda.",
+    "explicacoes_opcoes": {
+      "A": "Cronificação é exatamente o problema central.",
+      "B": "A via entérica é típica de A/E, não de B/C.",
+      "C": "Persistência viral e inflamação crônica explicam rastreio e manejo prolongado.",
+      "D": "Muitos pacientes ficam assintomáticos enquanto a doença progride."
+    },
+    "explicacao": "Resumo: HBV e HCV podem persistir; o seguimento não termina na melhora sintomática aguda.\nA) INCORRETA. Cronificação é exatamente o problema central.\nB) INCORRETA. A via entérica é típica de A/E, não de B/C.\nC) CORRETA. Persistência viral e inflamação crônica explicam rastreio e manejo prolongado.\nD) INCORRETA. Muitos pacientes ficam assintomáticos enquanto a doença progride.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2195,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Homem de 42 anos com elevação persistente de transaminases e antecedente remoto de exposição a sangue. Qual vírus deve constar fortemente no diferencial de hepatopatia crônica?",
+    "opcoes": [
+      "A) Hepatite A",
+      "B) Hepatite E aguda clássica",
+      "C) Parvovírus B19 como causa única e obrigatória",
+      "D) Hepatite C"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "HCV cronifica com frequência e pode ser silencioso; exposição sanguínea é pista epidemiológica.",
+    "explicacoes_opcoes": {
+      "A": "HAV não cronifica tipicamente.",
+      "B": "HEV costuma ser aguda; cronicidade depende de contexto, mas não é o padrão clássico de surto entérico.",
+      "C": "Parvovírus não é o primeiro eixo de hepatite crônica nesse enunciado.",
+      "D": "HCV é clássico de transmissão sanguínea e cronificação."
+    },
+    "explicacao": "Resumo: HCV cronifica com frequência e pode ser silencioso; exposição sanguínea é pista epidemiológica.\nA) INCORRETA. HAV não cronifica tipicamente.\nB) INCORRETA. HEV costuma ser aguda; cronicidade depende de contexto, mas não é o padrão clássico de surto entérico.\nC) INCORRETA. Parvovírus não é o primeiro eixo de hepatite crônica nesse enunciado.\nD) CORRETA. HCV é clássico de transmissão sanguínea e cronificação.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2196,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Qual via de transmissão predomina na hepatite C?",
+    "opcoes": [
+      "A) Parenteral e exposição a sangue",
+      "B) Fecal-oral em surtos hídricos familiares",
+      "C) Aerossol respiratório de longo alcance",
+      "D) Contato casual domiciliar sem troca de fluidos"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "HCV é principalmente transmitido por sangue e produtos sanguíneos; outras vias são menos eficientes.",
+    "explicacoes_opcoes": {
+      "A": "Exposição parenteral é o eixo clássico de transmissão de HCV.",
+      "B": "Essa via é típica de HAV/HEV.",
+      "C": "HCV não se transmite por aerossol.",
+      "D": "Contato casual não explica a maior parte dos casos."
+    },
+    "explicacao": "Resumo: HCV é principalmente transmitido por sangue e produtos sanguíneos; outras vias são menos eficientes.\nA) CORRETA. Exposição parenteral é o eixo clássico de transmissão de HCV.\nB) INCORRETA. Essa via é típica de HAV/HEV.\nC) INCORRETA. HCV não se transmite por aerossol.\nD) INCORRETA. Contato casual não explica a maior parte dos casos.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2198,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Sobre a fase aguda ictérica versus a história natural das hepatites B e C, qual afirmação é mais correta?",
+    "opcoes": [
+      "A) Melhora dos sintomas na fase aguda exclui necessidade de seguimento para hepatite B ou C",
+      "B) Icterícia na aguda prova que não haverá cronificação",
+      "C) A fase aguda pode ser exuberante, mas B e C podem cronificar ou permanecer inflamadas de forma persistente, mesmo após melhora clínica",
+      "D) Transaminases normais na primeira consulta excluem hepatite crônica para sempre"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "explicacao_geral": "Melhora clínica não substitui avaliação de cronificação e monitorização em vírus com potencial de persistência.",
+    "explicacoes_opcoes": {
+      "A": "Seguimento laboratorial e clínico é central em HBV/HCV.",
+      "B": "Melhora sintomática não exclui persistência viral.",
+      "C": "Hepatites B e C podem cronificar, com história natural prolongada e curso possivelmente silencioso.",
+      "D": "Hepatite crônica pode oscilar e exigir vigilância."
+    },
+    "explicacao": "Resumo: Melhora clínica não substitui avaliação de cronificação e monitorização em vírus com potencial de persistência.\nA) INCORRETA. Seguimento laboratorial e clínico é central em HBV/HCV.\nB) INCORRETA. Melhora sintomática não exclui persistência viral.\nC) CORRETA. Hepatites B e C podem cronificar, com história natural prolongada e curso possivelmente silencioso.\nD) INCORRETA. Hepatite crônica pode oscilar e exigir vigilância.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  },
+  {
+    "id": 2199,
+    "materia": "mad2",
+    "tema": "mad2_a8",
+    "modulo": 3,
+    "enunciado": "Entre as hepatites virais clássicas, qual tem transmissão sexual relevante documentada na prática?",
+    "opcoes": [
+      "A) Hepatite A como principal IST",
+      "B) Hepatite E como principal STI",
+      "C) Hepatite C exclusivamente por via sexual em todos os casos",
+      "D) Hepatite B"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "HBV é eficientemente transmitido por via sexual e sanguínea; HCV tem papel sexual menor e mais discutível em relação ao parenteral.",
+    "explicacoes_opcoes": {
+      "A": "HAV é entérico; transmissão sexual não é o eixo principal.",
+      "B": "HEV é entérico na forma clássica.",
+      "C": "HCV é majoritariamente parenteral; sexual não é a via principal.",
+      "D": "HBV é clássico em transmissão sexual e vertical."
+    },
+    "explicacao": "Resumo: HBV é eficientemente transmitido por via sexual e sanguínea; HCV tem papel sexual menor e mais discutível em relação ao parenteral.\nA) INCORRETA. HAV é entérico; transmissão sexual não é o eixo principal.\nB) INCORRETA. HEV é entérico na forma clássica.\nC) INCORRETA. HCV é majoritariamente parenteral; sexual não é a via principal.\nD) CORRETA. HBV é clássico em transmissão sexual e vertical.",
+    "aula_id": "mad2_a8",
+    "essencial": false
+  }
+]

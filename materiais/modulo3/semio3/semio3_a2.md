@@ -1,8 +1,8 @@
 # SEMIO3 — Aula 2: Exame Físico Abdominal — A Ordem que Salva
 
-O exame físico do abdome é um dos poucos lugares na medicina onde a ordem dos fatores altera o produto. Na prova, os temas centrais são a **Sequência Correta** do exame (auscultar antes de tocar), o reconhecimento dos **Sinais Peritoneais** (Blumberg) e as manobras para detectar **Líquido Livre** (Ascite).
+O exame físico do abdome é um dos poucos lugares na medicina onde a ordem dos fatores altera o produto. Na prova, os temas centrais são a **Sequência Correta** do exame (**auscultar antes de tocar**), o reconhecimento dos **Sinais Peritoneais** (Blumberg) e as manobras para detectar **Líquido Livre** (Ascite).
 
-Na prática, encostar a mão gelada no abdome de um paciente com dor sem avisar é o caminho mais rápido para um exame falso-positivo. O médico deve respeitar a ordem técnica para não "acordar" o intestino com a palpação, o que mascararia os ruídos naturais no estetoscópio.
+Na prática, encostar a mão gelada no abdome de um paciente com dor sem avisar é o caminho mais rápido para um exame falso-positivo. O médico deve respeitar a **ordem técnica** para não "acordar" o intestino com a palpação, o que mascararia os ruídos naturais no estetoscópio.
 
 ---
 
@@ -21,7 +21,7 @@ Diferente do tórax, no abdome a ordem é:
 1.  **Inspeção:** Olhar a forma (plano, globoso, em avental), cicatrizes e pulsações.
 2.  **Ausculta:** Ouvir os **Ruídos Hidroaéreos** (RHA). O normal é ouvir borbulhos. Se estiver em silêncio total, pode ser uma emergência (íleo paralítico).
 3.  **Percussão:** Identificar o **Timpanismo** (ar) e a **Macicez** (órgãos sólidos ou líquidos).
-4.  **Palpação:** Começar pela superficial (pele e gordura) e ir para a profunda (órgãos e massas). **Dica:** Sempre comece palpar longe do local onde o paciente diz que dói.
+4.  **Palpação:** Começar pela superficial (pele e gordura) e ir para a profunda (órgãos e massas). **Dica:** Sempre comece palpar **longe do local onde o paciente diz que dói**.
 
 ---
 
@@ -45,8 +45,8 @@ Para saber se o abdome globoso é gordura ou líquido, usamos:
 
 ## 4. O Toque Retal: Não é opcional
 
-Em casos de abdome agudo, o toque retal faz parte do exame físico abdominal superior.
-- **Por que fazer?** Pode detectar sangue escondido, tumores ou dor intensa no fundo de saco, o que ajuda a confirmar inflamações pélvicas ou apendicites baixas.
+Em casos de abdome agudo, o **toque retal** faz parte do exame físico abdominal superior.
+- **Por que fazer?** Pode detectar **sangue escondido**, tumores ou dor intensa no **fundo de saco**, o que ajuda a confirmar inflamações pélvicas ou apendicites baixas.
 
 ---
 

@@ -18,8 +18,8 @@ Na prática, o diagnóstico sindrômico orienta a conduta imediata (diurético, 
 ## Síndromes de Alta Incidência em Prova
 
 ### 1. Insuficiência Cardíaca Descompensada (Esq/Dir)
-- **Sinais de Alarme:** Ortopneia, Dispneia Paroxística Noturna (DPN).
-- **Achado Físico:** **Estertores Crepitantes Bibasais**, **B3**, Turgência Jugular e Edema de MMII.
+- **Sinais de Alarme:** **Ortopneia**, **Dispneia Paroxística Noturna (DPN)**.
+- **Achado Físico:** **Estertores Crepitantes Bibasais**, **B3**, **Turgência Jugular** e **Edema de MMII**.
 - **Diferencial:** Diferencia-se de pneumonia por ser bilateral e ter sinais sistêmicos (jugular/edema).
 
 ### 2. Síndrome Obstrutiva (Asma e DPOC)
@@ -47,7 +47,7 @@ Na prática, o diagnóstico sindrômico orienta a conduta imediata (diurético, 
 |---|---|---|
 | **IC Aguda** | Piora ao deitar | **B3** e Estertores basais. |
 | **Asma/DPOC** | "Aperto no peito" | **Sibilos** e Expiração longa. |
-| **Pneumonia** | Febre + Tosse | **Febre** e FTV aumentado. |
+| **Pneumonia** | Febre + Tosse | **Febre** e **FTV aumentado**. |
 | **Tep** | Início Súbito | Pulmão "limpo" no exame físico. |
 
 ---

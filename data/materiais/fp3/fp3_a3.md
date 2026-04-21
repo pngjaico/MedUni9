@@ -1,140 +1,91 @@
 # FP3 — Aula 3: Princípios de Farmacoterapia
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+A farmacoterapia é o encontro da ciência com a prescrição. Na prova, os temas centrais são a **Farmacocinética** (o que o corpo faz com o remédio — ADME) e a **Farmacodinâmica** (o que o remédio faz com o corpo), focando em conceitos como **Meia-Vida**, **Janela Terapêutica** e o papel do **Fígado** no metabolismo.
+
+Na prática, entender esses princípios evita que o médico prescreva doses tóxicas para pacientes com problemas nos **rins** ou no **fígado** e garante que o nível do remédio no sangue seja o ideal para a cura.
 
 ---
 
-## Relevância Clínica e Acadêmica
+### Figura sugerida
 
-Organiza prescrição segura por farmacocinética, farmacodinâmica e monitorização clínica.
+**Figura-ID:** `FP3-A3-F01`
 
-Esse conteúdo cai com frequência em questões de caso clínico. O padrão da banca é apresentar sintoma + exame simples e pedir o mecanismo principal.
+- **Momento:** Seção de farmacocinética vs farmacodinâmica.
+- **O que mostrar:** O "Caminho da Pílula": Um gráfico mostrando a concentração do remédio subindo no sangue (Farmacocinética) até atingir a **Janela Terapêutica** (onde funciona sem matar). Simultaneamente, um desenho do remédio se encaixando no **Receptor** como uma chave na fechadura (Farmacodinâmica).
+- **Tipo sugerido:** Infográfico didático | Gráfico de curva plasmática.
+- **Legenda (rascunho):** Integração entre a dinâmica de concentração e a ação nos receptores.
 
-## Conceito Central
+## 1. Farmacocinética: O Destino do Remédio (ADME)
 
-A escolha racional de fármaco depende de eficácia, segurança, contexto clínico e acompanhamento.
+O ciclo de vida de um fármaco no corpo segue 4 etapas obrigatórias:
+- **Absorção:** Como o remédio entra. A via **Intravenosa (IV)** tem 100% de **Biodisponibilidade** (entra tudo). Via oral perde um pouco no caminho devido ao estômago e ao **Efeito de Primeira Passagem** (o fígado "come" uma parte antes de chegar ao sangue).
+- **Distribuição:** Como ele viaja. Remédios viajam caronas em proteínas (como a **Albumina**). Se o paciente tem pouca albumina (doente do fígado ou desnutrido), sobra muito remédio "solto" no sangue, o que pode causar intoxicação.
+- **Metabolismo:** Como o corpo o transforma. Ocorre no fígado através do sistema **CYP450**. Alguns remédios precisam ser "ativados" pelo fígado para funcionar (**Pró-fármacos**).
+- **Excreção:** Como ele sai. Geralmente pelos **Rins** (urina) ou pelo sistema biliar (fezes).
 
-## Eixos Essenciais
+---
 
-- Identificar síndrome dominante antes de nomear a doença final.
-- Relacionar sinal clínico ao mecanismo fisiopatológico principal.
-- Diferenciar condição aguda de condição crônica no enunciado.
-- Reconhecer marcador de gravidade que muda conduta imediata.
+## 2. Farmacodinâmica: A Chave e a Fechadura
 
-## Tabela de Integração para Prova
+Os remédios agem se ligando a receptores nas células.
+- **Agonista:** Liga-se ao receptor e **Ativa** a resposta (abre a porta).
+- **Antagonista:** Liga-se ao receptor e **Bloqueia** (coloca um palito na fechadura para ninguém mais entrar).
+- **Potência vs Eficácia:** Potência é a dose necessária para ter um efeito; Eficácia é o efeito máximo que o remédio consegue dar. Entre dois remédios, o mais **Eficaz** costuma ser o melhor para o paciente.
 
-| Situação Clínica | Mecanismo Fisiopatológico | Dica de Raciocínio |
-|------------------|---------------------------|--------------------|
-| Idoso com DRC | Depuração reduzida | Ajuste de dose evita toxicidade |
-| Polifarmácia | Interação farmacodinâmica | Risco aumentado de evento adverso |
-| Janela terapêutica estreita | Pequena variação de dose | Monitorização obrigatória |
+---
 
-## Armadilhas que Mais Derrubam
+## 3. Conceitos de Ouro para a Prova
 
-- Começar pelo nome da doença sem fechar a síndrome.
-- Ignorar dado laboratorial simples que já aponta o mecanismo.
-- Confundir efeito terapêutico com efeito adverso da mesma classe.
-- Desconsiderar comorbidade que muda conduta (rim, fígado, risco trombótico).
-- Tratar marcador isolado sem interpretar contexto clínico.
+- **Meia-Vida (t 1/2):** É o tempo que o corpo leva para eliminar metade do remédio. É o que define de quantas em quantas horas o paciente deve tomar o comprimido.
+- **Estado de Equilíbrio (Steady State):** Ocorre após cerca de **4 a 5 Meias-Vidas**. É o momento em que a quantidade que entra é igual à que sai, e o remédio atinge seu efeito estável.
+- **Índice Terapêutico:** É a folga entre a dose que cura e a dose que mata. Remédios com **Índice Terapêutico Estreito** (como Digoxina, Lítio e Varfarina) são perigosos e exigem exames de sangue frequentes para monitorar o nível.
 
-## Fluxo de Decisão em 8 Passos
+---
 
-1. Defina o sistema-alvo principal.
-2. Classifique o processo como inflamatório, vascular, neoplásico ou farmacológico.
-3. Liste o mecanismo mais provável e um mecanismo alternativo.
-4. Compare com o exame laboratorial mais relevante.
-5. Busque sinal de gravidade imediata.
-6. Estabeleça diagnóstico sindrômico.
-7. Escolha conduta inicial segura.
-8. Planeje reavaliação de resposta.
+## 4. O Papel do Fígado e Rins
 
-## Casos de Fixação
+- **Insuficiência Hepática:** Altera o metabolismo. O remédio pode durar muito mais tempo no corpo e causar toxicidade.
+- **Insuficiência Renal:** Altera a saída. O médico deve sempre **Ajustar a Dose** baseando-se no "Clearance de Creatinina" do paciente. Se o rim não filtra bem, o remédio se acumula e intoxica.
 
-**Caso 1:** paciente com quadro clássico do tema e exame-chave alterado.  
-**Como pensar:** reconhecer síndrome dominante e excluir o principal diferencial cobrado.
-
-**Caso 2:** paciente em uso de medicamento da aula com evento adverso.  
-**Como pensar:** ligar receptor/alvo da droga ao efeito observado e ajustar estratégia.
-
-**Caso 3:** cenário de progressão rápida.  
-**Como pensar:** priorizar estabilização e só depois ampliar investigação etiológica.
-
-## Pontos-Chave para Prova
-
-- Mecanismo manda no raciocínio.
-- Síndrome manda na primeira decisão.
-- Gravidade manda na urgência da conduta.
-- Diferencial manda no acerto da questão.
-- Reavaliação manda na segurança terapêutica.
+---
 
 ## Ponte com a Clínica
 
-Na prática, o acerto vem de método, não de memória solta. Quando você organiza o caso por síndrome, mecanismo e gravidade, reduz erro diagnóstico e evita conduta precipitada.
+No ambulatório, você prescreverá **Varfarina** para um paciente com arritmia. Como ela tem um **Índice Terapêutico Estreito**, qualquer outro remédio que o paciente tome (como um antibiótico que afeta o CYP450 no fígado) pode desequilibrar a dose. O paciente pode começar a sangrar ou ter um coágulo porque a "velocidade" do metabolismo mudou. O médico deve sempre perguntar: "Quais outros remédios o senhor já toma?" antes de acrescentar qualquer substância nova.
 
-Esse mesmo método melhora desempenho em prova porque transforma enunciado confuso em sequência lógica de decisão.
+---
+
+## Pontos-Chave para Prova
+
+- **Biodisponibilidade**: Fração do fármaco que chega à circulação sistêmica.
+- **CYP450**: Principal conjunto de enzimas hepáticas responsáveis pelo metabolismo de fármacos.
+- **Volume de Distribuição (Vd)**: Indica se o fármaco fica no sangue ou vai para os tecidos (gordura).
+- **Janela Terapêutica**: Intervalo entre a concentração mínima eficaz e a concentração tóxica.
+- **Dose de Ataque**: Dose alta usada no início para atingir o nível terapêutico mais rápido.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Síndrome dominante:** define direção do caso.
-- **Mecanismo principal:** explica sinais e exames.
-- **Diferencial crítico:** evita confusão em alternativas parecidas.
-- **Sinal de gravidade:** muda urgência da conduta.
-- **Conduta inicial:** deve ser segura e justificada.
+Para gabaritar Farmacoterapia, foque nas definições. 
+**Farmacocinética** = Caminho (Absorção/Saída). **Farmacodinâmica** = Efeito (Receptor). Se a questão fala de um remédio que precisa de 5 dias para começar a funcionar direito, ela está falando do **Steady State** (4-5 meias-vidas). Se fala de um remédio perigoso que exige exame de sangue, o tema é **Índice Terapêutico Estreito**.
+
+A Uninove adora o **Efeito de Primeira Passagem**. Saiba que ele explica por que a dose de um remédio via oral é muito maior do que a via intravenosa. Outro ponto forte: o **Antagonismo Competitivo** (pode ser vencido aumentando a dose do agonista). Por fim, lembre-se: pacientes com pouca albumina (desnutridos) têm maior risco de intoxicação medicamentosa porque sobra mais remédio livre para agir nos tecidos.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico mostra adaptação e progressão |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera tecido |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução |
+| **Farmacocinética** | **Farmacodinâmica** | **Corpo faz c/ o fármaco** vs **Fármaco faz c/ o corpo** |
+| **Agonista** | **Antagonista** | **Ativa** o receptor vs **Bloqueia** o receptor |
+| **Via Oral** | **Via Intravenosa** | Sofre **1ª Passagem** vs **100% de Biodisponibilidade** |
+| **Potência** | **Eficácia** | Dose necessária vs **Efeito Máximo possível** |
+| **Meia-Vida** | **Clearence** | **Tempo** p/ cair 50% vs **Velocidade** de limpeza pelo rim |
 
 ### Frase-âncora para não esquecer
 
-> "Boa prescrição começa no mecanismo e termina no contexto do paciente."
-## Revisão Clínica Expandida
-
-### Erros que a banca força no enunciado
-
-- Trocar síndrome dominante por diagnóstico específico cedo demais.
-- Ignorar marcador laboratorial simples que já muda conduta.
-- Desconsiderar contexto de risco (idade, comorbidade, uso de fármacos).
-- Tratar achado isolado sem fechar mecanismo fisiopatológico.
-- Confundir gravidade clínica com duração do quadro.
-
-### Perguntas de checagem rápida
-
-- Qual é o mecanismo principal deste caso?
-- Qual achado mais fortalece esse mecanismo?
-- Qual diferencial mais próximo precisa ser descartado?
-- Há sinal de gravidade que muda urgência?
-- Qual conduta inicial é mais segura neste cenário?
-
-### Aplicação prática resumida
-
-- Em prova: primeiro feche a síndrome, depois escolha o mecanismo.
-- Em clínica: primeiro estabilize, depois refine etiologia.
-- Em farmacoterapia: ajuste pela função orgânica e risco individual.
-- Em seguimento: reavalie resposta e reclassifique risco.
-
-### Microtabela final de memorização
-
-| Chave | Lembrete |
-|------|----------|
-| Síndrome | Define direção inicial |
-| Mecanismo | Explica exame e sintoma |
-| Gravidade | Define urgência |
-| Conduta | Deve ser segura e justificável |
-| Reavaliação | Evita erro de manutenção |
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
-- Refor�o de revis�o cl�nica aplicado ao tema da aula.
+> "A cinética é a viagem, a dinâmica é o destino. No fígado o remédio se transforma, no rim ele se despede. O índice terapêutico é a margem de erro: quanto menor ele for, maior deve ser o seu cuidado."

@@ -9,7 +9,7 @@
 
 O entendimento da **eletricidade cardíaca** transcende a curiosidade teórica; ele é o alicerce para a interpretação de arritmias, bloqueios e a própria mecânica da bomba. Nesta aula, exploramos como o comportamento microscópico dos **canais iônicos** dita o ritmo macroscópico que observamos no **eletrocardiograma (ECG)**.
 
-Para a Uninove, o domínio deste tema exige a compreensão de mecanismos fundamentais: por que o **atraso no Nó AV** é vital para o enchimento ventricular e como o **Platô Ventricular** blinda o coração contra a **tetania**. O raciocínio clínico dependerá diretamente da sua capacidade de ligar essas fases moleculares às ondas do ECG.
+Para a Uninove, o domínio deste tema exige a compreensão de mecanismos fundamentais: por que o **atraso no Nó AV** é vital para o **enchimento ventricular** e como o **Platô Ventricular** blinda o coração contra a **tetania**. O raciocínio clínico dependerá diretamente da sua capacidade de ligar essas fases moleculares às ondas do ECG.
 
 ---
 
@@ -106,3 +106,9 @@ No miócito contrátil, o diferencial é a **Fase de Platô**. Mantida pela entr
 ### Frase-âncora para não esquecer
 
 > "O ritmo nasce no **SA**, descansa no **AV** e corre em **Purkinje** para ejetar com força."
+ de Na+ |
+| Célula marcapasso | Miócito contrátil | Marcapasso tem fase 4 espontânea; miócito tem repouso estável e platô |
+| PR prolongado | QRS alargado | PR prolongado indica atraso AV; QRS alargado sugere atraso de condução intraventricular |
+
+### Frase-âncora para não esquecer
+> "No coração, ritmo nasce no nó SA, passa pelo freio fisiológico do nó AV e só então ganha velocidade em Purkinje para contrair com eficiência."

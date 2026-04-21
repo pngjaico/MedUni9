@@ -17,7 +17,7 @@ Na prática médica, entender esses centros é vital para manejar pacientes com 
 
 O ritmo básico da respiração nasce no **Bulbo**, no chamado **Complexo pré-Bötzinger**, que funciona como o marca-passo respiratório fundamental. O **Grupo Respiratório Dorsal (GRD)** é o responsável por manter a inspiração basal, enquanto o **Grupo Respiratório Ventral (GRV)** só entra em ação quando precisamos de esforço extra, como no exercício, ativando os músculos acessórios.
 
-Acima do bulbo, a **Ponte** atua como um refinador do ritmo. O **Centro Pneumotáxico** é o principal "freio" da inspiração; ele limita a duração do fôlego e, consequentemente, aumenta a frequência respiratória. Sem essa modulação pontina, a respiração se tornaria irregular e entrecortada. É por isso que lesões em diferentes níveis do tronco encefálico geram padrões respiratórios anormais (como Cheyne-Stokes ou Biot), que são sinais clínicos preciosos na neurologia.
+Acima do bulbo, a **Ponte** atua como um refinador do ritmo. O **Centro Pneumotáxico** é o principal "freio" da inspiração; ele limita a duração do fôlego e, consequentemente, aumenta a frequência respiratória. Sem essa modulação pontina, a respiração se tornaria irregular e entrecortada. É por isso que lesões em diferentes níveis do tronco encefálico geram padrões respiratórios anormais (como **Cheyne-Stokes** ou **Biot**), que são sinais clínicos preciosos na neurologia.
 
 ### Organizadores do Ritmo
 
@@ -32,7 +32,7 @@ Acima do bulbo, a **Ponte** atua como um refinador do ritmo. O **Centro Pneumot�
 
 ## Controle Químico: Sensores Centrais e Periféricos
 
-Nosso principal gatilho para respirar não é a falta de oxigênio, mas o **Excesso de CO2**. Os **Quimiorreceptores Centrais** localizados no bulbo são extremamente sensíveis a variações de pH no Líquido Cefalorraquidiano (LCR). Como o CO2 atravessa a barreira hematoencefálica com facilidade e se transforma em ácido, ele é o grande maestro da ventilação em condições normais.
+Nosso principal gatilho para respirar não é a falta de oxigênio, mas o **Excesso de CO2**. Os **Quimiorreceptores Centrais** localizados no bulbo são extremamente sensíveis a variações de pH no **Líquido Cefalorraquidiano (LCR)**. Como o CO2 atravessa a barreira hematoencefálica com facilidade e se transforma em ácido, ele é o grande maestro da ventilação em condições normais.
 
 Já os **Quimiorreceptores Periféricos** (corpos carotídeos e aórticos) são os nossos "sensores de emergência". Eles respondem rapidamente à queda drástica do oxigênio (**PaO2 < 60 mmHg**) e a acidoses metabólicas (como na cetoacidose diabética). Enquanto o centro bulbar foca no controle fino do CO2, os periféricos salvam o organismo quando o oxigênio cai a níveis críticos ou quando o sangue se torna perigosamente ácido.
 
@@ -40,7 +40,7 @@ Já os **Quimiorreceptores Periféricos** (corpos carotídeos e aórticos) são 
 
 ## O Dilema do Paciente DPOC
 
-Em pacientes com **DPOC Retentor Crônico**, o centro respiratório se "acostuma" com níveis altos de CO2 ao longo dos anos. Nesses casos, o drive principal para respirar passa a ser a falta de oxigênio (drive hipóxico). Se um médico oferece oxigênio em excesso para esse paciente, o corpo entende que "tudo está bem" e diminui ainda mais o estímulo para respirar, o que pode levar a uma parada respiratória por depressão do drive.
+Em pacientes com **DPOC Retentor Crônico**, o centro respiratório se "acostuma" com níveis altos de CO2 ao longo dos anos. Nesses casos, o drive principal para respirar passa a ser a falta de oxigênio (**drive hipóxico**). Se um médico oferece oxigênio em excesso para esse paciente, o corpo entende que "tudo está bem" e diminui ainda mais o estímulo para respirar, o que pode levar a uma parada respiratória por depressão do drive.
 
 Por isso, na prática, o alvo de saturação para um paciente com DPOC grave é geralmente mais baixo (**88% a 92%**). Manter um pouco de hipoxemia é, paradoxalmente, a segurança de que o cérebro continuará mandando o comando para os pulmões funcionarem. É um ajuste fino entre oferecer oxigênio suficiente para os tecidos e não "desligar" o ventilador natural do paciente.
 

@@ -1,207 +1,88 @@
-﻿# Herança Poligênica e Bases Genéticas do Câncer
+# BCM1 — Aula 21: Herança Poligênica e Bases Genéticas do Câncer
 
-## Relevância Clínica e Acadêmica
+A maioria das doenças que tratamos (Diabetes, Hipertensão, Obesidade) não depende de um único gene, mas da soma de vários genes com o estilo de vida. Além disso, o **Câncer** é, em sua essência, uma doença genética (mutações no DNA). Na prova, o tema central é entender como o ambiente interage com a genética e como mutações em **Oncogenes** (aceleradores) e **Supressores de Tumor** (freios) levam ao câncer.
 
-A maioria das doenças comuns que o médico enfrenta na prática — hipertensão arterial, diabetes tipo 2, esquizofrenia, doença cardiovascular, asma — não segue padrões mendelianos simples. São doenças de herança complexa (poligênica/multifatorial), em que múltiplos genes de efeito pequeno interagem com fatores ambientais para determinar o risco individual. Essa herança cria um espectro contínuo de fenótipos e explica por que a predisposição genética pode ser alta sem que todos os parentes afetados. É a genética da maioria dos pacientes.
+Na prática, saber que o câncer leva anos para se formar a partir de pequenas mutações justifica o porquê de fazermos exames de rotina, como a **colonoscopia**, para tirar um pólipo antes que ele vire um tumor maligno.
 
-O câncer, por sua vez, é fundamentalmente uma doença genética adquirida: mutações somáticas em proto-oncogenes, supressores de tumor e genes de reparo do DNA se acumulam progressivamente em um clone celular, conferindo vantagem proliferativa e invasiva. Compreender esse processo de múltiplos golpes (multi-hit), a distinção entre mutações somáticas e germinativas, e os principais oncogenes e supressores de tumor é obrigatório para qualquer médico que trate pacientes oncológicos ou prescreva rastreamento de câncer.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A21-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de bases genéticas do câncer.
+- **O que mostrar:** O "Carro Desgovernado": Uma analogia clássica onde a célula é um carro. Os **Oncogenes** são o acelerador travado no máximo (um gene ruim basta). Os **Supressores de Tumor** são os freios (precisa que os dois freios quebrem para o carro bater). Quando os genes de **Reparo de DNA** param de trabalhar, o carro fica cheio de furos e defeitos.
+- **Tipo sugerido:** Infográfico didático (Analogia do Carro).
+- **Legenda (rascunho):** Como o acúmulo de mutações transforma uma célula normal em um câncer.
 
+## 1. Herança Multifatorial (Complexa)
 
-
-
----
-
-
-
-## Herança Poligênica/Multifatorial
-
-### Conceito e Modelo
-
-Na herança poligênica, o fenótipo resulta da soma dos efeitos de múltiplos loci, cada um contribuindo com um efeito pequeno. Quando fatores ambientais também contribuem, fala-se em herança **multifatorial**.
-
-**Modelo de limiar:** A suscetibilidade genética distribui-se de forma aproximadamente normal na população. Indivíduos que ultrapassam um limiar fenotipicamente crítico manifestam a doença. Trata-se do modelo para defeitos do fechamento do tubo neural, fenda palatina, cardiopatias congênitas simples e psicoses.
-
-**Implicações do modelo:**
-- Parentes de primeiro grau têm risco ~√h² × risco geral (onde h² = herdabilidade)
-- Quanto mais grave o caso índice, maior o risco de recorrência (ex: menino com fenda bilateral tem maior risco de recorrência na irmandade do que fenda unilateral)
-- Risco decreí com o grau de parentesco (1º > 2º > 3º grau)
-- Concordância em gêmeos monozigóticos é maior que em DZ, mas geralmente não é 100% (≠ doença mendeliana)
-
-### Herdabilidade (h²)
-
-Proporção da variância fenotípica atribuível a fatores genéticos na população.
-
-| Condição | Herdabilidade estimada |
-|----------|----------------------|
-| Estatura | ~80% |
-| IMC/Obesidade | 40–70% |
-| Hipertensão arterial | 30–50% |
-| DM tipo 2 | 40–80% |
-| Cardiopatia coronária | ~50% |
-| Esquizofrenia | ~80% |
-| Autismo | ~70–90% |
-| Fenda labial/palatina | ~75% |
-
-> **Dica:** Herdabilidade alta não significa que o ambiente não importa — significa que, na população estudada, as variações genéticas explicam mais das diferenças individuais do que as variações ambientais. Gêmeos monozigóticos discordantes para uma doença de h² alta mostram que o ambiente faz diferença.
-
-### GWAS — Genome-Wide Association Studies
-
-Em doenças complexas, os genes de susceptibilidade são identificados por GWAS: comparação da frequência de SNPs (polimorfismos de nucleotídeo único) entre casos e controles em escala genômica. Cada SNP associado contribui pouco (odds ratio típico: 1,1–1,3). A soma de muitos SNPs constitui um **escore poligênico de risco (PRS — Polygenic Risk Score)**.
-
-**Aplicação clínica em desenvolvimento:** PRS para doença coronariana, DM2, CA mama — ainda com uso clínico limitado (falta de calibração em populações diversas, valor incremental sobre fatores de risco convencionais).
+Diferente das doenças de Mendel (sim ou não), aqui existe um "**limiar**".
+- **O Modelo:** Você vai herdando "pontos" de risco dos seus pais. Se você herdar muitos pontos e ainda tiver um estilo de vida ruim (**sedentarismo**, **fumo**), você ultrapassa o **Limiar** e fica doente.
+- **Exemplos:** **Hipertensão**, **Esquizofrenia**, **Autismo** e **Diabetes Tipo 2**.
+- **Dica de Prova:** Quanto mais grave é o caso na família (ex: um irmão com fenda labial nos dois lados do rosto), maior é o risco de o próximo irmão nascer com o problema.
 
 ---
 
-## Bases Genéticas do Câncer
+## 2. Oncogenes e Supressores: O Acelerador e o Freio
 
-### Câncer como Doença Genética Somática
-
-O câncer resulta do acúmulo de mutações somáticas em uma única célula (clonalidade) que conferem vantagem seletiva progressiva: divisão ilimitada, resistência à morte, invasão e metástase. O processo é multistep — múltiplos golpes ao longo de anos a décadas.
-
-**Sequência adenoma–carcinoma coloretal (Fearon e Vogelstein, 1990):** modelo paradigmático.
-Epitélio normal → APC mutada → adenoma pequeno → KRAS mutado → adenoma avançado → SMAD4/TP53 mutado → carcinoma → metástase.
-Cada passo representa uma vantagem clonal adicional.
-
-### Oncogenes
-
-Proto-oncogenes codificam proteínas pró-proliferativas normais (fatores de crescimento, receptores, transdutores de sinal, fatores de transcrição). Quando mutados ou amplamente expressos, tornam-se **oncogenes** — promovem proliferação constitutiva.
-
-**Mecanismos de ativação:**
-
-| Mecanismo | Exemplo | Resultado |
-|-----------|---------|----------|
-| Mutação pontual ativadora | *KRAS* G12D (70% do câncer de pâncreas) | RAS constitutivamente ativo → sinalização proliferativa irrestrita |
-| Amplificação gênica | *HER2/ERBB2* em câncer de mama | Produção excessiva do receptor → sinalização constitutiva |
-| Translocação cromossômica | t(9;22) BCR-ABL1 | Quinase constitutivamente ativa → LMC |
-| Superexpressão por translocação do promotor | t(8;14) MYC-IGH | c-Myc hiperproduzido → transcrição massiva de genes proliferativos |
-
-**Oncogenes importantes:**
-
-| Oncogene | Via/Função | Câncer associado |
-|---------|-----------|-----------------|
-| *RAS* (KRAS, NRAS, HRAS) | Via MAPK, PI3K | Pâncreas (90%), cólon (40%), pulmão (30%) |
-| *MYC* | Fator de transcrição | Burkitt, câncer de mama, pulmão |
-| *HER2/ERBB2* | RTK (receptor tirosina quinase) | Mama (15–20%), gástrico (10–15%) |
-| *BCR-ABL* | Quinase | LMC, LLA Ph+ |
-| *BRAF V600E* | Via MAPK | Melanoma (50%), tireoide papilar (40%) |
-| *ALK* (fusão EML4-ALK) | RTK | Adenocarcinoma pulmão (5%) |
-
-> **Regra dos oncogenes:** ganho de função; agem de forma dominante (uma cópia mutada basta); mais tipicamente somáticos (raramente germinativos).
-
-### Genes Supressores de Tumor
-
-Supressores de tumor bloqueiam a proliferação ou promovem apoptose. **Precisam de dois golpes** (teoria de Knudson) para serem inativados — a perda de um no câncer esporádico ocorre por mutação/deleção e a perda do segundo por LOH (loss of heterozygosity), metilação ou nova mutação.
-
-**Supressores clássicos:**
-
-| Gene | Proteína | Via | Cânceres |
-|------|---------|-----|---------|
-| *TP53* | p53 | Checkpoint G1, apoptose | 50% de TODOS os cânceres |
-| *RB1* | Retinoblastoma | Checkpoint G1/S | Retinoblastoma, sarcomas |
-| *APC* | Supressor WNT/β-catenina | Regulação do desenvolvimento | Cólon (FAP, esporádico) |
-| *BRCA1/2* | HRR (DSB repair) | Reparo de DNA | Mama, ovário, pâncreas, próstata |
-| *PTEN* | Fosfatase inibidora de PI3K | Via PI3K/AKT | Endométrio, mama, próstata, glioblastoma |
-| *VHL* | Regulação de HIF-1α | Adaptação hipóxica | Carcinoma renal de células claras |
-| *CDKN2A/p16* | Inibidor de CDK4/6 | Checkpoint G1 | Melanoma, pâncreas, pulmão |
-| *SMAD4* | Via TGF-β | Inibição de crescimento | Pâncreas, cólon |
-
-### Genes de Estabilidade do Genoma (Caretakers)
-
-Reparadores de DNA que, quando defeituosos, permitem o acúmulo acelerado de mutações nos demais genes (oncogenes e supressores).
-
-- **MMR (MLH1, MSH2, MSH6, PMS2):** Lynch → MSI-H → acúmulo rápido de mutações em microssatélites
-- **NER (XPA-XPG):** Xeroderma Pigmentoso → mutações por UV
-- **BRCA1/2:** HRR → instabilidade de DSBs
-- **MUTYH:** BER → PAP associada a MUTYH (AR)
-
-### Oncogênese em Múltiplos Golpes
-
-Na prática clínica, o modelo de Fearon-Vogelstein para cáncer colorretal ilustra os múltiplos golpes:
-
-1. APC inativada → adenoma plano (desregulação WNT)
-2. KRAS ativada → adenoma tubular (sinalização MAPK irrestrita)
-3. SMAD4 inativada → crescimento descontrolado (perda de inibição por TGF-β)
-4. TP53 inativada → instabilidade genômica, apoptose reduzida
-5. Alterações adicionais → invasão e metástase
-
-**Tempo estimado:** a progressão de epitélio normal a carcinoma in situ leva tipicamente 10–15 anos → janela para rastreamento com colonoscopia (extirpar pólipos antes da transformação).
-
-### Câncer Hereditário vs. Esporádico
-
-| Característica | Hereditário | Esporádico |
-|---------------|-------------|-----------|
-| Proporção dos cânceres | ~5–10% | ~90–95% |
-| Mutação inicial | Germinativa (em todas as células) | Somática (na célula precursora) |
-| Golpes necessários | 1 somático adicional (Knudson) | 2 somáticos na mesma célula |
-| Início | Mais precoce | Mais tardio |
-| Lateralidade/multifocalidade | Bilateral / múltiplos tumores | Unilateral / espórádico |
-| Exemplo | Retinoblastoma hereditário, Lynch, PAF, BRCA | Adenocarcinoma de cólon esporádico |
+O câncer acontece porque o controle da divisão celular quebra.
+- **Oncogenes (O Acelerador):** São genes que, quando sofrem mutação, ficam "ligados" o tempo todo, mandando a célula se dividir sem parar. Basta **um único gene** estragado para causar problemas. Ex: ***KRAS*** e ***HER2***.
+- **Supressores de Tumor (O Freio):** São genes que tentam parar a divisão celular se algo estiver errado. Para eles pararem de funcionar, você precisa que **os dois** (o que veio do pai e o da mãe) estejam quebrados. Ex: ***TP53*** (o guardião do genoma) e ***BRCA1/2***.
 
 ---
 
-## Pontos-Chave
+## 3. A Teoria dos Dois Golpes (Knudson)
 
-- **Herança poligênica:** múltiplos genes + ambiente; distribuição normal do fenótipo; modelo de limiar
-- **Herdabilidade (h²):** proporção da variância fenotípica atribuída à genética; não é destino imutável
-- **GWAS + PRS:** identificam variantes de small effect para doenças complexas; PRS ainda com uso clínico limitado
-- **Oncogene:** proto-oncogene mutado/amplificado/translocado → atividade proliferativa constitutiva; dominante
-- **KRAS:** oncogene mais frequente em cânceres humanos; G12D/G12V; constitutivamente ativo → sem resposta a EGFR-i
-- **Supressor de tumor:** dois golpes (Knudson); RB1, TP53, APC, BRCA1/2, PTEN, VHL
-- **Caretakers (MMR, NER, BRCA):** defeitos permitem acúmulo acelerado de mutações (instabilidade genômica)
-- **Sequência adenoma-carcinoma:** APC → KRAS → SMAD4 → TP53 → progressão; 10–15 anos
-- **Hereditário:** mutação germinativa → 1 golpe a mais; bilateral/precoce/múltiplo; 5–10% dos cânceres
-- **Esporádico:** 2 golpes somáticos; 90–95%
+Muitas pessoas nascem com um "golpe" (uma mutação herdada do pai). Elas são normais, mas estão a apenas **um passo** de ter câncer. Se a célula sofrer um segundo golpe (uma mutação por radiação ou cigarro), o câncer aparece. É por isso que famílias com mutação no gene **BRCA** têm tanto câncer de mama e ovário.
+- **Teoria dos Dois Golpes (Knudson):** Explica por que o câncer hereditário aparece muito mais cedo que o esporádico.
+
+## 4. Rastreamento: Cortando o Mal pela Raiz
+
+O câncer de intestino (cólon) é o exemplo perfeito. Ele começa como um pequeno pólipo (adenoma) e leva de **10 a 15 anos** para virar um câncer de verdade.
+- **Mecanismo:** Começa com uma mutação no gene **APC**, depois no **KRAS**, e finalmente no **TP53**.
+- **Prevenção:** Se o médico faz uma colonoscopia e tira o pólipo, ele interrompe essa sequência de mutações antes que o câncer apareça.
 
 ---
 
 ## Ponte com a Clínica
 
-**Rastreamento de cólon:** colonoscopia a partir de 45 anos na população geral (USPSTF 2021); a partir de 25–40 em síndrome de Lynch; a partir de 10–15 anos em PAF. Extirpação de pólipo adenomatoso corta a sequência adenoma-carcinoma.
+Na oncologia moderna, não tratamos apenas o "tipo" de câncer, mas a "mutação" que ele tem. Se um paciente tem câncer de pulmão e o exame mostra que ele tem uma mutação no gene **ALK**, podemos dar um remédio específico que ataca apenas as células com esse erro. Isso é a **Medicina de Precisão**: o tratamento é desenhado para o defeito genético exato daquele paciente, sendo muito mais eficaz e com menos efeitos colaterais que a quimioterapia comum.
 
-**KRAS e anti-EGFR:** Paciente com adenocarcinoma coloretal metastático → solicitar KRAS/NRAS/BRAF V600E. Se KRAS mutado → cetuximabe e panitumumabe (anti-EGFR) SÃO INEFICAZES (RAS downstream está sempre ativo independente de EGFR). Só tratar com anti-EGFR se RAS e BRAF wild-type.
+---
 
-**Câncer de mama HER2+:** amplificação de *HER2* → superexpressão de HER2 → alvo para trastuzumabe, pertuzumabe, T-DM1, tucatinibe. Biópsia + imunoistoquímica (IHC) + FISH confirmam.
+## Pontos-Chave para Prova
 
-**BRAF V600E no melanoma:** >50% dos melanomas têm BRAF V600E → dabrafenibe + trametinibe (inibidor BRAF + MEK) → resposta objetiva em ~70%; combinação com imunoterapia prolonga sobrevida.
-
-**Escore Poligênico de Risco (PRS):** em desenvolvimento para triagem de câncer hereditário não-sindrômico. Em hipercolesterolemia familiar, pode complementar o diagnóstico em cerca de 15% dos pacientes com LDL muito alto sem mutação identificada. Ainda fase de pesquisa clínica.
+- **Herança Multifatorial**: Soma de **vários genes + ambiente**.
+- **Oncogenes**: Atuam como **Dominantes** (apenas 1 golpe basta). Ex: *KRAS*.
+- **Supressores de Tumor**: Atuam como **Recessivos** (precisa de 2 golpes - Knudson). Ex: *TP53*.
+- **TP53**: Chamado de **Guardião do Genoma** (ele manda a célula se matar se o DNA estiver muito estragado).
+- **Sequência Adenoma-Carcinoma**: **APC -> KRAS -> TP53**.
+- **Hereditário vs Esporádico**: Câncer hereditário (5-10%) começa mais cedo e em vários lugares (bi-lateral).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Herança multifatorial:** múltiplos genes + ambiente; distribuição normal; modelo de limiar
-- **Herança complexa:** DM2, HAS, cardiopatia coronária, esquizofrenia, autismo
-- **Oncogene = ganho de função:** basta UM alelo mutado (dominante); KRAS, HER2, BCR-ABL, MYC
-- **Supressor de tumor = perda de função:** precisam de DOIS golpes (Knudson); TP53, RB1, APC, BRCA
-- **KRAS mutado → anti-EGFR ineficaz no CCR** — questão-padrão de oncologia
-- **Sequência adenoma-carcinoma: APC → KRAS → SMAD4 → TP53** (CCR)
-- **Hereditário:** germinativo, precoce, bilateral, múltiplo, 5–10%
-- **Esporádico:** somático, tardio, 90–95%
-- **MSI-H:** defeito MMR → Lynch; pembrolizumabe funciona em MSI-H de qualquer órgão
-- **HER2 amplificado:** mama, gástrico; trastuzumabe
+
+Para gabaritar Genética do Câncer, foque na diferença entre os genes. 
+A Uninove adora perguntar qual gene precisa de "dois golpes" para falhar: a resposta são os **Supressores de Tumor** (como o *RB1* do olho ou o *APC* do intestino). Já os **Oncogenes** (como o *KRAS*) são como um interruptor quebrado na posição "ligado": basta um para a bagunça começar.
+
+Lembre-se da ordem do câncer de intestino: o primeiro gene a quebrar é o **APC**. Outra questão certa é sobre o **KRAS** e o tratamento: se o câncer de intestino tem mutação no gene *KRAS*, alguns remédios caros (anticorpos anti-EGFR) **NÃO funcionam**, porque o acelerador já está travado lá na frente. Por fim, lembre-se que fenda palatina e diabetes são exemplos de herança **Multifatorial**, onde o risco de recorrência na família é maior quanto mais parentes estiverem doentes.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Oncogene | Supressor de tumor | Oncogene = ganho função, 1 alelo basta; Supressor = perda função, 2 alelos necessários (Knudson) |
-| Herança poligênica | Herança AR/AD | Poligênica = múltiplos genes + ambiente, fenótipo contínuo; AR/AD = 1 gene, fenótipo discreto |
-| Mutação somática | Mutação germinativa | Somática = adquirida em UMA célula; Germinativa = em TODAS as células; Herdável = germinativa |
-| MSI-H (Lynch) | CIN (PAF) | MSI-H = MMR defeituoso, microsatélites instáveis, Lynch; CIN = instabilidade cromossômica, PAF (APC) |
-| Caretaker | Gatekeeper | Caretaker = reparo DNA (BRCA, MMR); Gatekeeper = regulação do ciclo/crescimento (RB, APC, TP53) |
+| **Oncogene** | **Supressor de Tumor** | Acelerador (1 golpe) vs **Freio (2 golpes - Knudson)** |
+| **Mendeliano** | **Multifatorial** | Regra clara (25%/50%) vs **Risco por "limiar" e Ambiente** |
+| **Hereditário** | **Esporádico** | **Precoce e Bilateral** vs **Tardio e Unilateral** |
+| **APC** | **TP53** | O primeiro a quebrar no cólon vs **O "Guardião" que quebra no final** |
+| **Mutação Somática** | **Mutação Germinativa** | Só no tumor (não passa pro filho) vs **Em todas as células (Passa pro filho)** |
 
 ### Frase-âncora para não esquecer
-> "Câncer = revolução celular em múltiplos golpes: os oncogenes são os aceleradores que travam no máximo (1 alelo basta para pisar fundo); os supressores são os freios que precisam ser destruídos DOIS VEZES antes de parar de funcionar. Quando os caretakers (reparadores) também quebram, as mutações se acumulam na velocidade do furacão."
+
+> "O acelerador (oncogene) só precisa de um pé; o freio (supressor) precisa que os dois quebrem pra você perder a fé. No câncer de cólon o APC é o portão; e no multifatorial o ambiente é o vilão."

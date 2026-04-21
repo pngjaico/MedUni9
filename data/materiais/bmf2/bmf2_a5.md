@@ -77,10 +77,18 @@ As **Fibras de Purkinje** são queridinhas de bancas; identifique-as pelo citopl
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Desmossomos** | **Gap Junctions** | Adesão **Mecânica** vs Comunicação **Elétrica** |
-| **Miócito Contrátil** | **Fibra de Purkinje** | Muita actina/miosina vs Muito Glicogênio (condução) |
+| **Miócito Contrátil** | **Fibra de Purkinje** | Muita actina/miosina vs Muito **Glicogênio** (condução) |
 | **Endocárdio** | **Mesotélio (Epicárdio)** | Camada Interna vs Camada Externa |
 | **Miocardite** | **Endocardite** | Inflamação do músculo vs Infecção da valva/parede interna |
 
 ### Frase-âncora para não esquecer
 
+> "No coração, cada detalhe microscópico vira consequência elétrica, mecânica ou clínica."
+elâmpago de 1 minuto
+
+Se o enunciado trouxer vegetação valvar e êmbolo, localize a lesão no endocárdio. Se trouxer queda de contratilidade pós-isquemia, priorize miocárdio e necrose de cardiomiócitos. Se trouxer dor pleurítica com atrito, pense em serosa epicárdica/pericárdio visceral.
+
+Quando aparecer arritmia em contexto estrutural, procure duas chaves histológicas: junções celulares (discos intercalares) e fibrose cicatricial. Essa dupla explica boa parte das questões integradas entre histologia e clínica.
+
+### Frase-âncora para não esquecer
 > "No coração, cada detalhe microscópico vira consequência elétrica, mecânica ou clínica."

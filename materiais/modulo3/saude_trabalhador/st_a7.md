@@ -7,9 +7,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-Estabelecer nexo causal é uma das tarefas mais sensíveis da saúde do trabalhador. A decisão influencia conduta clínica, notificação, emissão de CAT, reconhecimento previdenciário e estratégias de prevenção no serviço.
+Estabelecer **nexo causal** é uma das tarefas mais sensíveis da saúde do trabalhador. A decisão influencia conduta clínica, notificação, emissão de **CAT**, reconhecimento previdenciário e estratégias de prevenção no serviço.
 
-A prova costuma apresentar caso ambíguo e pedir o raciocínio correto: distinguir coincidência temporal de causalidade, analisar exposição, plausibilidade biológica e coerência epidemiológica.
+A prova costuma apresentar caso ambíguo e pedir o raciocínio correto: distinguir coincidência temporal de causalidade, analisar exposição, **plausibilidade biológica** e coerência epidemiológica.
 
 ### Figura sugerida
 

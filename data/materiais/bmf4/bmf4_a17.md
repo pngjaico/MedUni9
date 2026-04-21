@@ -1,159 +1,90 @@
-# BMF4 — Aula 17: Órgãos dos Sentidos
+# BMF4 — Aula 17: Órgãos dos Sentidos — As Portas da Percepção
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+Os órgãos dos sentidos são transdutores: eles pegam luz, som ou cheiro e transformam em eletricidade para o cérebro. Na prova, os temas centrais são a **Visão** (retina e quiasma), a **Audição** (surdez condutiva vs neurossensorial) e o sistema de **Equilíbrio** (canais semicirculares).
+
+Na prática, o médico usa os sentidos do paciente para localizar doenças. Se um paciente perde a visão nas laterais (**Hemianopsia Bitemporal**), o problema pode ser um tumor esmagando o nervo no centro do crânio. Se ele sente o mundo girar ao deitar (**VPPB**), o problema são cristais soltos dentro do labirinto. Entender a anatomia fina dessas estruturas é o que diferencia um diagnóstico certeiro de um erro comum.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Olho, ouvido, nariz e língua são os órgãos que traduzem o mundo físico em sinais neurais. Cada um tem uma estrutura especial que faz essa tradução — e cada um tem síndromes clínicas específicas que a Uninove cobra. A perda visual por glaucoma, a surdez neurossensorial vs condutiva, o nistagmo em lesão vestibular, o anosmia em fratura de lâmina cribriforme — tudo começa na anatomia e histologia desses órgãos.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A17-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de vias ópticas.
+- **O que mostrar:** O "Mapa da Visão": Um esquema mostrando os olhos, o **Quiasmo Óptico** (onde os nervos se cruzam) e o cérebro. Destacar com um "X" o local da pressão de um tumor de hipófise (no centro do quiasma) e o resultado visual: a perda das laterais da visão.
+- **Tipo sugerido:** Infográfico de vias neurais sensoriais.
+- **Legenda (rascunho):** Vias ópticas e as repercussões clínicas de lesões em diferentes níveis.
 
+## 1. Visão: Do Olho ao Cérebro
 
-
-
----
-
-## 1. Visão — O Olho e as Vias Ópticas
-
-### 1.1 Estrutura do Globo Ocular
-
-O globo ocular tem três camadas concêntricas:
-
-| Camada | Estruturas | Função |
-|--------|-----------|--------|
-| **Fibrosa (externa)** | Esclera + córnea | Suporte estrutural; córnea = refração primária |
-| **Vascular (úvea)** | Coroide + corpo ciliar + íris | Nutrição; corpo ciliar produz humor aquoso + acomoda cristalino; íris controla pupila |
-| **Neural (retina)** | Retina sensorial + pigmentar | Fototransdução |
-
-O **cristalino** (lente) faz a refração fina — acomodação pelo músculo ciliar (parassimpático via NC III). O **humor aquoso** é produzido pelo corpo ciliar, circula da câmara posterior para anterior, e é drenado pelo canal de Schlemm. Bloqueio da drenagem → glaucoma de ângulo aberto (mais comum) ou fechado.
-
-### 1.2 Retina e Fotorreceptores
-
-| Fotorreceptor | Quantidade | Localização | Função |
-|--------------|-----------|------------|--------|
-| **Cones** | ~6 milhões | Mácula (fóvea) | Visão colorida, acuidade alta — precisam de luz |
-| **Bastonetes** | ~120 milhões | Periferia da retina | Visão escotópica (baixa luz), sem distinção de cor |
-
-A fóvea central tem apenas cones — é o ponto de máxima acuidade. A mácula é a região de maior densidade de cones. O **disco óptico** (papila) é cego — sem fotorreceptores.
-
-> **Dica de Prova:** Deficiência de vitamina A → cegueira noturna (bastonetes precisam de retinal, derivado da vitamina A para regenerar rodopsina). Retinite pigmentosa: degenera bastonetes periféricos → perda do campo periférico primeiro (visão em "túnel").
-
-### 1.3 Vias Ópticas e Lesões por Nível
-
-```flow
-Retina → NC II (nervo óptico)
-        ↓
-Quiasma óptico (fibras nasais cruzam; fibras temporais ipsilaterais)
-        ↓
-Trato óptico → CGLateral (tálamo)
-        ↓
-Radiações ópticas → Lobo occipital (área visual primária V1)
-```
-
-| Local da lesão | Déficit visual |
-|---------------|---------------|
-| NC II unilateral | Cegueira monocular ipsilateral |
-| Quiasma (centro) | Hemianopsia bitemporal (clássico de adenoma hipofisário) |
-| Trato óptico | Hemianopsia homônima contralateral (mesma metade em ambos olhos) |
-| Lobo occipital | Hemianopsia homônima com preservação macular |
-
-> **Pegadinha:** Adenoma hipofisário comprime o quiasma pela base → fibras nasais (campo temporal) afetadas primeiro → hemianopsia bitemporal. "Usa visores de cavalo" é como os pacientes descrevem.
+- **Cones e Bastonetes:** Os **Cones** focam no centro (**Mácula**) e servem para ver cores e detalhes. Os **Bastonetes** ficam nas bordas e servem para ver no escuro (visão preto e branco).
+- **Glaucoma:** O olho produz um líquido (humor aquoso) que deve ser drenado pelo **Canal de Schlemm**. Se entupir, a pressão sobe e esmaga o nervo óptico, começando pela visão periférica.
+- **Quiasmo Óptico:** É o ponto de cruzamento. Fibras da parte interna de cada olho cruzam para o outro lado. Um tumor na hipófise (que fica logo abaixo) pode esmagar esse ponto, fazendo o paciente perder a visão lateral ("**visão em túnel**").
 
 ---
 
-## 2. Audição — Ouvido Externo, Médio e Interno
+## 2. Audição: O Som da Vibração
 
-### 2.1 Anatomia do Ouvido
-
-| Divisão | Estruturas | Função |
-|---------|-----------|--------|
-| **Externo** | Pavilhão auricular + conduto auditivo externo + membrana timpânica | Captação e condução do som |
-| **Médio** | Martelo → bigorna → estribo + tuba auditiva (de Eustáquio) | Amplificação mecânica (~25 dB) e equalização de pressão |
-| **Interno** | Cóclea (audição) + labirinto vestibular (equilíbrio) | Transdução mecanoacústica |
-
-### 2.2 Cóclea e Transdução
-
-A cóclea tem 2,5 voltas e é dividida em 3 compartimentos: rampa vestibular (perilinfa), ducto coclear (endolinfa, contém **órgão de Corti**) e rampa timpânica (perilinfa). As **células ciliadas do órgão de Corti** sobre a membrana basilar são os verdadeiros receptores auditivos — deflexão dos cílios abre canais iônicos → potencial de receptor → NC VIII.
-
-> **Dica de Prova:** Frequências altas são percebidas na BASE da cóclea (próximo à janela oval); frequências baixas no ÁPICE. Drogas ototóxicas (aminoglicosídeos, cisplatina) afetam a base primeiro → perda de altas frequências = primeiro sinal de ototoxicidade.
-
-### 2.3 Surdez Condutiva vs Neurossensorial
-
-| Teste | Surdez Condutiva | Surdez Neurossensorial |
-|-------|----------------|----------------------|
-| Weber (diapasão no vértice) | Lateraliza para lado com surdez | Lateraliza para lado SÃO |
-| Rinne | Condução óssea > aérea (anormal) | Condução aérea > óssea (normal, mas ambas reduzidas) |
-| Causa | Cera, otite, perfuração timpânica, otosclerose | Aminoglicosídeos, presbyacusia, schwannoma, meningite |
+O ouvido é dividido em três partes:
+- **Ouvido Externo/Médio:** Conduz o som. Problemas aqui (cera, otite) causam **Surdez Condutiva**. No teste de **Weber**, o paciente ouve o diapasão melhor no ouvido doente (que está "isolado" do barulho externo).
+- **Ouvido Interno (Cóclea):** Transforma a vibração em sinal nervoso. Problemas aqui causam **Surdez Neurossensorial**. No teste de **Weber**, o paciente ouve melhor no ouvido saudável.
+- **Presbiacusia:** É a "surdez da idade". Começa perdendo os sons agudos porque as células da base da cóclea morrem primeiro.
 
 ---
 
-## 3. Equilíbrio — Labirinto Vestibular
+## 3. Equilíbrio: O Labirinto
 
-O labirinto vestibular compreende o **utrículo** e o **sáculo** (detectam aceleração linear e gravidade — estatorreceptores) e os **3 canais semicirculares** (anterior, posterior, lateral — detectam aceleração angular em planos diferentes). Cada canal tem uma ampola com crista ampular e células ciliadas. O NC VIII (ramo vestibular) leva a informação para os núcleos vestibulares do tronco e para o cerebelo.
-
-> **Dica de Prova:** A vertigem posicional paroxística benigna (VPPB) ocorre quando otólitos (carbonato de cálcio do utrículo) migram para o canal semicircular posterior → nistagmo posicional típico. Manobra de Epley repositiona os otólitos → cura da VPPB.
-
----
-
-## 4. Olfato e Paladar
-
-**Olfato (NC I):** neurônios olfatórios bipolares na mucosa olfatória do teto das fossas nasais. Seus axônios atravessam a **lâmina cribriforme** do etmoide → bulbo olfatório. É o único sentido que projeta diretamente para o lobo temporal (sem passar pelo tálamo). Anosmia pós-trauma: fratura da lâmina cribriforme corta os filamentos do NC I.
-
-**Paladar (NC VII, IX, X):** células gustativas em corpúsculos gustativos das papilas linguais. 2/3 anteriores da língua → NC VII (corda do tímpano). 1/3 posterior → NC IX. Epiglote e faringe → NC X. As qualidades básicas do paladar são: doce, salgado, azedo, amargo e **umami** (glutamato).
+Lá dentro do ouvido temos o **Labirinto**:
+- **Canais Semicirculares:** São três tubos com líquido que detectam quando você gira a cabeça.
+- **VPPB (Vertigem do Cristalzinho):** Pequenos cristais de cálcio se soltam e entram nos canais. Quando o paciente deita ou vira rápido, o cristal corre e engana o cérebro, dando uma tontura forte e curta.
+- **Manobra de Epley:** É o "tratamento mecânico". O médico gira a cabeça do paciente em posições específicas para jogar o cristal de volta para o lugar certo.
 
 ---
 
-## Pontos-Chave para Prova
+## 4. Olfato e Paladar: Os Sentidos Químicos
 
-- **Glaucoma:** bloqueio de drenagem do humor aquoso pelo canal de Schlemm → pressão intraocular elevada.
-- **Cones:** fóvea, cor, acuidade. Bastonetes: periferia, visão noturna. Vit A → bastonetes.
-- **Adenoma hipofisário:** comprime quiasma → hemianopsia bitemporal.
-- **Cóclea:** base = altas frequências; ápice = baixas. Aminoglicosídeos: perda de altas primeiro.
-- **Weber:** condutiva lateraliza para surdo; neurossensorial lateraliza para o ouvido são.
-- **VPPB:** otólitos no canal → nistagmo posicional → Manobra de Epley.
-- **NC I:** único sentido sem relé talâmico; anosmia = fratura de lâmina cribriforme.
-- **Paladar 2/3 ant.:** NC VII (corda do tímpano); 1/3 post.: NC IX.
+- **NC I (Olfatório):** Passa por buraquinhos no osso acima do nariz (**Lâmina Cribriforme**). Se o paciente bate a cabeça com força, o osso pode cortar esses mini-nervos, causando a perda permanente do cheiro (**Anosmia**).
+- **Paladar:** É dividido. Os 2/3 da frente da língua são do **Nervo Facial (VII)**. O 1/3 de trás é do **Glossofaríngeo (IX)**. Se você queima a ponta da língua, o sinal viaja pelo facial.
 
 ---
 
 ## Ponte com a Clínica
 
-Glaucoma de ângulo aberto: perda de campo visual periférico insidiosa ("perde a visão pelas bordas"). Pressão ocular > 21 mmHg, perda de fibras do NC II. Otosclerose: fixação do estribo ao forame oval → surdez condutiva progressiva; tratamento cirúrgico (stapedectomia). Schwannoma vestibular (neurinoma do acústico): surdez unilateral progressiva + zumbido + desequilíbrio; diagnóstico por RM. Presbyacusia: perda de células ciliadas da base coclear progressiva com a idade → perda de altas frequências bilateral.
+No consultório, se um paciente idoso reclama que ouve as pessoas falarem mas não entende as palavras (especialmente em lugares barulhentos), ele provavelmente tem **Presbiacusia**. Ele perdeu a capacidade de ouvir frequências altas (consoantes), ficando apenas com as frequências baixas (vogais). O aparelho auditivo deve ser regulado para amplificar especificamente os agudos, e não apenas aumentar o volume geral.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Cones**: Localizados na fóvea; responsáveis pela visão de cores e alta definição.
+- **Quiasmo Óptico**: Local onde ocorre a **decussação das fibras nasais** (responsáveis pela visão lateral/temporal).
+- **Surdez Condutiva**: O teste de **Weber** lateraliza para o lado acometido.
+- **Base da Cóclea**: Área responsável pela audição de frequências **Agudas** (primeira a ser lesada por medicamentos).
+- **Nervo Olfatório (NC I)**: Único sentido que não passa obrigatoriamente pelo tálamo antes do córtex.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Cones:** cor e acuidade na fóvea. Bastonetes: visão noturna na periferia.
-- **Adenoma hipofisário:** comprime quiasma → hemianopsia bitemporal ("visores de cavalo").
-- **Weber condutivo:** lateraliza para o ouvido surdo. Weber neurossensorial: para o ouvido são.
-- **Aminoglicosídeos:** ototóxicos, afetam base da cóclea → perda de altas frequências primeiro.
-- **VPPB:** otólitos no canal posterior → Manobra de Epley.
-- **Glaucoma:** bloqueio do canal de Schlemm → hipertensão ocular → perda periférica.
-- **NC I:** anosmia por fratura da lâmina cribriforme; projeta direto ao telencéfalo.
-- **Paladar 2/3 ant.:** NC VII; 1/3 post.: NC IX.
+
+Para gabaritar órgãos dos sentidos, decore os testes e os cruzamentos. 
+**Quiasmo** = Visão lateral perdida (Adenoma de Hipófise). **Weber p/ lado doente** = Surdez de condução (Cera/Otite). **Weber p/ lado bom** = Surdez de nervo. 
+
+A Uninove adora a **Retina**. Lembre-se: Vitamina A é para os bastonetes (visão noturna). Outro ponto forte: o **Lado da Língua**. 2/3 frente = Facial (VII); 1/3 trás = IX. Por fim, saiba que a **Lâmina Cribriforme** quebrada tira o cheiro (Anosmia) e pode vazar líquor pelo nariz (Rinorreia).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Surdez condutiva | Surdez neurossensorial | Condutiva: Weber → surdo, óssea > aérea; Neurossensorial: Weber → são, aérea > óssea (ambas reduz.) |
-| Cones | Bastonetes | Cones: fóvea, cor, luz; Bastonetes: periferia, escuro, sem cor |
-| Hemianopsia bitemporal | Hemianopsia homônima | Bitemporal: lesão de quiasma (adenoma); Homônima: lesão de trato/lobo occipital |
-| VPPB | Neurite vestibular | VPPB: posicional, nistagmo transitório; neurite: contínua, sem nistagmo posicional |
+| **Surdez Condutiva** | **S. Neurossensorial** | **Obstrução** (Cera) vs **Lesão de Nervo/Cóclea** |
+| **Cones** | **Bastonetes** | **Cor/Dia** vs **Sombra/Noite** |
+| **Glaucoma** | **Catarata** | Pressão **Alta** vs Lente (Cristalino) **Opaca** |
+| **VPPB** | **Labirintite** | Tontura **Posicional/Curta** vs Tontura **Constante/Inflamação** |
+| **NC VII (Língua)** | **NC IX (Língua)** | **Ponta/Corpo** vs **Base/Garganta** |
 
 ### Frase-âncora para não esquecer
-> "Adenoma comprime o quiasma pelo meio — só as fibras nasais cruzam ali — então cega os campos temporais de ambos os olhos: visores de cavalo."
+
+> "Bico do mamilo é T4, umbigo é T10. O sete sente a ponta da língua, o nove a base até o pé. No ouvido, Weber pro doente é condução de fé. No olho, o quiasma esmagado te deixa sem ver o que tá de lado."

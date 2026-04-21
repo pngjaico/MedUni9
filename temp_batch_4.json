@@ -1,0 +1,2412 @@
+[
+  {
+    "id": 501,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Amônia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "B) Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.",
+      "C) Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "D) AST (TGO):: também músculo, miocárdio, outros tecidos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Amônia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).",
+      "B": "Incorreta: Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.",
+      "C": "Correta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.",
+      "D": "Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Amônia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Ciclo da ureia: detoxifica NH₃ → ureia (solúvel, renal).\nB) INCORRETA. Incorreta: Ciclo da ureia — Glicólise — Ureia = nitrogênio; glicólise = energia.\nC) CORRETA. Correta: Amônia — Ureia sérica — Amônia neurotóxica; ureia marcador de função renal + produção.\nD) INCORRETA. Incorreta: AST (TGO):: também músculo, miocárdio, outros tecidos.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 502,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “HbA1c:” está correta?",
+    "opcoes": [
+      "A) média glicêmica (ver aula de carboidratos).",
+      "B) Doença — Defeito — Quadro / triagem",
+      "C) PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "D) BUN: interpretar com creatinina e volume."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HbA1c:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: média glicêmica (ver aula de carboidratos).",
+      "B": "Incorreta: Doença — Defeito — Quadro / triagem",
+      "C": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "D": "Incorreta: BUN: interpretar com creatinina e volume."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HbA1c:”.\nA) CORRETA. Correta: média glicêmica (ver aula de carboidratos).\nB) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem\nC) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho\nD) INCORRETA. Incorreta: BUN: interpretar com creatinina e volume.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 503,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Doença” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) BUN: interpretar com creatinina e volume.",
+      "B) Doença — Defeito — Quadro / triagem",
+      "C) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "D) PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Doença” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: BUN: interpretar com creatinina e volume.",
+      "B": "Correta: Doença — Defeito — Quadro / triagem",
+      "C": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "D": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Doença” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: BUN: interpretar com creatinina e volume.\nB) CORRETA. Correta: Doença — Defeito — Quadro / triagem\nC) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nD) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 504,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Proteína C-reativa ultra-sensível:” está correta?",
+    "opcoes": [
+      "A) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "B) PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "C) risco cardiovascular inflamatório (contexto populacional).",
+      "D) Doença — Defeito — Quadro / triagem"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Proteína C-reativa ultra-sensível:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "B": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "C": "Correta: risco cardiovascular inflamatório (contexto populacional).",
+      "D": "Incorreta: Doença — Defeito — Quadro / triagem"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Proteína C-reativa ultra-sensível:”.\nA) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nB) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho\nC) CORRETA. Correta: risco cardiovascular inflamatório (contexto populacional).\nD) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 505,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “PKU” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Doença — Defeito — Quadro / triagem",
+      "B) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "C) BUN: interpretar com creatinina e volume.",
+      "D) PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “PKU” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Doença — Defeito — Quadro / triagem",
+      "B": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "C": "Incorreta: BUN: interpretar com creatinina e volume.",
+      "D": "Correta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “PKU” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem\nB) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nC) INCORRETA. Incorreta: BUN: interpretar com creatinina e volume.\nD) CORRETA. Correta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 506,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Imunoglobulinas:” está correta?",
+    "opcoes": [
+      "A) gamopatias, deficiências.",
+      "B) Doença — Defeito — Quadro / triagem",
+      "C) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "D) PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Imunoglobulinas:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: gamopatias, deficiências.",
+      "B": "Incorreta: Doença — Defeito — Quadro / triagem",
+      "C": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "D": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Imunoglobulinas:”.\nA) CORRETA. Correta: gamopatias, deficiências.\nB) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem\nC) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nD) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 507,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Homocistinúria” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "B) Homocistinúria — cistationina beta-sintase — trombose, ectopia lenticular",
+      "C) Doença — Defeito — Quadro / triagem",
+      "D) HbA1c:: média glicêmica (ver aula de carboidratos)."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Homocistinúria” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "B": "Correta: Homocistinúria — cistationina beta-sintase — trombose, ectopia lenticular",
+      "C": "Incorreta: Doença — Defeito — Quadro / triagem",
+      "D": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Homocistinúria” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho\nB) CORRETA. Correta: Homocistinúria — cistationina beta-sintase — trombose, ectopia lenticular\nC) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem\nD) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 508,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Albumina” está correta?",
+    "opcoes": [
+      "A) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "B) PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "C) = longa meia-vida; sensível a inflamação.",
+      "D) Doença — Defeito — Quadro / triagem"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Albumina”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "B": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "C": "Correta: = longa meia-vida; sensível a inflamação.",
+      "D": "Incorreta: Doença — Defeito — Quadro / triagem"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Albumina”.\nA) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nB) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho\nC) CORRETA. Correta: = longa meia-vida; sensível a inflamação.\nD) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 509,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Maple syrup” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Doença — Defeito — Quadro / triagem",
+      "B) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "C) PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "D) Maple syrup — desidrogenases de cadeia ramificada — odor, acidose"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Maple syrup” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Doença — Defeito — Quadro / triagem",
+      "B": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "C": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "D": "Correta: Maple syrup — desidrogenases de cadeia ramificada — odor, acidose"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Maple syrup” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem\nB) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nC) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho\nD) CORRETA. Correta: Maple syrup — desidrogenases de cadeia ramificada — odor, acidose",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 510,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “PCR” está correta?",
+    "opcoes": [
+      "A) = fase aguda; não confundir com infecção sozinha (pós-operatório, autoinflamatório).",
+      "B) Doença — Defeito — Quadro / triagem",
+      "C) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "D) PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PCR”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = fase aguda; não confundir com infecção sozinha (pós-operatório, autoinflamatório).",
+      "B": "Incorreta: Doença — Defeito — Quadro / triagem",
+      "C": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "D": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PCR”.\nA) CORRETA. Correta: = fase aguda; não confundir com infecção sozinha (pós-operatório, autoinflamatório).\nB) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem\nC) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nD) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 511,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual alternativa associa corretamente “Albumina” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "B) PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "C) Albumina — Pré-albumina — Meia-vida e sensibilidade ao estado agudo.",
+      "D) Doença — Defeito — Quadro / triagem"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Albumina” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).",
+      "B": "Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho",
+      "C": "Correta: Albumina — Pré-albumina — Meia-vida e sensibilidade ao estado agudo.",
+      "D": "Incorreta: Doença — Defeito — Quadro / triagem"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Albumina” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HbA1c:: média glicêmica (ver aula de carboidratos).\nB) INCORRETA. Incorreta: PKU — fenilalanina hidroxilase — retardo, teste do pezinho\nC) CORRETA. Correta: Albumina — Pré-albumina — Meia-vida e sensibilidade ao estado agudo.\nD) INCORRETA. Incorreta: Doença — Defeito — Quadro / triagem",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 512,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “PRPP” está correta?",
+    "opcoes": [
+      "A) e THF são pivôs de síntese.",
+      "B) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "C) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D) Inibidores: de síntese (anticâncer) exploram divisão celular rápida."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PRPP”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: e THF são pivôs de síntese.",
+      "B": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "C": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PRPP”.\nA) CORRETA. Correta: e THF são pivôs de síntese.\nB) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nC) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).\nD) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 513,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Purinas” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B) Purinas — Pirimidinas",
+      "C) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "D) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Purinas” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B": "Correta: Purinas — Pirimidinas",
+      "C": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "D": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Purinas” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nB) CORRETA. Correta: Purinas — Pirimidinas\nC) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nD) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 514,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “HGPRT” está correta?",
+    "opcoes": [
+      "A) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B) Purinas — Pirimidinas",
+      "C) via salvage; deficiência = Lesch-Nyhan.",
+      "D) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD)."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HGPRT”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B": "Incorreta: Purinas — Pirimidinas",
+      "C": "Correta: via salvage; deficiência = Lesch-Nyhan.",
+      "D": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HGPRT”.\nA) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nB) INCORRETA. Incorreta: Purinas — Pirimidinas\nC) CORRETA. Correta: via salvage; deficiência = Lesch-Nyhan.\nD) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 515,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Anel” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "B) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "C) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "D) Anel — duplo anel — anel simples"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Anel” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "B": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "C": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "D": "Correta: Anel — duplo anel — anel simples"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Anel” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nB) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).\nC) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nD) CORRETA. Correta: Anel — duplo anel — anel simples",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 516,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Xantina oxidase” está correta?",
+    "opcoes": [
+      "A) alvo do alopurinol.",
+      "B) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "C) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D) Inibidores: de síntese (anticâncer) exploram divisão celular rápida."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Xantina oxidase”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alvo do alopurinol.",
+      "B": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "C": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Xantina oxidase”.\nA) CORRETA. Correta: alvo do alopurinol.\nB) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nC) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).\nD) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 517,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Exemplo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B) Exemplo — AMP, GMP — CMP, UMP, TMP",
+      "C) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "D) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD)."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Exemplo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B": "Correta: Exemplo — AMP, GMP — CMP, UMP, TMP",
+      "C": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "D": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Exemplo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nB) CORRETA. Correta: Exemplo — AMP, GMP — CMP, UMP, TMP\nC) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nD) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 518,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Pirimidinas” está correta?",
+    "opcoes": [
+      "A) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B) Exemplo — AMP, GMP — CMP, UMP, TMP",
+      "C) começam com carbamoil fosfato citoplasmático (CAD).",
+      "D) HGPRT: via salvage; deficiência = Lesch-Nyhan."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pirimidinas”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "B": "Incorreta: Exemplo — AMP, GMP — CMP, UMP, TMP",
+      "C": "Correta: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pirimidinas”.\nA) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nB) INCORRETA. Incorreta: Exemplo — AMP, GMP — CMP, UMP, TMP\nC) CORRETA. Correta: começam com carbamoil fosfato citoplasmático (CAD).\nD) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 519,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “CPS I ureia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "B) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "C) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "D) CPS I ureia — CPS II pirimidina — Mitocôndria vs citoplasma; funções distintas."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “CPS I ureia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "B": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "C": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "D": "Correta: CPS I ureia — CPS II pirimidina — Mitocôndria vs citoplasma; funções distintas."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “CPS I ureia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nB) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).\nC) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nD) CORRETA. Correta: CPS I ureia — CPS II pirimidina — Mitocôndria vs citoplasma; funções distintas.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 520,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “Uratos” está correta?",
+    "opcoes": [
+      "A) precipitam em articulação (gota) e rim.",
+      "B) HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "C) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D) Inibidores: de síntese (anticâncer) exploram divisão celular rápida."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Uratos”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: precipitam em articulação (gota) e rim.",
+      "B": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+      "C": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "D": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Uratos”.\nA) CORRETA. Correta: precipitam em articulação (gota) e rim.\nB) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.\nC) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).\nD) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 521,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Hiperuricemia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "B) Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "C) Hiperuricemia — Gota — Cristais + inflamação = gota.",
+      "D) HGPRT: via salvage; deficiência = Lesch-Nyhan."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Hiperuricemia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).",
+      "B": "Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.",
+      "C": "Correta: Hiperuricemia — Gota — Cristais + inflamação = gota.",
+      "D": "Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Hiperuricemia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Pirimidinas: começam com carbamoil fosfato citoplasmático (CAD).\nB) INCORRETA. Incorreta: Inibidores: de síntese (anticâncer) exploram divisão celular rápida.\nC) CORRETA. Correta: Hiperuricemia — Gota — Cristais + inflamação = gota.\nD) INCORRETA. Incorreta: HGPRT: via salvage; deficiência = Lesch-Nyhan.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 522,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Fígado” está correta?",
+    "opcoes": [
+      "A) = hub de glicose, ureia, cetônicos, VLDL.",
+      "B) Adiposo: = reserva e glicerol para gliconeogênese.",
+      "C) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "D) Doença: grave altera fluxo entre órgãos — não só uma enzima."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fígado”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = hub de glicose, ureia, cetônicos, VLDL.",
+      "B": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+      "C": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "D": "Incorreta: Doença: grave altera fluxo entre órgãos — não só uma enzima."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fígado”.\nA) CORRETA. Correta: = hub de glicose, ureia, cetônicos, VLDL.\nB) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.\nC) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nD) INCORRETA. Incorreta: Doença: grave altera fluxo entre órgãos — não só uma enzima.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 523,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Ciclo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "B) Ciclo — Órgãos — Função",
+      "C) Adiposo: = reserva e glicerol para gliconeogênese.",
+      "D) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Ciclo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "B": "Correta: Ciclo — Órgãos — Função",
+      "C": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+      "D": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ciclo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nB) CORRETA. Correta: Ciclo — Órgãos — Função\nC) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.\nD) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 524,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual afirmação sobre “Músculo” está correta?",
+    "opcoes": [
+      "A) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "B) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "C) = glicogênio local e exportação de lactato/alanina.",
+      "D) Adiposo: = reserva e glicerol para gliconeogênese."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Músculo”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "B": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "C": "Correta: = glicogênio local e exportação de lactato/alanina.",
+      "D": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Músculo”.\nA) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nB) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nC) CORRETA. Correta: = glicogênio local e exportação de lactato/alanina.\nD) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 525,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Cori” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Adiposo: = reserva e glicerol para gliconeogênese.",
+      "B) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "C) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "D) Cori — músculo ↔ fígado — lactato → glicose"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Cori” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+      "B": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "C": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "D": "Correta: Cori — músculo ↔ fígado — lactato → glicose"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cori” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.\nB) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nC) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nD) CORRETA. Correta: Cori — músculo ↔ fígado — lactato → glicose",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 526,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Adiposo” está correta?",
+    "opcoes": [
+      "A) = reserva e glicerol para gliconeogênese.",
+      "B) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "C) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "D) Doença: grave altera fluxo entre órgãos — não só uma enzima."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Adiposo”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = reserva e glicerol para gliconeogênese.",
+      "B": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "C": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "D": "Incorreta: Doença: grave altera fluxo entre órgãos — não só uma enzima."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Adiposo”.\nA) CORRETA. Correta: = reserva e glicerol para gliconeogênese.\nB) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nC) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nD) INCORRETA. Incorreta: Doença: grave altera fluxo entre órgãos — não só uma enzima.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 527,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Glicose-alanina” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "B) Glicose-alanina — músculo ↔ fígado — amino → glicose",
+      "C) Adiposo: = reserva e glicerol para gliconeogênese.",
+      "D) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Glicose-alanina” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "B": "Correta: Glicose-alanina — músculo ↔ fígado — amino → glicose",
+      "C": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+      "D": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Glicose-alanina” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nB) CORRETA. Correta: Glicose-alanina — músculo ↔ fígado — amino → glicose\nC) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.\nD) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 528,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Ciclos” está correta?",
+    "opcoes": [
+      "A) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "B) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "C) integram jejum e exercício.",
+      "D) Adiposo: = reserva e glicerol para gliconeogênese."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ciclos”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "B": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "C": "Correta: integram jejum e exercício.",
+      "D": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ciclos”.\nA) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nB) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nC) CORRETA. Correta: integram jejum e exercício.\nD) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 529,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual alternativa associa corretamente “Cahill (conceito)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Adiposo: = reserva e glicerol para gliconeogênese.",
+      "B) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "C) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "D) Cahill (conceito) — integração proteína-glicose — catabolismo"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Cahill (conceito)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+      "B": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "C": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "D": "Correta: Cahill (conceito) — integração proteína-glicose — catabolismo"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cahill (conceito)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.\nB) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nC) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nD) CORRETA. Correta: Cahill (conceito) — integração proteína-glicose — catabolismo",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 530,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Cori” está correta?",
+    "opcoes": [
+      "A) regenera glicose a partir de lactato muscular.",
+      "B) Adiposo: = reserva e glicerol para gliconeogênese.",
+      "C) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "D) Fígado: = hub de glicose, ureia, cetônicos, VLDL."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cori”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: regenera glicose a partir de lactato muscular.",
+      "B": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+      "C": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "D": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cori”.\nA) CORRETA. Correta: regenera glicose a partir de lactato muscular.\nB) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.\nC) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nD) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 531,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Glicogenólise hepática” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "B) Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "C) Glicogenólise hepática — Muscular — Só hepática eleva glicemia sistêmica.",
+      "D) Adiposo: = reserva e glicerol para gliconeogênese."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Glicogenólise hepática” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.",
+      "B": "Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.",
+      "C": "Correta: Glicogenólise hepática — Muscular — Só hepática eleva glicemia sistêmica.",
+      "D": "Incorreta: Adiposo: = reserva e glicerol para gliconeogênese."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Glicogenólise hepática” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Lipólise — Lipogênese — Jejum vs pós-prandial; insulina inverte.\nB) INCORRETA. Incorreta: Fígado: = hub de glicose, ureia, cetônicos, VLDL.\nC) CORRETA. Correta: Glicogenólise hepática — Muscular — Só hepática eleva glicemia sistêmica.\nD) INCORRETA. Incorreta: Adiposo: = reserva e glicerol para gliconeogênese.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 532,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Jejum” está correta?",
+    "opcoes": [
+      "A) progressivo: glicogênio → gliconeogênese → cetose.",
+      "B) Exercício: muda substrato preferencial ao longo do tempo.",
+      "C) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "D) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Jejum”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: progressivo: glicogênio → gliconeogênese → cetose.",
+      "B": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "C": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "D": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Jejum”.\nA) CORRETA. Correta: progressivo: glicogênio → gliconeogênese → cetose.\nB) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nC) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nD) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 533,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Estado” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "B) Estado — Insulina — Cetonas — Glicemia",
+      "C) Exercício: muda substrato preferencial ao longo do tempo.",
+      "D) Cetose: nutricional ≠ CAD — contexto hormonal."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Estado” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "B": "Correta: Estado — Insulina — Cetonas — Glicemia",
+      "C": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "D": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Estado” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nB) CORRETA. Correta: Estado — Insulina — Cetonas — Glicemia\nC) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nD) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 534,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Estresse” está correta?",
+    "opcoes": [
+      "A) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "B) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "C) agudo → hiperglicemia e catabolismo.",
+      "D) Exercício: muda substrato preferencial ao longo do tempo."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Estresse”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "B": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "C": "Correta: agudo → hiperglicemia e catabolismo.",
+      "D": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Estresse”.\nA) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nB) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nC) CORRETA. Correta: agudo → hiperglicemia e catabolismo.\nD) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 535,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual alternativa associa corretamente “Pós-prandial” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Exercício: muda substrato preferencial ao longo do tempo.",
+      "B) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "C) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "D) Pós-prandial — alta — baixas — controlada"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Pós-prandial” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "B": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "C": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "D": "Correta: Pós-prandial — alta — baixas — controlada"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pós-prandial” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nB) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nC) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nD) CORRETA. Correta: Pós-prandial — alta — baixas — controlada",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 536,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Refeeding” está correta?",
+    "opcoes": [
+      "A) = risco eletrolítico e cardíaco.",
+      "B) Exercício: muda substrato preferencial ao longo do tempo.",
+      "C) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "D) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Refeeding”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = risco eletrolítico e cardíaco.",
+      "B": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "C": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "D": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Refeeding”.\nA) CORRETA. Correta: = risco eletrolítico e cardíaco.\nB) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nC) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nD) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 537,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Jejum prolongado” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "B) Jejum prolongado — baixa — altas — mantida (adaptado",
+      "C) Exercício: muda substrato preferencial ao longo do tempo.",
+      "D) Cetose: nutricional ≠ CAD — contexto hormonal."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Jejum prolongado” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "B": "Correta: Jejum prolongado — baixa — altas — mantida (adaptado",
+      "C": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "D": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Jejum prolongado” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nB) CORRETA. Correta: Jejum prolongado — baixa — altas — mantida (adaptado)\nC) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nD) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 538,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Exercício” está correta?",
+    "opcoes": [
+      "A) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "B) Estado — Insulina — Cetonas — Glicemia",
+      "C) muda substrato preferencial ao longo do tempo.",
+      "D) Cetose: nutricional ≠ CAD — contexto hormonal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Exercício”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "B": "Incorreta: Estado — Insulina — Cetonas — Glicemia",
+      "C": "Correta: muda substrato preferencial ao longo do tempo.",
+      "D": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Exercício”.\nA) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nB) INCORRETA. Incorreta: Estado — Insulina — Cetonas — Glicemia\nC) CORRETA. Correta: muda substrato preferencial ao longo do tempo.\nD) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 539,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Sepse” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Exercício: muda substrato preferencial ao longo do tempo.",
+      "B) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "C) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "D) Sepse — resistência — variável — frequentemente alta"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Sepse” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "B": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "C": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "D": "Correta: Sepse — resistência — variável — frequentemente alta"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sepse” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nB) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nC) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nD) CORRETA. Correta: Sepse — resistência — variável — frequentemente alta",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 540,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Contrarregulação” está correta?",
+    "opcoes": [
+      "A) domina em agudo.",
+      "B) Exercício: muda substrato preferencial ao longo do tempo.",
+      "C) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "D) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Contrarregulação”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: domina em agudo.",
+      "B": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+      "C": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "D": "Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Contrarregulação”.\nA) CORRETA. Correta: domina em agudo.\nB) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.\nC) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nD) INCORRETA. Incorreta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 541,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Hiperglicemia de estresse” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "B) Estado — Insulina — Cetonas — Glicemia",
+      "C) Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "D) Exercício: muda substrato preferencial ao longo do tempo."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Hiperglicemia de estresse” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.",
+      "B": "Incorreta: Estado — Insulina — Cetonas — Glicemia",
+      "C": "Correta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.",
+      "D": "Incorreta: Exercício: muda substrato preferencial ao longo do tempo."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Hiperglicemia de estresse” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cetose: nutricional ≠ CAD — contexto hormonal.\nB) INCORRETA. Incorreta: Estado — Insulina — Cetonas — Glicemia\nC) CORRETA. Correta: Hiperglicemia de estresse — DM descompensado — Contexto agudo + PCR vs descompensação crônica.\nD) INCORRETA. Incorreta: Exercício: muda substrato preferencial ao longo do tempo.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 542,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Insulina” está correta?",
+    "opcoes": [
+      "A) = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "B) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "C) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D) Cortisol: prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insulina”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "B": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "C": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D": "Incorreta: Cortisol: prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insulina”.\nA) CORRETA. Correta: = armazenamento; glucagon = mobilização (fígado em destaque).\nB) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nC) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nD) INCORRETA. Incorreta: Cortisol: prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 543,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Sinal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "B) Sinal — Tendência no fígado (visão geral",
+      "C) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "D) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Sinal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "B": "Correta: Sinal — Tendência no fígado (visão geral",
+      "C": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "D": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sinal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nB) CORRETA. Correta: Sinal — Tendência no fígado (visão geral)\nC) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).\nD) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 544,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “AMPK” está correta?",
+    "opcoes": [
+      "A) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "B) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "C) = baixa energia intracelular; mTOR = nutrientes/crescimento.",
+      "D) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque)."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “AMPK”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "B": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "C": "Correta: = baixa energia intracelular; mTOR = nutrientes/crescimento.",
+      "D": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “AMPK”.\nA) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nB) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nC) CORRETA. Correta: = baixa energia intracelular; mTOR = nutrientes/crescimento.\nD) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 545,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Insulina alta” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "B) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "C) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D) Insulina alta — síntese de glicogênio; inibe gliconeogênese"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Insulina alta” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "B": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "C": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D": "Correta: Insulina alta — síntese de glicogênio; inibe gliconeogênese"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Insulina alta” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).\nB) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nC) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nD) CORRETA. Correta: Insulina alta — síntese de glicogênio; inibe gliconeogênese",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 546,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Cortisol/catecolaminas” está correta?",
+    "opcoes": [
+      "A) = estresse agudo/crônico e hiperglicemia.",
+      "B) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "C) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D) Cortisol: prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cortisol/catecolaminas”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = estresse agudo/crônico e hiperglicemia.",
+      "B": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "C": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D": "Incorreta: Cortisol: prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cortisol/catecolaminas”.\nA) CORRETA. Correta: = estresse agudo/crônico e hiperglicemia.\nB) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).\nC) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nD) INCORRETA. Incorreta: Cortisol: prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 547,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Glucagon” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "B) Glucagon — glicogenólise/gliconeogênese",
+      "C) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "D) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Glucagon” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "B": "Correta: Glucagon — glicogenólise/gliconeogênese",
+      "C": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "D": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Glucagon” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nB) CORRETA. Correta: Glucagon — glicogenólise/gliconeogênese\nC) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).\nD) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 548,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual afirmação sobre “Estado prandial” está correta?",
+    "opcoes": [
+      "A) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "B) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "C) define predominância de vias anabólicas vs catabólicas.",
+      "D) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque)."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Estado prandial”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "B": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "C": "Correta: define predominância de vias anabólicas vs catabólicas.",
+      "D": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Estado prandial”.\nA) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nB) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nC) CORRETA. Correta: define predominância de vias anabólicas vs catabólicas.\nD) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 549,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Qual alternativa associa corretamente “Cortisol (sustentado)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "B) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "C) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D) Cortisol (sustentado) — substrato para gliconeogênese"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Cortisol (sustentado)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "B": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "C": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "D": "Correta: Cortisol (sustentado) — substrato para gliconeogênese"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cortisol (sustentado)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).\nB) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nC) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nD) CORRETA. Correta: Cortisol (sustentado) — substrato para gliconeogênese",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 550,
+    "materia": "pmh",
+    "tema": "pmh_a2",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “Insulina” está correta?",
+    "opcoes": [
+      "A) ativa armazenamento; glucagon mobiliza substratos hepáticos.",
+      "B) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "C) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "D) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insulina”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ativa armazenamento; glucagon mobiliza substratos hepáticos.",
+      "B": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+      "C": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "D": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Insulina”.\nA) CORRETA. Correta: ativa armazenamento; glucagon mobiliza substratos hepáticos.\nB) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).\nC) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nD) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+    "aula_id": "pmh_a2"
+  },
+  {
+    "id": 551,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Insulina” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "B) AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "C) Insulina — Glucagon — Insulina = pós-prandial; glucagon = jejum (fígado).",
+      "D) Insulina: = armazenamento; glucagon = mobilização (fígado em destaque)."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Insulina” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.",
+      "B": "Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.",
+      "C": "Correta: Insulina — Glucagon — Insulina = pós-prandial; glucagon = jejum (fígado).",
+      "D": "Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Insulina” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cortisol/catecolaminas: = estresse agudo/crônico e hiperglicemia.\nB) INCORRETA. Incorreta: AMPK: responde a AMP/ATP; mTOR a nutrientes e insulina.\nC) CORRETA. Correta: Insulina — Glucagon — Insulina = pós-prandial; glucagon = jejum (fígado).\nD) INCORRETA. Incorreta: Insulina: = armazenamento; glucagon = mobilização (fígado em destaque).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 552,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A Fosfofrutoquinase-1 (PFK-1) é considerada a enzima marcapasso da glicólise. Em um estado de abundância de glicose no fígado (período pós-prandial), qual molécula atua como o ativador alostérico mais potente dessa via, sinalizando que a glicólise deve proceder?",
+    "opcoes": [
+      "A) Citrato, proveniente do Ciclo de Krebs saturado.",
+      "B) ATP, indicando alta carga energética celular.",
+      "C) AMP, sinalizando depleção de estoques de energia.",
+      "D) Frutose-2,6-Bifosfato (F-2,6-BP), produzida pela enzima bifuncional PFK-2."
+    ],
+    "explicacao_geral": "A regulação da PFK-1 é o ponto central de controle do fluxo glicolítico em resposta a hormônios.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O Citrato é um inibidor alostérico da PFK-1, sinalizando que o ciclo de Krebs já está saturado.",
+      "B": "[INCORRETA] O ATP em altas concentrações inibe a PFK-1 para evitar o desperdício de glicose quando há energia disponível.",
+      "C": "[INCORRETA] O AMP ativa a PFK-1, mas é um sinal de 'crise energética', não de abundância de glicose pós-prandial.",
+      "D": "[CORRETA] A **Frutose-2,6-Bifosfato** é o ativador alostérico mais potente da PFK-1. Sua concentração aumenta sob estímulo da **Insulina**, garantindo que o fígado processe a glicose disponível via glicólise."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 553,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A Glicólise (Via de Embden-Meyerhof) ocorre inteiramente no citosol e fornece energia rápida para a célula. Qual o saldo líquido de moléculas de alta energia (ATP) e transportadores de elétrons (NADH) gerados a partir de uma única molécula de glicose?",
+    "opcoes": [
+      "A) 4 ATP e 2 NADH.",
+      "B) 2 ATP e 2 NADH.",
+      "C) 2 ATP e 4 NADH.",
+      "D) 38 ATP e 10 NADH."
+    ],
+    "explicacao_geral": "O saldo da glicólise considera o investimento inicial de ATP versus o rendimento final.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] 4 ATP é o rendimento bruto da fase de pagamento, mas não desconta o investimento inicial.",
+      "B": "[CORRETA] A glicólise investe 2 ATP na fase de preparação e colhe 4 ATP na fase de rendimento, resultando em um **saldo líquido de 2 ATP**. Além disso, 2 moléculas de **NADH** são produzidas na etapa da Gliceraldeído-3-P desidrogenase.",
+      "C": "[INCORRETA] Apenas 2 NADH são produzidos por glicose na glicólise citosólica.",
+      "D": "[INCORRETA] Este valor refere-se à oxidação completa da glicose (Glicólise + Ciclo de Krebs + Cadeia Transportadora)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 554,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Diferente da glicólise, a gliconeogênese consome energia para sintetizar glicose. Para contornar os degraus irreversíveis da glicólise (Bypasses), a célula utiliza enzimas específicas. Qual enzima gliconeogênica é necessária para reverter o passo da Piruvato Quinase, exigindo Biotina como cofator?",
+    "opcoes": [
+      "A) Fosfoenolpiruvato Carboxiquinase (PEPCK).",
+      "B) Frutose-1,6-Bifosfatase-1 (FBPase-1).",
+      "C) Piruvato Carboxilase.",
+      "D) Glicose-6-Fosfatase."
+    ],
+    "explicacao_geral": "Os bypasses da gliconeogênese neutralizam as reações exergônicas da glicólise.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A PEPCK converte oxaloacetato em PEP, mas não utiliza biotina como cofator primário de carboxilação.",
+      "B": "[INCORRETA] A FBPase-1 reverte o passo da PFK-1.",
+      "C": "[CORRETA] A **Piruvato Carboxilase** converte o piruvato em oxaloacetato dentro da mitocôndria. Ela é uma enzima dependente de **Biotina** (Vitamina B7) e consome ATP para fixar CO2 no piruvato.",
+      "D": "[INCORRETA] A G6Pase atua na etapa final da gliconeogênese, no retículo endoplasmático."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 555,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A etapa final da gliconeogênese é a conversão de Glicose-6-Fosfato em Glicose livre, permitindo sua exportação para o sangue. Sobre a enzima Glicose-6-Fosfatase (G6Pase), é correto afirmar que:",
+    "opcoes": [
+      "A) Está presente no fígado e rins, mas ausente no músculo, o que explica por que o músculo não doa glicose ao sangue.",
+      "B) Sua localização é exclusivamente mitocondrial para evitar o consumo de ATP citosólico.",
+      "C) É ativada diretamente pela insulina durante o período pós-prandial.",
+      "D) Atua tanto na glicólise quanto na gliconeogênese, sendo uma enzima bidirecional."
+    ],
+    "explicacao_geral": "A compartimentalização da G6Pase determina quais órgãos podem sustentar a glicemia sistêmica.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Músculo Esquelético** não possui a **Glicose-6-Fosfatase**. Por isso, a glicose produzida ou liberada do glicogênio muscular fica 'presa' na célula na forma de G6P para consumo próprio, tornando o músculo um 'egoísta metabólico'.",
+      "B": "[INCORRETA] A G6Pase está localizada na membrana do **Retículo Endoplasmático**.",
+      "C": "[INCORRETA] A expressão da G6Pase é inibida pela insulina e ativada pelo **Glucagon/Cortisol**.",
+      "D": "[INCORRETA] A G6Pase é uma enzima de **bypass** exclusiva da gliconeogênese (irreversível)."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 556,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No estado de jejum, o glucagon sinaliza ao fígado que a glicemia está baixa. Qual o efeito dessa sinalização hormonal sobre a regulação recíproca entre a Glicólise e a Gliconeogênese?",
+    "opcoes": [
+      "A) Aumento da Frutose-2,6-BP, ativando a PFK-1 e a glicólise.",
+      "B) Fosforilação da Piruvato Quinase, ativando sua função de volta para PEP.",
+      "C) Redução dos níveis de Frutose-2,6-BP, desativando a PFK-1 e reduzindo a inibição sobre a FBPase-1.",
+      "D) Inibição total da entrada de lactato e glicerol no fígado para poupar energia."
+    ],
+    "explicacao_geral": "O controle hormonal garante que vias opostas não funcionem simultaneamente (ciclo fútil).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] No jejum, o glucagon **diminui** a F-2,6-BP.",
+      "B": "[INCORRETA] O glucagon induz a fosforilação da Piruvato Quinase, mas isso a **inibe** para poupar PEP para a gliconeogênese.",
+      "C": "[CORRETA] Ao reduzir a **Frutose-2,6-BP**, o glucagon remove o estímulo positivo sobre a PFK-1 (parando a glicólise) e remove o estímulo negativo (inibição) sobre a **FBPase-1**, permitindo que a gliconeogênese prossiga.",
+      "D": "[INCORRETA] Pelo contrário, o jejum estimula o fígado a captar esses substratos para fabricar glicose."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 557,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Homem, 45 anos, etilista crônico, é encontrado desorientado após dois dias de consumo intenso de bebidas alcoólicas sem alimentação adequada. A glicemia capilar revela 42 mg/dL. Bioquimicamente, qual o mecanismo que explica a hipoglicemia severa induzida pelo metabolismo do etanol?",
+    "opcoes": [
+      "A) O etanol inibe diretamente as enzimas de bypass da gliconeogênese via acetaldeído.",
+      "B) A degradação do álcool consome todo o estoque de lactato hepático.",
+      "C) O etanol estimula uma liberação maciça de insulina pelo pâncreas.",
+      "D) O excesso de NADH gerado pela desidrogenase alcoólica desvia o oxaloacetato para malato e o piruvato para lactato, sequestrando precursores da gliconeogênese."
+    ],
+    "explicacao_geral": "O potencial redox (relação NAD+/NADH) dita o fluxo das vias metabólicas reversíveis.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O efeito não é uma inibição direta de enzimas, mas sim a falta de substratos disponíveis.",
+      "B": "[INCORRETA] Na verdade, o metabolismo do álcool **aumenta** o lactato (gerando lactoacidose).",
+      "C": "[INCORRETA] O álcool não é um secretagogo potente de insulina.",
+      "D": "[CORRETA] O metabolismo do etanol gera um **excesso maciço de NADH**. Para regenerar o NAD+, o fígado reverte as reações da LDH e Malato DH, transformando piruvato em lactato e oxaloacetato em malato. Isso retira os precursores essenciais da **gliconeogênese**, impedindo o fígado de fabricar glicose."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 558,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Muitas reações da gliconeogênese são as mesmas da glicólise, agindo de forma reversa. No entanto, o custo energético para 'subir' a fita de novo é alto. Quantos equivalentes de alta energia (ATP e GTP) o fígado consome para produzir 1 molécula de glicose?",
+    "opcoes": [
+      "A) 2 equivalentes.",
+      "B) 6 equivalentes.",
+      "C) 12 equivalentes.",
+      "D) Nenhum, a gliconeogênese gera energia líquida."
+    ],
+    "explicacao_geral": "A gliconeogênese é um processo anabólico cronicamente dispendioso para o organismo.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] 2 equivalentes é o que a glicólise gera, mas a reversão não é 1:1 devido aos bypasses.",
+      "B": "[CORRETA] Para sintetizar 1 glicose, são consumidos **4 ATPs e 2 GTPs** (total de 6 equivalentes), além de 2 NADH. Esse custo alto explica por que a via só é ativada em estados de privação de carboidratos.",
+      "C": "[INCORRETA] Valor excessivo; o custo real é 6.",
+      "D": "[INCORRETA] Processos anabólicos de síntese sempre consomem energia de acordo com a segunda lei da termodinâmica."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 559,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "A regulação recíproca da PFK-1 e da FBPase-1 é o 'termostato' do açúcar na célula. Se os níveis de ATP e Citrato estão elevados no citosol hepático após uma refeição rica em gorduras, qual será o efeito sobre a glicólise?",
+    "opcoes": [
+      "A) Inibição da PFK-1, reduzindo o fluxo glicolítico para evitar desperdício de glicose quando já há energia abundante.",
+      "B) Ativação da PFK-1 via alosterismo, acelerando a produção de piruvato.",
+      "C) Indução da degradação imediata de todo o glicogênio estocado.",
+      "D) Ativação da gliconeogênese para converter o excesso de ATP em glicerol."
+    ],
+    "explicacao_geral": "ATP e Citrato são indicadores de estado energético alto ('cofres cheios').",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] **ATP** e **Citrato** são inibidores alostéricos da **PFK-1**. Eles sinalizam que a célula já possui energia suficiente e que o ciclo de Krebs está saturado, inibindo a quebra de mais glicose.",
+      "B": "[INCORRETA] Pelo contrário, estes sinais inibem a enzima.",
+      "C": "[INCORRETA] Estágios de alta energia estimulam a síntese de glicogênio, não a degradação.",
+      "D": "[INCORRETA] A gliconeogênese não converte ATP em glicerol; o glicerol é um substrato para a via."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 560,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Um atleta de sprint realiza um exercício anaeróbico intenso, produzindo grande quantidade de lactato nos músculos. Esse lactato é lançado no sangue, captado pelo fígado e convertido novamente em glicose, que retorna ao músculo. Como se denomina esse ciclo de cooperação metabólica?",
+    "opcoes": [
+      "A) Ciclo de Krebs.",
+      "B) Ciclo da Alanina-Glicose.",
+      "C) Ciclo de Cori.",
+      "D) Via das Pentoses-Fosfato."
+    ],
+    "explicacao_geral": "O Ciclo de Cori permite a reciclagem de carbono entre tecidos periféricos e o fígado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O Ciclo de Krebs ocorre na mitocôndria para oxidação do Acetil-CoA.",
+      "B": "[INCORRETA] O Ciclo da Alanina envolve o transporte de nitrogênio do músculo ao fígado via aminoácidos.",
+      "C": "[CORRETA] O **Ciclo de Cori** é a via de reciclagem de **lactato** (muscular/eritrocitário) em **glicose** (hepática). Ele é vital durante exercícios intensos onde o oxigênio é limitante.",
+      "D": "[INCORRETA] A via das pentoses foca na produção de NADPH e ribose-5-fosfato."
+    },
+    "caso_clinico": true,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 561,
+    "categoria": "inedita",
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Na transição do jejum para o estado alimentado, o pâncreas libera insulina. No fígado, a insulina estimula a desfosforilação da enzima bifuncional PFK-2/FBPase-2. Qual o desfecho molecular desta ação sobre a via glicolítica?",
+    "opcoes": [
+      "A) Ativação da FBPase-2, reduzindo a concentração de Frutose-2,6-BP.",
+      "B) Ativação da PFK-2, aumentando a Frutose-2,6-BP e estimulando a PFK-1.",
+      "C) Inibição imediata da Hexoquinase por excesso de Glicose-6-P.",
+      "D) Bloqueio da entrada de frutose livre na via glicolítica."
+    ],
+    "explicacao_geral": "A insulina orquestra a ativação coordenada de enzimas que processam a glicose.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A desfosforilação pela insulina **inativa** a FBPase-2.",
+      "B": "[CORRETA] A **Insulina** promove a desfosforilação da enzima bifuncional, o que ativa o domínio **PFK-2**. Isso aumenta a síntese de **Frutose-2,6-Bifosfato**, que é o sinalizador mestre para ativar a **PFK-1** e acelerar a glicólise.",
+      "C": "[INCORRETA] A insulina estimula a glicoquinase (hexoquinase IV) e não promove sua inibição no período pós-prandial.",
+      "D": "[INCORRETA] Não há bloqueio; a via é aberta para processamento de açúcares."
+    },
+    "caso_clinico": false,
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 562,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Cianeto/CO:” está correta?",
+    "opcoes": [
+      "A) bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B) Inibidores: e hipóxia convergem em falência energética.",
+      "C) NADH (mito) — Complexo I — maior",
+      "D) Desacopladores: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cianeto/CO:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "C": "Incorreta: NADH (mito) — Complexo I — maior",
+      "D": "Incorreta: Desacopladores: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cianeto/CO:”.\nA) CORRETA. Correta: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nB) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nC) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nD) INCORRETA. Incorreta: Desacopladores: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 563,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Entrada” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NADH (mito) — Complexo I — maior",
+      "B) Entrada — Entra em — ATP aproximado",
+      "C) Inibidores: e hipóxia convergem em falência energética.",
+      "D) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Entrada” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NADH (mito) — Complexo I — maior",
+      "B": "Correta: Entrada — Entra em — ATP aproximado",
+      "C": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "D": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Entrada” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nB) CORRETA. Correta: Entrada — Entra em — ATP aproximado\nC) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nD) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 564,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Oligomicina:” está correta?",
+    "opcoes": [
+      "A) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B) NADH (mito) — Complexo I — maior",
+      "C) inibe ATP sintase.",
+      "D) Inibidores: e hipóxia convergem em falência energética."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Oligomicina:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B": "Incorreta: NADH (mito) — Complexo I — maior",
+      "C": "Correta: inibe ATP sintase.",
+      "D": "Incorreta: Inibidores: e hipóxia convergem em falência energética."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Oligomicina:”.\nA) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nB) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nC) CORRETA. Correta: inibe ATP sintase.\nD) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 565,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “NADH (mito)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Inibidores: e hipóxia convergem em falência energética.",
+      "B) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "C) Desacopladores: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.",
+      "D) NADH (mito) — Complexo I — maior"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “NADH (mito)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "B": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "C": "Incorreta: Desacopladores: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.",
+      "D": "Correta: NADH (mito) — Complexo I — maior"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “NADH (mito)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nB) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nC) INCORRETA. Incorreta: Desacopladores: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.\nD) CORRETA. Correta: NADH (mito) — Complexo I — maior",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 566,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual afirmação sobre “Desacopladores” está correta?",
+    "opcoes": [
+      "A) (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.",
+      "B) Inibidores: e hipóxia convergem em falência energética.",
+      "C) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "D) NADH (mito) — Complexo I — maior"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Desacopladores”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.",
+      "B": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "C": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "D": "Incorreta: NADH (mito) — Complexo I — maior"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Desacopladores”.\nA) CORRETA. Correta: (ex.: DNP histórico): dissipam gradiente → calor sem ATP útil.\nB) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nC) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nD) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 567,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “FADH₂” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) NADH (mito) — Complexo I — maior",
+      "B) FADH₂ — Complexo II — menor",
+      "C) Inibidores: e hipóxia convergem em falência energética.",
+      "D) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase)."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “FADH₂” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: NADH (mito) — Complexo I — maior",
+      "B": "Correta: FADH₂ — Complexo II — menor",
+      "C": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "D": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “FADH₂” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nB) CORRETA. Correta: FADH₂ — Complexo II — menor\nC) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nD) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 568,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “PDH” está correta?",
+    "opcoes": [
+      "A) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B) NADH (mito) — Complexo I — maior",
+      "C) liga glicólise ao ciclo de Krebs.",
+      "D) Inibidores: e hipóxia convergem em falência energética."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PDH”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B": "Incorreta: NADH (mito) — Complexo I — maior",
+      "C": "Correta: liga glicólise ao ciclo de Krebs.",
+      "D": "Incorreta: Inibidores: e hipóxia convergem em falência energética."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PDH”.\nA) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nB) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nC) CORRETA. Correta: liga glicólise ao ciclo de Krebs.\nD) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 569,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual alternativa associa corretamente “Ciclo de Krebs” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Inibidores: e hipóxia convergem em falência energética.",
+      "B) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "C) NADH (mito) — Complexo I — maior",
+      "D) Ciclo de Krebs — Glicólise — Krebs é mitocondrial (matriz); glicólise citoplasmática."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Ciclo de Krebs” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "B": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "C": "Incorreta: NADH (mito) — Complexo I — maior",
+      "D": "Correta: Ciclo de Krebs — Glicólise — Krebs é mitocondrial (matriz); glicólise citoplasmática."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ciclo de Krebs” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nB) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nC) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nD) CORRETA. Correta: Ciclo de Krebs — Glicólise — Krebs é mitocondrial (matriz); glicólise citoplasmática.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 570,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Cadeia respiratória” está correta?",
+    "opcoes": [
+      "A) + ATP sintase = fosforilação oxidativa.",
+      "B) Inibidores: e hipóxia convergem em falência energética.",
+      "C) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "D) NADH (mito) — Complexo I — maior"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cadeia respiratória”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: + ATP sintase = fosforilação oxidativa.",
+      "B": "Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+      "C": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "D": "Incorreta: NADH (mito) — Complexo I — maior"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cadeia respiratória”.\nA) CORRETA. Correta: + ATP sintase = fosforilação oxidativa.\nB) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.\nC) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nD) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 571,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Inibir ETC” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B) NADH (mito) — Complexo I — maior",
+      "C) Inibir ETC — Inibir ATP sintase — ETC para → sem gradiente; oligomicina → gradiente sem ATP.",
+      "D) Inibidores: e hipóxia convergem em falência energética."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Inibir ETC” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).",
+      "B": "Incorreta: NADH (mito) — Complexo I — maior",
+      "C": "Correta: Inibir ETC — Inibir ATP sintase — ETC para → sem gradiente; oligomicina → gradiente sem ATP.",
+      "D": "Incorreta: Inibidores: e hipóxia convergem em falência energética."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Inibir ETC” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cianeto/CO:: bloqueiam transferência de elétrons (complexo IV ou citocromo oxidase).\nB) INCORRETA. Incorreta: NADH (mito) — Complexo I — maior\nC) CORRETA. Correta: Inibir ETC — Inibir ATP sintase — ETC para → sem gradiente; oligomicina → gradiente sem ATP.\nD) INCORRETA. Incorreta: Inibidores: e hipóxia convergem em falência energética.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 572,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Fígado:” está correta?",
+    "opcoes": [
+      "A) armazena glicogênio para manter glicemia (exporta glicose via glicose-6-fosfatase).",
+      "B) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fígado:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: armazena glicogênio para manter glicemia (exporta glicose via glicose-6-fosfatase).",
+      "B": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fígado:”.\nA) CORRETA. Correta: armazena glicogênio para manter glicemia (exporta glicose via glicose-6-fosfatase).\nB) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nC) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nD) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 573,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Via” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "B) Via — Produto principal — Tecido-chave",
+      "C) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "D) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Via” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "B": "Correta: Via — Produto principal — Tecido-chave",
+      "C": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "D": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Via” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.\nB) CORRETA. Correta: Via — Produto principal — Tecido-chave\nC) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nD) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 574,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Músculo:” está correta?",
+    "opcoes": [
+      "A) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "B) Glucagon/insulina: regulam fosforilação de enzimas glicogênicas.",
+      "C) armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Músculo:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "B": "Incorreta: Glucagon/insulina: regulam fosforilação de enzimas glicogênicas.",
+      "C": "Correta: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Músculo:”.\nA) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.\nB) INCORRETA. Incorreta: Glucagon/insulina: regulam fosforilação de enzimas glicogênicas.\nC) CORRETA. Correta: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nD) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 575,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual alternativa associa corretamente “Glicogênio” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "B) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "C) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "D) Glicogênio — glicose mobilizável — fígado/músculo"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Glicogênio” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "B": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "C": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "D": "Correta: Glicogênio — glicose mobilizável — fígado/músculo"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Glicogênio” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nB) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nC) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.\nD) CORRETA. Correta: Glicogênio — glicose mobilizável — fígado/músculo",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 576,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Fosforilase” está correta?",
+    "opcoes": [
+      "A) = degradação; sintase = síntese; regulação recíproca.",
+      "B) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fosforilase”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = degradação; sintase = síntese; regulação recíproca.",
+      "B": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fosforilase”.\nA) CORRETA. Correta: = degradação; sintase = síntese; regulação recíproca.\nB) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nC) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nD) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 577,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “PPP (oxidativa)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Glucagon/insulina: regulam fosforilação de enzimas glicogênicas.",
+      "B) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “PPP (oxidativa)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Glucagon/insulina: regulam fosforilação de enzimas glicogênicas.",
+      "B": "Correta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “PPP (oxidativa)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Glucagon/insulina: regulam fosforilação de enzimas glicogênicas.\nB) CORRETA. Correta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nC) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nD) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 578,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Fígado” está correta?",
+    "opcoes": [
+      "A) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "B) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "C) exporta glicose; músculo não.",
+      "D) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fígado”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "B": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "C": "Correta: exporta glicose; músculo não.",
+      "D": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fígado”.\nA) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nB) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.\nC) CORRETA. Correta: exporta glicose; músculo não.\nD) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 579,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Glicogenólise hepática” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "B) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "C) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "D) Glicogenólise hepática — Muscular — Só fígado libera glicose livre (G6Pase)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Glicogenólise hepática” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "B": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "C": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "D": "Correta: Glicogenólise hepática — Muscular — Só fígado libera glicose livre (G6Pase)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Glicogenólise hepática” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nB) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nC) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.\nD) CORRETA. Correta: Glicogenólise hepática — Muscular — Só fígado libera glicose livre (G6Pase).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 580,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “PPP:” está correta?",
+    "opcoes": [
+      "A) G6PD e NADPH; sensível a estresse oxidativo.",
+      "B) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PPP:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: G6PD e NADPH; sensível a estresse oxidativo.",
+      "B": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+      "C": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "D": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PPP:”.\nA) CORRETA. Correta: G6PD e NADPH; sensível a estresse oxidativo.\nB) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias\nC) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nD) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 581,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “NADPH” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "B) PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "C) NADPH — NADH — NADPH = anabolismo/defesa; NADH = ETC energética.",
+      "D) PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “NADPH” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).",
+      "B": "Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.",
+      "C": "Correta: NADPH — NADH — NADPH = anabolismo/defesa; NADH = ETC energética.",
+      "D": "Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “NADPH” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Músculo:: armazena para uso local (sem G6Pase → sem exportação de glicose livre).\nB) INCORRETA. Incorreta: PPP: fornece NADPH e ribose; não substitui glicólise para ATP rápido.\nC) CORRETA. Correta: NADPH — NADH — NADPH = anabolismo/defesa; NADH = ETC energética.\nD) INCORRETA. Incorreta: PPP (oxidativa) — NADPH — fígado, adipócitos, hemácias",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 582,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “Glicemia de jejum:” está correta?",
+    "opcoes": [
+      "A) triagem de DM (critérios diagnósticos atualizados por diretriz — espírito: ≥126 mg/dL jejum clássico em adultos, confirmar com repetição/segundo teste conforme protocolo).",
+      "B) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "C) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "D) GLUT4: depende de insulina (músculo/adiposo)."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Glicemia de jejum:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: triagem de DM (critérios diagnósticos atualizados por diretriz — espírito: ≥126 mg/dL jejum clássico em adultos, confirmar com repetição/segundo teste conforme protocolo).",
+      "B": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "C": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "D": "Incorreta: GLUT4: depende de insulina (músculo/adiposo)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Glicemia de jejum:”.\nA) CORRETA. Correta: triagem de DM (critérios diagnósticos atualizados por diretriz — espírito: ≥126 mg/dL jejum clássico em adultos, confirmar com repetição/segundo teste conforme protocolo).\nB) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nC) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nD) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 583,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual alternativa associa corretamente “Aspecto” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) GLUT4: depende de insulina (músculo/adiposo).",
+      "B) Aspecto — Cetoacidose (clássica DM1) — Estado hiperosmolar (DM2",
+      "C) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "D) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Aspecto” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+      "B": "Correta: Aspecto — Cetoacidose (clássica DM1) — Estado hiperosmolar (DM2",
+      "C": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "D": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Aspecto” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).\nB) CORRETA. Correta: Aspecto — Cetoacidose (clássica DM1) — Estado hiperosmolar (DM2)\nC) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nD) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 584,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “TTGO / curva:” está correta?",
+    "opcoes": [
+      "A) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "B) GLUT4: depende de insulina (músculo/adiposo).",
+      "C) tolerância à glicose oral — gestação tem limiares específicos.",
+      "D) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “TTGO / curva:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "B": "Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+      "C": "Correta: tolerância à glicose oral — gestação tem limiares específicos.",
+      "D": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “TTGO / curva:”.\nA) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nB) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).\nC) CORRETA. Correta: tolerância à glicose oral — gestação tem limiares específicos.\nD) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 585,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Cetonas” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "B) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "C) GLUT4: depende de insulina (músculo/adiposo).",
+      "D) Cetonas — elevadas — ausentes/leves"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Cetonas” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "B": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "C": "Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+      "D": "Correta: Cetonas — elevadas — ausentes/leves"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cetonas” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nB) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nC) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).\nD) CORRETA. Correta: Cetonas — elevadas — ausentes/leves",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 586,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “HbA1c:” está correta?",
+    "opcoes": [
+      "A) média glicêmica ~3 meses — monitoramento terapêutico.",
+      "B) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "C) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "D) GLUT4: depende de insulina (músculo/adiposo)."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HbA1c:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: média glicêmica ~3 meses — monitoramento terapêutico.",
+      "B": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "C": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "D": "Incorreta: GLUT4: depende de insulina (músculo/adiposo)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HbA1c:”.\nA) CORRETA. Correta: média glicêmica ~3 meses — monitoramento terapêutico.\nB) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nC) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nD) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 587,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Osmolaridade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) GLUT4: depende de insulina (músculo/adiposo).",
+      "B) Osmolaridade — pode elevar — muito elevada",
+      "C) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "D) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Osmolaridade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+      "B": "Correta: Osmolaridade — pode elevar — muito elevada",
+      "C": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "D": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Osmolaridade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).\nB) CORRETA. Correta: Osmolaridade — pode elevar — muito elevada\nC) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nD) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 588,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “GLUT4” está correta?",
+    "opcoes": [
+      "A) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "B) HbA1c: = média; glicemia = instantâneo — funções diferentes.",
+      "C) depende de insulina (músculo/adiposo).",
+      "D) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “GLUT4”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "B": "Incorreta: HbA1c: = média; glicemia = instantâneo — funções diferentes.",
+      "C": "Correta: depende de insulina (músculo/adiposo).",
+      "D": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “GLUT4”.\nA) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nB) INCORRETA. Incorreta: HbA1c: = média; glicemia = instantâneo — funções diferentes.\nC) CORRETA. Correta: depende de insulina (músculo/adiposo).\nD) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 589,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual alternativa associa corretamente “Paciente” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "B) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "C) GLUT4: depende de insulina (músculo/adiposo).",
+      "D) Paciente — mais jovem DM1 — idoso DM2"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Paciente” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "B": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "C": "Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+      "D": "Correta: Paciente — mais jovem DM1 — idoso DM2"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Paciente” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nB) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nC) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).\nD) CORRETA. Correta: Paciente — mais jovem DM1 — idoso DM2",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 590,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual afirmação sobre “Contrarregulação” está correta?",
+    "opcoes": [
+      "A) explica hiperglicemia de estresse.",
+      "B) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "C) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "D) GLUT4: depende de insulina (músculo/adiposo)."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Contrarregulação”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: explica hiperglicemia de estresse.",
+      "B": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+      "C": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "D": "Incorreta: GLUT4: depende de insulina (músculo/adiposo)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Contrarregulação”.\nA) CORRETA. Correta: explica hiperglicemia de estresse.\nB) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.\nC) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nD) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 591,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Glicemia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "B) GLUT4: depende de insulina (músculo/adiposo).",
+      "C) Glicemia — HbA1c — Instantâneo vs média ~90 dias.",
+      "D) Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Glicemia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.",
+      "B": "Incorreta: GLUT4: depende de insulina (músculo/adiposo).",
+      "C": "Correta: Glicemia — HbA1c — Instantâneo vs média ~90 dias.",
+      "D": "Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Glicemia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: DM1 — DM2 — Autoimune/deficiência absoluta vs resistência relativa.\nB) INCORRETA. Incorreta: GLUT4: depende de insulina (músculo/adiposo).\nC) CORRETA. Correta: Glicemia — HbA1c — Instantâneo vs média ~90 dias.\nD) INCORRETA. Incorreta: Insulina: favorece anabolismo de carboidratos e inibe mobilização hepática.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 592,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual afirmação sobre “CPT I/carnitina” está correta?",
+    "opcoes": [
+      "A) = transporte; malonil-CoA inibe.",
+      "B) Insulina: favorece armazenar; jejum favorece queimar.",
+      "C) Lipogênese: usa NADPH e malonil-CoA.",
+      "D) Regulação recíproca: oxidação/síntese via malonil-CoA."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “CPT I/carnitina”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = transporte; malonil-CoA inibe.",
+      "B": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "C": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "D": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “CPT I/carnitina”.\nA) CORRETA. Correta: = transporte; malonil-CoA inibe.\nB) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nC) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nD) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 593,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Beta-oxidação” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "B) Beta-oxidação — Lipogênese",
+      "C) Insulina: favorece armazenar; jejum favorece queimar.",
+      "D) Lipogênese: usa NADPH e malonil-CoA."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Beta-oxidação” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "B": "Correta: Beta-oxidação — Lipogênese",
+      "C": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "D": "Incorreta: Lipogênese: usa NADPH e malonil-CoA."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Beta-oxidação” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nB) CORRETA. Correta: Beta-oxidação — Lipogênese\nC) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nD) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 594,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Lipogênese” está correta?",
+    "opcoes": [
+      "A) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "B) Ativação: citoplasmática + carnitina para cadeias longas.",
+      "C) usa NADPH e malonil-CoA.",
+      "D) Insulina: favorece armazenar; jejum favorece queimar."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Lipogênese”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "B": "Incorreta: Ativação: citoplasmática + carnitina para cadeias longas.",
+      "C": "Correta: usa NADPH e malonil-CoA.",
+      "D": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Lipogênese”.\nA) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nB) INCORRETA. Incorreta: Ativação: citoplasmática + carnitina para cadeias longas.\nC) CORRETA. Correta: usa NADPH e malonil-CoA.\nD) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 595,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Local principal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insulina: favorece armazenar; jejum favorece queimar.",
+      "B) Lipogênese: usa NADPH e malonil-CoA.",
+      "C) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "D) Local principal — mitocôndria — citoplasma"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Local principal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "B": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "C": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "D": "Correta: Local principal — mitocôndria — citoplasma"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Local principal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nB) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nC) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nD) CORRETA. Correta: Local principal — mitocôndria — citoplasma",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 596,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Cetonas” está correta?",
+    "opcoes": [
+      "A) = combustível alternativo; CAD = excesso patológico.",
+      "B) Insulina: favorece armazenar; jejum favorece queimar.",
+      "C) Lipogênese: usa NADPH e malonil-CoA.",
+      "D) Regulação recíproca: oxidação/síntese via malonil-CoA."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cetonas”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: = combustível alternativo; CAD = excesso patológico.",
+      "B": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "C": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "D": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cetonas”.\nA) CORRETA. Correta: = combustível alternativo; CAD = excesso patológico.\nB) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nC) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nD) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 597,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Hormônio” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "B) Hormônio — glucagon favorece oxidação — insulina favorece síntese",
+      "C) Insulina: favorece armazenar; jejum favorece queimar.",
+      "D) Lipogênese: usa NADPH e malonil-CoA."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Hormônio” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "B": "Correta: Hormônio — glucagon favorece oxidação — insulina favorece síntese",
+      "C": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "D": "Incorreta: Lipogênese: usa NADPH e malonil-CoA."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Hormônio” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nB) CORRETA. Correta: Hormônio — glucagon favorece oxidação — insulina favorece síntese\nC) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nD) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 598,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Ativação” está correta?",
+    "opcoes": [
+      "A) Lipogênese: usa NADPH e malonil-CoA.",
+      "B) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "C) citoplasmática + carnitina para cadeias longas.",
+      "D) Insulina: favorece armazenar; jejum favorece queimar."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ativação”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "B": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "C": "Correta: citoplasmática + carnitina para cadeias longas.",
+      "D": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ativação”.\nA) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nB) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nC) CORRETA. Correta: citoplasmática + carnitina para cadeias longas.\nD) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 599,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual alternativa associa corretamente “Sinal CPT I” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Insulina: favorece armazenar; jejum favorece queimar.",
+      "B) Lipogênese: usa NADPH e malonil-CoA.",
+      "C) Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "D) Sinal CPT I — ativo em jejum — inibido por malonil-CoA"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A opção correta é a linha em que “Sinal CPT I” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "B": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "C": "Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.",
+      "D": "Correta: Sinal CPT I — ativo em jejum — inibido por malonil-CoA"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sinal CPT I” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nB) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nC) INCORRETA. Incorreta: Regulação recíproca: oxidação/síntese via malonil-CoA.\nD) CORRETA. Correta: Sinal CPT I — ativo em jejum — inibido por malonil-CoA",
+    "aula_id": "pmh_a7"
+  },
+  {
+    "id": 600,
+    "materia": "pmh",
+    "tema": "pmh_a7",
+    "enunciado": "Qual afirmação sobre “Regulação recíproca” está correta?",
+    "opcoes": [
+      "A) oxidação/síntese via malonil-CoA.",
+      "B) Insulina: favorece armazenar; jejum favorece queimar.",
+      "C) Lipogênese: usa NADPH e malonil-CoA.",
+      "D) Ativação: citoplasmática + carnitina para cadeias longas."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Regulação recíproca”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: oxidação/síntese via malonil-CoA.",
+      "B": "Incorreta: Insulina: favorece armazenar; jejum favorece queimar.",
+      "C": "Incorreta: Lipogênese: usa NADPH e malonil-CoA.",
+      "D": "Incorreta: Ativação: citoplasmática + carnitina para cadeias longas."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Regulação recíproca”.\nA) CORRETA. Correta: oxidação/síntese via malonil-CoA.\nB) INCORRETA. Incorreta: Insulina: favorece armazenar; jejum favorece queimar.\nC) INCORRETA. Incorreta: Lipogênese: usa NADPH e malonil-CoA.\nD) INCORRETA. Incorreta: Ativação: citoplasmática + carnitina para cadeias longas.",
+    "aula_id": "pmh_a7"
+  }
+]

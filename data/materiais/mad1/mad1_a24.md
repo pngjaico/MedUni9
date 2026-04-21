@@ -2,7 +2,7 @@
 
 As micoses variam de simples incômodos estéticos na pele a infecções sistêmicas fatais em pacientes imunodeprimidos. Na prova, os temas centrais são as **Micoses Oportunistas na AIDS** (Criptococose e Pneumocistose), o diagnóstico por **Tinta da China** e o manejo das **Dermatofitoses (Tinhas)**.
 
-Na prática, saber que uma dor de cabeça em um paciente com HIV pode ser uma meningite fúngica insidiosa é fundamental para o diagnóstico precoce e a sobrevivência do paciente.
+Na prática, saber que uma dor de cabeça em um paciente com HIV pode ser uma **meningite fúngica insidiosa** é fundamental para o diagnóstico precoce e a sobrevivência do paciente.
 
 ---
 
@@ -21,12 +21,12 @@ São o terror dos pacientes com imunidade baixa (AIDS, transplantes).
 
 ### Pneumocistose (PCP - *Pneumocystis jirovecii*)
 - **Marca Clínica:** Falta de ar que piora ao esforço e oxigenação baixa, mas o médico ausculta o pulmão e não ouve "barulho" de pneumonia comum.
-- **Pista de Prova:** CD4 < 200. Tomografia mostra pulmão com aspecto de **"Vidro Fosco"**.
+- **Pista de Prova:** **CD4 < 200**. Tomografia mostra pulmão com aspecto de "**Vidro Fosco**".
 - **Tratamento:** Sulfametoxazol-Trimetoprima (**SMZ-TMP**) em dose alta.
 
 ### Criptococose (Meningite Fúngica)
 - **Marca Clínica:** Dor de cabeça que vai piorando ao longo de semanas, febre e às vezes confusão mental.
-- **Pista de Prova:** CD4 < 100. Contato com fezes de pombos.
+- **Pista de Prova:** **CD4 < 100**. Contato com fezes de pombos.
 - **Diagnóstico:** Exame de líquor com **Tinta da China** (vê a cápsula do fungo).
 
 ---
@@ -35,13 +35,13 @@ São o terror dos pacientes com imunidade baixa (AIDS, transplantes).
 
 - **Quem pega:** Homens, trabalhadores rurais ("limpadores de café"), que têm contato com o solo.
 - **Clínica:** Lesões na boca que parecem uma amora (**Estomatite Moriforme**) e manchas no pulmão.
-- **O Fungo:** No microscópio, parece uma **"Roda de Leme"** (vários brotos saindo de uma célula mãe).
+- **O Fungo:** No microscópio, parece uma "**Roda de Leme**" (vários brotos saindo de uma célula mãe).
 
 ---
 
 ## 3. Micoses Superficiais (Tinhas e Candidíase)
 
-- **Tinhas (Dermatofitoses):** Fungos que comem queratina. Causam lesões em anel (mancha vermelha com o meio mais claro).
+- **Tinhas (Dermatofitoses):** Fungos que comem queratina. Causam lesões em **anel** (mancha vermelha com o meio mais claro).
 - **Tinea Versicolor (Pano Branco):** Manchas claras ou escuras no tronco que descamam quando esticadas (**Sinal de Zileri**). Causada pela *Malassezia furfur*.
 - **Candidíase Oral (Muguet):** Placas brancas na língua e bochecha que saem ao raspar, deixando a carne vermelha por baixo. Comum em bebês e pacientes com AIDS.
 
@@ -79,10 +79,10 @@ Na dermatologia, lembre-se: as **Tinhas** fazem círculos vermelhos na pele. O *
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Pneumocistose** | **Pneumonia Comum** | **Vidro Fosco** vs Consolidação (Mancha branca sólida) |
-| **Criptococose** | **Meningite Bacteriana** | Início Lento (Semanas) vs **Início Rápido (Horas/Dias)** |
-| **Tinea Versicolor** | **Vitiligo** | Descação (Sinal de Zileri) vs **Mancha lisa sem cor** |
-| **Itraconazol** | **Fluconazol** | Escolha para Paracoco vs **Escolha para Cândida/Criptococo** |
-| **Tinta da China** | **Kato-Katz** | Fungos (Líquor) vs **Vermes (Fezes)** |
+| **Criptococose** | **Meningite Bacteriana** | **Início Lento (Semanas)** vs Início Rápido (Horas/Dias) |
+| **Tinea Versicolor** | **Vitiligo** | **Descação (Sinal de Zileri)** vs Mancha lisa sem cor |
+| **Itraconazol** | **Fluconazol** | **Escolha para Paracoco** vs Escolha para Cândida/Criptococo |
+| **Tinta da China** | **Kato-Katz** | **Fungos (Líquor)** vs Vermes (Fezes) |
 
 ### Frase-âncora para não esquecer
 

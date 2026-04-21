@@ -1,127 +1,90 @@
 # MAD2 — Aula 1: Imunodeficiências Primárias
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+As **imunodeficiências primárias (IDPs)** são defeitos genéticos no sistema imune que se manifestam, na maioria das vezes, por infecções de repetição. Na prova, o segredo é identificar qual **compartimento** está falhando com base no tipo de "bicho" que ataca o paciente: se são bactérias comuns (**Humoral**), fungos e vírus (**Celular**) ou bactérias específicas como o meningococo (**Complemento**).
+
+Na prática, o médico deve suspeitar de **IDP** quando uma criança apresenta infecções graves demais, frequentes demais ou por agentes estranhos, evitando que o dano se torne irreversível.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Imunodeficiência primária é um daqueles temas que parecem raros na teoria, mas aparecem toda semana na prática quando alguém trata infecção de repetição como "azar". O ponto central é que o sistema imune não falha de forma aleatória: ele falha por compartimento. Quando você aprende a ler o padrão de infecção, começa a enxergar o defeito por trás do quadro clínico em vez de apenas trocar antibiótico em cada consulta.
-
-Na Uninove, os professores costumam cobrar exatamente essa lógica: criança com otite e sinusite de repetição, ou paciente com infecção oportunista cedo na vida, e a pergunta não é "qual nome raro da síndrome", mas sim "qual braço da imunidade está comprometido". Quem acerta esse passo inicial acerta diagnóstico, exame e conduta.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Após a introdução.
+- **O que mostrar:** O "Mapa das Falhas": Um infográfico dividindo o sistema imune em 4 quadrantes: **B (Humoral)**, **T (Celular)**, **Fagócitos** e **Complemento**. Para cada um, mostrar o agente infeccioso "assinatura" (ex: Pneumococo para B; Cândida/Vírus para T; Abscessos para Fagócitos).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Padrões clínicos de infecção nas imunodeficiências primárias.
 
+## 1. Como Suspeitar: Os Sinais de Alerta
 
-
+Não é toda criança que adoece muito que tem imunoficiência. O que importa é a **Gravidade** e o **Agente**.
+- **Infecções de Repetição:** Mais de 8 otites, 2 sinusites ou 2 pneumonias em um ano são sinais clássicos.
+- **Bactérias Encapsuladas:** Se o paciente repete infecções por ***Pneumococo*** ou ***Haemophilus***, pense em falha de **Anticorpos (Humoral)**.
+- **Crescimento:** Uma criança que não ganha **peso** ou **altura** por causa das infecções é um sinal de alerta vermelho.
 
 ---
 
-## O Jeito Certo de Suspeitar: padrão de infecção vale mais que lista de exames
+## 2. Defeito Humoral: A Falta de Anticorpos
 
-O primeiro erro comum é pedir uma bateria completa de exames antes de organizar o raciocínio clínico. Em imunodeficiência primária, você começa pela história: idade do início, tipo de agente, gravidade, necessidade de internação e resposta às terapias habituais. Um lactente que já teve duas pneumonias graves e candidíase oral persistente não está no mesmo cenário de uma criança com rinite alérgica e duas otites no ano.
+É o tipo mais comum de IDP. Os sintomas costumam surgir após os 6 meses de vida, quando os anticorpos da mãe (passados na gravidez) acabam.
+- **Exames:** O primeiro passo é dosar as imunoglobulinas (**IgG, IgA e IgM**).
+- **Clínica:** Sinusites, otites e pneumonias que não param de voltar. Se não tratar, o pulmão fica destruído (**Bronquiectasias**).
+- **Dica:** Se o paciente tem infecção por ***Giardia*** de repetição, pense em deficiência de **IgA**.
 
-> **Dica de Prova:** quando o enunciado destaca infecção de repetição por **bactérias encapsuladas**, pense primeiro em defeito de anticorpos.
+---
 
-Outro ponto que costuma separar quem entende do tema de quem decorou tabela é olhar para o intervalo livre de doença. Paciente com períodos curtos entre infecções, necessidade frequente de antibiótico endovenoso e baixo ganho ponderal deve levantar suspeita forte de imunodeficiência verdadeira.
+## 3. Defeito Celular: A Falha dos Linfócitos T
 
-> **Pegadinha:** confundir frequência de infecção em creche com imunodeficiência. Criança de creche pode adoecer bastante, mas geralmente evolui bem, sem infecção invasiva e com recuperação adequada.
+São quadros muito mais graves e começam logo após o nascimento.
+- **Perfil:** O paciente tem infecções por vírus, fungos (**Candidíase oral persistente**) e germes oportunistas.
+- **Gravidade:** Como o linfócito T é o "maestro" do sistema imune, sua falha geralmente derruba o sistema todo (**Imunodeficiência Combinada Grave - SCID**). É uma emergência pediátrica que requer **transplante de medula**.
 
-## Quando o defeito é humoral: o clássico que mais cai
+---
 
-Defeitos de imunidade humoral (principalmente produção de **imunoglobulinas**) tendem a aparecer após os primeiros meses de vida, quando a proteção passiva materna cai. O padrão típico é sinusite, otite média, pneumonia e, em casos tardios, bronquiectasia por dano estrutural acumulado.
+## 4. Fagócitos e Complemento: Casos Específicos
 
-Se o enunciado trouxer pneumococo recorrente, hemófilo, necessidade repetida de antibiótico e vacinação com resposta ruim, a hipótese de deficiência de anticorpos ganha muita força. Aqui, não basta dizer "imunidade baixa": precisa especificar que o braço humoral não está funcionando como deveria.
+- **Fagócitos:** Quando os "comedores" de bactérias falham, o paciente apresenta **Abscessos (fanhões)** na pele e nos órgãos internos que demoram a curar e não fazem pus direito.
+- **Complemento:** A pista clássica de prova é a **Meningite Meningocócica de Repetição**. Se o paciente teve meningite por ***Neisseria*** mais de uma vez, você **DEVE** investigar as proteínas do complemento (**CH50**).
 
-> **Dica de Prova:** em suspeita de defeito humoral, os exames iniciais mais úteis são dosagem de **IgG, IgA e IgM** e avaliação de resposta vacinal.
-
-## Quando o defeito é celular: infecção oportunista e gravidade precoce
-
-Defeitos de imunidade celular, especialmente de linfócitos T, mudam o perfil de risco de maneira drástica. O paciente passa a ter maior suscetibilidade a vírus, fungos e germes oportunistas, muitas vezes com início precoce, evolução arrastada e maior chance de internação.
-
-Nesses cenários, candidíase mucocutânea persistente, pneumonias graves e infecções de repetição fora do padrão bacteriano comum apontam para falha da defesa mediada por células. Quando o problema envolve simultaneamente T e B, você entra no território das imunodeficiências combinadas, que exigem encaminhamento rápido.
-
-> **Pegadinha:** achar que candidíase oral isolada define imunodeficiência celular. O que pesa é persistência, recorrência e associação com outros sinais de gravidade.
-
-## Fagócitos e complemento: quadros específicos que dão a resposta
-
-Defeitos de fagócitos costumam aparecer com abscessos recorrentes, infecções cutâneas profundas e dificuldade de controle de infecção bacteriana. Já falhas em vias do complemento, principalmente terminais, têm associação clássica com infecção meningocócica recorrente.
-
-Esse é um ponto elegante de prova: o caso parece "infeccioso comum", mas o histórico revela repetição por agentes específicos. Quando isso aparece, o enunciado está praticamente dizendo para você pensar em defeito de via imune inata ou complemento.
-
-| Braço da imunidade | Padrão clínico mais comum | Agentes típicos | Exame inicial útil | Pista que a Uninove gosta |
-|--------------------|---------------------------|-----------------|--------------------|---------------------------|
-| Humoral (anticorpos) | Sinopulmonares recorrentes | Encapsulados | IgG/IgA/IgM + resposta vacinal | Otite/sinusite/pneumonia repetidas |
-| Celular (linfócito T) | Oportunistas e infecções virais/fúngicas | Vírus, fungos, protozoários oportunistas | Fenotipagem linfocitária | Candidíase persistente + infecção grave precoce |
-| Fagocítica | Abscessos recorrentes e infecção de pele/tecido | Bactérias e fungos específicos | Testes funcionais de fagócito | Coleções purulentas de repetição |
-| Complemento terminal | Meningococemia/meningite recorrente | Neisseria | Dosagem de complemento (via terminal) | Meningococo em episódios múltiplos |
-
-## Triagem inicial sem exagero: passo a passo que resolve
-
-Na prática, a triagem começa com hemograma, imunoglobulinas séricas e avaliação da história vacinal. Se o padrão clínico for compatível, você avança para testes mais direcionados. O objetivo não é "fechar síndrome rara" no primeiro atendimento, e sim reconhecer risco e não perder o tempo crítico.
-
-Em criança com infecção grave de repetição, atraso de crescimento e internações frequentes, a conduta é dupla: tratar episódio agudo com segurança e já organizar investigação etiológica. O pior caminho é tratar cada infecção como evento isolado e descobrir o defeito após sequela pulmonar.
-
-> **Dica de Prova:** prova adora perguntar qual é a **primeira conduta racional**; geralmente é estabilizar o quadro atual e iniciar investigação dirigida, não pedir painel extenso sem hipótese.
-
-| Situação clínica no enunciado | Erro comum de prova | Leitura correta |
-|-------------------------------|---------------------|-----------------|
-| Múltiplas otites em criança de creche sem gravidade | Diagnosticar imunodeficiência automaticamente | Pode ser exposição elevada; avaliar gravidade e evolução |
-| Pneumonia de repetição + baixo ganho de peso | Tratar como infecção comunitária comum indefinidamente | Investigar imunodeficiência primária precocemente |
-| Meningite meningocócica recorrente | Atribuir apenas a "azar epidemiológico" | Pesquisar deficiência de complemento terminal |
-| Candidíase persistente + infecção grave precoce | Reduzir a quadro dermatológico local | Suspeitar defeito de imunidade celular/combinada |
+---
 
 ## Ponte com a Clínica
 
-No ambulatório de pediatria e clínica médica, imunodeficiência primária entra como diagnóstico de raciocínio, não de adivinhação. Quando você organiza o padrão (tipo de infecção, frequência, gravidade, agente e idade de início), para de "apagar incêndio" infecção por infecção e passa a proteger órgão, crescimento e qualidade de vida no longo prazo.
+O grande desafio no consultório é diferenciar a "Criança da Creche" da criança com IDP. A criança da creche adoece muito, mas tem **Crescimento Normal** e responde rápido aos antibióticos comuns. Já a criança com imunodeficiência precisa de antibióticos venosos, interna frequentemente e está sempre abaixo da curva de peso. Identificar a IDP cedo permite o tratamento com **Imunoglobulina Venosa**, devolvendo uma vida normal ao paciente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Padrão de infecção orienta diagnóstico:** tipo de agente e recorrência apontam o braço imune comprometido.
-- **Defeito humoral:** predomina em infecções sinopulmonares por bactérias encapsuladas.
-- **Defeito celular:** aumenta risco de infecções oportunistas, virais e fúngicas graves.
-- **Complemento terminal:** associação clássica com meningococo recorrente.
-- **Fagócito disfuncional:** pensar em abscessos e infecções cutâneas profundas repetidas.
-- **Triagem inicial racional:** hemograma + imunoglobulinas + história vacinal bem analisada.
-- **Sinal de alarme real:** infecção grave de repetição com comprometimento de crescimento.
-- **Conduta inteligente:** tratar agudo e investigar etiologia em paralelo.
+- **Bactérias Encapsuladas**: Sugerem defeito **Humoral** (Anticorpos).
+- **Fungos e Vírus Graves**: Sugerem defeito **Celular** (Linfócitos T).
+- **CH50**: Exame de triagem para deficiências de **Complemento**.
+- **Meningococo de Repetição**: Clássico para deficiência de via terminal do complemento (C5-C9).
+- **SCID**: A imunodeficiência mais grave; "Bebê na bolha".
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Encapsulados recorrentes:** sugerem defeito de anticorpos.
-- **Oportunistas precoces:** sugerem falha de imunidade celular.
-- **Meningococo recorrente:** lembra deficiência de complemento terminal.
-- **Abscessos repetidos:** apontam para disfunção de fagócitos.
-- **História clínica boa:** vale mais que painel amplo sem hipótese.
-- **Infecção + baixo crescimento:** é sinal de alto risco.
-- **Triagem inicial:** hemograma e imunoglobulinas são base.
-- **Conduta na prova:** estabilizar e investigar de forma dirigida.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Imunodeficiências, ligue o "bicho" ao defeito. 
+**Pneumococo/Otite** = B (Humoral). **Cândida/Vírus** = T (Celular). **Abscesso/Pus** = Fagócito. **Meningococo** = Complemento. A triagem inicial é sempre **Hemograma** e **Dosagem de Imunoglobulinas**. Se o teste do pezinho (TRECs) vier alterado, suspeite de falha grave de células T.
+
+A Uninove adora o tempo de início: Defeitos de **T** aparecem muito cedo (dias/semanas); Defeitos de **B** aparecem após os 6 meses. Lembre-se: vacinas de vírus vivo (como Sabin ou BCG) são **PROIBIDAS** em pacientes com suspeita de IDP celular, pois podem causar a doença da própria vacina. Por fim, se a questão falar de queda de peso e infecção invasiva, esqueça a creche e pense em imunodeficiência.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Defeito humoral | Defeito celular | Humoral: encapsulados; celular: oportunistas/virais/fúngicos |
-| Infecção de creche | Imunodeficiência primária | Creche: evolução benigna; imunodeficiência: gravidade e recorrência anormal |
-| Episódio infeccioso isolado | Infecção de repetição patológica | Repetição patológica tem frequência alta, gravidade e sequela potencial |
-| Meningite esporádica | Meningite meningocócica recorrente | Recorrência por Neisseria sugere investigar complemento |
+| **Imunidade Humoral (B)** | **Imunidade Celular (T)** | Infecção por **Bactérias** vs Infecção por **Fungos/Vírus** |
+| **Deficiência de IgA** | **SCID** | A mais **Comum/Leve** vs A mais **Grave/Urgente** |
+| **Criança da Creche** | **Imunodeficiente** | **Crescimento Normal** vs **Comprometimento de Peso/Altura** |
+| **Complemento** | **Fagócitos** | **Meningococo** de repetição vs **Abscessos** de repetição |
+| **Imunoglobulina Venosa** | **Transplante de Medula** | Tratamento para Falha de **B** vs Tratamento para Falha de **T** |
 
 ### Frase-âncora para não esquecer
-> "Quem repete infecção no mesmo padrão não está sem sorte, está sem defesa no braço certo."
+
+> "B de bactéria, T de terra (fungos/vírus). Se o complemento falha, a Neisseria faz a festa. Se o fagócito dorme, o abscesso aparece. IDP não é azar, é defeito no braço certo da defesa."

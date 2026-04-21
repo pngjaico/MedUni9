@@ -1,8 +1,8 @@
 # MAD2 — Aula 8: Hepatites Virais (A a E)
 
-As hepatites virais são o pesadelo de quem tenta apenas decorar, mas um presente para quem entende de sorologia. Na prova, os temas centrais são o mecanismo de transmissão (quem vem da comida e quem vem do sangue), o risco de **Cronificação** (especialmente B e C) e a interpretação cirúrgica dos **Marcadores Sorológicos**.
+As hepatites virais são o pesadelo de quem tenta apenas decorar, mas um presente para quem entende de sorologia. Na prova, os temas centrais são o mecanismo de transmissão (quem vem da comida e quem vem do sangue), o risco de **Cronificação** (especialmente **B** e **C**) e a interpretação cirúrgica dos **Marcadores Sorológicos**.
 
-Na prática, o médico deve saber se o paciente está com a doença agora, se já teve no passado ou se está protegido pela vacina, evitando tratamentos errados e detectando riscos de câncer de fígado cedo.
+Na prática, o médico deve saber se o paciente está com a doença agora, se já teve no passado ou se está protegido pela vacina, evitando tratamentos errados e detectando riscos de **câncer de fígado** cedo.
 
 ---
 
@@ -20,7 +20,7 @@ Na prática, o médico deve saber se o paciente está com a doença agora, se j�
 Essas duas hepatites são as chamadas "entéricas" (transmissão pela boca).
 - **Transmissão:** Água ou alimentos contaminados com fezes (**Fecal-Oral**). São comuns em locais sem saneamento básico.
 - **Comportamento:** Elas causam uma infecção aguda barulhenta (**Icterícia** — o paciente fica amarelo), mas **NÃO cronificam**. O corpo se cura sozinho na grande maioria das vezes.
-- **Hepatite E em Grávidas:** Atenção total, pois neles a Hepatite E pode evoluir para falência do fígado e morte.
+- **Hepatite E em Grávidas:** Atenção total, pois nelas a **Hepatite E** pode evoluir para falência do fígado e morte.
 
 ---
 
@@ -35,7 +35,7 @@ Estas são as hepatites perigosas pelo risco de destruição lenta do fígado.
 ## 3. Hepatite D: A Virosa "Sombra"
 
 O vírus D é incompleto e "malandro". Ele só consegue sobreviver e infectar se o vírus B estiver lá para ajudar.
-- **Regra de Ouro:** Não existe Hepatite D em quem não tem Hepatite B. Se o paciente já tem B e pega D, o quadro do fígado piora violentamente (**Superinfecção**).
+- **Regra de Ouro:** **Não existe Hepatite D em quem não tem Hepatite B**. Se o paciente já tem B e pega D, o quadro do fígado piora violentamente (**Superinfecção**).
 
 ---
 
@@ -45,7 +45,7 @@ Para a prova, você deve saber quem é quem na sorologia:
 - **HBsAg:** Se der positivo, o vírus **ESTÁ no corpo** (Aguda ou Crônica).
 - **Anti-HBc IgM:** Indica infecção **Recente/Aguda**.
 - **Anti-HBc Total (IgG):** Indica que a pessoa **TEVE contato** com o vírus real em algum momento da vida.
-- **Anti-HBs:** É o anticorpo protetor, o **Escudo**. Se for o ÚNICO positivo, o paciente é **Vacinado**. Se o Anti-HBc Total também for positivo, o paciente se **Curou** sozinho.
+- **Anti-HBs:** É o anticorpo protetor, o **Escudo**. Se for o **ÚNICO** positivo, o paciente é **Vacinado**. Se o Anti-HBc Total também for positivo, o paciente se **Curou** sozinho.
 
 ---
 
@@ -81,7 +81,7 @@ A Uninove adora o vírus **Delta (D)**. Lembre-se que ele só infecta junto com 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Hepatite A** | **Hepatite B** | **Curto Prazo** (comida) vs **Longo Prazo** (sangue) |
-| **Vacinado (Hep B)** | **Curado natural** | **Anti-HBs** sozinho vs **Anti-HBs + Anti-HBc IgG** |
+| **Vacinado (Hep B)** | **Curado natural** | **Anti-HBs sozinho** vs **Anti-HBs + Anti-HBc IgG** |
 | **Coinfecção B e D** | **Superinfecção D em B** | Pegou os dois juntos vs **Já tinha B e pegou D depois** |
 | **HBsAg** | **Anti-HBs** | Vírus **Presente** vs Vírus **Derrotado** (Escudo) |
 | **Hepatite C** | **Hepatite B** | Alta chance de **Cronificar** vs Baixa chance no adulto |

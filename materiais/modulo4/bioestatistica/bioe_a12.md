@@ -2,7 +2,7 @@
 
 O Ensaio Clínico Randomizado (RCT) é o rei dos estudos científicos. Na prova, os temas centrais são a **Randomização**, o **Mascaramento (Cegamento)**, o cálculo do **NNT** e a análise por **Intenção de Tratar (ITT)**.
 
-Na prática, o RCT é o único estudo que pode provar que um remédio realmente funciona e não é apenas um efeito placebo ou coincidência. Diferente dos outros estudos, aqui o pesquisador não é apenas um observador; ele é um interventor que controla quem toma o quê. Aprender a ler um RCT é aprender a separar o que é promessa de laboratório do que é benefício real para o seu paciente.
+Na prática, o **RCT** é o único estudo que pode provar que um remédio realmente funciona e não é apenas um efeito placebo ou coincidência. Diferente dos outros estudos, aqui o pesquisador não é apenas um observador; ele é um interventor que controla quem toma o quê. Aprender a ler um RCT é aprender a separar o que é promessa de laboratório do que é benefício real para o seu paciente.
 
 ---
 
@@ -36,25 +36,25 @@ O conhecimento pode estragar a pesquisa (quem sabe que tomou o remédio "sente" 
 
 Este é o número mais importante para o médico na prática:
 - **O que ele diz:** "Quantas pessoas eu preciso tratar com esse remédio para salvar uma única vida?"
-- **Interpretação:** Quanto menor o NNT, melhor o remédio. Um NNT de 5 é fantástico; um NNT de 500 é muito fraco.
-- **Fórmula:** NNT = 1 / Redução do Risco Absoluto (RRA).
+- **Interpretação:** Quanto menor o **NNT**, melhor o remédio. Um NNT de 5 é fantástico; um NNT de 500 é muito fraco.
+- **Fórmula:** **NNT = 1 / Redução do Risco Absoluto (RRA)**.
 
 ---
 
 ## 4. Intenção de Tratar (ITT): A Honestidade Estatística
 
 E se o paciente do grupo "Remédio" desistir do estudo ou esquecer de tomar?
-- **ITT:** Você analisa ele como se ele tivesse tomado o remédio até o fim.
-- **Por que isso?** Porque no mundo real os pacientes esquecem de tomar os remédios. Analisar por ITT dá o resultado da **Vida Real**, e não de um mundo perfeito de laboratório. É mais conservador e seguro.
+- **Intenção de Tratar (ITT):** Você analisa ele como se ele tivesse tomado o remédio até o fim.
+- **Por que isso?** Porque no mundo real os pacientes esquecem de tomar os remédios. Analisar por **ITT** dá o resultado da **Vida Real**, e não de um mundo perfeito de laboratório. É mais conservador e seguro.
 
 ---
 
 ## 5. Fases da Pesquisa (A Corrida da Vacina)
 
-- **Fase I:** Segurança (Usa pouca gente saudável).
-- **Fase II:** Dose (Vê se funciona um pouco).
-- **Fase III:** Eficácia (Milhares de pessoas, comparação com placebo). É aqui que o remédio é aprovado.
-- **Fase IV:** Pós-venda (Vê se aparecem efeitos raros após milhões de pessoas tomarem).
+- **Fase I: Segurança** (Usa pouca gente saudável).
+- **Fase II: Dose** (Vê se funciona um pouco).
+- **Fase III: Eficácia** (Milhares de pessoas, comparação com placebo). É aqui que o remédio é aprovado.
+- **Fase IV: Pós-venda** (Vê se aparecem efeitos raros após milhões de pessoas tomarem).
 
 ---
 

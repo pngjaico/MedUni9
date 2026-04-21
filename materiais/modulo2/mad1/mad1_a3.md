@@ -39,7 +39,7 @@ Os linfócitos T passam por um rigoroso controle de qualidade:
 ## Ativação B e Produção de Anticorpos
 
 A ativação dos linfócitos B pode ser:
-- **T-Dependente:** Requer ajuda do T CD4+. Gera **Memória** e mudança de classe (Troca de IgM para IgG/IgA/IgE).
+- **T-Dependente:** Requer ajuda do T CD4+. Gera **Memória** e **mudança de classe** (Troca de IgM para IgG/IgA/IgE).
 - **T-Independente:** Resposta rápida a açúcares de bactérias. Gera apenas **IgM** e **Sem Memória**.
 
 ### Resposta Primária vs. Secundária

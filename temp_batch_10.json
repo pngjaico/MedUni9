@@ -1,0 +1,2382 @@
+[
+  {
+    "id": 1101,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Inotropismo positivo refere-se principalmente a:",
+    "opcoes": [
+      "A) Aumento da frequência de disparo do nó sinoatrial.",
+      "B) Aumento da velocidade de condução no nó atrioventricular.",
+      "C) Redução da força de contração ventricular.",
+      "D) Aumento da força de contração miocárdica."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Inotropismo refere-se à força; cronotropismo à frequência; dromotropismo à condução AV.",
+    "explicacoes_opcoes": {
+      "A": "Isso é cronotropismo.",
+      "B": "Isso é dromotropismo.",
+      "C": "Seria inotropismo negativo.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Inotropismo positivo aumenta a contratilidade.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1102,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O **Ureter** é um tubo muscular que transporta a urina do rim à bexiga. Ele possui três pontos anatômicos de constrição (estreitamento) onde cálculos renais costumam ficar presos. Quais são eles?",
+    "opcoes": [
+      "A) Junção ureteropélvica; Cruzamento com os vasos ilíacos; Junção ureterovesical (entrada na bexiga).",
+      "B) Perto do umbigo; Atrás do fígado; Dentro do pâncreas.",
+      "C) Na saída da uretra; No colo do fêmur; No calcanhar.",
+      "D) Não há estreitamentos; o ureter tem o mesmo calibre em todo o trajeto."
+    ],
+    "explicacao_geral": "Anatomia topográfica do ureter.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Esses três pontos são os 'gargalos' naturais do ureter. Entendê-los é essencial para prever onde uma pedra pode causar obstrução e dor."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1103,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O **Trígono Vesical** é uma área triangular na base interna da bexiga urinária que permanece fixa mesmo quando a bexiga está vazia. Quais orifícios delimitam esse triângulo?",
+    "opcoes": [
+      "A) Os dois orifícios das narinas e a boca.",
+      "B) Os dois Óstios dos Ureteres e o Óstio Interno da Uretra.",
+      "C) O orifício do reto e o canal inguinal.",
+      "D) As veias renais e a artéria aorta."
+    ],
+    "explicacao_geral": "Anatomia interna da bexiga.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] O trígono é clinicamente importante pois sua mucosa é lisa e fixa, servindo de referência anatômica para cistoscopias."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1104,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A uretra masculina é muito mais longa que a feminina e possui divisões anatômicas distintas. Qual a sequência correta das porções da uretra masculina da bexiga para o exterior?",
+    "opcoes": [
+      "A) Esponjosa, Prostática e Renal.",
+      "B) Peniana, Escrotal e Abdominal.",
+      "C) Cervical, Torácica e Lombar.",
+      "D) Pré-prostática, Prostática, Membranácea e Esponjosa (Peniana)."
+    ],
+    "explicacao_geral": "Anatomia do trato urinário inferior masculino.",
+    "explicacoes_opcoes": {
+      "D": "[CORRETA] A porção membranácea é a mais curta e atravessa o diafragma urogenital, enquanto a esponjosa percorre o corpo esponjoso do pênis."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1105,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Anatomicamente, onde se localizam os **Rins** e qual estrutura óssea protege parcialmente seus polos superiores?",
+    "opcoes": [
+      "A) Espaço Retroperitoneal; Costelas 11 e 12.",
+      "B) Dentro da bolsa peritoneal; Esterno e Clavícula.",
+      "C) Na cavidade pélvica; Ossos do quadril (Ílio).",
+      "D) Atrás do pescoço; Vértebras Cervicais."
+    ],
+    "explicacao_geral": "Localização e proteção renal.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Os rins são órgãos retroperitoneais (atrás do peritônio). As duas últimas costelas fornecem proteção mecânica contra traumas dorsais."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1106,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Por que as mulheres apresentam uma incidência significativamente maior de **Infecções do Trato Urinário (ITU)** do que os homens?",
+    "opcoes": [
+      "A) Porque o rim feminino produz menos urina.",
+      "B) Devido à Uretra curta e sua proximidade anatômica com o ânus, facilitando a colonização por bactérias intestinais.",
+      "C) Porque os homens não possuem uretra, apenas ureter.",
+      "D) Porque a bexiga feminina é feita de metal rígido."
+    ],
+    "explicacao_geral": "Anatomia comparada e patologia urinária.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] A anatomia feminina favorece a subida de bactérias (ascendente) do períneo até a bexiga (Cistite)."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1107,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Durante a **sondagem vesical** em um paciente do sexo masculino, qual a principal dificuldade anatômica que o enfermeiro ou médico deve considerar ao passar o cateter?",
+    "opcoes": [
+      "A) O tamanho da bexiga, que é muito pequena no homem.",
+      "B) A ausência de lubrificação natural nos ureteres.",
+      "C) As duas curvaturas da uretra (peniana e subpúbica) e a resistência da uretra prostática.",
+      "D) O fato de a uretra masculina ser reta como um cano de PVC."
+    ],
+    "explicacao_geral": "Procedimentos e anatomia de superfície.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] A uretra masculina tem formato em 'S' relaxada. É necessário retificar o pênis para facilitar a passagem segura da sonda."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1108,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O processo de micção (urinar) envolve a coordenação de músculos voluntários e involuntários. Qual o nome do músculo da parede da bexiga e como ele atua?",
+    "opcoes": [
+      "A) Músculo Detrusor; contrai-se para expelir a urina sob controle parassimpático.",
+      "B) Músculo Bíceps; relaxa para deixar a urina cair.",
+      "C) Músculo Esfíncter Externo; é o único músculo da bexiga.",
+      "D) Músculo Cremáster; sobe a bexiga para o tórax."
+    ],
+    "explicacao_geral": "Fisiologia muscular da micção.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Detrusor** é a musculatura lisa da bexiga. Sua contração aumenta a pressão interna para vencer o esfíncter e liberar a urina."
+    },
+    "caso_clinico": false,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1109,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Cenário: Paciente apresenta dor lombar aguda, tipo 'pontada' intensa, que irradia para a região inguinal (virilha) e testículo. O médico suspeita de um cálculo renal descendo pelo ureter. Qual o nome dessa dor e por que ela irradia para baixo?",
+    "opcoes": [
+      "A) Dor de estômago; irradia por gases.",
+      "B) Cólica Nefrética; a dor segue o trajeto descendente do ureter e compartilha inervação com os dermátomos da região genital.",
+      "C) Apendicite; o cálculo fura o intestino.",
+      "D) Lombalgia mecânica; por carregar peso."
+    ],
+    "explicacao_geral": "Semiologia urológica e dermatômeros.",
+    "explicacoes_opcoes": {
+      "B": "[CORRETA] À medida que a pedra (cálculo) desce e raspa no ureter, a dor se desloca de trás (rim) para frente (genitais)."
+    },
+    "caso_clinico": true,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1110,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Cenário: Homem de 75 anos queixa-se de jato urinário fraco, esforço para urinar e sensação de bexiga sempre cheia. O exame revela aumento da Próstata. Qual porção da uretra está sendo comprimida?",
+    "opcoes": [
+      "A) Uretra Esponjosa.",
+      "B) Uretra Membranácea.",
+      "C) Uretra Prostática.",
+      "D) Óstio Externo da Uretra."
+    ],
+    "explicacao_geral": "Patologia obstrutiva infravesical.",
+    "explicacoes_opcoes": {
+      "C": "[CORRETA] Como a próstata 'abraça' a uretra logo na saída da bexiga, seu crescimento (HBP) estrangula esse canal, causando dificuldade miccional."
+    },
+    "caso_clinico": true,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1111,
+    "categoria": "inedita",
+    "materia": "ds",
+    "tema": "ds_a3",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Cenário: Mulher de 25 anos apresenta ardor ao urinar (disúria), aumento da frequência de idas ao banheiro com pouca urina (polaciúria) e dor acima do púbis. Qual a suspeita diagnóstica principal?",
+    "opcoes": [
+      "A) Cistite Aguda (Infecção da Bexiga).",
+      "B) Cálculo na Uretra.",
+      "C) Gravidez Ectópica.",
+      "D) Insuficiência Renal Crônica terminal."
+    ],
+    "explicacao_geral": "Clínica de infecção urinária baixa.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Estes são os sintomas clássicos de irritação da mucosa da bexiga por bactérias (Cistite)."
+    },
+    "caso_clinico": true,
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1112,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual descrição corresponde melhor à função dos átrios em condições basais?",
+    "opcoes": [
+      "A) Receber sangue venoso ou oxigenado e contribuir para o enchimento ventricular.",
+      "B) Ejetar sangue para a artéria pulmonar e para a aorta com alta pressão.",
+      "C) Impedir o retorno venoso ao coração durante a sístole ventricular.",
+      "D) Fechar as valvas semilunares no instante da contração atrial."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Átrios recebem sangue e completam o enchimento ventricular; ventrículos ejetam.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Ejeção de alta pressão é função ventricular.",
+      "C": "Os átrios não bloqueiam o retorno venoso de forma predominante nesse sentido.",
+      "D": "Semilunares fecham por mecanismos hemodinâmicos ligados a gradientes, não por contração atrial isolada."
+    },
+    "explicacao": "Resumo: Átrios recebem e auxiliam o enchimento; ventrículos ejetam.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1113,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "A primeira bulha cardíaca (B1) está mais diretamente relacionada a:",
+    "opcoes": [
+      "A) Fechamento das valvas semilunares.",
+      "B) Fechamento das valvas atrioventriculares.",
+      "C) Abertura isolada da valva pulmonar antes da sístole ventricular.",
+      "D) Abertura das valvas atrioventriculares no início da diástole ventricular."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "B1 associa-se ao fechamento das valvas AV (tricúspide e mitral).",
+    "explicacoes_opcoes": {
+      "A": "Semilunares relacionam-se principalmente à B2.",
+      "B": "Correto.",
+      "C": "Não descreve o componente principal da B1.",
+      "D": "Abertura AV não gera B1."
+    },
+    "explicacao": "Resumo: B1 corresponde ao fechamento das valvas AV.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1114,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual princípio explica predominantemente a abertura e o fechamento das valvas cardíacas?",
+    "opcoes": [
+      "A) Contração ativa das cúspides como músculo estriado.",
+      "B) Sucção gerada exclusivamente pelo pericárdio fibroso.",
+      "C) Gradiente de pressão entre compartimentos adjacentes.",
+      "D) Influxo nervoso direto que puxa cada cúspide."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Valvas abrem e fecham conforme gradientes de pressão, garantindo fluxo unidirecional.",
+    "explicacoes_opcoes": {
+      "A": "Cúspides não se contraem como músculo estriado independente.",
+      "B": "O pericárdio não determina diretamente abertura valvar.",
+      "C": "Correto.",
+      "D": "Inervação modula frequência e contratilidade; não abre valva por tração nervosa direta nas cúspides."
+    },
+    "explicacao": "Resumo: Pressão manda e a valva acompanha o gradiente.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1115,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual função descreve melhor o papel dos ventrículos no circuito duplo?",
+    "opcoes": [
+      "A) Apenas armazenar sangue sem gerar pressão de ejeção.",
+      "B) Conduzir exclusivamente impulsos elétricos sem ejeção relevante.",
+      "C) Receber sangue diretamente das artérias pulmonar e aorta.",
+      "D) Ejetar sangue para a circulação pulmonar ou sistêmica conforme o lado."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ventrículos geram pressão para ejetar para tronco pulmonar (direito) ou aorta (esquerdo).",
+    "explicacoes_opcoes": {
+      "A": "Ventrículos são bombas de ejeção, não simples reservatórios passivos.",
+      "B": "A condução elétrica é papel do sistema especializado; ventrículos geram fluxo pulsátil.",
+      "C": "Ventrículos recebem das valvas AV, não diretamente das artérias de saída.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Ventrículos ejetam para pulmão ou sistema sistêmico.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1116,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher com insuficiência mitral. Durante a sístole ventricular esquerda, qual mecanismo explica refluxo anormal para o átrio esquerdo?",
+    "opcoes": [
+      "A) Fechamento precoce isolado da valva aórtica.",
+      "B) Coaptação insuficiente permite retorno quando a pressão ventricular excede a atrial na sístole.",
+      "C) Ausência de gradiente entre ventrículo e átrio em toda a ciclagem.",
+      "D) Predomínio exclusivo de enchimento apenas antes da despolarização atrial."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Insuficiência valvar permite refluxo quando o gradiente favorece fluxo retrógrado.",
+    "explicacoes_opcoes": {
+      "A": "Não é o mecanismo central da insuficiência mitral.",
+      "B": "Correto: falha de fechamento com gradiente reverso na sístole.",
+      "C": "Gradientes dinâmicos existem; a insuficiência é justamente fluxo anormal.",
+      "D": "O problema não se limita à fase pré-despolarização atrial."
+    },
+    "explicacao": "Resumo: Insuficiência permite refluxo sistólico com gradiente favorável.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1117,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Homem com taquicardia persistente. Em termos de ciclo cardíaco, qual consequência é mais plausível sobre o enchimento ventricular?",
+    "opcoes": [
+      "A) Aumento ilimitado do volume sistólico sem alteração diastólica.",
+      "B) Desaparecimento completo das fases isovolumétricas em repouso.",
+      "C) Menor tempo diastólico pode reduzir enchimento e volume ejetado por batimento.",
+      "D) Inversão estável do fluxo nas semilunares sem alteração de pressão."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "FC elevada encurta a diástole e pode limitar pré-carga e volume sistólico.",
+    "explicacoes_opcoes": {
+      "A": "O volume sistólico não aumenta sem limite quando a diástole encolhe.",
+      "B": "As fases isovolumétricas não desaparecem completamente por taquicardia isolada.",
+      "C": "Correto.",
+      "D": "Fluxo valvar segue gradientes; não há inversão estável sem contexto fisiopatológico específico."
+    },
+    "explicacao": "Resumo: Menos diástole pode reduzir enchimento e débito por batimento.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1118,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual característica define a fase isovolumétrica de contração ventricular?",
+    "opcoes": [
+      "A) Volume ventricular aumenta enquanto as semilunares estão abertas.",
+      "B) Volume intraventricular aproximadamente constante com ascensão rápida da pressão.",
+      "C) Valvas atrioventriculares abertas com ejeção imediata.",
+      "D) Fechamento das semilunares antes do fechamento das atrioventriculares."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Na isovolumetria, as valvas de entrada e saída estão fechadas e o volume não muda inicialmente.",
+    "explicacoes_opcoes": {
+      "A": "Com semilunares abertas haveria ejeção, não isovolumetria de contração inicial.",
+      "B": "Correto.",
+      "C": "AV abertas permitiriam enchimento, não esta fase de contração inicial.",
+      "D": "Na contração isovolumétrica inicial, semilunares ainda não abriram; a sequência temporal não corresponde a essa afirmação."
+    },
+    "explicacao": "Resumo: Isovolumétrico implica volume fixo e pressão variável.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1119,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Homem de 70 anos com hipertensão em seguimento. Ao revisar a fisiologia das bulhas, a segunda bulha (B2) corresponde melhor a:",
+    "opcoes": [
+      "A) Fechamento das valvas semilunares (aórtica e pulmonar).",
+      "B) Fechamento das valvas atrioventriculares.",
+      "C) Abertura das valvas atrioventriculares no início do enchimento rápido.",
+      "D) Contração isovolumétrica isolada sem evento valvar audível correspondente."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "B2 corresponde ao fechamento das valvas semilunares ao final da sístole ventricular.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Isso corresponde à B1.",
+      "C": "Abertura AV não gera B2.",
+      "D": "B2 é um som valvar relacionado a semilunares, não um rótulo genérico de isovolumetria."
+    },
+    "explicacao": "Resumo: B2 reflete semilunares.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1120,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Idoso com estenose aórtica. Durante a ejeção ventricular esquerda, qual alteração hemodinâmica é típica?",
+    "opcoes": [
+      "A) Predomínio de insuficiência mitral aguda como mecanismo principal.",
+      "B) Ausência de gradiente transvalvar em repouso.",
+      "C) Ejeção livre sem aumento da pressão intraventricular.",
+      "D) Obstrução ao fluxo de saída com aumento da carga de trabalho do ventrículo esquerdo."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Estenose aumenta resistência à ejeção e exige maior trabalho pressórico do ventrículo.",
+    "explicacoes_opcoes": {
+      "A": "Pode coexistir lesão mitral, mas não é o núcleo hemodinâmico da estenose aórtica.",
+      "B": "Gradiente transvalvar é esperado quando a valva é estenótica.",
+      "C": "A obstrução aumenta pressão ventricular durante a ejeção.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Estenose aumenta carga de ejeção e trabalho do ventrículo esquerdo.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1121,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual correspondência anatômica está correta?",
+    "opcoes": [
+      "A) Valva tricúspide: entre o átrio esquerdo e o ventrículo esquerdo.",
+      "B) Valva pulmonar: entre o ventrículo esquerdo e a aorta.",
+      "C) Valva mitral: entre o átrio esquerdo e o ventrículo esquerdo.",
+      "D) Valva mitral: entre o ventrículo direito e o tronco pulmonar."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Valva mitral localiza-se entre átrio e ventrículo esquerdos; tricúspide à direita; semilunares nas saídas.",
+    "explicacoes_opcoes": {
+      "A": "Tricúspide é à direita.",
+      "B": "Valva pulmonar liga ventrículo direito ao tronco pulmonar.",
+      "C": "Correto.",
+      "D": "Mitral não está na saída do ventrículo direito."
+    },
+    "explicacao": "Resumo: Mitral entre AE e VE.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1122,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual camada reveste internamente as câmaras cardíacas e se relaciona com o endotélio do fluxo intracardíaco?",
+    "opcoes": [
+      "A) Endocárdio.",
+      "B) Miocárdio.",
+      "C) Epicárdio.",
+      "D) Pericárdio parietal."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Endocárdio é o revestimento interno; miocárdio é a camada contrátil principal.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Miocárdio é a parede muscular, não o revestimento luminal.",
+      "C": "Epicárdio é a camada externa.",
+      "D": "Pericárdio parietal envolve externamente, não reveste a cavidade."
+    },
+    "explicacao": "Resumo: Endocárdio reveste a face interna.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1123,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual camada da parede cardíaca concentra os cardiomiócitos e é central para a força de ejeção?",
+    "opcoes": [
+      "A) Endocárdio.",
+      "B) Miocárdio.",
+      "C) Epicárdio.",
+      "D) Camada subendocárdica nervosa exclusiva."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Miocárdio é a camada muscular dominante para contratilidade.",
+    "explicacoes_opcoes": {
+      "A": "Endocárdio é revestimento interno.",
+      "B": "Correto.",
+      "C": "Epicárdio tem conjuntivo e vasos; não é a principal massa contrátil.",
+      "D": "Não existe como camada nervosa exclusiva com esse papel mecânico."
+    },
+    "explicacao": "Resumo: Miocárdio gera força contrátil.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1124,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual estrutura integra adesão mecânica e comunicação elétrica entre cardiomiócitos adjacentes?",
+    "opcoes": [
+      "A) Junções focais de adesão apenas, sem canal iônico.",
+      "B) Membrana basal da placa motora esquelética.",
+      "C) Disco intercalar, com junções especializadas.",
+      "D) Endotélio de revestimento valvar exclusivamente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Discos intercalares concentram estruturas de adesão e comunicação (incluindo gap junctions).",
+    "explicacoes_opcoes": {
+      "A": "Há componentes elétricos além de adesão pura.",
+      "B": "Sem relação com discos intercalares cardíacos.",
+      "C": "Correto.",
+      "D": "Endótelio valvar não substitui discos entre cardiomiócitos."
+    },
+    "explicacao": "Resumo: Discos intercalares acoplam mecanicamente e eletricamente.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1125,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em peça anatômica de coração, a camada externa que acompanha vasos coronarianos superficiais e corresponde à lâmina visceral do pericárdio é:",
+    "opcoes": [
+      "A) Camada interna em contato direto apenas com o sangue arterial.",
+      "B) Camada exclusivamente nervosa sem vasos.",
+      "C) Camada muscular pura sem tecido conjuntivo.",
+      "D) Camada externa, visceral do pericárdio, com conjuntivo e vasos coronarianos."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Epicárdio é a camada externa, parte visceral do pericárdio, com suporte e vasos.",
+    "explicacoes_opcoes": {
+      "A": "Isso mistura funções de revestimento interno e não define epicárdio.",
+      "B": "Epicárdio não é exclusivamente nervoso.",
+      "C": "A camada muscular dominante é o miocárdio.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Epicárdio é externo, visceral, com vasos coronários.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1126,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Homem de 60 anos com dor torácica e supra de ST. Considerando a organização histológica, qual tecido isquêmico precoce compromete de forma mais crítica a contratilidade regional?",
+    "opcoes": [
+      "A) Endocárdio fibroso apenas.",
+      "B) Miocárdio contrátil.",
+      "C) Pericárdio parietal espesso.",
+      "D) Tecido adiposo epicárdico exclusivamente."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Miocárdio concentra cardiomiócitos responsáveis pela força; isquemia prejudica contratilidade.",
+    "explicacoes_opcoes": {
+      "A": "Endocárdio não é o principal responsável pela força de ejeção.",
+      "B": "Correto.",
+      "C": "Pericárdio parietal é externo ao miocárdio.",
+      "D": "Gordura epicárdica não substitui função contrátil."
+    },
+    "explicacao": "Resumo: Isquemia atinge principalmente o miocárdio contrátil.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1127,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em um bloqueio de ramo, qual conjunto celular é descrito histologicamente como especializado para condução rápida intraventricular?",
+    "opcoes": [
+      "A) Fibras de Purkinje.",
+      "B) Cardiomiócitos contráteis do miocárdio subendocárdico apenas.",
+      "C) Células endoteliais valvares.",
+      "D) Adipócitos epicárdicos."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Fibras de Purkinje priorizam velocidade de condução no sistema ventricular.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Cardiomiócitos contráteis não são o equivalente histológico clássico de alta velocidade de Purkinje.",
+      "C": "Endotélio valvar não conduz o estímulo de forma primária.",
+      "D": "Adipócitos não são tecido de condução."
+    },
+    "explicacao": "Resumo: Purkinje conduz rapidamente dentro dos ventrículos.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1128,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual componente das junções do disco intercalar favorece acoplamento elétrico entre cardiomiócitos?",
+    "opcoes": [
+      "A) Desmossomos isolados sem canais.",
+      "B) Fibras colágenas da lâmina densa externa da veia.",
+      "C) Junções comunicantes (gap junctions).",
+      "D) Membrana basal da placa motora esquelética."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Gap junctions permitem passagem iônica rápida, sincronizando despolarização.",
+    "explicacoes_opcoes": {
+      "A": "Desmossomos dão adesão; o acoplamento elétrico depende de canais comunicantes.",
+      "B": "Sem relação com discos intercalares cardíacos.",
+      "C": "Correto.",
+      "D": "Placa motora é esquelética, não cardíaca."
+    },
+    "explicacao": "Resumo: Gap junctions acoplam eletricamente o miocárdio.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1129,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual característica distingue o cardiomiócito típico do músculo esquelético, além da estriação?",
+    "opcoes": [
+      "A) Ausência de filamentos de actina e miosina.",
+      "B) Núcleo periférico e fibras paralelas sem ramificações.",
+      "C) Ramificação celular e núcleo central em muitos cardiomiócitos.",
+      "D) Tetania fisiológica sustentada em resposta a estímulos repetidos rápidos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cardiomiócitos são ramificados, com núcleo central e discos intercalares; o esquelético é multinucleado periférico e paralelo.",
+    "explicacoes_opcoes": {
+      "A": "Ambos usam filamentos contráteis.",
+      "B": "Descreve melhor o esquelético.",
+      "C": "Correto.",
+      "D": "Tetania sustentada não é fisiológica no miocárdio como no esquelético."
+    },
+    "explicacao": "Resumo: Cardiomiócito ramificado e núcleo central versus esquelético típico.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1130,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente com área cicatricial fibrosa após infarto. O que a fibrose substitui predominantemente com impacto na contratilidade global?",
+    "opcoes": [
+      "A) Apenas o endotélio valvar.",
+      "B) Miocárdio contrátil, reduzindo massa funcionalmente útil.",
+      "C) Somente fibras de Purkinje sem afetar músculo.",
+      "D) Tecido adiposo subepicárdico isoladamente."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Fibrose substitui miocárdio contrátil e prejudica força e complacência regional.",
+    "explicacoes_opcoes": {
+      "A": "Fibrose pós-infarto não se limita ao endotélio valvar.",
+      "B": "Correto.",
+      "C": "Purkinje pode ser afetado, mas a perda contrátil dominante é miocárdica.",
+      "D": "Gordura subepicárdica não é o alvo principal da cicatrização infartada."
+    },
+    "explicacao": "Resumo: Fibrose após infarto substitui miocárdio e reduz contratilidade útil.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1131,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em relação à função predominante, qual contraste entre cardiomiócito contrátil e fibra de Purkinje está mais adequado?",
+    "opcoes": [
+      "A) Purkinje gera maior força de ejeção que o cardiomiócito ventricular.",
+      "B) Cardiomiócito contrátil prioriza velocidade de condução sobre força.",
+      "C) Ambos têm papel exclusivamente endócrino.",
+      "D) Purkinje prioriza condução rápida; o cardiomiócito contrátil prioriza força de bombeamento."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Purkinje especializa condução; cardiomiócitos trabalhadores geram pressão de ejeção.",
+    "explicacoes_opcoes": {
+      "A": "Purkinje não é o principal gerador de força de ejeção.",
+      "B": "O contrário: contrátil prioriza força; Purkinje prioriza condução.",
+      "C": "Não são funções endócrinas primárias.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Contrátil para força; Purkinje para condução rápida.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1132,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "No traçado eletrocardiográfico usual, a onda P corresponde principalmente a qual evento?",
+    "opcoes": [
+      "A) Repolarização dos ventrículos.",
+      "B) Despolarização dos átrios.",
+      "C) Despolarização dos ventrículos.",
+      "D) Repolarização dos átrios, visualizada como onda T."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A onda P reflete a despolarização atrial; o complexo QRS, a despolarização ventricular; a onda T, a repolarização ventricular.",
+    "explicacoes_opcoes": {
+      "A": "Descreve a onda T (repolarização ventricular), não a onda P.",
+      "B": "Correto: despolarização atrial.",
+      "C": "Corresponde ao complexo QRS.",
+      "D": "A repolarização atrial costuma ser mascarada; a onda T representa repolarização ventricular."
+    },
+    "explicacao": "Resumo: P = despolarização atrial.\nA) INCORRETA. É a onda T.\nB) CORRETA.\nC) INCORRETA. É o QRS.\nD) INCORRETA. A T é ventricular; repolarização atrial não domina o traçado.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1133,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Homem de 62 anos, histórico de bloqueio de ramo, apresenta ECG com complexo QRS alargado. Qual raciocínio fisiológico é o mais adequado?",
+    "opcoes": [
+      "A) O alargamento do QRS indica apenas aumento da frequência cardíaca, sem relação com condução.",
+      "B) QRS alargado exclui qualquer alteração de intervalo PR.",
+      "C) QRS largo sugere, em geral, condução ventricular anormal (ex.: atraso intraventricular), não só mudança de ritmo.",
+      "D) O alargamento do QRS prova hipercalemia em todos os casos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A morfologia e a duração do QRS refletem a condução intraventricular; alterações de frequência nem sempre mudam a largura do QRS.",
+    "explicacoes_opcoes": {
+      "A": "Frequência e condução são dimensões distintas; taquicardia nem sempre alarga QRS.",
+      "B": "PR e QRS avaliam eixos diferentes da condução; podem coexistir alterações.",
+      "C": "Correto: QRS largo costuma apontar para condução ventricular patológica ou ritmo de escape ventricular.",
+      "D": "Hipercalemia pode alargar QRS, mas não é a única causa nem está provada pelo achado isolado."
+    },
+    "explicacao": "Resumo: QRS largo → pensar condução ventricular.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1134,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Estudante confunde ondas do ECG em prova. Sobre a onda T e a repolarização, qual afirmação está mais correta? Lembre-se de que, no traçado convencional, a repolarização atrial é mascarada e a onda T reflete sobretudo recuperação elétrica ventricular.",
+    "opcoes": [
+      "A) A onda T representa, predominantemente, repolarização atrial.",
+      "B) A repolarização ventricular aparece como segmento PR.",
+      "C) A onda P codifica repolarização ventricular.",
+      "D) A onda T reflete, de modo predominante, repolarização ventricular."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A onda T acompanha a fase de repolarização ventricular; a repolarização atrial não aparece como onda T separada no ECG usual.",
+    "explicacoes_opcoes": {
+      "A": "Pegadinha clássica: a T é ventricular.",
+      "B": "O PR reflete condução AV, não repolarização ventricular.",
+      "C": "A onda P é despolarização atrial.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: T ventricular.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1135,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher de 58 anos em acompanhamento para palpitações. No ECG, o intervalo PR está dentro do limite superior da normalidade. Esse intervalo informa principalmente:",
+    "opcoes": [
+      "A) Tempo de condução entre átrio e ventrículo (via nódulo AV e sistema de condução proximal).",
+      "B) Duração total da repolarização ventricular.",
+      "C) Frequência intrínseca do nódulo SA isolado de qualquer inervação.",
+      "D) Apenas a amplitude mecânica da sístole ventricular."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O PR reflete o atraso de condução AV e a propagação até o sistema de His-Purkinje proximal; o QT cobre a janela elétrica ventricular.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Isso aproxima-se do intervalo QT, não do PR.",
+      "C": "Automatismo do SA não é medido pelo PR.",
+      "D": "O PR é intervalo elétrico, não medida de força contrátil."
+    },
+    "explicacao": "Resumo: PR = condução AV.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1136,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "O intervalo QT no ECG relaciona-se principalmente a qual aspecto da atividade elétrica ventricular?",
+    "opcoes": [
+      "A) Somente o tempo de despolarização atrial.",
+      "B) Condução exclusiva entre átrio direito e esquerdo.",
+      "C) Duração global da despolarização e repolarização ventricular.",
+      "D) Apenas a frequência cardíaca, independentemente de morfologia."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O QT abrange a ativação elétrica ventricular completa (despolarização + repolarização).",
+    "explicacoes_opcoes": {
+      "A": "A despolarização atrial entra na onda P e no início do ciclo, não no QT ventricular isolado.",
+      "B": "Não descreve o significado fisiológico do QT.",
+      "C": "Correto.",
+      "D": "A FC altera o QT de forma relativa, mas o intervalo não é definição de frequência."
+    },
+    "explicacao": "Resumo: QT = janela elétrica ventricular total.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1137,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente com dor torácica em observação. O médico correlaciona o pico do complexo QRS com o início da contração ventricular isovolumétrica. Qual princípio fundamenta essa sequência?",
+    "opcoes": [
+      "A) O evento mecânico sistólico sempre antecede qualquer despolarização ventricular.",
+      "B) O despolarizar ventricular (QRS) precede a contração mecânica efetiva; o elétrico vem antes do mecânico.",
+      "C) A repolarização atrial gera a força de ejeção ventricular.",
+      "D) A onda T gera a contração atrial."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "No ciclo cardíaco, a ativação elétrica ventricular antecede a contração mecânica; alterações de condução repercutem na hemodinâmica.",
+    "explicacoes_opcoes": {
+      "A": "Inverte a ordem fisiológica correta.",
+      "B": "Correto: excitação elétrica antes da resposta mecânica.",
+      "C": "Confunde papéis de câmaras e ondas.",
+      "D": "A T é repolarização ventricular; não comanda contração atrial."
+    },
+    "explicacao": "Resumo: Elétrico → mecânico.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1138,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual distinção melhor separa alteração predominante de frequência cardíaca de alteração de condução no contexto do ECG?",
+    "opcoes": [
+      "A) Frequência altera sempre a morfologia do QRS; condução nunca muda intervalos.",
+      "B) Condução altera apenas a onda P, sem afetar QRS ou PR.",
+      "C) Ambos os tipos de alteração produzem sempre o mesmo prolongamento do QT.",
+      "D) Mudanças de condução tendem a alterar morfologia e/ou duração de intervalos (ex.: PR, QRS); frequência altera ritmo sem necessariamente mudar a morfologia de condução."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Taquicardia/bradicardia mudam o ritmo; bloqueios e atrasos intraventricular mudam intervalos e morfologia.",
+    "explicacoes_opcoes": {
+      "A": "Falso: taquicardia nem sempre alarga QRS; condução altera intervalos.",
+      "B": "A condução pode afetar PR, QRS e mais.",
+      "C": "Sem fundamento: padrões são distintos.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Ritmo vs condução.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1139,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em discussão de plantão sobre um ECG com achados de isquemia, um residente quer relacionar alterações elétricas a sintomas de baixo débito. Qual afirmação integra melhor electricidade, mecânica e desempenho hemodinâmico?",
+    "opcoes": [
+      "A) Alterações de condução e de repolarização podem coexistir com disfunção de ejeção e sintomas, porque o acoplamento elétrico-mecânico determina o desempenho do ciclo.",
+      "B) O ECG descreve apenas anatomia valvar; não há ponte com sintomas.",
+      "C) O intervalo PR mede diretamente o volume sistólico.",
+      "D) A onda T isolada define o estado volêmico central sem necessidade de clínica."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Condução e repolarização alteram sincronia e contratilidade efetiva; por isso o traçado deve ser interpretado junto ao quadro clínico.",
+    "explicacoes_opcoes": {
+      "A": "Correto: elo elétrico-mecânico explica sintomas e hemodinâmica.",
+      "B": "O ECG traduz eletrofisiologia com implicações funcionais.",
+      "C": "PR não mede volume sistólico.",
+      "D": "Achados isolados não substituem avaliação clínica integrada."
+    },
+    "explicacao": "Resumo: Traçado + clínica + mecânica.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1140,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Jovem de 22 anos, atleta, ECG com bradicardia sinusal moderada e morfologia de QRS estreita. Em relação ao ritmo observado, qual conclusão é mais prudente?",
+    "opcoes": [
+      "A) Bradicardia sempre indica bloqueio AV de alto grau.",
+      "B) Ritmo lento com QRS estreito pode ser fisiológico (alto vagal) e não equivale automaticamente a distúrbio de condução intraventricular.",
+      "C) QRS estreito prova taquicardia ventricular.",
+      "D) Bradicardia exclui qualquer variação do intervalo PR."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Contexto importa: vagotonia e condicionamento reduzem FC com condução ventricular normal (QRS estreito).",
+    "explicacoes_opcoes": {
+      "A": "Bradicardia tem causas fisiológicas e patológicas.",
+      "B": "Correto.",
+      "C": "TV costuma apresentar QRS largo; não é o caso típico descrito.",
+      "D": "Bloqueios AV podem coexistir com bradicardia, mas não é regra universal."
+    },
+    "explicacao": "Resumo: Bradicardia fisiológica vs patologia.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1141,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual par associa corretamente componente do ECG e fenômeno elétrico?",
+    "opcoes": [
+      "A) Complexo QRS — repolarização ventricular.",
+      "B) Onda P — despolarização ventricular.",
+      "C) Complexo QRS — despolarização ventricular.",
+      "D) Intervalo PR — duração total da atividade elétrica ventricular."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "QRS = despolarização ventricular; T = repolarização ventricular; P = despolarização atrial; PR = condução AV.",
+    "explicacoes_opcoes": {
+      "A": "QRS é despolarização ventricular; repolarização ventricular é a onda T.",
+      "B": "Onda P é atrial.",
+      "C": "Correto.",
+      "D": "Duração global ventricular elétrica aproxima-se pelo QT, não pelo PR."
+    },
+    "explicacao": "Resumo: Mapear ondas.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1142,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "A definição fisiológica mais usada para débito cardíaco (por minuto) é:",
+    "opcoes": [
+      "A) Pressão arterial média dividida pela resistência vascular pulmonar.",
+      "B) Produto da frequência cardíaca pelo volume sistólico.",
+      "C) Volume diastólico final menos o volume residual sistólico, isoladamente.",
+      "D) Frequência cardíaca ao quadrado dividida pelo volume de ejeção."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "DC = FC × VS; cada termo pode ser modulado por pré-carga, contratilidade e pós-carga.",
+    "explicacoes_opcoes": {
+      "A": "Relaciona-se a modelos hemodinâmicos, não à definição operacional de débito.",
+      "B": "Correto.",
+      "C": "Descreve componentes volumétricos, não o fluxo por minuto completo.",
+      "D": "Sem fundamento fisiológico."
+    },
+    "explicacao": "Resumo: DC = FC × VS.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1143,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente pós-infarto com fração de ejeção reduzida recebe expansão volêmica cuidadosa. A ideia de que maior estiramento miocárdico aumenta a força de contração, em limites fisiológicos, refere-se a:",
+    "opcoes": [
+      "A) Lei de Laplace aplicada exclusivamente ao pericárdio fibroso.",
+      "B) Efeito exclusivamente cronotrópico do nódulo SA.",
+      "C) Redução obrigatória da pós-carga pela vasoconstrição reflexa.",
+      "D) Mecanismo de Frank-Starling, útil para ajustar ejeção ao retorno venoso quando a função miocárdica ainda responde."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Starling liga pré-carga (enchimento) à força sistólica dentro da curva ventricular; em disfunção grave, o ganho pode ser limitado.",
+    "explicacoes_opcoes": {
+      "A": "Laplace descreve tensão parietal; não substitui Starling no enunciado.",
+      "B": "Cronotropismo não define a relação comprimento-tensão de Frank-Starling.",
+      "C": "Pós-carga não é reduzida obrigatoriamente por esse mecanismo.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Starling = estiramento → força.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1144,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Homem de 70 anos com insuficiência cardíaca e congestão pulmonar. Mesmo com aumento da pré-carga por retenção hídrica, o débito efetivo pode não subir. Qual explicação é mais coerente com o conteúdo fisiológico da aula?",
+    "opcoes": [
+      "A) A Lei de Starling não opera em humanos.",
+      "B) O volume sistólico depende só da frequência, nunca da pré-carga.",
+      "C) Em miocárdio disfuncionante, maior volume pode predominantemente aumentar congestão sem ganho proporcional de ejeção.",
+      "D) Pós-carga elevada aumenta sempre o débito por reduzir trabalho ventricular."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Starling tem teto; na IC, a curva ventricular está deprimida — volume pode piorar congestão sem aumentar débito útil.",
+    "explicacoes_opcoes": {
+      "A": "Starling é válida; o limite é patológico.",
+      "B": "VS depende de pré-carga, contratilidade e pós-carga.",
+      "C": "Correto.",
+      "D": "Pós-carga elevada tende a dificultar ejeção."
+    },
+    "explicacao": "Resumo: Starling limitado na disfunção.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1145,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em tabelas comparativas de hemodinâmica, pré-carga é melhor entendida como:",
+    "opcoes": [
+      "A) Enchimento/estiramento inicial do ventrículo antes da sístole, relacionado ao retorno venoso.",
+      "B) Resistência imposta à ejeção (afterload), dominada por arteríolas.",
+      "C) Frequência cardíaca em repouso isolada de volume.",
+      "D) Pressão capilar pulmonar exclusivamente após o relaxamento."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Pré-carga reflete volume de enchimento (relacionado ao retorno venoso); pós-carga é a resistência à ejeção.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Isso descreve pós-carga.",
+      "C": "FC não define pré-carga isoladamente.",
+      "D": "Mistura conceitos de pressão de enchimento com timing sem definir pré-carga."
+    },
+    "explicacao": "Resumo: Pré-carga = enchimento.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1146,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher de 45 anos em taquicardia sinusal persistente com tempos diastólicos curtos. Por que apenas aumentar a frequência pode falhar em elevar o débito cardíaco?",
+    "opcoes": [
+      "A) Porque o volume sistólico nunca depende do enchimento diastólico.",
+      "B) Porque taquicardia reduz sempre a contratilidade miocárdica de forma irreversível.",
+      "C) Porque frequência elevada pode diminuir o enchimento ventricular diastólico, reduzindo o volume sistólico apesar do aumento de batimentos.",
+      "D) Porque a Lei de Starling proíbe qualquer resposta ao exercício."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "DC = FC × VS; se a diástole encolhe, o VS pode cair e anular o ganho de FC.",
+    "explicacoes_opcoes": {
+      "A": "O enchimento diastólico é central para o VS.",
+      "B": "A contratilidade não é sempre irreversivelmente perdida nesse cenário genérico.",
+      "C": "Correto.",
+      "D": "Starling participa da resposta ao estresse; não é proibição."
+    },
+    "explicacao": "Resumo: FC↑ pode prejudicar enchimento.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1147,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual variável tende a dificultar a ejeção ventricular quando elevada (aumento da pós-carga)?",
+    "opcoes": [
+      "A) Retorno venoso aumentado em um ventrículo hiperdinâmico.",
+      "B) Estiramento miocárdico leve em condições fisiológicas.",
+      "C) Frequência cardíaca baixa em repouso com débito adequado.",
+      "D) Resistência vascular sistêmica elevada (afterload aumentado)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Pós-carga reflete resistência à ejeção; quando sobe, o ventrículo precisa gerar mais pressão para manter o mesmo volume sistólico.",
+    "explicacoes_opcoes": {
+      "A": "Relaciona-se mais a pré-carga/volume de entrada.",
+      "B": "Estiramento moderado costuma aumentar força (Starling), não representa pós-carga.",
+      "C": "Não descreve aumento de pós-carga.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Afterload alto dificulta ejeção.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1148,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em abordagem integrada de choque hipovolêmico compensado, o organismo tenta manter pressão de perfusão. Qual combinação ilustra melhor a complementaridade entre frequência cardíaca e contratilidade frente à queda de retorno venoso?",
+    "opcoes": [
+      "A) Bradicardia e queda de contratilidade são respostas típicas iniciais.",
+      "B) Taquicardia reflexa pode aumentar FC enquanto estímulo simpático aumenta contratilidade para sustentar débito.",
+      "C) O débito torna-se independente de FC × VS por definição.",
+      "D) A pré-carga deixa de influenciar o volume sistólico em qualquer contexto."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Compensação simpática aumenta cronotropismo e inotropismo para preservar DC quando o volume efetivo cai.",
+    "explicacoes_opcoes": {
+      "A": "Hipotensão hipovolêmica costuma gerar taquicardia, não bradicardia inicial.",
+      "B": "Correto.",
+      "C": "DC continua sendo FC × VS.",
+      "D": "Pré-carga continua modulando VS via Starling."
+    },
+    "explicacao": "Resumo: Compensação FC + contratilidade.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1149,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Para comparar dois estados hemodinâmicos, um com aumento de débito e outro com aumento de congestão venosa sem melhora do débito efetivo, qual contraste a aula enfatiza em coração com função reduzida?",
+    "opcoes": [
+      "A) Débito e congestão sempre caminham juntos na mesma direção.",
+      "B) Maior volume intracárdico implica sempre maior ejeção útil.",
+      "C) Frequência cardíaca é o único determinante de congestão.",
+      "D) Aumento de débito e aumento de congestão podem divergir quando a bomba falha em converter pré-carga em ejeção."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Na descompensação, volume pode aumentar enchendo átrios/ventrículos sem incrementar débito sistêmico eficaz.",
+    "explicacoes_opcoes": {
+      "A": "Podem dissociar na IC.",
+      "B": "Sem função adequada, volume pode acumular sem ejeção proporcional.",
+      "C": "Congestão tem múltiplos determinantes (função, válvulas, pós-carga).",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Débito vs congestão na IC.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1150,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação distingue melhor contratilidade miocárdica de frequência cardíaca?",
+    "opcoes": [
+      "A) Contratilidade altera a força gerada por contração; frequência altera o número de ciclos por minuto.",
+      "B) São sinônimos na prática clínica.",
+      "C) Frequência depende apenas do tônus vagal, sem influência simpática.",
+      "D) Contratilidade é medida diretamente pelo intervalo PR no ECG."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Inotropismo (contratilidade) e cronotropismo (FC) são eixos regulatórios distintos, embora interajam no débito.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Conceitos diferentes.",
+      "C": "Ambos os ramos autonômicos influenciam FC.",
+      "D": "PR reflete condução AV, não contratilidade global."
+    },
+    "explicacao": "Resumo: Força vs ritmo.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1151,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Um estudante resume o papel da interpretação clínica no manejo hemodinâmico. Qual frase está mais alinhada ao texto da aula?",
+    "opcoes": [
+      "A) Basta medir FC isoladamente; pré-carga, pós-carga e contratilidade são irrelevantes.",
+      "B) Hemodinâmica exige integrar variáveis simultaneamente (pré-carga, contratilidade, pós-carga, FC).",
+      "C) O débito cardíaco depende sempre exclusivamente da pós-carga.",
+      "D) A Lei de Starling elimina a necessidade de avaliar sintomas."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A aula insiste em integração: nenhuma variável isolada explica desempenho cardíaco em contexto real.",
+    "explicacoes_opcoes": {
+      "A": "Contradiz a abordagem integrada.",
+      "B": "Correto.",
+      "C": "DC depende de FC e VS, e VS de vários fatores.",
+      "D": "Starling complementa, não substitui clínica."
+    },
+    "explicacao": "Resumo: Visão integrada.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1152,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em repouso, a frequência cardíaca típica (~70 bpm) fica abaixo da frequência intrínseca estimada do nódulo SA (~100 bpm) principalmente porque:",
+    "opcoes": [
+      "A) O simpático bloqueia os receptores β₁ em repouso.",
+      "B) Predomina o tônus parassimpático vagal sobre o nódulo SA.",
+      "C) O parassimpático não inerva o coração humano.",
+      "D) A noradrenalina miocárdica desaparece completamente no repouso."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Em repouso há dominância vagal (M₂), reduzindo a FC abaixo do ritmo intrínseco do marcapasso; atropina remove esse freio e a FC sobe.",
+    "explicacoes_opcoes": {
+      "A": "O simpático não bloqueia β₁ basalmente; há tônus balanceado com predomínio vagal.",
+      "B": "Correto.",
+      "C": "O vago inerva fortemente nódulos SA/AV.",
+      "D": "Tônus simpático basal existe, mas o efeito líquido em FC reflete o predomínio vagal."
+    },
+    "explicacao": "Resumo: Vago freia o SA em repouso.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1153,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente hipertenso inicia vasodilatador arterial e refere taquicardia. Qual mecanismo explica melhor esse achado?",
+    "opcoes": [
+      "A) Ativação do barorreflexo por queda de pressão, com aumento do estímulo simpático cardíaco.",
+      "B) Bloqueio direto dos barorreceptores pelo fármaco.",
+      "C) Inibição medular permanente do núcleo do trato solitário.",
+      "D) Aumento imediato irreversível da resistência renal sem resposta neural."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Queda de PA reduz disparo barorreceptor; o bulbo retira inibição simpática e aumenta FC reflexa.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "O fármaco não anula barorreceptores dessa forma.",
+      "C": "Não descreve o reflexo rápido típico.",
+      "D": "O SRAA pode entrar depois; a taquicardia imediata é neural reflexa."
+    },
+    "explicacao": "Resumo: Vasodilatador → barorreflexo → taquicardia.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1154,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "A equação fundamental PA = débito cardíaco × resistência vascular periférica implica que, em um indivíduo com hipertensão essencial predominantemente por aumento de resistência arteriolar, qual intervenção conceitual reduziria a pressão por diminuir RVP?",
+    "opcoes": [
+      "A) Aumentar somente o hematócrito.",
+      "B) Vasodilatadores que reduzem tônus de arteríolas de resistência.",
+      "C) Aumentar exclusivamente o volume sistólico sem alterar vasos.",
+      "D) Elevar a viscosidade sanguínea de forma aguda."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "RVP depende sobretudo do tônus arteriolar; vasodilatadores reduzem resistência e tendem a baixar PA se o débito não compensar totalmente.",
+    "explicacoes_opcoes": {
+      "A": "Hematócrito elevado tende a aumentar viscosidade e pode elevar resistência.",
+      "B": "Correto.",
+      "C": "Aumentar VS eleva componente de débito; não é o mecanismo clássico de queda de RVP.",
+      "D": "Viscosidade maior prejudica fluxo e pode elevar trabalho/resistência efetiva."
+    },
+    "explicacao": "Resumo: PA = DC × RVP.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1155,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Barorreceptores importantes para ajuste rápido da PA localizam-se no seio carotídeo e no arco aórtico. Os pares cranianos associados são, respectivamente:",
+    "opcoes": [
+      "A) Vago (X) e trigêmeo (V).",
+      "B) Hipoglosso (XII) e acessório (XI).",
+      "C) Glossofaríngeo (IX) no seio carotídeo e vago (X) no arco aórtico.",
+      "D) Facial (VII) e abducente (VI)."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A inervação aferente clássica usa IX para carótidas e X para arco aórtico, integrando o arco reflexo no bulbo.",
+    "explicacoes_opcoes": {
+      "A": "O vago participa, mas o seio carotídeo usa principalmente IX.",
+      "B": "Pares errados para barorrecepção.",
+      "C": "Correto.",
+      "D": "Sem relação com arco reflexo pressórico."
+    },
+    "explicacao": "Resumo: IX carotídeo, X aórtico.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1156,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher de 52 anos com PA 150/95 mmHg. A pressão arterial média (PAM) aproximada pela fórmula PAD + 1/3 (PAS − PAD) reflete qual ideia fisiológica?",
+    "opcoes": [
+      "A) Que a média aritmética simples entre PAS e PAD é sempre igual à PAM.",
+      "B) Que a PAS deve ser ignorada no cálculo hemodinâmico.",
+      "C) Que a PAD equivale à PAM em todos os indivíduos.",
+      "D) Que a diástole ocupa cerca de dois terços do ciclo, tornando inadequada a média aritmética simples e justificando o peso 1/3 da pressão de pulso."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A PAM pondera o tempo em diástole (maior fração do ciclo), por isso usa-se 1/3 da pressão de pulso somada à PAD.",
+    "explicacoes_opcoes": {
+      "A": "A PAM não é a média aritmética; o peso 1/3 reflete o tempo diastólico maior.",
+      "B": "A PAS entra no termo de pulso.",
+      "C": "PAD e PAM não são idênticas.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: PAM não é média aritmética.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1157,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual efeito autonômico é mais típico do estímulo simpático cardíaco mediado por β₁?",
+    "opcoes": [
+      "A) Bradicardia e bloqueio AV de alto grau.",
+      "B) Cronotropismo negativo e dromotropismo negativo.",
+      "C) Aumento de frequência, força de contração e condução AV (cronotropismo, inotropismo e dromotropismo positivos).",
+      "D) Liberação de acetilcolina no nódulo SA como principal mensageiro."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Catecolaminas β₁ aumentam FC, contratilidade e velocidade de condução AV; o vago faz o oposto via M₂.",
+    "explicacoes_opcoes": {
+      "A": "Descreve parassimpático ou bloqueio, não simpático β₁.",
+      "B": "Sinais vagais.",
+      "C": "Correto.",
+      "D": "Acetilcolina é parassimpática."
+    },
+    "explicacao": "Resumo: Simpático β₁ positivo.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1158,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente com hipoperfusão renal relativa ativa o sistema renina-angiotensina-aldosterona. Qual etapa está correta na sequência clássica até angiotensina II?",
+    "opcoes": [
+      "A) Renina → angiotensinogênio → angiotensina I → (ECA) → angiotensina II.",
+      "B) Aldosterona → renina direta → peptídeo natriurético.",
+      "C) ECA converte angiotensina II em angiotensina I.",
+      "D) Angiotensina II é inativa e não afeta vasos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Renina cliva angiotensinogênio gerando Ang I; a ECA converte Ang I em Ang II, potente vasoconstrictor e estimulador de aldosterona.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Ordem incorreta; aldosterona é eixo downstream.",
+      "C": "A ECA converte Ang I em Ang II.",
+      "D": "Ang II é ativa e vasoconstrictora."
+    },
+    "explicacao": "Resumo: SRAA — sequência.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1159,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Óxido nítrico (NO) endotelial, liberado com estresse de cisalhamento, exerce principalmente qual papel vascular?",
+    "opcoes": [
+      "A) Vasoconstrição intensa e agregação plaquetária.",
+      "B) Vasodilatação e inibição da agregação plaquetária.",
+      "C) Estimulação direta da liberação massiva de endotelina em repouso absoluto.",
+      "D) Aumento do tônus simpático ganglionar."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "NO é vasodilatador fisiológico e modulador anti-trombótico na interface sangue-endotélio.",
+    "explicacoes_opcoes": {
+      "A": "NO é vasodilatador, não vasoconstrictor típico.",
+      "B": "Correto.",
+      "C": "Endotelina é vasoconstrictora, mas não é efeito primário do NO.",
+      "D": "NO age localmente na parede vascular; não resume-se a esse efeito."
+    },
+    "explicacao": "Resumo: NO vasodilata e protege.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1160,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em comparação entre peptídeo natriurético atrial (ANP) e BNP, qual distinção conceitual a aula destaca?",
+    "opcoes": [
+      "A) Ambos são exclusivamente secretados pelo fígado.",
+      "B) BNP só sobe na hiponatremia severa isolada, sem relação com distensão.",
+      "C) ANP e BNP estimulam vasoconstrição e retenção de sódio.",
+      "D) ANP é liberado com distensão atrial; BNP com distensão ventricular predominante."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "ANP reflete sobrecarga atrial; BNP reflete estresse parietal ventricular (marcador útil em IC).",
+    "explicacoes_opcoes": {
+      "A": "São hormônios cardíacos/endócrinos, não hepáticos.",
+      "B": "BNP correlaciona com distensão ventricular na prática.",
+      "C": "Efeitos natriuréticos e vasodilatadores predominam.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: ANP atrial, BNP ventricular.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1161,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Idoso com síncope durante esforço de evacuação, bradicardia e hipotensão. Qual reflexo melhor encaixa vasodilatação periférica associada a aumento vagal?",
+    "opcoes": [
+      "A) Reflexo de Bainbridge isolado com hipertensão arterial.",
+      "B) Barorreflexo desencadeado exclusivamente por hipertensão grave.",
+      "C) Reflexo vasovagal (ativação vagal + queda de tônus simpático vascular).",
+      "D) Resposta metabólica local com vasoconstrição máxima em músculo esquelético."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "O vasovagal combina bradicardia vagal e vasodilatação, produzindo hipotensão e síncope.",
+    "explicacoes_opcoes": {
+      "A": "Bainbridge relaciona-se a distensão atrial e taquicardia, não ao quadro descrito.",
+      "B": "Barorreflexo a hipertensão tende a baixar FC, mas o enunciado descreve vasovagal situacional.",
+      "C": "Correto.",
+      "D": "Vasoconstrição não explica síncope hipotensiva por vasodilatação."
+    },
+    "explicacao": "Resumo: Vasovagal = bradicardia + vasodilatação.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1162,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Por que o fluxo coronariano do ventrículo esquerdo ocorre predominantemente na diástole?",
+    "opcoes": [
+      "A) Porque a sístole aumenta a compressão intramural dos vasos epicárdicos, reduzindo a perfusão durante a ejeção.",
+      "B) Porque a pressão no ventrículo direito excede sempre a aórtica.",
+      "C) Porque as coronárias não se enchem na diástole em nenhuma espécie.",
+      "D) Porque o fluxo sistólico é exclusivamente pulmonar."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Durante a sístole ventricular esquerda, a compressão intramural dos ramos intramiocárdicos reduz o fluxo; na diástole reabre-se a perfusão.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Falso em termos gerais de hemodinâmica.",
+      "C": "A diástole é justamente a janela favorável ao VE.",
+      "D": "Confunde circulações."
+    },
+    "explicacao": "Resumo: Sístole comprime vasos do VE.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1163,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente coronariopata apresenta taquicardia sustentada. Qual nexo fisiopatológico explica piora da perfusão miocárdica nesse contexto?",
+    "opcoes": [
+      "A) Taquicardia elimina completamente o débito cardíaco.",
+      "B) O miocárdio deixa de consumir oxigênio durante taquicardia.",
+      "C) A circulação coronariana independe da frequência cardíaca.",
+      "D) Taquicardia encurta a diástole, reduzindo o tempo em que o fluxo coronariano ao VE é mais efetivo."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Com diástole curta, cai a janela de perfusão diastólica ao VE — crítica em doença obstrutiva.",
+    "explicacoes_opcoes": {
+      "A": "DC pode permanecer, mas a relação oferta/demanda piora.",
+      "B": "Demanda de O₂ tende a subir com FC.",
+      "C": "FC modula tempo diastólico e, portanto, perfusão.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Taquicardia prejudica perfusão diastólica.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1164,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Em dominância coronariana direita (prevalente na maioria das pessoas), a artéria descendente posterior (ADP) origina-se de:",
+    "opcoes": [
+      "A) Artéria circunflexa, em todos os casos.",
+      "B) Tronco da coronária esquerda exclusivamente.",
+      "C) Artéria coronária direita.",
+      "D) Artéria pulmonar."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Dominância direita: ADP vem da ACD; dominância esquerda: ADP pode vir da CX.",
+    "explicacoes_opcoes": {
+      "A": "Isso ocorre em dominância esquerda.",
+      "B": "O tronco esquerdo dá DA e CX, não define ADP na dominância direita.",
+      "C": "Correto.",
+      "D": "Sem anatomia coronariana típica."
+    },
+    "explicacao": "Resumo: Dominância direita → ADP da ACD.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1165,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Homem de 40 anos realiza teste ergométrico progressivo. O miocárdio extrai cerca de 70–75% do oxigênio arterial em repouso. Qual consequência prática isso impõe quando a demanda de O₂ aumenta no esforço?",
+    "opcoes": [
+      "A) O tecido pode compensar aumentando drasticamente a extração sem aumentar fluxo.",
+      "B) A extração já está alta; o principal recurso é aumentar o fluxo coronariano.",
+      "C) O miocárdio passa a extrair quase 100% sem limite fisiológico.",
+      "D) A demanda de O₂ cai no exercício."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Com extração basal elevada, a reserva é vasodilatação e aumento de fluxo (adenosina e mecanismos metabólicos).",
+    "explicacoes_opcoes": {
+      "A": "Há pouca margem de extração adicional.",
+      "B": "Correto.",
+      "C": "Há limites; o gargalo é fluxo.",
+      "D": "Demanda miocárdica de O₂ aumenta no esforço."
+    },
+    "explicacao": "Resumo: Pouca reserva de extração → precisa de fluxo.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1166,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual mecanismo metabólico é citado como principal regulador do calibre coronariano em resposta à demanda miocárdica?",
+    "opcoes": [
+      "A) Liberação local de adenosina e acúmulo de metabólitos (CO₂, H⁺, K⁺).",
+      "B) Secreção exclusiva de ADH pela neuro-hipófise.",
+      "C) Contração do pericárdio fibroso.",
+      "D) Bloqueio absoluto do óxido nítrico em repouso."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A vasodilatação metabólica coronariana liga oferta a consumo; adenosina é vasodilatadora potente nesse contexto.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "ADH regula água/hemodinâmica global, não o controle local principal citado.",
+      "C": "Pericárdio não regula ton coronariano desse modo.",
+      "D": "NO participa, mas não está ausente ou bloqueado basalmente."
+    },
+    "explicacao": "Resumo: Regulação metabólica coronariana.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1167,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "No polo arteriolar da microcirculação, a filtração líquida para o interstício predomina sobre a reabsorção principalmente porque:",
+    "opcoes": [
+      "A) Não há pressão oncótica plasmática.",
+      "B) Os capilares não permitem saída de água.",
+      "C) A pressão intersticial é sempre maior que a aórtica.",
+      "D) A pressão hidrostática capilar supera a soma das forças que favorecem reabsorção naquele segmento."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Starling: Pc e πi favorecem filtração; πp e Pi favorecem reabsorção — no polo arteriolar o balanço neto tende à filtração.",
+    "explicacoes_opcoes": {
+      "A": "Πp existe e puxa fluido de volta.",
+      "B": "Há filtração contínua controlada.",
+      "C": "Magnitudes não seguem essa relação.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Polo arteriolar filtra.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1168,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente com hipoalbuminemia grave apresenta edema generalizado. Qual distúrbio das forças de Starling explica o achado?",
+    "opcoes": [
+      "A) Aumento exclusivo da pressão hidrostática intersticial negativa.",
+      "B) Eliminação completa da filtração capilar.",
+      "C) Queda da pressão oncótica plasmática (πp), reduzindo o retorno de fluido ao capilar.",
+      "D) Bloqueio agudo do ducto torácico em todos os casos."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Albumina sustenta πp; sem ela, a reabsorção oncótica falha e o edema de baixa proteína instala-se.",
+    "explicacoes_opcoes": {
+      "A": "Pode contribuir em outros estados, mas o núcleo aqui é πp baixa.",
+      "B": "Filtração pode persistir ou mudar de balanço, não desaparece como conceito.",
+      "C": "Correto.",
+      "D": "Linfático é outra causa de edema; não universal na hipoalbuminemia."
+    },
+    "explicacao": "Resumo: πp baixa → edema.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1169,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual função é mais específica do sistema linfático no interstício?",
+    "opcoes": [
+      "A) Gerar pressão de pulso sistólica.",
+      "B) Recolher proteínas e fluido que escapam aos capilares e devolvê-los à circulação.",
+      "C) Produzir eritropoietina renal.",
+      "D) Sintetizar hemoglobina nos gânglios linfáticos."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Linfáticos iniciais são permeáveis a proteínas; drenam o excedente filtrado e evitam linfedema.",
+    "explicacoes_opcoes": {
+      "A": "Pulso é função cardíaca/arterial.",
+      "B": "Correto.",
+      "C": "Eritropoietina é renal.",
+      "D": "Hemoglobina é eritrocitária; não se forma em linfonodo."
+    },
+    "explicacao": "Resumo: Linfático drena proteína e fluido.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1170,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "A artéria descendente anterior (DA), ramo da coronária esquerda, irriga predominantemente qual território?",
+    "opcoes": [
+      "A) Parede inferior e nódulo AV na maioria absoluta dos corações.",
+      "B) Apenas átrio esquerdo isolado.",
+      "C) Parede anterior do VE, septo interventricular anterior e contribui para o ápice.",
+      "D) Ventrículo direito livre exclusivamente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "DA perfunde septo anterior e face anterior do VE; inferior costuma depender da ACD/CX conforme dominância.",
+    "explicacoes_opcoes": {
+      "A": "Inferior é mais ligada a ACD/ADP em dominância direita.",
+      "B": "DA drena território ventricular anterior extenso.",
+      "C": "Correto.",
+      "D": "VD é mais irrigado pela ACD."
+    },
+    "explicacao": "Resumo: DA = anterior + septo anterior.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1171,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente com linfedema crônico de membro inferior após infestação por filária (Wuchereria bancrofti). O mecanismo central é:",
+    "opcoes": [
+      "A) Aumento agudo da resistência vascular pulmonar isolada.",
+      "B) Hemorragia alveolar massiva.",
+      "C) Infarto agudo do miocárdio inferior sem alteração venosa.",
+      "D) Obstrução do retorno linfático com acúmulo intersticial rico em proteínas."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Filariose obstrui vasos linfáticos; a drenagem proteica falha e o edema torna-se crônico (ex.: elefantíase).",
+    "explicacoes_opcoes": {
+      "A": "Não explica linfedema primário por parasita.",
+      "B": "Sem relação com o quadro descrito.",
+      "C": "IAM tem outro conjunto de causas.",
+      "D": "Correto."
+    },
+    "explicacao": "Resumo: Linfedema = bloqueio linfático.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1172,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Determinante socioambiental:” está correta?",
+    "opcoes": [
+      "A) influencia risco, adoecimento e desfecho.",
+      "B) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "C) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "D) Equidade:: resposta proporcional à necessidade de cada grupo."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Determinante socioambiental:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: influencia risco, adoecimento e desfecho.",
+      "B": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "C": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "D": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Determinante socioambiental:”.\nA) CORRETA. Correta: influencia risco, adoecimento e desfecho.\nB) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nC) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nD) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1173,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Igualdade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "B) Igualdade — Equidade — Igualdade distribui igual; equidade distribui conforme necessidade",
+      "C) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "D) Mudança climática:: produz impacto sanitário direto e indireto."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Igualdade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "B": "Correta: Igualdade — Equidade — Igualdade distribui igual; equidade distribui conforme necessidade",
+      "C": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "D": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Igualdade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nB) CORRETA. Correta: Igualdade — Equidade — Igualdade distribui igual; equidade distribui conforme necessidade\nC) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nD) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1174,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Mudança climática:” está correta?",
+    "opcoes": [
+      "A) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "B) Desigualdade social:: agrava vulnerabilidade sanitária.",
+      "C) produz impacto sanitário direto e indireto.",
+      "D) Saúde coletiva:: integra ambiente, sociedade e clínica."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança climática:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "B": "Incorreta: Desigualdade social:: agrava vulnerabilidade sanitária.",
+      "C": "Correta: produz impacto sanitário direto e indireto.",
+      "D": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Mudança climática:”.\nA) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nB) INCORRETA. Incorreta: Desigualdade social:: agrava vulnerabilidade sanitária.\nC) CORRETA. Correta: produz impacto sanitário direto e indireto.\nD) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1175,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Fator ambiental isolado” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "B) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "C) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "D) Fator ambiental isolado — Determinante socioambiental — Determinante integra ambiente, condição social e resposta em saúde"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Fator ambiental isolado” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "B": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "C": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "D": "Correta: Fator ambiental isolado — Determinante socioambiental — Determinante integra ambiente, condição social e resposta em saúde"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fator ambiental isolado” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nB) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nC) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nD) CORRETA. Correta: Fator ambiental isolado — Determinante socioambiental — Determinante integra ambiente, condição social e resposta em saúde",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1176,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Vulnerabilidade social:” está correta?",
+    "opcoes": [
+      "A) amplifica efeito de risco ambiental.",
+      "B) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "C) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "D) Equidade:: resposta proporcional à necessidade de cada grupo."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Vulnerabilidade social:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: amplifica efeito de risco ambiental.",
+      "B": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "C": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "D": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Vulnerabilidade social:”.\nA) CORRETA. Correta: amplifica efeito de risco ambiental.\nB) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nC) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nD) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1177,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Evento climático” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "B) Evento climático — Impacto sanitário — Evento é fenômeno; impacto é desfecho em saúde da população",
+      "C) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "D) Mudança climática:: produz impacto sanitário direto e indireto."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Evento climático” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "B": "Correta: Evento climático — Impacto sanitário — Evento é fenômeno; impacto é desfecho em saúde da população",
+      "C": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "D": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Evento climático” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nB) CORRETA. Correta: Evento climático — Impacto sanitário — Evento é fenômeno; impacto é desfecho em saúde da população\nC) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nD) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1178,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Iniquidade em saúde:” está correta?",
+    "opcoes": [
+      "A) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "B) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "C) distribuição desigual de dano e acesso.",
+      "D) Saúde coletiva:: integra ambiente, sociedade e clínica."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Iniquidade em saúde:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "B": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "C": "Correta: distribuição desigual de dano e acesso.",
+      "D": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Iniquidade em saúde:”.\nA) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nB) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nC) CORRETA. Correta: distribuição desigual de dano e acesso.\nD) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1179,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Risco individual” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "B) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "C) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "D) Risco individual — Risco coletivo territorial — O coletivo depende de contexto social e ambiental compartilhado"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Risco individual” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "B": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "C": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "D": "Correta: Risco individual — Risco coletivo territorial — O coletivo depende de contexto social e ambiental compartilhado"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Risco individual” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nB) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nC) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nD) CORRETA. Correta: Risco individual — Risco coletivo territorial — O coletivo depende de contexto social e ambiental compartilhado",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1180,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Equidade:” está correta?",
+    "opcoes": [
+      "A) resposta proporcional à necessidade de cada grupo.",
+      "B) Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "C) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "D) Desigualdade social:: agrava vulnerabilidade sanitária."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Equidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: resposta proporcional à necessidade de cada grupo.",
+      "B": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+      "C": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "D": "Incorreta: Desigualdade social:: agrava vulnerabilidade sanitária."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Equidade:”.\nA) CORRETA. Correta: resposta proporcional à necessidade de cada grupo.\nB) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.\nC) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nD) INCORRETA. Incorreta: Desigualdade social:: agrava vulnerabilidade sanitária.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1181,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Pergunta típica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Mudança climática:: produz impacto sanitário direto e indireto.",
+      "B) Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) Saúde coletiva:: integra ambiente, sociedade e clínica."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.",
+      "B": "Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.",
+      "C": "Correta: Pergunta típica — Resposta em uma frase",
+      "D": "Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Mudança climática:: produz impacto sanitário direto e indireto.\nB) INCORRETA. Incorreta: Equidade:: resposta proporcional à necessidade de cada grupo.\nC) CORRETA. Correta: Pergunta típica — Resposta em uma frase\nD) INCORRETA. Incorreta: Saúde coletiva:: integra ambiente, sociedade e clínica.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1182,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “ODS:” está correta?",
+    "opcoes": [
+      "A) estrutura global para desenvolvimento com impacto em saúde.",
+      "B) ODS 3:: depende de integração com outros objetivos.",
+      "C) Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "D) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ODS:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: estrutura global para desenvolvimento com impacto em saúde.",
+      "B": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "C": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "D": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ODS:”.\nA) CORRETA. Correta: estrutura global para desenvolvimento com impacto em saúde.\nB) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nC) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.\nD) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1183,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “ODS 3 isolado” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "B) ODS 3 isolado — ODS integrados — Saúde melhora quando metas sociais e ambientais caminham juntas",
+      "C) ODS 3:: depende de integração com outros objetivos.",
+      "D) Cidade sustentável:: reduz exposição a riscos e iniquidades."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “ODS 3 isolado” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "B": "Correta: ODS 3 isolado — ODS integrados — Saúde melhora quando metas sociais e ambientais caminham juntas",
+      "C": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "D": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “ODS 3 isolado” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nB) CORRETA. Correta: ODS 3 isolado — ODS integrados — Saúde melhora quando metas sociais e ambientais caminham juntas\nC) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nD) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1184,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “ODS 3:” está correta?",
+    "opcoes": [
+      "A) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "B) ODS:: guiam políticas com repercussão sanitária.",
+      "C) depende de integração com outros objetivos.",
+      "D) Cidade sustentável:: reduz exposição a riscos e iniquidades."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ODS 3:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "B": "Incorreta: ODS:: guiam políticas com repercussão sanitária.",
+      "C": "Correta: depende de integração com outros objetivos.",
+      "D": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ODS 3:”.\nA) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nB) INCORRETA. Incorreta: ODS:: guiam políticas com repercussão sanitária.\nC) CORRETA. Correta: depende de integração com outros objetivos.\nD) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1185,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Crescimento urbano” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) ODS 3:: depende de integração com outros objetivos.",
+      "B) Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "C) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "D) Crescimento urbano — Urbanização saudável — Crescer não garante saneamento, mobilidade e proteção social"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Crescimento urbano” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "B": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "C": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "D": "Correta: Crescimento urbano — Urbanização saudável — Crescer não garante saneamento, mobilidade e proteção social"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Crescimento urbano” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nB) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.\nC) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nD) CORRETA. Correta: Crescimento urbano — Urbanização saudável — Crescer não garante saneamento, mobilidade e proteção social",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1186,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Cidade sustentável:” está correta?",
+    "opcoes": [
+      "A) reduz exposição a riscos e iniquidades.",
+      "B) ODS 3:: depende de integração com outros objetivos.",
+      "C) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "D) ODS:: guiam políticas com repercussão sanitária."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cidade sustentável:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reduz exposição a riscos e iniquidades.",
+      "B": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "C": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "D": "Incorreta: ODS:: guiam políticas com repercussão sanitária."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cidade sustentável:”.\nA) CORRETA. Correta: reduz exposição a riscos e iniquidades.\nB) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nC) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nD) INCORRETA. Incorreta: ODS:: guiam políticas com repercussão sanitária.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1187,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Intervenção assistencial” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) ODS:: guiam políticas com repercussão sanitária.",
+      "B) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "C) ODS 3:: depende de integração com outros objetivos.",
+      "D) Cidade sustentável:: reduz exposição a riscos e iniquidades."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Intervenção assistencial” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ODS:: guiam políticas com repercussão sanitária.",
+      "B": "Correta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "C": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "D": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Intervenção assistencial” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: ODS:: guiam políticas com repercussão sanitária.\nB) CORRETA. Correta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nC) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nD) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1188,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Saneamento e habitação:” está correta?",
+    "opcoes": [
+      "A) Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "B) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "C) determinantes centrais de saúde urbana.",
+      "D) ODS 3:: depende de integração com outros objetivos."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Saneamento e habitação:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "B": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "C": "Correta: determinantes centrais de saúde urbana.",
+      "D": "Incorreta: ODS 3:: depende de integração com outros objetivos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Saneamento e habitação:”.\nA) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.\nB) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nC) CORRETA. Correta: determinantes centrais de saúde urbana.\nD) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1189,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Sustentabilidade ambiental” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) ODS 3:: depende de integração com outros objetivos.",
+      "B) Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "C) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "D) Sustentabilidade ambiental — Sustentabilidade socioambiental — A socioambiental inclui justiça social e desfecho em saúde"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Sustentabilidade ambiental” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "B": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "C": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "D": "Correta: Sustentabilidade ambiental — Sustentabilidade socioambiental — A socioambiental inclui justiça social e desfecho em saúde"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sustentabilidade ambiental” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nB) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.\nC) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nD) CORRETA. Correta: Sustentabilidade ambiental — Sustentabilidade socioambiental — A socioambiental inclui justiça social e desfecho em saúde",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1190,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Intersetorialidade:” está correta?",
+    "opcoes": [
+      "A) condição para política pública efetiva.",
+      "B) ODS 3:: depende de integração com outros objetivos.",
+      "C) Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "D) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Intersetorialidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: condição para política pública efetiva.",
+      "B": "Incorreta: ODS 3:: depende de integração com outros objetivos.",
+      "C": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "D": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Intersetorialidade:”.\nA) CORRETA. Correta: condição para política pública efetiva.\nB) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.\nC) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.\nD) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1191,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Pergunta típica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "B) Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "C) Pergunta típica — Resposta em uma frase",
+      "D) ODS 3:: depende de integração com outros objetivos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.",
+      "B": "Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva",
+      "C": "Correta: Pergunta típica — Resposta em uma frase",
+      "D": "Incorreta: ODS 3:: depende de integração com outros objetivos."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pergunta típica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cidade sustentável:: reduz exposição a riscos e iniquidades.\nB) INCORRETA. Incorreta: Intervenção assistencial — Intervenção estrutural — Assistencial trata efeito; estrutural reduz causa coletiva\nC) CORRETA. Correta: Pergunta típica — Resposta em uma frase\nD) INCORRETA. Incorreta: ODS 3:: depende de integração com outros objetivos.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1192,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Política pública efetiva:” está correta?",
+    "opcoes": [
+      "A) depende de implementação, não só de norma.",
+      "B) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "C) Indicador de saúde:: mede impacto real da política.",
+      "D) Lei sem execução:: não garante desfecho em saúde."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Política pública efetiva:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: depende de implementação, não só de norma.",
+      "B": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "C": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "D": "Incorreta: Lei sem execução:: não garante desfecho em saúde."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Política pública efetiva:”.\nA) CORRETA. Correta: depende de implementação, não só de norma.\nB) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nC) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nD) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1193,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Norma publicada” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Lei sem execução:: não garante desfecho em saúde.",
+      "B) Norma publicada — Política efetiva — Efetiva requer cobertura, acesso e resultado mensurável",
+      "C) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "D) Indicador de saúde:: mede impacto real da política."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Norma publicada” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "B": "Correta: Norma publicada — Política efetiva — Efetiva requer cobertura, acesso e resultado mensurável",
+      "C": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "D": "Incorreta: Indicador de saúde:: mede impacto real da política."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Norma publicada” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nB) CORRETA. Correta: Norma publicada — Política efetiva — Efetiva requer cobertura, acesso e resultado mensurável\nC) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nD) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1194,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Coordenação federativa:” está correta?",
+    "opcoes": [
+      "A) Indicador de saúde:: mede impacto real da política.",
+      "B) Lei sem execução:: não garante desfecho em saúde.",
+      "C) fundamental no contexto brasileiro.",
+      "D) Equidade territorial:: prioridade em áreas vulneráveis."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coordenação federativa:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "B": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "C": "Correta: fundamental no contexto brasileiro.",
+      "D": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coordenação federativa:”.\nA) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nB) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nC) CORRETA. Correta: fundamental no contexto brasileiro.\nD) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1195,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Indicador de processo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "B) Indicador de saúde:: mede impacto real da política.",
+      "C) Lei sem execução:: não garante desfecho em saúde.",
+      "D) Indicador de processo — Indicador de resultado — Processo mede execução; resultado mede impacto sanitário"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Indicador de processo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "B": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "C": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "D": "Correta: Indicador de processo — Indicador de resultado — Processo mede execução; resultado mede impacto sanitário"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Indicador de processo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nB) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nC) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nD) CORRETA. Correta: Indicador de processo — Indicador de resultado — Processo mede execução; resultado mede impacto sanitário",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1196,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Indicador de saúde:” está correta?",
+    "opcoes": [
+      "A) mede impacto real da política.",
+      "B) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "C) Lei sem execução:: não garante desfecho em saúde.",
+      "D) Indicadores:: mostram se houve impacto concreto."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Indicador de saúde:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mede impacto real da política.",
+      "B": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "C": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "D": "Incorreta: Indicadores:: mostram se houve impacto concreto."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Indicador de saúde:”.\nA) CORRETA. Correta: mede impacto real da política.\nB) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nC) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nD) INCORRETA. Incorreta: Indicadores:: mostram se houve impacto concreto.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1197,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Ação setorial isolada” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Lei sem execução:: não garante desfecho em saúde.",
+      "B) Ação setorial isolada — Ação intersetorial — Isolada tem alcance limitado; intersetorial enfrenta causa estrutural",
+      "C) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "D) Indicador de saúde:: mede impacto real da política."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Ação setorial isolada” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "B": "Correta: Ação setorial isolada — Ação intersetorial — Isolada tem alcance limitado; intersetorial enfrenta causa estrutural",
+      "C": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "D": "Incorreta: Indicador de saúde:: mede impacto real da política."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ação setorial isolada” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nB) CORRETA. Correta: Ação setorial isolada — Ação intersetorial — Isolada tem alcance limitado; intersetorial enfrenta causa estrutural\nC) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nD) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1198,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “SUS:” está correta?",
+    "opcoes": [
+      "A) Indicador de saúde:: mede impacto real da política.",
+      "B) Lei sem execução:: não garante desfecho em saúde.",
+      "C) eixo articulador de vigilância e cuidado.",
+      "D) Equidade territorial:: prioridade em áreas vulneráveis."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “SUS:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "B": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "C": "Correta: eixo articulador de vigilância e cuidado.",
+      "D": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “SUS:”.\nA) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nB) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nC) CORRETA. Correta: eixo articulador de vigilância e cuidado.\nD) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1199,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual alternativa associa corretamente “Igual cobertura formal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "B) Indicador de saúde:: mede impacto real da política.",
+      "C) Lei sem execução:: não garante desfecho em saúde.",
+      "D) Igual cobertura formal — Equidade de impacto — Equidade busca maior efeito onde a necessidade é maior"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Igual cobertura formal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "B": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "C": "Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+      "D": "Correta: Igual cobertura formal — Equidade de impacto — Equidade busca maior efeito onde a necessidade é maior"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Igual cobertura formal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nB) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nC) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.\nD) CORRETA. Correta: Igual cobertura formal — Equidade de impacto — Equidade busca maior efeito onde a necessidade é maior",
+    "aula_id": "ds_a3"
+  },
+  {
+    "id": 1200,
+    "materia": "ds",
+    "tema": "ds_a3",
+    "enunciado": "Qual afirmação sobre “Intersetorialidade:” está correta?",
+    "opcoes": [
+      "A) necessária para enfrentar determinantes sociais.",
+      "B) Equidade territorial:: prioridade em áreas vulneráveis.",
+      "C) Indicador de saúde:: mede impacto real da política.",
+      "D) Lei sem execução:: não garante desfecho em saúde."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Intersetorialidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: necessária para enfrentar determinantes sociais.",
+      "B": "Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.",
+      "C": "Incorreta: Indicador de saúde:: mede impacto real da política.",
+      "D": "Incorreta: Lei sem execução:: não garante desfecho em saúde."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Intersetorialidade:”.\nA) CORRETA. Correta: necessária para enfrentar determinantes sociais.\nB) INCORRETA. Incorreta: Equidade territorial:: prioridade em áreas vulneráveis.\nC) INCORRETA. Incorreta: Indicador de saúde:: mede impacto real da política.\nD) INCORRETA. Incorreta: Lei sem execução:: não garante desfecho em saúde.",
+    "aula_id": "ds_a3"
+  }
+]

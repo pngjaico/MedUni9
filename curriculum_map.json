@@ -1,0 +1,1928 @@
+{
+  "sus": [
+    {
+      "id": "sus_a1",
+      "tema": "Processo Saúde-Doença e Determinantes Sociais"
+    },
+    {
+      "id": "sus_a2",
+      "tema": "Antecedentes Históricos do SUS — Período Colonial ao Regime Militar"
+    },
+    {
+      "id": "sus_a3",
+      "tema": "Antecedentes Históricos do SUS — Nova República e Reforma Sanitária"
+    },
+    {
+      "id": "sus_a4",
+      "tema": "O SUS e as Leis Orgânicas da Saúde"
+    },
+    {
+      "id": "sus_a5",
+      "tema": "Pacto pela Vida"
+    },
+    {
+      "id": "sus_a6",
+      "tema": "Pacto pela Gestão — RAS e Regionalização"
+    },
+    {
+      "id": "sus_a7",
+      "tema": "Pacto em Defesa do SUS"
+    },
+    {
+      "id": "sus_a8",
+      "tema": "PNAB e Estratégia Saúde da Família"
+    },
+    {
+      "id": "sus_a9",
+      "tema": "Ferramentas de Abordagem Familiar e Comunitária"
+    }
+  ],
+  "semiologia1": [
+    {
+      "id": "semio1_a1",
+      "tema": "Fundamentos da Semiologia Musculoesquelética"
+    },
+    {
+      "id": "semio1_a2",
+      "tema": "Anamnese Dirigida do Aparelho Locomotor"
+    },
+    {
+      "id": "semio1_a3",
+      "tema": "Exame Físico — Inspeção"
+    },
+    {
+      "id": "semio1_a4",
+      "tema": "Exame Físico — Palpação"
+    },
+    {
+      "id": "semio1_a5",
+      "tema": "Testes de Mobilidade e Força Muscular"
+    },
+    {
+      "id": "semio1_a6",
+      "tema": "Síndromes Musculoesqueléticas e Propedêutica"
+    },
+    {
+      "id": "semio1_a7",
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados"
+    },
+    {
+      "id": "semio1_a8",
+      "tema": "Prática Real — Ambulatório Supervisionado"
+    },
+    {
+      "id": "semio1_a9",
+      "tema": "Reunião Clínica — Casos Musculoesqueléticos"
+    }
+  ],
+  "bmf1": [
+    {
+      "id": "bmf1_a1",
+      "tema": "Introdução ao Estudo da Anatomia Humana"
+    },
+    {
+      "id": "bmf1_a2",
+      "tema": "Introdução aos Tecidos Humanos"
+    },
+    {
+      "id": "bmf1_a3",
+      "tema": "Generalidades do Sistema Esquelético"
+    },
+    {
+      "id": "bmf1_a4",
+      "tema": "Tecido Conjuntivo — Células e Matriz"
+    },
+    {
+      "id": "bmf1_a5",
+      "tema": "Tecido Ósseo — Estrutura e Ossificação"
+    },
+    {
+      "id": "bmf1_a6",
+      "tema": "Prática — Ossos da Coluna, Membros Superiores e Inferiores"
+    },
+    {
+      "id": "bmf1_a7",
+      "tema": "Generalidades do Sistema Articular"
+    },
+    {
+      "id": "bmf1_a8",
+      "tema": "Tecido Cartilaginoso"
+    },
+    {
+      "id": "bmf1_a9",
+      "tema": "Prática — Articulações da Coluna e Membros"
+    },
+    {
+      "id": "bmf1_a10",
+      "tema": "Generalidades do Sistema Muscular"
+    },
+    {
+      "id": "bmf1_a11",
+      "tema": "Histologia do Tecido Muscular"
+    },
+    {
+      "id": "bmf1_a12",
+      "tema": "Fisiologia da Contração Muscular"
+    },
+    {
+      "id": "bmf1_a13",
+      "tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores"
+    },
+    {
+      "id": "bmf1_a14",
+      "tema": "Tegumento — Tecido Epitelial de Revestimento"
+    },
+    {
+      "id": "bmf1_a15",
+      "tema": "Tegumento — Tecido Epitelial Glandular"
+    },
+    {
+      "id": "bmf1_a16",
+      "tema": "Prática — Histologia do Tegumento e Tecido Adiposo"
+    },
+    {
+      "id": "bmf1_a17",
+      "tema": "Anatomia da Boca, Língua, Glândulas Salivares e Faringe"
+    },
+    {
+      "id": "bmf1_a18",
+      "tema": "Anatomia da Parede Abdominal e Peritônio"
+    },
+    {
+      "id": "bmf1_a19",
+      "tema": "Anatomia dos Intestinos Delgado e Grosso"
+    },
+    {
+      "id": "bmf1_a20",
+      "tema": "Inervação e Vascularização Gastrointestinal"
+    },
+    {
+      "id": "bmf1_a21",
+      "tema": "Anatomia do Fígado, Vias Biliares e Pâncreas"
+    },
+    {
+      "id": "bmf1_a22",
+      "tema": "Prática — Sistema Digestório em Anatomia"
+    }
+  ],
+  "pmh": [
+    {
+      "id": "pmh_a1",
+      "tema": "Bioenergética e Termodinâmica do Metabolismo"
+    },
+    {
+      "id": "pmh_a2",
+      "tema": "Regulação Metabólica Geral"
+    },
+    {
+      "id": "pmh_a3",
+      "tema": "Glicólise e Gliconeogênese"
+    },
+    {
+      "id": "pmh_a4",
+      "tema": "Ciclo de Krebs e Fosforilação Oxidativa"
+    },
+    {
+      "id": "pmh_a5",
+      "tema": "Metabolismo de Glicogênio e Via das Pentoses"
+    },
+    {
+      "id": "pmh_a6",
+      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos"
+    },
+    {
+      "id": "pmh_a7",
+      "tema": "Beta-oxidação e Síntese de Ácidos Graxos"
+    },
+    {
+      "id": "pmh_a8",
+      "tema": "Colesterol, Lipoproteínas e Homeostase Lipídica"
+    },
+    {
+      "id": "pmh_a9",
+      "tema": "Aplicações Clínicas dos Lipídios"
+    },
+    {
+      "id": "pmh_a10",
+      "tema": "Transaminação, Desaminação e Ciclo da Ureia"
+    },
+    {
+      "id": "pmh_a11",
+      "tema": "Aplicações Clínicas de Proteínas e Aminoácidos"
+    },
+    {
+      "id": "pmh_a12",
+      "tema": "Biossíntese e Degradação de Nucleotídeos"
+    },
+    {
+      "id": "pmh_a13",
+      "tema": "Integração Metabólica entre Órgãos"
+    },
+    {
+      "id": "pmh_a14",
+      "tema": "Adaptações Metabólicas e Aplicações Clínicas"
+    }
+  ],
+  "pe1": [
+    {
+      "id": "pe1_a1",
+      "tema": "Organização da Atenção Básica e Território"
+    },
+    {
+      "id": "pe1_a2",
+      "tema": "Equipe Multiprofissional e Papel do ACS"
+    },
+    {
+      "id": "pe1_a3",
+      "tema": "Roteiro de Apropriação do Território e Primeira Visita"
+    },
+    {
+      "id": "pe1_a4",
+      "tema": "Promoção da Saúde — Higiene Bucal e Corporal"
+    },
+    {
+      "id": "pe1_a5",
+      "tema": "Promoção da Saúde — Alimentação Saudável e Atividade Física"
+    },
+    {
+      "id": "pe1_a6",
+      "tema": "Promoção da Saúde — Tabagismo e Prevenção de Quedas"
+    },
+    {
+      "id": "pe1_a7",
+      "tema": "Materiais Educativos e Relatório Extensionista"
+    }
+  ],
+  "bmf2": [
+    {
+      "id": "bmf2_a1",
+      "tema": "Potencial de Ação Cardíaco e Sistema de Condução"
+    },
+    {
+      "id": "bmf2_a2",
+      "tema": "Propriedades do Músculo Cardíaco"
+    },
+    {
+      "id": "bmf2_a3",
+      "tema": "Circulação Sistêmica e Pulmonar; Tipos de Vasos"
+    },
+    {
+      "id": "bmf2_a4",
+      "tema": "Câmaras, Valvas e Ciclo Cardíaco"
+    },
+    {
+      "id": "bmf2_a5",
+      "tema": "Histologia Cardíaca"
+    },
+    {
+      "id": "bmf2_a6",
+      "tema": "ECG e Ciclo Cardíaco"
+    },
+    {
+      "id": "bmf2_a7",
+      "tema": "Débito Cardíaco e Lei de Starling"
+    },
+    {
+      "id": "bmf2_a8",
+      "tema": "Inervação do Coração e Regulação da Pressão Arterial"
+    },
+    {
+      "id": "bmf2_a9",
+      "tema": "Circulação Coronariana, Microcirculação e Linfática"
+    },
+    {
+      "id": "bmf2_a10",
+      "tema": "Anatomia da Caixa Torácica e Vias Aéreas"
+    },
+    {
+      "id": "bmf2_a11",
+      "tema": "Histologia do Sistema Respiratório"
+    },
+    {
+      "id": "bmf2_a12",
+      "tema": "Volumes, Capacidades e Mecânica Pulmonar"
+    },
+    {
+      "id": "bmf2_a13",
+      "tema": "Trocas Gasosas e Relação Ventilação/Perfusão"
+    },
+    {
+      "id": "bmf2_a14",
+      "tema": "Controle Central da Respiração"
+    },
+    {
+      "id": "bmf2_a15",
+      "tema": "Prática — Anatomia e Histologia Cardiovascular"
+    },
+    {
+      "id": "bmf2_a16",
+      "tema": "Prática — Anatomia e Histologia Respiratória"
+    }
+  ],
+  "semiologia2": [
+    {
+      "id": "semio2_a1",
+      "tema": "Fundamentos da Semiologia Cardiorrespiratória"
+    },
+    {
+      "id": "semio2_a2",
+      "tema": "Anamnese Cardiorrespiratória"
+    },
+    {
+      "id": "semio2_a3",
+      "tema": "Exame Físico Cardiovascular"
+    },
+    {
+      "id": "semio2_a4",
+      "tema": "Exame Físico Respiratório"
+    },
+    {
+      "id": "semio2_a5",
+      "tema": "Interpretação de Achados e Síndromes Cardiorrespiratórias"
+    },
+    {
+      "id": "semio2_a6",
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados"
+    },
+    {
+      "id": "semio2_a7",
+      "tema": "Prática Real — Ambulatório Supervisionado"
+    },
+    {
+      "id": "semio2_a8",
+      "tema": "Reunião Clínica — Casos Cardiovasculares"
+    },
+    {
+      "id": "semio2_a9",
+      "tema": "Reunião Clínica — Casos Respiratórios"
+    }
+  ],
+  "mad1": [
+    {
+      "id": "mad1_a1",
+      "tema": "Funções Básicas e Componentes do Sistema Imune"
+    },
+    {
+      "id": "mad1_a2",
+      "tema": "Imunidade Inata"
+    },
+    {
+      "id": "mad1_a3",
+      "tema": "Imunidade Adaptativa"
+    },
+    {
+      "id": "mad1_a4",
+      "tema": "Inflamação Aguda e Crônica"
+    },
+    {
+      "id": "mad1_a5",
+      "tema": "Hemograma — Interpretação e Nomenclatura"
+    },
+    {
+      "id": "mad1_a6",
+      "tema": "Imunização — Tipos de Vacinas"
+    },
+    {
+      "id": "mad1_a7",
+      "tema": "Imunodeficiências"
+    },
+    {
+      "id": "mad1_a8",
+      "tema": "Tolerância Imunológica e Autoimunidade"
+    },
+    {
+      "id": "mad1_a9",
+      "tema": "Transplantes e Transfusão Sanguínea"
+    },
+    {
+      "id": "mad1_a10",
+      "tema": "Hipersensibilidades (Tipos I a IV)"
+    },
+    {
+      "id": "mad1_a11",
+      "tema": "Estrutura e Metabolismo Bacteriano"
+    },
+    {
+      "id": "mad1_a12",
+      "tema": "ISTs Bacterianas — Treponema, Neisseria e Chlamydia"
+    },
+    {
+      "id": "mad1_a13",
+      "tema": "Infecções Bacterianas do Sistema Tegumentar"
+    },
+    {
+      "id": "mad1_a14",
+      "tema": "Infecções Bacterianas do Sistema Urinário"
+    },
+    {
+      "id": "mad1_a15",
+      "tema": "Infecções por Gram-negativas e Mycobacterium tuberculosis"
+    },
+    {
+      "id": "mad1_a16",
+      "tema": "Infecções Respiratórias Virais"
+    },
+    {
+      "id": "mad1_a17",
+      "tema": "Infecções por Arbovírus"
+    },
+    {
+      "id": "mad1_a18",
+      "tema": "Hepatites Virais (A, B, C, D, E)"
+    },
+    {
+      "id": "mad1_a19",
+      "tema": "Infecção pelo HIV e AIDS"
+    },
+    {
+      "id": "mad1_a20",
+      "tema": "Infecções por Herpesvírus"
+    },
+    {
+      "id": "mad1_a21",
+      "tema": "Infecções Virais do SNC e Doenças Exantemáticas"
+    },
+    {
+      "id": "mad1_a22",
+      "tema": "Parasitoses — Protozoários (Chagas, Malária, Leishmaniose)"
+    },
+    {
+      "id": "mad1_a23",
+      "tema": "Helmintíases e Cestoidoses"
+    },
+    {
+      "id": "mad1_a24",
+      "tema": "Infecções Fúngicas Sistêmicas e Superficiais"
+    }
+  ],
+  "bcm1": [
+    {
+      "id": "bcm1_a1",
+      "tema": "Organização da Célula Eucariótica"
+    },
+    {
+      "id": "bcm1_a2",
+      "tema": "Tampões Biológicos e Gasometria"
+    },
+    {
+      "id": "bcm1_a3",
+      "tema": "Organização Genômica e Estrutura Gênica"
+    },
+    {
+      "id": "bcm1_a4",
+      "tema": "Sinalização Celular"
+    },
+    {
+      "id": "bcm1_a5",
+      "tema": "Replicação do DNA e PCR"
+    },
+    {
+      "id": "bcm1_a6",
+      "tema": "Transcrição e Controle da Expressão Gênica"
+    },
+    {
+      "id": "bcm1_a7",
+      "tema": "Tradução de Proteínas"
+    },
+    {
+      "id": "bcm1_a8",
+      "tema": "Controle da Expressão Gênica e Doenças"
+    },
+    {
+      "id": "bcm1_a9",
+      "tema": "Necrose vs Apoptose"
+    },
+    {
+      "id": "bcm1_a10",
+      "tema": "Ciclo Celular — p53 e Rb1"
+    },
+    {
+      "id": "bcm1_a11",
+      "tema": "Mutações, Agentes Mutagênicos e Reparo de DNA"
+    },
+    {
+      "id": "bcm1_a12",
+      "tema": "Biotecnologias e Bioinformática"
+    },
+    {
+      "id": "bcm1_a13",
+      "tema": "Genética Médica — Heredograma e Padrões de Herança"
+    },
+    {
+      "id": "bcm1_a14",
+      "tema": "Alterações Cromossômicas Numéricas"
+    },
+    {
+      "id": "bcm1_a15",
+      "tema": "Alterações Cromossômicas Estruturais"
+    },
+    {
+      "id": "bcm1_a16",
+      "tema": "Distúrbios de Diferenciação Sexual"
+    },
+    {
+      "id": "bcm1_a17",
+      "tema": "Herança Ligada ao X — Dominante e Recessiva"
+    },
+    {
+      "id": "bcm1_a18",
+      "tema": "Herança Autossômica Recessiva 1"
+    },
+    {
+      "id": "bcm1_a19",
+      "tema": "Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo"
+    },
+    {
+      "id": "bcm1_a20",
+      "tema": "Herança Autossômica Dominante"
+    },
+    {
+      "id": "bcm1_a21",
+      "tema": "Herança Poligênica e Bases Genéticas do Câncer"
+    }
+  ],
+  "indicadores": [
+    {
+      "id": "ind_a1",
+      "tema": "História da Epidemiologia"
+    },
+    {
+      "id": "ind_a2",
+      "tema": "HND e Níveis de Prevenção"
+    },
+    {
+      "id": "ind_a3",
+      "tema": "Transição Epidemiológica, Demogr��fica e Nutricional"
+    },
+    {
+      "id": "ind_a4",
+      "tema": "Indicadores Demográficos"
+    },
+    {
+      "id": "ind_a5",
+      "tema": "Indicadores de Morbidade"
+    },
+    {
+      "id": "ind_a6",
+      "tema": "Indicadores de Mortalidade Geral e Específica"
+    },
+    {
+      "id": "ind_a7",
+      "tema": "Indicadores de Mortalidade Materno-Infantil e Perinatal"
+    },
+    {
+      "id": "ind_a8",
+      "tema": "Sistemas de Informação em Saúde"
+    },
+    {
+      "id": "ind_a9",
+      "tema": "Bioestatística — Conceitos e Tipos de Variáveis"
+    },
+    {
+      "id": "ind_a10",
+      "tema": "Análise Descritiva — Tendência Central e Dispersão"
+    },
+    {
+      "id": "ind_a11",
+      "tema": "Análise Inferencial — Testes de Hipóteses"
+    }
+  ],
+  "ds": [
+    {
+      "id": "ds_a1",
+      "tema": "Desafios Socioambientais Globais e Saúde"
+    },
+    {
+      "id": "ds_a2",
+      "tema": "Sustentabilidade, ODS e Saúde nas Cidades"
+    },
+    {
+      "id": "ds_a3",
+      "tema": "Políticas Públicas Socioambientais e Saúde no Brasil"
+    }
+  ],
+  "bmf3": [
+    {
+      "id": "bmf3_a1",
+      "tema": "Anatomia do TGI Superior — Boca, Faringe, Esôfago e Estômago"
+    },
+    {
+      "id": "bmf3_a2",
+      "tema": "Anatomia do TGI Inferior — Intestinos Delgado e Grosso"
+    },
+    {
+      "id": "bmf3_a3",
+      "tema": "Anatomia dos Órgãos Acessórios — Fígado, Pâncreas e Vesícula Biliar"
+    },
+    {
+      "id": "bmf3_a4",
+      "tema": "Histologia do Esôfago e Estômago"
+    },
+    {
+      "id": "bmf3_a5",
+      "tema": "Histologia do Intestino Delgado e Grosso"
+    },
+    {
+      "id": "bmf3_a6",
+      "tema": "Histologia do Fígado, Pâncreas e Vesícula Biliar"
+    },
+    {
+      "id": "bmf3_a7",
+      "tema": "Fisiologia da Motilidade e Regulação Hormonal Digestiva"
+    },
+    {
+      "id": "bmf3_a8",
+      "tema": "Fisiologia das Secreções Digestivas"
+    },
+    {
+      "id": "bmf3_a9",
+      "tema": "Fisiologia da Absorção de Nutrientes"
+    },
+    {
+      "id": "bmf3_a10",
+      "tema": "Anatomia dos Rins, Ureteres, Bexiga e Uretra"
+    },
+    {
+      "id": "bmf3_a11",
+      "tema": "Histologia do Néfron e Sistema Coletor"
+    },
+    {
+      "id": "bmf3_a12",
+      "tema": "Fisiologia Renal — Filtração Glomerular e TFG"
+    },
+    {
+      "id": "bmf3_a13",
+      "tema": "Fisiologia Renal — Reabsorção, Secreção e Equilíbrio Hidroeletrolítico"
+    },
+    {
+      "id": "bmf3_a14",
+      "tema": "Fisiologia Renal — Equilíbrio Ácido-Básico"
+    },
+    {
+      "id": "bmf3_a15",
+      "tema": "Glândula Suprarrenal — Anatomia e Histologia"
+    },
+    {
+      "id": "bmf3_a16",
+      "tema": "Glândula Suprarrenal — Fisiologia do Córtex e da Medula"
+    },
+    {
+      "id": "bmf3_a17",
+      "tema": "Anatomia e Histologia do Sistema Reprodutor Masculino"
+    },
+    {
+      "id": "bmf3_a18",
+      "tema": "Anatomia e Histologia do Sistema Reprodutor Feminino"
+    },
+    {
+      "id": "bmf3_a19",
+      "tema": "Gametogênese — Espermatogênese e Ovogênese"
+    },
+    {
+      "id": "bmf3_a20",
+      "tema": "Ciclo Menstrual e Hormônios Sexuais"
+    },
+    {
+      "id": "bmf3_a21",
+      "tema": "Fertilização, Embriologia Inicial e Implantação"
+    },
+    {
+      "id": "bmf3_a22",
+      "tema": "Parto, Puerpério e Lactação"
+    }
+  ],
+  "semiologia3": [
+    {
+      "id": "semio3_a1",
+      "tema": "Revisão da Semiologia Abdominal — Anamnese"
+    },
+    {
+      "id": "semio3_a2",
+      "tema": "Revisão da Semiologia Abdominal — Exame Físico"
+    },
+    {
+      "id": "semio3_a3",
+      "tema": "Semiologia Renal — Anamnese e Exame Físico"
+    },
+    {
+      "id": "semio3_a4",
+      "tema": "Semiologia do Aparelho Reprodutor Masculino"
+    },
+    {
+      "id": "semio3_a5",
+      "tema": "Semiologia do Aparelho Reprodutor Feminino"
+    },
+    {
+      "id": "semio3_a6",
+      "tema": "Prática Simulada e Real — Aparelhos Renal e Reprodutor"
+    }
+  ],
+  "mad2": [
+    {
+      "id": "mad2_a1",
+      "tema": "Imunodeficiências Primárias"
+    },
+    {
+      "id": "mad2_a2",
+      "tema": "Tolerância Imunológica"
+    },
+    {
+      "id": "mad2_a3",
+      "tema": "Autoimunidade"
+    },
+    {
+      "id": "mad2_a4",
+      "tema": "Transplantes e Transfusão Sanguínea"
+    },
+    {
+      "id": "mad2_a5",
+      "tema": "ISTs Bacterianas — Treponema, Neisseria, Chlamydia"
+    },
+    {
+      "id": "mad2_a6",
+      "tema": "Infecções Bacterianas do Tegumento e Hanseníase"
+    },
+    {
+      "id": "mad2_a7",
+      "tema": "Doenças Exantemáticas Virais (Sarampo, Rubéola)"
+    },
+    {
+      "id": "mad2_a8",
+      "tema": "Hepatites Virais (A a E)"
+    },
+    {
+      "id": "mad2_a9",
+      "tema": "Infecção pelo HIV e AIDS"
+    },
+    {
+      "id": "mad2_a10",
+      "tema": "Infecções por Herpesvírus"
+    },
+    {
+      "id": "mad2_a11",
+      "tema": "Infecções Virais do SNC — Poliovírus"
+    },
+    {
+      "id": "mad2_a12",
+      "tema": "Infecções por Arbovírus"
+    },
+    {
+      "id": "mad2_a13",
+      "tema": "Protozooses — Malária, Chagas e Toxoplasmose"
+    },
+    {
+      "id": "mad2_a14",
+      "tema": "Helmintíases — Nematódeos e Estrongiloidíase"
+    },
+    {
+      "id": "mad2_a15",
+      "tema": "Cestoidoses — Teníase e Cisticercose"
+    },
+    {
+      "id": "mad2_a16",
+      "tema": "Antibióticos — Inibidores de Síntese de Parede"
+    },
+    {
+      "id": "mad2_a17",
+      "tema": "Antibióticos — Inibidores de Síntese Proteica"
+    },
+    {
+      "id": "mad2_a18",
+      "tema": "Antibióticos — Inibidores de Síntese de DNA e Antimetabólitos"
+    },
+    {
+      "id": "mad2_a19",
+      "tema": "Antivirais"
+    },
+    {
+      "id": "mad2_a20",
+      "tema": "Antiparasitários e Antifúngicos"
+    }
+  ],
+  "fisiopato3": [
+    {
+      "id": "fp3_a1",
+      "tema": "Patologia Geral — Lesão Celular e Morte Celular"
+    },
+    {
+      "id": "fp3_a2",
+      "tema": "Distúrbios Hemodinâmicos"
+    },
+    {
+      "id": "fp3_a3",
+      "tema": "Princípios de Farmacoterapia"
+    },
+    {
+      "id": "fp3_a4",
+      "tema": "Farmacologia do SNA Simpático e Substâncias Vasoativas"
+    },
+    {
+      "id": "fp3_a5",
+      "tema": "Farmacologia do SNA Parassimpático"
+    },
+    {
+      "id": "fp3_a6",
+      "tema": "Inflamação — Morfologia e Reparo Tecidual"
+    },
+    {
+      "id": "fp3_a7",
+      "tema": "Anti-inflamatórios — AINEs e Corticoides"
+    },
+    {
+      "id": "fp3_a8",
+      "tema": "Neoplasias — Carcinogênese, Disseminação e Estadiamento"
+    },
+    {
+      "id": "fp3_a9",
+      "tema": "Farmacoterapia Antineoplásica"
+    },
+    {
+      "id": "fp3_a10",
+      "tema": "Patologia das Vias Urinárias e Glomerulopatias"
+    },
+    {
+      "id": "fp3_a11",
+      "tema": "Patologias Endócrinas — Suprarrenal e Próstata"
+    },
+    {
+      "id": "fp3_a12",
+      "tema": "Patologias do Sistema Reprodutor Feminino"
+    },
+    {
+      "id": "fp3_a13",
+      "tema": "Patologia da Mama — Benigna e Maligna"
+    },
+    {
+      "id": "fp3_a14",
+      "tema": "Farmacoterapia do Sistema Genitourinário Masculino"
+    },
+    {
+      "id": "fp3_a15",
+      "tema": "Farmacoterapia do Sistema Genitourinário Feminino"
+    }
+  ],
+  "saude_trabalhador": [
+    {
+      "id": "st_a1",
+      "tema": "Vigilância em Saúde — Epidemiológica, Sanitária e Ambiental"
+    },
+    {
+      "id": "st_a2",
+      "tema": "Notificação Compulsória e Regulamento Sanitário Internacional"
+    },
+    {
+      "id": "st_a3",
+      "tema": "Política Nacional de Saúde do Trabalhador (PNSTT)"
+    },
+    {
+      "id": "st_a4",
+      "tema": "Legislação Trabalhista e Acidente de Trabalho"
+    },
+    {
+      "id": "st_a5",
+      "tema": "Normas Regulamentadoras (NR)"
+    },
+    {
+      "id": "st_a6",
+      "tema": "Doenças Ocupacionais — LER/DORT, Pneumoconioses e PAIR"
+    },
+    {
+      "id": "st_a7",
+      "tema": "DCNT e Saúde Mental no Trabalho"
+    },
+    {
+      "id": "st_a8",
+      "tema": "ISTs e Sistemas de Informação em Saúde do Trabalhador"
+    }
+  ],
+  "pe3": [
+    {
+      "id": "pe3_a1",
+      "tema": "Promoção da Saúde Ocupacional — Planejamento de Intervenções"
+    },
+    {
+      "id": "pe3_a2",
+      "tema": "Importância da Vacinação para os Trabalhadores"
+    },
+    {
+      "id": "pe3_a3",
+      "tema": "Doenças e Agravos Relacionados ao Trabalho"
+    },
+    {
+      "id": "pe3_a4",
+      "tema": "Visitas Técnicas e Relatório Extensionista"
+    }
+  ],
+  "bmf4": [
+    {
+      "id": "bmf4_a1",
+      "tema": "Divisão do Sistema Nervoso — Anatômica e Funcional"
+    },
+    {
+      "id": "bmf4_a2",
+      "tema": "Embriologia do Sistema Nervoso"
+    },
+    {
+      "id": "bmf4_a3",
+      "tema": "Formação do Nervo Espinal"
+    },
+    {
+      "id": "bmf4_a4",
+      "tema": "Crânio e Fossas Cranianas"
+    },
+    {
+      "id": "bmf4_a5",
+      "tema": "Morfologia do Telencéfalo"
+    },
+    {
+      "id": "bmf4_a6",
+      "tema": "Córtex Cerebral — Citoarquitetura e Funções"
+    },
+    {
+      "id": "bmf4_a7",
+      "tema": "Morfologia do Diencéfalo"
+    },
+    {
+      "id": "bmf4_a8",
+      "tema": "Morfologia do Tronco Encefálico"
+    },
+    {
+      "id": "bmf4_a9",
+      "tema": "Morfologia do Cerebelo"
+    },
+    {
+      "id": "bmf4_a10",
+      "tema": "Morfologia da Medula Espinal"
+    },
+    {
+      "id": "bmf4_a11",
+      "tema": "Histologia do Sistema Nervoso — Neurônios e Glia"
+    },
+    {
+      "id": "bmf4_a12",
+      "tema": "Neurotransmissão e Fibra Nervosa"
+    },
+    {
+      "id": "bmf4_a13",
+      "tema": "Nervos Cranianos e Vias Descendentes"
+    },
+    {
+      "id": "bmf4_a14",
+      "tema": "Vascularização do SNC"
+    },
+    {
+      "id": "bmf4_a15",
+      "tema": "Meninges, Sistema Ventricular e Barreiras Encefálicas"
+    },
+    {
+      "id": "bmf4_a16",
+      "tema": "Sensibilidade Geral"
+    },
+    {
+      "id": "bmf4_a17",
+      "tema": "Órgãos dos Sentidos"
+    },
+    {
+      "id": "bmf4_a18",
+      "tema": "Glândulas Endócrinas e Regulação Hormonal"
+    }
+  ],
+  "semiologia4": [
+    {
+      "id": "semio4_a1",
+      "tema": "Fundamentos da Semiologia Neurológica"
+    },
+    {
+      "id": "semio4_a2",
+      "tema": "Anamnese Neurológica"
+    },
+    {
+      "id": "semio4_a3",
+      "tema": "Nível de Consciência e Nervos Cranianos"
+    },
+    {
+      "id": "semio4_a4",
+      "tema": "Exame Motor e Reflexos Tendíneos"
+    },
+    {
+      "id": "semio4_a5",
+      "tema": "Exame Sensorial e Provas Cerebelares"
+    },
+    {
+      "id": "semio4_a6",
+      "tema": "Funções Cognitivas"
+    },
+    {
+      "id": "semio4_a7",
+      "tema": "Síndromes Neurológicas Clínicas"
+    },
+    {
+      "id": "semio4_a8",
+      "tema": "Propedêutica Complementar em Neurologia"
+    },
+    {
+      "id": "semio4_a9",
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados"
+    },
+    {
+      "id": "semio4_a10",
+      "tema": "Prática Real — Ambulatório de Neurologia"
+    }
+  ],
+  "fisiopato_farmaco": [
+    {
+      "id": "ff4_a1",
+      "tema": "Patologia Geral — Lesão Celular e Distúrbios Circulatórios"
+    },
+    {
+      "id": "ff4_a2",
+      "tema": "Princípios de Farmacoterapia"
+    },
+    {
+      "id": "ff4_a3",
+      "tema": "AINEs, Corticoides e Antineoplásicos"
+    },
+    {
+      "id": "ff4_a4",
+      "tema": "Fisiopatologia das Doenças Cerebrovasculares"
+    },
+    {
+      "id": "ff4_a5",
+      "tema": "Neoplasias Primárias do SNC"
+    },
+    {
+      "id": "ff4_a6",
+      "tema": "Farmacologia do SNA — Simpático e Parassimpático"
+    },
+    {
+      "id": "ff4_a7",
+      "tema": "Bloqueadores Neuromusculares e Opioides"
+    },
+    {
+      "id": "ff4_a8",
+      "tema": "Anestésicos Locais e Gerais"
+    },
+    {
+      "id": "ff4_a9",
+      "tema": "Psicofarmacologia"
+    },
+    {
+      "id": "ff4_a10",
+      "tema": "Fisiopatologia da Hipófise"
+    },
+    {
+      "id": "ff4_a11",
+      "tema": "Fisiopatologia da Glândula Adrenal"
+    },
+    {
+      "id": "ff4_a12",
+      "tema": "Fisiopatologia do Pâncreas Endócrino"
+    },
+    {
+      "id": "ff4_a13",
+      "tema": "Hipoglicemiantes e Insulinas"
+    },
+    {
+      "id": "ff4_a14",
+      "tema": "Diagnósticos Diferenciais — Integração Clínica"
+    }
+  ],
+  "bioestatistica": [
+    {
+      "id": "bioe_a1",
+      "tema": "Aplicações e Definição de Bioestatística"
+    },
+    {
+      "id": "bioe_a2",
+      "tema": "Tipos de Variáveis Estatísticas"
+    },
+    {
+      "id": "bioe_a3",
+      "tema": "Medidas de Tendência Central e Dispersão"
+    },
+    {
+      "id": "bioe_a4",
+      "tema": "Definição da Amostra e Normalidade dos Dados"
+    },
+    {
+      "id": "bioe_a5",
+      "tema": "Análise Inferencial — Testes de Hipóteses"
+    },
+    {
+      "id": "bioe_a6",
+      "tema": "Pesquisas Qualitativas na Saúde"
+    },
+    {
+      "id": "bioe_a7",
+      "tema": "Introdução à Epidemiologia Analítica"
+    },
+    {
+      "id": "bioe_a8",
+      "tema": "Estudo Transversal"
+    },
+    {
+      "id": "bioe_a9",
+      "tema": "Estudo de Coorte"
+    },
+    {
+      "id": "bioe_a10",
+      "tema": "Estudo Caso-Controle"
+    },
+    {
+      "id": "bioe_a11",
+      "tema": "Estudo Ecológico"
+    },
+    {
+      "id": "bioe_a12",
+      "tema": "Ensaio Clínico Randomizado e Ensaio Comunitário"
+    }
+  ],
+  "pe4": [
+    {
+      "id": "pe4_a1",
+      "tema": "Pesquisa Científica e Revisão de Literatura"
+    },
+    {
+      "id": "pe4_a2",
+      "tema": "Intervenção em Saúde — AVC"
+    },
+    {
+      "id": "pe4_a3",
+      "tema": "Intervenção em Saúde — Parkinson"
+    },
+    {
+      "id": "pe4_a4",
+      "tema": "Intervenção em Saúde — Alzheimer"
+    },
+    {
+      "id": "pe4_a5",
+      "tema": "Intervenção em Saúde — Queda de Idoso"
+    },
+    {
+      "id": "pe4_a6",
+      "tema": "Rede de Atenção à Saúde e Perfil da População"
+    },
+    {
+      "id": "pe4_a7",
+      "tema": "Trabalho Escrito — Artigo/Relato de Experiência"
+    }
+  ],
+  "clinica_medica5": [
+    {
+      "id": "cm5_a1",
+      "tema": "Hipertensão Arterial Sistêmica"
+    },
+    {
+      "id": "cm5_a2",
+      "tema": "Interpretação do Eletrocardiograma"
+    },
+    {
+      "id": "cm5_a3",
+      "tema": "Insuficiência Cardíaca"
+    },
+    {
+      "id": "cm5_a4",
+      "tema": "Arritmias Cardíacas"
+    },
+    {
+      "id": "cm5_a5",
+      "tema": "Doença Arterial Coronariana Crônica"
+    },
+    {
+      "id": "cm5_a6",
+      "tema": "Síndrome Metabólica e Diabetes Mellitus"
+    },
+    {
+      "id": "cm5_a7",
+      "tema": "Doenças da Hipófise e das Adrenais"
+    },
+    {
+      "id": "cm5_a8",
+      "tema": "Disfunções da Tireoide e Metabolismo Ósseo"
+    },
+    {
+      "id": "cm5_a9",
+      "tema": "Doença Renal Crônica"
+    },
+    {
+      "id": "cm5_a10",
+      "tema": "Glomerulopatias e Infecção Urinária"
+    },
+    {
+      "id": "cm5_a11",
+      "tema": "Cefaleia"
+    },
+    {
+      "id": "cm5_a12",
+      "tema": "Demência e Meningite"
+    },
+    {
+      "id": "cm5_a13",
+      "tema": "Otites, Rinites e Rinossinusites"
+    },
+    {
+      "id": "cm5_a14",
+      "tema": "Faringotonsilites, Disfonias e Surdez"
+    },
+    {
+      "id": "cm5_a15",
+      "tema": "Labirintopatias e Vertigem"
+    },
+    {
+      "id": "cm5_a16",
+      "tema": "Anatomia e Fisiologia da Visão; Olho Vermelho e Trauma"
+    },
+    {
+      "id": "cm5_a17",
+      "tema": "Perda Súbita da Visão e Fundo de Olho"
+    },
+    {
+      "id": "cm5_a18",
+      "tema": "Dermatoses Virais e Micoses"
+    },
+    {
+      "id": "cm5_a19",
+      "tema": "Lesões Eritematodescamativas"
+    },
+    {
+      "id": "cm5_a20",
+      "tema": "Hepatoesplenomegalia, Icterícia Febril e Adenomegalias"
+    },
+    {
+      "id": "cm5_a21",
+      "tema": "Perda de Peso Não Intencional"
+    }
+  ],
+  "clinica_cirurgica5": [
+    {
+      "id": "cc5_a1",
+      "tema": "Avaliação Pré-operatória"
+    },
+    {
+      "id": "cc5_a2",
+      "tema": "Complicações Pós-operatórias"
+    },
+    {
+      "id": "cc5_a3",
+      "tema": "Infecção em Cirurgia"
+    },
+    {
+      "id": "cc5_a4",
+      "tema": "Resposta Endócrina-Metabólica ao Trauma"
+    },
+    {
+      "id": "cc5_a5",
+      "tema": "Cicatrização Normal e Patológica"
+    },
+    {
+      "id": "cc5_a6",
+      "tema": "Úlcera de Pressão"
+    },
+    {
+      "id": "cc5_a7",
+      "tema": "Câncer de Pele"
+    },
+    {
+      "id": "cc5_a8",
+      "tema": "Litíase Renal"
+    },
+    {
+      "id": "cc5_a9",
+      "tema": "Hiperplasia Prostática Benigna"
+    },
+    {
+      "id": "cc5_a10",
+      "tema": "Câncer de Próstata"
+    }
+  ],
+  "farmaco_aplicada": [
+    {
+      "id": "farm_a1",
+      "tema": "Farmacologia do Sistema Digestório"
+    },
+    {
+      "id": "farm_a2",
+      "tema": "Anti-inflamatórios — AINEs e Corticoides"
+    },
+    {
+      "id": "farm_a3",
+      "tema": "Farmacologia do Sistema Respiratório"
+    },
+    {
+      "id": "farm_a4",
+      "tema": "Antibióticos 1 — Inibidores de Síntese de Parede"
+    },
+    {
+      "id": "farm_a5",
+      "tema": "Antibióticos 2 — Inibidores de Síntese Proteica"
+    },
+    {
+      "id": "farm_a6",
+      "tema": "Antibióticos 3 — Inibidores de DNA e Antimetabólitos"
+    },
+    {
+      "id": "farm_a7",
+      "tema": "Antivirais"
+    },
+    {
+      "id": "farm_a8",
+      "tema": "Antiparasitários"
+    },
+    {
+      "id": "farm_a9",
+      "tema": "Farmacologia Cardiovascular 1 — Anti-hipertensivos"
+    },
+    {
+      "id": "farm_a10",
+      "tema": "Farmacologia Cardiovascular 2 — Antiarrítmicos e Antianginosos"
+    },
+    {
+      "id": "farm_a11",
+      "tema": "Farmacologia Cardiovascular 3 — Anticoagulantes e Antiplaquetários"
+    },
+    {
+      "id": "farm_a12",
+      "tema": "Prescrição Racional e Simulação no NIS"
+    }
+  ],
+  "clinica_medica6": [
+    {
+      "id": "cm6_a1",
+      "tema": "Cirrose Hepática e Complicações"
+    },
+    {
+      "id": "cm6_a2",
+      "tema": "Hepatites Virais"
+    },
+    {
+      "id": "cm6_a3",
+      "tema": "Aspectos do Envelhecimento — Senescência e Senilidade"
+    },
+    {
+      "id": "cm6_a4",
+      "tema": "Funcionalidade em Geriatria e Síndrome de Fragilidade"
+    },
+    {
+      "id": "cm6_a5",
+      "tema": "Síndromes Geriátricas"
+    },
+    {
+      "id": "cm6_a6",
+      "tema": "Leucemias Agudas e Crônicas"
+    },
+    {
+      "id": "cm6_a7",
+      "tema": "Linfomas e Mieloma Múltiplo"
+    },
+    {
+      "id": "cm6_a8",
+      "tema": "Diagnóstico Laboratorial de Hemostasia"
+    },
+    {
+      "id": "cm6_a9",
+      "tema": "Espirometria e Prova de Função Pulmonar"
+    },
+    {
+      "id": "cm6_a10",
+      "tema": "Asma e DPOC"
+    },
+    {
+      "id": "cm6_a11",
+      "tema": "Doenças Pulmonares Intersticiais"
+    },
+    {
+      "id": "cm6_a12",
+      "tema": "Diagnóstico Diferencial das Monoartrites e Poliartrites"
+    },
+    {
+      "id": "cm6_a13",
+      "tema": "Espondiloartropatias Soronegativas"
+    },
+    {
+      "id": "cm6_a14",
+      "tema": "Lúpus Eritematoso Sistêmico"
+    },
+    {
+      "id": "cm6_a15",
+      "tema": "Conceitos em Cuidados Paliativos"
+    },
+    {
+      "id": "cm6_a16",
+      "tema": "Abordagem da Dor e Manejo de Sintomas"
+    },
+    {
+      "id": "cm6_a17",
+      "tema": "Comunicação de Más Notícias — Protocolo SPIKES"
+    },
+    {
+      "id": "cm6_a18",
+      "tema": "Prática — Diarreias, Obstipação e Hepatites"
+    },
+    {
+      "id": "cm6_a19",
+      "tema": "Prática — Delirium e Comunicação de Más Notícias"
+    },
+    {
+      "id": "cm6_a20",
+      "tema": "Prática — Anemias e PTI"
+    },
+    {
+      "id": "cm6_a21",
+      "tema": "Prática — Pneumonia e Toracocentese"
+    },
+    {
+      "id": "cm6_a22",
+      "tema": "Prática — Lombalgias, Fibromialgia e Reumatologia"
+    },
+    {
+      "id": "cm6_a23",
+      "tema": "Reunião Clínica — Quedas, Polifarmácia e Tabagismo"
+    },
+    {
+      "id": "cm6_a24",
+      "tema": "Reunião Clínica — Plaquetopenia, DPOC e LES"
+    }
+  ],
+  "mfc6": [
+    {
+      "id": "mfc_a1",
+      "tema": "Medicina de Família e Comunidade — Apresentação da Especialidade"
+    },
+    {
+      "id": "mfc_a2",
+      "tema": "Abordagem das Anemias na Atenção Primária"
+    },
+    {
+      "id": "mfc_a3",
+      "tema": "Doenças Respiratórias na APS — IVAS e PAC"
+    },
+    {
+      "id": "mfc_a4",
+      "tema": "Programas de Tratamento na APS — Tuberculose e Tabagismo"
+    },
+    {
+      "id": "mfc_a5",
+      "tema": "Atendimento Domiciliar"
+    },
+    {
+      "id": "mfc_a6",
+      "tema": "Abordagem da Dor Crônica na APS"
+    }
+  ],
+  "cirurgia_ortopedia": [
+    {
+      "id": "cir6_a1",
+      "tema": "Abdome Agudo — Classificação e Propedêutica"
+    },
+    {
+      "id": "cir6_a2",
+      "tema": "Apendicite Aguda"
+    },
+    {
+      "id": "cir6_a3",
+      "tema": "Hérnias da Parede Abdominal"
+    },
+    {
+      "id": "cir6_a4",
+      "tema": "Diagnóstico Diferencial da Icterícia"
+    },
+    {
+      "id": "cir6_a5",
+      "tema": "Pancreatite Aguda"
+    },
+    {
+      "id": "cir6_a6",
+      "tema": "Litíase de Vias Biliares"
+    },
+    {
+      "id": "cir6_a7",
+      "tema": "Doenças do Esôfago — DRGE e Alterações Motoras"
+    },
+    {
+      "id": "cir6_a8",
+      "tema": "Hemorragias Digestivas Alta e Baixa"
+    },
+    {
+      "id": "cir6_a9",
+      "tema": "Doença Ulcerosa Péptica"
+    },
+    {
+      "id": "cir6_a10",
+      "tema": "Doenças Orificiais e Semiologia Proctológica"
+    },
+    {
+      "id": "cir6_a11",
+      "tema": "Doença Diverticular e Diverticulite Aguda"
+    },
+    {
+      "id": "cir6_a12",
+      "tema": "Neoplasias de Fígado e Vias Biliares"
+    },
+    {
+      "id": "cir6_a13",
+      "tema": "Neoplasias de Pâncreas e Estômago"
+    },
+    {
+      "id": "cir6_a14",
+      "tema": "Neoplasias de Esôfago, Colorretal e Canal Anal"
+    },
+    {
+      "id": "cir6_a15",
+      "tema": "Anatomia e Semiologia em Ortopedia"
+    },
+    {
+      "id": "cir6_a16",
+      "tema": "Exames Complementares (Imagem) em Ortopedia"
+    },
+    {
+      "id": "cir6_a17",
+      "tema": "Doenças do Metabolismo Ósseo"
+    },
+    {
+      "id": "cir6_a18",
+      "tema": "Fraturas, Luxações e Imobilizações"
+    },
+    {
+      "id": "cir6_a19",
+      "tema": "Lesões Ligamentares, Musculares e Tendíneas"
+    },
+    {
+      "id": "cir6_a20",
+      "tema": "Doenças do Quadril em Desenvolvimento"
+    },
+    {
+      "id": "cir6_a21",
+      "tema": "Infecções Osteoarticulares"
+    }
+  ],
+  "tecnica_operatoria": [
+    {
+      "id": "tcar_a1",
+      "tema": "Antissepsia, Assepsia e Esterilização"
+    },
+    {
+      "id": "tcar_a2",
+      "tema": "O Ambiente Cirúrgico"
+    },
+    {
+      "id": "tcar_a3",
+      "tema": "Operações Fundamentais e Material Cirúrgico"
+    },
+    {
+      "id": "tcar_a4",
+      "tema": "A Equipe Cirúrgica e Instrumentação"
+    },
+    {
+      "id": "tcar_a5",
+      "tema": "Fios e Agulhas Cirúrgicas"
+    },
+    {
+      "id": "tcar_a6",
+      "tema": "Nós Manuais"
+    },
+    {
+      "id": "tcar_a7",
+      "tema": "Suturas Interrompidas"
+    },
+    {
+      "id": "tcar_a8",
+      "tema": "Suturas Contínuas"
+    },
+    {
+      "id": "tcar_a9",
+      "tema": "Anestesia Local, Drenagem de Abscessos e Exérese em Fuso"
+    },
+    {
+      "id": "tcar_a10",
+      "tema": "Acessos Venosos"
+    }
+  ],
+  "pe8": [
+    {
+      "id": "pe8_a1",
+      "tema": "Envelhecimento Populacional e PNSPI"
+    },
+    {
+      "id": "pe8_a2",
+      "tema": "Avaliação Multidimensional do Idoso"
+    },
+    {
+      "id": "pe8_a3",
+      "tema": "Síndromes Geriátricas (5Is)"
+    },
+    {
+      "id": "pe8_a4",
+      "tema": "Polifarmácia e Critérios de Beers"
+    },
+    {
+      "id": "pe8_a5",
+      "tema": "Redes de Atenção ao Idoso e Cuidado Paliativo"
+    },
+    {
+      "id": "pe8_a6",
+      "tema": "Promoção da Saúde e Envelhecimento Ativo"
+    }
+  ],
+  "eci8": [
+    {
+      "id": "eci8_a1",
+      "tema": "ATLS — Avaliação Primária e Secondary Survey"
+    },
+    {
+      "id": "eci8_a2",
+      "tema": "Trauma Torácico"
+    },
+    {
+      "id": "eci8_a3",
+      "tema": "Trauma Abdominal"
+    },
+    {
+      "id": "eci8_a4",
+      "tema": "Choque — Classificação e Reposição"
+    },
+    {
+      "id": "eci8_a5",
+      "tema": "Trauma Cranioencefálico (TCE)"
+    },
+    {
+      "id": "eci8_a6",
+      "tema": "Trauma de Pelve e Retroperitônio"
+    },
+    {
+      "id": "eci8_a7",
+      "tema": "Queimaduras"
+    },
+    {
+      "id": "eci8_a8",
+      "tema": "Trauma de Extremidades e Síndromes Compartimentais"
+    },
+    {
+      "id": "eci8_a9",
+      "tema": "Abdome Agudo — Inflamatório e Obstrutivo"
+    },
+    {
+      "id": "eci8_a10",
+      "tema": "Abdome Agudo — Perfurativo e Vascular"
+    },
+    {
+      "id": "eci8_a11",
+      "tema": "Hemorragia Digestiva Alta e Baixa"
+    },
+    {
+      "id": "eci8_a12",
+      "tema": "Emergências Hepatopancreáticas"
+    },
+    {
+      "id": "eci8_a13",
+      "tema": "Urgência Coloretal — Volvo e Hérnias Complicadas"
+    },
+    {
+      "id": "eci8_a14",
+      "tema": "Fundamentos de Ortopedia Traumatológica"
+    },
+    {
+      "id": "eci8_a15",
+      "tema": "Fraturas da Coluna Vertebral"
+    },
+    {
+      "id": "eci8_a16",
+      "tema": "Fraturas do Membro Superior"
+    },
+    {
+      "id": "eci8_a17",
+      "tema": "Fraturas do Membro Inferior"
+    },
+    {
+      "id": "eci8_a18",
+      "tema": "Lesões Ligamentares e Luxações"
+    },
+    {
+      "id": "eci8_a19",
+      "tema": "Osteomielite e Artrite Séptica"
+    },
+    {
+      "id": "eci8_a20",
+      "tema": "Urgências Vasculares Periféricas"
+    },
+    {
+      "id": "eci8_a21",
+      "tema": "Aneurismas e Dissecção Aórtica"
+    },
+    {
+      "id": "eci8_a22",
+      "tema": "Doença Arterial Obstrutiva Periférica (DAOP)"
+    },
+    {
+      "id": "eci8_a23",
+      "tema": "Síndromes Aórticas Agudas (Dissecção)"
+    },
+    {
+      "id": "eci8_a24",
+      "tema": "Fundamentos da Cirurgia Cardíaca"
+    },
+    {
+      "id": "eci8_a25",
+      "tema": "Cirurgia Valvar (Mitral e Aórtica)"
+    },
+    {
+      "id": "eci8_a26",
+      "tema": "Revascularização do Miocárdio (RM)"
+    },
+    {
+      "id": "eci8_a27",
+      "tema": "Introdução à Cirurgia Torácica"
+    },
+    {
+      "id": "eci8_a28",
+      "tema": "Câncer de Pulmão e Nódulo Solitário"
+    },
+    {
+      "id": "eci8_a29",
+      "tema": "Derrame Pleural e Empiema"
+    },
+    {
+      "id": "eci8_a30",
+      "tema": "Pneumotórax Espontâneo e Adquirido"
+    }
+  ],
+  "ecl8": [
+    {
+      "id": "ecl8_a1",
+      "tema": "Taquiarritmias e Bradiarritmias"
+    },
+    {
+      "id": "ecl8_a2",
+      "tema": "Insuficiência Respiratória Aguda"
+    },
+    {
+      "id": "ecl8_a3",
+      "tema": "Tromboembolismo Pulmonar (TEP)"
+    },
+    {
+      "id": "ecl8_a4",
+      "tema": "Síndromes Coronarianas Agudas (SCA)"
+    },
+    {
+      "id": "ecl8_a5",
+      "tema": "Insuficiência Cardíaca Aguda (ICA)"
+    },
+    {
+      "id": "ecl8_a6",
+      "tema": "Sepse e Choque Séptico"
+    },
+    {
+      "id": "ecl8_a7",
+      "tema": "Injúria Renal Aguda (IRA)"
+    },
+    {
+      "id": "ecl8_a8",
+      "tema": "Distúrbio Hidroeletrolítico"
+    },
+    {
+      "id": "ecl8_a9",
+      "tema": "Distúrbios Ácido-Base"
+    },
+    {
+      "id": "ecl8_a10",
+      "tema": "Complicações Agudas do Hepatopata"
+    },
+    {
+      "id": "ecl8_a11",
+      "tema": "Síndromes Ictéricas Febris"
+    },
+    {
+      "id": "ecl8_a12",
+      "tema": "Descompensações Agudas da Diabetes"
+    },
+    {
+      "id": "ecl8_a13",
+      "tema": "Lupus Eritematoso Sistêmico (LES)"
+    },
+    {
+      "id": "ecl8_a14",
+      "tema": "Linfomas (Hodgkin e Não-Hodgkin)"
+    },
+    {
+      "id": "ecl8_a15",
+      "tema": "Leucemias Agudas e Crônicas"
+    },
+    {
+      "id": "ecl8_a16",
+      "tema": "Mieloma Múltiplo e Emergências Oncológicas"
+    }
+  ],
+  "sm8": [
+    {
+      "id": "sm8_a1",
+      "tema": "Exame Neurológico e Topografia"
+    },
+    {
+      "id": "sm8_a2",
+      "tema": "AVC Isquêmico (AVCi)"
+    },
+    {
+      "id": "sm8_a3",
+      "tema": "AVC Hemorrágico e HSA"
+    },
+    {
+      "id": "sm8_a4",
+      "tema": "Hipertensão Intracraniana e Hidrocefalia"
+    },
+    {
+      "id": "sm8_a5",
+      "tema": "Cefaleias Primárias e Secundárias"
+    },
+    {
+      "id": "sm8_a6",
+      "tema": "Epilepsia e Crises Epilépticas"
+    },
+    {
+      "id": "sm8_a7",
+      "tema": "Traumatismo Cranioencefálico (TCE)"
+    },
+    {
+      "id": "sm8_a8",
+      "tema": "Coma e Distúrbios da Consciência"
+    },
+    {
+      "id": "sm8_a9",
+      "tema": "Morte Encefálica e Legislação"
+    },
+    {
+      "id": "sm8_a10",
+      "tema": "Distúrbios Cognitivos (Demências)"
+    },
+    {
+      "id": "sm8_a11",
+      "tema": "Vertigem e Síndromes Vestibulares"
+    },
+    {
+      "id": "sm8_a12",
+      "tema": "Distúrbios do Movimento"
+    },
+    {
+      "id": "sm8_a13",
+      "tema": "Infecções do SNC"
+    },
+    {
+      "id": "sm8_a14",
+      "tema": "Distúrbios do Sono"
+    },
+    {
+      "id": "sm8_a15",
+      "tema": "Doenças Desmielinizantes"
+    },
+    {
+      "id": "sm8_a16",
+      "tema": "Trauma Raquimedular (TRM)"
+    },
+    {
+      "id": "sm8_a17",
+      "tema": "Entrevista Psiquiátrica e Exame Psíquico"
+    },
+    {
+      "id": "sm8_a18",
+      "tema": "Dependência Química"
+    },
+    {
+      "id": "sm8_a19",
+      "tema": "Psicoses e Esquizofrenia"
+    },
+    {
+      "id": "sm8_a20",
+      "tema": "Emergências Psiquiátricas e Suicídio"
+    },
+    {
+      "id": "sm8_a21",
+      "tema": "Transtornos do Neurodesenvolvimento"
+    },
+    {
+      "id": "sm8_a22",
+      "tema": "Transtornos Alimentares"
+    },
+    {
+      "id": "sm8_a23",
+      "tema": "Transtornos de Ansiedade"
+    },
+    {
+      "id": "sm8_a24",
+      "tema": "Transtorno de Estresse Pós-Traumático (TEPT)"
+    },
+    {
+      "id": "sm8_a25",
+      "tema": "Transtorno Obsessivo-Compulsivo (TOC)"
+    },
+    {
+      "id": "sm8_a26",
+      "tema": "Transtornos de Humor"
+    },
+    {
+      "id": "sm8_a27",
+      "tema": "Transtornos de Personalidade"
+    },
+    {
+      "id": "sm8_a28",
+      "tema": "Transtornos Somatoformes"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+[
+  {
+    "id": 251,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a7",
+    "enunciado": "Poliglactina 910 (ex.: Vicryl) caracteriza-se como fio:",
+    "opcoes": [
+      "A) Inabsorvível monofilamentar para hérnia de grande tensão isolada",
+      "B) Absorvível multifilamentar muito usado em planos intermediários e mucosas conforme indicação",
+      "C) Metalestruturado para osteossíntese",
+      "D) Só indicado para cardioextracorpóreo sem exceção"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não descreve poliglactina.",
+      "B": "Correta: Correto.",
+      "C": "Incorreta: Não é fio metálico.",
+      "D": "Incorreta: Uso cirúrgico geral amplo."
+    },
+    "explicacao": "Resumo: Vicryl é absorvível trançado clássico.\nA) INCORRETA. Incorreta: Não descreve poliglactina.\nB) CORRETA. Correta: Correto.\nC) INCORRETA. Incorreta: Não é fio metálico.\nD) INCORRETA. Incorreta: Uso cirúrgico geral amplo.",
+    "aula_id": "farm_a7"
+  },
+  {
+    "id": 252,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a7",
+    "enunciado": "Polipropileno costuma ser escolhido quando se deseja:",
+    "opcoes": [
+      "A) Uso exclusivo em nervo periférico sem microsutura",
+      "B) Perda rápida de força tensil em 7 dias",
+      "C) Manutenção prolongada de suporte por ser inabsorvível de baixa reatividade",
+      "D) Absorção aguda sem tração"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Indicações variam.",
+      "B": "Incorreta: Absorvível perde força.",
+      "C": "Correta: Perfil desejado.",
+      "D": "Incorreta: Não é absorvível."
+    },
+    "explicacao": "Resumo: Prolene é monofilamento inabsorvível de referência em muitas indicações.\nA) INCORRETA. Incorreta: Indicações variam.\nB) INCORRETA. Incorreta: Absorvível perde força.\nC) CORRETA. Correta: Perfil desejado.\nD) INCORRETA. Incorreta: Não é absorvível.",
+    "aula_id": "farm_a7"
+  },
+  {
+    "id": 253,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a4",
+    "enunciado": "Agulha com ponta cortante convencional costuma ser preferida para:",
+    "opcoes": [
+      "A) Mucosa gástrica sem trauma nunca",
+      "B) Sutura de nervópio desnudo sem visualização",
+      "C) Perfuração de fígado parenquimatoso friável exclusivamente com ponta romba",
+      "D) Pele e tecidos fibrosos que exigem penetração cortante controlada"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mucosa pode usar taper; generalização falsa.",
+      "B": "Incorreta: Microcirurgia tem regras específicas.",
+      "C": "Incorreta: Ponta apropriação invertida.",
+      "D": "Correta: Indicação típica."
+    },
+    "explicacao": "Resumo: Ponta cortante facilita entrada em planos resistentes superficiais.\nA) INCORRETA. Incorreta: Mucosa pode usar taper; generalização falsa.\nB) INCORRETA. Incorreta: Microcirurgia tem regras específicas.\nC) INCORRETA. Incorreta: Ponta apropriação invertida.\nD) CORRETA. Correta: Indicação típica.",
+    "aula_id": "farm_a4"
+  },
+  {
+    "id": 254,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a4",
+    "enunciado": "Agulha cilíndrica (taper point) é mais indicada para:",
+    "opcoes": [
+      "A) Tecidos friáveis ou delicados em que se deseja menor corte de fibras na penetração",
+      "B) Osteodese com broca integrada",
+      "C) Fechamento rápido de tendão calcâneo sem técnica de tensão",
+      "D) Pele espessa em região palmoplantar sem exceção com corte agressivo"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Correta: Correto.",
+      "B": "Incorreta: Não é broca.",
+      "C": "Incorreta: Técnica e material específicos.",
+      "D": "Incorreta: Costuma ser cortante/reversa em pele espessa."
+    },
+    "explicacao": "Resumo: Taper dilata em vez de talhar agressivamente.\nA) CORRETA. Correta: Correto.\nB) INCORRETA. Incorreta: Não é broca.\nC) INCORRETA. Incorreta: Técnica e material específicos.\nD) INCORRETA. Incorreta: Costuma ser cortante/reversa em pele espessa.",
+    "aula_id": "farm_a4"
+  },
+  {
+    "id": 255,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "enunciado": "Em campo com risco infeccioso elevado, uso de multifilamento:",
+    "opcoes": [
+      "A) Deve ser ampliado sem critério pelo “melhor” manuseio",
+      "B) Requer cautela relacionada à capilaridade e colonização potencial versus monofilamento",
+      "C) É proibido em qualquer cirurgia eletiva do planeta",
+      "D) Substitui drenagem obliteratoria em todos os casos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Risco aumenta sem critério.",
+      "B": "Correta: Raciocínio técnicamente correto.",
+      "C": "Incorreta: Hiperbole incorreta.",
+      "D": "Incorreta: Drenagem é decisão anatômica/clínica."
+    },
+    "explicacao": "Resumo: Contexto contaminado modula escolha de fio.\nA) INCORRETA. Incorreta: Risco aumenta sem critério.\nB) CORRETA. Correta: Raciocínio técnicamente correto.\nC) INCORRETA. Incorreta: Hiperbole incorreta.\nD) INCORRETA. Incorreta: Drenagem é decisão anatômica/clínica.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 256,
+    "materia": "bmf1",
+    "tema": "bmf1_a7",
+    "enunciado": "Memória (“spring”) excessiva do fio durante nó dificulta:",
+    "opcoes": [
+      "A) Contagem de instrumentais",
+      "B) Somente escolha da agulha, nunca o arco",
+      "C) Ajuste fino da tensão e favorece nós frouxos ou instáveis se mal controlado",
+      "D) Perfuração em pele"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sem relação.",
+      "B": "Incorreta: Afeta também manobra.",
+      "C": "Correta: Efeito clínico.",
+      "D": "Incorreta: Menos relacionado direto."
+    },
+    "explicacao": "Resumo: Monofilamentos exigem mais lances e controle de tensão.\nA) INCORRETA. Incorreta: Sem relação.\nB) INCORRETA. Incorreta: Afeta também manobra.\nC) CORRETA. Correta: Efeito clínico.\nD) INCORRETA. Incorreta: Menos relacionado direto.",
+    "aula_id": "bmf1_a7"
+  },
+  {
+    "id": 257,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a7",
+    "enunciado": "Polidioxanona (ex.: PDS) costuma ser escolhida quando:",
+    "opcoes": [
+      "A) Desejamos absorção em 24–48 h sem vestígio em todos os pacientes",
+      "B) O objetivo é sempre apenas estética da sutura cuticular sem resistência",
+      "C) Só é usada em oftalmologia pediátrica estrita",
+      "D) É necessário suporte absorvível prolongado em planos de tensão como parede/fáscia"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não absorve tão rápido.",
+      "B": "Incorreta: Função mecânica importa.",
+      "C": "Incorreta: Uso mais amplo.",
+      "D": "Correta: Tempo de suporte maior."
+    },
+    "explicacao": "Resumo: PDS tem absorção lenta comparada a muitos absorvíveis rápidos.\nA) INCORRETA. Incorreta: Não absorve tão rápido.\nB) INCORRETA. Incorreta: Função mecânica importa.\nC) INCORRETA. Incorreta: Uso mais amplo.\nD) CORRETA. Correta: Tempo de suporte maior.",
+    "aula_id": "farm_a7"
+  },
+  {
+    "id": 258,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "Erro ao apertar o nó com excesso de tração pode causar:",
+    "opcoes": [
+      "A) Isquemia tecidual, necrose de borda e risco de deiscência",
+      "B) Cicatrização hipertrófica garantida positivamente",
+      "C) Eliminação automática de seroma",
+      "D) Aumento da perfusão da borda do ferimento"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Correta: Correto.",
+      "B": "Incorreta: Não há garantia hipertrófica assim.",
+      "C": "Incorreta: Seroma depende de múltiplos fatores.",
+      "D": "Incorreta: Estrangulação reduz perfusão."
+    },
+    "explicacao": "Resumo: Tensão adequada coapta sem estrangular.\nA) CORRETA. Correta: Correto.\nB) INCORRETA. Incorreta: Não há garantia hipertrófica assim.\nC) INCORRETA. Incorreta: Seroma depende de múltiplos fatores.\nD) INCORRETA. Incorreta: Estrangulação reduz perfusão.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 259,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Nó seguro exige, entre outros cuidados:",
+    "opcoes": [
+      "A) Ignorar simetria das mordidas em pele",
+      "B) Lances firmes alternados no eixo e controle de tensão sem “serração” da borda",
+      "C) Corte da cauda rente demais sem supervisão em qualquer plano",
+      "D) Cauda excessivamente longa sempre para facilitar retratação"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Simetria importa para borda.",
+      "B": "Correta: Técnica correta.",
+      "C": "Incorreta: Cauda curta pode afrouxar.",
+      "D": "Incorreta: Cauda longa pode irritar."
+    },
+    "explicacao": "Resumo: Arquitetura do nó e tensão protegem borda.\nA) INCORRETA. Incorreta: Simetria importa para borda.\nB) CORRETA. Correta: Técnica correta.\nC) INCORRETA. Incorreta: Cauda curta pode afrouxar.\nD) INCORRETA. Incorreta: Cauda longa pode irritar.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 260,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a7",
+    "enunciado": "Poliamida (Nylon) como fio inabsorvível monofilamentar costuma ser aplicada em:",
+    "opcoes": [
+      "A) Fechamento temporário único de fáscia em neonato sem critério",
+      "B) Adesivos exclusivos subcutâneos sem passagem de agulha",
+      "C) Suturas de pele e situações que requerem resistência inicial e manejo com monofilamento",
+      "D) Resorção completa em poucas horas em qualquer paciente, sem variabilidade"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Uso depende de protocolo neonatal.",
+      "B": "Incorreta: Não cobre todos os casos.",
+      "C": "Correta: Indicação típica.",
+      "D": "Incorreta: O tempo de manutenção da resistência varia; não há resorção “fixa em horas” universal."
+    },
+    "explicacao": "Resumo: Nylon/etilon é clássico em pele com agulha cortante.\nA) INCORRETA. Incorreta: Uso depende de protocolo neonatal.\nB) INCORRETA. Incorreta: Não cobre todos os casos.\nC) CORRETA. Correta: Indicação típica.\nD) INCORRETA. Incorreta: O tempo de manutenção da resistência varia; não há resorção “fixa em horas” universal.",
+    "aula_id": "farm_a7"
+  },
+  {
+    "id": 261,
+    "materia": "bmf2",
+    "tema": "bmf2_a13",
+    "enunciado": "Escolha de agulha com curvatura 1/2, em relação a 3/8, costuma correlacionar-se com:",
+    "opcoes": [
+      "A) Ausência de necessidade de porta-agulha",
+      "B) Sempre cirurgia abdomininal superficial exclusiva",
+      "C) Campo superficial apenas sem exceção",
+      "D) Espaços mais profundos ou restritos onde arco completo auxilia manobra"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Porta-agulha quase sempre necessário.",
+      "B": "Incorreta: Generalização falsa.",
+      "C": "Incorreta: 3/8 costuma ser “campo aberto”.",
+      "D": "Correta: Uso clássico de 1/2 em profundidade."
+    },
+    "explicacao": "Resumo: Curvatura adequa-se à geometria do plano.\nA) INCORRETA. Incorreta: Porta-agulha quase sempre necessário.\nB) INCORRETA. Incorreta: Generalização falsa.\nC) INCORRETA. Incorreta: 3/8 costuma ser “campo aberto”.\nD) CORRETA. Correta: Uso clássico de 1/2 em profundidade.",
+    "aula_id": "bmf2_a13"
+  },
+  {
+    "id": 262,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Durante uma colecistectomia, o paciente está em decúbito dorsal. Ao descrever uma estrutura como anterior, qual referência anatômica é correta?",
+    "opcoes": [
+      "A) A face voltada para o cirurgião principal",
+      "B) A face superior em relação ao diafragma",
+      "C) A face mais próxima da linha média",
+      "D) A face voltada para a frente do corpo na posição anatômica"
+    ],
+    "explicacao_geral": "Termos direcionais são definidos pela posição anatômica padrão, independentemente da posição na maca.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a orientação não depende de onde o profissional está.",
+      "B": "Incorreta: isso descreve relação superior/inferior, não anterior/posterior.",
+      "C": "Incorreta: isso descreve medial/lateral.",
+      "D": "Correta: anterior corresponde à face frontal do corpo na posição anatômica."
+    },
+    "explicacao": "A nomenclatura anatômica permanece estável para evitar ambiguidade entre equipes. Por isso, mesmo com o paciente em diferentes decúbitos, 'anterior' continua significando a face frontal do corpo.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 263,
+    "materia": "bmf3",
+    "tema": "bmf3_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual plano anatômico divide o corpo em porções direita e esquerda?",
+    "opcoes": [
+      "A) Plano sagital",
+      "B) Plano frontal",
+      "C) Plano transversal",
+      "D) Plano oblíquo"
+    ],
+    "explicacao_geral": "O plano sagital separa direita e esquerda; o mediano é um sagital que passa exatamente na linha média.",
+    "explicacoes_opcoes": {
+      "A": "Correta: esta é a divisão clássica direita/esquerda.",
+      "B": "Incorreta: plano frontal divide anterior e posterior.",
+      "C": "Incorreta: plano transversal divide superior e inferior.",
+      "D": "Incorreta: plano oblíquo é inclinado e não é a referência principal para essa divisão."
+    },
+    "explicacao": "A associação plano-função é essencial para interpretar exame físico e imagens. Sagital corresponde ao eixo direita-esquerda.",
+    "aula_id": "bmf3_a12",
+    "essencial": false
+  },
+  {
+    "id": 264,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Em um laudo, um nódulo é descrito na face medial da coxa direita. Isso significa que ele está:",
+    "opcoes": [
+      "A) Mais próximo do joelho do que do quadril",
+      "B) Mais próximo da linha média do corpo",
+      "C) Mais superficial que a fáscia muscular",
+      "D) Localizado na face posterior da coxa"
+    ],
+    "explicacao_geral": "Medial e lateral são termos que comparam distância em relação à linha média corporal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso descreve proximal/distal.",
+      "B": "Correta: medial indica aproximação da linha média.",
+      "C": "Incorreta: isso descreve profundidade.",
+      "D": "Incorreta: posterior é outro eixo descritivo."
+    },
+    "explicacao": "Ao ler descrições anatômicas, primeiro identifique qual eixo está sendo usado. 'Medial' nunca descreve profundidade nem altura no membro.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 265,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "No cotovelo, flexão e extensão ocorrem predominantemente em torno de qual eixo?",
+    "opcoes": [
+      "A) Eixo longitudinal",
+      "B) Eixo vertical",
+      "C) Eixo transverso",
+      "D) Eixo oblíquo único"
+    ],
+    "explicacao_geral": "Movimentos de flexão e extensão ocorrem no plano sagital ao redor de um eixo transverso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: eixo longitudinal está ligado a rotações.",
+      "B": "Incorreta: eixo vertical não é o predominante para flexoextensão do cotovelo.",
+      "C": "Correta: este eixo corresponde ao padrão da articulação tipo dobradiça.",
+      "D": "Incorreta: não existe um eixo oblíquo único como regra para esse movimento."
+    },
+    "explicacao": "Entender plano e eixo em conjunto ajuda a prever limitações funcionais após trauma articular. No cotovelo, o padrão dominante é flexoextensão em torno do eixo transverso.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 266,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "No membro superior, uma lesão no terço distal do antebraço está, em relação ao ombro:",
+    "opcoes": [
+      "A) Medial",
+      "B) Superior",
+      "C) Proximal",
+      "D) Distal"
+    ],
+    "explicacao_geral": "Em membros, proximal é mais próximo da raiz do membro e distal é mais afastado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: medial/lateral usa a linha média corporal.",
+      "B": "Incorreta: superior/inferior não é o par principal para este tipo de descrição no membro.",
+      "C": "Incorreta: proximal seria mais perto do ombro.",
+      "D": "Correta: o terço distal está mais distante da raiz do membro."
+    },
+    "explicacao": "Proximal e distal descrevem a progressão ao longo do membro e são fundamentais para localização de fraturas e lesões neurovasculares.",
+    "aula_id": "bcm1_a18"
+  },
+  {
+    "id": 267,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em tomografia de tórax, os cortes axiais são analisados em sequência crânio-caudal. Cada corte axial separa, naquele nível, as porções:",
+    "opcoes": [
+      "A) Anterior e posterior",
+      "B) Superior e inferior",
+      "C) Medial e lateral",
+      "D) Proximal e distal"
+    ],
+    "explicacao_geral": "O plano axial (transversal) é perpendicular ao eixo longitudinal do corpo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: essa separação principal é do plano frontal.",
+      "B": "Correta: é a divisão característica do plano axial.",
+      "C": "Incorreta: medial/lateral não define o plano de corte.",
+      "D": "Incorreta: proximal/distal é usado sobretudo em membros."
+    },
+    "explicacao": "A leitura multiplanar exige reconhecer o que cada plano separa no espaço. O axial organiza o estudo por níveis de altura corporal.",
+    "aula_id": "bcm1_a17"
+  },
+  {
+    "id": 268,
+    "materia": "mad1",
+    "tema": "mad1_a15",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O epicôndilo lateral do úmero recebe esse nome porque está:",
+    "opcoes": [
+      "A) Mais afastado da linha média do corpo",
+      "B) Mais próximo do punho do que do ombro",
+      "C) Na face posterior do braço",
+      "D) Mais superficial que o músculo braquial"
+    ],
+    "explicacao_geral": "A distinção medial/lateral depende da relação com a linha média, não de profundidade nem de altura.",
+    "explicacoes_opcoes": {
+      "A": "Correta: essa é a definição anatômica de lateral.",
+      "B": "Incorreta: isso descreve distal/proximal.",
+      "C": "Incorreta: posterior é outro eixo descritivo.",
+      "D": "Incorreta: superficial/profundo não define lateralidade."
+    },
+    "explicacao": "Termos anatômicos têm significados específicos e não intercambiáveis. Lateral indica afastamento da linha média.",
+    "aula_id": "mad1_a15"
+  },
+  {
+    "id": 269,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual alternativa descreve corretamente a circundução do ombro?",
+    "opcoes": [
+      "A) Movimento exclusivo de rotação lateral",
+      "B) Movimento restrito ao plano frontal",
+      "C) Sequência combinada de flexão, abdução, extensão e adução",
+      "D) Movimento único em torno de eixo longitudinal"
+    ],
+    "explicacao_geral": "Circundução é movimento composto, resultante da combinação de vários movimentos articulares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: rotação isolada não corresponde à circundução.",
+      "B": "Incorreta: a circundução envolve mais de um plano.",
+      "C": "Correta: esta sequência representa o cone de movimento do ombro.",
+      "D": "Incorreta: não se reduz a um único eixo."
+    },
+    "explicacao": "A circundução não é um movimento elementar único. Ela resulta da composição coordenada de movimentos em planos diferentes.",
+    "aula_id": "semio1_a4"
+  },
+  {
+    "id": 270,
+    "materia": "mad2",
+    "tema": "mad2_a6",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Sobre dissecção anatômica e tomografia computadorizada, qual afirmação é correta?",
+    "opcoes": [
+      "A) A tomografia só permite interpretação axial sem reconstruções confiáveis",
+      "B) Reconstruções multiplanares permitem analisar estruturas em diferentes orientações anatômicas",
+      "C) A cor observada na peça anatômica corresponde diretamente aos valores de atenuação da tomografia",
+      "D) A noção de profundidade só existe em dissecção, nunca em imagem"
+    ],
+    "explicacao_geral": "Tomografia moderna permite reformatar os dados em vários planos, mantendo coerência anatômica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: reconstruções sagitais e coronais são rotina diagnóstica.",
+      "B": "Correta: o recurso multiplanar aproxima a análise de diferentes cortes anatômicos.",
+      "C": "Incorreta: cor macroscópica e atenuação radiológica são informações distintas.",
+      "D": "Incorreta: a percepção de profundidade em imagem existe por cortes sequenciais e reconstruções."
+    },
+    "explicacao": "A interpretação por múltiplos planos é um dos pilares da imagem seccional. Isso melhora a correlação com a anatomia tridimensional real.",
+    "aula_id": "mad2_a6",
+    "essencial": false
+  },
+  {
+    "id": 271,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Em um relatório anatômico, a expressão 'face inferior da escápula' indica a superfície orientada:",
+    "opcoes": [
+      "A) Em direção à linha média",
+      "B) Em direção ao dorso",
+      "C) Em direção ao esterno",
+      "D) Em direção aos pés"
+    ],
+    "explicacao_geral": "Inferior/superior descreve orientação ao longo do eixo crânio-caudal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso descreve medial.",
+      "B": "Incorreta: isso descreve posterior.",
+      "C": "Incorreta: isso descreve anterior para essa região.",
+      "D": "Correta: inferior corresponde ao sentido caudal."
+    },
+    "explicacao": "No vocabulário anatômico, inferior indica direção caudal. Essa convenção é usada de forma padronizada em textos e laudos.",
+    "aula_id": "farm_a5"
+  },
+  {
+    "id": 272,
+    "materia": "bmf1",
+    "tema": "bmf1_a15",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na hierarquia do músculo esquelético, qual associação descreve corretamente os envoltórios conjuntivos?",
+    "opcoes": [
+      "A) Endomísio envolve cada fibra muscular; epimísio envolve o músculo inteiro",
+      "B) Epimísio circunda cada miócito isoladamente",
+      "C) Perimísio reveste apenas tendões, nunca fascículos",
+      "D) Endomísio substitui o perimísio no ventre muscular"
+    ],
+    "explicacao_geral": "Perimísio circunda fascículos; continuidade com tendão transmite força.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinha-se à classificação mental miócito → fascículo → órgão.",
+      "B": "Incorreta: nível mais externo é epimísio do músculo.",
+      "C": "Incorreta: perimísio envolve fascículos.",
+      "D": "Incorreta: são camadas distintas."
+    },
+    "explicacao": "Conceito-chave: Do íntimo ao externo: fibra → fascículo → músculo.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf1_a15"
+  },
+  {
+    "id": 273,
+    "materia": "bmf2",
+    "tema": "bmf2_a13",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual definição corresponde à unidade motora no músculo esquelético?",
+    "opcoes": [
+      "A) Um sarcômero e todos os seus filamentos finos",
+      "B) Um motoneurônio somático e todas as fibras musculares que ele inerva",
+      "C) Apenas fibras tipo II de um mesmo ventre",
+      "D) O epimísio e o tendão sem participação neural"
+    ],
+    "explicacao_geral": "Doenças da junção ou do neurônio alteram recrutamento antes da força máxima isolada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: sarcômero é subunidade contrátil, não recrutamento neural.",
+      "B": "Correta: definição explícita na conteúdo.",
+      "C": "Incorreta: unidade motora mistura fibras conforme inervação.",
+      "D": "Incorreta: sem neurônio não há unidade motora."
+    },
+    "explicacao": "Conceito-chave: Menor fração recrutável independentemente é neural + fibras.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a13"
+  },
+  {
+    "id": 274,
+    "materia": "bmf2",
+    "tema": "bmf2_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Sobre arquitetura muscular, o texto contrasta músculos fusiformes e pennados. Qual trade-off está correto?",
+    "opcoes": [
+      "A) Pennado sempre maximiza excursionamento e velocidade",
+      "B) Fusiforme alinha fibras obliquamente ao tendão central",
+      "C) Fusiforme privilegia excursão e encurtamento; pennado aumenta força isométrica relativa com menor excursionamento útil",
+      "D) Não há diferença de força por área entre os desenhos"
+    ],
+    "explicacao_geral": "Frase-âncora: arquitetura decide força versus amplitude.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pennado sacrifica excursionamento relativo.",
+      "B": "Incorreta: obliquidade descreve pennado.",
+      "C": "Correta: síntese do parágrafo de arquitetura.",
+      "D": "Incorreta: geometria altera seção efetiva de fibra."
+    },
+    "explicacao": "Conceito-chave: Por isso tendinopatias e treino diferem entre grupos pennados e fusiformes.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a7"
+  },
+  {
+    "id": 275,
+    "materia": "bmf2",
+    "tema": "bmf2_a13",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Em relação aos tipos de fibra, as fibras tipo I (oxidativas lentas) são caracterizadas por:",
+    "opcoes": [
+      "A) Priorizar sprint e pico imediato de força em detrimento total da resistência",
+      "B) Ausência de mitocôndrias e mioglobina",
+      "C) Especialização exclusiva em glicólise anaeróbia pura",
+      "D) Melhor sustentação de trabalho prolongado (eixo oxidativo/fadiga"
+    ],
+    "explicacao_geral": "SO/FOG/FG: entender eixo oxidativo versus glicolítico, não percentuais por músculo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve melhor fibras rápidas.",
+      "B": "Incorreta: tipo I é rico em equipamento oxidativo.",
+      "C": "Incorreta: tipo I não é ‘só anaeróbio’.",
+      "D": "Correta: texto dos tipos de fibra e revisão final."
+    },
+    "explicacao": "Conceito-chave: Endurance versus potência é o eixo cobrável.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf2_a13"
+  },
+  {
+    "id": 276,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na convenção de ações musculares, qual par está correto?",
+    "opcoes": [
+      "A) Sinergistas oponem-se na mesma articulação; antagonistas sempre atuam isolados sem co-contração",
+      "B) Sinergistas cooperam na mesma ação; antagonistas exercem ações opostas",
+      "C) Antagonista é sinônimo de sinergista em qualquer movimento",
+      "D) Sinergista só existe em músculos pennados"
+    ],
+    "explicacao_geral": "Base para interpretar agonistas em kinesiologia e reabilitação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte definições.",
+      "B": "Correta: classificação revisão final.",
+      "C": "Incorreta: termos são opostos conceituais.",
+      "D": "Incorreta: sinergia não depende de pennação."
+    },
+    "explicacao": "Conceito-chave: Nomenclatura de ação precede memorizar nomes latinos.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "farm_a2"
+  },
+  {
+    "id": 277,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual estrutura envolve grupos de fibras musculares agrupadas em fascículos?",
+    "opcoes": [
+      "A) Endomísio exclusivamente, sem outra camada",
+      "B) Epimísio apenas, ignorando fascículos",
+      "C) Perimísio",
+      "D) Aponeurose obrigatoriamente em todos os músculos"
+    ],
+    "explicacao_geral": "Endomísio < perimísio (fascículo) < epimísio (músculo).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: endomísio é ao redor de cada fibra.",
+      "B": "Incorreta: epimísio é mais externo.",
+      "C": "Correta: definido na hierarquia .",
+      "D": "Incorreta: aponeurose é inserção achatada, não envoltório padronizado de fascículo."
+    },
+    "explicacao": "Conceito-chave: ‘Fascículo’ lembra feixe — perimísio é o saco do feixe.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 278,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Sobre origem e inserção, a convenção anatômica (proximal/medial versus distal/lateral) não substitui qual critério clínico central?",
+    "opcoes": [
+      "A) O tamanho absoluto do ventre muscular",
+      "B) A cor do tendão na imagem radiológica",
+      "C) O número exato de sarcomeros por fibra",
+      "D) Qual extremidade se move em relação à outra durante a ação considerada"
+    ],
+    "explicacao_geral": "Origem/inserção são âncoras — o movimento relativo é o que importa na função.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: volume não define dinâmica sozinho.",
+      "B": "Incorreta: irrelevante.",
+      "C": "Incorreta: detalhe microscópico não é o foco do parágrafo.",
+      "D": "Correta: texto ‘o que importa clinicamente’."
+    },
+    "explicacao": "Conceito-chave: Fixar isso evita dogma rígido de ‘origem nunca se move’.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 279,
+    "materia": "bmf2",
+    "tema": "bmf2_a10",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Após trauma fechado importante, o músculo esquelético está em compartimento limitado por fáscia. Qual ideia anatômica isso sustenta clinicamente?",
+    "opcoes": [
+      "A) Hematoma/edema podem elevar pressão no compartimento — contexto de síndrome compartimental",
+      "B) A fáscia impede qualquer vascularização muscular",
+      "C) O compartimento elimina a necessidade de inervação segmentar",
+      "D) Trauma fechado nunca altera pressão intersticial"
+    ],
+    "explicacao_geral": "Não decorar conduta — entender que músculo + fáscia = espaço fechado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ecoa a nota sobre compartimento e decisão clínica.",
+      "B": "Incorreta: circulação é rica, mas limitada pelo espaço.",
+      "C": "Incorreta: inervação permanece obrigatória.",
+      "D": "Incorreta: edema pode elevar pressão."
+    },
+    "explicacao": "Conceito-chave: Anatomia explica por que dor desproporcional e tensão importam no trauma.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a10"
+  },
+  {
+    "id": 280,
+    "materia": "semiologia1",
+    "tema": "semio1_a5",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Roturas musculares completas ocorrem mais frequentemente em músculos biarticulares em elongamento rápido. Qual princípio explica a maior exposição?",
+    "opcoes": [
+      "A) Biarticulares são sempre tipo I exclusivamente",
+      "B) Atravessam duas articulações e podem ser colocados em alongamento máximo combinado em movimentos rápidos",
+      "C) Não possuem tendão de inserção",
+      "D) Estão isentos de co-contração antagonista"
+    ],
+    "explicacao_geral": "Isquiotibiais e adutor longo são exemplos típicos .",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: composição de fibra não é o argumento central aqui.",
+      "B": "Correta: mecanismo de tensão multiarticulares.",
+      "C": "Incorreta: inserem-se como outros músculos.",
+      "D": "Incorreta: co-contração pode ocorrer."
+    },
+    "explicacao": "Conceito-chave: ‘Dois pivôs’ aumentam comprimento exigido ao músculo.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a5"
+  },
+  {
+    "id": 281,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Na comparação aponeurose versus tendão, qual distinção corresponde ao texto?",
+    "opcoes": [
+      "A) Aponeurose é sempre mais elástica que qualquer ligamento sem exceção",
+      "B) Tendão nunca contém colágeno tipo I",
+      "C) Aponeurose substitui epimísio em todos os músculos",
+      "D) Aponeurose é folha achatada; tendão é cordão denso de inserção"
+    ],
+    "explicacao_geral": "Continuidade conjuntiva com arquitetura diferente — transmissão de força similar.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: generalização excessiva.",
+      "B": "Incorreta: tendão é denso em colágeno.",
+      "C": "Incorreta: epimísio persiste como conceito independente.",
+      "D": "Correta: classificação revisão final."
+    },
+    "explicacao": "Conceito-chave: Reto abdominal versus tendão calcâneo — mesma lógica de forma.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 282,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual definição operacional de sarcômero está alinhada ao texto (unidade estrutural mínima de repetição no esquelético estriado)?",
+    "opcoes": [
+      "A) Segmento contrátil delimitado por discos Z, organizando filamentos finos e grossos em série",
+      "B) Apenas o núcleo do miócito sem miofibrilas",
+      "C) Disco intercalado completo entre cardiomiócitos",
+      "D) Corpo denso do músculo liso vascular"
+    ],
+    "explicacao_geral": "Disco Z ancora actina e delimita o sarcômero repetido ao longo da miofibrila.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ecoa pontos-chave e revisão final.",
+      "B": "Incorreta: nível nuclear não define sarcômero.",
+      "C": "Incorreta: disco intercalado é cardíaco, não sarcômero esquelético.",
+      "D": "Incorreta: liso não usa sarcômero estriado clássico."
+    },
+    "explicacao": "Conceito-chave: ‘Ver banda’ = localizar força no padrão repetido.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 283,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Na banda A do sarcômero, o texto atribui presença predominante de qual filamento e sobreposição?",
+    "opcoes": [
+      "A) Apenas actina sem miosina em toda a banda",
+      "B) Miosina (filamento grosso) e região de sobreposição com actina",
+      "C) Somente titina sem miosina",
+      "D) Apenas proteína C em toda espessura"
+    ],
+    "explicacao_geral": "Banda A = grosso + sobreposição; linha H = região só de miosina no centro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso descreve melhor banda I pura.",
+      "B": "Correta: compatível com banda A e com a dica A × I.",
+      "C": "Incorreta: titina ancora, mas não substitui o filamento grosso na definição.",
+      "D": "Incorreta: irrelevante ao núcleo da questão."
+    },
+    "explicacao": "Conceito-chave: A × I = sobreposição versus só actina.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 284,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A banda I do sarcômero contém, em termos de filamentos finos, predominantemente:",
+    "opcoes": [
+      "A) Miosina pura sem actina",
+      "B) Apenas filamentos grossos empilhados",
+      "C) Actina (filamento fino), sem sobreposição de miosina na região puramente I",
+      "D) Disco intercalado com nexos comunicantes"
+    ],
+    "explicacao_geral": "I claro = actina; escurece na sobreposição com A.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: miosina é grossa.",
+      "B": "Incorreta: grossos formam banda A.",
+      "C": "Correta: alinha-se à classificação revisão final A × I.",
+      "D": "Incorreta: estrutura cardíaca, não banda de sarcômero."
+    },
+    "explicacao": "Conceito-chave: Confundir I com A custa questão de microscopia.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 285,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "No acoplamento excitação-contração, qual par de estruturas corresponde à distinção ‘estoque de Ca²⁺’ versus ‘propagação do potencial’?",
+    "opcoes": [
+      "A) Disco Z e banda H",
+      "B) Mitocôndria e núcleo periférico",
+      "C) Junções comunicantes e desmossomos isoladamente",
+      "D) Retículo sarcoplasmático (armazena Ca²⁺) e túbulos T (propagam despolarização)"
+    ],
+    "explicacao_geral": "T-tubule invagina; SR libera Ca²⁺ via canal de rianodina na visão integrada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: elementos estruturais do sarcômero, não acoplamento de membrana.",
+      "B": "Incorreta: energia e DNA não substituem o par SR/T.",
+      "C": "Incorreta: disco intercalado é cardíaco.",
+      "D": "Correta: classificação revisão final RS × túbulos T."
+    },
+    "explicacao": "Conceito-chave: Sem Ca²⁺ não há ponte cruzada; sem T-túbulo, excitação não chega fundo.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 286,
+    "materia": "farmaco_aplicada",
+    "tema": "farm_a3",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Em lâmina de músculo esquelético, qual padrão nuclear é esperado segundo a conteúdo?",
+    "opcoes": [
+      "A) Múltiplos núcleos periféricos no sincício multinucleado",
+      "B) Núcleo central único em toda fibra sem exceção",
+      "C) Ausência de núcleo visível por ser sincicial sem DNA",
+      "D) Núcleo ramificado com disco intercalado em toda fibra"
+    ],
+    "explicacao_geral": "Contraste com liso central e cardíaco ramificado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: texto sobre HE e classificação esquelético × cardíaco.",
+      "B": "Incorreta: descreve melhor liso ou fibra única.",
+      "C": "Incorreta: fibra contém núcleos.",
+      "D": "Incorreta: disco intercalado é cardíaco."
+    },
+    "explicacao": "Conceito-chave: Periferia nuclear é marca de esquelético em corte longitudinal.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "farm_a3"
+  },
+  {
+    "id": 287,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Nos cardiomiócitos, os discos intercalados agregam desmossomas e junções comunicantes. Qual função justifica a propagação elétrica coordenada?",
+    "opcoes": [
+      "A) Impedir qualquer despolarização entre células",
+      "B) Junções comunicantes permitem passagem de íons e continuidade funcional entre células adjacentes",
+      "C) Substituir completamente o sistema de condução específico do coração",
+      "D) Tornar o miocárdio um sincício multinucleado contínuo como o esquelético"
+    ],
+    "explicacao_geral": "Desmossoma = tração; gap junction = corrente iônica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: comunicação existe.",
+      "B": "Correta: alinha-se ao parágrafo do cardíaco.",
+      "C": "Incorreta: nó sinusal e vias de condução permanecem.",
+      "D": "Nega sincício longo como esquelético."
+    },
+    "explicacao": "Conceito-chave: ‘Células encaixadas’ ≠ fibra esquelética única.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 288,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual descrição distingue o músculo liso do esquelético na visão de lâmina clássica citada?",
+    "opcoes": [
+      "A) Estriações evidentes e núcleos múltiplos periféricos",
+      "B) Sincício multinucleado com bandas A e I nítidas",
+      "C) Células fusiformes, núcleo central, sem estriações visíveis ao microscópio óptico clássico",
+      "D) Ramificação com disco intercalado obrigatório em todo órgão"
+    ],
+    "explicacao_geral": "Liso sustenta tônus de órgãos ocos e vasos — controle autonômico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve esquelético.",
+      "B": "Incorreta: estriações são esquelético/cardíaco.",
+      "C": "Correta: texto do bloco do músculo liso.",
+      "D": "Incorreta: cardíaco, não liso universal."
+    },
+    "explicacao": "Conceito-chave: Sem estriação visível ≠ sem filamento — mas a prova cobra o padrão óptico.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 289,
+    "materia": "bmf2",
+    "tema": "bmf2_a2",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Na placa motora, qual evento inicia a despolarização da fibra muscular esquelética na visão resumida ?",
+    "opcoes": [
+      "A) Noradrenalina direta nos receptores muscarínicos da fibra",
+      "B) GABA inibitório na placa motora exclusivamente",
+      "C) Serotonina como neurotransmissor primário da placa",
+      "D) Acetilcolina ativando receptores nicotínicos na membrana postsináptica"
+    ],
+    "explicacao_geral": "Neuromuscular liga comando nervoso a contração — base para bloqueio e miastenia em outras disciplinas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: receptor e transmissor não batem com placa motora.",
+      "B": "Incorreta: GABA não é o eixo da placa.",
+      "C": "Incorreta: não é o neurotransmissor descrito.",
+      "D": "Correta: essencial do bloco da junção neuromuscular."
+    },
+    "explicacao": "Conceito-chave: ACh → despolarização → potencial de ação na fibra.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf2_a2"
+  },
+  {
+    "id": 290,
+    "materia": "semiologia1",
+    "tema": "semio1_a6",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Na comparação conceitual tipo I versus tipo II do texto, qual afirmação sobre fadiga em esforço máximo está correta?",
+    "opcoes": [
+      "A) Tipo I fadiga mais precocemente que tipo II em sprint",
+      "B) Tipo II tende a fadigar mais precocemente em esforço máximo; tipo I sustenta melhor trabalho prolongado",
+      "C) Não há diferença de perfil oxidativo versus glicolítico",
+      "D) Tipo II é exclusivamente oxidativa lenta"
+    ],
+    "explicacao_geral": "Contraste conceitual importa mais que percentuais por músculo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte o padrão.",
+      "B": "Correta: classificação .",
+      "C": "Incorreta: coexistem perfis no mesmo músculo.",
+      "D": "Incorreta: tipo II é eixo rápido/glicolítico relativo."
+    },
+    "explicacao": "Conceito-chave: Postural/endurance versus sprint/potência.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "semio1_a6"
+  },
+  {
+    "id": 291,
+    "materia": "bmf2",
+    "tema": "bmf2_a1",
+    "modulo": 2,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "A ponte clínica menciona rabdomiólise com liberação de mioglobina. Qual base histológica essa condição pressupõe?",
+    "opcoes": [
+      "A) Destruição exclusiva de tecido adiposo perimuscular",
+      "B) Perda apenas de cartilagem articular sem envolvimento muscular",
+      "C) Hipertrofia concêntrica do músculo liso vascular como causa única",
+      "D) Lesão/destruição de fibra muscular esquelética com extravasamento de conteúdo celular"
+    ],
+    "explicacao_geral": "Mioglobina vem do citoplasma muscular — explica risco renal e enzimas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o tecido fonte da mioglobina.",
+      "B": "Incorreta: cartilagem não libera mioglobina.",
+      "C": "Incorreta: não descreve rabdomiólise típica.",
+      "D": "Correta: integra ponte com clínica e destruição de fibra."
+    },
+    "explicacao": "Conceito-chave: Histologia explica biomarcadores — CK/mioglobina.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf2_a1"
+  },
+  {
+    "id": 292,
+    "materia": "bmf2",
+    "tema": "bmf2_a1",
+    "modulo": 2,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Segundo a teoria dos filamentos deslizantes, o que ocorre no encurtamento isotônico típico?",
+    "opcoes": [
+      "A) Há encurtamento do sarcômero e movimento relativo entre filamentos, sem encurtar os filamentos em si",
+      "B) Os filamentos de actina e miosina encurtam quimicamente como borracha",
+      "C) Apenas o tendão encurta; a fibra permanece isométrica sempre",
+      "D) A tropomiosina degrada completamente a cada contração"
+    ],
+    "explicacao_geral": "Ligação cruzada gasta ATP e desliza filamentos — base da mecânica.",
+    "explicacoes_opcoes": {
+      "A": "Correta: frase central da teoria dos filamentos deslizantes.",
+      "B": "Incorreta: filamentos mantêm comprimento; muda sobreposição.",
+      "C": "Incorreta: fibra pode mudar de comprimento (isotônica).",
+      "D": "Incorreta: tropomiosina regula acesso, não desaparece."
+    },
+    "explicacao": "Conceito-chave: ‘Desliza’ ≠ ‘encolhe o polímero’.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf2_a1"
+  },
+  {
+    "id": 293,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Com o aumento de Ca²⁺ sarcoplasmático na excitação-contração, qual sequência conceitual está correta?",
+    "opcoes": [
+      "A) Tropomiosina destrói ATP antes da miosina",
+      "B) Troponina/tropomiosina deixam de bloquear sítios da actina, permitindo pontes cruzadas",
+      "C) O Ca²⁺ liga-se diretamente à cabeça da miosina sem troponina",
+      "D) A actina polimeriza de novo a cada milissegundo"
+    ],
+    "explicacao_geral": "Ca²⁺ é interruptor regulatório — relaxa quando cai e bombas recaptam.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ATP é hidrolisado no ciclo da miosina, não por esse passo isolado.",
+      "B": "Correta: alinha-se ao parágrafo inicial e à classificação de etapas.",
+      "C": "Incorreta: regulador clássico envolve complexo troponina–tropomiosina.",
+      "D": "Incorreta: não resume o mecanismo de ativação."
+    },
+    "explicacao": "Conceito-chave: Sem Ca²⁺, a miosina não ‘pega’ a actina de forma produtiva.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 294,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Após despolarização da membrana e sinal ao retículo sarcoplasmático, a liberação de Ca²⁺ para o citoplasma ocorre principalmente por:",
+    "opcoes": [
+      "A) Difusão passiva irrestrita através do epimísio",
+      "B) Bomba Na⁺/K⁺ exclusivamente no disco Z",
+      "C) Canais de rianodina no retículo sarcoplasmático",
+      "D) Mitocôndrias liberando Ca²⁺ sem receptores"
+    ],
+    "explicacao_geral": "RyR acopla excitação elétrica a liberação de Ca²⁺ — vínculo com hipertermia maligna.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: barreira conjuntiva não explica acoplamento.",
+      "B": "Incorreta: bomba de sódio não é o canal de Ca²⁺ do SR.",
+      "C": "Correta: etapa 2 da classificação .",
+      "D": "Incorreta: não descreve a via principal do SR."
+    },
+    "explicacao": "Conceito-chave: T-tubule entrega sinal; SR entrega Ca²⁺.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 295,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "No relaxamento muscular, por que o retorno do Ca²⁺ ao retículo é descrito como ‘custo energético’ no texto?",
+    "opcoes": [
+      "A) Porque não há bombas de Ca²⁺ no sarcoplasma",
+      "B) Porque o Ca²⁺ difunde espontaneamente sem ATP em qualquer estado",
+      "C) Porque a miosina não usa ATP no ciclo",
+      "D) Porque bombas de Ca²⁺ do retículo consomem ATP na recaptação"
+    ],
+    "explicacao_geral": "Relaxamento ativo — distúrbios de ATP (isquemia, mitopatia) prejudicam relaxamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: bombas existem no SR.",
+      "B": "Incorreta: gradiente exige trabalho ativo.",
+      "C": "Incorreta: ciclo da miosina depende de ATP.",
+      "D": "Correta: etapa 4 da classificação."
+    },
+    "explicacao": "Conceito-chave: Parar de contrair não é ‘de graça’ metabolicamente.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 296,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Qual distinção corresponde ao par potencial de placa terminal versus potencial de ação da fibra muscular?",
+    "opcoes": [
+      "A) Evento local na junção nicotínica versus propagação pelo sarcolema de toda a fibra",
+      "B) Ambos são idênticos e propagam-se apenas no tendão",
+      "C) Potencial de placa percorre o nervo periférico sem despolarizar a fibra",
+      "D) Potencial de ação da fibra ocorre só no núcleo celular"
+    ],
+    "explicacao_geral": "Erro comum clássica citada explicitamente na conteúdo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: classificação revisão final.",
+      "B": "Incorreta: confundir os dois é o erro esperado.",
+      "C": "Incorreta: placa despolariza localmente e dispara o PA se limiar atingido.",
+      "D": "Incorreta: PA é de membrana sarcolemal."
+    },
+    "explicacao": "Conceito-chave: Um é ‘centelha’ local; o outro é ‘onda’ na fibra.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 297,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual par melhor diferencia contração isométrica e isotônica?",
+    "opcoes": [
+      "A) Isométrica sempre sem tensão; isotônica sem ATP",
+      "B) Isométrica encurta fibra; isotônica mantém comprimento fixo",
+      "C) Isométrica: tensão sem mudança de comprimento; isotônica: comprimento muda",
+      "D) Ambas exigem alongamento excêntrico obrigatório"
+    ],
+    "explicacao_geral": "Isométrico ‘empurra parede’; isotônico move carga.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isométrica gera tensão.",
+      "B": "Incorreta: inverte definições.",
+      "C": "Correta: classificação revisão final.",
+      "D": "Incorreta: excêntrico é subtipo com alongamento sob tensão."
+    },
+    "explicacao": "Conceito-chave: Nomenclatura de prova — não confundir com excêntrico.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 298,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Frequência de disparo motoneuronal elevada pode fundir contrações parciais em tônus sustentado. Esse fenômeno denomina-se:",
+    "opcoes": [
+      "A) Bloqueio neuromuscular irreversível espontâneo",
+      "B) Somatétano",
+      "C) Fibrilação ventricular da fibra esquelética",
+      "D) Hipotonia permanente por ausência de ATP basal"
+    ],
+    "explicacao_geral": "Unidade motora + frequência explicam força antes de fadiga.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não descreve fusão tetânica.",
+      "B": "Correta: definição de uma frase da revisão final.",
+      "C": "Incorreta: ritmo cardíaco, não músculo esquelético.",
+      "D": "Incorreta: confunde com falência energética."
+    },
+    "explicacao": "Conceito-chave: Tetano = soma temporal de contrações.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 299,
+    "materia": "bmf1",
+    "tema": "bmf1_a12",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Em mesma carga, por que a contração excêntrica costuma implicar maior estresse microestrutural que a concêntrica, segundo a conteúdo?",
+    "opcoes": [
+      "A) Porque elimina totalmente o uso de ATP",
+      "B) Porque impede ligações cruzadas",
+      "C) Porque remove o Ca²⁺ do sarcoplasma",
+      "D) Porque a fibra alonga sob tensão, gerando alto estresse estrutural"
+    ],
+    "explicacao_geral": "Treino excêntrico e lesão compartilham biomecânica de alongamento ativo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ATP ainda participa do ciclo.",
+      "B": "Incorreta: pontes ocorrem.",
+      "C": "Incorreta: não é o núcleo do contraste.",
+      "D": "Correta: texto sobre tipos de contração."
+    },
+    "explicacao": "Conceito-chave: ‘Descer controlado’ pode doer mais que ‘subir’.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA.",
+    "aula_id": "bmf1_a12"
+  },
+  {
+    "id": 300,
+    "materia": "fisiopato_farmaco",
+    "tema": "ff4_a7",
+    "modulo": 4,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Os bloqueadores neuromuscular não despolarizantes, na visão integrativa , agem principalmente por:",
+    "opcoes": [
+      "A) Abrir canais de rianodina de forma irreversível no SR",
+      "B) Competir com acetilcolina no receptor nicotínico da placa terminal",
+      "C) Bloquear exclusivamente túbulos T sem afetar a placa",
+      "D) Hiperpolarizar permanentemente o axônio motor sem sinapse"
+    ],
+    "explicacao_geral": "Paralisia sem sedação — paciente pode estar acordado e ainda assim bloqueado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o mecanismo clássico dos curares competitivos.",
+      "B": "Correta: ponte com clínica e classificação de bloqueios.",
+      "C": "Incorreta: alvo principal é receptor nicotínico na placa.",
+      "D": "Incorreta: foco é junção neuromuscular."
+    },
+    "explicacao": "Conceito-chave: Competitivo = disputa pelo receptor com ACh.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "ff4_a7"
+  }
+]

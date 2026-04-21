@@ -2,7 +2,7 @@
 
 As infecções respiratórias virais são a causa mais comum de consultas médicas agudas no mundo. Na prova, os temas centrais são os mecanismos de variação da **Influenza (Shift e Drift)**, a fisiopatologia da **COVID-19** e o uso racional de antivirais como o **Oseltamivir**.
 
-Na prática, diferenciar uma gripe comum de um quadro grave com "tempestade de citocinas" é a chave para decidir entre o tratamento ambulatorial e a internação em UTI.
+Na prática, diferenciar uma **gripe comum** de um quadro grave com "**tempestade de citocinas**" é a chave para decidir entre o tratamento ambulatorial e a internação em UTI.
 
 ---
 
@@ -39,7 +39,7 @@ Diferente do resfriado comum, a gripe é uma doença sistêmica que pode ser fat
 
 - **Vírus Sincicial Respiratório (VSR):** O terror dos berçários. Principal causa de **Bronquiolite** em bebês menores de 2 anos.
 - **Parainfluenza:** Causa o **Crupe** (Laringite), marcado pela famosa **"Tosse de Foca"** e estridor na criança.
-- **Rinovírus:** O vírus do resfriado comum (coriza e espirros, mas pouca febre).
+- **Rinovírus:** O vírus do **resfriado comum** (coriza e espirros, mas pouca febre).
 
 ---
 

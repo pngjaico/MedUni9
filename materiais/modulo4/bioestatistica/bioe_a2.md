@@ -19,7 +19,7 @@ Na prática, se você errar a classificação da variável, você escolhe o test
 
 Estas variáveis descrevem atributos ou qualidades que não podem ser medidos numericamente de forma direta:
 - **Nominais:** Categorias sem ordem. **Exemplos:** Sexo (M/F), Cor dos olhos, Tipo de patógeno, Especialidade médica. Você só pode dizer se é igual ou diferente.
-- **Ordinais:** Existe uma ordem ou "ranking", mas a distância entre os pontos não é igual. **Exemplos:** Escolaridade, Classe social, Gravidade da doença (Leve, Moderada, Grave), Estadiamento tumoral. O grau III é maior que o II, mas não sabemos "o quanto" maior exatamente.
+- **Ordinais:** Existe uma ordem ou "ranking", mas a distância entre os pontos não é igual. **Exemplos:** Escolaridade, Classe social, Gravidade da doença (Leve, Moderada, Grave), **Estadiamento tumoral**. O grau III é maior que o II, mas não sabemos "o quanto" maior exatamente.
 
 ---
 
@@ -36,7 +36,7 @@ Estas variáveis expressam quantidades numéricas reais:
 A escala define quais contas podemos fazer com os números:
 - **Nominal:** Apenas frequências e moda.
 - **Ordinal:** Podemos calcular mediana e percentis.
-- **Intervalar:** Podemos calcular média e desvio padrão. **Ponto de Prova:** Temperatura em Celsius (°C). O zero é arbitrário; 20°C não é o dobro de calor de 10°C.
+- **Intervalar:** Podemos calcular média e desvio padrão. **Ponto de Prova:** **Temperatura em Celsius (°C)**. O zero é arbitrário; 20°C não é o dobro de calor de 10°C.
 - **Razão:** A escala mais completa. O zero é absoluto (**Zero = Nada**). **Exemplos:** Peso, Idade, Glicemia. Aqui podemos dizer que 100mg/dL é o dobro de 50mg/dL.
 
 ---
@@ -51,7 +51,7 @@ A escala define quais contas podemos fazer com os números:
 
 ## Ponte com a Clínica
 
-No dia a dia, você frequentemente transforma variáveis do tipo **Contínuas** em **Ordinais** para facilitar a conduta. Por exemplo: a Glicemia de um paciente é 126 mg/dL (Contínua). Você classifica ele como "Diabético" (Categórica/Nominal). Saiba que ao fazer isso, você perde muita informação estatística detalhada, mas ganha clareza clínica para decidir o tratamento.
+No dia a dia, você frequentemente transforma variáveis do tipo **Contínuas** em **Ordinais** para facilitar a conduta. Por exemplo: a **Glicemia** de um paciente é 126 mg/dL (Contínua). Você classifica ele como "Diabético" (Categórica/Nominal). Saiba que ao fazer isso, você perde muita informação estatística detalhada, mas ganha clareza clínica para decidir o tratamento.
 
 ---
 
@@ -61,7 +61,7 @@ No dia a dia, você frequentemente transforma variáveis do tipo **Contínuas** 
 - **Variável Discreta**: Números inteiros (contagem). Ex: nº de gestações.
 - **Ordinal vs Intervalar**: No ordinal a ordem importa (Estágio I, II), mas a "distância" não é fixa; no intervalar a distância é fixa.
 - **Confundidores**: Variáveis que estão ligadas tanto à causa quanto ao efeito e podem enganar o pesquisador.
-- **Aleatorização (Randomização)**: É a única forma de garantir que os grupos sejam iguais e neutralizar os confundidores.
+- **Aleatorização (Randomização)**: É a única forma de garantir que os grupos sejam iguais e neutralizar os **confundidores**.
 
 ---
 
@@ -80,11 +80,11 @@ A Uninove adora a **Escala de Temperatura**. Lembre-se: Graus Celsius (°C) é *
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Variável Independente**| **Variável Dependente** | É a **Causa/Exposição** vs É o **Efeito/Desfecho** |
-| **Ordinal** | **Quantitativa** | Ordem de **Rank** vs Valor de **Medida/Conta** |
+| **Variável Independente**| **Variável Dependente** | **Causa/Exposição** vs **Efeito/Desfecho** |
+| **Ordinal** | **Quantitativa** | **Rank** vs Valor de **Medida/Conta** |
 | **Discreta** | **Contínua** | Conta **Objetos** (1, 2, 3) vs Mede **Grandezas** (1.5, 2.7) |
-| **Nominal** | **Ordinal** | **Cor** dos olhos (Igual/Dif) vs **Dor** (Menor/Maior) |
-| **Confundidor** | **Viés** | Erro por **Variável Intrusa** vs Erro por **Falha no Desenho** |
+| **Nominal** | **Ordinal** | **Igual/Dif** vs **Menor/Maior** |
+| **Confundidor** | **Viés** | **Variável Intrusa** vs **Falha no Desenho** |
 
 ### Frase-âncora para não esquecer
 

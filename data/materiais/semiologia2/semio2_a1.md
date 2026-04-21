@@ -17,7 +17,7 @@ Na prática, a capacidade de diferenciar uma **Síndrome Congestiva** de uma **O
 
 ## Método Clínico e Triagem de Gravidade
 
-O exame começa na **Inspeção Estática**: observe o nível de consciência, a coloração da pele (cianose) e a capacidade de falar frases completas.
+O exame começa na **Inspeção Estática**: observe o nível de consciência, a coloração da pele (**cianose**) e a capacidade de falar frases completas.
 
 **Sinais de Alarme (Prioridade Zero):**
 - **Saturação baixa** persistente.

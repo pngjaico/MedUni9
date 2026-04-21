@@ -2,7 +2,7 @@
 
 O estudo transversal é como tirar uma foto de uma multidão. Na prova, os temas centrais são a medida de **Prevalência**, a **Razão de Prevalência (RP)** e a grande limitação: a impossibilidade de provar **Causalidade** (quem veio primeiro?).
 
-Na prática, o estudo transversal é a ferramenta que o governo usa para saber "quantos brasileiros têm pressão alta hoje?". É rápido, barato e essencial para o planejamento de saúde. No entanto, por ser uma foto de um único momento, ele não consegue dizer se o estresse causou a pressão alta ou se ter pressão alta deixou o paciente estressado. Aprender a ler um estudo transversal é aprender a olhar a "carga" de uma doença sem se precipitar sobre a sua causa.
+Na prática, o estudo transversal é a ferramenta que o governo usa para saber "quantos brasileiros têm pressão alta hoje?". É rápido, barato e essencial para o planejamento de saúde. No entanto, por ser uma foto de um único momento, ele não consegue dizer se o estresse causou a pressão alta ou se ter pressão alta deixou o paciente estressado. Aprender a ler um estudo transversal é aprender a olhar a "**carga**" de uma doença sem se precipitar sobre a sua causa.
 
 ---
 
@@ -28,8 +28,8 @@ Também chamado de **Estudo Seccional** ou **Estudo de Prevalência**:
 ## 2. A Razão de Prevalência (RP)
 
 É a medida matemática usada para comparar grupos no estudo transversal:
-- **A Conta:** Prevalência nos expostos dividido pela Prevalência nos não-expostos.
-- **Interpretação:** Se a RP é 2, significa que a doença é **duas vezes mais frequente** no grupo que tem o fator de risco.
+- **A Conta:** **Prevalência nos expostos dividido pela Prevalência nos não-expostos**.
+- **Interpretação:** Se a **RP é 2**, significa que a doença é **duas vezes mais frequente** no grupo que tem o fator de risco.
 
 ---
 
@@ -61,7 +61,7 @@ No seu dia a dia, você lerá notícias como: "Estudo mostra que pessoas que beb
 - **Prevalência**: É a única medida de frequência que ele fornece.
 - **Causalidade**: **Nunca** pode ser afirmada com certeza em um estudo transversal.
 - **Vantagem**: Ótimo para doenças crônicas e comuns na população.
-- **Unidade de Análise**: No Transversal é o **Indivíduo**. No Ecológico é o **Grupo/Região**.
+- **Unidade de Análise**: No **Transversal** é o **Indivíduo**. No **Ecológico** é o **Grupo/Região**.
 
 ---
 
@@ -80,7 +80,7 @@ A Uninove adora a **Falácia Ecológica**. Lembre-se: Viu dado de "Prefeitura", 
 
 | Estudo A | Estudo B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Transversal** | **Coorte** | **Foto** (Hoje) vs **Filme** (Acompanha no tempo) |
+| **Transversal** | **Coorte** | **Foto (Hoje)** vs **Filme (Acompanha no tempo)** |
 | **Transversal** | **Ecológico** | Dados de **Indivíduos** vs Dados de **Populações/Mapas** |
 | **Razão de Prevalência**| **Risco Relativo** | Mede **Frequência atual** vs Mede **Risco futuro** |
 | **Prevalência** | **Incidência** | Casos **Estáticos** vs Casos **Dinâmicos** |

@@ -1,69 +1,94 @@
-# Semiologia 3 — Aula 5: Semiologia do Aparelho Reprodutor Feminino
+# SEMIO3 — Aula 5: Semiologia do Aparelho Reprodutor Feminino
 
-**Disciplina:** Semiologia dos Aparelhos Renal e Reprodutor
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+A semiologia feminina exige técnica apurada e um acolhimento impecável. Na prova, os temas centrais são a diferenciação dos **Corrimentos Vaginais**, o reconhecimento da **Dismenorreia** (dor menstrual) e a conduta ética no **Exame Físico Ginecológico**.
+
+Na prática, a ginecologia é feita de detalhes. Uma pergunta sobre o cheiro do corrimento (odor fétido que piora após a relação) ou a cor do sangramento pode diagnosticar desde uma simples infecção até uma **Doença Inflamatória Pélvica (DIP)** que, se não tratada, pode causar infertilidade permanente.
 
 ---
 
-## Relevância Clínica e Acadêmica
+### Figura sugerida
 
-Semiologia ginecológica é uma das áreas em que mais se exige raciocínio integrado, comunicação cuidadosa e técnica correta. Dor pélvica, alteração menstrual, corrimento, sangramento pós-coito e infertilidade não podem ser analisados isoladamente. A prova costuma cobrar tanto a história ginecológica quanto a lógica do exame especular e do toque bimanual.
+**Figura-ID:** `SEMIO3-A5-F01`
 
-## Anamnese Ginecológica
+- **Momento:** Seção de corrimentos.
+- **O que mostrar:** O "Guia Visual do Corrimento": 1. **Candidíase** (Branco grumoso, parece leite coalhado); 2. **Vaginose** (Cinza, bolhoso, cheiro forte); 3. **Tricomoníase** (Amarelo-esverdeado, bolhoso, colo em "framboesa").
+- **Tipo sugerido:** Infográfico comparativo | Ilustração clínica.
+- **Legenda (rascunho):** Diferenciação macroscópica dos principais corrimentos vaginais.
 
-O núcleo da história inclui:
+## 1. Anamnese Ginecológica: O Roteiro Seguro
 
-- data da última menstruação
-- regularidade do ciclo
-- intensidade do fluxo
-- dismenorreia
-- sangramento intermenstrual ou pós-coito
-- corrimento, odor e prurido
-- atividade sexual, contracepção e possibilidade de gestação
-- dor pélvica e infertilidade
+Sempre organize sua entrevista nestes quatro pilares:
+1.  **Ciclo Menstrual:** Intervalo, duração e fluxo. **Dica:** Pergunte a **data da última menstruação** (**DUM**) em TODA consulta.
+2.  **Dor Pélvica:** É cíclica (vem com a menstruação)? Se for progressiva e causar dor na relação (**Dispareunia**), pense em **Endometriose**.
+3.  **Corrimento:** Cor, cheiro e se coça.
+4.  **Sangramento Anormal:** Sangrar fora do período ou **Pós-Menopausa** é um **Red Flag** gravíssimo (risco de câncer).
 
-Essas informações orientam hipóteses como infecção, endometriose, mioma, gestação, distúrbio hormonal ou neoplasia.
+---
 
-## Exame Físico
+## 2. Diferenciando os Corrimentos (Tabela de Ouro)
 
-O exame inclui inspeção genital externa, exame especular quando indicado e toque vaginal/bimanual. O especular permite observar paredes vaginais, colo uterino, secreções e sangramento. O toque complementa com dor à mobilização, volume uterino, massa anexial e sensibilidade pélvica.
+A Uninove adora cobrar as características de cada um:
+- **Candidíase:** Branco grumoso (**Nata de leite**), causa muito **prurido** (coceira), sem cheiro forte.
+- **Vaginose Bacteriana:** Conteúdo cinza/bolhoso com **Odor Fétido** (carne podre ou peixe podre), que piora após sexo ou menstruação.
+- **Tricomoníase:** Amarela-esverdeada, bolhosa, com muita irritação e o colo do útero cheio de pontinhos vermelhos (**Colo em Framboesa**).
 
-> **Dica de Prova:** sangramento pós-coito e alteração do colo devem sempre acender alerta para investigação cervical. Dor pélvica com atraso menstrual exige considerar gestação ectópica até exclusão.
+---
 
-## Integração com Sistema Urinário
+## 3. O Exame Físico com Ética
 
-No módulo 3, o aparelho reprodutor feminino não pode ser separado do urinário. Disúria pode acompanhar vulvovaginites. Dor pélvica pode ser urinária ou ginecológica. Gestação e infecção urinária frequentemente se cruzam. A banca gosta exatamente dessa zona cinzenta.
+O exame ginecológico é invasivo. Siga estas regras:
+- **Consentimento:** Sempre peça permissão antes de começar.
+- **Privacidade:** Garanta que ninguém vá entrar na sala.
+- **Exame Especular:** Colocação do "bico de pato" para ver o colo e as paredes da vagina.
+- **Toque Bimanual:** Uma mão na barriga e dois dedos na vagina. Aqui procuramos o **Grito do Douglas** (dor intensa ao mobilizar o colo), que indica infecção pélvica grave.
 
-## Ética e Comunicação
+---
 
-Como todo exame íntimo, a avaliação ginecológica exige explicação prévia, consentimento, privacidade e linguagem respeitosa. Em cenário OSCE ou questão discursiva, isso também conta como competência semiológica.
+## 4. Red Flags: Quando investigar fundo?
+
+- **Sangramento na Menopausa:** Nunca é normal. Precisa de **biópsia** ou ultrassom.
+- **Dor Pélvica Aguda + Atraso Menstrual:** Pensar em **Gravidez Ectópica** (emergência!).
+- **Massa Palpável no Útero:** Pode ser um **Mioma** (benigno) ou algo mais sério.
+
+---
 
 ## Ponte com a Clínica
 
-Na prática, a semiologia ginecológica bem feita evita dois erros opostos: banalizar sintomas importantes ou pedir exame complementar sem organizar minimamente a história. Muitas vezes, a hipótese principal já nasce de uma boa combinação entre ciclo menstrual, tipo de dor, padrão do corrimento e achado ao exame.
+No seu plantão, aprenda a valorizar a queixa de **Dor na Relação Sexual (Dispareunia)**. Muitas vezes a paciente não fala por vergonha. Se a dor for profunda, pode indicar **DIP** ou endometriose. Se for superficial, pode ser apenas uma candidíase ou falta de lubrificação. Tratar a causa resolve não apenas a dor, mas melhora drasticamente a qualidade de vida e a saúde emocional da paciente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **DUM (Data da Última Menstruação)**: O dado mais importante da anamnese ginecológica.
+- **Mobilização do Colo Dolorosa**: O sinal mais específico para o diagnóstico de Doença Inflamatória Pélvica (DIP).
+- **Vaginose Bacteriana**: Diagnóstico feito pelos **Critérios de Amsel** (pH > 4.5, Teste das aminas +, Clue cells).
+- **Sangramento Pós-Coito**: Sangrar após a relação sexual exige visualização criteriosa do colo (suspeita de câncer de colo).
+- **Dismenorreia**: Dor menstrual. Se começa anos após a menarca e piora, é **Secundária** (endometriose/mioma).
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Anamnese ginecológica:** ciclo, fluxo, dor, corrimento, atividade sexual e possibilidade de gestação.
-- **Exame especular:** observa secreção, parede vaginal e colo uterino.
-- **Toque bimanual:** avalia dor, volume uterino e massa anexial.
-- **Dor pélvica + atraso menstrual:** pensar em gestação ectópica até excluir.
-- **Sangramento pós-coito:** sinal de alerta cervical.
-- **Integração urinária:** disúria e dor pélvica podem ser ginecológicas ou urinárias.
+Para gabaritar Semiologia Feminina, foque no trio: Ciclo, Corrimento e Dor. 
+**Corrimento com cheiro** = Vaginose/Tricomoníase. **Corrimento que coça** = Candidíase. **Dor ao mexer o colo** = DIP. Se a paciente parou de menstruar há anos e voltou a sangrar, a resposta envolverá investigação de **Endométrio**.
+
+A Uninove adora **DSTs**. Lembre-se: a Sífilis causa uma úlcera **Indolor** e limpa. O Herpes causa vesículas que **Doem Muito**. Outro ponto forte: o uso de **Anticoncepcionais** deve ser sempre questionado, pois altera o padrão do sangramento e pode causar escapes. Por fim, saiba que o toque vaginal avalia o tamanho do útero; se estiver aumentado e nodular, pense em **Miomatose**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Exame especular | Toque bimanual | Especular vê estruturas; toque avalia dor, volume e massas |
-| Dor pélvica ginecológica | Dor urinária | A história menstrual e genital ajuda a separar |
-| Sangramento funcional | Sinal de alarme | Pós-coito, atraso menstrual com dor e colo alterado exigem atenção |
-| Exame íntimo técnico | Exame íntimo ético | Técnica sem consentimento e comunicação continua inadequada |
+| **Vaginose** | **Candidíase** | **Cheiro Ruim** (Peixe) vs **Coceira Intensa** (Nata) |
+| **DIP** | **Apendicite** | **Dor à mobilização do colo** vs **Sinal de Blumberg** em FID |
+| **Dismenorreia 1ª** | **Dismenorreia 2ª** | **Funcional** (Cólica comum) vs **Orgânica** (Doença real) |
+| **Especular** | **Toque Bimanual** | **Ver** o colo vs **Sentir** o útero e ovários |
+| **Gravidez Ectópica** | **Cisto Ovariano** | **Atraso Menstrual + Beta-HCG+** vs Apenas dor aguda |
 
 ### Frase-âncora para não esquecer
 
-> "Na semiologia feminina, a boa hipótese nasce da conversa certa antes do exame certo."
+> "Cheiro forte é bactéria, nata branca é fungo. Dor ao mexer o colo é infecção no fundo. Sangramento na menopausa é alerta de perigo. Pergunte a DUM e proteja o seu abrigo."

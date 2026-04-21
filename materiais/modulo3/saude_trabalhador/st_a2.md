@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As Normas Regulamentadoras (NRs) organizam prevenção de riscos ocupacionais.
+As **Normas Regulamentadoras (NRs)** organizam prevenção de riscos ocupacionais.
 Na graduação, o erro clássico é decorar número de NR sem traduzir em decisão clínica.
 Em prova, a banca geralmente apresenta caso concreto e pergunta a medida mais efetiva.
 
@@ -32,20 +32,20 @@ NR-1 define lógica de gerenciamento de riscos ocupacionais.
 Isso significa sair da resposta pontual e pensar em prevenção estruturante.
 Quando o mesmo agravo se repete em trabalhadores de um setor, a falha tende a ser de processo.
 
-Conduta alinhada à NR-1 valoriza hierarquia de controle:
+Conduta alinhada à NR-1 valoriza **hierarquia de controle**:
 
 1. eliminar ou substituir a fonte de risco;
 2. adotar medidas de engenharia e organização;
 3. complementar com proteção individual.
 
-> **Dica de Prova:** se a questão fala em recorrência coletiva, priorize intervenção no processo de trabalho.
+> **Dica de Prova:** se a questão fala em **recorrência coletiva**, priorize **intervenção no processo de trabalho**.
 
 ---
 
 ## NR-6 e eficácia real de EPI
 
 EPI não é só entrega de equipamento.
-É necessário verificar adequação ao agente, treinamento, ajuste, conservação e adesão.
+É necessário verificar **adequação ao agente, treinamento, ajuste, conservação e adesão**.
 Sem esses elementos, a proteção é aparente e não efetiva.
 
 Exemplo prático:
@@ -60,9 +60,9 @@ Exemplo prático:
 
 ## NR-7, NR-9 e vigilância orientada por exposição
 
-NR-7 (PCMSO) e NR-9 se complementam.
+NR-7 (**PCMSO**) e NR-9 se complementam.
 A avaliação médica periódica precisa dialogar com risco real do ambiente.
-Não é check-up genérico; é vigilância direcionada.
+Não é check-up genérico; é **vigilância direcionada**.
 
 ### Tabela útil: exposição e monitoramento
 
@@ -79,8 +79,8 @@ Essa integração entre norma e clínica é altamente cobrada em questões integ
 
 ## NR-17: ergonomia além da postura
 
-NR-17 aborda desenho de tarefa, ritmo, pausa, mobiliário e carga cognitiva.
-Reduzir DORT depende de organização do trabalho, não apenas de correção postural individual.
+NR-17 aborda **desenho de tarefa, ritmo, pausa, mobiliário e carga cognitiva**.
+Reduzir DORT depende de **organização do trabalho**, não apenas de correção postural individual.
 
 Sinais de alerta no serviço:
 
@@ -100,12 +100,12 @@ NR-32 é central para ambientes assistenciais.
 Seu foco inclui risco biológico, químico, físico e psicossocial.
 Em prova, acidente com agulha e exposição de mucosa são cenários clássicos.
 
-Conduta inicial em exposição biológica:
+Conduta inicial em **exposição biológica**:
 
-1. cuidado local imediato;
-2. estratificação do risco;
+1. **cuidado local imediato**;
+2. **estratificação do risco**;
 3. testagem conforme protocolo;
-4. avaliação de profilaxia pós-exposição;
+4. avaliação de **profilaxia pós-exposição**;
 5. seguimento clínico-laboratorial.
 
 Falhas comuns: atraso, subregistro e orientação incompleta para seguimento.
@@ -131,10 +131,10 @@ A resposta completa inclui manejo clínico e correção do processo de trabalho,
 
 ## Pontos-Chave para Prova
 
-- NR-1 orienta prevenção estruturante por hierarquia de controle;
-- NR-6 exige eficácia real de EPI, não só fornecimento;
-- NR-7 e NR-9 vinculam vigilância clínica à exposição;
-- NR-17 trata organização do trabalho e carga ergonômica;
+- NR-1 orienta prevenção estruturante por **hierarquia de controle**;
+- NR-6 exige **eficácia real de EPI**, não só fornecimento;
+- NR-7 e NR-9 vinculam **vigilância clínica à exposição**;
+- NR-17 trata **organização do trabalho** e carga ergonômica;
 - NR-32 organiza resposta segura em serviços de saúde.
 
 ---

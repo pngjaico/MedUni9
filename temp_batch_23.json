@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 2402,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Média:” está correta?",
+    "opcoes": [
+      "A) sensível a outliers. Melhor para distribuição simétrica.",
+      "B) Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "C) Moda:: única medida para variável nominal.",
+      "D) Regra 68-95-99,7:: x̄ ± 1DP = 68%; x̄ ± 2DP = 95%; x̄ ± 3DP = 99,7%."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Média:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sensível a outliers. Melhor para distribuição simétrica.",
+      "B": "Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "C": "Incorreta: Moda:: única medida para variável nominal.",
+      "D": "Incorreta: Regra 68-95-99,7:: x̄ ± 1DP = 68%; x̄ ± 2DP = 95%; x̄ ± 3DP = 99,7%."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Média:”.\nA) CORRETA. Correta: sensível a outliers. Melhor para distribuição simétrica.\nB) INCORRETA. Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.\nC) INCORRETA. Incorreta: Moda:: única medida para variável nominal.\nD) INCORRETA. Incorreta: Regra 68-95-99,7:: x̄ ± 1DP = 68%; x̄ ± 2DP = 95%; x̄ ± 3DP = 99,7%.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2403,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Forma da distribuição” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Moda:: única medida para variável nominal.",
+      "B) Forma da distribuição — Relação — Gráfico",
+      "C) Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "D) Média:: sensível a outliers. Melhor para distribuição simétrica."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Forma da distribuição” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Moda:: única medida para variável nominal.",
+      "B": "Correta: Forma da distribuição — Relação — Gráfico",
+      "C": "Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "D": "Incorreta: Média:: sensível a outliers. Melhor para distribuição simétrica."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Forma da distribuição” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Moda:: única medida para variável nominal.\nB) CORRETA. Correta: Forma da distribuição — Relação — Gráfico\nC) INCORRETA. Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.\nD) INCORRETA. Incorreta: Média:: sensível a outliers. Melhor para distribuição simétrica.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2405,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Simétrica (normal)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "B) Média:: sensível a outliers. Melhor para distribuição simétrica.",
+      "C) Moda:: única medida para variável nominal.",
+      "D) Simétrica (normal) — Média = Mediana = Moda — Curva de sino"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Simétrica (normal)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "B": "Incorreta: Média:: sensível a outliers. Melhor para distribuição simétrica.",
+      "C": "Incorreta: Moda:: única medida para variável nominal.",
+      "D": "Correta: Simétrica (normal) — Média = Mediana = Moda — Curva de sino"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Simétrica (normal)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.\nB) INCORRETA. Incorreta: Média:: sensível a outliers. Melhor para distribuição simétrica.\nC) INCORRETA. Incorreta: Moda:: única medida para variável nominal.\nD) CORRETA. Correta: Simétrica (normal) — Média = Mediana = Moda — Curva de sino",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2410,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “DP:” está correta?",
+    "opcoes": [
+      "A) descreve variabilidade dos dados. EPM: precisão da estimativa da média.",
+      "B) Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "C) Média:: sensível a outliers. Melhor para distribuição simétrica.",
+      "D) Moda:: única medida para variável nominal."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “DP:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: descreve variabilidade dos dados. EPM: precisão da estimativa da média.",
+      "B": "Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.",
+      "C": "Incorreta: Média:: sensível a outliers. Melhor para distribuição simétrica.",
+      "D": "Incorreta: Moda:: única medida para variável nominal."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “DP:”.\nA) CORRETA. Correta: descreve variabilidade dos dados. EPM: precisão da estimativa da média.\nB) INCORRETA. Incorreta: Mediana:: robusta a outliers. Melhor para distribuição assimétrica.\nC) INCORRETA. Incorreta: Média:: sensível a outliers. Melhor para distribuição simétrica.\nD) INCORRETA. Incorreta: Moda:: única medida para variável nominal.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2412,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Shapiro-Wilk:” está correta?",
+    "opcoes": [
+      "A) preferido para amostras pequenas (n menor que 50). H0: a distribuição é normal. Se p maior que 0,05, não rejeita normalidade.",
+      "B) Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+      "C) Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.",
+      "D) Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Shapiro-Wilk:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: preferido para amostras pequenas (n menor que 50). H0: a distribuição é normal. Se p maior que 0,05, não rejeita normalidade.",
+      "B": "Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+      "C": "Incorreta: Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.",
+      "D": "Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Shapiro-Wilk:”.\nA) CORRETA. Correta: preferido para amostras pequenas (n menor que 50). H0: a distribuição é normal. Se p maior que 0,05, não rejeita normalidade.\nB) INCORRETA. Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.\nC) INCORRETA. Incorreta: Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.\nD) INCORRETA. Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2413,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Situação” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+      "B) Situação — Teste paramétrico — Alternativa não-paramétrica",
+      "C) Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+      "D) Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Situação” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+      "B": "Correta: Situação — Teste paramétrico — Alternativa não-paramétrica",
+      "C": "Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+      "D": "Incorreta: Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Situação” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.\nB) CORRETA. Correta: Situação — Teste paramétrico — Alternativa não-paramétrica\nC) INCORRETA. Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.\nD) INCORRETA. Incorreta: Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2414,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “Kolmogorov-Smirnov:” está correta?",
+    "opcoes": [
+      "A) Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+      "B) Conglomerados:: unidades maiores selecionadas — PNS e PNAD usam este método.",
+      "C) para amostras maiores; menos sensível que o Shapiro-Wilk.",
+      "D) Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Kolmogorov-Smirnov:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+      "B": "Incorreta: Conglomerados:: unidades maiores selecionadas — PNS e PNAD usam este método.",
+      "C": "Correta: para amostras maiores; menos sensível que o Shapiro-Wilk.",
+      "D": "Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Kolmogorov-Smirnov:”.\nA) INCORRETA. Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.\nB) INCORRETA. Incorreta: Conglomerados:: unidades maiores selecionadas — PNS e PNAD usam este método.\nC) CORRETA. Correta: para amostras maiores; menos sensível que o Shapiro-Wilk.\nD) INCORRETA. Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2419,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Comparar 3 ou mais grupos” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+      "B) Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.",
+      "C) Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+      "D) Comparar 3 ou mais grupos — ANOVA — Kruskal-Wallis"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Comparar 3 ou mais grupos” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.",
+      "B": "Incorreta: Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.",
+      "C": "Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.",
+      "D": "Correta: Comparar 3 ou mais grupos — ANOVA — Kruskal-Wallis"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Comparar 3 ou mais grupos” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Lilliefors:: variante do KS mais adequada quando média e DP são estimados da amostra.\nB) INCORRETA. Incorreta: Kolmogorov-Smirnov:: para amostras maiores; menos sensível que o Shapiro-Wilk.\nC) INCORRETA. Incorreta: Amostragem estratificada:: subgrupos representados proporcionalmente — aumenta precisão.\nD) CORRETA. Correta: Comparar 3 ou mais grupos — ANOVA — Kruskal-Wallis",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2422,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “H0:” está correta?",
+    "opcoes": [
+      "A) hipótese da ausência de efeito — é a que o teste tenta rejeitar.",
+      "B) Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+      "C) IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "D) Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “H0:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: hipótese da ausência de efeito — é a que o teste tenta rejeitar.",
+      "B": "Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+      "C": "Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "D": "Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “H0:”.\nA) CORRETA. Correta: hipótese da ausência de efeito — é a que o teste tenta rejeitar.\nB) INCORRETA. Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.\nC) INCORRETA. Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.\nD) INCORRETA. Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2424,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “Valor-p:” está correta?",
+    "opcoes": [
+      "A) IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "B) Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real",
+      "C) probabilidade dos dados observados (ou mais extremos) se H0 for verdadeira.",
+      "D) Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Valor-p:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "B": "Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real",
+      "C": "Correta: probabilidade dos dados observados (ou mais extremos) se H0 for verdadeira.",
+      "D": "Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Valor-p:”.\nA) INCORRETA. Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.\nB) INCORRETA. Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real\nC) CORRETA. Correta: probabilidade dos dados observados (ou mais extremos) se H0 for verdadeira.\nD) INCORRETA. Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2426,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “p menor ou igual a 0,05:” está correta?",
+    "opcoes": [
+      "A) rejeita H0 — resultado estatisticamente significativo.",
+      "B) Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+      "C) IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "D) Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “p menor ou igual a 0,05:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: rejeita H0 — resultado estatisticamente significativo.",
+      "B": "Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+      "C": "Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "D": "Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “p menor ou igual a 0,05:”.\nA) CORRETA. Correta: rejeita H0 — resultado estatisticamente significativo.\nB) INCORRETA. Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.\nC) INCORRETA. Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.\nD) INCORRETA. Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2430,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Erro tipo II (beta):” está correta?",
+    "opcoes": [
+      "A) falso negativo — não rejeita H0 falsa.",
+      "B) Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+      "C) IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "D) Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Erro tipo II (beta):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: falso negativo — não rejeita H0 falsa.",
+      "B": "Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.",
+      "C": "Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.",
+      "D": "Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Erro tipo II (beta):”.\nA) CORRETA. Correta: falso negativo — não rejeita H0 falsa.\nB) INCORRETA. Incorreta: Erro tipo I (alfa):: falso positivo — rejeita H0 verdadeira.\nC) INCORRETA. Incorreta: IC 95%:: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.\nD) INCORRETA. Incorreta: Valor-p baixo — Efeito grande — p depende do n; efeito depende da magnitude real",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2432,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Qualitativa:” está correta?",
+    "opcoes": [
+      "A) pergunta \"como?\" e \"por que?\". Quantitativa: pergunta \"quanto?\" e \"qual a diferença?\".",
+      "B) Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+      "C) Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+      "D) Triangulação:: uso de múltiplas fontes para aumentar credibilidade."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Qualitativa:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: pergunta \"como?\" e \"por que?\". Quantitativa: pergunta \"quanto?\" e \"qual a diferença?\".",
+      "B": "Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+      "C": "Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+      "D": "Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Qualitativa:”.\nA) CORRETA. Correta: pergunta \"como?\" e \"por que?\". Quantitativa: pergunta \"quanto?\" e \"qual a diferença?\".\nB) INCORRETA. Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.\nC) INCORRETA. Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).\nD) INCORRETA. Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2433,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Representatividade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Triangulação:: uso de múltiplas fontes para aumentar credibilidade.",
+      "B) Representatividade — Transferibilidade — Representatividade: amostras quantitativas; Transferibilidade: contextos qualitativos",
+      "C) Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+      "D) Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Representatividade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade.",
+      "B": "Correta: Representatividade — Transferibilidade — Representatividade: amostras quantitativas; Transferibilidade: contextos qualitativos",
+      "C": "Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+      "D": "Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Representatividade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade.\nB) CORRETA. Correta: Representatividade — Transferibilidade — Representatividade: amostras quantitativas; Transferibilidade: contextos qualitativos\nC) INCORRETA. Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.\nD) INCORRETA. Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2440,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Análise de conteúdo:” está correta?",
+    "opcoes": [
+      "A) categorias temáticas — método mais usado na saúde.",
+      "B) Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+      "C) Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+      "D) Triangulação:: uso de múltiplas fontes para aumentar credibilidade."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Análise de conteúdo:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: categorias temáticas — método mais usado na saúde.",
+      "B": "Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+      "C": "Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+      "D": "Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Análise de conteúdo:”.\nA) CORRETA. Correta: categorias temáticas — método mais usado na saúde.\nB) INCORRETA. Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.\nC) INCORRETA. Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).\nD) INCORRETA. Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2441,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual alternativa associa corretamente “Representatividade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+      "B) Triangulação:: uso de múltiplas fontes para aumentar credibilidade.",
+      "C) Representatividade — Transferibilidade — Representatividade: amostras quantitativas; Transferibilidade: contextos qualitativos",
+      "D) Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Representatividade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).",
+      "B": "Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade.",
+      "C": "Correta: Representatividade — Transferibilidade — Representatividade: amostras quantitativas; Transferibilidade: contextos qualitativos",
+      "D": "Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Representatividade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Transferibilidade:: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).\nB) INCORRETA. Incorreta: Triangulação:: uso de múltiplas fontes para aumentar credibilidade.\nC) CORRETA. Correta: Representatividade — Transferibilidade — Representatividade: amostras quantitativas; Transferibilidade: contextos qualitativos\nD) INCORRETA. Incorreta: Grupo focal:: 6 a 12 participantes, dados coletivos, interação grupeal.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2442,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Incidência:” está correta?",
+    "opcoes": [
+      "A) casos novos, mede risco, usada em coorte.",
+      "B) OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica",
+      "C) Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "D) Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Incidência:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: casos novos, mede risco, usada em coorte.",
+      "B": "Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica",
+      "C": "Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "D": "Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Incidência:”.\nA) CORRETA. Correta: casos novos, mede risco, usada em coorte.\nB) INCORRETA. Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica\nC) INCORRETA. Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).\nD) INCORRETA. Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2444,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Prevalência:” está correta?",
+    "opcoes": [
+      "A) Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "B) Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição",
+      "C) casos existentes, fotografia, usada em transversal.",
+      "D) OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevalência:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "B": "Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição",
+      "C": "Correta: casos existentes, fotografia, usada em transversal.",
+      "D": "Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Prevalência:”.\nA) INCORRETA. Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).\nB) INCORRETA. Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição\nC) CORRETA. Correta: casos existentes, fotografia, usada em transversal.\nD) INCORRETA. Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2450,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “Temporalidade:” está correta?",
+    "opcoes": [
+      "A) unico criterio obrigatorio de Bradford Hill.",
+      "B) OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica",
+      "C) Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "D) Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Temporalidade:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: unico criterio obrigatorio de Bradford Hill.",
+      "B": "Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica",
+      "C": "Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "D": "Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Temporalidade:”.\nA) CORRETA. Correta: unico criterio obrigatorio de Bradford Hill.\nB) INCORRETA. Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica\nC) INCORRETA. Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).\nD) INCORRETA. Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2451,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Incidência” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "B) Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição",
+      "C) Incidência — Prevalência — Incidencia: novos casos (risco); Prevalência: casos existentes (carga",
+      "D) OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Incidência” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).",
+      "B": "Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição",
+      "C": "Correta: Incidência — Prevalência — Incidencia: novos casos (risco); Prevalência: casos existentes (carga",
+      "D": "Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Incidência” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Incidência:: novos casos. Prevalência: casos em um momento (novos + antigos).\nB) INCORRETA. Incorreta: Risco atribuivel — Fração atribuivel — RA: diferença absoluta; FA: proporção do risco explicada pela exposição\nC) CORRETA. Correta: Incidência — Prevalência — Incidencia: novos casos (risco); Prevalência: casos existentes (carga)\nD) INCORRETA. Incorreta: OR aproxima-se de RR apenas quando a doença eh rara.: ## Ponte com a Clínica",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2452,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Transversal:” está correta?",
+    "opcoes": [
+      "A) exposição e desfecho medidos ao mesmo tempo — \"fotografia\".",
+      "B) NAO estabelece causalidade:: temporalidade nao pode ser determinada.",
+      "C) Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "D) Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transversal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: exposição e desfecho medidos ao mesmo tempo — \"fotografia\".",
+      "B": "Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada.",
+      "C": "Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "D": "Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transversal:”.\nA) CORRETA. Correta: exposição e desfecho medidos ao mesmo tempo — \"fotografia\".\nB) INCORRETA. Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada.\nC) INCORRETA. Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.\nD) INCORRETA. Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2454,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Medida de efeito:” está correta?",
+    "opcoes": [
+      "A) Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "B) Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+      "C) Razão de Prevalência (RP), mas OR é frequentemente usado.",
+      "D) NAO estabelece causalidade:: temporalidade nao pode ser determinada."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Medida de efeito:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "B": "Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+      "C": "Correta: Razão de Prevalência (RP), mas OR é frequentemente usado.",
+      "D": "Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Medida de efeito:”.\nA) INCORRETA. Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.\nB) INCORRETA. Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.\nC) CORRETA. Correta: Razão de Prevalência (RP), mas OR é frequentemente usado.\nD) INCORRETA. Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2458,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “Viés de prevalência:” está correta?",
+    "opcoes": [
+      "A) Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "B) Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+      "C) capta sobreviventes — doenças fatais de curta duração ficam sub-representadas.",
+      "D) NAO estabelece causalidade:: temporalidade nao pode ser determinada."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Viés de prevalência:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "B": "Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+      "C": "Correta: capta sobreviventes — doenças fatais de curta duração ficam sub-representadas.",
+      "D": "Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Viés de prevalência:”.\nA) INCORRETA. Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.\nB) INCORRETA. Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.\nC) CORRETA. Correta: capta sobreviventes — doenças fatais de curta duração ficam sub-representadas.\nD) INCORRETA. Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2461,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Transversal” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "B) Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+      "C) Transversal — Coorte — Transversal: foto (sem seguimento); Coorte: filme (seguimento prospectivo",
+      "D) NAO estabelece causalidade:: temporalidade nao pode ser determinada."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Transversal” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.",
+      "B": "Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.",
+      "C": "Correta: Transversal — Coorte — Transversal: foto (sem seguimento); Coorte: filme (seguimento prospectivo",
+      "D": "Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Transversal” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Nao adequado para:: doenças raras, provar causalidade, medir incidência.\nB) INCORRETA. Incorreta: Viés de prevalência (Neyman):: sobreviventes sub-representam doenças fatais.\nC) CORRETA. Correta: Transversal — Coorte — Transversal: foto (sem seguimento); Coorte: filme (seguimento prospectivo)\nD) INCORRETA. Incorreta: NAO estabelece causalidade:: temporalidade nao pode ser determinada.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2462,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação sobre “RR = 1:” está correta?",
+    "opcoes": [
+      "A) sem diferença de risco entre grupos",
+      "B) Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+      "C) Desfecho presente — Desfecho ausente — Total",
+      "D) Vantagem:: temporalidade clara, mede incidência diretamente."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “RR = 1:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sem diferença de risco entre grupos",
+      "B": "Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+      "C": "Incorreta: Desfecho presente — Desfecho ausente — Total",
+      "D": "Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “RR = 1:”.\nA) CORRETA. Correta: sem diferença de risco entre grupos\nB) INCORRETA. Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.\nC) INCORRETA. Incorreta: Desfecho presente — Desfecho ausente — Total\nD) INCORRETA. Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2463,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Desfecho presente” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Inadequada para:: doenças raras (precisa de muitos casos).",
+      "B) Desfecho presente — Desfecho ausente — Total",
+      "C) Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+      "D) Vantagem:: temporalidade clara, mede incidência diretamente."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Desfecho presente” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inadequada para:: doenças raras (precisa de muitos casos).",
+      "B": "Correta: Desfecho presente — Desfecho ausente — Total",
+      "C": "Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+      "D": "Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Desfecho presente” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Inadequada para:: doenças raras (precisa de muitos casos).\nB) CORRETA. Correta: Desfecho presente — Desfecho ausente — Total\nC) INCORRETA. Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.\nD) INCORRETA. Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2469,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual alternativa associa corretamente “Coorte prospectiva” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+      "B) Desfecho presente — Desfecho ausente — Total",
+      "C) Vantagem:: temporalidade clara, mede incidência diretamente.",
+      "D) Coorte prospectiva — Coorte retrospectiva — Prospectiva: segue para o futuro; Retrospectiva: analisa registros do passado"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Coorte prospectiva” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+      "B": "Incorreta: Desfecho presente — Desfecho ausente — Total",
+      "C": "Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente.",
+      "D": "Correta: Coorte prospectiva — Coorte retrospectiva — Prospectiva: segue para o futuro; Retrospectiva: analisa registros do passado"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Coorte prospectiva” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.\nB) INCORRETA. Incorreta: Desfecho presente — Desfecho ausente — Total\nC) INCORRETA. Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente.\nD) CORRETA. Correta: Coorte prospectiva — Coorte retrospectiva — Prospectiva: segue para o futuro; Retrospectiva: analisa registros do passado",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2471,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Coorte” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Desfecho presente — Desfecho ausente — Total",
+      "B) Vantagem:: temporalidade clara, mede incidência diretamente.",
+      "C) Coorte — Caso-controle — Coorte: exposição → desfecho (calcula RR); Caso-controle: desfecho → exposição (calcula OR",
+      "D) Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Coorte” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Desfecho presente — Desfecho ausente — Total",
+      "B": "Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente.",
+      "C": "Correta: Coorte — Caso-controle — Coorte: exposição → desfecho (calcula RR); Caso-controle: desfecho → exposição (calcula OR",
+      "D": "Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Coorte” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Desfecho presente — Desfecho ausente — Total\nB) INCORRETA. Incorreta: Vantagem:: temporalidade clara, mede incidência diretamente.\nC) CORRETA. Correta: Coorte — Caso-controle — Coorte: exposição → desfecho (calcula RR); Caso-controle: desfecho → exposição (calcula OR)\nD) INCORRETA. Incorreta: Prospectiva:: acompanha para o futuro. Retrospectiva: usa registros do passado.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2473,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente com hipotensão postural e taquicardia ao estresse. Qual combinação descreve corretamente o componente autonômico simpático?",
+    "opcoes": [
+      "A) Origem sacral; pré curta; pós longa; controle voluntário muscular",
+      "B) Origem crânio-sacral; pré longa; pós curta; efeito de repouso",
+      "C) Origem toracolombar (T1-L2); pré curta; pós longa; efeito de luta/fuga",
+      "D) Origem toracolombar; pré longa; pós curta; efeito de digestão"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "C": "Correta: Origem toracolombar (T1-L2); pré curta; pós longa; efeito de luta/fuga.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é C porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nC) CORRETA. Correta: Origem toracolombar (T1-L2); pré curta; pós longa; efeito de luta/fuga.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2474,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Parassimpático (crânio-sacral):” está correta?",
+    "opcoes": [
+      "A) Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão",
+      "B) SNC vs. SNP: SNC = encéfalo + medula; SNP = nervos e gânglios.",
+      "C) repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.",
+      "D) Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa corresponde ao conceito de “Parassimpático (crânio-sacral):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão",
+      "B": "Incorreta: SNC vs. SNP: SNC = encéfalo + medula; SNP = nervos e gânglios.",
+      "C": "Correta: repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.",
+      "D": "Incorreta: Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo."
+    },
+    "explicacao": "Resumo: A alternativa correta descreve adequadamente “Parassimpático (crânio-sacral):”.\nA) INCORRETA. Incorreta: Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão\nB) INCORRETA. Incorreta: SNC vs. SNP: SNC = encéfalo + medula; SNP = nervos e gânglios.\nC) CORRETA. Correta: repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.\nD) INCORRETA. Incorreta: Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2479,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Selecione a alternativa que relaciona corretamente “Visceral aferente” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo.",
+      "B) Parassimpático (crânio-sacral): repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.",
+      "C) Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão",
+      "D) Visceral aferente — Informações dos órgãos internos — Dor visceral, pressão arterial"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é a que apresenta “Visceral aferente” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo.",
+      "B": "Incorreta: Parassimpático (crânio-sacral): repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.",
+      "C": "Incorreta: Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão",
+      "D": "Correta: Visceral aferente — Informações dos órgãos internos — Dor visceral, pressão arterial"
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Visceral aferente” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo.\nB) INCORRETA. Incorreta: Parassimpático (crânio-sacral): repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.\nC) INCORRETA. Incorreta: Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão\nD) CORRETA. Correta: Visceral aferente — Informações dos órgãos internos — Dor visceral, pressão arterial",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2480,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Na revisão de neuroimagem com internos, qual afirmação sobre distribuição de substância cinzenta e branca está correta?",
+    "opcoes": [
+      "A) No encéfalo, substância cinzenta periférica e branca profunda; na medula, cinzenta central e branca periférica",
+      "B) No encéfalo e na medula, substância cinzenta periférica e branca central",
+      "C) No encéfalo e na medula, substância cinzenta central e branca periférica",
+      "D) No encéfalo, substância branca periférica e cinzenta profunda; na medula, o inverso"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: No encéfalo, substância cinzenta periférica e branca profunda; na medula, cinzenta central e branca periférica",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: No encéfalo, substância cinzenta periférica e branca profunda; na medula, cinzenta central e branca periférica\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2481,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Visceral eferente (SNA)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Parassimpático (crânio-sacral): repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.",
+      "B) Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão",
+      "C) Visceral eferente (SNA) — Controle involuntário das vísceras — FC, motilidade intestinal",
+      "D) Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta certa é a que combina “Visceral eferente (SNA)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Parassimpático (crânio-sacral): repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.",
+      "B": "Incorreta: Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão",
+      "C": "Correta: Visceral eferente (SNA) — Controle involuntário das vísceras — FC, motilidade intestinal",
+      "D": "Incorreta: Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo."
+    },
+    "explicacao": "Resumo: A alternativa correta é a que apresenta “Visceral eferente (SNA)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Parassimpático (crânio-sacral): repouso e digestão. Pré-ganglionar longo, pós-ganglionar curto.\nB) INCORRETA. Incorreta: Divisão — Pré-ganglionar — Pós-ganglionar — Receptor no órgão\nC) CORRETA. Correta: Visceral eferente (SNA) — Controle involuntário das vísceras — FC, motilidade intestinal\nD) INCORRETA. Incorreta: Simpático (toraco-lombar T1–L2): luta ou fuga. Pré-ganglionar curto, pós-ganglionar longo.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2482,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Na formulação de ação socioambiental em saúde, qual indicador sugere maior efetividade prática?",
+    "opcoes": [
+      "A) Elevação de custos sem melhoria de cobertura.",
+      "B) Expansão de relatórios sem impacto em desfechos.",
+      "C) Redução de risco ambiental com ampliação de acesso ao cuidado.",
+      "D) Aumento de normas publicadas sem mudança assistencial."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Redução de risco ambiental com ampliação de acesso ao cuidado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Redução de risco ambiental com ampliação de acesso ao cuidado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2484,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual afirmação define corretamente o filum terminale?",
+    "opcoes": [
+      "A) Trato ascendente responsável por dor e temperatura",
+      "B) Feixe de axônios motores somáticos da raiz ventral",
+      "C) Prolongamento fibroso da pia-máter que ancora o cone medular ao cóccix",
+      "D) Raiz nervosa sensitiva que contém o gânglio da raiz dorsal"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Correta: Prolongamento fibroso da pia-máter que ancora o cone medular ao cóccix",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) CORRETA. Correta: Prolongamento fibroso da pia-máter que ancora o cone medular ao cóccix\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2486,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Sobre o marco legal do saneamento no Brasil, qual alternativa está correta?",
+    "opcoes": [
+      "A) A Lei 14.026/2020 atualiza diretrizes para organização e universalização dos serviços.",
+      "B) A Lei 8.080/1990 substitui integralmente a legislação de saneamento.",
+      "C) A Lei 14.026/2020 extingue metas de cobertura populacional.",
+      "D) A legislação de saneamento não tem relação com saúde pública."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A Lei 14.026/2020 atualiza diretrizes para organização e universalização dos serviços.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) CORRETA. Correta: A Lei 14.026/2020 atualiza diretrizes para organização e universalização dos serviços.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2488,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Qual estrutura contém os corpos celulares dos neurônios sensitivos pseudounipolares?",
+    "opcoes": [
+      "A) Corno ventral",
+      "B) Gânglio da raiz dorsal",
+      "C) Trato corticoespinal lateral",
+      "D) Núcleo rubro"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é B porque corresponde ao conceito central cobrado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "B": "Correta: Gânglio da raiz dorsal.",
+      "C": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+      "D": "Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido."
+    },
+    "explicacao": "Resumo: A alternativa correta é B porque corresponde ao conceito central cobrado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nB) CORRETA. Correta: Gânglio da raiz dorsal.\nC) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo, associação anatômica ou critério clínico pedido.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2490,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Sobre a raiz ventral (anterior) do nervo espinal, assinale a alternativa correta.",
+    "opcoes": [
+      "A) Contém predominantemente fibras eferentes motoras provenientes de neurônios do corno ventral",
+      "B) Contém os corpos celulares dos neurônios sensitivos pseudounipolares",
+      "C) É exclusivamente sensitiva e conduz tato discriminativo",
+      "D) Forma-se a partir de fibras do pedúnculo cerebelar superior"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Contém predominantemente fibras eferentes motoras provenientes de neurônios do corno ventral",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência clínica e anatomo-funcional no microtema.\nA) CORRETA. Correta: Contém predominantemente fibras eferentes motoras provenientes de neurônios do corno ventral\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2492,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Ao analisar dados de uma enfermaria, qual objetivo corresponde à estatística descritiva?",
+    "opcoes": [
+      "A) Calcular poder amostral para ensaio clínico futuro.",
+      "B) Inferir causalidade entre exposição e desfecho.",
+      "C) Resumir idade e pressão arterial com média, mediana e gráficos.",
+      "D) Estimar parâmetro populacional com teste de hipótese."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Resumir idade e pressão arterial com média, mediana e gráficos.",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Resumir idade e pressão arterial com média, mediana e gráficos.\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2493,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "No neurônio, qual componente é o principal local de integração de sinais sinápticos excitatórios e inibitórios?",
+    "opcoes": [
+      "A) Nó de Ranvier",
+      "B) Botão terminal",
+      "C) Dendritos e soma",
+      "D) Bainha de mielina"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "B": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+      "C": "Correta: Dendritos e soma",
+      "D": "Incorreta: não corresponde ao mecanismo ou ao microtema solicitado."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência anatômica, fisiológica e clínica com o enunciado.\nA) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nB) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.\nC) CORRETA. Correta: Dendritos e soma\nD) INCORRETA. Incorreta: não corresponde ao mecanismo ou ao microtema solicitado.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2494,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "Neurônios bipolares são encontrados classicamente em quais locais?",
+    "opcoes": [
+      "A) Gânglio da raiz dorsal e gânglio trigeminal",
+      "B) Substância negra e núcleo caudado",
+      "C) Retina e gânglios vestibular e coclear",
+      "D) Corno ventral da medula e córtex motor primário"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Correta: Retina e gânglios vestibular e coclear",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é C por manter coerência clínica e anatomo-funcional no microtema.\nA) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) CORRETA. Correta: Retina e gânglios vestibular e coclear\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  },
+  {
+    "id": 2500,
+    "materia": "bmf4",
+    "tema": "bmf4_a11",
+    "enunciado": "No transporte axonal retrógrado, qual combinação está correta?",
+    "opcoes": [
+      "A) Deslocamento do terminal axonal ao soma mediado por dineína",
+      "B) Deslocamento do soma ao terminal axonal mediado por kinesina",
+      "C) Transporte unidirecional de neurotransmissores na fenda sináptica por actina",
+      "D) Migração de potenciais de ação no axônio mielinizado por canais de cálcio"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A alternativa correta é A por manter coerência clínica e anatomo-funcional no microtema.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Deslocamento do terminal axonal ao soma mediado por dineína",
+      "B": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "C": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+      "D": "Incorreta: não corresponde ao microtema ou ao mecanismo central da questão."
+    },
+    "explicacao": "Resumo: A alternativa correta é A por manter coerência clínica e anatomo-funcional no microtema.\nA) CORRETA. Correta: Deslocamento do terminal axonal ao soma mediado por dineína\nB) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nC) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.\nD) INCORRETA. Incorreta: não corresponde ao microtema ou ao mecanismo central da questão.",
+    "aula_id": "bmf4_a11",
+    "essencial": false
+  }
+]

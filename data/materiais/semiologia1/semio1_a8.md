@@ -21,11 +21,11 @@ No ambulatório, o exame eficiente não é exame apressado.
 
 | Etapa | Objetivo prático | Erro comum | Conduta esperada |
 |------|-------------------|------------|------------------|
-| Acolhimento | Definir queixa principal e impacto funcional | Interromper relato cedo demais | Ouvir primeiro, organizar depois |
-| História dirigida | Caracterizar dor, mecanismo, tempo e sinais de alarme | Fazer perguntas soltas sem hierarquia | Usar roteiro clínico consistente |
-| Exame físico focal | Confirmar ou refutar hipóteses iniciais | Pular inspeção e ir direto ao teste especial | Inspeção -> palpação -> mobilidade -> testes |
-| Plano inicial | Definir tratamento, exame complementar e retorno | Prescrever sem explicar critério de evolução | Explicar objetivos e sinais de piora |
-| Registro | Garantir continuidade do cuidado | Evolução vaga e não mensurável | Documentar achados objetivos |
+| **Acolhimento** | Definir queixa principal e impacto funcional | Interromper relato cedo demais | Ouvir primeiro, organizar depois |
+| **História dirigida** | Caracterizar dor, mecanismo, tempo e **sinais de alarme** | Fazer perguntas soltas sem hierarquia | Usar roteiro clínico consistente |
+| **Exame físico focal** | Confirmar ou refutar hipóteses iniciais | Pular inspeção e ir direto ao teste especial | **Inspeção -> palpação -> mobilidade -> testes** |
+| **Plano inicial** | Definir tratamento, exame complementar e retorno | Prescrever sem explicar critério de evolução | Explicar objetivos e sinais de piora |
+| **Registro** | Garantir continuidade do cuidado | Evolução vaga e não mensurável | Documentar **achados objetivos** |
 
 > **Dica de Prova:** Em questão prática, descreva primeiro o objetivo da consulta ("confirmar hipótese e excluir gravidade"), depois o passo a passo do exame.
 
@@ -37,13 +37,9 @@ A consulta musculoesquelética exige exposição corporal seletiva.
 Expor apenas a área necessária, manter privacidade e explicar cada manobra
 são atitudes clínicas e éticas que podem mudar adesão ao tratamento.
 
-Se a dor aumentar de forma importante durante o exame,
-não force a manobra para "terminar protocolo".
-Interrompa, reposicione, adapte técnica e registre o motivo.
-Isso demonstra julgamento clínico e respeito ao paciente.
+Se a dor aumentar de forma importante durante o exame, **interrompa, reposicione, adapte técnica** e registre o motivo. Isso demonstra julgamento clínico e respeito ao paciente.
 
-A checagem neurovascular deve ser lembrada sempre que houver trauma,
-manobra de estresse articular ou queixa neurológica associada.
+A **checagem neurovascular** deve ser lembrada sempre que houver trauma, manobra de estresse articular ou queixa neurológica associada.
 
 ## Quando pedir exame de imagem no ambulatório
 
@@ -56,7 +52,7 @@ A imagem deve responder uma pergunta clínica objetiva.
 | **Instabilidade** | **Ressonância** (RM)| Avaliar **Ligamentos** e Meniscos |
 | **Deficit Motor** | **RM de Coluna** | Urgência para excluir **Compressão**|
 | **Lombalgia Comum**| **Nenhum** (Inicial) | Tratar Red Flags e reavaliar |
-| **Suspeita Gota** | **Punção Articular** | Padrão-ouro (Cristais) |
+| **Suspeita Gota** | **Punção Articular** | Padrão-ouro (**Cristais**) |
 
 ### Figura sugerida
 
@@ -117,7 +113,7 @@ avaliar, intervir, reavaliar e ajustar.
 - **Registro Clínico:** "Dor no joelho" não vale nada. "Dor em **Interlinha Medial**" direciona a cirurgia.
 - **Comunicação:** Sempre explique que a **Fisioterapia** é tratamento ativo, não apenas passivo.
 - **Eficiência:** Foque o exame na queixa. Se o problema é no pé, não precisa de testes de ombro.
-- **Custo-Benefício:** O RX é ótimo para osso; a RM é para o que o RX não vê (ligamento/menisco).
+- **Custo-Benefício:** O **RX** é ótimo para osso; a **RM** é para o que o RX não vê (ligamento/menisco).
 
 ---
 
@@ -129,7 +125,7 @@ avaliar, intervir, reavaliar e ajustar.
 
 No ambulatório supervisionado, o foco da avaliação acadêmica é mostrar raciocínio clínico organizado. Isso significa estruturar a consulta em etapas claras: acolher, definir problema, examinar com método, propor plano e registrar de forma útil. O aluno que apenas "fala diagnóstico" sem demonstrar processo tende a perder pontos.
 
-- **Urgência:** Monoartrite aguda com febre é **Internação** e Punção.
+- **Urgência:** Monoartrite aguda com febre é **Internação** e **Punção**.
 - **Expectativa:** Pergunte ao paciente: "O que o senhor(a) acha que tem?". Isso evita conflito ético.
 - **Red Flags Cardinais:** Perda de peso, **Sudorese Noturna**, Dor que não cede ao repouso.
 - **Follow-up:** Sempre marque o retorno. Tratamento sem reavaliação é conduta incompleta.

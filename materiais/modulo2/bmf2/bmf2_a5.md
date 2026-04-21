@@ -77,7 +77,7 @@ As **Fibras de Purkinje** são queridinhas de bancas; identifique-as pelo citopl
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Desmossomos** | **Gap Junctions** | Adesão **Mecânica** vs Comunicação **Elétrica** |
-| **Miócito Contrátil** | **Fibra de Purkinje** | Muita actina/miosina vs Muito Glicogênio (condução) |
+| **Miócito Contrátil** | **Fibra de Purkinje** | Muita actina/miosina vs Muito **Glicogênio** (condução) |
 | **Endocárdio** | **Mesotélio (Epicárdio)** | Camada Interna vs Camada Externa |
 | **Miocardite** | **Endocardite** | Inflamação do músculo vs Infecção da valva/parede interna |
 

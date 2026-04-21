@@ -1,0 +1,1227 @@
+[
+  {
+    "id": 2001,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Homem com adenocarcinoma pulmonar; tomografia mostra metástases hepáticas. No sistema TNM, metástase à distância documentada corresponde a:",
+    "opcoes": [
+      "A) Estádio I por definição anatômica.",
+      "B) Tis, pois a lesão hepática ainda é intraepitelial.",
+      "C) N3 exclusivamente, independentemente de órgão acometido.",
+      "D) M1, estágio avançado na maioria dos esquemas de estadiamento."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "M descreve metástase distante; M1 implica doença avançada e, em muitos tumores, estádio IV.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: estádio I costuma ser T pequeno, N0, M0.",
+      "B": "Incorreta: metástase hepática não é Tis.",
+      "C": "Incorreta: metástase visceral distante é M, não N3 por definição.",
+      "D": "Correta: M1 captura metástase à distância."
+    },
+    "explicacao": "Resumo: metástase — M1.\nA) INCORRETA. Estádio inicial.\nB) INCORRETA. Confunde com in situ.\nC) INCORRETA. Eixo N vs M.\nD) CORRETA. Definição TNM.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2003,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual mecanismo explica melhor a ação dos agentes alquilantes clássicos sobre o DNA tumoral?",
+    "opcoes": [
+      "A) Inibição reversível da DNA-polimerase sem ligações cruzadas.",
+      "B) Incorporação como análogo de bases sem reticulação entre fitas.",
+      "C) Bloqueio exclusivo da transcrição mitocondrial.",
+      "D) Ligações covalentes com DNA, incluindo cross-links entre fitas, prejudicando replicação."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Agentes alquilantes danificam o DNA por alquilação, frequentemente com cross-links interstrandais, impedindo replicação e transcrição.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o dano é covalente e costuma envolver reticulação, não só bloqueio enzimático reversível.",
+      "B": "Incorreta: descreve melhor antimetabólitos/análogos, não o núcleo dos alquilantes.",
+      "C": "Incorreta: o alvo principal é o núcleo e o DNA nuclear, não exclusivamente mitocôndrias.",
+      "D": "Correta: compatível com formação de adutos e cross-links que impedem a replicação."
+    },
+    "explicacao": "Resumo: alquilantes = adutos de DNA e cross-links.\nA) INCORRETA. Subestima o dano covalente.\nB) INCORRETA. Mecanismo distinto dos alquilantes clássicos.\nC) INCORRETA. Alvo incorreto.\nD) CORRETA. Mecanismo central descrito .",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2004,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Em relação aos efeitos adversos mais característicos da quimioterapia convencional de amplo espectro, qual conjunto costuma ser citado como “universal”?",
+    "opcoes": [
+      "A) Mielossupressão, mucosite e alopecia.",
+      "B) Cardiotoxicidade, nefrotoxicidade e neuropatia motora grave isolada.",
+      "C) Hipotireoidismo, hipercalemia e acidose tubular renal.",
+      "D) Fibrose pulmonar, pancreatite e uveíte bilateral."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Quimioterápicos clássicos atingem células de alta renovação: medula, epitélio GI e folículos pilosos, gerando mielossupressão, mucosite e queda de cabelo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reflete tecidos de alta divisão também atingidos além do tumor.",
+      "B": "Incorreta: cardiotoxicidade e nefrotoxicidade são mais específicas de certas classes, não o trio “universal”.",
+      "C": "Incorreta: não compõe o padrão clássico descrito para quimio convencional.",
+      "D": "Incorreta: complicações possíveis em fármacos específicos, não o trio usual."
+    },
+    "explicacao": "Resumo: tecidos de alta renovação → medula, mucosa, cabelo.\nA) CORRETA. Triade típica.\nB) INCORRETA. Toxicidades específicas, não o padrão universal.\nC) INCORRETA. Associação incorreta ao tema.\nD) INCORRETA. Não é o conjunto clássico.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2008,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual enzima é alvo principal do 5-fluorouracil na inibição da síntese de DNA?",
+    "opcoes": [
+      "A) Diidrofolato redutase (DHFR).",
+      "B) Timidilato sintase.",
+      "C) Topoisomerase II.",
+      "D) Tirosina quinase BCR-ABL."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O 5-FU inibe a timidilato sintase, reduzindo dTMP e a síntese de DNA; a DHFR é alvo do metotrexato.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: alvo do metotrexato, não do 5-FU.",
+      "B": "Correta: mecanismo clássico do 5-FU.",
+      "C": "Incorreta: típico de antraciclinas/etoposídeo, não do 5-FU.",
+      "D": "Incorreta: alvo de inibidores de tirosina quinase como imatinibe."
+    },
+    "explicacao": "Resumo: 5-FU → timidilato sintase.\nA) INCORRETA. Confunde com MTX.\nB) CORRETA. Enzima correta.\nC) INCORRETA. Outra classe.\nD) INCORRETA. Terapia-alvo distinta.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2009,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Paciente em esquema com doxorrubicina. Qual complicação cardíaca é classicamente associada a essa classe, com risco cumulativo ao longo do tratamento?",
+    "opcoes": [
+      "A) Pericardite constritiva por depósito de amiloide.",
+      "B) Estenose aórtica calcificada de debut rápido.",
+      "C) Miocardiopatia dilatada relacionada à dose cumulativa.",
+      "D) Bloqueio atrioventricular completo por fibrose do nó sinusal isolada."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "As antraciclinas geram cardiotoxicidade dose-dependente com miocardiopatia dilatada; há limite cumulativo e necessidade de monitorização.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o padrão clássico da cardiotoxicidade por antraciclinas.",
+      "B": "Incorreta: valvopatia calcificada não é a assinatura típica desta classe.",
+      "C": "Correta: corresponde à cardiomiopatia tóxica cumulativa.",
+      "D": "Incorreta: bloqueio AV completo não é o achado principal descrito."
+    },
+    "explicacao": "Resumo: antraciclinas → cardiotoxicidade cumulativa.\nA) INCORRETA. Mecanismo incorreto.\nB) INCORRETA. Não é o padrão.\nC) CORRETA. Quadro clássico.\nD) INCORRETA. Não é o foco principal.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2012,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Lactente de 8 meses apresenta otite média e sinusite de repetição por Streptococcus pneumoniae e Haemophilus influenzae, com necessidade frequente de antibioticoterapia. Considerando o padrão infeccioso, qual compartimento imune está mais provavelmente comprometido?",
+    "opcoes": [
+      "A) Imunidade humoral (defeito de anticorpos contra polissacarídeos encapsulados).",
+      "B) Imunidade celular (linfócito T), típica de infecções oportunistas precoces.",
+      "C) Via do complemento terminal, mais associada a Neisseria recorrente.",
+      "D) Função fagocítica, mais sugerida por abscessos profundos de repetição."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Infecções sinopulmonares recorrentes por bactérias encapsuladas apontam para falha na produção ou função de anticorpos (braço humoral).",
+    "explicacoes_opcoes": {
+      "A": "Correta: o padrão de germes encapsulados e mucosas é clássico de suspeita de defeito humoral.",
+      "B": "Incorreta: defeito celular costuma mudar o perfil para vírus/fungos oportunistas, não esse padrão de encapsulados isoladamente.",
+      "C": "Incorreta: complemento terminal tem associação clássica com meningococo/meningite recorrente, não com esse padrão sinopulmonar típico.",
+      "D": "Incorreta: fagócitos sugerem abscessos e infecções de pele/tecido profundo, não o quadro descrito."
+    },
+    "explicacao": "Resumo: Encapsulados recorrentes sugerem deficiência humoral.\nA) CORRETA. Compatível com o fenótipo descrito.\nB) INCORRETA. Perfil infeccioso não é o mais típico de falha isolada de T.\nC) INCORRETA. Associação clássica é outra (Neisseria).\nD) INCORRETA. Fenótipo fagocítico é distinto.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2013,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Criança de 3 anos frequenta creche e tem episódios respiratórios virais frequentes, com boa recuperação, sem internações e sem infecções invasivas. Qual raciocínio é o mais adequado?",
+    "opcoes": [
+      "A) O padrão, por si só, confirma imunodeficiência primária.",
+      "B) Exposição elevada pode explicar infecções frequentes; a imunodeficiência primária costuma se associar a gravidade, padrão invasivo ou curso anormal.",
+      "C) Deve-se iniciar imunoglobulina endovenosa imediatamente.",
+      "D) O diagnóstico é alergia alimentar até prova em contrário."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Muitas infecções em creche podem ser esperadas; imunodeficiência primária exige sinais de gravidade, invasividade ou desvio do padrão esperado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: frequência isolada não fecha diagnóstico de PID.",
+      "B": "Correta: diferencia exposição de doença de defesa.",
+      "C": "Incorreta: terapia de reposição exige indicação e confirmação diagnóstica.",
+      "D": "Incorreta: não há elementos para essa conclusão."
+    },
+    "explicacao": "Resumo: Creche aumenta contágio; PID pede gravidade ou padrão patológico.\nA) INCORRETA. Conclusão precipitada.\nB) CORRETA. Leitura clínica correta.\nC) INCORRETA. Conduta sem indicação.\nD) INCORRETA. Hipótese não sustentada pelo enunciado.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2014,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Na investigação inicial de suspeita de deficiência humoral, qual conjunto de exames costuma ser mais útil como primeira linha?",
+    "opcoes": [
+      "A) Apenas hemograma completo, sem dosagem de imunoglobulinas.",
+      "B) Prova tuberculínica isolada.",
+      "C) Dosagem sérica de IgG, IgA e IgM associada à análise da resposta vacinal quando indicada.",
+      "D) Biópsia de linfonodo axilar de rotina."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A triagem de defeito humoral inclui imunoglobulinas séricas e, conforme o caso, avaliação de resposta a antígenos proteicos e polissacarídeos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: hemograma ajuda, mas não substitui avaliação de anticorpos.",
+      "B": "Incorreta: não é exame de triagem de imunidade humoral.",
+      "C": "Correta: alinhado ao raciocínio de triagem do braço humoral.",
+      "D": "Incorreta: invasivo e não é primeira linha para esse hipótese."
+    },
+    "explicacao": "Resumo: IgG/IgA/IgM e resposta vacinal compõem a avaliação central da suspeita humoral.\nA) INCORRETA. Insuficiente para hipótese humoral.\nB) INCORRETA. Não avalia anticorpos.\nC) CORRETA. Combinação adequada de triagem.\nD) INCORRETA. Não é conduta inicial.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2016,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Lactente com candidíase oral persistente, pneumonia grave precoce e outras infecções fora do padrão bacteriano comum. Qual hipótese imunológica merece prioridade na investigação?",
+    "opcoes": [
+      "A) Defeito de imunidade celular ou imunodeficiência combinada grave, conforme o quadro.",
+      "B) Deficiência isolada de subclasses de IgG sem outras alterações.",
+      "C) Deficiência de complemento terminal.",
+      "D) Alergia alérgica tipo I descompensada."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Candidíase mucocutânea persistente associada a infecções graves precoces sugere falha de defesa mediada por células T e/ou combinação T/B.",
+    "explicacoes_opcoes": {
+      "A": "Correta: direciona para avaliação de linfócitos e imunidade celular/combinada.",
+      "B": "Incorreta: não explica sozinha o padrão fúngico/oportunista precoce típico.",
+      "C": "Incorreta: fenótipo clássico é distinto (Neisseria recorrente).",
+      "D": "Incorreta: não explica o conjunto infeccioso descrito."
+    },
+    "explicacao": "Resumo: Oportunistas e gravidade precoce sugerem eixo celular/combinado.\nA) CORRETA. Hipótese mais plausível.\nB) INCORRETA. Insuficiente para o fenótipo.\nC) INCORRETA. Associação clínica diferente.\nD) INCORRETA. Mecanismo imunológico inadequado.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2018,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual característica descreve melhor o defeito humoral clássico na prática pediátrica?",
+    "opcoes": [
+      "A) Predomínio de infecções por micobactérias disseminadas.",
+      "B) Aumento típico de infecções por protozoários intestinais oportunistas.",
+      "C) Predomínio de infecções sinopulmonares por bactérias encapsuladas após a queda dos anticorpos maternos.",
+      "D) Meningite por Neisseria como padrão mais frequente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Após os primeiros meses, a queda da imunoglobulina materna expõe deficiência de anticorpos com infecções por germes encapsulados em vias aéreas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: sugere mais deficiência celular/imunossupressão grave.",
+      "B": "Incorreta: não é o padrão clássico do defeito humoral isolado.",
+      "C": "Correta: descreve o fenótipo esperado.",
+      "D": "Incorreta: associa-se mais a complemento do que a deficiência isolada de anticorpos."
+    },
+    "explicacao": "Resumo: Defeito humoral: encapsulados e mucosas após proteção materna.\nA) INCORRETA. Perfil infeccioso outro.\nB) INCORRETA. Não é o núcleo do fenótipo humoral clássico.\nC) CORRETA. Descrição adequada.\nD) INCORRETA. Padrão mais ligado a outro braço imune.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2022,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Mulher com episódios recorrentes de vesículas dolorosas periorais no mesmo sítio, gatilhados por estresse febril. Qual conceito biológico explica melhor essa história natural?",
+    "opcoes": [
+      "A) Latência viral com reativação endógena, sem necessidade de nova aquisição a cada surto.",
+      "B) Reinfecção exógena obrigatória em todo episódio.",
+      "C) Hipersensibilidade cutânea mediada exclusivamente por IgE.",
+      "D) Infecção bacteriana recorrente do folículo piloso."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Herpesvírus persistem de forma latente e podem reativar; recorrência no mesmo território sugere reativação.",
+    "explicacoes_opcoes": {
+      "A": "Correta: latência é marca dos herpesvírus.",
+      "B": "Incorreta: nem todo episódio implica nova infecção.",
+      "C": "Incorreta: não explica o padrão herpético clássico.",
+      "D": "Incorreta: morfologia e história não são típicas de piodermite recorrente isolada."
+    },
+    "explicacao": "Resumo: Herpesvírus persistem de forma latente e podem reativar; recorrência no mesmo território sugere reativação.\nA) CORRETA. Correta: latência é marca dos herpesvírus.\nB) INCORRETA. Incorreta: nem todo episódio implica nova infecção.\nC) INCORRETA. Incorreta: não explica o padrão herpético clássico.\nD) INCORRETA. Incorreta: morfologia e história não são típicas de piodermite recorrente isolada.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2023,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual descrição morfológica é mais típica de lesões mucocutâneas por HSV em surto?",
+    "opcoes": [
+      "A) Placa eritematosa descamativa sem vesícula.",
+      "B) Vesículas agrupadas sobre base eritematosa, dolorosas, com evolução para erosão/úlcera superficial.",
+      "C) Mácula hipocrômica não inflamatória.",
+      "D) Nódulo endurecido indolor com evolução em meses."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "HSV costuma produzir vesículas dolorosas agrupadas, com curso autolimitado e recidivas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ausência de vesículas tira o padrão clássico.",
+      "B": "Correta: descrição alinhada ao material.",
+      "C": "Incorreta: não corresponde ao herpes ativo.",
+      "D": "Incorreta: cronologia e morfologia não sugerem HSV."
+    },
+    "explicacao": "Resumo: HSV costuma produzir vesículas dolorosas agrupadas, com curso autolimitado e recidivas.\nA) INCORRETA. Incorreta: ausência de vesículas tira o padrão clássico.\nB) CORRETA. Correta: descrição alinhada ao material.\nC) INCORRETA. Incorreta: não corresponde ao herpes ativo.\nD) INCORRETA. Incorreta: cronologia e morfologia não sugerem HSV.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2028,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Sobre a primoinfecção por HSV versus episódios recorrentes, qual afirmação costuma ser verdadeira?",
+    "opcoes": [
+      "A) Os episódios recorrentes são sempre mais exuberantes que o primeiro episódio.",
+      "B) A primoinfecção tende a ser mais intensa; recidivas costumam ser mais localizadas pela resposta imune parcial.",
+      "C) HSV nunca recidiva após o primeiro surto.",
+      "D) Recorrência indica obrigatoriamente nova infecção sexual com cepa diferente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Primeiro episódio frequentemente mais sintomático; recidivas são recorrentes e muitas vezes mais leves.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte a regra prática.",
+      "B": "Correta: coerente com imunidade parcial.",
+      "C": "Incorreta: latência permite recidivas.",
+      "D": "Incorreta: reativação endógena é comum."
+    },
+    "explicacao": "Resumo: Primeiro episódio frequentemente mais sintomático; recidivas são recorrentes e muitas vezes mais leves.\nA) INCORRETA. Incorreta: inverte a regra prática.\nB) INCORRETA. Correta: coerente com imunidade parcial.\nC) CORRETA. Incorreta: latência permite recidivas.\nD) INCORRETA. Incorreta: reativação endógena é comum.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2029,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual característica melhor define a biologia dos herpesvírus em relação à persistência no hospedeiro?",
+    "opcoes": [
+      "A) Eliminção completa do genoma após o primeiro surto.",
+      "B) Replicação exclusiva extracelular.",
+      "C) O vírus deixa de existir após antibioticoterapia.",
+      "D) Capacidade de latência com possível reativação ao longo da vida."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Latência é assinatura dos herpesvírus e explica recorrência.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: persistência é a regra.",
+      "B": "Incorreta: replicação é intracelular.",
+      "C": "Incorreta: antibióticos não curam vírus.",
+      "D": "Correta: conceito central."
+    },
+    "explicacao": "Resumo: Latência é assinatura dos herpesvírus e explica recorrência.\nA) INCORRETA. Incorreta: persistência é a regra.\nB) INCORRETA. Incorreta: replicação é intracelular.\nC) INCORRETA. Incorreta: antibióticos não curam vírus.\nD) CORRETA. Correta: conceito central.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2030,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Paciente imunocompetente relata queimação e vesículas em pequena área labial que regredem em dias; quadro se repete nos últimos anos. Qual interpretação é mais adequada?",
+    "opcoes": [
+      "A) Infecção fúngica profunda de via aérea.",
+      "B) Pênfigo vulgar com surtos imprevisíveis.",
+      "C) Padrão compatível com herpes labial recorrente por reativação de HSV, habitualmente autolimitado.",
+      "D) Tuberculose cutânea primária."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Lesões recorrentes dolorosas em território semelhante sugerem HSV e reativação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: morfologia e curso não sugerem micose profunda.",
+      "B": "Incorreta: pênfigo tem outra evolução.",
+      "C": "Correta: leitura clínica coerente.",
+      "D": "Incorreta: incompatível com descrição."
+    },
+    "explicacao": "Resumo: Lesões recorrentes dolorosas em território semelhante sugerem HSV e reativação.\nA) INCORRETA. Incorreta: morfologia e curso não sugerem micose profunda.\nB) INCORRETA. Incorreta: pênfigo tem outra evolução.\nC) CORRETA. Correta: leitura clínica coerente.\nD) INCORRETA. Incorreta: incompatível com descrição.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2032,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual via de transmissão é classicamente associada ao poliovírus em contexto epidemiológico?",
+    "opcoes": [
+      "A) Principalmente fecal-oral, relacionada a condições sanitárias e higiene.",
+      "B) Aerossol respiratório de longo alcance como única forma.",
+      "C) Transfusão sanguínea como mecanismo dominante.",
+      "D) Contato sexual exclusivamente."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Poliovírus é enterovírus transmitido classicamente por via fecal-oral.",
+    "explicacoes_opcoes": {
+      "A": "Correta: transmissão clássica descrita.",
+      "B": "Incorreta: não é a única/central na descrição tradicional.",
+      "C": "Incorreta: não é o padrão principal.",
+      "D": "Incorreta: não é a via clássica."
+    },
+    "explicacao": "Resumo: Poliovírus é enterovírus transmitido classicamente por via fecal-oral.\nA) CORRETA. Correta: transmissão clássica descrita.\nB) INCORRETA. Incorreta: não é a única/central na descrição tradicional.\nC) INCORRETA. Incorreta: não é o padrão principal.\nD) INCORRETA. Incorreta: não é a via clássica.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2033,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Sobre a infecção inicial pelo poliovírus, qual afirmação está correta?",
+    "opcoes": [
+      "A) O vírus inicia diretamente no córtex cerebral sem passagem intestinal.",
+      "B) A porta de entrada mais lembrada é o trato gastrointestinal, e a maioria das infecções não evolui para forma paralítica.",
+      "C) Todos os infectados desenvolvem paralisia flácida.",
+      "D) A transmissão ocorre apenas por picada de artrópode."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Replicação entérica precede eventual disseminação; a maioria dos casos não é paralítica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não começa como neuroinvasão universal direta.",
+      "B": "Correta: coerente com epidemiologia e biologia.",
+      "C": "Incorreta: paralisia é minoria.",
+      "D": "Incorreta: arbovírus usam vetor; pólio não é esse padrão."
+    },
+    "explicacao": "Resumo: Replicação entérica precede eventual disseminação; a maioria dos casos não é paralítica.\nA) INCORRETA. Incorreta: não começa como neuroinvasão universal direta.\nB) CORRETA. Correta: coerente com epidemiologia e biologia.\nC) INCORRETA. Incorreta: paralisia é minoria.\nD) INCORRETA. Incorreta: arbovírus usam vetor; pólio não é esse padrão.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2036,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual afirmação sobre a maioria das infecções por poliovírus está correta?",
+    "opcoes": [
+      "A) Evoluem para paralisia em mais de 50% dos casos.",
+      "B) São assintomáticas ou oligossintomáticas na maior parte, o que não elimina importância epidemiológica.",
+      "C) Causam sempre meningite purulenta.",
+      "D) Produzem convulsões como única manifestação."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A maioria não desenvolve forma paralítica, mas a circulação viral ainda importa para vigilância.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: paralisia é exceção, não regra.",
+      "B": "Correta: proporção assintomática ou leve é alta.",
+      "C": "Incorreta: meningite purulenta sugere outra etiologia.",
+      "D": "Incorreta: não é padrão único."
+    },
+    "explicacao": "Resumo: A maioria não desenvolve forma paralítica, mas a circulação viral ainda importa para vigilância.\nA) INCORRETA. Incorreta: paralisia é exceção, não regra.\nB) CORRETA. Correta: proporção assintomática ou leve é alta.\nC) INCORRETA. Incorreta: meningite purulenta sugere outra etiologia.\nD) INCORRETA. Incorreta: não é padrão único.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2038,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual manifestação neurológica é mais classicamente associada à forma paralítica da poliomielite?",
+    "opcoes": [
+      "A) Encefalopatia difusa com rebaixamento sem déficit motor focal.",
+      "B) Crise epiléptica generalizada isolada sem fraqueza.",
+      "C) Ataxia cerebelar pura sem fraqueza.",
+      "D) Paralisia flácida aguda, frequentemente assimétrica, com hiporreflexia."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O temido é paralisia flácida por comprometimento de neurônio motor inferior.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o núcleo clássico da pólio paralítica.",
+      "B": "Incorreta: sem fraqueza não fecha poliomielite.",
+      "C": "Incorreta: padrão não é cerebelar isolado.",
+      "D": "Correta: semiologia típica."
+    },
+    "explicacao": "Resumo: O temido é paralisia flácida por comprometimento de neurônio motor inferior.\nA) INCORRETA. Incorreta: não é o núcleo clássico da pólio paralítica.\nB) INCORRETA. Incorreta: sem fraqueza não fecha poliomielite.\nC) INCORRETA. Incorreta: padrão não é cerebelar isolado.\nD) CORRETA. Correta: semiologia típica.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2041,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual medida tem o maior impacto populacional na redução da incidência de poliomielite paralítica?",
+    "opcoes": [
+      "A) Uso profilático de antibióticos de amplo espectro na comunidade.",
+      "B) Hidratação oral exclusiva em surtos.",
+      "C) Imunização ampla e manutenção de altas coberturas vacinais com vigilância.",
+      "D) Isolamento domiciliar sem vacinação."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Vacinação em massa é o instrumento central de controle da poliomielite.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: antibióticos não previnem poliovírus.",
+      "B": "Incorreta: suporte não substitui imunização.",
+      "C": "Correta: prevenção primária é vacina.",
+      "D": "Incorreta: isolamento sem imunização não elimina circulação."
+    },
+    "explicacao": "Resumo: Vacinação em massa é o instrumento central de controle da poliomielite.\nA) INCORRETA. Incorreta: antibióticos não previnem poliovírus.\nB) INCORRETA. Incorreta: suporte não substitui imunização.\nC) CORRETA. Correta: prevenção primária é vacina.\nD) INCORRETA. Incorreta: isolamento sem imunização não elimina circulação.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2044,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual arbovirose costuma destacar-se por artralgia intensa e incapacitante, muitas vezes prolongada, em surtos urbanos?",
+    "opcoes": [
+      "A) Dengue, prioritariamente pelo padrão articular exclusivo.",
+      "B) Zika, pelo componente articular dominante em relação ao exantema.",
+      "C) Chikungunya, com dor articular muito proeminente no quadro agudo e possível persistência.",
+      "D) Febre amarela, pelo comprometimento articular simétrico."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Chikungunya clássica: febre com artralgia intensa; dengue pesa mais por gravidade hemodinâmica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: dengue não é definida por artralgia dominante.",
+      "B": "Incorreta: Zika tem outro perfil (exantema/gestação).",
+      "C": "Correta: pista clínica típica.",
+      "D": "Incorreta: febre amarela não é esse quadro articular clássico."
+    },
+    "explicacao": "Resumo: Chikungunya clássica: febre com artralgia intensa; dengue pesa mais por gravidade hemodinâmica.\nA) INCORRETA. Incorreta: dengue não é definida por artralgia dominante.\nB) INCORRETA. Incorreta: Zika tem outro perfil (exantema/gestação).\nC) CORRETA. Correta: pista clínica típica.\nD) INCORRETA. Incorreta: febre amarela não é esse quadro articular clássico.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2046,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Após redução da febre em paciente com dengue, qual afirmação é mais segura clinicamente?",
+    "opcoes": [
+      "A) A defervescência por si só garante que o risco de complicações graves já passou nas próximas horas.",
+      "B) A fase crítica pode coincidir com o período pós-febre; a estabilidade deve ser confirmada por sinais de perfusão e alarmes, não apenas pela queda térmica.",
+      "C) Todos os pacientes podem deixar de ser observados imediatamente após a queda da febre.",
+      "D) Hemoconcentração isolada exclui gravidade em qualquer cenário."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Na dengue, melhora térmica não substitui avaliação de sinais de alarme e risco de extravasamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a defervescência pode preceder piora hemodinâmica.",
+      "B": "Correta: vigilância clínica continua necessária após a febre cair.",
+      "C": "Incorreta: observação depende do quadro e dos alarmes.",
+      "D": "Incorreta: laboratório e clínica devem ser interpretados em conjunto."
+    },
+    "explicacao": "Resumo: Na dengue, melhora térmica não substitui avaliação de sinais de alarme e risco de extravasamento.\nA) INCORRETA. Incorreta: a defervescência pode preceder piora hemodinâmica.\nB) CORRETA. Correta: vigilância clínica continua necessária após a febre cair.\nC) INCORRETA. Incorreta: observação depende do quadro e dos alarmes.\nD) INCORRETA. Incorreta: laboratório e clínica devem ser interpretados em conjunto.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2048,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Paciente com suspeita de dengue apresenta trombocitopenia, sem sangramento espontâneo nem sinais de alarme no momento. Qual leitura é mais adequada?",
+    "opcoes": [
+      "A) A contagem isolada de plaquetas define gravidade sem necessidade de exame clínico.",
+      "B) Ausência de sangramento exclui qualquer risco nas próximas 48 horas.",
+      "C) Na dengue, a gravidade depende do conjunto clínico (alarmes, perfusão, hemoconcentração), não de um único número laboratorial.",
+      "D) Plaquetas baixas indicam sempre choque hemorrágico instalado."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Risco na dengue integra clínica, fase da doença e laboratório; alarmes superam achados isolados.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: decisão não pode ser só laboratorial.",
+      "B": "Incorreta: evolução pode mudar rapidamente; vigilância importa.",
+      "C": "Correta: interpretação sindrômica.",
+      "D": "Incorreta: trombocitopenia não equivale automaticamente a choque."
+    },
+    "explicacao": "Resumo: Risco na dengue integra clínica, fase da doença e laboratório; alarmes superam achados isolados.\nA) INCORRETA. Incorreta: decisão não pode ser só laboratorial.\nB) INCORRETA. Incorreta: evolução pode mudar rapidamente; vigilância importa.\nC) CORRETA. Correta: interpretação sindrômica.\nD) INCORRETA. Incorreta: trombocitopenia não equivale automaticamente a choque.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2050,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual característica define arbovírus no contexto desta aula (transmissão e vigilância em saúde)?",
+    "opcoes": [
+      "A) Transmissão exclusivamente fecal-oral.",
+      "B) Replicação apenas em hospedeiros aves silvestres, sem vetor.",
+      "C) Vírus biologicamente dependentes de transmissão por artrópode vetor (ex.: mosquitos) em cenários urbanos clássicos.",
+      "D) Transmissão apenas por transfusão sanguínea."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Arbovírus são transmitidos por artrópodes vetores; dengue, Zika e Chikungunya compartilham vetor no Brasil.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: fecal-oral não define arbovírus.",
+      "B": "Incorreta: vetor é central na definição prática.",
+      "C": "Correta: transmissão vetorial é o eixo.",
+      "D": "Incorreta: não é o mecanismo principal discutido."
+    },
+    "explicacao": "Resumo: Arbovírus são transmitidos por artrópodes vetores; dengue, Zika e Chikungunya compartilham vetor no Brasil.\nA) INCORRETA. Incorreta: fecal-oral não define arbovírus.\nB) INCORRETA. Incorreta: vetor é central na definição prática.\nC) CORRETA. Correta: transmissão vetorial é o eixo.\nD) INCORRETA. Incorreta: não é o mecanismo principal discutido.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2051,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Em paciente febril com suspeita de arbovirose transmitida pelo mesmo vetor, qual estratégia raciocina melhor o diagnóstico sindrômico inicial?",
+    "opcoes": [
+      "A) Escolher o diagnóstico apenas pela presença de exantema.",
+      "B) Considerar dengue sempre que a febre for alta, ignorando alarmes e fase clínica.",
+      "C) Fechar Chikungunya em qualquer dor muscular leve.",
+      "D) Priorizar o sintoma dominante, a complicação mais temida de cada doença e o contexto epidemiológico para diferenciar dengue, Zika e Chikungunya."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O sintoma que lidera o quadro e o tipo de complicação esperada separam arboviroses que se assemelham no início.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: exantema é compartilhado e inespecífico.",
+      "B": "Incorreta: gravidade na dengue exige avaliação de alarmes e fase crítica.",
+      "C": "Incorreta: dor articular intensa pesa mais para Chikungunya do que mialgia leve.",
+      "D": "Correta: integração clínico-epidemiológica."
+    },
+    "explicacao": "Resumo: O sintoma que lidera o quadro e o tipo de complicação esperada separam arboviroses que se assemelham no início.\nA) INCORRETA. Incorreta: exantema é compartilhado e inespecífico.\nB) INCORRETA. Incorreta: gravidade na dengue exige avaliação de alarmes e fase crítica.\nC) INCORRETA. Incorreta: dor articular intensa pesa mais para Chikungunya do que mialgia leve.\nD) CORRETA. Correta: integração clínico-epidemiológica.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2052,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Homem, 38 anos, retorna de viagem à região amazônica com febre intermitente, calafrios e sudorese. Qual mecanismo fisiopatológico explica melhor o padrão febril típico da malária não complicada?",
+    "opcoes": [
+      "A) Liberação de formas eritrocitárias em ciclos sucessivos, com hemólise e estímulo de mediadores pirogênicos.",
+      "B) Granuloma hepático por ovos de Schistosoma com febre constante.",
+      "C) Reativação de bradicizoítos cerebrais por Toxoplasma gondii.",
+      "D) Miocardite aguda isolada por Trypanosoma cruzi sem parasitemia."
+    ],
+    "explicacao_geral": "Na malária, o ciclo eritrocitário libera merozoítos e produtos parasitários que desencadeiam picos febris recorrentes.",
+    "explicacoes_opcoes": {
+      "A": "Corresponde ao parasitismo eritrocitário e aos ciclos de replicação/liberação.",
+      "B": "Refere esquistossomose; padrão febril e fase de vida do parasita são diferentes.",
+      "C": "Toxoplasmose no SNC não explica febre periódica típica de malária.",
+      "D": "Chagas pode cursar com febre, mas o quadro clássico de picos recorrentes por parasitemia eritrocitária é da malária."
+    },
+    "explicacao": "Resumo: Na malária, o ciclo eritrocitário libera merozoítos e produtos parasitários que desencadeiam picos febris recorrentes.\nA) CORRETA. Corresponde ao parasitismo eritrocitário e aos ciclos de replicação/liberação.\nB) INCORRETA. Refere esquistossomose; padrão febril e fase de vida do parasita são diferentes.\nC) INCORRETA. Toxoplasmose no SNC não explica febre periódica típica de malária.\nD) INCORRETA. Chagas pode cursar com febre, mas o quadro clássico de picos recorrentes por parasitemia eritrocitária é da malária.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2055,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual via de transmissão é mais característica da infecção humana por Trypanosoma cruzi em áreas com presença do vetor?",
+    "opcoes": [
+      "A) Ingestão de carnes cruas com cisticercos.",
+      "B) Picada de anofelinos infectados.",
+      "C) Penetração cutânea de cercárias em água doce.",
+      "D) Contato com fezes de triatomíneos contaminadas com formas infectantes do parasita."
+    ],
+    "explicacao_geral": "O ciclo doméstico-silvestre envolve triatomíneos e contato com dejetos infectantes na pele ou mucosas.",
+    "explicacoes_opcoes": {
+      "A": "Relaciona-se a teníase/cisticercose, não à transmissão clássica da Chagas.",
+      "B": "Anofelinos transmitem Plasmodium (malária).",
+      "C": "Cercárias referem-se a esquistossomose.",
+      "D": "Mecanismo clássico de transmissão vetorial da doença de Chagas."
+    },
+    "explicacao": "Resumo: O ciclo doméstico-silvestre envolve triatomíneos e contato com dejetos infectantes na pele ou mucosas.\nA) INCORRETA. Relaciona-se a teníase/cisticercose, não à transmissão clássica da Chagas.\nB) INCORRETA. Anofelinos transmitem Plasmodium (malária).\nC) INCORRETA. Cercárias referem-se a esquistossomose.\nD) CORRETA. Mecanismo clássico de transmissão vetorial da doença de Chagas.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2059,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Qual dos agentes abaixo é um protozoário causador de doença incluída no grupo malária, Chagas e toxoplasmose?",
+    "opcoes": [
+      "A) Ascaris lumbricoides.",
+      "B) Taenia solium.",
+      "C) Strongyloides stercoralis.",
+      "D) Plasmodium spp."
+    ],
+    "explicacao_geral": "Plasmodium são protozoários hemoparasitas responsáveis pela malária.",
+    "explicacoes_opcoes": {
+      "A": "Helminto; não é protozoário.",
+      "B": "Cestoide; não é protozoário.",
+      "C": "Nematódeo; não é protozoário.",
+      "D": "Protozoário (hemoparasita) da malária."
+    },
+    "explicacao": "Resumo: Plasmodium são protozoários hemoparasitas responsáveis pela malária.\nA) INCORRETA. Helminto; não é protozoário.\nB) INCORRETA. Cestoide; não é protozoário.\nC) INCORRETA. Nematódeo; não é protozoário.\nD) CORRETA. Protozoário (hemoparasita) da malária.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2060,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual exame parasitológico direto é mais adequado para confirmar suspeita de malária em paciente febril com epidemiologia compatível?",
+    "opcoes": [
+      "A) Gotinha espessa e/ou esfregaço de sangue periférico para detecção de formas eritrocitárias.",
+      "B) Parasitológico de fezes para helmintos como primeira linha exclusiva.",
+      "C) Sorologia para HIV.",
+      "D) Urocultura de rotina."
+    ],
+    "explicacao_geral": "O diagnóstico de malária baseia-se na demonstração do parasita em sangue periférico.",
+    "explicacoes_opcoes": {
+      "A": "Correto: método padrão para identificar Plasmodium no sangue.",
+      "B": "Avalia helmintos; não substitui o esfregaço na suspeita de malária.",
+      "C": "Não diagnostica malária.",
+      "D": "Não relacionado à confirmação parasitológica da malária."
+    },
+    "explicacao": "Resumo: O diagnóstico de malária baseia-se na demonstração do parasita em sangue periférico.\nA) CORRETA. Correto: método padrão para identificar Plasmodium no sangue.\nB) INCORRETA. Avalia helmintos; não substitui o esfregaço na suspeita de malária.\nC) INCORRETA. Não diagnostica malária.\nD) INCORRETA. Não relacionado à confirmação parasitológica da malária.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2061,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Em relação à toxoplasmose, qual população de hospedeiros costuma ter maior risco de doença disseminada grave?",
+    "opcoes": [
+      "A) Atletas jovens imunocompetentes sem comorbidades.",
+      "B) Lactentes alimentados exclusivamente ao seio sem exposições.",
+      "C) Imunossuprimidos graves, como pacientes com AIDS avançada ou uso intensivo de imunossupressores.",
+      "D) Indivíduos com hipertensão arterial sistêmica controlada."
+    ],
+    "explicacao_geral": "A reativação e a disseminação de Toxoplasma predominam com imunodepressão severa.",
+    "explicacoes_opcoes": {
+      "A": "Imunocompetentes raramente evoluem com toxoplasmose cerebral disseminada típica.",
+      "B": "Não define por si só o maior risco de forma grave disseminada como na imunossupressão severa.",
+      "C": "Correto: risco elevado de encefalite e outras formas graves.",
+      "D": "Hipertensão não é fator clássico de toxoplasmose disseminada."
+    },
+    "explicacao": "Resumo: A reativação e a disseminação de Toxoplasma predominam com imunodepressão severa.\nA) INCORRETA. Imunocompetentes raramente evoluem com toxoplasmose cerebral disseminada típica.\nB) INCORRETA. Não define por si só o maior risco de forma grave disseminada como na imunossupressão severa.\nC) CORRETA. Correto: risco elevado de encefalite e outras formas graves.\nD) INCORRETA. Hipertensão não é fator clássico de toxoplasmose disseminada.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2062,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual achado laboratorial é frequente como pista de parasitismo por helmintos no contexto de quadro digestivo e epidemiologia compatível?",
+    "opcoes": [
+      "A) Eosinofilia periférica associada à resposta imune de tipo 2 contra parasitos.",
+      "B) Linfopenia severa como regra sem outra causa.",
+      "C) Trombocitopenia isolada como marcador específico.",
+      "D) Hipernatremia como critério diagnóstico."
+    ],
+    "explicacao_geral": "Muitas helmintíases desencadeiam eosinofilia, embora não seja patognomônica.",
+    "explicacoes_opcoes": {
+      "A": "Correto: pista comum, a ser correlacionada clinicamente.",
+      "B": "Não é o padrão clássico descrito para helmintíase intestinal típica.",
+      "C": "Não específico de helmintíase.",
+      "D": "Sem relação direta com o marcador discutido."
+    },
+    "explicacao": "Resumo: Muitas helmintíases desencadeiam eosinofilia, embora não seja patognomônica.\nA) CORRETA. Correto: pista comum, a ser correlacionada clinicamente.\nB) INCORRETA. Não é o padrão clássico descrito para helmintíase intestinal típica.\nC) INCORRETA. Não específico de helmintíase.\nD) INCORRETA. Sem relação direta com o marcador discutido.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2064,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual característica diferencia Strongyloides stercoralis de muitos outros nematódeos intestinais no hospedeiro humano?",
+    "opcoes": [
+      "A) Ausência total de eosinofilia em qualquer fase.",
+      "B) Ciclo exclusivamente fecal-oral sem penetração de larvas.",
+      "C) Possibilidade de autoinfecção interna, perpetuando a parasitagem por longos períodos.",
+      "D) Transmissão apenas por vetor artrópode hematófago obrigatório."
+    ],
+    "explicacao_geral": "Strongyloides pode autoinfectar, o que explica persistência e risco em imunossuprimidos.",
+    "explicacoes_opcoes": {
+      "A": "Eosinofilia pode ocorrer; não é regra de ausência.",
+      "B": "Há penetração de larvas e ciclo complexo.",
+      "C": "Correto: autoinfecção é marca importante do parasita.",
+      "D": "Transmissão não depende de vetor como na malária."
+    },
+    "explicacao": "Resumo: Strongyloides pode autoinfectar, o que explica persistência e risco em imunossuprimidos.\nA) INCORRETA. Eosinofilia pode ocorrer; não é regra de ausência.\nB) INCORRETA. Há penetração de larvas e ciclo complexo.\nC) CORRETA. Correto: autoinfecção é marca importante do parasita.\nD) INCORRETA. Transmissão não depende de vetor como na malária.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2069,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 2,
+    "enunciado": "Qual afirmação sobre Strongyloides stercoralis e risco de hiperinfecção está correta?",
+    "opcoes": [
+      "A) Hiperinfecção só ocorre em crianças e nunca em adultos.",
+      "B) Imunocompetentes têm risco zero absoluto de formas graves.",
+      "C) Imunossupressão, especialmente corticosteroides, aumenta fortemente o risco de hiperinfecção e desfechos graves.",
+      "D) O parasita não atravessa a mucosa intestinal em nenhuma situação."
+    ],
+    "explicacao_geral": "Corticosteroides e outras imunossupressões são fatores de risco clássicos.",
+    "explicacoes_opcoes": {
+      "A": "Adultos imunossuprimidos são grupo de risco.",
+      "B": "Risco relativo menor, mas não “zero absoluto” em todos os cenários discutidos na literatura clínica.",
+      "C": "Correto.",
+      "D": "Strongyloides atravessa mucosa; afirmação falsa."
+    },
+    "explicacao": "Resumo: Corticosteroides e outras imunossupressões são fatores de risco clássicos.\nA) INCORRETA. Adultos imunossuprimidos são grupo de risco.\nB) INCORRETA. Risco relativo menor, mas não “zero absoluto” em todos os cenários discutidos na literatura clínica.\nC) CORRETA. Correto.\nD) INCORRETA. Strongyloides atravessa mucosa; afirmação falsa.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2070,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "No diagnóstico de helmintíase intestinal, qual princípio é mais adequado?",
+    "opcoes": [
+      "A) Integrar clínica, epidemiologia e métodos parasitológicos, repetindo exames quando necessário.",
+      "B) Basear-se apenas em ultrassom abdominal sem correlacionar com fezes.",
+      "C) Diagnosticar exclusivamente por nível de IgE total.",
+      "D) Descartar parasitismo se o paciente não tiver eosinofilia."
+    ],
+    "explicacao_geral": "Diagnóstico parasitológico exige correlação e, às vezes, amostras seriadas.",
+    "explicacoes_opcoes": {
+      "A": "Abordagem correta.",
+      "B": "Imagem pode auxiliar em complicações, mas não substitui o eixo parasitológico.",
+      "C": "IgE total não é específico.",
+      "D": "Eosinofilia pode estar ausente; não exclui diagnóstico."
+    },
+    "explicacao": "Resumo: Diagnóstico parasitológico exige correlação e, às vezes, amostras seriadas.\nA) CORRETA. Abordagem correta.\nB) INCORRETA. Imagem pode auxiliar em complicações, mas não substitui o eixo parasitológico.\nC) INCORRETA. IgE total não é específico.\nD) INCORRETA. Eosinofilia pode estar ausente; não exclui diagnóstico.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2071,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual distinção melhor descreve a estrongiloidíase simples versus hiperinfecção?",
+    "opcoes": [
+      "A) São idênticas em qualquer hospedeiro.",
+      "B) Na hiperinfecção há replicação/autoinfecção massiva e disseminação larval, com maior gravidade em imunossuprimidos.",
+      "C) Hiperinfecção ocorre apenas por transmissão sexual.",
+      "D) Strongyloides não causa envolvimento pulmonar em nenhuma fase."
+    ],
+    "explicacao_geral": "Hiperinfecção implica carga larval elevada e risco sistêmico.",
+    "explicacoes_opcoes": {
+      "A": "Falso; gravidade e disseminação diferem.",
+      "B": "Correto.",
+      "C": "Transmissão não é predominantemente sexual.",
+      "D": "Fase de migração pode envolver pulmão."
+    },
+    "explicacao": "Resumo: Hiperinfecção implica carga larval elevada e risco sistêmico.\nA) INCORRETA. Falso; gravidade e disseminação diferem.\nB) CORRETA. Correto.\nC) INCORRETA. Transmissão não é predominantemente sexual.\nD) INCORRETA. Fase de migração pode envolver pulmão.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2072,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Na teníase intestinal por Taenia solium, qual é a forma parasitária predominante no intestino humano?",
+    "opcoes": [
+      "A) Verme adulto fixado à mucosa intestinal, com possível eliminação de proglotes nas fezes.",
+      "B) Cisticerco no músculo esquelético exclusivamente.",
+      "C) Somente ovos no sangue periférico.",
+      "D) Trofozoítos no cólon sem forma adulta."
+    ],
+    "explicacao_geral": "Teníase corresponde à infecção pelo estádio adulto no intestino.",
+    "explicacoes_opcoes": {
+      "A": "Correto: cestódeo adulto no lúmen intestinal.",
+      "B": "Cisticercose é estádio larvar em tecidos; não define teníase intestinal.",
+      "C": "Ovos aparecem nas fezes, não como critério de “somente no sangue”.",
+      "D": "Não descreve teníase por Taenia solium."
+    },
+    "explicacao": "Resumo: Teníase corresponde à infecção pelo estádio adulto no intestino.\nA) CORRETA. Correto: cestódeo adulto no lúmen intestinal.\nB) INCORRETA. Cisticercose é estádio larvar em tecidos; não define teníase intestinal.\nC) INCORRETA. Ovos aparecem nas fezes, não como critério de “somente no sangue”.\nD) INCORRETA. Não descreve teníase por Taenia solium.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2073,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Qual afirmação compara corretamente teníase e neurocisticercose?",
+    "opcoes": [
+      "A) São a mesma entidade clínica com o mesmo estádio parasitário.",
+      "B) Teníase envolve verme adulto intestinal; neurocisticercose é infecção por larva de Taenia solium no SNC.",
+      "C) Ambas são causadas exclusivamente por bactérias Gram-positivas.",
+      "D) Neurocisticercose ocorre apenas por picada de mosquito."
+    ],
+    "explicacao_geral": "Hospedeiro definitivo carrega adulto; hospedeiro intermediário pode desenvolver cisticercos.",
+    "explicacoes_opcoes": {
+      "A": "Estádios e localização diferem.",
+      "B": "Correto.",
+      "C": "Agente é cestódeo, não bactéria.",
+      "D": "Transmissão relaciona-se a ciclos fecal-oral e ovos, não vetor artrópode."
+    },
+    "explicacao": "Resumo: Hospedeiro definitivo carrega adulto; hospedeiro intermediário pode desenvolver cisticercos.\nA) INCORRETA. Estádios e localização diferem.\nB) CORRETA. Correto.\nC) INCORRETA. Agente é cestódeo, não bactéria.\nD) INCORRETA. Transmissão relaciona-se a ciclos fecal-oral e ovos, não vetor artrópode.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2075,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual medida de prevenção da cisticercose humana é mais central em comunidades com saneamento precário?",
+    "opcoes": [
+      "A) Uso profilático de antibiótico de amplo espectro em toda população.",
+      "B) Exclusão total de carboidratos na dieta.",
+      "C) Vacinação universal contra vírus influenza como prioridade única.",
+      "D) Higiene das mãos, saneamento e evitar fecalismo que propicie ingestão de ovos de Taenia solium."
+    ],
+    "explicacao_geral": "A cisticercose humana está ligada à ingestão de ovos excretados; saneamento e higiene reduzem transmissão.",
+    "explicacoes_opcoes": {
+      "A": "Não é estratégia de prevenção primária adequada.",
+      "B": "Irrelevante ao ciclo parasitário.",
+      "C": "Não previne cisticercose.",
+      "D": "Correto: quebra fecal-oral e melhora de infraestrutura sanitária."
+    },
+    "explicacao": "Resumo: A cisticercose humana está ligada à ingestão de ovos excretados; saneamento e higiene reduzem transmissão.\nA) INCORRETA. Não é estratégia de prevenção primária adequada.\nB) INCORRETA. Irrelevante ao ciclo parasitário.\nC) INCORRETA. Não previne cisticercose.\nD) CORRETA. Correto: quebra fecal-oral e melhora de infraestrutura sanitária.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2079,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "O cisticerco corresponde a qual estádio do Taenia solium?",
+    "opcoes": [
+      "A) Ovo imaturo apenas no ambiente externo.",
+      "B) Verme adulto no intestino delgado.",
+      "C) Trofozoíto luminal de protozoário.",
+      "D) Larva (metacestódeo) que se forma nos tecidos do hospedeiro intermediário."
+    ],
+    "explicacao_geral": "Cisticerco é a larva de Taenia solium nos tecidos.",
+    "explicacoes_opcoes": {
+      "A": "Ovos são estádio anterior à larva tecidual.",
+      "B": "Adulto intestinal causa teníase.",
+      "C": "Não se aplica a cestódeos.",
+      "D": "Definição correta do cisticerco."
+    },
+    "explicacao": "Resumo: Cisticerco é a larva de Taenia solium nos tecidos.\nA) INCORRETA. Ovos são estádio anterior à larva tecidual.\nB) INCORRETA. Adulto intestinal causa teníase.\nC) INCORRETA. Não se aplica a cestódeos.\nD) CORRETA. Definição correta do cisticerco.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2081,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Na cadeia de transmissão, quem costuma exercer papel de hospedeiro definitivo do Taenia solium?",
+    "opcoes": [
+      "A) O porco como regra absoluta para o verme adulto.",
+      "B) O cão doméstico exclusivamente.",
+      "C) O ser humano, harboreando o verme adulto no intestino quando ingere carne com cisticercos vivos.",
+      "D) O vetor anofelino."
+    ],
+    "explicacao_geral": "O hospedeiro definitivo natural do T. solium adulto é o humano.",
+    "explicacoes_opcoes": {
+      "A": "Porco é hospedeiro intermediário larvar.",
+      "B": "Não é hospedeiro definitivo clássico.",
+      "C": "Correto.",
+      "D": "Sem papel na transmissão clássica do cestódeo."
+    },
+    "explicacao": "Resumo: O hospedeiro definitivo natural do T. solium adulto é o humano.\nA) INCORRETA. Porco é hospedeiro intermediário larvar.\nB) INCORRETA. Não é hospedeiro definitivo clássico.\nC) CORRETA. Correto.\nD) INCORRETA. Sem papel na transmissão clássica do cestódeo.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2082,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Os beta-lactâmicos exercem o efeito bactericida principalmente por qual mecanismo?",
+    "opcoes": [
+      "A) Inibição da síntese da parede celular bacteriana ao bloquear a reticulação de peptidoglicano via interação com proteínas ligadoras de penicilina.",
+      "B) Inibição da subunidade 50S do ribossomo bacteriano.",
+      "C) Intercalação no DNA bacteriano.",
+      "D) Inibição exclusiva da DNA girase sem efeito na parede."
+    ],
+    "explicacao_geral": "Beta-lactâmicos bloqueiam enzimas de síntese de parede (PBPs).",
+    "explicacoes_opcoes": {
+      "A": "Mecanismo correto.",
+      "B": "Macrolídeos/lincosamidas agem em subunidade ribossomal; não é o principal dos beta-lactâmicos.",
+      "C": "Quinolonas e outros têm outros alvos.",
+      "D": "Quinolonas inibem topoisomerases."
+    },
+    "explicacao": "Resumo: Beta-lactâmicos bloqueiam enzimas de síntese de parede (PBPs).\nA) CORRETA. Mecanismo correto.\nB) INCORRETA. Macrolídeos/lincosamidas agem em subunidade ribossomal; não é o principal dos beta-lactâmicos.\nC) INCORRETA. Quinolonas e outros têm outros alvos.\nD) INCORRETA. Quinolonas inibem topoisomerases.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2084,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Por que os beta-lactâmicos costumam ter maior eficácia contra bacilos em multiplicação ativa?",
+    "opcoes": [
+      "A) Porque só funcionam em esporos inertes.",
+      "B) Porque não penetram nunca na parede.",
+      "C) Porque a síntese de peptidoglicano é mais intensa durante a divisão celular, expondo o alvo terapêutico.",
+      "D) Porque aumentam a permeabilidade viral."
+    ],
+    "explicacao_geral": "Inibidores de parede aproveitam a atividade biosintética elevada em crescimento.",
+    "explicacoes_opcoes": {
+      "A": "Esporos não são o foco clássico.",
+      "B": "Penetram e ligam-se a alvos; afirmação falsa.",
+      "C": "Correto.",
+      "D": "Irrelevante a vírus."
+    },
+    "explicacao": "Resumo: Inibidores de parede aproveitam a atividade biosintética elevada em crescimento.\nA) INCORRETA. Esporos não são o foco clássico.\nB) INCORRETA. Penetram e ligam-se a alvos; afirmação falsa.\nC) CORRETA. Correto.\nD) INCORRETA. Irrelevante a vírus.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2087,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual mecanismo de resistência a beta-lactâmicos envolve enzimas que hidrolisam o anel beta-lactâmico?",
+    "opcoes": [
+      "A) Alteração do ribossomo 30S.",
+      "B) Produção de beta-lactamases.",
+      "C) Bomba de efluxo exclusiva de vancomicina em todos os Gram-positivos.",
+      "D) Metilação do DNA girase em todos os estafilococos sensíveis."
+    ],
+    "explicacao_geral": "Beta-lactamases inativam o antibiótico antes de atingir o alvo.",
+    "explicacoes_opcoes": {
+      "A": "Relaciona-se a aminoglicosídeos/tetraciclinas em parte dos casos, não ao núcleo do beta-lactâmico.",
+      "B": "Correto.",
+      "C": "Generalização incorreta para todos os Gram-positivos.",
+      "D": "Mecanismo típico de quinolonas, não de beta-lactamase."
+    },
+    "explicacao": "Resumo: Beta-lactamases inativam o antibiótico antes de atingir o alvo.\nA) INCORRETA. Relaciona-se a aminoglicosídeos/tetraciclinas em parte dos casos, não ao núcleo do beta-lactâmico.\nB) CORRETA. Correto.\nC) INCORRETA. Generalização incorreta para todos os Gram-positivos.\nD) INCORRETA. Mecanismo típico de quinolonas, não de beta-lactamase.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2090,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "Qual classe de antibióticos tem como alvo principal as proteínas ligadoras de penicilina (PBPs)?",
+    "opcoes": [
+      "A) Beta-lactâmicos.",
+      "B) Aminoglicosídeos.",
+      "C) Sulfonamidas.",
+      "D) Anfotericina B."
+    ],
+    "explicacao_geral": "PBPs são o alvo molecular clássico dos beta-lactâmicos.",
+    "explicacoes_opcoes": {
+      "A": "Correto.",
+      "B": "Inibem síntese proteica no ribossomo bacteriano.",
+      "C": "Inibem síntese de folato.",
+      "D": "Antifúngico."
+    },
+    "explicacao": "Resumo: PBPs são o alvo molecular clássico dos beta-lactâmicos.\nA) CORRETA. Correto.\nB) INCORRETA. Inibem síntese proteica no ribossomo bacteriano.\nC) INCORRETA. Inibem síntese de folato.\nD) INCORRETA. Antifúngico.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2091,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "modulo": 3,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Os glicopeptídeos, como a vancomicina, atuam predominantemente em qual componente da parede bacteriana?",
+    "opcoes": [
+      "A) Fímbrias exclusivamente.",
+      "B) Precursores do peptidoglicano, impedindo sua polimerização na etapa adequada.",
+      "C) Capsular polissacarídico viral.",
+      "D) Membrane lipid A de endotoxina em monoterapia para todos os Gram-negativos."
+    ],
+    "explicacao_geral": "Glicopeptídeos ligam-se a precursores do peptidoglicano.",
+    "explicacoes_opcoes": {
+      "A": "Não é o alvo principal.",
+      "B": "Correto.",
+      "C": "Não se aplica.",
+      "D": "Vancomicina não é esquema típico para Gram-negativos por permeabilidade."
+    },
+    "explicacao": "Resumo: Glicopeptídeos ligam-se a precursores do peptidoglicano.\nA) INCORRETA. Não é o alvo principal.\nB) CORRETA. Correto.\nC) INCORRETA. Não se aplica.\nD) INCORRETA. Vancomicina não é esquema típico para Gram-negativos por permeabilidade.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2092,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Mulher de 30 anos iniciará antibiótico oral para acne inflamatória moderada a grave. Qual classe atua principalmente ligando-se de modo reversível à subunidade ribossomal 30S bacteriana?",
+    "opcoes": [
+      "A) Tetraciclinas.",
+      "B) Macrolídeos.",
+      "C) Oxazolidinonas.",
+      "D) Aminoglicosídeos em dose única oral para esse fim."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "As tetraciclinas (ex.: doxiciclina) ligam-se à subunidade 30S e bloqueiam o acoplamento aminoacil-ARNt; macrolídeos e cloranfenicol atuam na 50S.",
+    "explicacoes_opcoes": {
+      "A": "Correta: inibidores clássicos da subunidade 30S usados em acne, entre outros contextos.",
+      "B": "Incorreta: macrolídeos ligam-se à subunidade 50S.",
+      "C": "Incorreta: linezolida (oxazolidinona) também tem alvo na 50S.",
+      "D": "Incorreta: aminoglicosídeos não constituem tratamento padrão oral para acne; além disso, o enunciado cobra tetraciclinas como classe de 30S."
+    },
+    "explicacao": "Resumo: As tetraciclinas ligam-se à subunidade 30S.\nA) CORRETA. Tetraciclinas bloqueiam a subunidade 30S.\nB) INCORRETA. Macrolídeos atuam na 50S.\nC) INCORRETA. Oxazolidinonas atuam na 50S.\nD) INCORRETA. Não é a alternativa que melhor descreve o uso clássico de 30S no caso.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2093,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Em uso sistêmico típico, qual característica descreve melhor o efeito dos aminoglicosídeos sobre a bactéria sensível?",
+    "opcoes": [
+      "A) Inibição da síntese da parede celular.",
+      "B) Efeito predominantemente bactericida por inibição da síntese proteica na subunidade 30S.",
+      "C) Bloqueio da síntese de ácido fólico.",
+      "D) Efeito exclusivamente bacteriostático em qualquer concentração."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Aminoglicosídeos ligam-se à subunidade 30S e levam a erros de leitura; em geral são bactericidas contra germes sensíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: beta-lactâmicos e glicopeptídeos atuam na parede; não é o mecanismo dos aminoglicosídeos.",
+      "B": "Correta: bactericidia mediada por bloqueio da síntese proteica na 30S.",
+      "C": "Incorreta: antimetabólitos do folato têm outro alvo.",
+      "D": "Incorreta: podem ser bactericidas em concentrações terapêuticas adequadas."
+    },
+    "explicacao": "Resumo: Aminoglicosídeos são bactericidas e atuam na 30S.\nA) INCORRETA. Não é inibição de parede.\nB) CORRETA. Bactericida via 30S.\nC) INCORRETA. Não é bloqueio de folato.\nD) INCORRETA. Não são exclusivamente bacteriostáticos.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2094,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Qual associação entre classe antibiótica e subunidade ribossomal alvo está correta?",
+    "opcoes": [
+      "A) Eritromicina — subunidade 30S.",
+      "B) Gentamicina — inibição da DNA-polimerase bacteriana.",
+      "C) Cloranfenicol — subunidade 50S.",
+      "D) Tetraciclina — subunidade 50S."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Cloranfenicol, macrolídeos, clindamicina e oxazolidinonas atuam na 50S; tetraciclinas e aminoglicosídeos na 30S.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: eritromicina (macrolídeo) é 50S.",
+      "B": "Incorreta: gentamicina não inibe DNA-polimerase; é aminoglicosídeo 30S.",
+      "C": "Correta: cloranfenicol liga-se à subunidade 50S.",
+      "D": "Incorreta: tetraciclinas são 30S."
+    },
+    "explicacao": "Resumo: Cloranfenicol atua na subunidade 50S.\nA) INCORRETA. Eritromicina é 50S, não 30S na associação errada.\nB) INCORRETA. Gentamicina não tem esse alvo.\nC) CORRETA. Cloranfenicol — 50S.\nD) INCORRETA. Tetraciclinas — 30S.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  },
+  {
+    "id": 2098,
+    "materia": "mad2",
+    "tema": "mad2_a17",
+    "enunciado": "Gestante no segundo trimestre necessita antibiótico que se liga à subunidade 30S. Qual limitação dos derivados tetraciclínicos é mais relevante na gravidez?",
+    "opcoes": [
+      "A) Ausência de efeito sobre o esqueleto fetal.",
+      "B) Restrição apenas ao primeiro trimestre sem risco posterior.",
+      "C) Risco de alteração da mineralização óssea e do desenvolvimento dentário fetal.",
+      "D) Uso seguro em qualquer trimestre sem ressalvas."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Tetraciclinas atravessam a placenta e se ligam ao osso em formação, com risco de toxicidade óssea e dentária fetal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: há efeito sobre osso/dente em formação.",
+      "B": "Incorreta: o risco não se restringe ao primeiro trimestre.",
+      "C": "Correta: deposição no osso e dente em mineralização.",
+      "D": "Incorreta: não são consideradas seguras em qualquer fase da gestação."
+    },
+    "explicacao": "Resumo: Tetraciclinas são contraindicadas na gestação pelo risco ósseo e dentário.\nA) INCORRETA. Há efeito no esqueleto fetal.\nB) INCORRETA. Não é só o primeiro trimestre.\nC) CORRETA. Risco à mineralização óssea e dentária.\nD) INCORRETA. Uso não é seguro sem ressalvas.",
+    "aula_id": "mad2_a17",
+    "essencial": false
+  }
+]

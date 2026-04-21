@@ -9,22 +9,22 @@
 
 A circulação não é um mero trajeto de sangue; ela é um sistema dinâmico de distribuição de oxigênio e recolhimento de metabólitos, regido por gradientes de pressão e resistência. Nesta aula, exploramos como a arquitetura dos vasos e a lógica dos circuitos em série permitem ao corpo manter a homeostase tecidual.
 
-Na prática clínica, o domínio deste tema é a chave para interpretar **choques**, **edemas**, **hipertensão** e **insuficiência cardíaca**. Entender por que o circuito pulmonar opera sob baixa pressão e como as veias atuam como reservatórios de volume é essencial para o raciocínio em emergências cardiovasculares.
+Na prática clínica, o domínio deste tema é a chave para interpretar **choques**, **edemas**, **hipertensão** e **insuficiência cardíaca**. Entender por que o circuito pulmonar opera sob baixa pressão e como as veias atuam como **reservatórios de volume** é essencial para o raciocínio em emergências cardiovasculares.
 
 ---
 
 ## Organização Funcional: Dois Circuitos em Série
 
-O sistema cardiovascular organiza-se em dois circuitos principais que funcionam em série: a **Circulação Sistêmica** e a **Circulação Pulmonar**. Para que o sistema esteja em equilíbrio, o débito do ventrículo direito deve ser igual ao do ventrículo esquerdo. Enquanto a circulação sistêmica nutre os órgãos sob **alta pressão** e elevada resistência, a pulmonar opera sob **baixa pressão** para proteger a delicada membrana alvéolo-capilar, garantindo uma hematose eficiente sem gerar edema alveolar.
+O sistema cardiovascular organiza-se em dois circuitos principais que funcionam em série: a **Circulação Sistêmica** e a **Circulação Pulmonar**. Para que o sistema esteja em equilíbrio, o débito do ventrículo direito deve ser igual ao do ventrículo esquerdo. Enquanto a circulação sistêmica nutre os órgãos sob **alta pressão** e elevada resistência, a pulmonar opera sob **baixa pressão** para proteger a delicada membrana alvéolo-capilar, garantindo uma **hematose** eficiente sem gerar **edema alveolar**.
 
 ### Comparativo Hemodinâmico dos Circuitos
 
 | Parâmetro | Circulação Sistêmica | Circulação Pulmonar | Diferencial p/ Prova |
 |-----------|----------------------|---------------------|----------------------|
-| **Pressão** | Elevada | Baixa | Proteção dos alvéolos |
-| **Resistência** | Alta | Menor | Circuito de baixa carga |
-| **Artérias** | Sangue Oxigenado | Sangue Venoso | Exceção clássica (O2) |
-| **Veias** | Sangue Venoso | Sangue Oxigenado | Retorno da hematose |
+| **Pressão** | **Elevada** | **Baixa** | Proteção dos alvéolos |
+| **Resistência** | **Alta** | **Menor** | Circuito de baixa carga |
+| **Artérias** | **Sangue Oxigenado** | **Sangue Venoso** | Exceção clássica (O2) |
+| **Veias** | **Sangue Venoso** | **Sangue Oxigenado** | Retorno da hematose |
 
 ---
 

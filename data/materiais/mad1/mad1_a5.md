@@ -27,9 +27,9 @@ A classificação das anemias depende fundamentalmente do **VCM (Tamanho)** e do
 | **Reticulócitos** | Produção medular (jovens) | 0,5 - 2% |
 
 > **Dica de Prova:** 
-> - **VCM < 80**: Microcítica (Pense em **Ferropriva** ou Talassemia).
-> - **VCM > 100**: Macrocítica (Pense em **Deficiência de B12/Folato**).
-> - **RDW Alto**: Indica anisocitose (tamanhos diferentes), comum na fase inicial da anemia ferropriva.
+> - **VCM < 80**: **Microcítica** (Pense em **Ferropriva** ou Talassemia).
+> - **VCM > 100**: **Macrocítica** (Pense em **Deficiência de B12/Folato**).
+> - **RDW Alto**: Indica **anisocitose** (tamanhos diferentes), comum na fase inicial da anemia ferropriva.
 
 ---
 
@@ -41,7 +41,7 @@ O leucograma deve ser lido sempre em **Valores Absolutos** (número de células)
 - **Linfocitose:** Comum em **Infecções Virais** (Dengue, Mononucleose, CMV).
 - **Eosinofilia:** Indica **Parasitoses** ou quadros de **Alergia**.
 - **Monocitose:** Sugere infecções crônicas como **Tuberculose** ou malária.
-- **Basofilia:** Rara; se persistente, suspeitar de Leucemia Mieloide Crônica (LMC).
+- **Basofilia:** Rara; se persistente, suspeitar de **Leucemia Mieloide Crônica (LMC)**.
 
 ---
 
@@ -49,7 +49,7 @@ O leucograma deve ser lido sempre em **Valores Absolutos** (número de células)
 
 - **Trombocitopenia (< 150.000):** Risco de sangramento. 
   - Abaixo de **50.000**: Risco em cirurgias.
-  - Abaixo de **20.000**: Risco de sangramento espontâneo grave.
+  - Abaixo de **20.000**: Risco de **sangramento espontâneo grave**.
 - **Trombocitose (> 450.000):** Comum em processos inflamatórios agudos ou deficiência de ferro (trombocitose reacional).
 
 ---
@@ -86,10 +86,10 @@ No leucograma, procure pelo **Desvio à Esquerda**. Se aparecerem **Bastões**, 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **VCM Baixo** | **VCM Alto** | **Ferropriva** vs **Megaloblástica (B12)** |
-| **Bastões** | **Segmentados** | Neutrófilos Jovens (Desvio) vs Neutrófilos Maduros |
+| **Bastões** | **Segmentados** | Neutrófilos Jovens (**Desvio**) vs Neutrófilos Maduros |
 | **Linfocitose** | **Neutrofilia** | Sugere **Vírus** vs Sugere **Bactéria** |
-| **Eosinofilia** | **Basofilia** | **Alergia/Parasita** vs Doença Mieloproliferativa (LMC) |
-| **Pancitopenia** | **Anemia Isolada** | Falência da Medula (Grave) vs Carência Nutricional |
+| **Eosinofilia** | **Basofilia** | **Alergia/Parasita** vs Doença Mieloproliferativa (**LMC**) |
+| **Pancitopenia** | **Anemia Isolada** | **Falência da Medula** (Grave) vs Carência Nutricional |
 
 ### Frase-âncora para não esquecer
 

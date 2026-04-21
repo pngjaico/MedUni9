@@ -2,7 +2,7 @@
 
 A maioria das doenças que tratamos (Diabetes, Hipertensão, Obesidade) não depende de um único gene, mas da soma de vários genes com o estilo de vida. Além disso, o **Câncer** é, em sua essência, uma doença genética (mutações no DNA). Na prova, o tema central é entender como o ambiente interage com a genética e como mutações em **Oncogenes** (aceleradores) e **Supressores de Tumor** (freios) levam ao câncer.
 
-Na prática, saber que o câncer leva anos para se formar a partir de pequenas mutações justifica o porquê de fazermos exames de rotina, como a colonoscopia, para tirar um pólipo antes que ele vire um tumor maligno.
+Na prática, saber que o câncer leva anos para se formar a partir de pequenas mutações justifica o porquê de fazermos exames de rotina, como a **colonoscopia**, para tirar um pólipo antes que ele vire um tumor maligno.
 
 ---
 
@@ -17,9 +17,9 @@ Na prática, saber que o câncer leva anos para se formar a partir de pequenas m
 
 ## 1. Herança Multifatorial (Complexa)
 
-Diferente das doenças de Mendel (sim ou não), aqui existe um "limiar".
-- **O Modelo:** Você vai herdando "pontos" de risco dos seus pais. Se você herdar muitos pontos e ainda tiver um estilo de vida ruim (sedentarismo, fumo), você ultrapassa o **Limiar** e fica doente.
-- **Exemplos:** Hipertensão, Esquizofrenia, Autismo e Diabetes Tipo 2.
+Diferente das doenças de Mendel (sim ou não), aqui existe um "**limiar**".
+- **O Modelo:** Você vai herdando "pontos" de risco dos seus pais. Se você herdar muitos pontos e ainda tiver um estilo de vida ruim (**sedentarismo**, **fumo**), você ultrapassa o **Limiar** e fica doente.
+- **Exemplos:** **Hipertensão**, **Esquizofrenia**, **Autismo** e **Diabetes Tipo 2**.
 - **Dica de Prova:** Quanto mais grave é o caso na família (ex: um irmão com fenda labial nos dois lados do rosto), maior é o risco de o próximo irmão nascer com o problema.
 
 ---
@@ -27,16 +27,15 @@ Diferente das doenças de Mendel (sim ou não), aqui existe um "limiar".
 ## 2. Oncogenes e Supressores: O Acelerador e o Freio
 
 O câncer acontece porque o controle da divisão celular quebra.
-- **Oncogenes (O Acelerador):** São genes que, quando sofrem mutação, ficam "ligados" o tempo todo, mandando a célula se dividir sem parar. Basta **um único gene** estragado para causar problemas. Ex: *KRAS* e *HER2*.
-- **Supressores de Tumor (O Freio):** São genes que tentam parar a divisão celular se algo estiver errado. Para eles pararem de funcionar, você precisa que **os dois** (o que veio do pai e o da mãe) estejam quebrados. Ex: *TP53* (o guardião do genoma) e *BRCA1/2*.
+- **Oncogenes (O Acelerador):** São genes que, quando sofrem mutação, ficam "ligados" o tempo todo, mandando a célula se dividir sem parar. Basta **um único gene** estragado para causar problemas. Ex: ***KRAS*** e ***HER2***.
+- **Supressores de Tumor (O Freio):** São genes que tentam parar a divisão celular se algo estiver errado. Para eles pararem de funcionar, você precisa que **os dois** (o que veio do pai e o da mãe) estejam quebrados. Ex: ***TP53*** (o guardião do genoma) e ***BRCA1/2***.
 
 ---
 
 ## 3. A Teoria dos Dois Golpes (Knudson)
 
 Muitas pessoas nascem com um "golpe" (uma mutação herdada do pai). Elas são normais, mas estão a apenas **um passo** de ter câncer. Se a célula sofrer um segundo golpe (uma mutação por radiação ou cigarro), o câncer aparece. É por isso que famílias com mutação no gene **BRCA** têm tanto câncer de mama e ovário.
-
----
+- **Teoria dos Dois Golpes (Knudson):** Explica por que o câncer hereditário aparece muito mais cedo que o esporádico.
 
 ## 4. Rastreamento: Cortando o Mal pela Raiz
 
@@ -80,7 +79,7 @@ Lembre-se da ordem do câncer de intestino: o primeiro gene a quebrar é o **APC
 |------------|------------|-----------------|
 | **Oncogene** | **Supressor de Tumor** | Acelerador (1 golpe) vs **Freio (2 golpes - Knudson)** |
 | **Mendeliano** | **Multifatorial** | Regra clara (25%/50%) vs **Risco por "limiar" e Ambiente** |
-| **Hereditário** | **Esporádico** | Precoce e Bilateral vs **Tardio e Unilateral** |
+| **Hereditário** | **Esporádico** | **Precoce e Bilateral** vs **Tardio e Unilateral** |
 | **APC** | **TP53** | O primeiro a quebrar no cólon vs **O "Guardião" que quebra no final** |
 | **Mutação Somática** | **Mutação Germinativa** | Só no tumor (não passa pro filho) vs **Em todas as células (Passa pro filho)** |
 

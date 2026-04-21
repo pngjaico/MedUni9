@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 2302,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Em plantao de porta, uma mulher de 38 anos chega com dor abdominal difusa ha 6 horas. Para reduzir interferencia do exame sobre os ruidos intestinais, qual sequencia do exame fisico abdominal e a mais adequada?",
+    "opcoes": [
+      "A) Inspecao, ausculta, percussao e palpacao",
+      "B) Ausculta, inspecao, palpacao e percussao",
+      "C) Palpacao superficial, palpacao profunda, percussao e ausculta",
+      "D) Inspecao, palpacao superficial, percussao e ausculta"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "No abdome, a ausculta deve ser feita logo apos a inspecao e antes de percussao e palpacao, porque essas manobras podem modificar transitoriamente a motilidade intestinal.",
+    "explicacoes_opcoes": {
+      "A": "Preserva a ausculta antes de qualquer manobra mecanica sobre a parede abdominal, reduzindo risco de superestimar ou suprimir ruidos hidroaereos.",
+      "B": "Inicia pela ausculta, mas perde a logica classica do exame ao inverter a ordem de inspecao inicial; isso atrapalha a avaliacao global antes do contato.",
+      "C": "Colocar ausculta ao final aumenta chance de ruidos alterados pelo proprio exame, especialmente apos palpacao profunda.",
+      "D": "Sequencia comum em outros segmentos, mas inadequada para abdome porque deixa ausculta por ultimo."
+    },
+    "explicacao": "No abdome, a ausculta deve ser feita logo apos a inspecao e antes de percussao e palpacao, porque essas manobras podem modificar transitoriamente a motilidade intestinal.\nA) preserva a ausculta antes de qualquer manobra mecanica sobre a parede abdominal, reduzindo risco de superestimar ou suprimir ruidos hidroaereos.\nB) Inicia pela ausculta, mas perde a logica classica do exame ao inverter a ordem de inspecao inicial; isso atrapalha a avaliacao global antes do contato.\nC) Colocar ausculta ao final aumenta chance de ruidos alterados pelo proprio exame, especialmente apos palpacao profunda.\nD) Sequencia comum em outros segmentos, mas inadequada para abdome porque deixa ausculta por ultimo.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2303,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente cirrotico refere aumento progressivo do volume abdominal e desconforto ao deitar. Na inspecao em decubito dorsal, qual achado favorece ascite moderada a volumosa?",
+    "opcoes": [
+      "A) Abaulamento de flancos com abdomen mais alargado lateralmente",
+      "B) Umbigo invertido sem distensao de flancos",
+      "C) Hiperemia cutanea discreta em hipogastrio",
+      "D) Pulsacao epigastrica visivel em paciente longilineo"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Na ascite livre em maior volume, o liquido se distribui para as porcoes declives e produz abaulamento de flancos no decubito dorsal.",
+    "explicacoes_opcoes": {
+      "A": "O formato em ventre de batracio (flancos abaulados) e um sinal de inspecao classico de ascite de volume relevante.",
+      "B": "Umbigo invertido isolado e inespecifico; ascite costuma associar distensao global e alteracao dos flancos.",
+      "C": "Eritema localizado sugere processo cutaneo ou irritativo, nao liquido livre intraperitoneal.",
+      "D": "Pulsacao epigastrica pode ocorrer por transmissao aortica em magros, sem relacao direta com ascite."
+    },
+    "explicacao": "Na ascite livre em maior volume, o liquido se distribui para as porcoes declives e produz abaulamento de flancos no decubito dorsal.\nA) o formato em ventre de batracio (flancos abaulados) e um sinal de inspecao classico de ascite de volume relevante.\nB) Umbigo invertido isolado e inespecifico; ascite costuma associar distensao global e alteracao dos flancos.\nC) Eritema localizado sugere processo cutaneo ou irritativo, nao liquido livre intraperitoneal.\nD) Pulsacao epigastrica pode ocorrer por transmissao aortica em magros, sem relacao direta com ascite.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2304,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Durante a percussao de um paciente com distensao abdominal, o residente muda o paciente de decubito lateral e repete o exame. Qual resultado apoia presenca de liquido livre peritoneal?",
+    "opcoes": [
+      "A) Area de macicez que se desloca conforme a mudanca de decubito",
+      "B) Timpanismo uniformemente difuso em todos os quadrantes",
+      "C) Hipertimpanismo predominante em epigastrio",
+      "D) Macicez fixa apenas em fossa iliaca direita"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A macicez movel na percussao indica que o conteudo liquido se redistribui com a gravidade, achado tipico de ascite livre.",
+    "explicacoes_opcoes": {
+      "A": "O deslocamento da macicez com mudanca postural e o comportamento esperado do liquido livre na cavidade peritoneal.",
+      "B": "Timpanismo difuso favorece excesso de gas intestinal, nao colecao liquida volumosa.",
+      "C": "Hipertimpanismo epigastrico pode ocorrer em distensao gastrica, sem valor especifico para ascite.",
+      "D": "Macicez focal e fixa sugere massa, fecaloma ou bexiga distendida, nao ascite livre."
+    },
+    "explicacao": "A macicez movel na percussao indica que o conteudo liquido se redistribui com a gravidade, achado tipico de ascite livre.\nA) o deslocamento da macicez com mudanca postural e o comportamento esperado do liquido livre na cavidade peritoneal.\nB) Timpanismo difuso favorece excesso de gas intestinal, nao colecao liquida volumosa.\nC) Hipertimpanismo epigastrico pode ocorrer em distensao gastrica, sem valor especifico para ascite.\nD) Macicez focal e fixa sugere massa, fecaloma ou bexiga distendida, nao ascite livre.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2308,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "No pos-operatorio de laparotomia, paciente permanece distendido e sem eliminacao de flatos. Na ausculta abdominal, qual padrao sustenta mais a hipotese de ileo paralitico?",
+    "opcoes": [
+      "A) Ruidos metalicos em salvas de alta frequencia",
+      "B) Aumento global de ruidos com intervalos curtos",
+      "C) Hipoatividade intensa ou silencio auscultatorio persistente",
+      "D) Borborigmos frequentes apos dieta liquida"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "No ileo paralitico ha reducao difusa da atividade propulsiva intestinal, levando a ruidos muito diminuidos ou ausentes.",
+    "explicacoes_opcoes": {
+      "A": "Silencio ou hipoatividade marcada e o padrao esperado quando a motilidade esta globalmente deprimida.",
+      "B": "Ruidos aumentados sugerem hiperperistalse, quadro oposto ao ileo paralitico.",
+      "C": "Ruidos metalicos em salvas apontam mais para obstrucao mecanica com luta peristaltica inicial.",
+      "D": "Borborigmos pos-prandiais podem ocorrer em recuperacao de transito, nao em ileo estabelecido persistente."
+    },
+    "explicacao": "No ileo paralitico ha reducao difusa da atividade propulsiva intestinal, levando a ruidos muito diminuidos ou ausentes.\nA) silencio ou hipoatividade marcada e o padrao esperado quando a motilidade esta globalmente deprimida.\nB) Ruidos aumentados sugerem hiperperistalse, quadro oposto ao ileo paralitico.\nC) Ruidos metalicos em salvas apontam mais para obstrucao mecanica com luta peristaltica inicial.\nD) Borborigmos pos-prandiais podem ocorrer em recuperacao de transito, nao em ileo estabelecido persistente.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2312,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Homem de 31 anos chega ao pronto atendimento com dor em colica no flanco direito, irradiando para virilha, sem alivio em repouso. Ele caminha inquieto pela sala, esta afebril e refere um episodio de hematúria nas ultimas horas. Qual hipotese clinica e mais compativel com esse padrao?",
+    "opcoes": [
+      "A) Colica ureteral por litíase",
+      "B) Pielonefrite aguda com toxemia inicial",
+      "C) Epididimite aguda com dor escrotal irradiada para flanco",
+      "D) Apendicite em fase inicial"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Dor em colica de flanco com irradiacao para virilha, inquietacao motora e hematúria, em paciente afebril, favorece litíase ureteral.",
+    "explicacoes_opcoes": {
+      "A": "Epididimite costuma iniciar com dor testicular e edema escrotal, e nao com dor colicativa em flanco irradiada para virilha.",
+      "B": "Pielonefrite costuma cursar com febre, calafrios e aspecto toxemico, achados ausentes no caso.",
+      "C": "O conjunto dor colicativa em flanco, irradiacao inguinal, inquietacao e hematúria e típico de colica ureteral.",
+      "D": "Apendicite pode causar dor em fossa iliaca direita, mas o padrao colicativo com irradiacao para virilha e menos compativel."
+    },
+    "explicacao": "Dor em colica de flanco com irradiacao para virilha, inquietacao motora e hematúria, em paciente afebril, favorece litíase ureteral.\nA) Epididimite costuma iniciar com dor testicular e edema escrotal, e nao com dor colicativa em flanco irradiada para virilha.\nB) Pielonefrite costuma cursar com febre, calafrios e aspecto toxemico, achados ausentes no caso.\nC) o conjunto dor colicativa em flanco, irradiacao inguinal, inquietacao e hematúria e típico de colica ureteral.\nD) Apendicite pode causar dor em fossa iliaca direita, mas o padrao colicativo com irradiacao para virilha e menos compativel.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2313,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Mulher de 26 anos relata dois dias de disúria e urgencia miccional, evoluindo com febre alta, calafrios e dor lombar esquerda. Ao exame, apresenta dor a punho-percussao no angulo costovertebral esquerdo. Qual diagnostico e o mais provavel?",
+    "opcoes": [
+      "A) Pielonefrite aguda",
+      "B) Cistite baixa nao complicada",
+      "C) Colica biliar",
+      "D) Endometriose com dor pélvica ciclica"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Febre alta com calafrios, dor lombar e dor no angulo costovertebral apos sintomas urinarios baixos sugere infeccao urinaria alta.",
+    "explicacoes_opcoes": {
+      "A": "Endometriose costuma cursar com dor pelvica cronica relacionada ao ciclo menstrual, sem sindrome febril alta.",
+      "B": "Cistite isolada costuma causar disúria e polaciúria, mas sem febre alta e sem dor lombar significativa.",
+      "C": "A progressao de sintomas urinarios baixos para febre e dor em angulo costovertebral e tipica de pielonefrite aguda.",
+      "D": "Colica biliar gera dor em hipocondrio direito, geralmente pos-prandial, e nao explica disúria previa."
+    },
+    "explicacao": "Febre alta com calafrios, dor lombar e dor no angulo costovertebral apos sintomas urinarios baixos sugere infeccao urinaria alta.\nA) Endometriose costuma cursar com dor pelvica cronica relacionada ao ciclo menstrual, sem sindrome febril alta.\nB) Cistite isolada costuma causar disúria e polaciúria, mas sem febre alta e sem dor lombar significativa.\nC) a progressao de sintomas urinarios baixos para febre e dor em angulo costovertebral e tipica de pielonefrite aguda.\nD) Colica biliar gera dor em hipocondrio direito, geralmente pos-prandial, e nao explica disúria previa.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2314,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente com disúria, febre e dor lombar retorna com urinálise em mãos. Qual achado reforca acometimento do parenquima renal, favorecendo infeccao urinaria alta em vez de cistite isolada?",
+    "opcoes": [
+      "A) Cilindros leucocitorios no sedimento",
+      "B) Densidade urinaria baixa isolada",
+      "C) pH urinario discretamente ácido",
+      "D) Hematúria microscopica isolada"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Cilindros leucocitarios se formam nos túbulos renais e indicam inflamacão intrarrenal, achado mais sugestivo de pielonefrite.",
+    "explicacoes_opcoes": {
+      "A": "Cilindros leucocitarios apontam para inflamacao do parenquima renal, e nao apenas da bexiga.",
+      "B": "Densidade baixa pode ocorrer por hidratacao ou capacidade de concentracao alterada, sem definir topografia infecciosa.",
+      "C": "PH urinario varia com dieta e flora bacteriana, mas isoladamente nao localiza o foco em trato alto.",
+      "D": "Hematúria microscopica pode aparecer em cistite, litíase ou outras condicoes, sem especificidade para pielonefrite."
+    },
+    "explicacao": "Cilindros leucocitarios se formam nos túbulos renais e indicam inflamacão intrarrenal, achado mais sugestivo de pielonefrite.\nA) cilindros leucocitarios apontam para inflamacao do parenquima renal, e nao apenas da bexiga.\nB) Densidade baixa pode ocorrer por hidratacao ou capacidade de concentracao alterada, sem definir topografia infecciosa.\nC) pH urinario varia com dieta e flora bacteriana, mas isoladamente nao localiza o foco em trato alto.\nD) Hematúria microscopica pode aparecer em cistite, litíase ou outras condicoes, sem especificidade para pielonefrite.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2317,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Em plantao, dois pacientes chegam com dor lombar. Para diferenciar cólica renal de pielonefrite, qual combinacao de achados favorece infeccao urinaria alta?",
+    "opcoes": [
+      "A) Dor colicativa intensa com inquietacao e afebril",
+      "B) Hematúria isolada em paciente afebril",
+      "C) Dor lombar com febre alta e mal-estar sistêmico",
+      "D) Dor com irradiacao para virilha sem febre"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Febre alta associada a dor lombar e sintomas sistemicos desloca a suspeita para pielonefrite, e nao para colica ureteral simples.",
+    "explicacoes_opcoes": {
+      "A": "Dor lombar com febre alta e mal-estar sistemico caracteriza quadro infeccioso alto.",
+      "B": "Hematúria isolada em afebril e mais compativel com litíase do que com infeccao parenquimatosa.",
+      "C": "Irradiacao para virilha sem febre aproxima mais de colica renal, nao de pielonefrite.",
+      "D": "Dor colicativa com inquietacao e afebril e perfil classico de litíase ureteral."
+    },
+    "explicacao": "Febre alta associada a dor lombar e sintomas sistemicos desloca a suspeita para pielonefrite, e nao para colica ureteral simples.\nA) dor lombar com febre alta e mal-estar sistemico caracteriza quadro infeccioso alto.\nB) Hematúria isolada em afebril e mais compativel com litíase do que com infeccao parenquimatosa.\nC) Irradiacao para virilha sem febre aproxima mais de colica renal, nao de pielonefrite.\nD) Dor colicativa com inquietacao e afebril e perfil classico de litíase ureteral.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2322,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Em exame de rotina de homem de 28 anos sem queixas urogenitais, qual descricao e mais compativel com palpacao testicular normal?",
+    "opcoes": [
+      "A) Testiculos de consistencia firme-elastica, superficie lisa e indolores a palpacao",
+      "B) Testiculo esquerdo endurecido e irregular, sem dor, com perda de limites",
+      "C) Nodularidade bilateral dolorosa em polo superior testicular",
+      "D) Escroto hiperemiado com aumento abrupto de volume e calor local"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "No exame normal, os testiculos costumam ser firmes-elasticos, de superficie regular e sem dor a palpacao.",
+    "explicacoes_opcoes": {
+      "A": "Traduz os parametros classicos de normalidade na inspeccao e palpacao testicular.",
+      "B": "Endurecimento irregular e perda de limites levantam suspeita de lesao expansiva, nao de exame habitual.",
+      "C": "Nodularidade dolorosa bilateral sugere processo patologico inflamatorio ou anexial.",
+      "D": "Hiperemia, calor e aumento abrupto de volume apontam para quadro agudo escrotal."
+    },
+    "explicacao": "No exame normal, os testiculos costumam ser firmes-elasticos, de superficie regular e sem dor a palpacao.\nA) traduz os parametros classicos de normalidade na inspeccao e palpacao testicular.\nB) Endurecimento irregular e perda de limites levantam suspeita de lesao expansiva, nao de exame habitual.\nC) Nodularidade dolorosa bilateral sugere processo patologico inflamatorio ou anexial.\nD) Hiperemia, calor e aumento abrupto de volume apontam para quadro agudo escrotal.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2323,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Homem de 66 anos refere nocturia e jato fraco ha 2 anos, sem febre nem dor pelvica. No toque retal: prostata aumentada, fibroelastica, simetrica e com sulco mediano preservado. Qual hipoteses e mais provavel?",
+    "opcoes": [
+      "A) Prostatite bacteriana aguda",
+      "B) Abscesso prostatico",
+      "C) Hiperplasia prostatica benigna",
+      "D) Neoplasia prostatica localmente avancada"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "O padrao de aumento simetrico, consistencia fibroelastica e ausencia de dor ao toque e tipico de hiperplasia prostatica benigna.",
+    "explicacoes_opcoes": {
+      "A": "Na prostatite aguda, espera-se dor acentuada ao toque e sindrome infecciosa associada.",
+      "B": "Abscesso costuma cursar com febre, pior estado geral e dor importante na palpacao.",
+      "C": "Combina sintomas obstrutivos cronicos com toque retal classico de HPB.",
+      "D": "Neoplasia costuma sugerir nodulos endurecidos, assimetria ou apagamento de sulco mediano."
+    },
+    "explicacao": "O padrao de aumento simetrico, consistencia fibroelastica e ausencia de dor ao toque e tipico de hiperplasia prostatica benigna.\nA) Na prostatite aguda, espera-se dor acentuada ao toque e sindrome infecciosa associada.\nB) Abscesso costuma cursar com febre, pior estado geral e dor importante na palpacao.\nC) combina sintomas obstrutivos cronicos com toque retal classico de HPB.\nD) Neoplasia costuma sugerir nodulos endurecidos, assimetria ou apagamento de sulco mediano.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2324,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Durante mutirao de rastreio, um paciente de 62 anos sem sintomas infecciosos faz toque retal. Qual achado aumenta mais a suspeita de neoplasia prostatica clinicamente relevante?",
+    "opcoes": [
+      "A) Aumento global da glandula, regular e indolor",
+      "B) Prostata fibroelastica com limites preservados",
+      "C) Dor difusa ao toque acompanhada de febre",
+      "D) Nodulo endurecido, assimetrico, em um dos lobos"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Nodulo endurecido e assimetrico ao toque retal e sinal de alerta para neoplasia prostatica.",
+    "explicacoes_opcoes": {
+      "A": "Aumento global liso e indolor favorece HPB, nao lesao focal suspeita.",
+      "B": "Consistencia fibroelastica uniforme e compativel com padrao benigno.",
+      "C": "Dor com febre sugere prostatite aguda, quadro inflamatorio e nao neoplasia.",
+      "D": "Endurecimento focal assimetrico e o principal sinal semiologico de suspeicao."
+    },
+    "explicacao": "Nodulo endurecido e assimetrico ao toque retal e sinal de alerta para neoplasia prostatica.\nA) Aumento global liso e indolor favorece HPB, nao lesao focal suspeita.\nB) Consistencia fibroelastica uniforme e compativel com padrao benigno.\nC) Dor com febre sugere prostatite aguda, quadro inflamatorio e nao neoplasia.\nD) endurecimento focal assimetrico e o principal sinal semiologico de suspeicao.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2328,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente de 47 anos percebe aumento escrotal esquerdo ha meses, sem dor, com transiluminacao positiva no consultorio. Qual diagnostico e mais compativel?",
+    "opcoes": [
+      "A) Hernia inguinoescrotal encarcerada",
+      "B) Hidrocele",
+      "C) Torcao de apendice testicular",
+      "D) Hematocele traumática recente"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Aumento escrotal cronico, indolor e com transiluminacao positiva e tipico de hidrocele.",
+    "explicacoes_opcoes": {
+      "A": "Hernia encarcerada costuma ser dolorosa, tensa e sem transiluminacao.",
+      "B": "A combinacao de cronologia e transiluminacao favorece hidrocele.",
+      "C": "Torcao de apendice gera dor aguda focal, nao aumento cronico transluzente.",
+      "D": "Hematocele recente e dolorosa e nao costuma transiluminar."
+    },
+    "explicacao": "Aumento escrotal cronico, indolor e com transiluminacao positiva e tipico de hidrocele.\nA) Hernia encarcerada costuma ser dolorosa, tensa e sem transiluminacao.\nB) a combinacao de cronologia e transiluminacao favorece hidrocele.\nC) Torcao de apendice gera dor aguda focal, nao aumento cronico transluzente.\nD) Hematocele recente e dolorosa e nao costuma transiluminar.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2332,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Estudante de 17 anos relata colica em baixo ventre desde os primeiros ciclos, pior no primeiro dia da menstruacao, com melhora importante apos anti-inflamatorio. Nega dispareunia, sangramento irregular e dor fora do periodo menstrual. Qual quadro e o mais provavel?",
+    "opcoes": [
+      "A) Dismenorreia primaria",
+      "B) Endometriose profunda",
+      "C) Doenca inflamatoria pelvica cronica",
+      "D) Adenomiose"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Inicio logo apos a menarca, dor ciclica e ausencia de sinais de doenca pelvica secundaria favorecem dismenorreia primaria.",
+    "explicacoes_opcoes": {
+      "A": "Padrao temporal classico, sem sinais de alarme para etiologia secundaria.",
+      "B": "Costuma cursar com progressao da dor, dispareunia profunda ou infertilidade.",
+      "C": "Esperaria historia infecciosa, dor a mobilizacao cervical ou corrimento patologico.",
+      "D": "E mais comum apos os 35 anos e com sangramento uterino anormal associado."
+    },
+    "explicacao": "Inicio logo apos a menarca, dor ciclica e ausencia de sinais de doenca pelvica secundaria favorecem dismenorreia primaria.\nA) Padrao temporal classico, sem sinais de alarme para etiologia secundaria.\nB) Costuma cursar com progressao da dor, dispareunia profunda ou infertilidade.\nC) Esperaria historia infecciosa, dor a mobilizacao cervical ou corrimento patologico.\nD) E mais comum apos os 35 anos e com sangramento uterino anormal associado.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2333,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente de 32 anos, previamente assintomatica, evolui nos ultimos 2 anos com dismenorreia progressiva, dispareunia profunda e dificuldade para engravidar. Ao toque, dor em fundo de saco posterior. Qual diagnostico integra melhor esse conjunto?",
+    "opcoes": [
+      "A) Sindrome pre-menstrual isolada",
+      "B) Vaginose bacteriana recorrente",
+      "C) Cistite de repeticao",
+      "D) Endometriose"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Dor ciclica progressiva, dispareunia profunda e infertilidade formam o nucleo clinico mais tipico de endometriose.",
+    "explicacoes_opcoes": {
+      "A": "Nao explica dor pelvica profunda progressiva nem infertilidade.",
+      "B": "Cursa com alteracao de corrimento e odor, sem esse padrao algico cronico.",
+      "C": "Predomina disuria/polaciuria, sem relacao ciclica consistente com menstruacao.",
+      "D": "Reune os sinais cardinais do quadro, inclusive dor em fundo de saco."
+    },
+    "explicacao": "Dor ciclica progressiva, dispareunia profunda e infertilidade formam o nucleo clinico mais tipico de endometriose.\nA) Nao explica dor pelvica profunda progressiva nem infertilidade.\nB) Cursa com alteracao de corrimento e odor, sem esse padrao algico cronico.\nC) Predomina disuria/polaciuria, sem relacao ciclica consistente com menstruacao.\nD) Reune os sinais cardinais do quadro, inclusive dor em fundo de saco.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2335,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente de 24 anos refere prurido vulvar intenso, dispareunia superficial e corrimento branco espesso em placas, sem odor amineico. pH vaginal em faixa habitual. Qual o diagnostico mais provavel?",
+    "opcoes": [
+      "A) Vaginose bacteriana",
+      "B) Tricomoniase",
+      "C) Candidiase vulvovaginal",
+      "D) Cervicite mucopurulenta"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Prurido intenso com corrimento branco espesso e pH sem elevacao significativa aponta para candidiase vulvovaginal.",
+    "explicacoes_opcoes": {
+      "A": "Esperaria odor de aminas e corrimento homogeneo acinzentado.",
+      "B": "Geralmente cursa com corrimento espumoso e maior sinal inflamatorio cervical.",
+      "C": "Conjunto clinico e classico para infeccao por Candida.",
+      "D": "Tende a causar corrimento endocervical purulento e dor a mobilizacao do colo."
+    },
+    "explicacao": "Prurido intenso com corrimento branco espesso e pH sem elevacao significativa aponta para candidiase vulvovaginal.\nA) Esperaria odor de aminas e corrimento homogeneo acinzentado.\nB) Geralmente cursa com corrimento espumoso e maior sinal inflamatorio cervical.\nC) Conjunto clinico e classico para infeccao por Candida.\nD) Tende a causar corrimento endocervical purulento e dor a mobilizacao do colo.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2338,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Mulher de 28 anos com atraso menstrual de 7 semanas apresenta dor subita em fossa iliaca, sangramento vaginal escuro e episodio de lipotimia. Qual hipotese deve ter prioridade imediata?",
+    "opcoes": [
+      "A) Ameaca de aborto sem sinais de gravidade",
+      "B) Torsao anexial sem relacao com gestacao",
+      "C) Gestacao ectopica com possivel ruptura",
+      "D) Cistite hemorrgica"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Atraso menstrual, dor abdominal aguda, sangramento escuro e sinal de instabilidade sugerem fortemente ectopica complicada.",
+    "explicacoes_opcoes": {
+      "A": "Nao explica de forma convincente a dor intensa lateralizada com lipotimia.",
+      "B": "Pode dar dor aguda, mas nao justifica atraso menstrual e sangramento tipico.",
+      "C": "E a combinacao clinica de maior risco e prioridade na triagem.",
+      "D": "Nao costuma cursar com atraso menstrual e dor pelvica abrupta intensa."
+    },
+    "explicacao": "Atraso menstrual, dor abdominal aguda, sangramento escuro e sinal de instabilidade sugerem fortemente ectopica complicada.\nA) Nao explica de forma convincente a dor intensa lateralizada com lipotimia.\nB) Pode dar dor aguda, mas nao justifica atraso menstrual e sangramento tipico.\nC) E a combinacao clinica de maior risco e prioridade na triagem.\nD) Nao costuma cursar com atraso menstrual e dor pelvica abrupta intensa.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2342,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Na consulta de primeira vez, a paciente relata receio de dor no exame ginecologico. Qual conduta inicial protege autonomia e melhora a cooperacao durante o procedimento?",
+    "opcoes": [
+      "A) Explicar cada etapa, confirmar consentimento e combinar que ela pode interromper o exame a qualquer momento",
+      "B) Priorizar o exame imediato para evitar aumento de ansiedade pela antecipacao",
+      "C) Conversar apenas com o acompanhante para poupar a paciente de detalhes tecnicos",
+      "D) Iniciar o exame e explicar as manobras somente se surgir desconforto"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A preparacao com informacao clara, consentimento e controle da paciente sobre a interrupcao reduz estresse e torna o exame mais seguro.",
+    "explicacoes_opcoes": {
+      "A": "Reforca autonomia, previsibilidade e seguranca emocional, fatores que reduzem dor percebida e resistencia muscular.",
+      "B": "Velocidade sem alinhamento pode aumentar tensao, piorar desconforto e comprometer a qualidade dos achados.",
+      "C": "O protagonismo da decisao e da compreensao deve ser da paciente, mesmo com acompanhante presente.",
+      "D": "Explicar apenas depois de iniciar manobras reduz consentimento efetivo e pode ser percebido como invasivo."
+    },
+    "explicacao": "A preparacao com informacao clara, consentimento e controle da paciente sobre a interrupcao reduz estresse e torna o exame mais seguro.\nA) Reforca autonomia, previsibilidade e seguranca emocional, fatores que reduzem dor percebida e resistencia muscular.\nB) Velocidade sem alinhamento pode aumentar tensao, piorar desconforto e comprometer a qualidade dos achados.\nC) O protagonismo da decisao e da compreensao deve ser da paciente, mesmo com acompanhante presente.\nD) Explicar apenas depois de iniciar manobras reduz consentimento efetivo e pode ser percebido como invasivo.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2343,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Durante insercao do especulo, a paciente refere dor intensa logo no introito. Qual ajuste tecnico costuma melhorar conforto sem perder qualidade de avaliacao?",
+    "opcoes": [
+      "A) Reduzir o ritmo, usar lubrificacao adequada e inserir fechado antes de abrir sob visao",
+      "B) Abrir totalmente o especulo ainda no introito para abreviar o procedimento",
+      "C) Solicitar inspiracao profunda seguida de apneia sustentada em toda a manobra",
+      "D) Suspender comunicacao verbal para nao distrair a paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "Tecnica gradual com lubrificacao e comunicacao continua reduz dor e facilita visualizacao adequada do colo.",
+    "explicacoes_opcoes": {
+      "A": "Inserir fechado e abrir somente na posicao adequada minimiza dor e preserva qualidade do exame.",
+      "B": "Abrir precocemente aumenta atrito e desconforto no introito.",
+      "C": "Nao ha beneficio em apneia prolongada; orientacao respiratoria deve ser simples e confortavel.",
+      "D": "A comunicacao ajuda a reduzir ansiedade e permite ajustar a manobra conforme sintomas."
+    },
+    "explicacao": "Tecnica gradual com lubrificacao e comunicacao continua reduz dor e facilita visualizacao adequada do colo.\nA) Inserir fechado e abrir somente na posicao adequada minimiza dor e preserva qualidade do exame.\nB) Abrir precocemente aumenta atrito e desconforto no introito.\nC) Nao ha beneficio em apneia prolongada; orientacao respiratoria deve ser simples e confortavel.\nD) A comunicacao ajuda a reduzir ansiedade e permite ajustar a manobra conforme sintomas.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2344,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Em coleta oncocitologica de rotina, qual pratica aumenta a chance de amostra representativa da zona de transformacao?",
+    "opcoes": [
+      "A) Coletar apenas secrecao vaginal para evitar contato com o colo",
+      "B) Limpar o colo com antisseptico imediatamente antes da coleta",
+      "C) Amostrar ectocervice e canal endocervical com rotacao apropriada do dispositivo",
+      "D) Fazer toque bimanual antes da coleta para mobilizar o colo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A citologia depende de amostragem correta da juncao escamocolunar e do canal endocervical, com tecnica padronizada.",
+    "explicacoes_opcoes": {
+      "A": "Material vaginal isolado pode nao representar a area de maior relevancia para rastreamento cervical.",
+      "B": "Antissepticos podem remover ou alterar material celular util para leitura citologica.",
+      "C": "E a estrategia que melhor contempla as regioes de interesse para reduzir amostra insatisfatoria.",
+      "D": "O toque previo nao substitui tecnica de coleta e pode gerar sangramento ou interferencia."
+    },
+    "explicacao": "A citologia depende de amostragem correta da juncao escamocolunar e do canal endocervical, com tecnica padronizada.\nA) Material vaginal isolado pode nao representar a area de maior relevancia para rastreamento cervical.\nB) Antissepticos podem remover ou alterar material celular util para leitura citologica.\nC) E a estrategia que melhor contempla as regioes de interesse para reduzir amostra insatisfatoria.\nD) O toque previo nao substitui tecnica de coleta e pode gerar sangramento ou interferencia.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2348,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Na inspecao vulvar, qual achado deve receber descricao morfologica detalhada no prontuario e orientar investigacao dirigida?",
+    "opcoes": [
+      "A) distribuicao de pelos pubianos compativel com idade",
+      "B) pequena assimetria labial antiga e estavel",
+      "C) pigmentacao homogenea sem relevo ou sintomas associados",
+      "D) ulcera de bordas irregulares com base infiltrada"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "Lesao ulcerada com sinais de atipia demanda descricao objetiva de localizacao, tamanho, bordas e base para definir conduta e seguimento.",
+    "explicacoes_opcoes": {
+      "A": "E um dado descritivo geral, mas nao costuma direcionar investigacao imediata isoladamente.",
+      "B": "Assimetria congenita estavel geralmente nao configura sinal de alarme.",
+      "C": "Pigmentacao uniforme sem outros achados costuma ter menor suspeicao de gravidade.",
+      "D": "Morfologia ulcerada irregular e infiltrada e potencialmente relevante e precisa de registro rigoroso."
+    },
+    "explicacao": "Lesao ulcerada com sinais de atipia demanda descricao objetiva de localizacao, tamanho, bordas e base para definir conduta e seguimento.\nA) E um dado descritivo geral, mas nao costuma direcionar investigacao imediata isoladamente.\nB) Assimetria congenita estavel geralmente nao configura sinal de alarme.\nC) Pigmentacao uniforme sem outros achados costuma ter menor suspeicao de gravidade.\nD) Morfologia ulcerada irregular e infiltrada e potencialmente relevante e precisa de registro rigoroso.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2352,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “DATASUS:” está correta?",
+    "opcoes": [
+      "A) sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "B) Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+      "C) RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+      "D) Temperatura °C = intervalar: (zero não é ausência). PA, peso = razão."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “DATASUS:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "B": "Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+      "C": "Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+      "D": "Incorreta: Temperatura °C = intervalar: (zero não é ausência). PA, peso = razão."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “DATASUS:”.\nA) CORRETA. Correta: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).\nB) INCORRETA. Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).\nC) INCORRETA. Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).\nD) INCORRETA. Incorreta: Temperatura °C = intervalar: (zero não é ausência). PA, peso = razão.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2353,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Conceito” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+      "B) Conceito — Definição — Exemplo",
+      "C) DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "D) Estatística descritiva:: resume dados observados (média, mediana, desvio padrão)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Conceito” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+      "B": "Correta: Conceito — Definição — Exemplo",
+      "C": "Incorreta: DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "D": "Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Conceito” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).\nB) CORRETA. Correta: Conceito — Definição — Exemplo\nC) INCORRETA. Incorreta: DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).\nD) INCORRETA. Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2355,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “População” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "B) Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+      "C) RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+      "D) População — Conjunto total de indivíduos de interesse — Todos os hipertensos do Brasil"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “População” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "B": "Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+      "C": "Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+      "D": "Correta: População — Conjunto total de indivíduos de interesse — Todos os hipertensos do Brasil"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “População” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).\nB) INCORRETA. Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).\nC) INCORRETA. Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).\nD) CORRETA. Correta: População — Conjunto total de indivíduos de interesse — Todos os hipertensos do Brasil",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2360,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Parâmetro:” está correta?",
+    "opcoes": [
+      "A) medida da população (μ, σ). Estatística: medida da amostra (x̄, s).",
+      "B) DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "C) Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+      "D) RCT:: único estudo que permite causalidade (aleatorização controla confundidores)."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Parâmetro:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: medida da população (μ, σ). Estatística: medida da amostra (x̄, s).",
+      "B": "Incorreta: DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).",
+      "C": "Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).",
+      "D": "Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores)."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Parâmetro:”.\nA) CORRETA. Correta: medida da população (μ, σ). Estatística: medida da amostra (x̄, s).\nB) INCORRETA. Incorreta: DATASUS:: sistema de informação do Ministério da Saúde (SIM, SINASC, SINAN, AIH).\nC) INCORRETA. Incorreta: Estatística descritiva:: resume dados observados (média, mediana, desvio padrão).\nD) INCORRETA. Incorreta: RCT:: único estudo que permite causalidade (aleatorização controla confundidores).",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2362,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “OR = 1:” está correta?",
+    "opcoes": [
+      "A) sem associação",
+      "B) Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+      "C) OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+      "D) Expostos — a — b"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “OR = 1:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sem associação",
+      "B": "Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+      "C": "Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+      "D": "Incorreta: Expostos — a — b"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “OR = 1:”.\nA) CORRETA. Correta: sem associação\nB) INCORRETA. Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.\nC) INCORRETA. Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).\nD) INCORRETA. Incorreta: Expostos — a — b",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2363,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Casos” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Expostos — a — b",
+      "B) Casos — Controles",
+      "C) Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+      "D) OR aproxima RR quando a doença eh rara: (prevalência menor que 10%)."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Casos” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Expostos — a — b",
+      "B": "Correta: Casos — Controles",
+      "C": "Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+      "D": "Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Casos” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Expostos — a — b\nB) CORRETA. Correta: Casos — Controles\nC) INCORRETA. Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.\nD) INCORRETA. Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2365,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Expostos” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+      "B) OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+      "C) Viés de recall:: casos lembram mais das exposições do que controles.",
+      "D) Expostos — a — b"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Expostos” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+      "B": "Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+      "C": "Incorreta: Viés de recall:: casos lembram mais das exposições do que controles.",
+      "D": "Correta: Expostos — a — b"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Expostos” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.\nB) INCORRETA. Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).\nC) INCORRETA. Incorreta: Viés de recall:: casos lembram mais das exposições do que controles.\nD) CORRETA. Correta: Expostos — a — b",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2371,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Seleção pela” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+      "B) Expostos — a — b",
+      "C) Seleção pela — Exposição — Desfecho",
+      "D) Viés de recall:: principal viés — casos recordam a exposição de forma diferente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Seleção pela” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).",
+      "B": "Incorreta: Expostos — a — b",
+      "C": "Correta: Seleção pela — Exposição — Desfecho",
+      "D": "Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Seleção pela” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: OR aproxima RR quando a doença eh rara: (prevalência menor que 10%).\nB) INCORRETA. Incorreta: Expostos — a — b\nC) CORRETA. Correta: Seleção pela — Exposição — Desfecho\nD) INCORRETA. Incorreta: Viés de recall:: principal viés — casos recordam a exposição de forma diferente.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2372,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Vigilância epidemiológica:” está correta?",
+    "opcoes": [
+      "A) monitoramento de tendências de doenças ao longo do tempo.",
+      "B) Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+      "C) Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+      "D) Rápido e barato:: usa dados já existentes de sistemas de informação em saúde."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Vigilância epidemiológica:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: monitoramento de tendências de doenças ao longo do tempo.",
+      "B": "Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+      "C": "Incorreta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+      "D": "Incorreta: Rápido e barato:: usa dados já existentes de sistemas de informação em saúde."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Vigilância epidemiológica:”.\nA) CORRETA. Correta: monitoramento de tendências de doenças ao longo do tempo.\nB) INCORRETA. Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.\nC) INCORRETA. Incorreta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento\nD) INCORRETA. Incorreta: Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2373,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Qual alternativa associa corretamente “Ecológico” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.",
+      "B) Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+      "C) Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.",
+      "D) Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Ecológico” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.",
+      "B": "Correta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+      "C": "Incorreta: Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.",
+      "D": "Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ecológico” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.\nB) CORRETA. Correta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento\nC) INCORRETA. Incorreta: Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.\nD) INCORRETA. Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2380,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Qual afirmação sobre “Rápido e barato:” está correta?",
+    "opcoes": [
+      "A) usa dados já existentes de sistemas de informação em saúde.",
+      "B) Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.",
+      "C) Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+      "D) Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Rápido e barato:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: usa dados já existentes de sistemas de informação em saúde.",
+      "B": "Incorreta: Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.",
+      "C": "Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+      "D": "Incorreta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Rápido e barato:”.\nA) CORRETA. Correta: usa dados já existentes de sistemas de informação em saúde.\nB) INCORRETA. Incorreta: Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.\nC) INCORRETA. Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.\nD) INCORRETA. Incorreta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2381,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Ecológico” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+      "B) Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.",
+      "C) Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+      "D) Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Ecológico” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.",
+      "B": "Incorreta: Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.",
+      "C": "Correta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento",
+      "D": "Incorreta: Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ecológico” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Ecológico:: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.\nB) INCORRETA. Incorreta: Rápido e barato:: usa dados já existentes de sistemas de informação em saúde.\nC) CORRETA. Correta: Ecológico — Transversal — Ecológico: indivíduo = populacao agregada; Transversal: dados individuais em um momento\nD) INCORRETA. Incorreta: Vigilância epidemiológica:: monitoramento de tendências de doenças ao longo do tempo.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2382,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Placebo:” está correta?",
+    "opcoes": [
+      "A) substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+      "B) Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "C) Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+      "D) RCT:: experimental, aleatorização elimina confundimento, padrão-ouro de eficácia."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Placebo:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+      "B": "Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "C": "Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+      "D": "Incorreta: RCT:: experimental, aleatorização elimina confundimento, padrão-ouro de eficácia."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Placebo:”.\nA) CORRETA. Correta: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.\nB) INCORRETA. Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.\nC) INCORRETA. Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).\nD) INCORRETA. Incorreta: RCT:: experimental, aleatorização elimina confundimento, padrão-ouro de eficácia.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2383,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Fase” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+      "B) Fase — n — Objetivo",
+      "C) Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "D) Per-protocol:: só quem completou — pode superestimar efeito (análise secundária)."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Fase” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+      "B": "Correta: Fase — n — Objetivo",
+      "C": "Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "D": "Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fase” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.\nB) CORRETA. Correta: Fase — n — Objetivo\nC) INCORRETA. Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.\nD) INCORRETA. Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2385,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Fase I” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "B) Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+      "C) Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+      "D) Fase I — 20-80 — Segurança, farmacocinética, dose"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Fase I” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "B": "Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+      "C": "Incorreta: Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+      "D": "Correta: Fase I — 20-80 — Segurança, farmacocinética, dose"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Fase I” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.\nB) INCORRETA. Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).\nC) INCORRETA. Incorreta: Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.\nD) CORRETA. Correta: Fase I — 20-80 — Segurança, farmacocinética, dose",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2390,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “NNT alto (100, 1000):” está correta?",
+    "opcoes": [
+      "A) intervenção modesta — tratar muitos para beneficiar poucos.",
+      "B) Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "C) Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+      "D) Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “NNT alto (100, 1000):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: intervenção modesta — tratar muitos para beneficiar poucos.",
+      "B": "Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.",
+      "C": "Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).",
+      "D": "Incorreta: Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “NNT alto (100, 1000):”.\nA) CORRETA. Correta: intervenção modesta — tratar muitos para beneficiar poucos.\nB) INCORRETA. Incorreta: Nenhuma intervenção:: em estudos de rastreamento, exercício ou educação em saúde.\nC) INCORRETA. Incorreta: Per-protocol:: só quem completou — pode superestimar efeito (análise secundária).\nD) INCORRETA. Incorreta: Placebo:: substância inativa, indistinguível da intervenção. Padrão quando não há tratamento eficaz disponível.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2392,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Nominal:” está correta?",
+    "opcoes": [
+      "A) sem ordem — sexo, diagnóstico, grupo sanguíneo.",
+      "B) Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "C) Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+      "D) Randomização:: único método que controla confundidores desconhecidos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Nominal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sem ordem — sexo, diagnóstico, grupo sanguíneo.",
+      "B": "Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "C": "Incorreta: Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+      "D": "Incorreta: Randomização:: único método que controla confundidores desconhecidos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Nominal:”.\nA) CORRETA. Correta: sem ordem — sexo, diagnóstico, grupo sanguíneo.\nB) INCORRETA. Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.\nC) INCORRETA. Incorreta: Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).\nD) INCORRETA. Incorreta: Randomização:: único método que controla confundidores desconhecidos.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2393,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Qual alternativa associa corretamente “Escala” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Randomização:: único método que controla confundidores desconhecidos.",
+      "B) Escala — Propriedades acumuladas — Exemplos clínicos — Operações",
+      "C) Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "D) Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto)."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A opção correta é a linha em que “Escala” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Randomização:: único método que controla confundidores desconhecidos.",
+      "B": "Correta: Escala — Propriedades acumuladas — Exemplos clínicos — Operações",
+      "C": "Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "D": "Incorreta: Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto)."
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Escala” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Randomização:: único método que controla confundidores desconhecidos.\nB) CORRETA. Correta: Escala — Propriedades acumuladas — Exemplos clínicos — Operações\nC) INCORRETA. Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.\nD) INCORRETA. Incorreta: Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2396,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Qual afirmação sobre “Discreta:” está correta?",
+    "opcoes": [
+      "A) inteiros contáveis — número de gestações, contagem de células.",
+      "B) Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "C) Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+      "D) Randomização:: único método que controla confundidores desconhecidos."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Discreta:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: inteiros contáveis — número de gestações, contagem de células.",
+      "B": "Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "C": "Incorreta: Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+      "D": "Incorreta: Randomização:: único método que controla confundidores desconhecidos."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Discreta:”.\nA) CORRETA. Correta: inteiros contáveis — número de gestações, contagem de células.\nB) INCORRETA. Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.\nC) INCORRETA. Incorreta: Escala de razão:: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).\nD) INCORRETA. Incorreta: Randomização:: único método que controla confundidores desconhecidos.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  },
+  {
+    "id": 2400,
+    "materia": "bioestatistica",
+    "tema": "bioe_a2",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Escala de razão:” está correta?",
+    "opcoes": [
+      "A) tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+      "B) Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "C) Randomização:: único método que controla confundidores desconhecidos.",
+      "D) Discreta:: inteiros contáveis — número de gestações, contagem de células."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 4,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Escala de razão:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).",
+      "B": "Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.",
+      "C": "Incorreta: Randomização:: único método que controla confundidores desconhecidos.",
+      "D": "Incorreta: Discreta:: inteiros contáveis — número de gestações, contagem de células."
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Escala de razão:”.\nA) CORRETA. Correta: tem zero absoluto — peso, PA. Temperatura °C = intervalar (sem zero absoluto).\nB) INCORRETA. Incorreta: Ordinal:: com ordem, sem distâncias iguais — estadiamento, NYHA, Glasgow por faixas.\nC) INCORRETA. Incorreta: Randomização:: único método que controla confundidores desconhecidos.\nD) INCORRETA. Incorreta: Discreta:: inteiros contáveis — número de gestações, contagem de células.",
+    "aula_id": "bioe_a2",
+    "essencial": false
+  }
+]

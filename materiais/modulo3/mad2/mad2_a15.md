@@ -1,8 +1,8 @@
 # MAD2 — Aula 15: Cestoidoses — Teníase e Cisticercose
 
-A Teníase e a Cisticercose são duas doenças diferentes causadas pelo mesmo parasita, a *Taenia solium* (o "verme solitário"). Na prova, o segredo é não confundir **COMO** a pessoa pega cada uma: comer carne de porco com larva dá o verme no intestino (**Teníase**); comer ovos do verme nas mãos ou verduras dá o verme no cérebro (**Cisticercose**).
+A Teníase e a Cisticercose são duas doenças diferentes causadas pelo mesmo parasita, a *Taenia solium* (o "verme solitário"). Na prova, o segredo é não confundir **COMO** a pessoa pega cada uma: comer **carne de porco com larva** dá o verme no intestino (**Teníase**); comer **ovos do verme** nas mãos ou verduras dá o verme no cérebro (**Cisticercose**).
 
-Na prática, a neurocisticercose é uma das maiores causas de crises convulsivas no Brasil, e entender o ciclo de transmissão é fundamental para a prevenção e o diagnóstico correto de lesões cerebrais.
+Na prática, a **neurocisticercose** é uma das maiores causas de **crises convulsivas** no Brasil, e entender o ciclo de transmissão é fundamental para a prevenção e o diagnóstico correto de lesões cerebrais.
 
 ---
 
@@ -18,7 +18,7 @@ Na prática, a neurocisticercose é uma das maiores causas de crises convulsivas
 ## 1. Teníase: O Verme "Solitário" no Intestino
 
 A teníase ocorre quando você é o **Hospedeiro Definitivo**.
-- **Como se pega:** Ingestão de **Carne de Porco ou Boi Malpassada** contendo o cisticerco (a larva).
+- **Como se pega:** Ingestão de **Carne de Porco ou Boi Malpassada** contendo o **cisticerco** (a larva).
 - **O que acontece:** A larva vira um verme adulto gigante (pode chegar a 10 metros!) que gruda no seu intestino e rouba seus nutrientes.
 - **Sintomas:** Frequentemente nenhum, mas o paciente nota a eliminação de pedaços do verme (**Proglotes**) nas fezes, que parecem macarrão ou "canjica" que se mexe.
 
@@ -26,8 +26,8 @@ A teníase ocorre quando você é o **Hospedeiro Definitivo**.
 
 ## 2. Cisticercose: A Larva nos Tecidos
 
-A cisticercose ocorre quando você age como se fosse o porco (Hospedeiro Intermediário).
-- **Como se pega:** Ingestão de **Ovos de Taenia solium** (presentes em águas contaminadas, mãos sujas ou verduras lavadas com água de esgoto).
+A cisticercose ocorre quando você age como se fosse o porco (**Hospedeiro Intermediário**).
+- **Como se pega:** Ingestão de **Ovos de *Taenia solium*** (presentes em águas contaminadas, mãos sujas ou verduras lavadas com água de esgoto).
 - **O que acontece:** Os ovos liberam larvas que atravessam o intestino, caem no sangue e se instalam nos tecidos, como músculos, olhos e, principalmente, o **Cérebro**.
 
 ---
@@ -37,17 +37,17 @@ A cisticercose ocorre quando você age como se fosse o porco (Hospedeiro Interme
 É a forma mais grave da doença e ataca o sistema nervoso central.
 - **Crise Convulsiva:** É o sintoma mais comum. O cisto irrita o cérebro e dispara a crise.
 - **Fases dos Cistos (O que a Uninove ama):**
-    1.  **Cisto Viável:** A larva está lá dentro, ainda "viva", protegida.
-    2.  **Cisto Coloidal:** O sistema imune ataca o cisto; há muita inflamação (é quando o paciente costuma ter sintomas).
-    3.  **Cisto Calcificado:** O cisto morre e vira uma "pedrinha" no cérebro. Pode continuar causando convulsões para sempre.
+    1.  **Cisto Viável:** A larva está lá dentro, ainda "**viva**", protegida.
+    2.  **Cisto Coloidal:** O sistema imune ataca o cisto; há muita **inflamação** (é quando o paciente costuma ter sintomas).
+    3.  **Cisto Calcificado:** O cisto morre e vira uma "**pedrinha**" no cérebro. Pode continuar causando **convulsões** para sempre.
 
 ---
 
 ## 4. Diagnóstico e Tratamento
 
 - **Teníase:** Exame de Fezes (EPF) procurando ovos ou proglotes. Tratamento com Praziquantel ou Albendazol.
-- **Cisticercose:** O diagnóstico é feito por **Tomografia (TC) ou Ressonância (RM)**, que mostram os "buraquinhos" ou pontos brancos no cérebro.
-- **Tratamento da NCC:** É complexo. Usa-se Albendazol + **Corticoides** (para evitar que a morte do verme cause um edema cerebral fatal) + Anticonvulsivantes.
+- **Cisticercose:** O diagnóstico é feito por **Tomografia (TC)** ou **Ressonância (RM)**, que mostram os "buraquinhos" ou pontos brancos no cérebro.
+- **Tratamento da NCC:** É complexo. Usa-se Albendazol + **Corticoides** (para evitar que a morte do verme cause um **edema cerebral** fatal) + Anticonvulsivantes.
 
 ---
 
@@ -84,7 +84,7 @@ A Uninove adora o tratamento. Grave: Tratar cisticercose ativamente no cérebro 
 |------------|------------|-----------------|
 | **Teníase** | **Cisticercose** | Comeu a **Larva na Carne** vs Comeu o **Ovo nas fezes** |
 | **T. solium (porco)** | **T. saginata (boi)** | Pode dar **Cisticercose** vs Só dá o verme no intestino |
-| **Cisto Coloidal** | **Cisto Calcificado** | Fase de **Inflamação** vs Fase de Cicatriz (Patinha branca na TC) |
+| **Cisto Coloidal** | **Cisto Calcificado** | Fase de **Inflamação** vs Fase de **Cicatriz** (pedrinha branca) |
 | **Praziquantel** | **Corticoide** | Mata o verme vs **Diminui o inchaço do cérebro** |
 | **Proglote** | **Ovo** | Parte do verme visível vs Microscópico |
 

@@ -23,7 +23,7 @@ O **Pacto pela Saúde** (2006) veio para simplificar o SUS, substituindo as anti
 
 ## O que significa pactuar no SUS
 
-Pactuar é negociar responsabilidades entre entes federativos com metas, indicadores e monitoramento.  
+**Pactuar** é negociar responsabilidades entre entes federativos com metas, **indicadores** e **monitoramento**.  
 Não é anúncio político; é contrato de execução sanitária com consequências organizacionais.
 
 Quando a pactuação é bem-feita, a rede sabe o que priorizar e como medir avanço.  
@@ -78,7 +78,7 @@ A pergunta quase sempre avalia se você entende o que o indicador mede e qual in
 
 ### Microcaso 1
 
-Município eleva coleta de citologia, mas mantém alta taxa de câncer invasivo diagnosticado tardiamente.  
+Município eleva coleta de **citologia**, mas mantém alta taxa de **câncer invasivo** diagnosticado tardiamente.  
 A leitura correta é falha de continuidade: rastreou, mas não garantiu confirmação diagnóstica e tratamento oportuno.
 
 ### Microcaso 2
@@ -134,7 +134,7 @@ A resposta clínica adequada depende de articulação multiprofissional e coorde
 | **Pacto pela Vida** | **Pacto de Gestão** | Saúde (Pessoas) vs Organização (Máquina) |
 | **Indicador** | **Meta** | Como medimos vs **Onde queremos chegar** |
 | **Mortalidade** | **Prevalência**| Mortes vs **Número de doentes atuais** |
-| **Pacto 2006** | **NOBs anteriores** | Bloco de Financiamento vs Pagamento por serviço |
+| **Pacto 2006** | **NOBs anteriores** | **Bloco de Financiamento** vs Pagamento por serviço |
 
 ### Frase-âncora para não esquecer
 

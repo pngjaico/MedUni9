@@ -1,8 +1,8 @@
 # MAD2 — Aula 7: Doenças Exantemáticas Virais (Sarampo e Rubéola)
 
-As doenças exantemáticas são aquelas que "pintam" a pele da criança ou do adulto. Na prova, os temas centrais são a diferenciação entre o **Sarampo** (muito grave e barulhento) e a **Rubéola** (mais silenciosa, mas perigosa para gestantes), além da importância do calendário vacinal.
+As doenças exantemáticas são aquelas que "pintam" a pele da criança ou do adulto. Na prova, os temas centrais são a diferenciação entre o **Sarampo** (muito grave e barulhento) e a **Rubéola** (mais silenciosa, mas perigosa para **gestantes**), além da importância do calendário vacinal.
 
-Na prática, o médico deve saber reconhecer os sinais de alerta de um surto de sarampo e proteger as mulheres grávidas contra a rubéola, que pode causar danos irreversíveis ao feto.
+Na prática, o médico deve saber reconhecer os sinais de alerta de um surto de **sarampo** e proteger as mulheres grávidas contra a **rubéola**, que pode causar danos irreversíveis ao feto.
 
 ---
 
@@ -19,7 +19,7 @@ Na prática, o médico deve saber reconhecer os sinais de alerta de um surto de 
 
 O sarampo é uma das doenças mais contagiosas que existem. Ele não começa com as manchas na pele, mas com sintomas de um "resfriado forte".
 - **Pródromo (Antes das manchas):** Febre muito alta, tosse seca, coriza e **Conjuntivite** (olhos vermelhos e sensíveis à luz).
-- **Sinal de Koplik:** Pequenos pontos brancos na parte interna da bochecha. Se você vir isso, o diagnóstico de sarampo está fechado mesmo antes das manchas surgirem.
+- **Sinal de Koplik:** Pequenos pontos brancos na parte interna da bochecha. Se você vir isso, o diagnóstico de **sarampo** está fechado mesmo antes das manchas surgirem.
 - **Exantema (Manchas):** Começa atrás da orelha e na testa e desce para o corpo (**Craniocaudal**). As manchas "se juntam" e a pele fica bem vermelha.
 - **Complicação:** A principal causa de morte por sarampo é a **Pneumonia**.
 
@@ -28,16 +28,16 @@ O sarampo é uma das doenças mais contagiosas que existem. Ele não começa com
 ## 2. Rubéola: A Ameaça Silenciosa
 
 A rubéola é muito mais "leve" que o sarampo no paciente comum, mas é uma tragédia em gestantes.
-- **Sinais Clínicos:** Febre baixa, mal-estar e um achado clássico: **Linfonodos palpáveis** atrás da orelha (retroauriculares) e na nuca (occipitais).
-- **O Perigo Real:** Se uma grávida pegar rubéola, o vírus atravessa a placenta e causa a **Síndrome da Rubéola Congênita (SRC)**. O bebê pode nascer cego (catarata), surdo ou com problemas graves no coração.
+- **Sinais Clínicos:** Febre baixa, mal-estar e um achado clássico: **Linfonodos palpáveis** atrás da orelha (**retroauriculares**) e na nuca (**occipitais**).
+- **O Perigo Real:** Se uma grávida pegar rubéola, o vírus atravessa a placenta e causa a **Síndrome da Rubéola Congênita (SRC)**. O bebê pode nascer cego (**catarata**), surdo ou com problemas graves no coração.
 
 ---
 
 ## 3. Prevenção: A Vacina é a Única Arma
 
 Ambas as doenças são prevenidas pela vacina **Tríplice Viral** (Sarampo, Caxumba e Rubéola).
-- **Bloqueio:** Quando surge um caso suspeito em uma escola ou creche, devemos fazer a vacinação de bloqueio em todos os contatos em até 72 horas para impedir o surto.
-- **Isolamento:** Pacientes com sarampo devem ficar em isolamento respiratório por aerois (máscara N95 para o médico) até 4 dias após o surgimento das manchas.
+- **Bloqueio:** Quando surge um caso suspeito em uma escola ou creche, devemos fazer a **vacinação de bloqueio** em todos os contatos em até **72 horas** para impedir o surto.
+- **Isolamento:** Pacientes com sarampo devem ficar em **isolamento respiratório por aerois** (máscara **N95** para o médico) até 4 dias após o surgimento das manchas.
 
 ---
 
@@ -48,7 +48,7 @@ Ambas as doenças são prevenidas pela vacina **Tríplice Viral** (Sarampo, Caxu
 | **Febre** | Muito Alta | Baixa ou ausente |
 | **Estado Geral** | Paciente parece muito doente | Paciente parece bem (bom estado geral) |
 | **Olhos** | Conjuntivite intensa | Sem conjuntivite importante |
-| **Boca** | Manchas de Koplik | Manchas de Forchheimer (pontos vermelhos no palato) |
+| **Boca** | **Manchas de Koplik** | **Manchas de Forchheimer** (pontos vermelhos no palato) |
 | **Linfonodos** | Inespecíficos | **Atrás da orelha e nuca** (Marcante) |
 
 ---
@@ -87,7 +87,7 @@ A Uninove adora cobrar sobre a **Gestante**. Se a questão trouxer uma gestante 
 | **Manchas de Koplik** | **Manchas de Forchheimer** | **Brancas** (Sarampo) vs **Vermelhas** (Rubéola) |
 | **Sarampo** | **Roséola (Exantema Súbito)** | Febre sobe com o rash vs **Febre some e o rash aparece** |
 | **Tríplice Viral** | **Tetra Viral** | Protege contra 3 doenças vs Protege contra 4 (+ Varicela) |
-| **Aerossóis (N95)** | **Gotículas** | Sarampo (voa longe) vs Rubéola (contato mais próximo) |
+| **Aerossóis (N95)** | **Gotículas** | **Sarampo** (voa longe) vs Rubéola (contato mais próximo) |
 | **Pneumonia** | **Catarata Congênita** | Principal morte no **Sarampo** vs Principal sequela na **Rubéola** |
 
 ### Frase-âncora para não esquecer

@@ -2,7 +2,7 @@
 
 A patologia celular é a base de toda a medicina: antes de o órgão falhar, a célula adoece. Na prova, os temas centrais são a diferenciação entre **Lesão Reversível** (edema) e **Irreversível** (morte), as diferenças entre **Necrose** (morte por acidente) e **Apoptose** (morte programada), e o reconhecimento dos 4 tipos principais de necrose e suas causas clínicas.
 
-Na prática, entender o "ponto de não retorno" da célula ajuda a compreender por que o tempo é músculo no infarto do coração e por que a reoxigenação rápida pode, por vezes, gerar os temidos radicais livres da lesão de reperfusão.
+Na prática, entender o "**ponto de não retorno**" da célula ajuda a compreender por que o **tempo é músculo** no infarto do coração e por que a reoxigenação rápida pode, por vezes, gerar os temidos **radicais livres** da lesão de reperfusão.
 
 ---
 
@@ -18,8 +18,8 @@ Na prática, entender o "ponto de não retorno" da célula ajuda a compreender p
 ## 1. O Espectro da Lesão: Do Inchaço à Morte
 
 A célula tenta se adaptar ao estresse, mas se o limite for ultrapassado, ela sofre lesão.
-- **Lesão Reversível (Edema Celular):** É o primeiro sinal. A célula perde energia (ATP), a bomba de sódio para e a água entra. Se o sangue voltar a correr, a célula sobrevive. No microscópio, vemos a **Tumefação Turva**.
-- **Lesão Irreversível (Ponto de Não Retorno):** Ocorre quando a mitocôndria explode e as enzimas ácidas dos lisossomos vazam para dentro da própria célula, digerindo-a. A partir daqui, a morte é inevitável.
+- **Lesão Reversível (Edema Celular):** É o primeiro sinal. A célula perde energia (**ATP**), a bomba de sódio para e a água entra. Se o sangue voltar a correr, a célula sobrevive. No microscópio, vemos a **Tumefação Turva**.
+- **Lesão Irreversível (Ponto de Não Retorno):** Ocorre quando a **mitocôndria explode** e as enzimas ácidas dos lisossomos vazam para dentro da própria célula, digerindo-a. A partir daqui, a **morte é inevitável**.
 
 ---
 
@@ -27,9 +27,9 @@ A célula tenta se adaptar ao estresse, mas se o limite for ultrapassado, ela so
 
 A necrose é sempre **Patológica** e gera **Inflamação** (espalha o lixo para os vizinhos).
 - **Necrose Coagulativa:** O tecido fica firme. É a marca do **Infarto em Órgãos Sólidos** (Rins, Coração), exceto o cérebro.
-- **Necrose Liquefativa:** O tecido vira pus ou líquido. Ocorre em **Abscessos Bacterianos** e no **AVC Isquêmico (Cérebro)**.
+- **Necrose Liquefativa:** O tecido vira **pus** ou líquido. Ocorre em **Abscessos Bacterianos** e no **AVC Isquêmico (Cérebro)**.
 - **Necrose Caseosa:** Parece "queijo branco". É a marca registrada da **Tuberculose**.
-- **Necrose Gordurosa:** Ocorre na **Pancreatite Aguda**. As gorduras derretem e formam manchas brancas calcárias (Saponificação).
+- **Necrose Gordurosa:** Ocorre na **Pancreatite Aguda**. As gorduras derretem e formam manchas brancas calcárias (**Saponificação**).
 
 ---
 
@@ -45,7 +45,7 @@ A apoptose é o "suicídio celular" planejado. Pode ser fisiológica (dedos que 
 
 Quando um vaso entupido é aberto (como no cateterismo pós-infarto), o sangue volta trazendo oxigênio e nutrientes. 
 - **O Problema:** Em tecidos muito lesionados, esse oxigênio novo gera um surto de **Radicais Livres de Oxigênio**.
-- **Consequência:** Esses radicais podem terminar o trabalho que a isquemia começou, matando células que ainda estavam lutando para sobreviver. Por isso, a reabertura do vaso deve ser o mais rápida e controlada possível.
+- **Consequência:** Esses radicais podem terminar o trabalho que a isquemia começou, matando células que ainda estavam lutando para sobreviver. Por isso, a reabertura do vaso deve ser o mais rápida e controlada possível (**Lesão de Reperfusão**).
 
 ---
 

@@ -2,7 +2,7 @@
 
 A saúde das pessoas que vivem em cidades não depende apenas de hospitais, mas de como a cidade é desenhada. Na prova, o tema central são os **Objetivos de Desenvolvimento Sustentável (ODS)** e como a **Mobilidade** e a **Habitação** influenciam diretamente no aparecimento de doenças crônicas e acidentes.
 
-Na prática, se uma cidade tem calçadas ruins e transporte público caro, a população caminha menos, fica mais estressada e falta às consultas médicas, gerando um ciclo de adoecimento.
+Na prática, se uma cidade tem calçadas ruins e transporte público caro, a população **caminha menos**, fica mais estressada e falta às consultas médicas, gerando um ciclo de adoecimento.
 
 ---
 
@@ -19,16 +19,16 @@ Na prática, se uma cidade tem calçadas ruins e transporte público caro, a pop
 
 Embora o **ODS 3** seja o foco da saúde, ele não funciona sozinho. Você precisa de:
 - **ODS 6 (Água e Saneamento):** Sem isso, as doenças infecciosas nunca param.
-- **ODS 11 (Cidades Sustentáveis):** Foca em transporte seguro e áreas verdes, reduzindo acidentes e poluição.
-- **ODS 13 (Ação Climática):** Combate as ilhas de calor que matam idosos no verão.
+- **ODS 11 (Cidades Sustentáveis):** Foca em **transporte seguro** e **áreas verdes**, reduzindo acidentes e poluição.
+- **ODS 13 (Ação Climática):** Combate as **ilhas de calor** que matam idosos no verão.
 
 ---
 
 ## 2. Mobilidade Urbana como Remédio
 
 O jeito que as pessoas se deslocam é um determinante de saúde:
-- **Transporte Ativo:** Cidades que incentivam andar a pé ou de bicicleta reduzem a obesidade e o infarto.
-- **Segurança Viária:** Desenho de ruas que protegem o pedestre (Zona 30) evita traumas que lotam o Pronto-Socorro.
+- **Transporte Ativo:** Cidades que incentivam **andar a pé** ou de **bicicleta** reduzem a obesidade e o infarto.
+- **Segurança Viária:** Desenho de ruas que protegem o pedestre (**Zona 30**) evita traumas que lotam o Pronto-Socorro.
 - **Acesso ao Cuidado:** Se o ônibus demora 2 horas para chegar ao posto de saúde, o paciente desiste do tratamento.
 
 ---
@@ -46,7 +46,7 @@ O asfalto e o concreto das cidades absorvem calor, criando bairros muito mais qu
 Para saber se a cidade está saudável, o gestor olha para indicadores como:
 - **Mortalidade no Trânsito:** Avalia se as ruas são seguras.
 - **Cobertura de Esgoto:** Avalia o risco de doenças de veiculação hídrica.
-- **Desigualdade entre Bairros:** Se a mortalidade é 5 vezes maior num bairro pobre do que num rico, a cidade falhou na equidade.
+- **Desigualdade entre Bairros:** Se a mortalidade é 5 vezes maior num bairro pobre do que num rico, a cidade falhou na **equidade**.
 
 ---
 
@@ -84,8 +84,8 @@ Lembre-se: saúde urbana é **Intersetorial**. Se o problema é a diarreia, a so
 | **ODS 3** | **ODS 11** | Foco na Doença/Bem-estar vs **Foco na Cidade/Ambiente** |
 | **Transporte Passivo** | **Mobilidade Ativa** | Carro/Ônibus vs **Andar/Pedalar (Gasta energia)** |
 | **Mitigação** | **Adaptação** | Reduzir a causa (poluição) vs **Preparar a cidade para o calor** |
-| **Zona 30** | **Via Expressa** | Rua lenta e segura vs **Via rápida e perigosa para pedestres** |
-| **Intersetorialidade** | **Silos de Gestão** | Unir secretarias vs **Cada secretaria trabalha sozinha** |
+| **Zona 30** | **Via Expressa** | **Rua lenta e segura** vs Via rápida e perigosa para pedestres |
+| **Intersetorialidade** | **Silos de Gestão** | **Unir secretarias** vs Cada secretaria trabalha sozinha |
 
 ### Frase-âncora para não esquecer
 

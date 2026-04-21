@@ -1,6 +1,6 @@
 # BMF4 — Aula 7: Diencéfalo — O Centro de Controle Interno
 
-O diencéfalo é a "estação central" de informações do cérebro. Quase tudo o que você sente ou decide passa por aqui antes de chegar ao córtex. Na prova, os temas centrais são os **Núcleos do Tálamo** (especialmente VPL e VPM), o controle hormonal e térmico do **Hipotálamo** e a função da **Glândula Pineal**.
+O diencéfalo é a "estação central" de informações do cérebro. Quase tudo o que você sente ou decide passa por aqui antes de chegar ao córtex. Na prova, os temas centrais são os **Núcleos do Tálamo** (especialmente **VPL e VPM**), o controle hormonal e térmico do **Hipotálamo** e a função da **Glândula Pineal**.
 
 Na prática, o diencéfalo cuida da sua sobrevivência automática. Se você sente sede, fome ou sono, é o seu diencéfalo trabalhando. Além disso, se um paciente apresenta uma dor estranha e intensa em um lado do corpo após um AVC, mesmo sem lesão na pele, o culpado pode ser o **Tálamo**.
 
@@ -20,8 +20,8 @@ Na prática, o diencéfalo cuida da sua sobrevivência automática. Se você sen
 O **Tálamo** é a porta de entrada para o córtex. Nada entra no cérebro (exceto o olfato) sem passar pelo tálamo:
 - **Núcleo VPL (Ventral Postero-Lateral):** Recebe toda a sensibilidade do **Corpo** (dor, tato, frio).
 - **Núcleo VPM (Ventral Postero-Medial):** Recebe a sensibilidade da **Face**.
-- **Corpo Geniculado Lateral:** É o "núcleo da visão".
-- **Corpo Geniculado Medial:** É o "núcleo da audição".
+- **Corpo Geniculado Lateral:** É o "núcleo da **visão**".
+- **Corpo Geniculado Medial:** É o "núcleo da **audição**".
 - **Clínica:** Lesões no tálamo podem causar a **Síndrome de Déjerine-Roussy**, onde o paciente sente dores excruciantes em um lado do corpo que não passam com analgésicos comuns.
 
 ---
@@ -39,7 +39,7 @@ O **Hipotálamo** é o maestro do seu corpo, controlando o sistema nervoso autô
 ## 3. Epitálamo e a Glândula Pineal
 
 O epitálamo fica na parte de trás e abriga a **Glândula Pineal**.
-- **Melatonina:** A pineal produz melatonina quando o ambiente escurece, avisando o corpo que é hora de **Dormir**.
+- **Melatonina:** A pineal produz **melatonina** quando o ambiente escurece, avisando o corpo que é hora de **Dormir**.
 - **Ritmo Circadiano:** É o nosso relógio biológico de 24 horas.
 - **Clínica:** Tumores na região da pineal podem pressionar o tronco encefálico e causar a **Síndrome de Parinaud**, onde o paciente perde a capacidade de olhar para cima.
 
@@ -55,17 +55,17 @@ O subtálamo ajuda a frear os movimentos.
 
 ## Ponte com a Clínica
 
-No seu consultório, se chegar um paciente com uma fome insaciável e ganho de peso repentino, acompanhado de alterações de temperatura, você deve suspeitar de uma massa (tumor) comprimindo o **Hipotálamo**. Já em pacientes idosos com deficiência de vitamina B1 (comum em etilistas), a lesão dos **Corpos Mamilares** (parte do diencéfalo) causa a **Síndrome de Wernicke-Korsakoff**, onde o paciente fica confuso e começa a "inventar" histórias (confabulação) para preencher os brancos da memória.
+No seu consultório, se chegar um paciente com uma fome insaciável e ganho de peso repentino, acompanhado de alterações de temperatura, você deve suspeitar de uma massa (tumor) comprimindo o **Hipotálamo**. Já em pacientes idosos com deficiência de vitamina B1 (comum em etilistas), a lesão dos **Corpos Mamilares** (parte do diencéfalo) causa a **Síndrome de Wernicke-Korsakoff**, onde o paciente fica confuso e começa a "inventar" histórias (**confabulação**) para preencher os brancos da memória.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Núcleo VPL**: Retransmite a sensibilidade do corpo para o córtex parietal.
-- **Núcleo VPM**: Retransmite a sensibilidade da face para o córtex parietal.
+- **Núcleo VPL**: Retransmite a sensibilidade do **corpo** para o córtex parietal.
+- **Núcleo VPM**: Retransmite a sensibilidade da **face** para o córtex parietal.
 - **ADH**: Hormônio antidiurético produzido no núcleo supra-óptico do hipotálamo.
 - **Ocitocina**: Hormônio produzido no núcleo paraventricular do hipotálamo.
-- **Hemibalismo**: Movimento involuntário violento decorrente de lesão no núcleo subtalâmico de Luys.
+- **Hemibalismo**: Movimento involuntário violento decorrente de lesão no **núcleo subtalâmico de Luys**.
 
 ---
 

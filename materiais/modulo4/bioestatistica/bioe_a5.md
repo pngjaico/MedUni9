@@ -2,7 +2,7 @@
 
 Como saber se o resultado de um estudo é real ou apenas "sorte"? Na prova, os temas centrais são a lógica da **Hipótese Nula (H0)**, a interpretação correta do **Valor-p** e a diferença entre os **Erros Tipo I e Tipo II**.
 
-Na prática, o teste de hipótese é como um julgamento no tribunal. O remédio é considerado "inocente" (**Hipótese Nula**) até que se prove, com dados matemáticos, que ele realmente funciona (**Hipótese Alternativa**). O **p-valor** é a ferramenta que nos diz o quão forte é essa prova. Mas atenção: um resultado pode ser estatisticamente significante (p < 0,05) e mesmo assim ser inútil na prática clínica. Aprender essa diferença é o que protege você de ser enganado por estudos mal interpretados.
+Na prática, o teste de hipótese é como um julgamento no tribunal. O remédio é considerado "inocente" (**Hipótese Nula**) até que se prove, com dados matemáticos, que ele realmente funciona (**Hipótese Alternativa**). O **p-valor** é a ferramenta que nos diz o quão forte é essa prova. Mas atenção: um resultado pode ser estatisticamente significante (**p < 0,05**) e mesmo assim ser inútil na prática clínica. Aprender essa diferença é o que protege você de ser enganado por estudos mal interpretados.
 
 ---
 
@@ -27,7 +27,7 @@ Todo estudo começa com uma briga entre duas ideias:
 ## 2. O famoso Valor-p (p-value): O Limiar da Dúvida
 
 O valor-p responde à pergunta: "Se a Hipótese Nula fosse verdade, qual a chance de eu ter achado esses números por pura coincidência?"
-- **p < 0,05 (Significativo):** A chance de ser coincidência é menor que 5%. Rejeitamos a H0 e dizemos: "O resultado é estatisticamente significante".
+- **p < 0,05 (Significativo):** A chance de ser coincidência é menor que 5%. **Rejeitamos a H0** e dizemos: "O resultado é estatisticamente significante".
 - **p > 0,05 (Não Significativo):** A coincidência é muito provável. Não podemos dizer que o remédio funciona.
 - **ERRO COMUM:** p < 0,05 NÃO significa que o efeito é grande ou importante; significa apenas que ele é improvável de ser por acaso.
 
@@ -43,7 +43,7 @@ O valor-p responde à pergunta: "Se a Hipótese Nula fosse verdade, qual a chanc
 
 ## 4. Intervalo de Confiança (IC 95%)
 
-O IC 95% é o "parceiro fiel" do p-valor. Ele dá uma margem de erro para o resultado:
+O **IC 95%** é o "parceiro fiel" do p-valor. Ele dá uma margem de erro para o resultado:
 - **Regra de Ouro (Diferença):** Se o intervalo de confiança entre duas médias **cruzar o Zero**, o resultado **não é significante** (p > 0,05).
 - **Regra de Ouro (Risco):** Se o intervalo de Risco Relativo (RR) ou Odds Ratio (OR) **cruzar o 1**, o resultado **não é significante**.
 
@@ -60,8 +60,8 @@ No seu dia a dia, você verá anúncios dizendo: "Novo medicamento reduz a morta
 - **Hipótese Nula (H0)**: Sempre afirma a ausência de efeito ou igualdade entre os grupos.
 - **Valor-p**: Quanto menor, mais forte é a evidência contra a hipótese nula.
 - **Erro Tipo I**: Rejeitar H0 quando ela é verdadeira (Dizer que funciona, mas não funciona).
-- **Amostra e Poder**: Quanto maior a amostra (**n**), maior o poder de detectar diferenças reais e menor o Erro Tipo II.
-- **IC 95%**: Se não cruza o valor nulo (0 para diferenças, 1 para razões), p < 0,05.
+- **Amostra e Poder**: Quanto maior a amostra (**n**), maior o **poder** de detectar diferenças reais e menor o **Erro Tipo II**.
+- **IC 95%**: Se não cruza o valor nulo (0 para diferenças, 1 para razões), **p < 0,05**.
 
 ---
 
@@ -80,7 +80,7 @@ A Uninove adora o **Valor Nulo**. Lembre-se: Em testes de média, o nulo é **0*
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Significância Estatística** | **Relevância Clínica** | O **Cálculo** disse que é real vs O **Paciente** sente o benefício |
+| **Significância Estatística** | **Relevância Clínica** | **Cálculo** disse que é real vs **Paciente** sente o benefício |
 | **Erro Tipo I (α)** | **Erro Tipo II (β)** | **Falso Positivo** vs **Falso Negativo** |
 | **Poder (1-β)** | **Amostra (n)** | **Capacidade** de ver vs **Ferramenta** para ver |
 | **H0 (Nula)** | **H1 (Alternativa)** | **Igualdade** vs **Diferença** |

@@ -1,6 +1,6 @@
 # BCM1 — Aula 20: Herança Autossômica Dominante
 
-Diferente das doenças recessivas (que precisam de dois genes ruins), nas doenças dominantes basta **apenas um gene** estragado para a pessoa ficar doente. Na prova, o tema central é entender como a doença passa "em pé" nas gerações (Avo -> Pai -> Filho) e conhecer as síndromes clássicas como a de **Marfan**, a **Neurofibromatose** e a **Acondroplasia**.
+Diferente das doenças recessivas (que precisam de dois genes ruins), nas doenças dominantes basta **apenas um gene** estragado para a pessoa ficar doente. Na prova, o tema central é entender como a doença passa "em pé" nas gerações (Avô -> Pai -> Filho) e conhecer as síndromes clássicas como a de **Marfan**, a **Neurofibromatose** e a **Acondroplasia**.
 
 Na prática, o médico deve saber que se um dos pais tem uma dessas doenças, cada filho tem exatamente **50% de chance** de nascer com ela também.
 
@@ -20,7 +20,7 @@ Na prática, o médico deve saber que se um dos pais tem uma dessas doenças, ca
 O problema está na **Fibrilina**, uma proteína que dá estrutura aos tecidos.
 - **Sinais Clássicos:** O paciente é muito alto, tem os braços e dedos muito longos (**Aracnodactilia**).
 - **Olhos:** O cristalino do olho costuma sair do lugar e subir para **cima**.
-- **O Perigo Real:** A aorta (a maior artéria do coração) pode dilatar e romper. Esse é o maior risco de morte.
+- **O Perigo Real:** A **aorta** (a maior artéria do coração) pode dilatar e romper. Esse é o maior risco de morte.
 - **Tratamento:** Medicamentos como o **Losartana** e betabloqueadores ajudam a proteger o coração.
 
 ---
@@ -37,7 +37,7 @@ O problema está na **Fibrilina**, uma proteína que dá estrutura aos tecidos.
 
 Causada por uma mutação no gene **FGFR3**.
 - **Como acontece:** O gene do crescimento fica o tempo todo "ligado" e acaba travando o crescimento dos ossos longos.
-- **Dica de Prova:** **80% dos casos são novos**. Ou seja, os pais têm altura normal, mas houve um erro no DNA durante a fabricação dos gametas (geralmente ligada à idade avançada do pai).
+- **Dica de Prova:** **80% dos casos são novos**. Ou seja, os pais têm altura normal, mas houve um erro no DNA durante a fabricação dos gametas (geralmente ligada à **idade avançada do pai**).
 - **Mecanismo:** É um **Ganho de Função** (o gene trabalha demais e acaba atrapalhando).
 
 ---
@@ -83,8 +83,8 @@ Fique atento ao mecanismo: a maioria das doenças dominantes acontece por **Hapl
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Marfan** | **Homocistinúria** | Cristalino p/ **CIMA** (AD) vs **Cristalino p/ BAIXO (AR)** |
-| **NF1** | **NF2** | Manchas na pele vs **Surdez por tumor no nervo (Bilateral)** |
-| **Acondroplasia** | **Nanismo Hipofisário** | Problema no Gene (FGFR3) vs **Falta de Hormônio do Crescimento (GH)** |
+| **NF1** | **NF2** | **Manchas na pele** vs **Surdez por tumor no nervo (Bilateral)** |
+| **Acondroplasia** | **Nanismo Hipofisário** | Problema no Gene (**FGFR3**) vs **Falta de Hormônio do Crescimento (GH)** |
 | **Linfoma de Lynch** | **PAF** | Poucos pólipos vs **Centenas de pólipos (Centenas!)** |
 | **Penetrância** | **Expressividade** | Ter ou não a doença vs **Quão grave ela se manifesta** |
 

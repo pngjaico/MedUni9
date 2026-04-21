@@ -38,13 +38,13 @@ O **Genograma** é um desenho que mostra pelo menos **3 gerações** da família
 - **Linha Pontilhada:** Vínculo frágil.
 - **Linha com Zig-zag:** Conflito.
 
-> **Gatilho de Prova:** Se a questão fala em "mapear doenças hereditárias" ou "ver quem mora com quem", a ferramenta é o **Genograma**.
+> **Gatilho de Prova:** Se a questão fala em "**mapear doenças hereditárias**" ou "**ver quem mora com quem**", a ferramenta é o **Genograma**.
 
 ---
 
 ## Ecomapa: contexto social e institucional do cuidado
 
-O ecomapa posiciona a família no centro e mapeia qualidade dos vínculos com instituições e recursos do território: escola, trabalho, UBS, CAPS, CRAS, vizinhança, grupos religiosos e redes informais.
+O **ecomapa** posiciona a família no centro e mapeia qualidade dos **vínculos com instituições** e recursos do território: escola, trabalho, UBS, CAPS, CRAS, vizinhança, grupos religiosos e redes informais.
 
 Esse instrumento revela por que condutas tecnicamente corretas podem fracassar quando existem barreiras sociais invisíveis no consultório.
 
@@ -54,7 +54,7 @@ Exemplo no SUS real: paciente com depressão moderada sem melhora, apesar de med
 
 ## Educação popular em saúde: método para autonomia
 
-A educação popular em saúde não é aula expositiva unilateral. É construção compartilhada de sentido sobre saúde-doença, valorizando saber local e autonomia.
+A **educação popular em saúde** não é aula expositiva unilateral. É **construção compartilhada** de sentido sobre saúde-doença, valorizando saber local e **autonomia**.
 
 No cotidiano da UBS, isso aparece em rodas de conversa, grupos de condições crônicas, ações comunitárias e elaboração conjunta de metas factíveis de autocuidado.
 
@@ -70,7 +70,7 @@ No cotidiano da UBS, isso aparece em rodas de conversa, grupos de condições cr
 
 ## Territorialização e priorização de risco
 
-As ferramentas familiares e comunitárias fazem sentido quando conectadas ao território adscrito. A equipe precisa transformar informação em ação: visita domiciliar, busca ativa, plano compartilhado e articulação com rede intersetorial.
+As ferramentas familiares e comunitárias fazem sentido quando conectadas ao **território adscrito**. A equipe precisa transformar informação em ação: **visita domiciliar**, **busca ativa**, plano compartilhado e articulação com rede intersetorial.
 
 Sem territorialização, o cuidado vira resposta episódica. Com territorialização, a APS antecipa risco e reduz agravamentos evitáveis.
 

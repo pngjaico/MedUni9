@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O sistema digestório é movido por três grandes troncos arteriais: **Celíaco**, **Mesentérica Superior** e **Inferior**. Cada um domina um território do tubo. Para a prova, domine a formação da **Veia Porta** (confluência esplenomesentérica) e o papel do **Vago** na motilidade. Na clínica, o conhecimento sobre a **Isquemia Mesentérica** e o **Sistema Nervoso Entérico** explica desde dores pós-prandiais até a constipação por fármacos.
+O sistema digestório é movido por três grandes troncos arteriais: **Celíaco**, **Mesentérica Superior (AMS)** e **Mesentérica Inferior (AMI)**. Cada um domina um território do tubo. Para a prova, domine a formação da **Veia Porta** (confluência esplenomesentérica) e o papel do **Nervo Vago (X)** na motilidade. Na clínica, o conhecimento sobre a **Isquemia Mesentérica** e o **Sistema Nervoso Entérico** explica desde dores pós-prandiais até a constipação induzida por fármacos.
 
 ---
 
@@ -15,60 +15,62 @@ O sistema digestório é movido por três grandes troncos arteriais: **Celíaco*
 
 | Tronco Arterial | Órgãos Irrigados | Ramos de Prova |
 |-----------------|------------------|-----------------|
-| **Tronco Celíaco** | Estômago, Fígado e Baço| Hepática e Esplênica |
-| **Mesentérica Sup.**| Delgado e Cólon Proximal| Ileocólica |
-| **Mesentérica Inf.**| Cólon Distal e Reto | Cólica Esquerda |
+| **Tronco Celíaco** | Estômago, Fígado e Baço| **Artéria Hepática** e **Esplênica** |
+| **A. Mesentérica Sup.**| Delgado e Cólon Proximal| **Artéria Ileocólica** |
+| **A. Mesentérica Inf.**| Cólon Distal e Reto | **Artéria Cólica Esquerda** |
 
-> **Dica de Ouro:** A **Flexura Esplênica** é a zona de transição entre as duas mesentéricas. É o ponto mais frágil e vulnerável à isquemia no idoso.
+> **Dica de Ouro:** A **Flexura Esplênica** é a zona de transição entre as duas mesentéricas. É o ponto mais frágil e **vulnerável à isquemia** no paciente idoso.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A20-F01`
 
-- **Momento:** após tabela dos troncos.
-- **O que mostrar:** esquema das três artérias mesentéricas e territórios coloridos (estilo atlas).
-- **Tipo sugerido:** ilustração didática.
+- **Momento:** Após a tabela dos troncos arteriais.
+- **O que mostrar:** Esquema das três artérias mesentéricas e seus respectivos territórios irrigados coloridos de forma distinta.
+- **Tipo sugerido:** Ilustração didática estilo atlas.
 - **Legenda (rascunho):** “Vascularização arterial do intestino: celíaca, AMS e AMI.”
-- **Notas (opcional):** Commons “celiac artery SMA IMA territories”.
 
 ---
 
 ## Veia porta: composição e destino
 
-- **Veia Porta:** Formada pela união da **Veia Esplênica** + **Mesentérica Superior**. Leva os nutrientes ao fígado.
-- **Vago (X):** Principal via **Parassimpática**. Liga o botão "ligar" da digestão (aumenta secreção e peristalse).
-- **Simpático:** Desliga a digestão em situações de estresse (**Luta ou Fuga**).
-- **Plexo de Auerbach:** Localizado na camada **Muscular**. Comanda os movimentos peristálticos.
-- **Plexo de Meissner:** Localizado na **Submucosa**. Comanda a secreção das glândulas.
+- **Veia Porta:** Formada pela união da **Veia Esplênica** + **Veia Mesentérica Superior**. Leva os nutrientes absorvidos diretamente ao **fígado**.
+- **Nervo Vago (X):** Principal via **Parassimpática**. Funciona como o botão "ON" da digestão (aumenta **secreção** e **peristalse**).
+- **Sistema Simpático:** Funciona como o botão "OFF" da digestão em situações de estresse (**Luta ou Fuga**).
+- **Plexo de Auerbach (Mioentérico):** Localizado na camada **Muscular**. Comanda os movimentos **peristálticos**.
+- **Plexo de Meissner (Submucoso):** Localizado na **Submucosa**. Comanda a **secreção** das glândulas.
 
 ---
 
 ## Drenagem linfática (visão geral)
 
-**Linfonodos** seguem **artérias** e **órgãos** de origem: **gástricos**, **hepáticos**, **mesentéricos** e **ilíacos** aparecem em laudos de **estadiamento**. Para BMF1, basta reconhecer que **metástases** obedecem **rotas** **anatômicas** — o mapa detalhado é **oncologia**.
+Os **Linfonodos** seguem as **artérias** e **órgãos** de origem. Para BMF1, basta reconhecer que as **metástases** obedecem às **rotas anatômicas** de drenagem — o mapa detalhado é foco da oncologia.
 
 ---
 
 ## Ponte com a Clínica
 
-**Isquemia mesentérica** — dor desproporcional, **lactato**, **imagem** de **oclusão** arterial ou **venosa**. **Embolectomia** ou **revascularização** dependem de **território**. **Opioides** reduzem **peristalse** por mecanismos centrais e periféricos — **ileus** pós-operatório cruza farmacologia e anatomia funcional.
+A **Isquemia mesentérica** caracteriza-se por **dor desproporcional** ao exame físico, aumento de **lactato** e imagem de **oclusão** arterial ou venosa. Tratamentos como **embolectomia** ou **revascularização** dependem do conhecimento do **território** vascular atingido. O uso de **Opioides** reduz a **peristalse** por mecanismos centrais e periféricos — o **ileus paralítico** pós-operatório cruza farmacologia e anatomia funcional.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Shunts Porto-Sistêmicos:** Em doenças do fígado, o sangue desvia para o esôfago, causando **Varizes**.
-- **Peristalse:** Movimento coordenado pelo plexo mioentérico para empurrar o bolo alimentar.
-- **Artéria Esplênica:** Tem um trajeto **Tortuoso** acima do pâncreas.
-- **Mesentérica Superior:** Pode "pinçar" o duodeno em casos de perda de gordura extrema.
+- **Shunts Porto-Sistêmicos:** Em doenças do fígado (Cirrose), o sangue desvia para o esôfago, causando **Varizes de Esôfago**.
+- **Peristalse:** Movimento coordenado pelo plexo **mioentérico** para empurrar o bolo alimentar.
+- **Artéria Esplênica:** Possui um trajeto extremamente **Tortuoso** acima do pâncreas.
+- **Mesentérica Superior:** Pode "pinçar" a terceira porção do duodeno em casos de perda de gordura extrema (**Síndrome da AMS**).
+
+### Síntese Final
 
 | Conceito A | Conceito B | Diferencial para Prova |
 |------------|------------|-------------------------|
-| **Vago** | **Simpático** | Digestão "ON" vs Digestão "OFF" |
-| **Auerbach** | **Meissner** | Motilidade vs **Secreção** |
-| **Veia Porta** | **Veia Hepática** | Traz ao Fígado vs **Leva à Cava** |
-| **AMS** | **Amit** | Intestino Médio vs **Intestino Posterior** |
+| **Nervo Vago** | **Simpático** | Digestão **"ON"** vs Digestão **"OFF"** |
+| **Auerbach** | **Meissner** | **Motilidade** vs **Secreção** |
+| **Veia Porta** | **Veia Hepática** | Traz ao Fígado vs **Leva à Veia Cava** |
+| **AMS** | **AMI** | Intestino Médio vs **Intestino Posterior** |
 
 ### Frase-âncora para não esquecer
 
-> “Três artérias desenham o mapa; a porta leva tudo ao fígado antes da volta ao coração.”
+> **“Três artérias desenham o mapa; a porta leva tudo ao fígado antes da volta ao coração.”**
+

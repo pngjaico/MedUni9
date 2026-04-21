@@ -2,7 +2,7 @@
 
 Os indicadores demográficos são a bússola do planejamento em saúde. Eles dizem quem é a população, como ela cresce e como ela se divide por idade. Na prova, o tema central é entender as fórmulas de **Natalidade**, **Fecundidade** e **Razão de Dependência**, sabendo exatamente quem colocar no denominador de cada cálculo.
 
-Na prática, o médico gestor usa esses números para saber se precisa contratar mais pediatras (alta natalidade) ou focar em geriatria (alto envelhecimento).
+Na prática, o médico gestor usa esses números para saber se precisa contratar mais pediatras (alta natalidade) ou focar em **geriatria** (**alto envelhecimento**).
 
 ---
 
@@ -19,7 +19,7 @@ Na prática, o médico gestor usa esses números para saber se precisa contratar
 
 Um indicador é sempre uma divisão multiplicada por um número redondo (geralmente 1.000 ou 100.000).
 - **Numerador:** O que aconteceu (ex: quantos bebês nasceram).
-- **Denominador:** Quem poderia ter tido o evento (ex: população total ou apenas as mulheres).
+- **Denominador:** Quem **poderia** ter tido o evento (ex: população total ou apenas as mulheres).
 - **Regra de Ouro:** Numerador e Denominador devem ser do mesmo **Ano** e do mesmo **Lugar**.
 
 ---
@@ -85,9 +85,9 @@ Na **Razão de Dependência**, lembre-se: o denominador é o "meio" da pirâmide
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Taxa de Natalidade** | **Taxa de Fecundidade** | População Total vs **Mulheres 15-49 anos** |
-| **Crescimento Vegetativo** | **Crescimento Real** | Só nascer/morrer vs **Considera Migração** |
+| **Crescimento Vegetativo** | **Crescimento Real** | **Só nascer/morrer** vs **Considera Migração** |
 | **Razão de Dependência** | **Índice de Envelhecimento** | Crianças+Idosos/Adultos vs **Idosos/Crianças** |
-| **Nascido Vivo** | **Óbito Fetal** | Teve sinal de vida vs **Nasceu morto** |
+| **Nascido Vivo** | **Óbito Fetal** | **Teve sinal de vida** vs **Nasceu morto** |
 | **Censo (IBGE)** | **Estimativa Populacional** | Contagem real (10 em 10 anos) vs **Cálculo matemático** |
 
 ### Frase-âncora para não esquecer

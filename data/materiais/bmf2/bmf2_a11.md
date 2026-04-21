@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A histologia respiratória é o alicerce para entender as patologias pulmonares. É impossível compreender o enfisema sem conhecer a estrutura dos septos alveolares, ou a asma sem entender a camada muscular dos bronquíolos. A morfologia aqui dita a função: a espessura da membrana determina a facilidade da hematose, e a integridade dos cílios determina a limpeza dos pulmões.
+A histologia respiratória é o alicerce para entender as patologias pulmonares. É impossível compreender o **enfisema** sem conhecer a estrutura dos septos alveolares, ou a **asma** sem entender a camada muscular dos bronquíolos. A morfologia aqui dita a função: a espessura da membrana determina a facilidade da hematose, e a integridade dos cílios determina a limpeza dos pulmões.
 
 Em avaliações acadêmicas, a transição celular ao longo da árvore brônquica é um tema recorrente. Saber onde termina a cartilagem e onde começam as células de defesa é fundamental para o raciocínio clínico. Esta aula detalha a arquitetura microscópica que permite ao corpo trocar gases e se defender de microrganismos simultaneamente.
 
@@ -40,7 +40,7 @@ Nesta região distal, a sustentação passa a depender quase exclusivamente do *
 
 ## A Unidade Alveolar e a Barreira de Hematose
 
-O destino final do ar são os alvéolos, onde a parede atinge sua espessura mínima. Existem dois tipos principais de células revestindo esses sacos aéreos. Os **Pneumócitos Tipo I** são células pavimentosas, extremamente finas e chatas, que cobrem 95% da superfície. Sua missão é única: ser tão delgada que permita ao oxigênio atravessar para o sangue por difusão simples em frações de segundo.
+O destino final do ar são os alvéolos, onde a parede atinge sua espessura mínima. Existem dois tipos principais de células revestindo esses sacos aéreos. Os **Pneumócitos Tipo I** são células pavimentosas, extremamente finas e chatas, que cobrem 95% da superfície. Sua missão é única: ser tão delgada que permita ao oxigênio atravessar para o sangue por **difusão simples** em frações de segundo.
 
 Já os **Pneumócitos Tipo II** são células cúbicas e volumosas. Embora cubram menos área, são as fábricas químicas do pulmão: produzem o **Surfactante** e funcionam como "células-tronco" para reparar o alvéolo após lesões. Entre os alvéolos, encontramos os **Macrófagos Alveolares** (células de poeira), que vagam pelo espaço aéreo fagocitando qualquer partícula que tenha vencido o filtro mucociliar superior.
 

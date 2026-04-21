@@ -2,7 +2,7 @@
 
 A diferenciação sexual é um processo complexo que envolve genes e hormônios desde as primeiras semanas de vida. Na prova, o tema central é entender como o gene **SRY** decide o sexo gonadal e como falhas nos receptores ou enzimas criam as síndromes de **AIS (Insensibilidade a Andrógenos)** e **Hiperplasia Suprarrenal Congênita**.
 
-Na prática, identificar um recém-nascido com genitália ambígua é uma emergência médica que exige exames rápidos para evitar crises hormonais graves.
+Na prática, identificar um recém-nascido com **genitália ambígua** é uma emergência médica que exige exames rápidos para evitar crises hormonais graves.
 
 ---
 
@@ -27,8 +27,8 @@ O gene **SRY**, localizado no cromossomo Y, é o "interruptor" que manda a gôna
 
 Uma vez que o testículo se formou, ele libera três substâncias vitais:
 1. **AMH (Hormônio Anti-Mülleriano):** Destrói as estruturas que virariam útero e tubas uterinas.
-2. **Testosterona:** Cria as vias internas masculinas (epidídimo, ducto deferente).
-3. **DHT:** Cria o pênis e o escroto (precisa da enzima **5α-redutase**).
+2. **Testosterona:** Cria as vias internas masculinas (**epidídimo**, **ducto deferente**).
+3. **DHT:** Cria o **pênis** e o **escroto** (precisa da enzima **5α-redutase**).
 
 ---
 
@@ -41,7 +41,7 @@ Cariótipo **46,XY**. O corpo produz testosterona, mas o "receptor" está quebra
 ### Hiperplasia Suprarrenal Congênita (HCA)
 Cariótipo **46,XX** (em meninas). Falta a enzima **21-hidroxilase**.
 - **Problema:** A glândula suprarrenal não consegue fabricar Cortisol e acaba fabricando **Hormônios Masculinos** demais.
-- **Sintomas:** Menina que nasce com genitália que parece um pênis (**Virilização**). Além disso, pode perder muito sal no sangue e entrar em choque (perdedora de sal).
+- **Sintomas:** Menina que nasce com genitália que parece um pênis (**Virilização**). Além disso, pode perder muito sal no sangue e entrar em choque (**perdedora de sal**).
 
 ### Deficiência de 5α-Redutase
 Cariótipo **46,XY**. O bebê nasce com genitália feminina, mas na puberdade, quando a testosterona sobe muito, o pênis cresce e o testículo desce ("virira homem").
@@ -83,7 +83,7 @@ Outra questão certa: **Emergência no Recém-Nascido**. Se um bebê tem genitá
 | **AIS (Insensibilidade)** | **HCA (Hiperplasia)** | Nasce menina (XY) vs **Nasce Masculinizada (XX)** |
 | **SRY** | **TDF** | Nome do gene vs **Nome da proteína (Fator de Determinação)** |
 | **Ductos de Müller** | **Ductos de Wolff** | Vira trato feminino vs **Vira trato masculino** |
-| **HCA Perdedora de Sal** | **HCA Virilizante Simples** | Choque e Desidratação vs **Apenas Genitália Ambígua** |
+| **HCA Perdedora de Sal** | **HCA Virilizante Simples** | **Choque e Desidratação** vs **Apenas Genitália Ambígua** |
 | **Testosterona** | **DHT** | Estruturas internas (Deferentes) vs **Estruturas externas (Pênis)** |
 
 ### Frase-âncora para não esquecer

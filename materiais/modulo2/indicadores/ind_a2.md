@@ -1,6 +1,6 @@
 # IND — Aula 2: História Natural da Doença (HND) e Níveis de Prevenção
 
-A História Natural da Doença (HND) descreve como uma enfermidade evolui desde as primeiras exposições até o desfecho final (cura, sequela ou morte). Na prova, o tema central é classificar corretamente os **Níveis de Prevenção** (Primária, Secundária, Terciária e Quaternária) baseando-se no estágio em que o paciente se encontra.
+A **História Natural da Doença (HND)** descreve como uma enfermidade evolui desde as primeiras exposições até o desfecho final (cura, sequela ou morte). Na prova, o tema central é classificar corretamente os **Níveis de Prevenção** (Primária, Secundária, Terciária e Quaternária) baseando-se no estágio em que o paciente se encontra.
 
 Na prática, intervir no momento certo evita gastos desnecessários, reduz o sofrimento do paciente e previne danos causados pelo próprio sistema de saúde.
 
@@ -19,8 +19,8 @@ Na prática, intervir no momento certo evita gastos desnecessários, reduz o sof
 
 - **Período de Pré-Patogênese:** O paciente ainda está saudável, mas está exposto a riscos (sedentarismo, falta de vacina, poluição). Aqui é o reino da **Prevenção Primária**.
 - **Período de Patogênese:** A doença já começou no corpo. 
-  - **Fase Subclínica:** Silenciosa (sem sintomas).
-  - **Fase Clínica:** Os sintomas aparecem.
+  - **Fase Subclínica:** **Silenciosa** (sem sintomas).
+  - **Fase Clínica:** Os **sintomas** aparecem.
 
 ---
 
@@ -37,11 +37,11 @@ Este é o ponto principal da aula. Você deve saber diferenciar cada nível:
 - **Pergunta chave:** "Como descobrir cedo para tratar rápido?"
 
 ### Prevenção Terciária (Reduzir o estrago)
-- **Ação:** Reabilitação física após um AVC, fisioterapia, controle rigoroso para evitar amputação em diabéticos.
+- **Ação:** **Reabilitação** física após um AVC, fisioterapia, controle rigoroso para evitar amputação em diabéticos.
 - **Pergunta chave:** "Como reduzir as sequelas e a incapacidade?"
 
 ### Prevenção Quaternária (Proteção contra o médico)
-- **Ação:** Evitar exames desnecessários que podem causar ansiedade ou danos, evitar a polifarmácia (excesso de remédios).
+- **Ação:** Evitar **exames desnecessários** que podem causar ansiedade ou danos, evitar a **polifarmácia** (excesso de remédios).
 - **Pergunta chave:** "Como evitar que o excesso de cuidado cause um novo problema?"
 
 ---
@@ -77,8 +77,8 @@ A Uninove adora confundir "Proteção Específica" (ex: vacina) com "Prevenção
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Prevenção Primária** | **Prevenção Secundária** | Evita a doença vs **Acha a doença no início** |
-| **Prevenção Terciária** | **Prevenção Quaternária** | Trata a sequela vs **Evita o excesso de tratamento** |
+| **Prevenção Primária** | **Prevenção Secundária** | **Evita a doença** vs Acha a doença no início |
+| **Prevenção Terciária** | **Prevenção Quaternária** | **Trata a sequela** vs Evita o excesso de tratamento |
 | **Promoção da Saúde** | **Proteção Específica** | Ação geral (dieta) vs **Ação direta (vacina)** |
 | **Fase Subclínica** | **Horizonte Clínico** | Sem sintomas vs **Sintomas aparecem** |
 | **Iatrogenia** | **Prevenção Quaternária** | O dano causado vs **A ação para EVITAR o dano** |

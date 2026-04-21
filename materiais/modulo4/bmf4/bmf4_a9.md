@@ -38,7 +38,7 @@ O "córtex" do cerebelo tem 3 camadas, mas uma é a rainha:
 O cerebelo se liga ao tronco por três "cabos" (pedúnculos):
 - **Superior:** É a via de **Saída**. Leva a informação processada de volta para o cérebro.
 - **Médio:** É o maior. Traz as informações do **Córtex Cerebral** avisando o que o cérebro quer fazer.
-- **Inferior:** Traz informações da **Medula** avisando onde o seu braço está no espaço (propriocepção).
+- **Inferior:** Traz informações da **Medula** avisando onde o seu braço está no espaço (**propriocepção**).
 
 ---
 
@@ -62,7 +62,7 @@ No consultório, para testar o cerebelo, você pede o teste **Index-Nariz**: o p
 - **Células de Purkinje**: Única via de saída do córtex cerebelar; são inibitórias (liberam **GABA**).
 - **Vermis**: Responsável pela coordenação axial e pelo **Equilíbrio**.
 - **Hemisférios Cerebelares**: Responsáveis pela coordenação motora fina dos **Membros**.
-- **Lateralidade**: Lesões cerebelares manifestam sintomas no **Mesmo Lado** da lesão (Ipsilateral).
+- **Lateralidade**: Lesões cerebelares manifestam sintomas no **Mesmo Lado** da lesão (**Ipsilateral**).
 - **Ataxia Cerebelar**: Caracterizada por base alargada, instabilidade e falta de refinamento motor.
 
 ---

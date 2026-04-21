@@ -7,108 +7,100 @@
 
 ## Relevância Clínica e Acadêmica
 
-As **Proteínas Plasmáticas** são marcadores de **inflamação**, **nutrição** e **função hepática**. Domine por que a **Albumina** é um péssimo marcador agudo e como a **Pré-albumina** ajuda no monitoramento. Domine o **Teste do Pezinho** e os **Erros Inatos** como a **PKU** e a **Homocistinúria**.
+As **Proteínas Plasmáticas** são marcadores fundamentais de **inflamação**, **estado nutricional** e **função hepática**. Domine por que a **Albumina** é um marcador inadequado para quadros agudos e como a **Pré-albumina** auxilia no monitoramento nutricional. Entenda a lógica por trás do **Teste do Pezinho** e os **Erros Inatos do Metabolismo**, como a **PKU (Fenilcetonúria)** e a **Homocistinúria**.
 
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `PMH-A11-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Após o bloco de relevância.
+- **O que mostrar:** Gráfico de eletroforese de proteínas destacando as frações (Albumina, Alpha 1, Alpha 2, Beta e Gamma) e exemplos de picos monoclonais.
+- **Tipo sugerido:** Gráfico laboratorial comentado.
+- **Legenda (rascunho):** Frações proteicas plasmáticas e seu significado clínico.
 
 ---
 
 ## Albumina e estado nutricional
 
-**Albumina** tem **longa meia-vida** (~20 dias) — reflete **síntese hepática** e **status** **crônico**, mas cai também em **inflamação** (capillar leaky, consumo) — **não** é marcador nutricional **isolado** em paciente **grave**.
+- **Albumina:** Possui **longa meia-vida** (~20 dias). Reflete a **síntese hepática** e o **status nutricional crônico**. Note que seus níveis caem drasticamente na **inflamação** (escape capilar e consumo), portanto **não** deve ser usada como marcador nutricional **isolado** em pacientes críticos ou agudos.
+- **Pré-albumina (Transtirretina):** Possui **meia-vida curta** (~2 dias). É um marcador muito mais sensível para avaliar a **resposta à terapia nutricional** recente, embora também sofra influência da inflamação.
 
-**Pré-albumina (transtirretina)** tem **meia-vida curta** — melhor para **resposta** a nutrição em **contexto não exclusivamente inflamatório** (interpretação cautelosa).
-
-> **Dica de Prova:** **Albumina baixa** no **crítico** pode ser **doença aguda**, não só “falta de proteína oral”.
+> **Dica de Prova:** Uma **Albumina baixa** em um paciente grave hospitalizado indica frequentemente **doença inflamatória aguda**, e não necessariamente uma deficiência proteica na dieta.
 
 ---
 
 ## Proteínas de fase aguda
 
-**PCR** sobe rapidamente com **IL-6**; **ferritina** também é **reactante**. **Anemia da doença crônica** associa **hepcidina** ↑ e **ferro** preso em **macrófagos**.
+O fígado altera o padrão de síntese proteica em resposta à agressão (via **IL-6**):
+- **PCR (Proteína C-Reativa):** Sobe rapidamente e é o principal marcador de **atividade inflamatória**.
+- **Ferritina:** Também é um **reagente de fase aguda**. Em inflamações, ela sobe (estoque), mas o ferro livre no sangue cai devido à ação da **Hepcidina**, caracterizando a **Anemia da Doença Crônica**.
 
 ---
 
-## Marcadores específicos (visão integrada)
+## Erros inatos do metabolismo de aminoácidos
 
-- **HbA1c:** média glicêmica (ver aula de carboidratos).
-- **Proteína C-reativa ultra-sensível:** risco cardiovascular **inflamatório** (contexto populacional).
-- **Imunoglobulinas:** gamopatias, deficiências.
-
----
-
-## Erros inatos do metabolismo de aminoácidos (exemplos clássicos)
+Distúrbios enzimáticos hereditários que exigem intervenção precoce (screening via **Teste do Pezinho**):
 
 | Patologia | Defeito Enzimático | Manifestação / Screening |
 |------------|--------------------|--------------------------|
-| **PKU (Fenilcetonúria)** | **Fenilalanina Hidroxilase** | **Odor de mofo**; Teste do Pezinho |
-| **Homocistinúria** | **Cistationina Sintase** | **Tromboses** prematuras; Marfanoide |
-| **Urina de Xarope** | **BCKDC** (Ramificados) | **Odor adocicado** na urina; Acidose |
-| **Galactosemia** | **GALT** | Catarata precoce; **Hepatopatia** |
+| **PKU (Fenilcetonúria)** | **Fenilalanina Hidroxilase** | **Odor de mofo** na urina e suor; Dano intelectual |
+| **Homocistinúria** | **Cistationina Sintase** | **Tromboses** prematuras; Aspecto Marfanoide |
+| **Doença do Xarope de Bordo** | **BCKDC** (Amin. Ramificados) | **Odor adocicado** na urina; Crises de acidose |
+| **Galactosemia** | **Enzima GALT** | Catarata neonatal precoce; **Hepatopatia** |
 
-> **Pegadinha:** **Dieta** restritiva precoce em **PKU** previne **dano neurológico** — tempo importa.
-
----
-
-## Nitrogênio ureico e balanço
-
-**BUN** (ureia) depende de **ingesta proteica**, **hidratação** e **função renal**. **Balanço nitrogenado** negativo em **catabolismo** (trauma, sepse).
+> **Pegadinha de Prova:** A **dieta** restritiva rigorosa iniciada logo após o nascimento na **PKU** previne inteiramente o **dano neurológico** permanente.
 
 ---
 
-## Eletróforese de proteínas (visão de prova)
+## Eletroforese de proteínas (visão de prova)
 
-**Pico monoclonal** em **gamaglobulina** → investigar **mieloma**; **hipogamaglobulinemia** → imunodeficiência ou **perda** urinária (síndrome nefrótica).
-
-**Proteína C-reativa** alta com **albumina** baixa no **idoso** = **inflamação** crônica de base — interpretar **risco** global (fragilidade, infecção oculta).
-
-**Transferrina** e **receptores** de **ferro** solúveis ajudam a distinguir **anemia ferropriva** de **anemia de doença crônica** — par com **ferritina** e **saturação**.
+A interpretação das bandas é clássica:
+- **Pico Monoclonal:** Um "spike" estreito na região da **gamaglobulina** exige investigação imediata para **Mieloma Múltiplo**.
+- **Hipogamaglobulinemia:** Redução da fração gamma, observada em imunodeficiências ou perda massiva de proteínas (como na **Síndrome Nefrótica**).
+- **Inversão Albumina/Globulina:** Comum na **Cirrose Hepática**, onde a albumina cai e as globulinas sobem (policlonal).
 
 ---
 
 ## Ponte com a Clínica
 
-**Paciente cirúrgico** com **albumina 2,0** — avaliar **inflamação**, **perda** (nefropatia), **hepatopatia** antes de atribuir só à “falta de comer”. **Criança** com **PKU** não tratada → **deficiência intelectual** evitável. **Homocist(e)ina** elevada liga **vitamina B12/folato** e **risco trombótico**.
+No **catabolismo intenso** (grandes traumas ou sepse), o **Balanço Nitrogenado** torna-se **negativo**, indicando perda de massa muscular para fornecer energia. O acompanhamento da **PCR** e da **Albumina** ajuda a determinar a fase da resposta metabólica ao estresse.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Albumina:** Meia-vida de **20 dias**. Cai na **inflamação** (escape capilar) e sinaliza **cronoficidade**.
-- **Pré-albumina:** Meia-vida de **2 dias**. Melhor para avaliar a **eficácia da dieta** recente.
-- **PCR:** Proteína de fase aguda positiva. Sobe no **trauma**, **infecção** e **cirurgia**.
-- **Balanço Nitrogenado:** Se **negativo**, indica que o paciente está perdendo **músculo** (catabolismo).
-- **PKU:** A dieta restritiva deve começar **imediatamente** para evitar lesão cerebral.
+- **Albumina:** Meia-vida longa (**20 dias**). Marcador de **cronicidade** e pressão oncótica.
+- **Pré-albumina:** Meia-vida curta (**2 dias**). Marcador de **nutrição aguda**.
+- **Hepcidina:** O "cadeado" do ferro. Sobe na inflamação e impede que o ferro saia das células.
+- **Homocisteína:** Níveis elevados estão ligados a lesão do **endotélio** e maior **risco trombótico**.
+- **BUN (Nitrogênio Ureico):** Avalia a carga de proteína e a função renal de forma integrada.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Albumina:** Proteína negativa de fase aguda (cai no estresse). O edema deve-se à perda de **Pressão Oncótica**.
-- **Ferro:** Em inflamação, a **Ferritina** sobe (estoque), mas o ferro livre cai (sequestro pela **Hepcidina**).
-- **Mieloma:** Suspeite no idoso com **Pico Monoclonal** na eletroforese e anemia.
-- **Homocisteína:** Seu aumento causa lesão no **endotélio** e risco cardiovascular.
+Foco total da **Uninove**:
+- **Edema e Proteína:** A queda da albumina causa edema porque reduz a **Pressão Coloidosmótica** (oncótica) do sangue.
+- **Sequestro de Ferro:** Em pacientes com inflamação crônica, a **Ferritina** está alta mas o paciente está anêmico (ferro preso/estocado).
+- **Mieloma Múltiplo:** Sempre suspeite em casos de idosos com lesões ósseas e **Pico Monoclonal** na eletroforese.
+- **Vitamina B12 e Folato:** Deficiências destas vitaminas causam aumento da **Homocisteína**.
+
+### Diferenciações Críticas
 
 | Conceito A | Conceito B | Diferencial para Prova |
 |------------|------------|-------------------------|
-| **Albumina** | **Pré-albumina** | **Crônico** (20d) vs **Agudo** (2d) |
-| **Desnutrição** | **Inflamação** | PCR **Baixo** vs PCR **Alto** |
-| **PKU** | **Xarope de Bordo** | **Fenilalanina** vs **Leucina/Isoleucina/Valina** |
-| **Hepcidina** | **Ferritina** | **Bloqueador** de absorção vs **Estoque** tecidual |
+| **Albumina** | **Pré-albumina** | **Crônico** (20 dias) vs **Monitoramento Agudo** (2 dias) |
+| **Marasmo** | **Kwashiorkor** | Privação calórica total vs Privação **Proteica** (com edema) |
+| **PKU** | **Xarope de Bordo** | Erro na **Fenilalanina** vs Erro nos **Ramificados** (Leucina) |
+| **Hepcidina** | **Ferritina** | **Hormônio** bloqueador de ferro vs **Proteína** de estoque |
 
 ### Frase-âncora para não esquecer
 
-> “Proteína plasmática fala do fígado, do rim e da inflamação — não só do prato.”
+> **“A proteína plasmática conta a história do fígado, do rim e da inflamação; não julgue a nutrição apenas pela albumina baixa no doente grave.”**
+

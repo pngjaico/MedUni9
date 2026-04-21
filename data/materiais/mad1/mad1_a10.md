@@ -2,7 +2,7 @@
 
 As hipersensibilidades são respostas imunes exageradas que causam lesão aos tecidos do próprio corpo. Na prova, o tema central é a **Classificação de Gell e Coombs**, que divide as reações em quatro tipos com base no mecanismo e no tempo de resposta.
 
-Na prática, identificar o tipo de hipersensibilidade permite definir o tratamento correto, variando de adrenalina (Tipo I) a imunossupressores potentes (Tipo III e IV).
+Na prática, identificar o tipo de hipersensibilidade permite definir o tratamento correto, variando de **adrenalina** (Tipo I) a imunossupressores potentes (Tipo III e IV).
 
 ---
 
@@ -42,8 +42,8 @@ Na prática, identificar o tipo de hipersensibilidade permite definir o tratamen
 - **Marcador:** Queda de **Complemento (C3 e C4)** por consumo.
 
 ### Tipo IV: A Reação Lenta
-- Único tipo que **não usa anticorpos**. Depende da memória dos Linfócitos T.
-- **PPD (Tuberculose):** A induração na pele só aparece após 48h porque as células T precisam de tempo para migrar até o local.
+- Único tipo que **não usa anticorpos**. Depende da memória dos **Linfócitos T**.
+- **PPD (Tuberculose):** A induração na pele só aparece após **48h** porque as células T precisam de tempo para migrar até o local.
 
 ---
 
@@ -84,8 +84,8 @@ A **Tipo I** é a mais perigosa e rápida: histamina faz o vaso abrir e o pulmã
 | **Tipo I** | **Tipo IV** | **Minutos (IgE)** vs **Dias (Células T)** |
 | **Tipo II** | **Tipo III** | **Anticorpo na Célula** vs Anticorpo circulante no Vaso |
 | **Miastenia (II)** | **Guillain-Barré (II/III/IV)** | Bloqueio de receptor vs Inflamação do nervo |
-| **PPD Positivo** | **Doença Ativa** | Resposta Imune (Tipo IV) vs Presença de sintomas/bacilos |
-| **Adrenalina** | **Antihistamínico** | Trata a Emergência (Tipo I) vs Trata o Sintoma leve |
+| **PPD Positivo** | **Doença Ativa** | Resposta Imune (**Tipo IV**) vs Presença de sintomas/bacilos |
+| **Adrenalina** | **Antihistamínico** | Trata a Emergência (**Tipo I**) vs Trata o Sintoma leve |
 
 ### Frase-âncora para não esquecer
 

@@ -1,8 +1,8 @@
 # BCM1 — Aula 11: Mutações e Reparo de DNA
 
-O nosso DNA sofre milhares de "ataques" todos os dias, causados pelo sol, cigarro ou erros de cópia. Na prova, o tema central é entender os **Sistemas de Reparo** (como o NER e o MMR) e o que acontece quando eles falham, gerando doenças como o **Xeroderma Pigmentoso** ou a **Síndrome de Lynch**.
+O nosso DNA sofre milhares de "ataques" todos os dias, causados pelo sol, cigarro ou erros de cópia. Na prova, o tema central é entender os **Sistemas de Reparo** (como o **NER** e o **MMR**) e o que acontece quando eles falham, gerando doenças como o **Xeroderma Pigmentoso** ou a **Síndrome de Lynch**.
 
-Na prática, entender o reparo do DNA permite diagnosticar precocemente o câncer hereditário e usar medicamentos inteligentes (como o Olaparibe) que matam apenas as células que não conseguem consertar seu próprio DNA.
+Na prática, entender o reparo do DNA permite diagnosticar precocemente o **câncer hereditário** e usar medicamentos inteligentes (como o **Olaparibe**) que matam apenas as células que não conseguem consertar seu próprio DNA.
 
 ---
 
@@ -34,15 +34,15 @@ Na prática, entender o reparo do DNA permite diagnosticar precocemente o cânce
 
 ## 3. Os Sistemas de Reparo (Os Heróis)
 
-### 1. NER (Reparo por Excisão de Nucleotídeos)
+### 1. **NER** (Reparo por Excisão de Nucleotídeos)
 Conserta estragos grandes, como os causados pelo **SOL**.
-- **Doença:** Se você nasce com defeito no NER, tem **Xeroderma Pigmentoso** (XP). A criança não pode pegar nem um raio de sol, senão desenvolve câncer de pele aos 2 o 3 anos de idade.
+- **Doença:** Se você nasce com defeito no NER, tem **Xeroderma Pigmentoso (XP)**. A criança não pode pegar nem um raio de sol, senão desenvolve câncer de pele aos 2 ou 3 anos de idade.
 
-### 2. MMR (Reparo de Erros de Cópia)
+### 2. **MMR** (Reparo de Erros de Cópia)
 Conserta erros que a polimerase deixou passar durante a replicação.
 - **Doença:** Se o MMR falha, a pessoa tem **Síndrome de Lynch** (Câncer de intestino hereditário).
 
-### 3. HR e NHEJ (Reparo de Quebras)
+### 3. **HR** e **NHEJ** (Reparo de Quebras)
 Consertam o DNA partido ao meio.
 - **HR:** Conserto perfeito usando o cromossomo "irmão" como molde. (Usa os genes **BRCA1/BRCA2**).
 - **NHEJ:** Conserto rápido e "sujo", colando as pontas como dá.
@@ -85,7 +85,7 @@ Sobre quebras de DNA, o sistema **HR** é o correto/fiel (Usa o gene **BRCA**) e
 | **Missense** | **Nonsense** | Muda o aminoácido vs **Cria um STOP CODON (Proteína para)** |
 | **Xeroderma** | **Síndrome de Lynch** | Câncer de pele (Sol) vs **Câncer de Intestino (Genético)** |
 | **HR** | **NHEJ** | Reparo perfeito (em G2/S) vs **Reparo com erro (une as pontas)** |
-| **BRCA1/2** | **MLH1/MSH2** | Repara quebras de fita dupla vs **Repara troca de letras** |
+| **BRCA1/2** | **MLH1/MSH2** | **Repara quebras de fita dupla** vs **Repara troca de letras** |
 
 ### Frase-âncora para não esquecer
 

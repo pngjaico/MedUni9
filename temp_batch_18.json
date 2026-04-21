@@ -1,0 +1,977 @@
+[
+  {
+    "id": 1902,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Mulher de 24 anos percebe nódulo mamário há 3 meses, sem dor, sem perda ponderal e sem sinais inflamatórios. Ao exame, a lesão é firme, bem delimitada e facilmente móvel. Qual é o diagnóstico mais provável?",
+    "opcoes": [
+      "A) Fibroadenoma",
+      "B) Mastite puerperal",
+      "C) Carcinoma ductal invasivo",
+      "D) Papiloma intraductal"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Nódulo móvel, firme, bem delimitado e indolor em mulher jovem é o padrão clássico de fibroadenoma.",
+    "explicacoes_opcoes": {
+      "A": "Correta. Fibroadenoma é a lesão benigna mais comum em jovens e costuma ter exatamente esse padrão ao exame.",
+      "B": "Incorreta. Mastite puerperal cursa com dor, calor, eritema e febre em contexto de lactação.",
+      "C": "Incorreta. Carcinoma invasivo tende a ser mais irregular e com menor mobilidade, em faixa etária maior.",
+      "D": "Incorreta. Papiloma intraductal costuma se manifestar com derrame papilar sanguinolento unilateral."
+    },
+    "explicacao": "Resumo: em mulheres jovens, massa mamária móvel, firme e indolor sugere fibroadenoma.\nA) CORRETA. Corresponde ao quadro clínico descrito.\nB) INCORRETA. Faltam sinais infecciosos típicos da mastite.\nC) INCORRETA. O padrão clínico não é o mais típico de carcinoma invasivo.\nD) INCORRETA. Papiloma é mais associado a descarga papilar sanguinolenta.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1903,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Paciente lactante, 10 dias pós-parto, apresenta dor mamária intensa, hiperemia local e febre. Qual conduta inicial é a mais adequada?",
+    "opcoes": [
+      "A) Suspender amamentação e iniciar apenas anti-inflamatório",
+      "B) Realizar biópsia imediata da área inflamada",
+      "C) Iniciar antibiótico adequado e manter esvaziamento da mama",
+      "D) Observar por 7 dias sem tratamento"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Mastite puerperal deve ser tratada precocemente com antibiótico e manutenção da drenagem láctea para evitar abscesso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. Suspender amamentação não é a conduta de rotina e pode piorar estase láctea.",
+      "B": "Incorreta. Biópsia não é primeira conduta em quadro infeccioso típico de mastite.",
+      "C": "Correta. Antibiótico e manutenção do esvaziamento da mama são a abordagem recomendada.",
+      "D": "Incorreta. Postergar tratamento aumenta risco de evolução para abscesso."
+    },
+    "explicacao": "Resumo: mastite puerperal requer tratamento imediato para controlar infecção e prevenir complicações.\nA) INCORRETA. A drenagem da mama deve ser mantida.\nB) INCORRETA. Conduta invasiva não é primeira etapa nesse contexto.\nC) CORRETA. Une terapia antimicrobiana e medida mecânica essencial.\nD) INCORRETA. Conduta expectante isolada é inadequada.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1904,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual subtipo histológico responde por cerca de 70 a 80% dos cânceres de mama invasivos?",
+    "opcoes": [
+      "A) Carcinoma lobular invasivo",
+      "B) Carcinoma ductal invasivo",
+      "C) Carcinoma medular",
+      "D) Doença de Paget isolada do mamilo"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O carcinoma ductal invasivo é, de longe, o subtipo invasivo mais frequente de câncer de mama.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. O lobular invasivo é o segundo mais comum, com proporção menor.",
+      "B": "Correta. CDI representa aproximadamente 70-80% dos casos invasivos.",
+      "C": "Incorreta. É subtipo menos prevalente.",
+      "D": "Incorreta. Não corresponde à principal forma invasiva."
+    },
+    "explicacao": "Resumo: CDI é o subtipo dominante entre tumores invasivos da mama.\nA) INCORRETA. CLI é menos frequente.\nB) CORRETA. Valor clássico cobrado em prova.\nC) INCORRETA. Subtipo raro quando comparado ao CDI.\nD) INCORRETA. Não representa a maioria dos invasivos.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1910,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "No rastreamento populacional de câncer de mama, qual recomendação corresponde ao Ministério da Saúde para mulheres de risco habitual?",
+    "opcoes": [
+      "A) Mamografia anual dos 30 aos 49 anos",
+      "B) Ultrassonografia semestral dos 40 aos 60 anos",
+      "C) Ressonância anual a partir dos 35 anos",
+      "D) Mamografia bienal dos 50 aos 69 anos"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Para risco habitual, o MS preconiza rastreamento com mamografia a cada 2 anos entre 50 e 69 anos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. Faixa etária e periodicidade não correspondem à recomendação do MS.",
+      "B": "Incorreta. Ultrassonografia não é método primário de rastreamento populacional.",
+      "C": "Incorreta. Ressonância é reservada para contextos específicos de alto risco.",
+      "D": "Correta. Essa é a recomendação oficial do MS frequentemente cobrada em prova."
+    },
+    "explicacao": "Resumo: rastreamento padrão do MS é mamografia bienal de 50 a 69 anos.\nA) INCORRETA. Conduta não preconizada para risco habitual.\nB) INCORRETA. Método e frequência inadequados para rastreio populacional.\nC) INCORRETA. Estratégia de alto risco, não de população geral.\nD) CORRETA. Recomendação correta.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1912,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Homem de 68 anos com HPB refere jato fraco e noctúria. Qual fármaco costuma melhorar sintomas em poucos dias ao relaxar musculatura prostática e do colo vesical?",
+    "opcoes": [
+      "A) Tansulosina",
+      "B) Finasterida",
+      "C) Dutasterida",
+      "D) Abiraterona"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Alfa-bloqueadores, como a tansulosina, agem rapidamente sobre o componente dinâmico da obstrução na HPB.",
+    "explicacoes_opcoes": {
+      "A": "Correta. Tansulosina (alfa-1A seletiva) costuma aliviar sintomas de forma mais rápida.",
+      "B": "Incorreta. Finasterida reduz volume prostático, mas com resposta mais lenta (meses).",
+      "C": "Incorreta. Dutasterida também tem início mais lento por atuar na 5-alfa-redutase.",
+      "D": "Incorreta. Abiraterona é usada no câncer de próstata resistente à castração."
+    },
+    "explicacao": "Resumo: para alívio rápido de STUI na HPB, pensa-se primeiro em alfa-bloqueador.\nA) CORRETA. Mecanismo e tempo de resposta compatíveis.\nB) INCORRETA. Atua no componente estático, com latência maior.\nC) INCORRETA. Mesma limitação temporal dos 5AR.\nD) INCORRETA. Indicação oncológica, não para STUI de HPB.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1913,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Sobre os inibidores da 5-alfa-redutase no tratamento da HPB, assinale a alternativa correta.",
+    "opcoes": [
+      "A) Produzem melhora sintomática máxima nas primeiras 24 horas",
+      "B) Bloqueiam receptores beta-adrenérgicos vesicais",
+      "C) Reduzem conversão de testosterona em DHT e diminuem volume prostático com uso contínuo",
+      "D) São contraindicados por não alterar PSA"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Finasterida e dutasterida diminuem DHT e atuam no componente estático da HPB, com resposta lenta e redução de PSA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. O efeito clínico relevante ocorre em meses, não em 24 horas.",
+      "B": "Incorreta. O alvo é a enzima 5-alfa-redutase, não receptores beta.",
+      "C": "Correta. Esse é o mecanismo central dessa classe farmacológica.",
+      "D": "Incorreta. Esses fármacos podem reduzir PSA em torno de 50%."
+    },
+    "explicacao": "Resumo: 5AR inibidores reduzem DHT, volume prostático e PSA ao longo do tempo.\nA) INCORRETA. Tempo de ação incompatível.\nB) INCORRETA. Mecanismo errado.\nC) CORRETA. Define corretamente farmacodinâmica e resultado clínico.\nD) INCORRETA. Afirmativa contradiz efeito laboratorial esperado.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1914,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual achado farmacológico diferencia melhor tadalafila de sildenafila no manejo da disfunção erétil?",
+    "opcoes": [
+      "A) Tadalafila tem duração de ação mais prolongada, podendo chegar a cerca de 36 horas",
+      "B) Tadalafila age por bloqueio de receptor androgênico",
+      "C) Sildenafila dura mais que tadalafila em todos os pacientes",
+      "D) Tadalafila é antagonista de GnRH"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A principal diferença prática cobrada é a maior duração da tadalafila, enquanto sildenafila costuma durar menos.",
+    "explicacoes_opcoes": {
+      "A": "Correta. A duração prolongada da tadalafila é característica clássica.",
+      "B": "Incorreta. Inibidores de PDE-5 não bloqueiam receptor androgênico.",
+      "C": "Incorreta. Em geral, ocorre o oposto.",
+      "D": "Incorreta. Não pertence à classe dos moduladores de GnRH."
+    },
+    "explicacao": "Resumo: tadalafila se destaca pelo efeito mais duradouro em comparação à sildenafila.\nA) CORRETA. Diferença farmacocinética central.\nB) INCORRETA. Mecanismo farmacológico incorreto.\nC) INCORRETA. Contradiz perfil temporal esperado.\nD) INCORRETA. Classe medicamentosa errada.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1917,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual opção descreve corretamente uma reação adversa relativamente comum dos alfa-bloqueadores usados na HPB?",
+    "opcoes": [
+      "A) Hiperglicemia grave imediata",
+      "B) Hipertrofia prostática acelerada",
+      "C) Hipertrofia prostática acelerada",
+      "D) Hipotensão ortostática"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Bloqueio alfa-1 periférico pode causar queda pressórica postural, especialmente no início do tratamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. Não é evento típico da classe.",
+      "B": "Incorreta. O objetivo é aliviar obstrução funcional, não acelerar crescimento prostático.",
+      "C": "Incorreta. Não corresponde ao perfil usual de toxicidade dessa classe.",
+      "D": "Correta. Hipotensão ortostática é efeito adverso conhecido dos alfa-bloqueadores."
+    },
+    "explicacao": "Resumo: alfa-bloqueadores podem reduzir pressão arterial e causar tontura postural.\nA) INCORRETA. Efeito não característico.\nB) INCORRETA. Vai contra a finalidade terapêutica.\nC) INCORRETA. Toxicidade hematológica grave não é típica.\nD) CORRETA. Evento adverso clássico de prova.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1922,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Mulher de 28 anos refere corrimento branco-acinzentado com odor de peixe, pH vaginal 5,2 e presença de clue cells. Qual tratamento oral de primeira linha é o mais adequado?",
+    "opcoes": [
+      "A) Metronidazol 500 mg 2x/dia por 7 dias",
+      "B) Fluconazol 150 mg dose única",
+      "C) Ceftriaxona IM em dose única",
+      "D) Nifedipina VO"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O quadro clínico e laboratorial é típico de vaginose bacteriana, cujo esquema clássico inclui metronidazol por 7 dias.",
+    "explicacoes_opcoes": {
+      "A": "Correta. Corresponde ao tratamento padrão de vaginose bacteriana.",
+      "B": "Incorreta. Fluconazol é indicado para candidíase, não para vaginose.",
+      "C": "Incorreta. Ceftriaxona faz parte de esquemas para DIP/gonococo, não da vaginose isolada.",
+      "D": "Incorreta. Nifedipina é tocolítico, sem indicação para esse quadro infeccioso."
+    },
+    "explicacao": "Resumo: vaginose com pH elevado e clue cells trata-se com metronidazol por 7 dias.\nA) CORRETA. Esquema de escolha no cenário descrito.\nB) INCORRETA. Direcionado a fungo, não a disbiose bacteriana.\nC) INCORRETA. Classe e contexto terapêutico diferentes.\nD) INCORRETA. Fármaco sem relação com infecção vaginal.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1923,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Paciente com prurido vulvar intenso, corrimento grumoso e pH vaginal 4,0. Qual diagnóstico é o mais provável?",
+    "opcoes": [
+      "A) Tricomoníase",
+      "B) Vaginose bacteriana",
+      "C) Vaginose bacteriana",
+      "D) Candidíase vulvovaginal"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Prurido intenso, corrimento tipo cottage cheese e pH vaginal baixo são achados clássicos de candidíase.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. Tricomoníase costuma ter corrimento amarelo-esverdeado, espumoso e pH mais alto.",
+      "B": "Incorreta. Vaginose geralmente cursa com odor de peixe e pH > 4,5.",
+      "C": "Incorreta. DIP envolve dor pélvica e sinais de infecção ascendente, não esse padrão isolado.",
+      "D": "Correta. O conjunto clínico descrito é típico de candidíase."
+    },
+    "explicacao": "Resumo: pH baixo com corrimento grumoso direciona para candidíase.\nA) INCORRETA. Fenótipo clínico não compatível.\nB) INCORRETA. Vaginose tem perfil clínico diferente.\nC) INCORRETA. DIP é outra síndrome clínica.\nD) CORRETA. Diagnóstico clássico do enunciado.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1924,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Na tricomoníase, qual medida terapêutica adicional é fundamental para reduzir falha e reinfecção?",
+    "opcoes": [
+      "A) Tratar apenas a paciente sintomática",
+      "B) Evitar metronidazol e usar apenas antifúngico",
+      "C) Evitar metronidazol e usar apenas antifúngico",
+      "D) Tratar a paciente e o parceiro sexual"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na tricomoníase, o tratamento simultâneo do parceiro é parte essencial da conduta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. A omissão do parceiro facilita reinfecção.",
+      "B": "Incorreta. Tricomoníase é protozoário, e metronidazol é droga de escolha.",
+      "C": "Incorreta. Não tem relação com o objetivo terapêutico do quadro.",
+      "D": "Correta. Essa conduta interrompe a cadeia de transmissão."
+    },
+    "explicacao": "Resumo: controle da tricomoníase exige abordagem do casal.\nA) INCORRETA. Mantém risco de recorrência.\nB) INCORRETA. Substituição proposta é inadequada.\nC) INCORRETA. Medida sem pertinência clínica ao caso.\nD) CORRETA. Conduta obrigatória na prática.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1930,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Sobre levonorgestrel 1,5 mg como contracepção de emergência, assinale a alternativa correta.",
+    "opcoes": [
+      "A) Deve ser usado apenas após confirmação de gravidez",
+      "B) Atua principalmente como abortivo químico",
+      "C) Deve ser tomado preferencialmente até 72 horas após relação desprotegida",
+      "D) Substitui método contraceptivo regular de uso contínuo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Levonorgestrel de emergência age inibindo/atrasando ovulação e é mais efetivo quando administrado precocemente até 72 horas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. O objetivo é prevenir gestação após exposição, não tratar gestação confirmada.",
+      "B": "Incorreta. Não é classificado como abortivo no contexto apresentado.",
+      "C": "Correta. Janela até 72 horas é referência clássica de uso.",
+      "D": "Incorreta. Não deve ser utilizado como método contínuo."
+    },
+    "explicacao": "Resumo: contracepção de emergência com levonorgestrel deve ser usada cedo e não é abortiva.\nA) INCORRETA. Momento de uso inadequado.\nB) INCORRETA. Mecanismo descrito está errado.\nC) CORRETA. Conduta temporal correta para maior efetividade.\nD) INCORRETA. Não substitui contracepção regular.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1932,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "A tríade de Virchow reúne os principais fatores que predispõem à trombose in vivo. Quais são esses três elementos?",
+    "opcoes": [
+      "A) Lesão endotelial, estase sanguínea e estado de hipercoagulabilidade.",
+      "B) Hipotermia, hipocalemia e acidose metabólica isoladas.",
+      "C) Apenas estase venosa, sem lesão vascular.",
+      "D) Hiperalbuminemia, vasodilatação e plaquetopenia."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Virchow descreve endotélio lesado, fluxo lento/parado e sangue “pronto para coagular” — base da fisiopatologia trombótica.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde à tríade clássica do material.",
+      "B": "Incorreta: distúrbios metabólicos genéricos não compõem a tríade nomeada.",
+      "C": "Incorreta: a estase é um pilar, mas lesão endotelial e hipercoagulabilidade também são necessárias no conceito.",
+      "D": "Incorreta: inverte mecanismos — edema por oncótica alta não é fator da tríade; tampouco vasodilatação global."
+    },
+    "explicacao": "Resumo: Tríade = endotélio + estase + hipercoagulabilidade.\nA) CORRETA. Definição canônica.\nB) INCORRETA. Não é a tríade de Virchow.\nC) INCORRETA. Visão incompleta.\nD) INCORRETA. Opções incompatíveis com o conceito.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1933,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Pelo modelo de Starling, qual mecanismo explica melhor o edema generalizado da síndrome nefrótica com hipoalbuminemia?",
+    "opcoes": [
+      "A) Aumento isolado da pressão hidrostática capilar sem alteração proteica.",
+      "B) Redução da pressão oncótica plasmática com aumento do fluxo intersticial líquido.",
+      "C) Obstrução linfática regional após radioterapia local.",
+      "D) Vasoconstrição arterial intensa com isquemia renal exclusiva."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Com albumina baixa, cai a força que puxa líquido de volta ao capilar; o interstício acumula água (anasarca possível).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve mais o edema de ICC (alta hidrostática), não o nefrótico.",
+      "B": "Correta: mecanismo central do edema nefrótico .",
+      "C": "Incorreta: linfedema é outro mecanismo, tipicamente localizado.",
+      "D": "Incorreta: não explica edema por hipoalbuminemia."
+    },
+    "explicacao": "Resumo: Hipoalbuminemia reduz pressão oncótica e favorece edema.\nA) INCORRETA. Mecanismo predominante diferente.\nB) CORRETA. Alinhado ao texto.\nC) INCORRETA. Outra etiologia de edema.\nD) INCORRETA. Não é o núcleo fisiopatológico pedido.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1934,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Em artérias de alto fluxo, o trombo que predomina costuma ser rico em plaquetas e fibrina. Qual consequência clínica mais típica desse trombo arterial?",
+    "opcoes": [
+      "A) Tromboembolia pulmonar maciça a partir de veia profunda.",
+      "B) Isquemia distal (ex.: IAM ou AVC isquêmico) pelo bloqueio do leito arterial.",
+      "C) Ascite por hipertensão portal pré-hepática.",
+      "D) Linfedema crônico de membro inferior."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Trombo arterial (branco/plaquetário) obstrui circulação de órgãos perfundidos por aquela artéria, gerando isquemia aguda.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: TEP vem de trombo venoso que migra, não do trombo arterial típico.",
+      "B": "Correta: corresponde ao efeito isquêmico descrito .",
+      "C": "Incorreta: mecanismo portal não se relaciona ao trombo arterial sistêmico típico.",
+      "D": "Incorreta: linfedema é obstrução linfática, não trombo arterial."
+    },
+    "explicacao": "Resumo: Trombo arterial → isquemia do território irrigado.\nA) INCORRETA. Confunde origem venosa vs arterial.\nB) CORRETA. Desfecho esperado.\nC) INCORRETA. Contexto patológico distinto.\nD) INCORRETA. Outra entidade.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1935,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual perfil descreve melhor o trombo venoso profundo que pode embolizar para o pulmão?",
+    "opcoes": [
+      "A) Rico em plaquetas, branco, aderido à placa de ateroma.",
+      "B) Predominantemente plaquetário, sem hemácias.",
+      "C) Formado em fluxo rápido arterial coronariano.",
+      "D) Vermelho, com grande componente eritrocitário, formado em baixa velocidade venosa."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na veia o fluxo é lento; o trombo incorpora mais hemácias (vermelho) e pode desprender-se até a circulação pulmonar.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve trombo arterial sobre aterosclerose.",
+      "B": "Incorreta: trombo plaquetário puro é mais arterial.",
+      "C": "Incorreta: circulação arterial coronariana não gera o trombo venoso de MMII.",
+      "D": "Correta: compatível com trombo venoso da aula."
+    },
+    "explicacao": "Resumo: Trombo venoso = eritrocitário, vermelho, fluxo lento.\nA) INCORRETA. Perfil arterial.\nB) INCORRETA. Subestima componente eritrocitário venoso.\nC) INCORRETA. Local errado.\nD) CORRETA. Descrição adequada.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1942,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Por convenção farmacocinética, qual valor de biodisponibilidade sistêmica (F) corresponde à administração intravenosa de um fármaco, usado como referência para comparar outras vias?",
+    "opcoes": [
+      "A) Aproximadamente 100%, pois a dose inteira entra na circulação sem absorção pelo TGI.",
+      "B) Sempre inferior a 20%, devido à extração hepática obrigatória.",
+      "C) Exatamente 50%, pois metade da dose é metabolizada na primeira passagem.",
+      "D) Zero, porque o fármaco não passa pelo fígado."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A via IV evita absorção e efeito de primeira passagem intestinal/hepático para a fração que chega à circulação; por definição F é tomada como 100% para comparação.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinha-se à definição de biodisponibilidade da aula.",
+      "B": "Incorreta: confunde com extração hepática de vias orais, não com IV.",
+      "C": "Incorreta: valor arbitrário sem relação com a definição de F para IV.",
+      "D": "Incorreta: o fármaco ainda pode ser metabolizado depois, mas F da IV é referência máxima."
+    },
+    "explicacao": "Resumo: IV = F ~100% como padrão de comparação das demais vias.\nA) CORRETA. Conceito básico de ADME da aula.\nB) INCORRETA. Não descreve a IV.\nC) INCORRETA. Número incorreto para o conceito pedido.\nD) INCORRETA. Erro conceitual sobre referência de biodisponibilidade.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1943,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Na farmacodinâmica receptor-mediada, qual distinção entre agonista completo e antagonista puro é a mais precisa?",
+    "opcoes": [
+      "A) O agonista ativa o receptor e produz efeito clínico; o antagonista puro pode ocupar o receptor sem ativá-lo efetivamente, bloqueando o agonista endógeno ou exógeno.",
+      "B) O antagonista sempre aumenta a eficácia máxima do agonista.",
+      "C) O agonista parcial e o agonista completo têm sempre a mesma eficácia máxima.",
+      "D) Antagonistas não se ligam a receptores, apenas inibem enzimas solúveis."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Agonista acopla efeito ao receptor; antagonista competitivo ocupa o sítio sem ativar (ou ativa de modo desprezível), impedindo o agonista.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reflete a definição da aula.",
+      "B": "Incorreta: antagonista puro não aumenta Emax; pode reduzir resposta ao agonista.",
+      "C": "Incorreta: agonista parcial tem menor eficácia máxima que o completo mesmo com ocupação total.",
+      "D": "Incorreta: antagonistas clássicos são ligantes de receptor."
+    },
+    "explicacao": "Resumo: Agonista = efeito; antagonista = bloqueio sem efeito próprio relevante.\nA) CORRETA. Distinção central.\nB) INCORRETA. Afirmação oposta ao esperado.\nC) INCORRETA. Confunde agonista parcial com completo.\nD) INCORRETA. Mecanismo incorreto.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1945,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Um antagonista competitivo e um não competitivo (irreversível no receptor) diferem principalmente quanto a qual aspecto da curva dose-resposta?",
+    "opcoes": [
+      "A) Apenas o antagonista competitivo se liga ao receptor.",
+      "B) O competitivo pode ser superado aumentando a concentração do agonista, preservando em princípio o efeito máximo; o não competitivo tende a reduzir a eficácia máxima observada.",
+      "C) O não competitivo nunca altera a potência do agonista.",
+      "D) Ambos eliminam a necessidade de receptor funcional na célula."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Competitivo desloca a curva (mais agonista restaura Emax); não competitivo/irrevogável reduz Emax ao diminuir receptores livres de forma estável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ambos interagem com o alvo.",
+      "B": "Correta: ecoa a distinção da aula.",
+      "C": "Incorreta: o não competitivo pode alterar profundamente a resposta ao agonista.",
+      "D": "Incorreta: afirmação absurda em farmacodinâmica."
+    },
+    "explicacao": "Resumo: Competitivo reversível vs não competitivo com impacto diferente em Emax.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1947,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "No metabolismo hepático em duas fases, qual característica descreve melhor a fase I mediada predominantemente pelo sistema CYP450?",
+    "opcoes": [
+      "A) Conjugação imediata com ácido glucurônico sem oxidação prévia.",
+      "B) Sulfatação como única via de eliminação do fármaco.",
+      "C) Reações de oxidação, redução ou hidrólise que frequentemente tornam o substrato mais polar e preparado para conjugação na fase II.",
+      "D) Excreção tubular direta sem passagem hepatocítica."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Fase I introduz ou expõe grupos funcionais (muitas vezes via CYP450); fase II conjuga esses produtos a moléculas hidrossolúveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: conjugação major é fase II.",
+      "B": "Incorreta: sulfatação é fase II, não define fase I isoladamente.",
+      "C": "Correta: condiz com o texto da aula.",
+      "D": "Incorreta: ignora metabolismo hepático."
+    },
+    "explicacao": "Resumo: Fase I = modificação química inicial, muito CYP450.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1952,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Nos vasos de resistência e na íris, a estimulação predominante dos receptores α₁ adrenérgicos pós-sinápticos resulta principalmente em:",
+    "opcoes": [
+      "A) Vasoconstrição periférica e midríase.",
+      "B) Broncodilatação e lipólise hepática exclusivas.",
+      "C) Bradicardia reflexa por ativação vagal direta.",
+      "D) Vasodilatação muscular esquelética e queda abrupta da resistência vascular."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Α₁ medeia contração de musculatura lisa vascular e do esfíncter da íris, elevando resistência periférica e promovendo midríase.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde aos efeitos clássicos descritos .",
+      "B": "Incorreta: β₂ é mais ligado a bronco e metabolismo, não ao eixo α₁ de vasos/íris.",
+      "C": "Incorreta: bradicardia reflexa pode ocorrer em outros contextos (ex.: hipertensão por α), mas não é o efeito direto listado de α₁.",
+      "D": "Incorreta: inverte o efeito vasopressor típico de α₁."
+    },
+    "explicacao": "Resumo: α₁ → vasoconstrição e midríase.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1953,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual par de efeitos cardíacos é caracteristicamente mediado por receptores β₁ adrenérgicos no miocárdio?",
+    "opcoes": [
+      "A) Aumento da frequência e da contratilidade (cronotropismo e inotropismo positivos).",
+      "B) Broncodilatação e relaxamento uterino.",
+      "C) Vasoconstrição exclusiva de leito muscular esquelético.",
+      "D) Redução da condução AV como efeito direto primário dos β₁."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Β₁ no coração aumenta FC, contratilidade e condução AV — eixo simpático positivo.",
+    "explicacoes_opcoes": {
+      "A": "",
+      "B": "Incorreta: perfil β₂ pulmonar/útero.",
+      "C": "Incorreta: vasoconstrição periférica é mais α₁.",
+      "D": "Incorreta: β₁ aumenta dromotropismo; bloqueio β é que retarda AV."
+    },
+    "explicacao": "Resumo: β₁ cardíaco = FC e contratilidade.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1956,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Em choque cardiogênico com baixo débito, busca-se inotropia predominante com leve vasodilatação. Qual opção vasoativa corresponde melhor a esse perfil?",
+    "opcoes": [
+      "A) Fenilefrina pura α₁ sem efeito cardíaco direto.",
+      "B) Dobutamina, com ação principalmente β₁ e algum β₂, aumentando contratilidade com redução moderada de pós-carga.",
+      "C) Propranolol não seletivo em dose plena.",
+      "D) Atropina em altas doses exclusivamente para broncoespasmo."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Dobutamina prioriza β₁ (inotropia) com efeito vasodilatador leve (β₂), útil em baixo débito cardiogênico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: fenilefrina não fornece inotropia β.",
+      "B": "Correta: condiz com o texto sobre dobutamina.",
+      "C": "Incorreta: betabloqueio pioraria choque baixo débito agudo não indicado.",
+      "D": "Incorreta: atropina não é inotrópico de escolha aqui."
+    },
+    "explicacao": "Resumo: Choque cardiogênico → dobutamina (β₁ predominante).\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1957,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Paciente asmático usa salbutamol inalatório agudo. Qual efeito esperado depende predominantemente de receptores β₂?",
+    "opcoes": [
+      "A) Aumento da contratilidade miocárdica e FC.",
+      "B) Vasoconstrição de artérias digitais.",
+      "C) Broncodilatação da musculatura lisa brônquica e vasodilatação em leito muscular.",
+      "D) Midríase por contração do músculo dilatador da íris."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Β₂ predomina em brônquios e vasculatura muscular esquelética, medeando broncodilatação e certa vasodilatação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: perfil β₁ cardíaco.",
+      "B": "Incorreta: α₁ periférico.",
+      "C": "Correta: alinha agonismo β₂ ao uso de beta-2 inalatório.",
+      "D": "Incorreta: midríase simpática é mais α₁."
+    },
+    "explicacao": "Resumo: β₂ → bronco e vasos musculares.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1963,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "A bradicardia mediada pelo vago no coração está ligada principalmente à estimulação de qual subtipo de receptor muscarínico?",
+    "opcoes": [
+      "A) M₁, predominante no SNC.",
+      "B) M₂, com efeito cronotrópio negativo.",
+      "C) M₃, responsável pela broncoconstrição.",
+      "D) Nicotínico, na placa motora exclusivamente."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O M₂ é o principal muscarínico cardíaco; sua ativação reduz a frequência e a condução AV, explicando a bradicardia vagal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: M₁ participa de outras vias, não é o principal na bradicardia vagal descrita.",
+      "B": "Correta: M₂ no coração medeia bradicardia e bloqueios atrioventriculares.",
+      "C": "Incorreta: M₃ predomina em glândulas e musculatura lisa, não na cronotropismo cardíaco.",
+      "D": "Incorreta: receptores nicotínicos não explicam sozinhos a bradicardia muscarínica cardíaca."
+    },
+    "explicacao": "Resumo: bradicardia vagal — receptor M₂ cardíaco.\nA) INCORRETA. Não é o eixo principal da bradicardia vagal.\nB) CORRETA. M₂ medeia cronotropismo negativo.\nC) INCORRETA. M₃ não é o foco cardíaco.\nD) INCORRETA. Confunde local e tipo de receptor.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1965,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "A pilocarpina em colírio reduz a pressão intraocular no glaucoma principalmente porque:",
+    "opcoes": [
+      "A) Bloqueia receptores muscarínicos e causa midríase.",
+      "B) Inibe a acetilcolinesterase de modo irreversível na câmara anterior.",
+      "C) Ativa exclusivamente receptores nicotínicos da junção neuromuscular.",
+      "D) Estimula muscarina e aumenta o tônus do esfíncter pupilar e do músculo ciliar, favorecendo a drenagem do humor aquoso."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A pilocarpina é agonista muscarínico; contrai pupila e corpo ciliar, abrindo o ângulo e melhorando a saída pelo canal de Schlemm.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: antagonismo e midríase seriam o oposto do efeito desejado no glaucoma de ângulo.",
+      "B": "Incorreta: anticolinesterásicos são outra classe; pilocarpina é agonista direto.",
+      "C": "Incorreta: o alvo principal no olho não é a placa motora nicotínica.",
+      "D": "Correta: mecanismo muscarínico com miose e melhora da drenagem."
+    },
+    "explicacao": "Resumo: pilocarpina — agonista muscarínico ocular, miose e drenagem.\nA) INCORRETA. Descreve anticolinérgico.\nB) INCORRETA. Mecanismo errado.\nC) INCORRETA. Local e receptor incorretos.\nD) CORRETA. Agonismo muscarínico adequado.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1966,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "A neostigmina é utilizada na miastenia gravis porque:",
+    "opcoes": [
+      "A) Bloqueia receptores nicotínicos da placa motora.",
+      "B) É antagonista muscarínico que reduz secreções brônquicas.",
+      "C) Ativa diretamente o receptor de acetilcolina sem depender da enzima.",
+      "D) Aumenta a acetilcolina na junção neuromuscular ao inibir a acetilcolinesterase de forma reversível."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Neostigmina e piridostigmina prolongam a acetilcolina sináptica na junção neuromuscular ao inibir reversivelmente a acetilcolinesterase, melhorando a transmissão em miastenia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: bloqueio nicotínico pioraria a fraqueza.",
+      "B": "Incorreta: isso descreve atropina ou outros anticolinérgicos.",
+      "C": "Incorreta: não é agonista direto de alta seletividade como a pilocarpina no olho.",
+      "D": "Correta: anticolinesterásico reversível na JNM."
+    },
+    "explicacao": "Resumo: neostigmina — AChE reversível na miastenia.\nA) INCORRETA. Não bloqueia nicotina de forma terapêutica aqui.\nB) INCORRETA. Classe farmacológica errada.\nC) INCORRETA. Mecanismo incorreto.\nD) CORRETA. Aumenta ACh disponível na fenda.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1967,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual par de achados é mais compatível com uso de atropina sistêmica em dose eficaz?",
+    "opcoes": [
+      "A) Bradicardia acentuada e miose pontual.",
+      "B) Hipersialorreia intensa e broncoespasmo reflexo.",
+      "C) Fasciculações generalizadas sem alteração pupilar.",
+      "D) Taquicardia e midríase com diminuição de secreções."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A atropina bloqueia muscarínicos: tira o tônus parassimpático do coração e da pupila e reduz secreções exócrinas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: bradicardia e miose são efeitos colinérgicos, não anticolinérgicos.",
+      "B": "Incorreta: excesso colinérgico, não bloqueio muscarínico.",
+      "C": "Incorreta: fasciculações sugerem nicotínico em intoxicações mistas, não o perfil da atropina.",
+      "D": "Correta: taquicardia, midríase e xerostomia são clássicos da atropina."
+    },
+    "explicacao": "Resumo: atropina — taquicardia, midríase, secura.\nA) INCORRETA. Perfil colinérgico.\nB) INCORRETA. Oposto ao esperado.\nC) INCORRETA. Não descreve o efeito principal.\nD) CORRETA. Antimuscarínico sistêmico.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1972,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual conjunto melhor caracteriza a fase precoce da inflamação aguda no tecido?",
+    "opcoes": [
+      "A) Vasodilatação, aumento de permeabilidade vascular e predomínio de neutrófilos no infiltrado.",
+      "B) Predomínio de linfócitos e ausência de exsudato.",
+      "C) Granuloma com necrose caseosa central.",
+      "D) Reparo apenas por fibrose sem participação de leucócitos."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A inflamação aguda combina alterações vasculares imediatas com influxo predominante de neutrófilos nos primeiros dias.",
+    "explicacoes_opcoes": {
+      "A": "Correta: histamina e outros mediadores promovem vasodilatação e extravasamento; neutrófilos são os primeiros leucócitos.",
+      "B": "Incorreta: linfócitos predominam na inflamação crônica, não na fase aguda inicial.",
+      "C": "Incorreta: padrão granulomatoso é inflamação crônica, não a fase aguda imediata.",
+      "D": "Incorreta: a resposta aguda é celular e vascularmente ativa, não só fibrose."
+    },
+    "explicacao": "Resumo: inflamação aguda — vascular + neutrófilos.\nA) CORRETA. Combina eventos vasculares e celulares típicos.\nB) INCORRETA. Perfil de cronicidade.\nC) INCORRETA. Outro padrão histológico.\nD) INCORRETA. Ignora a cascata inflamatória aguda.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1976,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual mediador é um potente quimiotático para neutrófilos na inflamação aguda?",
+    "opcoes": [
+      "A) Angiotensina II.",
+      "B) Somatostatina.",
+      "C) Peptídeo natriurético.",
+      "D) C5a do complemento."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "C5a é anafilatoxina e quimiotático para neutrófilos, contribuindo para o recrutamento celular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: eixo renina-angiotensina não é o quimiotático clássico aqui.",
+      "B": "Incorreta: não participa como quimiotaxia neutrofílica na cascata citada.",
+      "C": "Incorreta: função cardiovascular, não quimiotaxia neutrofílica.",
+      "D": "Correta: fragmento do complemento com forte quimiotaxia de neutrófilos."
+    },
+    "explicacao": "Resumo: quimiotaxia — C5a.\nA) INCORRETA. Sistema hormonal distinto.\nB) INCORRETA. Sem papel central descrito.\nC) INCORRETA. Peptídeo irrelevante ao recrutamento.\nD) CORRETA. Mediador clássico.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1978,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "O TGF-β tem papel central no reparo tecidual ao:",
+    "opcoes": [
+      "A) Estimular fibroblastos e produção de matriz colágena na fibrose.",
+      "B) Bloquear a migração de neutrófilos para o foco inflamatório.",
+      "C) Inibir totalmente a angiogênese no tecido de granulação.",
+      "D) Promover apenas lise de colágeno sem deposição nova."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O TGF-β é citocina profibrótica que impulsiona fibroblastos e acúmulo de colágeno na cicatrização.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde ao papel indutor de fibrose descrito no material.",
+      "B": "Incorreta: não é o efeito principal citado para o TGF-β .",
+      "C": "Incorreta: o tecido de granulação é vascularizado; a afirmação é falsa.",
+      "D": "Incorreta: o sentido do efeito é pró-deposição matricial, não só lise."
+    },
+    "explicacao": "Resumo: TGF-β — fibrose.\nA) CORRETA. Indutor de colágeno.\nB) INCORRETA. Foco errado.\nC) INCORRETA. Contradiz a fase proliferativa.\nD) INCORRETA. Mecanismo invertido.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1979,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual distinção é mais correta entre quelóide e cicatriz hipertrófica?",
+    "opcoes": [
+      "A) Ambas ultrapassam sempre os limites da ferida original.",
+      "B) A cicatriz hipertrófica tende a permanecer nos limites da ferida; o quelóide pode ultrapassá-los.",
+      "C) Somente a hipertrófica ocorre em pele fototipada mais escuro.",
+      "D) O quelóide regride espontaneamente na maioria dos casos em semanas."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A hipertrófica cresce dentro dos limites da ferida; o quelóide estende-se além das margens originais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: só o quelóide ultrapassa as margens com frequência.",
+      "B": "Correta: critério morfológico clássico de comparação.",
+      "C": "Incorreta: quelóide é mais associado a fototipos; a afirmação exclusiva é falsa.",
+      "D": "Incorreta: o quelóide persiste e não costuma regredir rapidamente."
+    },
+    "explicacao": "Resumo: quelóide vs hipertrófica — limites da ferida.\nA) INCORRETA. Generalização incorreta.\nB) CORRETA. Diferença descrita no texto.\nC) INCORRETA. Dados epidemiológicos incorretos.\nD) INCORRETA. Curso clínico errado.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1982,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "A isoforma COX-1, constitutiva, tem papel fisiológico relevante ao:",
+    "opcoes": [
+      "A) Manter muco/bicarbonato gástrico e participar da agregação plaquetária via tromboxano.",
+      "B) Ser induzida apenas em macrófagos durante sepse, sem expressão basal.",
+      "C) Sintetizar exclusivamente leucotrienos broncoativos na musculatura lisa.",
+      "D) Bloquear a fosfolipase A₂ e todas as vias de eicosanoides de uma só vez."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "COX-1 é constitutiva e participa da proteção da mucosa e da geração de TXA₂ plaquetário; sua inibição explica gastropatia e sangramento.",
+    "explicacoes_opcoes": {
+      "A": "Correta: condiz com o papel de manutenção gástrica e plaquetária descrito no texto.",
+      "B": "Incorreta: isso aproxima-se mais da COX-2 induzível na inflamação.",
+      "C": "Incorreta: leucotrienos são via 5-LOX, não via COX.",
+      "D": "Incorreta: descreve corticoide, não AINE inibidor de COX."
+    },
+    "explicacao": "Resumo: COX-1 — mucosa e plaquetas.\nA) CORRETA. Papel constitutivo coerente.\nB) INCORRETA. Confunde isoformas.\nC) INCORRETA. Via enzimática errada.\nD) INCORRETA. Outro fármaco.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1985,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Por que a aspirina em baixa dose diária exerce efeito antiagregante prolongado?",
+    "opcoes": [
+      "A) Porque inibe reversivelmente a COX-1 plaquetária a cada 12 horas.",
+      "B) Porque estimula a síntese de prostaciclina endotelial de forma duradoura.",
+      "C) Porque bloqueia apenas a COX-2 induzível nos macrófagos.",
+      "D) Porque acetila irreversivelmente a COX das plaquetas anucleadas, que não resintetizam a enzima."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Plaquetas não renovam COX; a inibição irreversível pela aspirina persiste durante a vida útil celular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: outros AINEs são reversíveis; aspirina é irreversível.",
+      "B": "Incorreta: o endotélio pode regenerar COX; o efeito antiagregante foca na plaqueta.",
+      "C": "Incorreta: baixa dose de AAS visa principalmente COX-1 plaquetária.",
+      "D": "Correta: explica a irreversibilidade e a duração do efeito."
+    },
+    "explicacao": "Resumo: AAS baixa dose — irreversível na plaqueta.\nA) INCORRETA. Mecanismo de outros AINEs.\nB) INCORRETA. Foco errado.\nC) INCORRETA. Isoforma-alvo incorreta.\nD) CORRETA. Biologia plaquetária correta.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1987,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Qual diferença de mecanismo entre AINEs e glicocorticoides é mais precisa?",
+    "opcoes": [
+      "A) Ambos inibem apenas a COX-2 induzível.",
+      "B) AINEs bloqueiam a cicloxigenase; corticoides inibem a fosfolipase A₂ e reduzem todo o pool de ácido araquidônico.",
+      "C) Corticoides ativam a COX para aumentar prostaglandinas.",
+      "D) AINEs inibem a 5-LOX; corticoides inibem somente tromboxano."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "AINEs atuam na COX; corticoides reduzem substrato ao bloquear fosfolipase A₂, abrangendo todas as classes de eicosanoides.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AINEs clássicos atuam em COX-1 e COX-2 conforme perfil.",
+      "B": "Correta: resume o alvo enzimático de cada classe.",
+      "C": "Incorreta: corticoides reduzem eicosanoides, não aumentam COX.",
+      "D": "Incorreta: AINEs não são inibidores seletivos da 5-LOX."
+    },
+    "explicacao": "Resumo: AINE — COX; corticoide — fosfolipase A₂.\nA) INCORRETA. Generalização falsa.\nB) CORRETA. Mecanismos distintos.\nC) INCORRETA. Sentido do efeito invertido.\nD) INCORRETA. Vias erradas.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1990,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Os glicocorticoides exercem potente efeito anti-inflamatório porque, no citoplasma:",
+    "opcoes": [
+      "A) Induzem lipocortina que inibe a fosfolipase A₂, reduzindo a liberação de ácido araquidônico.",
+      "B) Acetilam irreversivelmente a COX plaquetária.",
+      "C) Inibem seletivamente apenas a COX-2 em plaquetas.",
+      "D) Bloqueiam diretamente receptores H1 periféricos."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O complexo receptor-corticoide induz lipocortina (anexina A1), inibindo fosfolipase A₂ e toda cascata de eicosanoides.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mecanismo nuclear descrito no material.",
+      "B": "Incorreta: isso é aspirina nas plaquetas.",
+      "C": "Incorreta: plaquetas têm sobretudo COX-1; e o mecanismo do corticoide não é esse.",
+      "D": "Incorreta: anti-H1 é antihistamínico, não corticoide."
+    },
+    "explicacao": "Resumo: corticoide — fosfolipase A₂ via lipocortina.\nA) CORRETA. Caminho clássico.\nB) INCORRETA. Outro fármaco.\nC) INCORRETA. Alvo errado.\nD) INCORRETA. Classe distinta.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1992,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Mulher com nódulo mamário móvel, bordas lisas e crescimento lento; biópsia mostra proliferação glandular benigna. A nomenclatura mais adequada para tumor epitelial benigno de glândula é:",
+    "opcoes": [
+      "A) Adenoma.",
+      "B) Adenocarcinoma.",
+      "C) Lipossarcoma.",
+      "D) Carcinoma in situ."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Adenoma nomeia tumor benigno de origem glandular; adenocarcinoma e carcinoma in situ são epitélio com grau de malignidade ou confinamento distintos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: sufixo de tumor benigno glandular .",
+      "B": "Incorreta: maligno de glândula, não benigno.",
+      "C": "Incorreta: sarcoma deriva de mesênquima; não descreve adenoma.",
+      "D": "Incorreta: lesão intraepitelial maligna não infiltrativa, não nódulo benigno encapsulado típico."
+    },
+    "explicacao": "Resumo: nomenclatura benigna glandular.\nA) CORRETA. Adenoma = benigno de glândula.\nB) INCORRETA. Maligno.\nC) INCORRETA. Linhagem e sufixo errados.\nD) INCORRETA. Conceito de CIS, não de adenoma.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1996,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "Ativação constitutiva de RAS com sinalização contínua de proliferação celular exemplifica melhor qual conceito?",
+    "opcoes": [
+      "A) Proto-oncogene com mutação de ganho de função (alelo mutante dominante).",
+      "B) Gene supressor com hipótese two-hit completa.",
+      "C) Reparo de DNA por via de excisão de nucleotídio apenas.",
+      "D) Hiperplasia compensatória estritamente reversível sem mutação."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Proto-oncogenes tornam-se oncogenes por ganho de função; frequentemente uma mutação altera o fenótipo da célula.",
+    "explicacoes_opcoes": {
+      "A": "Correta: RAS citado entre exemplos de proto-oncogene ativado.",
+      "B": "Incorreta: supressores perdem função; RAS não é modelo típico de two-hit aqui.",
+      "C": "Incorreta: não descreve o papel de RAS como driver proliferativo.",
+      "D": "Incorreta: cenário descrito é mutacional e clonal, não só hiperplasia fisiológica."
+    },
+    "explicacao": "Resumo: RAS — oncogene, ganho de função.\nA) CORRETA. Conceito adequado.\nB) INCORRETA. Outra classe gênica.\nC) INCORRETA. Via irrelevante ao enunciado.\nD) INCORRETA. Sem mutação — falso para o exemplo.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  },
+  {
+    "id": 1997,
+    "materia": "fisiopato3",
+    "tema": "fp3_a8",
+    "enunciado": "No estadiamento TNM, o componente N avalia principalmente:",
+    "opcoes": [
+      "A) Tamanho e invasão local do tumor primário.",
+      "B) Acometimento de linfonodos regionais.",
+      "C) Grau histológico G1 a G4.",
+      "D) Presença de metástases à distância."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "T descreve tumor primário; N, linfonodos regionais; M, metástase distante.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso corresponde a T, não a N.",
+      "B": "Correta: N estadia extensão ganglionar.",
+      "C": "Incorreta: grau é G, eixo separado do TNM.",
+      "D": "Incorreta: metástase distante é M."
+    },
+    "explicacao": "Resumo: N — linfonodos.\nA) INCORRETA. Letra T.\nB) CORRETA. Definição.\nC) INCORRETA. Grau histológico.\nD) INCORRETA. Componente M.",
+    "aula_id": "fp3_a8",
+    "essencial": false
+  }
+]

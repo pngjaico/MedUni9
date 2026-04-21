@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1401,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Sinal de Alarme” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "B) Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "C) Sinal de Alarme — Dengue Grave",
+      "D) Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Sinal de Alarme” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina",
+      "B": "Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação",
+      "C": "Correta: Sinal de Alarme — Dengue Grave",
+      "D": "Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sinal de Alarme” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Dengvaxia (CYD-TDV):: apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina\nB) INCORRETA. Incorreta: Dengue:: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação\nC) CORRETA. Correta: Sinal de Alarme — Dengue Grave\nD) INCORRETA. Incorreta: Síndrome de Guillain-Barré:: desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1402,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Anti-HAV IgM:” está correta?",
+    "opcoes": [
+      "A) infecção aguda",
+      "B) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "C) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "D) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anti-HAV IgM:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: infecção aguda",
+      "B": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "C": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "D": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anti-HAV IgM:”.\nA) CORRETA. Correta: infecção aguda\nB) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nC) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nD) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1403,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Característica” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "B) Característica — HAV — HBV — HCV — HDV — HEV",
+      "C) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "D) Anti-HBe — Redução da replicação; melhor prognóstico"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Característica” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "B": "Correta: Característica — HAV — HBV — HCV — HDV — HEV",
+      "C": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "D": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Característica” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nB) CORRETA. Correta: Característica — HAV — HBV — HCV — HDV — HEV\nC) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nD) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1404,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Anti-HAV IgG:” está correta?",
+    "opcoes": [
+      "A) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "B) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "C) imunidade passada ou vacinal",
+      "D) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anti-HAV IgG:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "B": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "C": "Correta: imunidade passada ou vacinal",
+      "D": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anti-HAV IgG:”.\nA) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nB) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nC) CORRETA. Correta: imunidade passada ou vacinal\nD) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1405,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Família” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "B) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "C) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "D) Família — Picornavirus — Hepadnavirus — Flavivirus — Deltavirus — Hepeviridae"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Família” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "B": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "C": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "D": "Correta: Família — Picornavirus — Hepadnavirus — Flavivirus — Deltavirus — Hepeviridae"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Família” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nB) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nC) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nD) CORRETA. Correta: Família — Picornavirus — Hepadnavirus — Flavivirus — Deltavirus — Hepeviridae",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1406,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Anti-HCV:” está correta?",
+    "opcoes": [
+      "A) triagem (ELISA); não indica cura ou proteção",
+      "B) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "C) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "D) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anti-HCV:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: triagem (ELISA); não indica cura ou proteção",
+      "B": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "C": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "D": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Anti-HCV:”.\nA) CORRETA. Correta: triagem (ELISA); não indica cura ou proteção\nB) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nC) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nD) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1407,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Contexto de exame físico sistematizado com hallazgo local. Qual alternativa associa corretamente “Genoma” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "B) Genoma — RNA+ — DNA parcialmente duplo — RNA+ — RNA circular (RNA∂) — RNA+",
+      "C) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "D) Anti-HBe — Redução da replicação; melhor prognóstico"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Genoma” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "B": "Correta: Genoma — RNA+ — DNA parcialmente duplo — RNA+ — RNA circular (RNA∂) — RNA+",
+      "C": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "D": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Genoma” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nB) CORRETA. Correta: Genoma — RNA+ — DNA parcialmente duplo — RNA+ — RNA circular (RNA∂) — RNA+\nC) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nD) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1408,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “HCV-RNA (PCR quantitativo):” está correta?",
+    "opcoes": [
+      "A) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "B) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "C) confirma infecção ativa; monitorar tratamento",
+      "D) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HCV-RNA (PCR quantitativo):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "B": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "C": "Correta: confirma infecção ativa; monitorar tratamento",
+      "D": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HCV-RNA (PCR quantitativo):”.\nA) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nB) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nC) CORRETA. Correta: confirma infecção ativa; monitorar tratamento\nD) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1409,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Transmissão” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "B) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "C) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "D) Transmissão — Fecal-oral — Parenteral, sexual, vertical — Parenteral (principalmente) — Parenteral (com HBV) — Fecal-oral"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Transmissão” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "B": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "C": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "D": "Correta: Transmissão — Fecal-oral — Parenteral, sexual, vertical — Parenteral (principalmente) — Parenteral (com HBV) — Fecal-oral"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Transmissão” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nB) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nC) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nD) CORRETA. Correta: Transmissão — Fecal-oral — Parenteral, sexual, vertical — Parenteral (principalmente) — Parenteral (com HBV) — Fecal-oral",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1410,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Genotipo HCV (1–6):” está correta?",
+    "opcoes": [
+      "A) orienta duração do tratamento",
+      "B) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "C) Anti-HBe — Redução da replicação; melhor prognóstico",
+      "D) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Genotipo HCV (1–6):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: orienta duração do tratamento",
+      "B": "Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "C": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+      "D": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Genotipo HCV (1–6):”.\nA) CORRETA. Correta: orienta duração do tratamento\nB) INCORRETA. Incorreta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nC) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico\nD) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1411,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Cronicidade” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "B) Genotipo HCV (1–6):: orienta duração do tratamento",
+      "C) Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "D) Anti-HBe — Redução da replicação; melhor prognóstico"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Cronicidade” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade",
+      "B": "Incorreta: Genotipo HCV (1–6):: orienta duração do tratamento",
+      "C": "Correta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante",
+      "D": "Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Cronicidade” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: HCV:: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade\nB) INCORRETA. Incorreta: Genotipo HCV (1–6):: orienta duração do tratamento\nC) CORRETA. Correta: Cronicidade — Não — Sim (5–10% adulto; 90% neonato) — Sim (~80%) — Sim (sobrev. com HBV) — Não (exceto gestante)\nD) INCORRETA. Incorreta: Anti-HBe — Redução da replicação; melhor prognóstico",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1412,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Envolto:” está correta?",
+    "opcoes": [
+      "A) capsídeo cônico (proteína p24); envelope com glicoproteínas gp120 + gp41",
+      "B) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "C) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D) Proteína — Gene — Função"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Envolto:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: capsídeo cônico (proteína p24); envelope com glicoproteínas gp120 + gp41",
+      "B": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "C": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D": "Incorreta: Proteína — Gene — Função"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Envolto:”.\nA) CORRETA. Correta: capsídeo cônico (proteína p24); envelope com glicoproteínas gp120 + gp41\nB) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nC) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nD) INCORRETA. Incorreta: Proteína — Gene — Função",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1413,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Proteína” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) CD4+: recupera com supressão viral; objetivo > 500 células/mm³",
+      "B) Proteína — Gene — Função",
+      "C) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "D) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Proteína” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: CD4+: recupera com supressão viral; objetivo > 500 células/mm³",
+      "B": "Correta: Proteína — Gene — Função",
+      "C": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "D": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Proteína” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: CD4+: recupera com supressão viral; objetivo > 500 células/mm³\nB) CORRETA. Correta: Proteína — Gene — Função\nC) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nD) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1414,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “CD4+ normal:” está correta?",
+    "opcoes": [
+      "A) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "B) Proteína — Gene — Função",
+      "C) 500–1500 células/mm³",
+      "D) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “CD4+ normal:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "B": "Incorreta: Proteína — Gene — Função",
+      "C": "Correta: 500–1500 células/mm³",
+      "D": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “CD4+ normal:”.\nA) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nB) INCORRETA. Incorreta: Proteína — Gene — Função\nC) CORRETA. Correta: 500–1500 células/mm³\nD) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1415,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “gp120” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "B) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "C) Proteína — Gene — Função",
+      "D) gp120 — env — Ligação ao receptor CD4 e co-receptor (CCR5 ou CXCR4"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “gp120” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "B": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "C": "Incorreta: Proteína — Gene — Função",
+      "D": "Correta: gp120 — env — Ligação ao receptor CD4 e co-receptor (CCR5 ou CXCR4"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “gp120” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nB) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nC) INCORRETA. Incorreta: Proteína — Gene — Função\nD) CORRETA. Correta: gp120 — env — Ligação ao receptor CD4 e co-receptor (CCR5 ou CXCR4",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1416,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Todos os pacientes HIV+” está correta?",
+    "opcoes": [
+      "A) independente de CD4 (o mais cedo possível → reduz reservatório viral e transmissão",
+      "B) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "C) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D) Proteína — Gene — Função"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Todos os pacientes HIV+”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: independente de CD4 (o mais cedo possível → reduz reservatório viral e transmissão",
+      "B": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "C": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D": "Incorreta: Proteína — Gene — Função"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Todos os pacientes HIV+”.\nA) CORRETA. Correta: independente de CD4 (o mais cedo possível → reduz reservatório viral e transmissão)\nB) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nC) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nD) INCORRETA. Incorreta: Proteína — Gene — Função",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1417,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “gp41” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Proteína — Gene — Função",
+      "B) gp41 — env — Fusão do envelope viral à membrana celular",
+      "C) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "D) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “gp41” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteína — Gene — Função",
+      "B": "Correta: gp41 — env — Fusão do envelope viral à membrana celular",
+      "C": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "D": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “gp41” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Proteína — Gene — Função\nB) CORRETA. Correta: gp41 — env — Fusão do envelope viral à membrana celular\nC) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nD) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1418,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Carga viral” está correta?",
+    "opcoes": [
+      "A) Proteína — Gene — Função",
+      "B) CD4+: recupera com supressão viral; objetivo > 500 células/mm³",
+      "C) (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Carga viral”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Proteína — Gene — Função",
+      "B": "Incorreta: CD4+: recupera com supressão viral; objetivo > 500 células/mm³",
+      "C": "Correta: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Carga viral”.\nA) INCORRETA. Incorreta: Proteína — Gene — Função\nB) INCORRETA. Incorreta: CD4+: recupera com supressão viral; objetivo > 500 células/mm³\nC) CORRETA. Correta: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nD) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1419,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “p24” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "B) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "C) Proteína — Gene — Função",
+      "D) p24 — gag — Capsídeo; marcador de infecção aguda e carga viral"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “p24” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "B": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "C": "Incorreta: Proteína — Gene — Função",
+      "D": "Correta: p24 — gag — Capsídeo; marcador de infecção aguda e carga viral"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “p24” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nB) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nC) INCORRETA. Incorreta: Proteína — Gene — Função\nD) CORRETA. Correta: p24 — gag — Capsídeo; marcador de infecção aguda e carga viral",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1420,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “CD4+” está correta?",
+    "opcoes": [
+      "A) recupera com supressão viral; objetivo > 500 células/mm³",
+      "B) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "C) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D) Proteína — Gene — Função"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “CD4+”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: recupera com supressão viral; objetivo > 500 células/mm³",
+      "B": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+      "C": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "D": "Incorreta: Proteína — Gene — Função"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “CD4+”.\nA) CORRETA. Correta: recupera com supressão viral; objetivo > 500 células/mm³\nB) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado)\nC) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nD) INCORRETA. Incorreta: Proteína — Gene — Função",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1421,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Transcriptase reversa (RT)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "B) Proteína — Gene — Função",
+      "C) Transcriptase reversa (RT) — pol — Converte RNA viral → DNA pró-viral",
+      "D) ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Transcriptase reversa (RT)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses",
+      "B": "Incorreta: Proteína — Gene — Função",
+      "C": "Correta: Transcriptase reversa (RT) — pol — Converte RNA viral → DNA pró-viral",
+      "D": "Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Transcriptase reversa (RT)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Carga viral: (HIV-RNA): objetivo = indetectável (< 50 cópias/mL) após 6 meses\nB) INCORRETA. Incorreta: Proteína — Gene — Função\nC) CORRETA. Correta: Transcriptase reversa (RT) — pol — Converte RNA viral → DNA pró-viral\nD) INCORRETA. Incorreta: ITRN — ITRNN — ITRN = análogo nucleosídico (termina cadeia); ITRNN = alostérico (não precisa ser ativado",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1422,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Na imunidade inata, qual leucócito é descrito como o primeiro a se acumular intensamente no sítio de uma infecção bacteriana aguda, em poucas horas?",
+    "opcoes": [
+      "A) Neutrófilo",
+      "B) Linfócito B naive circulante",
+      "C) Eosinófilo",
+      "D) Plasmócito de memória"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O neutrófilo lidera o infiltrado inicial na maioria das infecções bacterianas agudas.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (primeira célula a chegar; fagocitose inicial).",
+      "B": "Incorreta: linfócito B não lidera a primeira onda celular em horas.",
+      "C": "Incorreta: eosinófilos predominam em contextos de parasitas/alergia.",
+      "D": "Incorreta: plasmócito aparece após ativação adaptativa, não na primeira onda."
+    },
+    "explicacao": "Resumo: Neutrófilos são a primeira linha celular no foco infeccioso agudo.\nA) CORRETA. Primeira onda e fagocitose.\nB) INCORRETA. Papel adaptativo tardio em relação ao infiltrado inicial.\nC) INCORRETA. Perfil típico distinto da infecção bacteriana aguda.\nD) INCORRETA. Célula de anticorpos, não de chegada precoce.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1423,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente com sepse por bacilo Gram-negativo. O LPS da parede externa ativa macrófagos e induz grande liberação de citocinas pró-inflamatórias. Qual receptor de membrana costuma ser citado como principal sensor do LPS?",
+    "opcoes": [
+      "A) TLR2 (ácido lipoteicóico de Gram-positiva",
+      "B) TLR4 (LPS de Gram-negativa",
+      "C) TLR9 (DNA CpG no endossomo",
+      "D) RIG-I (RNA viral no citoplasma"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "TLR4 reconhece LPS; o material associa TLR4 + LPS a grande produção de TNF-α e IL-6.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: TLR2 liga-se a padrões de Gram-positiva, não ao LPS central.",
+      "B": "Correta: alinhamento com a tabela de PRRs do material.",
+      "C": "Incorreta: TLR9 reconhece DNA CpG, não LPS de membrana.",
+      "D": "Incorreta: RIG-I é para RNA viral no citoplasma."
+    },
+    "explicacao": "Resumo: LPS → TLR4 → tempestade de citocinas na sepse por Gram-negativa.\nA) INCORRETA. Ligante típico diferente.\nB) CORRETA. Receptor clássico do LPS.\nC) INCORRETA. Eixo nucleotídico endossomal.\nD) INCORRETA. Sensor de vírus, não de LPS bacteriano.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1424,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual célula é descrita como APC profissional por excelência, captando antígeno no tecido, migrando ao linfonodo e ativando linfócitos T naive?",
+    "opcoes": [
+      "A) Neutrófilo segmentado",
+      "B) Mastócito tecidual",
+      "C) Célula dendrítica",
+      "D) Basófilo circulante"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A célula dendrítica faz a ponte obrigatória entre inata e adaptativa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: neutrófilo fagocita, mas não é a APC profissional central para ativação primária de T naive.",
+      "B": "Incorreta: mastócito participa de IgE e degranulação, não desse papel de APC profissional.",
+      "C": "Correta: descrição do material sobre migração e ativação de T naive.",
+      "D": "Incorreta: basófilo não desempenha esse papel de ponte inata–adaptativa."
+    },
+    "explicacao": "Resumo: DC = APC profissional que liga inata à adaptativa.\nA) INCORRETA. Efetor da resposta aguda.\nB) INCORRETA. Hipersensibilidade tipo I.\nC) CORRETA. Captura, migra e apresenta antígeno.\nD) INCORRETA. Papel distinto na resposta imune.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1425,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Homem com lesão tumoral na qual parte das células reduz expressão de MHC-I como mecanismo de evasão. Qual célula da imunidade inata reconhece preferencialmente células com perda de MHC-I (\"missing self\")?",
+    "opcoes": [
+      "A) Macrófago alveolar por fagocitose dependente apenas de IgG",
+      "B) Linfócito T CD8+ por TCR específico",
+      "C) Eosinófilo por parasitos",
+      "D) Célula NK"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "NK elimina células com MHC-I baixo/ausente; o material descreve o princípio \"missing self\".",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: macrófago não é definido por esse reconhecimento de MHC-I ausente.",
+      "B": "Incorreta: CD8+ reconhece MHC-I apresentando peptídeo; NK não depende desse mesmo tipo de ativação específica.",
+      "C": "Incorreta: eosinófilo para parasitos/alergia, não vigilância por MHC-I.",
+      "D": "Correta: NK mata células sem MHC-I conforme o texto."
+    },
+    "explicacao": "Resumo: NK vigia células que escondem MHC-I.\nA) INCORRETA. Mecanismo distinto.\nB) INCORRETA. Linfócito adaptativo com outra lógica de reconhecimento.\nC) INCORRETA. Perfil infeccioso diferente.\nD) CORRETA. \"Missing self\".",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1426,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 28 anos com sepse por Klebsiella pneumoniae, hipotensão e PCR 280 mg/L. Qual citocina derivada de macrófago é destacada no material como central na inflamação sistêmica e no choque séptico quando em excesso?",
+    "opcoes": [
+      "A) TNF-α",
+      "B) IL-4",
+      "C) IL-10",
+      "D) IL-13"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "TNF-α de macrófago medeia inflamação intensa; em excesso contribui para choque séptico.",
+    "explicacoes_opcoes": {
+      "A": "Correta: conforme o caso clínico e a tabela de citocinas.",
+      "B": "Incorreta: IL-4 é citocina Th2/alérgica, não o eixo principal descrito na sepse.",
+      "C": "Incorreta: IL-10 é anti-inflamatória no material.",
+      "D": "Incorreta: IL-13 associa-se a fibrose/Th2, não ao núcleo do choque séptico descrito."
+    },
+    "explicacao": "Resumo: Macrófago → TNF-α → vasodilatação e disfunção sistêmica na sepse.\nA) CORRETA. Citocina-chave do excesso inflamatório.\nB) INCORRETA. Eixo Th2.\nC) INCORRETA. Reguladora.\nD) INCORRETA. Não é o mediador central citado.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1427,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Criança com infecções bacterianas recorrentes por múltiplos patógenos encapsulados distintos. Qual deficiência do complemento melhor explica susceptibilidade ampla a bactérias encapsuladas?",
+    "opcoes": [
+      "A) Deficiência isolada do fator H da via alternativa",
+      "B) Deficiência de C3",
+      "C) Deficiência do complexo de ataque à membrana (C5–C9",
+      "D) Deficiência apenas de C1q"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "C3 é o pivô das três vias; sua deficiência predispõe a infecções por muitas bactérias.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o padrão clássico citado para amplo espectro bacteriano.",
+      "B": "Correta: o material contrasta deficiência de C3 (todas as bactérias) com terminal (Neisseria).",
+      "C": "Incorreta: C5–C9 predispõe especialmente a Neisseria, não amplo espectro.",
+      "D": "Incorreta: C1q associa-se mais a lúpus/autoimunidade na tabela, não a esse padrão infeccioso."
+    },
+    "explicacao": "Resumo: Sem C3, falha opsonização e cascata para muitos germes.\nA) INCORRETA. Foco não é esse.\nB) CORRETA. Pivô central do complemento.\nC) INCORRETA. Perfil mais restrito a Neisseria.\nD) INCORRETA. Via clássica inicial, não o padrão encapsulado amplo.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1428,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Como primeira barreira física, a epiderme com queratinização e pH ácido contribui principalmente para:",
+    "opcoes": [
+      "A) Apresentação de antígeno exógeno via MHC II",
+      "B) Produção de IgG T-dependente",
+      "C) Barreira mecânica e redução da penetração microbiana",
+      "D) Ativação de linfócitos T CD8+ naive"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A pele atua como barreira físico-química antes da resposta imune específica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MHC II é de APCs, não função primária da queratina.",
+      "B": "Incorreta: anticorpos são adaptativos; a barreira é pré-imune.",
+      "C": "Correta: queratina impermeável e ambiente ácido limitam entrada.",
+      "D": "Incorreta: ativação de T não é o papel da barreira epidérmica."
+    },
+    "explicacao": "Resumo: Barreiras físicas bloqueiam entrada de patógenos.\nA) INCORRETA. Função de APC.\nB) INCORRETA. Resposta humoral adaptativa.\nC) CORRETA. Barreira físico-química.\nD) INCORRETA. Imunidade adaptativa celular.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1429,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "A PCR é produzida pelo fígado na fase aguda e é usada clinicamente como marcador inflamatório. Qual função imune adicional lhe é atribuída no material?",
+    "opcoes": [
+      "A) Bloquear síntese de interferon tipo I",
+      "B) Inibir apenas eosinófilos",
+      "C) Ser exclusivamente um índice laboratorial sem papel no reconhecimento de patógenos",
+      "D) Atuar como opsonina"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PCR é proteína de fase aguda induzida por IL-6 e também funciona como opsonina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o papel descrito.",
+      "B": "Incorreta: não há essa especificidade eosinofílica.",
+      "C": "Incorreta: o material atribui função opsonizante além do marcador.",
+      "D": "Correta: opsonina e marcador inflamatório."
+    },
+    "explicacao": "Resumo: PCR participa da resposta de fase aguda e opsonização.\nA) INCORRETA. Sem relação descrita.\nB) INCORRETA. Mecanismo incorreto.\nC) INCORRETA. Há função opsonizante.\nD) CORRETA. Papel citado no texto.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1430,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente com urticária aguda pós-exposição alimentar. Na hipersensibilidade imediata, a degranulação mastocitária libera, em minutos, mediador que aumenta permeabilidade vascular e prurido. Qual mediador é o mais característico dessa fase?",
+    "opcoes": [
+      "A) Histamina",
+      "B) IL-17",
+      "C) IFN-γ",
+      "D) TGF-β"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Mastócito + IgE liberam histamina, mediador central da fase imediata.",
+    "explicacoes_opcoes": {
+      "A": "Correta: histamina causa vasodilatação, permeabilidade e prurido.",
+      "B": "Incorreta: IL-17 é eixo Th17, não a fase imediata mastocitária.",
+      "C": "Incorreta: IFN-γ ativa macrófagos/Th1, perfil distinto.",
+      "D": "Incorreta: TGF-β regula fibrose/tolerância, não a degranulação imediata."
+    },
+    "explicacao": "Resumo: Histamina é o mediador clássico da fase imediata tipo I.\nA) CORRETA. Degranulação mastocitária.\nB) INCORRETA. Citocina adaptativa diferente.\nC) INCORRETA. Não é o mediador imediato descrito.\nD) INCORRETA. Citoquina reguladora, não histamina.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1431,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Lágrimas e saliva contêm enzima antimicrobiana que cliva peptidoglicana da parede bacteriana. Trata-se de:",
+    "opcoes": [
+      "A) Elastase neutrofílica",
+      "B) Lisozima",
+      "C) Colagenase tecidual",
+      "D) Proteinase 3"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Lisozima nas secreções cliva peptidoglicana; consta da tabela de barreiras químicas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: elastase não é o enzima citada para lágrima/saliva no material.",
+      "B": "Correta: descrição exata do mecanismo.",
+      "C": "Incorreta: não é o alvo da questão.",
+      "D": "Incorreta: PR3 é marcador de vasculite, não o enzima das lágrimas."
+    },
+    "explicacao": "Resumo: Lisozima = barreira química em secreções.\nA) INCORRETA. Outro contexto enzimático.\nB) CORRETA. Clivagem de peptidoglicana.\nC) INCORRETA. Enzima irrelevante aqui.\nD) INCORRETA. Contexto clínico distinto.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1432,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “HSV-1:” está correta?",
+    "opcoes": [
+      "A) preferencialmente orofacial; transmissão por contato com lesão/saliva",
+      "B) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "C) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "D) Manifestação — Características"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HSV-1:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: preferencialmente orofacial; transmissão por contato com lesão/saliva",
+      "B": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "C": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "D": "Incorreta: Manifestação — Características"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HSV-1:”.\nA) CORRETA. Correta: preferencialmente orofacial; transmissão por contato com lesão/saliva\nB) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nC) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia\nD) INCORRETA. Incorreta: Manifestação — Características",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1433,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Manifestação” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção",
+      "B) Manifestação — Características",
+      "C) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "D) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Manifestação” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção",
+      "B": "Correta: Manifestação — Características",
+      "C": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "D": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Manifestação” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção\nB) CORRETA. Correta: Manifestação — Características\nC) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nD) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1434,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “HSV-2:” está correta?",
+    "opcoes": [
+      "A) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "B) Manifestação — Características",
+      "C) preferencialmente genital; transmissão sexual (mucosas genitais",
+      "D) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “HSV-2:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "B": "Incorreta: Manifestação — Características",
+      "C": "Correta: preferencialmente genital; transmissão sexual (mucosas genitais",
+      "D": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “HSV-2:”.\nA) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia\nB) INCORRETA. Incorreta: Manifestação — Características\nC) CORRETA. Correta: preferencialmente genital; transmissão sexual (mucosas genitais)\nD) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1435,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “Gengivoestomatite herpética” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "B) Manifestação — Características",
+      "C) Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção",
+      "D) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Gengivoestomatite herpética” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "B": "Incorreta: Manifestação — Características",
+      "C": "Incorreta: Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção",
+      "D": "Correta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Gengivoestomatite herpética” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nB) INCORRETA. Incorreta: Manifestação — Características\nC) INCORRETA. Incorreta: Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção\nD) CORRETA. Correta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1436,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Latência:” está correta?",
+    "opcoes": [
+      "A) gânglios sensoriais (HSV-1: gânglio do trigêmeo; HSV-2: gânglios sacrais S2–S4",
+      "B) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "C) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "D) Manifestação — Características"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Latência:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: gânglios sensoriais (HSV-1: gânglio do trigêmeo; HSV-2: gânglios sacrais S2–S4",
+      "B": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "C": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "D": "Incorreta: Manifestação — Características"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Latência:”.\nA) CORRETA. Correta: gânglios sensoriais (HSV-1: gânglio do trigêmeo; HSV-2: gânglios sacrais S2–S4)\nB) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nC) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia\nD) INCORRETA. Incorreta: Manifestação — Características",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1437,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Herpes labial recorrente (\"febre\")” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Manifestação — Características",
+      "B) Herpes labial recorrente (\"febre\") — Reativação; vesículas no vermelhão dos lábios; autolimitada",
+      "C) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "D) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Herpes labial recorrente (\"febre\")” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Manifestação — Características",
+      "B": "Correta: Herpes labial recorrente (\"febre\") — Reativação; vesículas no vermelhão dos lábios; autolimitada",
+      "C": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "D": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Herpes labial recorrente (\"febre\")” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Manifestação — Características\nB) CORRETA. Correta: Herpes labial recorrente (\"febre\") — Reativação; vesículas no vermelhão dos lábios; autolimitada\nC) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nD) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1438,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “PCR do líquido vesicular ou LCR:” está correta?",
+    "opcoes": [
+      "A) Manifestação — Características",
+      "B) Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção",
+      "C) padrão ouro (encefalite",
+      "D) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “PCR do líquido vesicular ou LCR:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Manifestação — Características",
+      "B": "Incorreta: Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção",
+      "C": "Correta: padrão ouro (encefalite",
+      "D": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “PCR do líquido vesicular ou LCR:”.\nA) INCORRETA. Incorreta: Manifestação — Características\nB) INCORRETA. Incorreta: Herpes genital recorrente — Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção\nC) CORRETA. Correta: padrão ouro (encefalite)\nD) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1439,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Encefalite herpética” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "B) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "C) Manifestação — Características",
+      "D) Encefalite herpética — Complicação grave; encefalite temporal necrosante; RMN: sinal hiperintenso no lobo temporal"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Encefalite herpética” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "B": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "C": "Incorreta: Manifestação — Características",
+      "D": "Correta: Encefalite herpética — Complicação grave; encefalite temporal necrosante; RMN: sinal hiperintenso no lobo temporal"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Encefalite herpética” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nB) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia\nC) INCORRETA. Incorreta: Manifestação — Características\nD) CORRETA. Correta: Encefalite herpética — Complicação grave; encefalite temporal necrosante; RMN: sinal hiperintenso no lobo temporal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1440,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Síndrome da varicela congênita:” está correta?",
+    "opcoes": [
+      "A) infecção no 1º e 2º trimestre → cicatrizes cutâneas, hipoplasia de membros, malformações oculares",
+      "B) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "C) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "D) Manifestação — Características"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome da varicela congênita:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: infecção no 1º e 2º trimestre → cicatrizes cutâneas, hipoplasia de membros, malformações oculares",
+      "B": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+      "C": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "D": "Incorreta: Manifestação — Características"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome da varicela congênita:”.\nA) CORRETA. Correta: infecção no 1º e 2º trimestre → cicatrizes cutâneas, hipoplasia de membros, malformações oculares\nB) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite)\nC) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia\nD) INCORRETA. Incorreta: Manifestação — Características",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1441,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Ceratoconjuntivite” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "B) Manifestação — Características",
+      "C) Ceratoconjuntivite — Úlcera em dendrito na córnea → cegueira se não tratada",
+      "D) PCR do líquido vesicular ou LCR:: padrão ouro (encefalite"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Ceratoconjuntivite” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia",
+      "B": "Incorreta: Manifestação — Características",
+      "C": "Correta: Ceratoconjuntivite — Úlcera em dendrito na córnea → cegueira se não tratada",
+      "D": "Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Ceratoconjuntivite” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Gengivoestomatite herpética — Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia\nB) INCORRETA. Incorreta: Manifestação — Características\nC) CORRETA. Correta: Ceratoconjuntivite — Úlcera em dendrito na córnea → cegueira se não tratada\nD) INCORRETA. Incorreta: PCR do líquido vesicular ou LCR:: padrão ouro (encefalite",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1442,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Síndrome pós-pólio:” está correta?",
+    "opcoes": [
+      "A) décadas depois, fadiga e fraqueza progressiva",
+      "B) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "C) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "D) Surdez neurossensorial: (mais comum das três"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome pós-pólio:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: décadas depois, fadiga e fraqueza progressiva",
+      "B": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "C": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "D": "Incorreta: Surdez neurossensorial: (mais comum das três"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Síndrome pós-pólio:”.\nA) CORRETA. Correta: décadas depois, fadiga e fraqueza progressiva\nB) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nC) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nD) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1443,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Vacina” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Surdez neurossensorial: (mais comum das três",
+      "B) Vacina — Tipo — Características",
+      "C) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "D) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\""
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Vacina” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Surdez neurossensorial: (mais comum das três",
+      "B": "Correta: Vacina — Tipo — Características",
+      "C": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "D": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\""
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Vacina” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três)\nB) CORRETA. Correta: Vacina — Tipo — Características\nC) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nD) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1444,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Catarata” está correta?",
+    "opcoes": [
+      "A) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "B) Surdez neurossensorial: (mais comum das três",
+      "C) (e outras malformações oculares: glaucoma, retinopatia",
+      "D) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Catarata”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "B": "Incorreta: Surdez neurossensorial: (mais comum das três",
+      "C": "Correta: (e outras malformações oculares: glaucoma, retinopatia",
+      "D": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Catarata”.\nA) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nB) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três)\nC) CORRETA. Correta: (e outras malformações oculares: glaucoma, retinopatia)\nD) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1445,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Sabin (VOP)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "B) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "C) Surdez neurossensorial: (mais comum das três",
+      "D) Sabin (VOP) — Vírus atenuado oral — Imunidade intestinal (secreção IgA); raríssima polio vacinal (1:750 000 doses"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Sabin (VOP)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "B": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "C": "Incorreta: Surdez neurossensorial: (mais comum das três",
+      "D": "Correta: Sabin (VOP) — Vírus atenuado oral — Imunidade intestinal (secreção IgA); raríssima polio vacinal (1:750 000 doses"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sabin (VOP)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nB) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nC) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três)\nD) CORRETA. Correta: Sabin (VOP) — Vírus atenuado oral — Imunidade intestinal (secreção IgA); raríssima polio vacinal (1:750 000 doses",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1446,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Cardiopatia congênita” está correta?",
+    "opcoes": [
+      "A) (persistência do canal arterial — PCA; estenose pulmonar",
+      "B) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "C) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "D) Surdez neurossensorial: (mais comum das três"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cardiopatia congênita”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (persistência do canal arterial — PCA; estenose pulmonar",
+      "B": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "C": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "D": "Incorreta: Surdez neurossensorial: (mais comum das três"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Cardiopatia congênita”.\nA) CORRETA. Correta: (persistência do canal arterial — PCA; estenose pulmonar)\nB) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nC) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nD) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1447,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Salk (VIP)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Surdez neurossensorial: (mais comum das três",
+      "B) Salk (VIP) — Vírus inativado (injetável) — Sem risco de polio vacinal; preferida em imunossuprimidos",
+      "C) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "D) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\""
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Salk (VIP)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Surdez neurossensorial: (mais comum das três",
+      "B": "Correta: Salk (VIP) — Vírus inativado (injetável) — Sem risco de polio vacinal; preferida em imunossuprimidos",
+      "C": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "D": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\""
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Salk (VIP)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três)\nB) CORRETA. Correta: Salk (VIP) — Vírus inativado (injetável) — Sem risco de polio vacinal; preferida em imunossuprimidos\nC) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nD) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1448,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Surdez neurossensorial” está correta?",
+    "opcoes": [
+      "A) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "B) Complicação — Características",
+      "C) (mais comum das três",
+      "D) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Surdez neurossensorial”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "B": "Incorreta: Complicação — Características",
+      "C": "Correta: (mais comum das três",
+      "D": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Surdez neurossensorial”.\nA) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nB) INCORRETA. Incorreta: Complicação — Características\nC) CORRETA. Correta: (mais comum das três)\nD) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1449,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Complicação” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "B) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "C) Surdez neurossensorial: (mais comum das três",
+      "D) Complicação — Características"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Complicação” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "B": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "C": "Incorreta: Surdez neurossensorial: (mais comum das três",
+      "D": "Correta: Complicação — Características"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Complicação” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nB) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nC) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três)\nD) CORRETA. Correta: Complicação — Características",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1450,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Perigo em:” está correta?",
+    "opcoes": [
+      "A) gestantes (hidropsia fetal não imune), anemia falciforme (crise aplásica transitória), imunossuprimidos (anemia aplásica crônica",
+      "B) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "C) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "D) Surdez neurossensorial: (mais comum das três"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Perigo em:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: gestantes (hidropsia fetal não imune), anemia falciforme (crise aplásica transitória), imunossuprimidos (anemia aplásica crônica",
+      "B": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+      "C": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "D": "Incorreta: Surdez neurossensorial: (mais comum das três"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Perigo em:”.\nA) CORRETA. Correta: gestantes (hidropsia fetal não imune), anemia falciforme (crise aplásica transitória), imunossuprimidos (anemia aplásica crônica)\nB) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal\nC) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nD) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1451,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Pneumonia” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "B) Surdez neurossensorial: (mais comum das três",
+      "C) Pneumonia — Principal causa de morte por sarampo (viral ou bacteriana secundária",
+      "D) PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Pneumonia” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"",
+      "B": "Incorreta: Surdez neurossensorial: (mais comum das três",
+      "C": "Correta: Pneumonia — Principal causa de morte por sarampo (viral ou bacteriana secundária",
+      "D": "Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Pneumonia” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Roséola (HHV-6) — Eritema infeccioso (B19) — Roséola: febre primeiro → exantema depois; eritema: \"tapa na face\"\nB) INCORRETA. Incorreta: Surdez neurossensorial: (mais comum das três)\nC) CORRETA. Correta: Pneumonia — Principal causa de morte por sarampo (viral ou bacteriana secundária)\nD) INCORRETA. Incorreta: PESS (Pan-encefalite esclerosante subaguda) — 7–10 anos após sarampo na infância; neurológica progressiva e fatal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1452,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Sinal de Romaña:” está correta?",
+    "opcoes": [
+      "A) edema bipalpebral unilateral indolor (chagoma conjuntival) quando entrada pelo olho",
+      "B) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "C) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "D) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\""
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sinal de Romaña:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: edema bipalpebral unilateral indolor (chagoma conjuntival) quando entrada pelo olho",
+      "B": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "C": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "D": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\""
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sinal de Romaña:”.\nA) CORRETA. Correta: edema bipalpebral unilateral indolor (chagoma conjuntival) quando entrada pelo olho\nB) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nC) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nD) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1453,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Espécie” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "B) Espécie — Vetor — Ciclo eritrocítico — Características",
+      "C) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "D) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Espécie” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "B": "Correta: Espécie — Vetor — Ciclo eritrocítico — Características",
+      "C": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "D": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Espécie” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nB) CORRETA. Correta: Espécie — Vetor — Ciclo eritrocítico — Características\nC) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nD) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1454,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Chagoma de inoculação:” está correta?",
+    "opcoes": [
+      "A) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "B) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "C) nódulo cutâneo no local de entrada",
+      "D) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Chagoma de inoculação:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "B": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "C": "Correta: nódulo cutâneo no local de entrada",
+      "D": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Chagoma de inoculação:”.\nA) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nB) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nC) CORRETA. Correta: nódulo cutâneo no local de entrada\nD) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1455,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “P. falciparum” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "B) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "C) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "D) P. falciparum — Anopheles fêmea — 48 h (terçã maligna) — Mais grave; paludismo grave; sem hipnozoítos"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “P. falciparum” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "B": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "C": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "D": "Correta: P. falciparum — Anopheles fêmea — 48 h (terçã maligna) — Mais grave; paludismo grave; sem hipnozoítos"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “P. falciparum” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nB) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nC) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nD) CORRETA. Correta: P. falciparum — Anopheles fêmea — 48 h (terçã maligna) — Mais grave; paludismo grave; sem hipnozoítos",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1456,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Forma cardíaca” está correta?",
+    "opcoes": [
+      "A) (mais grave): bloqueio de ramo direito + bloqueio divisional anterossuperior (BRD + BDASE), aneurisma de ponta de VE, arritmias, ICC, tromboembolismo",
+      "B) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "C) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "D) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\""
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma cardíaca”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: (mais grave): bloqueio de ramo direito + bloqueio divisional anterossuperior (BRD + BDASE), aneurisma de ponta de VE, arritmias, ICC, tromboembolismo",
+      "B": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "C": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "D": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\""
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma cardíaca”.\nA) CORRETA. Correta: (mais grave): bloqueio de ramo direito + bloqueio divisional anterossuperior (BRD + BDASE), aneurisma de ponta de VE, arritmias, ICC, tromboembolismo\nB) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nC) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nD) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1457,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “P. vivax” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "B) P. vivax — Anopheles fêmea — 48 h (terçã benigna) — Hipnozoítos hepáticos (recidiva); comum na Amazônia",
+      "C) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "D) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “P. vivax” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "B": "Correta: P. vivax — Anopheles fêmea — 48 h (terçã benigna) — Hipnozoítos hepáticos (recidiva); comum na Amazônia",
+      "C": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "D": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “P. vivax” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nB) CORRETA. Correta: P. vivax — Anopheles fêmea — 48 h (terçã benigna) — Hipnozoítos hepáticos (recidiva); comum na Amazônia\nC) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nD) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1458,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Forma digestiva:” está correta?",
+    "opcoes": [
+      "A) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "B) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "C) megaesôfago (disfagia, acalásia) + megacólon (obstipação, vólvulo",
+      "D) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma digestiva:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "B": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "C": "Correta: megaesôfago (disfagia, acalásia) + megacólon (obstipação, vólvulo",
+      "D": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma digestiva:”.\nA) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nB) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nC) CORRETA. Correta: megaesôfago (disfagia, acalásia) + megacólon (obstipação, vólvulo)\nD) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1459,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “P. malariae” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "B) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "C) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "D) P. malariae — Anopheles fêmea — 72 h (quartã) — Nefropatia malarial; sem hipnozoítos"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “P. malariae” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "B": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "C": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "D": "Correta: P. malariae — Anopheles fêmea — 72 h (quartã) — Nefropatia malarial; sem hipnozoítos"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “P. malariae” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nB) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nC) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nD) CORRETA. Correta: P. malariae — Anopheles fêmea — 72 h (quartã) — Nefropatia malarial; sem hipnozoítos",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1460,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Forma mista:” está correta?",
+    "opcoes": [
+      "A) cardíaca + digestiva",
+      "B) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "C) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "D) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\""
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma mista:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: cardíaca + digestiva",
+      "B": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+      "C": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "D": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\""
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma mista:”.\nA) CORRETA. Correta: cardíaca + digestiva\nB) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação)\nC) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nD) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1461,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “P. ovale” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "B) Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "C) P. ovale — Anopheles fêmea — 48 h — Hipnozoítos; raro no Brasil",
+      "D) Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “P. ovale” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR",
+      "B": "Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\"",
+      "C": "Correta: P. ovale — Anopheles fêmea — 48 h — Hipnozoítos; raro no Brasil",
+      "D": "Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “P. ovale” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Fase aguda:: pesquisa direta do T. cruzi (strout, gota espessa, PCR)\nB) INCORRETA. Incorreta: Malária grave (P. falciparum):: anemia hemolítica grave, malária cerebral (coma, convulsões), insuficiência renal, hipoglicemia, edema pulmonar, icterícia (febre biliosas hemoglobinúrica — \"blackwater fever\")\nC) CORRETA. Correta: P. ovale — Anopheles fêmea — 48 h — Hipnozoítos; raro no Brasil\nD) INCORRETA. Incorreta: Fase crônica:: 2 sorológicos de técnicas distintas (ELISA + imunofluorescência indireta ou hemaglutinação",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1462,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Transmissão:” está correta?",
+    "opcoes": [
+      "A) fecal-oral (ingestão de ovos embrionados em solo/alimentos contaminados",
+      "B) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "C) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "D) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transmissão:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: fecal-oral (ingestão de ovos embrionados em solo/alimentos contaminados",
+      "B": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "C": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "D": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transmissão:”.\nA) CORRETA. Correta: fecal-oral (ingestão de ovos embrionados em solo/alimentos contaminados)\nB) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nC) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nD) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1463,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Aspecto” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "B) Aspecto — Teníase — Cisticercose",
+      "C) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "D) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Aspecto” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "B": "Correta: Aspecto — Teníase — Cisticercose",
+      "C": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "D": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Aspecto” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nB) CORRETA. Correta: Aspecto — Teníase — Cisticercose\nC) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nD) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1464,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Ciclo de Löffler:” está correta?",
+    "opcoes": [
+      "A) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "B) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "C) larvas migram pulmão → tosse, eosinofilia (síndrome de Löffler = pneumonite eosinofílica transitória",
+      "D) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ciclo de Löffler:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "B": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "C": "Correta: larvas migram pulmão → tosse, eosinofilia (síndrome de Löffler = pneumonite eosinofílica transitória",
+      "D": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Ciclo de Löffler:”.\nA) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nB) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nC) CORRETA. Correta: larvas migram pulmão → tosse, eosinofilia (síndrome de Löffler = pneumonite eosinofílica transitória)\nD) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1465,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Agente” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "B) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "C) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "D) Agente — T. solium ou T. saginata (adulto intestinal) — T. solium (larva — cisticerco"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Agente” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "B": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "C": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "D": "Correta: Agente — T. solium ou T. saginata (adulto intestinal) — T. solium (larva — cisticerco"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Agente” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nB) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nC) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nD) CORRETA. Correta: Agente — T. solium ou T. saginata (adulto intestinal) — T. solium (larva — cisticerco",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1466,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Fase intestinal:” está correta?",
+    "opcoes": [
+      "A) maioria assintomática; abdômen distendido, dor periumbilical, desnutrição",
+      "B) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "C) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "D) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fase intestinal:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: maioria assintomática; abdômen distendido, dor periumbilical, desnutrição",
+      "B": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "C": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "D": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Fase intestinal:”.\nA) CORRETA. Correta: maioria assintomática; abdômen distendido, dor periumbilical, desnutrição\nB) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nC) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nD) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1467,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Forma infectante ingerida” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "B) Forma infectante ingerida — Carne bovina (T. saginata) ou suína (T. solium) crua com cisticercos — Ovos de T. solium em alimentos/água (fecal-oral",
+      "C) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "D) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Forma infectante ingerida” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "B": "Correta: Forma infectante ingerida — Carne bovina (T. saginata) ou suína (T. solium) crua com cisticercos — Ovos de T. solium em alimentos/água (fecal-oral",
+      "C": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "D": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Forma infectante ingerida” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nB) CORRETA. Correta: Forma infectante ingerida — Carne bovina (T. saginata) ou suína (T. solium) crua com cisticercos — Ovos de T. solium em alimentos/água (fecal-oral)\nC) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nD) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1468,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Complicações:” está correta?",
+    "opcoes": [
+      "A) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "B) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "C) oclusão intestinal (bolha de vermes, especialmente em crianças), colangite/pancreatite obstrutiva por migração para ducto biliar/pancreático",
+      "D) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Complicações:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "B": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "C": "Correta: oclusão intestinal (bolha de vermes, especialmente em crianças), colangite/pancreatite obstrutiva por migração para ducto biliar/pancreático",
+      "D": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Complicações:”.\nA) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nB) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nC) CORRETA. Correta: oclusão intestinal (bolha de vermes, especialmente em crianças), colangite/pancreatite obstrutiva por migração para ducto biliar/pancreático\nD) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1469,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Localização do parasita” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "B) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "C) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "D) Localização do parasita — Intestino delgado (verme adulto) — Tecidos como cérebro, músculo, olho, subcutâneo"
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Localização do parasita” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "B": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "C": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "D": "Correta: Localização do parasita — Intestino delgado (verme adulto) — Tecidos como cérebro, músculo, olho, subcutâneo"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Localização do parasita” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nB) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nC) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nD) CORRETA. Correta: Localização do parasita — Intestino delgado (verme adulto) — Tecidos como cérebro, músculo, olho, subcutâneo",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1470,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Transmissão:” está correta?",
+    "opcoes": [
+      "A) larvas filarioides penetram pele (solo contaminado, andar descalço",
+      "B) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "C) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "D) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transmissão:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: larvas filarioides penetram pele (solo contaminado, andar descalço",
+      "B": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+      "C": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "D": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Transmissão:”.\nA) CORRETA. Correta: larvas filarioides penetram pele (solo contaminado, andar descalço)\nB) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)\nC) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nD) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1471,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Sintomas” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "B) Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "C) Sintomas — Geralmente assintomática; proglotes nas fezes — Neurocisticercose: epilepsia, cefaleia, hidrocefalia",
+      "D) Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Sintomas” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria",
+      "B": "Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel",
+      "C": "Correta: Sintomas — Geralmente assintomática; proglotes nas fezes — Neurocisticercose: epilepsia, cefaleia, hidrocefalia",
+      "D": "Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Sintomas” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Transmissão:: larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)\nB) INCORRETA. Incorreta: Taenia (teníase) — Carne crua com cisticerco — Proglotes em fezes — Praziquantel\nC) CORRETA. Correta: Sintomas — Geralmente assintomática; proglotes nas fezes — Neurocisticercose: epilepsia, cefaleia, hidrocefalia\nD) INCORRETA. Incorreta: Praziquantel:: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1472,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Imunocompetente:” está correta?",
+    "opcoes": [
+      "A) maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "B) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "C) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D) Aspergiloma:: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Imunocompetente:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "B": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "C": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D": "Incorreta: Aspergiloma:: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Imunocompetente:”.\nA) CORRETA. Correta: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nB) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nC) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nD) INCORRETA. Incorreta: Aspergiloma:: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1473,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Tipo” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "B) Tipo — Localização — Características",
+      "C) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "D) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Tipo” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "B": "Correta: Tipo — Localização — Características",
+      "C": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "D": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tipo” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nB) CORRETA. Correta: Tipo — Localização — Características\nC) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nD) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1474,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Imunossuprimido (AIDS, corticoide):” está correta?",
+    "opcoes": [
+      "A) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "B) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "C) histoplasmose disseminada progressiva — febre, hepatoesplenomegalia, pancitopenia, lesões cutâneas e mucosas, adrenal (insuficiência adrenal",
+      "D) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Imunossuprimido (AIDS, corticoide):”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "B": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "C": "Correta: histoplasmose disseminada progressiva — febre, hepatoesplenomegalia, pancitopenia, lesões cutâneas e mucosas, adrenal (insuficiência adrenal",
+      "D": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Imunossuprimido (AIDS, corticoide):”.\nA) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nB) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nC) CORRETA. Correta: histoplasmose disseminada progressiva — febre, hepatoesplenomegalia, pancitopenia, lesões cutâneas e mucosas, adrenal (insuficiência adrenal)\nD) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1475,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Tinea capitis” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "B) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "C) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D) Tinea capitis — Couro cabeludo — Placa alopécia com escamas; mais comum em crianças; Microsporum e Trichophyton"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Tinea capitis” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "B": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "C": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D": "Correta: Tinea capitis — Couro cabeludo — Placa alopécia com escamas; mais comum em crianças; Microsporum e Trichophyton"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tinea capitis” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nB) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nC) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nD) CORRETA. Correta: Tinea capitis — Couro cabeludo — Placa alopécia com escamas; mais comum em crianças; Microsporum e Trichophyton",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1476,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Meningite criptocócica em AIDS (CD4 < 100):” está correta?",
+    "opcoes": [
+      "A) cefaleia subaguda + febre + rigidez de nuca; evolução insidiosa",
+      "B) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "C) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "D) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Meningite criptocócica em AIDS (CD4 < 100):”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: cefaleia subaguda + febre + rigidez de nuca; evolução insidiosa",
+      "B": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "C": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "D": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Meningite criptocócica em AIDS (CD4 < 100):”.\nA) CORRETA. Correta: cefaleia subaguda + febre + rigidez de nuca; evolução insidiosa\nB) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nC) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nD) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1477,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Tinea corporis” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "B) Tinea corporis — Tronco e membros — Lesão anular com bordas eritematosas elevadas e centro claro (\"herpes circinado\"",
+      "C) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "D) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Tinea corporis” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "B": "Correta: Tinea corporis — Tronco e membros — Lesão anular com bordas eritematosas elevadas e centro claro (\"herpes circinado\"",
+      "C": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "D": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tinea corporis” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nB) CORRETA. Correta: Tinea corporis — Tronco e membros — Lesão anular com bordas eritematosas elevadas e centro claro (\"herpes circinado\")\nC) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nD) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1478,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “Forma alérgica:” está correta?",
+    "opcoes": [
+      "A) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "B) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "C) ABPA — aspergilose broncopulmonar alérgica (asma + eosinofilia + IgE elevada + asmáticos com Aspergillus",
+      "D) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma alérgica:”.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "B": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "C": "Correta: ABPA — aspergilose broncopulmonar alérgica (asma + eosinofilia + IgE elevada + asmáticos com Aspergillus",
+      "D": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Forma alérgica:”.\nA) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nB) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nC) CORRETA. Correta: ABPA — aspergilose broncopulmonar alérgica (asma + eosinofilia + IgE elevada + asmáticos com Aspergillus)\nD) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1479,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “Tinea pedis” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "B) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "C) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D) Tinea pedis — Pé (entre dedos) — Descamação + maceração interdigital; fissuras"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Tinea pedis” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "B": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "C": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D": "Correta: Tinea pedis — Pé (entre dedos) — Descamação + maceração interdigital; fissuras"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tinea pedis” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nB) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nC) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nD) CORRETA. Correta: Tinea pedis — Pé (entre dedos) — Descamação + maceração interdigital; fissuras",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1480,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual afirmação sobre “Aspergiloma:” está correta?",
+    "opcoes": [
+      "A) bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise",
+      "B) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "C) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "D) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aspergiloma:”.",
+    "explicacoes_opcoes": {
+      "A": "Correta: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise",
+      "B": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+      "C": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "D": "Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha"
+    },
+    "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aspergiloma:”.\nA) CORRETA. Correta: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise\nB) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)\nC) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nD) INCORRETA. Incorreta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1481,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual alternativa associa corretamente “Tinea unguium (onicomicose)” às demais informações da mesma linha (função, local ou critério)?",
+    "opcoes": [
+      "A) Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "B) Aspergiloma:: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise",
+      "C) Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D) Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A opção correta é a linha em que “Tinea unguium (onicomicose)” aparece com os demais dados compatíveis.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina",
+      "B": "Incorreta: Aspergiloma:: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise",
+      "C": "Correta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha",
+      "D": "Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal"
+    },
+    "explicacao": "Resumo: A opção correta é a linha em que “Tinea unguium (onicomicose)” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Criptococose:: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina\nB) INCORRETA. Incorreta: Aspergiloma:: bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise\nC) CORRETA. Correta: Tinea unguium (onicomicose) — Unhas — Espessamento, friabilidade, descoloração da unha\nD) INCORRETA. Incorreta: Imunocompetente:: maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1482,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Linfócitos T CD4+ reconhecem peptídeos apresentados em qual classe de molécula do MHC e em quais apresentadores típicos?",
+    "opcoes": [
+      "A) MHC II em APC profissionais (ex.: macrófago, célula dendrítica, linfócito B",
+      "B) MHC I em qualquer célula nucleada infectada",
+      "C) MHC I apenas em hepatócitos",
+      "D) MHC II somente em timócitos imaturos"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "CD4+ vê antígeno exógeno processado e apresentado via MHC II por APCs.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinhamento à tabela CD4+ vs CD8+ do material.",
+      "B": "Incorreta: MHC I é eixo do CD8+ citotóxico.",
+      "C": "Incorreta: MHC I está em todas as células nucleadas, não só fígado.",
+      "D": "Incorreta: APCs periféricos apresentam via MHC II ao CD4+."
+    },
+    "explicacao": "Resumo: CD4+ = MHC II = coordenação da resposta.\nA) CORRETA. Via exógena e APCs.\nB) INCORRETA. Descreve CD8+.\nC) INCORRETA. Restrição incorreta.\nD) INCORRETA. Contexto tímico não responde à pergunta.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1483,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Linfócitos T CD8+ citotóxicos reconhecem antígenos apresentados por:",
+    "opcoes": [
+      "A) MHC II em macrófagos exclusivamente",
+      "B) MHC I em células nucleadas, incluindo infectadas ou tumorais",
+      "C) Apenas receptores Toll-like na membrana",
+      "D) IgE ligada a mastócitos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "CD8+ vigia o citoplasma via MHC I (via endógena).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MHC II é para CD4+.",
+      "B": "Correta: mnemônico 8×I = interior.",
+      "C": "Incorreta: PRRs são inatos, não apresentação ao TCR.",
+      "D": "Incorreta: IgE participa de hipersensibilidade tipo I."
+    },
+    "explicacao": "Resumo: CD8+ elimina células que exibem antígeno endógeno no MHC I.\nA) INCORRETA. Classe errada.\nB) CORRETA. MHC I amplo.\nC) INCORRETA. Mecanismo inato paralelo.\nD) INCORRETA. Imunidade humoral tipo I.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1484,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "A ativação completa de linfócitos T naive exige três sinais. Qual alternativa inclui coestimulação típica entre T e APC?",
+    "opcoes": [
+      "A) Apenas ligação do TCR ao peptídeo–MHC",
+      "B) TCR + peptídeo–MHC e IL-2 autocrina, sem contato celular",
+      "C) CD28 no linfócito T com B7 (CD80/86) na APC",
+      "D) Apenas citocinas IL-4 no plasma"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Sinal 2 = CD28–B7; sem coestimulação pode ocorrer anergia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: só o sinal 1 é insuficiente.",
+      "B": "Incorreta: omite coestimulação de superfície.",
+      "C": "Correta: descrição do sinal 2.",
+      "D": "Incorreta: IL-4 orienta Th2; não substitui o par CD28–B7."
+    },
+    "explicacao": "Resumo: Três sinais: TCR-MHC, coestimulação, citocinas.\nA) INCORRETA. Anergia possível.\nB) INCORRETA. Ignora B7.\nC) CORRETA. Coestimulação clássica.\nD) INCORRETA. Sinal 3 não é só IL-4 solúvel genérica.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1485,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Na primeira exposição a um antígeno proteico novo, qual padrão de anticorpo e cinética é esperado na resposta primária?",
+    "opcoes": [
+      "A) IgG elevada em 24 horas",
+      "B) IgA secretória dominante na primeira semana",
+      "C) IgE imediata sem latência",
+      "D) IgM predominante com latência de cerca de 7–10 dias"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Resposta primária: latência maior, pico menor, predomínio de IgM.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: IgG domina na secundária.",
+      "B": "Incorreta: IgA mucosa não define a primária sistêmica típica.",
+      "C": "Incorreta: IgE é eixo alérgico, não resposta primária padrão a proteína.",
+      "D": "Correta: tabela primária vs secundária."
+    },
+    "explicacao": "Resumo: Primária = IgM, mais lenta.\nA) INCORRETA. Cinética secundária.\nB) INCORRETA. Contexto mucoso específico.\nC) INCORRETA. Perfil alérgico.\nD) CORRETA. Latência e isotipo.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1486,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Homem HIV+ com CD4+ 60 células/mm³ e pneumonia por Pneumocystis jirovecii. Qual explicação integra melhor a vulnerabilidade a esse fungo oportunista?",
+    "opcoes": [
+      "A) Perda de linfócitos T CD4+ compromete coordenação Th1/macrófagos e respostas dependentes de ajuda celular",
+      "B) Deficiência isolada de IgA secretória",
+      "C) Bloqueio apenas da via alternativa do complemento",
+      "D) Aumento exclusivo de basófilos"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "CD4+ é o \"general\"; sem ele, imunidade celular contra oportunistas falha.",
+    "explicacoes_opcoes": {
+      "A": "Correta: caso do material com P. jirovecii e CD4 baixo.",
+      "B": "Incorreta: não explica o padrão de imunodeficiência celular do HIV.",
+      "C": "Incorreta: complemento não é o núcleo do caso.",
+      "D": "Incorreta: irrelevante ao mecanismo."
+    },
+    "explicacao": "Resumo: HIV mata CD4+ → falha da imunidade mediada por células.\nA) CORRETA. Coerência com Th1 e controle de P. jirovecii.\nB) INCORRETA. Hipogamaglobulinemia seletiva não é o foco.\nC) INCORRETA. Outro compartimento.\nD) INCORRETA. Sem base no caso.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1487,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Abatacept é usado em algumas doenças autoimunes. Qual interação bloqueia para reduzir ativação de linfócitos T?",
+    "opcoes": [
+      "A) IL-2 com receptor de alta afinidade apenas",
+      "B) CD28 em linfócitos T com B7 (CD80/86) em APCs",
+      "C) TCR com superantígeno",
+      "D) IgE com FcεRI em mastócitos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Bloqueio do sinal 2 (CD28–B7) reduz coestimulação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: basiliximabe age em IL-2R; não é abatacept.",
+      "B": "Correta: citado no material como imunossupressor de coestimulação.",
+      "C": "Incorreta: superantígeno não é o alvo farmacológico aqui.",
+      "D": "Incorreta: eixo alérgico, não transplante/autoimune por coestimulação."
+    },
+    "explicacao": "Resumo: Sem B7, o T não recebe sinal 2.\nA) INCORRETA. Outro fármaco/mecanismo.\nB) CORRETA. Bloqueio CD28–B7.\nC) INCORRETA. Contexto infeccioso diferente.\nD) INCORRETA. Tipo I.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1488,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual perfil de subtipo de T CD4+ e citocina é mais associado à ativação de macrófagos para combate a microrganismos intracelulares?",
+    "opcoes": [
+      "A) Th2 com IL-4 predominante",
+      "B) Treg com IL-10 apenas",
+      "C) Th2 com IL-5 apenas",
+      "D) Th1 com IFN-γ"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Th1/IFN-γ ativa macrófagos contra patógenos intracelulares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Th2 é parasitos/alergia.",
+      "B": "Incorreta: Treg suprime, não ativa M1.",
+      "C": "Incorreta: IL-5 eosinofilia, não ativação macrofágica clássica.",
+      "D": "Correta: tabela Th1 no material."
+    },
+    "explicacao": "Resumo: Th1 coordena resposta contra bacilos intracelulares.\nA) INCORRETA. Perfil Th2.\nB) INCORRETA. Supressão.\nC) INCORRETA. Eixo alérgico/parasitário.\nD) CORRETA. IFN-γ ativa macrófagos.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1489,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Na resposta secundária à reexposição, o que o material destaca em relação à latência e ao isotipo predominante?",
+    "opcoes": [
+      "A) Resposta mais rápida (cerca de 2–3 dias) e IgG em geral predominante",
+      "B) Apenas IgE elevada",
+      "C) Latência maior que 10 dias sempre",
+      "D) Latência semelhante à primária e IgM dominante"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Memória acelera resposta e desloca para IgG (ou IgA/IgE conforme contexto).",
+    "explicacoes_opcoes": {
+      "A": "Correta: tabela primária vs secundária.",
+      "B": "Incorreta: IgE não define memória sistêmica típica.",
+      "C": "Incorreta: secundária é mais rápida, não mais lenta.",
+      "D": "Incorreta: descreve primária."
+    },
+    "explicacao": "Resumo: Memória = rápida e intensa, com IgG típica.\nA) CORRETA. Cinética e isotipo.\nB) INCORRETA. Perfil alérgico específico.\nC) INCORRETA. Tempo errado.\nD) INCORRETA. Mistura com primária.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1490,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Antígenos polissacarídeos de cápsula bacteriana podem ativar linfócitos B de modo T-independente. Qual consequência o material associa a esse tipo de resposta?",
+    "opcoes": [
+      "A) Centro germinativo obrigatório e hipermutação precoce",
+      "B) Switch robusto para IgG e memória de longa duração na primeira exposição",
+      "C) Predomínio de IgM e ausência de memória típica",
+      "D) Dependência exclusiva de IL-4 para ativação"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Resposta T-independente a polissacarídeos → principalmente IgM e pouca memória; vacinas conjugadas induzem resposta T-dependente mais robusta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: centro germinativo e hipermutação são típicos da ativação T-dependente.",
+      "B": "Incorreta: switch para IgG com memória exige ajuda de T CD4+.",
+      "C": "Correta: apenas IgM e sem memória robusta, conforme o texto.",
+      "D": "Incorreta: IL-4 participa de mudança de classe em contexto Th2; não define ativação T-independente de polissacarídeo."
+    },
+    "explicacao": "Resumo: T-independente não gera memória nem switch como a T-dependente.\nA) INCORRETA. Eventos de centro germinativo são T-dependentes.\nB) INCORRETA. Descreve resposta T-dependente.\nC) CORRETA. IgM e falta de memória.\nD) INCORRETA. Citocina errada para o contexto.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1491,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Na apresentação de antígeno endógeno (ex.: proteínas virais no citoplasma), qual molécula do MHC costuma exibir peptídeos às células T CD8+?",
+    "opcoes": [
+      "A) MHC II apenas em macrófagos",
+      "B) MHC I em células nucleadas",
+      "C) CD1d para linfócitos NK",
+      "D) HLA-G exclusivamente na placenta"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Via endógena → MHC I → CD8+ citotóxico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MHC II é via exógena para CD4+.",
+      "B": "Correta: qualquer célula nucleada pode apresentar via MHC I.",
+      "C": "Incorreta: CD1d apresenta lipídios a NKT, não o eixo clássico descrito.",
+      "D": "Incorreta: HLA-G é tolerância placentária, não regra geral da apresentação viral."
+    },
+    "explicacao": "Resumo: CD8+ vê o que a célula \"fabrica\" no citosol via MHC I.\nA) INCORRETA. Classe errada.\nB) CORRETA. Via endógena.\nC) INCORRETA. Outro sistema de apresentação.\nD) INCORRETA. Contexto imunológico distinto.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1492,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente com ferimento cortante apresenta rubor, calor, edema e dor local. Qual par melhor descreve os dois primeiros sinais cardinais da inflamação, na ordem clássica citada em livros-texto?",
+    "opcoes": [
+      "A) Rubor e calor",
+      "B) Tumefação e função lesada",
+      "C) Dor e perda de função",
+      "D) Calor e rubor apenas se houver infecção bacteriana comprovada"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Os cinco sinais cardinais incluem rubor, calor, tumefação, dolor e função lesada. Rubor e calor refletem vasodilatação e maior fluxo sanguíneo.",
+    "explicacoes_opcoes": {
+      "A": "Rubor e calor são os dois primeiros sinais descritos historicamente e correspondem a alterações vasculares iniciais.",
+      "B": "Tumefação é edema; função lesada é o quinto sinal, não o par inicial clássico com rubor e calor.",
+      "C": "Dor e perda de função são sinais importantes, mas não o par que tradicionalmente abre a sequência com rubor e calor.",
+      "D": "Inflamação aguda não infecciosa também pode apresentar rubor e calor."
+    },
+    "explicacao": "Resumo: Rubor e calor são os primeiros sinais cardinais clássicos.\nA) CORRETA. Rubor e calor iniciam a descrição tradicional dos sinais cardinais.\nB) INCORRETA. Não descreve o par inicial na ordem clássica.\nC) INCORRETA. Dor e disfunção não são o primeiro par na sequência clássica.\nD) INCORRETA. Processos estéreis inflamatórios também exibem rubor e calor.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1493,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Em um infiltrado inflamatório agudo de poucas horas, qual população celular tende a predominar no tecido?",
+    "opcoes": [
+      "A) Linfócitos e plasmócitos",
+      "B) Neutrófilos",
+      "C) Macrófagos epiteloides isolados",
+      "D) Mastócitos em grande número"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A inflamação aguda é rica em neutrófilos. Linfócitos e plasmócitose marcam respostas mais prolongadas; macrófagos epiteloides entram no contexto de granulomas.",
+    "explicacoes_opcoes": {
+      "A": "Predomínio linfoplasmocitário é mais típico de processos subagudos ou crônicos imunomediados.",
+      "B": "Neutrófilos são a pedra angular do infiltrado agudo precoce.",
+      "C": "Células epiteloides formam granulomas, padrão de inflamação crônica organizada.",
+      "D": "Mastócitos participam da resposta imediata, mas não compõem o infiltrado neutrofílico típico da aguda."
+    },
+    "explicacao": "Resumo: Neutrófilos dominam a fase aguda inicial.\nA) INCORRETA. Perfil linfoplasmocitário não é o da aguda horas após o insulto.\nB) CORRETA. Neutrófilos migram rapidamente e predominam no agudo.\nC) INCORRETA. Epiteloides associam-se a granuloma, não à aguda inicial.\nD) INCORRETA. Mastócitos não são o infiltrado predominante nesse estágio.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1494,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Homem de 34 anos com adenopatia cervical indolor e RX de tórax com infiltrado apical e cavitação. Biópsia mostra granulomas com necrose central acelular eosinofílica em aspecto de queijo. Esse padrão corresponde a granuloma:",
+    "opcoes": [
+      "A) Caseoso, associado classicamente à tuberculose",
+      "B) Não caseoso, típico de sarcoidose",
+      "C) Por corpo estranho, sem necrose central",
+      "D) Neutrofílico agudo, sem organização epiteloide"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Granulomas caseosos exibem necrose caseosa central e são clássicos da tuberculose. Granulomas não caseosos carecem dessa necrose central típica.",
+    "explicacoes_opcoes": {
+      "A": "Necrose caseosa central é marca histológica clássica da TB.",
+      "B": "Sarcoidose costuma apresentar granulomas não caseosos.",
+      "C": "Corpo estranho pode gerar granuloma, mas o quadro descrito é de necrose caseosa tuberculosa.",
+      "D": "Infiltrado neutrofílico agudo não forma granuloma epiteloide organizado."
+    },
+    "explicacao": "Resumo: TB frequentemente produz granuloma caseoso com necrose em aspecto de queijo.\nA) CORRETA. O enunciado descreve granuloma caseoso, padrão tuberculoso.\nB) INCORRETA. Sarcoidose não apresenta tipicamente necrose caseosa central.\nC) INCORRETA. O achado central é necrose caseosa, não granuloma de corpo estranho típico.\nD) INCORRETA. Não se trata de inflamação aguda neutrofílica desorganizada.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1495,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Qual mediador vasoativo, liberado por mastócitos e basófilos, é central na vasodilatação e no aumento da permeabilidade vascular na fase imediata da inflamação?",
+    "opcoes": [
+      "A) Interleucina-1, principalmente",
+      "B) Prostaglandina E2 apenas",
+      "C) Histamina",
+      "D) Fator de necrose tumoral alfa, exclusivamente"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Histamina ativa receptores H1 e H2, promovendo vasodilatação e permeabilidade. Outras moléculas participam, mas a histamina é o mediador clássico dessa fase imediata.",
+    "explicacoes_opcoes": {
+      "A": "IL-1 é citocina pró-inflamatória importante, mas não é o principal mediador imediato de granulos de mastócito dessa forma.",
+      "B": "PGE2 participa via COX, mas não substitui o papel central da histamina na resposta imediata de mastócito.",
+      "C": "Histamina é liberada de mastócitos e basófilos e explica vasodilatação e extravasamento precoces.",
+      "D": "TNF-alfa é citocina-chave, porém não é a molécula típica da degranulação imediata descrita."
+    },
+    "explicacao": "Resumo: Histamina medeia vasodilatação e permeabilidade na fase imediata.\nA) INCORRETA. IL-1 não é o mediador imediato clássico de mastócito nesse contexto.\nB) INCORRETA. PGE2 é relevante, mas não é a resposta mais precisa para mastócito imediato.\nC) CORRETA. Histamina é o mediador clássico dessa fase.\nD) INCORRETA. TNF-alfa não é exclusivo nem sinônimo da liberação imediata de mastócito.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1496,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Mulher com artrite reumatoide em uso de ibuprofeno para dor. O fármaco reduz principalmente a síntese de qual classe de mediadores ao inibir a ciclooxigenase?",
+    "opcoes": [
+      "A) Leucotrienos, por bloqueio direto da 5-lipoxigenase",
+      "B) Prostaglandinas e tromboxanos",
+      "C) Histamina liberada por mastócitos",
+      "D) Citocinas IL-6 e TNF sem efeito sobre ácidos graxos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "AINEs inibem COX-1 e COX-2, diminuindo prostaglandinas e tromboxanos. Leucotrienos são produtos da via lipoxigenásica e não são o alvo principal dos AINEs clássicos.",
+    "explicacoes_opcoes": {
+      "A": "Leucotrienos são sintetizados por lipoxigenases; AINEs não bloqueiam seletivamente essa via.",
+      "B": "Inibição da COX reduz prostaglandinas e tromboxano A2, mediando analgesia e anti-inflamação.",
+      "C": "AINEs não impedem a liberação de histamina de mastócitos como mecanismo principal.",
+      "D": "O efeito clássico é sobre metabolitos eicosanoides via COX, não bloqueio direto de IL-6 ou TNF."
+    },
+    "explicacao": "Resumo: AINEs atuam pela inibição da COX e redução de prostanoides.\nA) INCORRETA. Via dos leucotrienos não é o alvo dos AINEs inibidores de COX.\nB) CORRETA. Prostaglandinas e tromboxanos dependem da COX.\nC) INCORRETA. Histamina não é o alvo farmacológico principal dos AINEs.\nD) INCORRETA. O mecanismo clássico envolve eicosanoides via COX.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1497,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Leucotrienos, como o LTB4, são sintetizados predominantemente por qual via enzimática?",
+    "opcoes": [
+      "A) Ciclooxigenase-2 apenas",
+      "B) Via da ciclooxigenase-1 exclusiva",
+      "C) Óxido nítrico sintase induzível",
+      "D) Lipoxigenase (por exemplo 5-lipoxigenase"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Leucotrienos derivam do ácido araquidônico pela ação de lipoxigenases. Prostaglandinas usam COX.",
+    "explicacoes_opcoes": {
+      "A": "COX-2 gera prostanoides, não leucotrienos.",
+      "B": "COX-1 também produz prostanoides, não leucotrienos clássicos.",
+      "C": "NOS induzível produz NO, não leucotrienos.",
+      "D": "A via lipoxigenásica, em especial 5-LO, gera leucotrienos como LTB4 e cisteinil-LTs."
+    },
+    "explicacao": "Resumo: Leucotrienos são produtos da lipoxigenase.\nA) INCORRETA. COX-2 não sintetiza leucotrienos.\nB) INCORRETA. COX-1 não é a via dos leucotrienos.\nC) INCORRETA. Óxido nítrico é outra via mediador.\nD) CORRETA. Lipoxigenases convertem ácido araquidônico em leucotrienos.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1498,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Na sequência da extravasação leucocitária, após marginação e adesão, os neutrófilos atravessam a parede do vênulo pós-capilar principalmente por:",
+    "opcoes": [
+      "A) Diapedese (migração transcelular ou paracelular através do endotélio",
+      "B) Fagocitose reversa",
+      "C) Hemólise intravascular",
+      "D) Endocitose apenas de plasma sem contato com a matriz"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A cascata inclui marginação, adesão, diapedese, migração quimiotática no interstício e fagocitose. Diapedese é o passo de travessia da parede vascular.",
+    "explicacoes_opcoes": {
+      "A": "Diapedese é o termo para migração leucocitária através do endotélio para o tecido.",
+      "B": "Fagocitose reversa não descreve o cruzamento endotelial.",
+      "C": "Hemólise não faz parte da sequência de extravasação leucocitária.",
+      "D": "Endocitose de plasma não substitui o conceito de diapedese na parede vascular."
+    },
+    "explicacao": "Resumo: Após aderir, o leucócito atravessa o endotélio na diapedese.\nA) CORRETA. Diapedese é o passo de transmigração endotelial.\nB) INCORRETA. Termo inadequado ao processo.\nC) INCORRETA. Não relacionado à migração leucocitária.\nD) INCORRETA. Não descreve a travessia parietal.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1499,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Em inflamação crônica de longa duração, qual par de células costuma ser mais característico do infiltrado, em comparação com o agudo neutrofílico?",
+    "opcoes": [
+      "A) Neutrófilos e eosinófilos exclusivamente",
+      "B) Macrófagos e linfócitos",
+      "C) Basófilos e plaquetas circulantes",
+      "D) PMN desnudos sem componente imune adaptativo"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Inflamação crônica combina macrófagos ativados, linfócitos e frequentemente plasmócitos e fibrose. O agudo é neutrofílico.",
+    "explicacoes_opcoes": {
+      "A": "Neutrófilos predominam no agudo, não definem a crônica.",
+      "B": "Macrófagos e linfócitos compõem o infiltrado crônico típico.",
+      "C": "Basófilos e plaquetas não definem o padrão histológico clássico da crônica.",
+      "D": "A crônica é rica em componente imune celular, não apenas PMN."
+    },
+    "explicacao": "Resumo: Crônica costuma mostrar macrófagos e linfócitos.\nA) INCORRETA. Perfil neutrofílico é agudo.\nB) CORRETA. Macrófagos e linfócitos marcam a crônica.\nC) INCORRETA. Não é o infiltrado típico descrito.\nD) INCORRETA. Há organização imune importante.",
+    "aula_id": "mad1_a4"
+  },
+  {
+    "id": 1500,
+    "materia": "mad1",
+    "tema": "mad1_a4",
+    "enunciado": "Paciente com granuloma não caseoso em biópsia de linfonodo mediastinal, sem identificação de bacilos álcool-ácido resistentes. Qual entidade entra mais fortemente no diagnóstico diferencial histológico?",
+    "opcoes": [
+      "A) Tuberculose com necrose caseosa extensa",
+      "B) Lepra lepromatosa com infiltrado espumoso difuso apenas",
+      "C) Sarcoidose",
+      "D) Abscesso agudo purulento sem epiteloides"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Sarcoidose forma granulomas não caseosos bem formados. TB tipicamente caseosa. Lepra e abscesso têm padrões distintos.",
+    "explicacoes_opcoes": {
+      "A": "TB costuma ser caseosa; não é o melhor match para não caseoso clássico.",
+      "B": "Lepra tem histologia característica diferente do granuloma sarcoidótico típico.",
+      "C": "Sarcoidose é exemplo clássico de granuloma não caseoso.",
+      "D": "Abscesso é supuração neutrofílica, não granuloma epiteloide organizado."
+    },
+    "explicacao": "Resumo: Granuloma não caseoso sugere sarcoidose entre causas comuns.\nA) INCORRETA. TB frequentemente é caseosa.\nB) INCORRETA. Padrão lepromatoso não equivale ao descrito.\nC) CORRETA. Sarcoidose associa-se a granulomas não caseosos.\nD) INCORRETA. Abscesso não é granuloma epiteloide.",
+    "aula_id": "mad1_a4"
+  }
+]

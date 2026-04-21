@@ -2,7 +2,7 @@
 
 As hepatites virais são infecções do fígado com diferentes formas de contágio e gravidade. Na prova, o tema central é a interpretação dos **Marcadores Sorológicos da Hepatite B** (HBsAg, Anti-HBc, Anti-HBs) e a diferença entre os vírus.
 
-Na prática, a correta leitura da sorologia define se o paciente está doente, curado ou se precisa apenas de vacinação.
+Na prática, a correta leitura da **sorologia** define se o paciente está doente, curado ou se precisa apenas de vacinação.
 
 ---
 
@@ -19,11 +19,11 @@ Na prática, a correta leitura da sorologia define se o paciente está doente, c
 
 | Vírus | Transmissão | Cronicidade? | Vacina? | Diferencial de Prova |
 |---|---|---|---|---|
-| **A** | Fecal-oral | Não | Sim | Água/Alimento; Crianças. |
+| **A** | **Fecal-oral** | Não | Sim | Água/Alimento; Crianças. |
 | **B** | Sangue/Sexo | Sim (10%) | Sim | **HBsAg** é o marcador chave. |
 | **C** | Sangue | **Sim (80%)** | Não | Silenciosa; **Cura > 95%** com remédios. |
 | **D** | Sangue/Sexo | Sim | Não | **Só infecta quem já tem B**. |
-| **E** | Fecal-oral | Não | Não | **Grave em gestantes** (mortalidade alta). |
+| **E** | **Fecal-oral** | Não | Não | **Grave em gestantes** (mortalidade alta). |
 
 ---
 
@@ -31,7 +31,7 @@ Na prática, a correta leitura da sorologia define se o paciente está doente, c
 
 Este é o tema que mais cai em provas. Siga a lógica:
 
-1. **HBsAg (Antígeno):** Se der **Positivo**, o vírus está lá (Infectado).
+1. **HBsAg (Antígeno):** Se der **Positivo**, o vírus está lá (**Infectado**).
 2. **Anti-HBc (Anticorpo do "Corpo"):** Se der **Positivo**, o paciente já teve contato com o vírus real algum dia (Diferencia vacinado de quem teve a doença).
 3. **Anti-HBs (Anticorpo de Superfície):** Se der **Positivo**, o paciente está **Protegido/Imune**.
 
@@ -47,9 +47,9 @@ Este é o tema que mais cai em provas. Siga a lógica:
 ## 3. Hepatite C: A "Epidemia Silenciosa"
 
 Diferente da B, a Hepatite C quase nunca dá sintomas na fase aguda.
-- **Risco:** 80% dos casos se tornam crônicos e podem levar à cirrose e câncer de fígado.
+- **Risco:** 80% dos casos se tornam crônicos e podem levar à **cirrose** e **câncer de fígado**.
 - **Diagnóstico:** Começa com o **Anti-HCV** (triagem). Se der positivo, precisa fazer o **PCR (HCV-RNA)** para confirmar se o vírus ainda está ativo.
-- **Tratamento:** Atualmente existem comprimidos que curam a doença em 3 meses com quase nenhum efeito colateral.
+- **Tratamento:** Atualmente existem comprimidos que **curam** a doença em 3 meses com quase nenhum efeito colateral.
 
 ---
 
@@ -84,9 +84,9 @@ Sobre os outros vírus: Lembra-te: "Vogais (A, E) vêm da boca (Fecal-oral); Con
 
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Anti-HBs** | **HBsAg** | **Protegido** vs Infectado |
-| **Vacinado** | **Curado** | Anti-HBc Negativo vs **Anti-HBc Positivo** |
-| **Hepatite A** | **Hepatite B** | **Aguda (Nunca crônica)** vs Crônica/Câncer |
+| **Anti-HBs** | **HBsAg** | **Protegido/Imune** vs Infectado |
+| **Vacinado** | **Curado** | **Anti-HBc Negativo** vs **Anti-HBc Positivo** |
+| **Hepatite A** | **Hepatite B** | **Aguda (Nunca crônica)** vs Crônica/**Câncer** |
 | **HBeAg** | **Anti-HBe** | **Vírus replicando** vs Vírus "calmo" |
 | **Superinfecção D** | **Coinfecção B+D** | B já existia (Pior) vs **Pegou os dois juntos** |
 

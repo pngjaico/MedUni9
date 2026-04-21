@@ -1,0 +1,483 @@
+[
+  {
+    "id": 206,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "O indicador biológico em ciclo de esterilização visa principalmente:",
+    "opcoes": [
+      "A) Demonstrar morte microbiana eficaz frente ao processo validado",
+      "B) Substituir leitura de temperatura no painel do equipamento",
+      "C) Comprovar apenas que o pacote esteve no setor de expurgo",
+      "D) Medir umidade relativa exclusivamente da sala limpa"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Uso de esporos resistentes testa eficácia do ciclo.",
+      "B": "Incorreta: Parâmetro físico ainda é necessário; papéis são complementares.",
+      "C": "Incorreta: Setor de expurgo não valida esterilização.",
+      "D": "Incorreta: Umidade ambiente não é o objetivo do biológico."
+    },
+    "explicacao": "Resumo: Indicador biológico valida letalidade microbiana; físico e químico têm outros papéis.\nA) CORRETA. Correta: Uso de esporos resistentes testa eficácia do ciclo.\nB) INCORRETA. Incorreta: Parâmetro físico ainda é necessário; papéis são complementares.\nC) INCORRETA. Incorreta: Setor de expurgo não valida esterilização.\nD) INCORRETA. Incorreta: Umidade ambiente não é o objetivo do biológico.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 207,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Clorexidina alcoólica, em preparo cutâneo, costuma se destacar por:",
+    "opcoes": [
+      "A) Não precisar de tempo de secagem antes da incisão",
+      "B) Apresentar ação residual prolongada em pele, com início rápido",
+      "C) Ser primeira escolha para irrigação de câmara anterior sem restrição",
+      "D) Substituir o controle físico de ciclo em autoclave"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Secagem adequada continua obrigatória.",
+      "B": "Correta: Perfil de ação residual é vantagem clássica frente a muitos esquemas.",
+      "C": "Incorreta: Uso ocular/mucoso não é livre; há risco e contraindicações.",
+      "D": "Incorreta: Validação de autoclave não se substitui por antisséptico."
+    },
+    "explicacao": "Resumo: Clorexidina alcoólica combina rapidez e efeito residual; há contraindicações (mucosa/olho).\nA) INCORRETA. Incorreta: Secagem adequada continua obrigatória.\nB) CORRETA. Correta: Perfil de ação residual é vantagem clássica frente a muitos esquemas.\nC) INCORRETA. Incorreta: Uso ocular/mucoso não é livre; há risco e contraindicações.\nD) INCORRETA. Incorreta: Validação de autoclave não se substitui por antisséptico.",
+    "aula_id": "tcar_a1",
+    "essencial": false
+  },
+  {
+    "id": 208,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Suspeita de quebra de esterilidade do campo durante o procedimento. Conduta adequada:",
+    "opcoes": [
+      "A) Ignorar se o sangramento for pequeno",
+      "B) Prosseguir sem comunicar para não atrasar cirurgia",
+      "C) Comunicar imediatamente, repor barreira/material e ajustar técnica",
+      "D) Aplicar apenas mais antisséptico sobre campo já montado"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Gravidade não depende do volume de sangue.",
+      "B": "Incorreta: Comunicação é regra de segurança.",
+      "C": "Correta: Restabelecer condições assépticas ou substituir material contaminado.",
+      "D": "Incorreta: Campo aberto não se “reasssepta” com disfarce superficial."
+    },
+    "explicacao": "Resumo: Quebra de campo exige reconhecimento verbal e correção, não “tapar” o problema.\nA) INCORRETA. Incorreta: Gravidade não depende do volume de sangue.\nB) INCORRETA. Incorreta: Comunicação é regra de segurança.\nC) CORRETA. Correta: Restabelecer condições assépticas ou substituir material contaminado.\nD) INCORRETA. Incorreta: Campo aberto não se “reasssepta” com disfarce superficial.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 209,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Indicador químico interno de pacote esterilizado informa, em geral, que:",
+    "opcoes": [
+      "A) O material é aprovado clinicamente sem necessidade de rastreio de lote",
+      "B) O teste biológico do dia foi negativo sem processar amostra",
+      "C) A embalagem dispensa tempo de exposição mínimo",
+      "D) O pacote foi exposto à condição do processo de esterilização"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Rastreabilidade e outros controles permanecem necessários.",
+      "B": "Incorreta: Químico não substitui biológico.",
+      "C": "Incorreta: Parâmetros de ciclo continuam obrigatórios.",
+      "D": "Correta: Confirma passagem pelo processo conforme classe do indicador."
+    },
+    "explicacao": "Resumo: Indicador químico documenta exposição ao ciclo; biológico valida letalidade.\nA) INCORRETA. Incorreta: Rastreabilidade e outros controles permanecem necessários.\nB) INCORRETA. Incorreta: Químico não substitui biológico.\nC) INCORRETA. Incorreta: Parâmetros de ciclo continuam obrigatórios.\nD) CORRETA. Correta: Confirma passagem pelo processo conforme classe do indicador.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 210,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Antes da primeira incisão, após antissepsia alcoólica, é fundamental:",
+    "opcoes": [
+      "A) Respeitar tempo de ação e secagem do antisséptico antes de campos e bisturi",
+      "B) Iniciar a incisão com a pele ainda exuberantemente úmida de álcool",
+      "C) Pular antissepsia se o paciente já tomou banho no dia",
+      "D) Utilizar apenas compressa seca sem produto se houver alergia não investigada"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Evita incisão com campo úmido e vapor inflamável.",
+      "B": "Incorreta: Umidade excessiva é erro que compromete técnica e risco térmico.",
+      "C": "Incorreta: Banho não substitui preparo de pele em sala.",
+      "D": "Incorreta: Alergia deve ser investigada e substituir antisséptico com critério, não omitir preparo."
+    },
+    "explicacao": "Resumo: Secagem e tempo de contato influenciam eficácia e segurança (ex.: vapor de álcool).\nA) CORRETA. Correta: Evita incisão com campo úmido e vapor inflamável.\nB) INCORRETA. Incorreta: Umidade excessiva é erro que compromete técnica e risco térmico.\nC) INCORRETA. Incorreta: Banho não substitui preparo de pele em sala.\nD) INCORRETA. Incorreta: Alergia deve ser investigada e substituir antisséptico com critério, não omitir preparo.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 211,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Desinfecção de superfície não crítica difere da esterilização porque:",
+    "opcoes": [
+      "A) Garante ausência total de esporos em qualquer artigo",
+      "B) Reduz carga microbiana, mas não equivale a eliminar toda vida microbiana como na esterilização",
+      "C) Só age contra vírus; bactérias resistem sempre",
+      "D) Só pode ser feita com autoclave portátil"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ausência de esporos é meta da esterilização.",
+      "B": "Correta: Definição operacional correta do nível intermediário.",
+      "C": "Incorreta: Espectro e eficácia variam com agente e tempo; afirmação é falsa.",
+      "D": "Incorreta: Autoclave é esterilização, não desinfecção usual de superfície."
+    },
+    "explicacao": "Resumo: Desinfecção tem nível de letalidade menor que esterilização.\nA) INCORRETA. Incorreta: Ausência de esporos é meta da esterilização.\nB) CORRETA. Correta: Definição operacional correta do nível intermediário.\nC) INCORRETA. Incorreta: Espectro e eficácia variam com agente e tempo; afirmação é falsa.\nD) INCORRETA. Incorreta: Autoclave é esterilização, não desinfecção usual de superfície.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 212,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Em cirurgia geral hospitalar, método frequente de esterilização de artigos compatíveis é:",
+    "opcoes": [
+      "A) Secagem ao ar ambiente de instrumental após uso",
+      "B) Irradiação ultravioleta de bancada como único passo",
+      "C) Autoclave com vapor saturado sob pressão em ciclo validado",
+      "D) Imersão em álcool 70% por 30 segundos sem enxágue"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Secagem não esteriliza.",
+      "B": "Incorreta: UV tem penetração limitada e não substitui ciclo termo.",
+      "C": "Correta: Processo clássico bem estabelecido.",
+      "D": "Incorreta: Álcool não esteriliza instrumental."
+    },
+    "explicacao": "Resumo: Vapor sob pressão é padrão para muitos artigos; requer validação e embalagem.\nA) INCORRETA. Incorreta: Secagem não esteriliza.\nB) INCORRETA. Incorreta: UV tem penetração limitada e não substitui ciclo termo.\nC) CORRETA. Correta: Processo clássico bem estabelecido.\nD) INCORRETA. Incorreta: Álcool não esteriliza instrumental.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 213,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Sobre embalagem e esterilização de instrumental, é correto afirmar que:",
+    "opcoes": [
+      "A) Pacote rasgado pode ser usado se o interior “parecer” íntegro",
+      "B) Indicador químico ausente dispensa abertura em sala",
+      "C) Lote e validade não precisam ser conferidos pelo usuário",
+      "D) Sem embalagem adequada e rastreabilidade não há garantia de esterilização válida para uso"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Integridade da barreira é critério rígido.",
+      "B": "Incorreta: Falta de indicador exige segregação e análise.",
+      "C": "Incorreta: Usuário deve conferir identificação.",
+      "D": "Correta: Barreira estéril e documentação são inseparáveis do conceito de uso seguro."
+    },
+    "explicacao": "Resumo: Integridade, indicadores e rastreio são parte da cadeia de segurança.\nA) INCORRETA. Incorreta: Integridade da barreira é critério rígido.\nB) INCORRETA. Incorreta: Falta de indicador exige segregação e análise.\nC) INCORRETA. Incorreta: Usuário deve conferir identificação.\nD) CORRETA. Correta: Barreira estéril e documentação são inseparáveis do conceito de uso seguro.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 214,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a2",
+    "enunciado": "Área restrita do centro cirúrgico inclui tipicamente:",
+    "opcoes": [
+      "A) Sala cirúrgica e adjacências com barreira máxima junto ao campo",
+      "B) Farmácia central aberta ao público",
+      "C) Estacionamento externo e refeitório do hospital",
+      "D) Recepção administrativa sem vestimenta especial"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Definição de proximidade crítica ao ato.",
+      "B": "Incorreta: Ambiente não ligado ao fluxo cirúrgico restrito.",
+      "C": "Incorreta: Área não restrita.",
+      "D": "Incorreta: Circulação geral."
+    },
+    "explicacao": "Resumo: Zona restrita aproxima-se do campo e exige maior controle de circulação e paramentação.\nA) CORRETA. Correta: Definição de proximidade crítica ao ato.\nB) INCORRETA. Incorreta: Ambiente não ligado ao fluxo cirúrgico restrito.\nC) INCORRETA. Incorreta: Área não restrita.\nD) INCORRETA. Incorreta: Circulação geral.",
+    "aula_id": "tcar_a2"
+  },
+  {
+    "id": 215,
+    "materia": "tecnica_operatoria",
+    "tema": "tcar_a1",
+    "enunciado": "Fluxo de materiais limpos e contaminados no bloco deve ser, idealmente:",
+    "opcoes": [
+      "A) Aleatório conforme disponibilidade de staff",
+      "B) Unidirecional, com rotas definidas para evitar contaminação cruzada",
+      "C) Bidirecional no mesmo corredor para ganhar tempo",
+      "D) Convergente na mesa do instrumentador sem marcação"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Organização não é opcional.",
+      "B": "Correta: Princípio de segurança estrutural.",
+      "C": "Incorreta: Cruzamento é proscrito.",
+      "D": "Incorreta: Mesa estéril não recebe retorno de contaminado."
+    },
+    "explicacao": "Resumo: Separação lógica de trajetos reduz cruzamento sujo/limpo.\nA) INCORRETA. Incorreta: Organização não é opcional.\nB) CORRETA. Correta: Princípio de segurança estrutural.\nC) INCORRETA. Incorreta: Cruzamento é proscrito.\nD) INCORRETA. Incorreta: Mesa estéril não recebe retorno de contaminado.",
+    "aula_id": "tcar_a1"
+  },
+  {
+    "id": 216,
+    "materia": "bmf2",
+    "tema": "bmf2_a4",
+    "enunciado": "A roupa “privativa” do centro cirúrgico destina-se principalmente a:",
+    "opcoes": [
+      "A) Identificar hierarquia médica apenas por cor",
+      "B) Substituir o scrub e campo estéril do cirurgião",
+      "C) Uso exclusivo no bloco como barreira básica de ambiente, sem levar a áreas externas",
+      "D) Proteção contra radiação ionizante isolada"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Finalidade é controle infeccioso, não formal.",
+      "B": "Incorreta: Não substitui paramentação para campo.",
+      "C": "Correta: Conceito de barreira de bloco com restrição de uso externo.",
+      "D": "Incorreta: Objetivo principal não é radioproteção."
+    },
+    "explicacao": "Resumo: Privativa limita contaminação partindo do corpo para o ambiente controlado.\nA) INCORRETA. Incorreta: Finalidade é controle infeccioso, não formal.\nB) INCORRETA. Incorreta: Não substitui paramentação para campo.\nC) CORRETA. Correta: Conceito de barreira de bloco com restrição de uso externo.\nD) INCORRETA. Incorreta: Objetivo principal não é radioproteção.",
+    "aula_id": "bmf2_a4"
+  },
+  {
+    "id": 217,
+    "materia": "bmf2",
+    "tema": "bmf2_a7",
+    "enunciado": "Área semirrestrita difere da restrita sobretudo porque:",
+    "opcoes": [
+      "A) É equivalente ao estacionamento coberto",
+      "B) Permite street clothes e calçados externos",
+      "C) Exige o mesmo campo aberto da cirurgia",
+      "D) Há circulação controlada e traje adequado, mas menor proximidade ao campo que a zona restrita crítica"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não é área externa.",
+      "B": "Incorreta: Ainda há exigências de vestimenta.",
+      "C": "Incorreta: Campo só na sala adequada.",
+      "D": "Correta: Gradiente de proteção."
+    },
+    "explicacao": "Resumo: Camadas de controle aumentam à medida que se chega ao campo.\nA) INCORRETA. Incorreta: Não é área externa.\nB) INCORRETA. Incorreta: Ainda há exigências de vestimenta.\nC) INCORRETA. Incorreta: Campo só na sala adequada.\nD) CORRETA. Correta: Gradiente de proteção.",
+    "aula_id": "bmf2_a7"
+  },
+  {
+    "id": 218,
+    "materia": "bmf2",
+    "tema": "bmf2_a7",
+    "enunciado": "Frente do avental e mangas estéreis funcionalmente são consideradas:",
+    "opcoes": [
+      "A) Áreas habitualmente tratadas como estéreis para manipulação próxima ao campo",
+      "B) Equivalentes à pele do paciente não preparada",
+      "C) Zonas potencialmente contaminadas como o dorso do tronco",
+      "D) Áreas não seguras abaixo da cintura sem exceção"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Frente e mangas são usadas como barreira válida.",
+      "B": "Incorreta: Paciente tem antissepsia própria.",
+      "C": "Incorreta: Dorso não é tratado como estéril.",
+      "D": "Incorreta: Abaixo da cintura não é zona segura."
+    },
+    "explicacao": "Resumo: Paramentação define zona “esterilizável” frontal versus dorso/cintura inferior.\nA) CORRETA. Correta: Frente e mangas são usadas como barreira válida.\nB) INCORRETA. Incorreta: Paciente tem antissepsia própria.\nC) INCORRETA. Incorreta: Dorso não é tratado como estéril.\nD) INCORRETA. Incorreta: Abaixo da cintura não é zona segura.",
+    "aula_id": "bmf2_a7"
+  },
+  {
+    "id": 219,
+    "materia": "bmf2",
+    "tema": "bmf2_a1",
+    "enunciado": "Time-out cirúrgico imediatamente antes da incisão visa:",
+    "opcoes": [
+      "A) Reduzir número de compressas disponíveis na mesa",
+      "B) Pausa de segurança: conferir paciente, sítio, lateralidade e itens críticos",
+      "C) Documentar tempo operatório em minutos cirúrgicos",
+      "D) Substituir consentimento e marcação se já houve discussão informal"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não é inventário restritivo mal interpretado.",
+      "B": "Correta: Definição correta da pausa.",
+      "C": "Incorreta: Não é cronometria de peça.",
+      "D": "Incorreta: Consentimento e marcação permanecem obrigatórios."
+    },
+    "explicacao": "Resumo: Checklist WHO/time-out reduz erro de lado, procedimento e equipe despreparada.\nA) INCORRETA. Incorreta: Não é inventário restritivo mal interpretado.\nB) CORRETA. Correta: Definição correta da pausa.\nC) INCORRETA. Incorreta: Não é cronometria de peça.\nD) INCORRETA. Incorreta: Consentimento e marcação permanecem obrigatórios.",
+    "aula_id": "bmf2_a1"
+  },
+  {
+    "id": 220,
+    "materia": "bmf2",
+    "tema": "bmf2_a7",
+    "enunciado": "Erro comum de paramentação que pode contaminar campo:",
+    "opcoes": [
+      "A) Manter máscara cobrindo nariz fixa sem ajustá-la com as mãos",
+      "B) Apoiar braços em suporte quando possível",
+      "C) Ajustar máscara tocando região frontal estéril do campo",
+      "D) Confirmar integridade das luvas após manuseio externo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Correto.",
+      "B": "Incorreta: Melhora ergonomia.",
+      "C": "Correta: Contaminação típica.",
+      "D": "Incorreta: Boa prática."
+    },
+    "explicacao": "Resumo: Mãos “em campo” não tocam face; quebra de técnica vem de gestos reflexos.\nA) INCORRETA. Incorreta: Correto.\nB) INCORRETA. Incorreta: Melhora ergonomia.\nC) CORRETA. Correta: Contaminação típica.\nD) INCORRETA. Incorreta: Boa prática.",
+    "aula_id": "bmf2_a7"
+  },
+  {
+    "id": 221,
+    "materia": "bmf2",
+    "tema": "bmf2_a4",
+    "enunciado": "Material estéril armazenado no bloco deve, em regra:",
+    "opcoes": [
+      "A) Ser reprocessado automaticamente após um único uso sem critério",
+      "B) Ficar úmido dentro de saco plástico comum sem identificação",
+      "C) Permitir empilhamento sem limite que comprima indicadores",
+      "D) Estar seco, identificado, com validade e integridade de embalagem verificável"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Reprocessamento segue normas, não é automático.",
+      "B": "Incorreta: Umidade compromete.",
+      "C": "Incorreta: Compressão pode romper barreira.",
+      "D": "Correta: Padrão mínimo."
+    },
+    "explicacao": "Resumo: Armazenamento conserva barreira microbiana e rastreio.\nA) INCORRETA. Incorreta: Reprocessamento segue normas, não é automático.\nB) INCORRETA. Incorreta: Umidade compromete.\nC) INCORRETA. Incorreta: Compressão pode romper barreira.\nD) CORRETA. Correta: Padrão mínimo.",
+    "aula_id": "bmf2_a4"
+  },
+  {
+    "id": 222,
+    "materia": "semiologia1",
+    "tema": "semio1_a7",
+    "enunciado": "Circulante, na lógica de sala cirúrgica, posiciona-se para:",
+    "opcoes": [
+      "A) Fornecer suprimentos fora do campo sem contaminá-lo e sem tocar instrumental estéril aberto",
+      "B) Substituir o instrumentador na passagem de pinças sobre o campo",
+      "C) Realizar anestesia geral isoladamente",
+      "D) Realizar diérese principal no lugar do residente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Definição clássica.",
+      "B": "Incorreta: Instrumentador cuida da mesa estéril.",
+      "C": "Incorreta: Anestesista é função distinta.",
+      "D": "Incorreta: Papel do cirurgião/auxiliar."
+    },
+    "explicacao": "Resumo: Circulante apoia sem invadir zona estéril da mesa montada.\nA) CORRETA. Correta: Definição clássica.\nB) INCORRETA. Incorreta: Instrumentador cuida da mesa estéril.\nC) INCORRETA. Incorreta: Anestesista é função distinta.\nD) INCORRETA. Incorreta: Papel do cirurgião/auxiliar.",
+    "aula_id": "semio1_a7"
+  },
+  {
+    "id": 223,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Ao duvidar se uma parte da barreira está contaminada, conduta tecnicamente segura:",
+    "opcoes": [
+      "A) Ignorar quando o procedimento está quase terminando",
+      "B) Tratar como contaminado e repor/trocar o necessário",
+      "C) Passar solução alcoólica sobre luva perfurada sem trocá-la",
+      "D) Assumir que segue estéril se ninguém viu o toque"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Prazo não desculpa violação.",
+      "B": "Correta: Princípio básico.",
+      "C": "Incorreta: Perfuração exige troca de luva.",
+      "D": "Incorreta: Risco inaceitável."
+    },
+    "explicacao": "Resumo: Na dúvida, quebrou: refaz barreira.\nA) INCORRETA. Incorreta: Prazo não desculpa violação.\nB) CORRETA. Correta: Princípio básico.\nC) INCORRETA. Incorreta: Perfuração exige troca de luva.\nD) INCORRETA. Incorreta: Risco inaceitável.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 224,
+    "materia": "semiologia1",
+    "tema": "semio1_a3",
+    "enunciado": "Caixa cirúrgica estéril aberta em sala deve ser conferida quanto a:",
+    "opcoes": [
+      "A) Peso total sem critério de conteúdo",
+      "B) Somente aparência estética do pano",
+      "C) Integridade da embalagem, umidade indevida e validade antes da abertura no campo",
+      "D) Cor do instrumental exclusivamente"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Peso não substitui conferência.",
+      "B": "Incorreta: Insuficiente.",
+      "C": "Correta: Checklist mínimo real.",
+      "D": "Incorreta: Cor não valida esterilidade."
+    },
+    "explicacao": "Resumo: Inspeção visual e documentação precedem abertura.\nA) INCORRETA. Incorreta: Peso não substitui conferência.\nB) INCORRETA. Incorreta: Insuficiente.\nC) CORRETA. Correta: Checklist mínimo real.\nD) INCORRETA. Incorreta: Cor não valida esterilidade.",
+    "aula_id": "semio1_a3"
+  },
+  {
+    "id": 225,
+    "materia": "semiologia1",
+    "tema": "semio1_a4",
+    "enunciado": "“Time-out” mal realizado costuma falhar por:",
+    "opcoes": [
+      "A) Incluir antibioticoprofilaxia quando indicada",
+      "B) Ser lido em voz alta com confirmação ativa da equipe",
+      "C) Integrar lateralidade e site marcados antes do corte",
+      "D) Tornar-se ritual sem alterar conduta quando há discrepância"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 6,
+    "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Item válido de checklist.",
+      "B": "Incorreta: Comportamento desejável.",
+      "C": "Incorreta: Elemento essencial.",
+      "D": "Correta: Falha de implementação real."
+    },
+    "explicacao": "Resumo: Checklist só protege se mudar plano quando há erro detectado.\nA) INCORRETA. Incorreta: Item válido de checklist.\nB) INCORRETA. Incorreta: Comportamento desejável.\nC) INCORRETA. Incorreta: Elemento essencial.\nD) CORRETA. Correta: Falha de implementação real.",
+    "aula_id": "semio1_a4"
+  }
+]

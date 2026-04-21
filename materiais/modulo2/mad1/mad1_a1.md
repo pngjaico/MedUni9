@@ -76,7 +76,7 @@ Uma criança com infecções bacterianas recorrentes após os 6 meses de vida po
 - **Imunidade Adaptativa**: Especificidade e Memória Imunológica.
 - **Linfócitos T**: Amadurecem no **Timo**.
 - **Esplenectomia**: Exige vacinação para germes encapsulados.
-- **Citocinas Inflamatórias**: IL-1, IL-6 e TNF-α (Febre e inflamação).
+- **Citocinas Inflamatórias**: **IL-1**, **IL-6** e **TNF-α** (Febre e inflamação).
 
 ---
 

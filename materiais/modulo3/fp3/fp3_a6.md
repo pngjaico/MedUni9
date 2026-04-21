@@ -2,7 +2,7 @@
 
 A inflamação é o "exército" do corpo em ação. Na prova, os temas centrais são a sequência de eventos da **Inflamação Aguda** (neutrófilos), a formação dos **Granulomas** na inflamação crônica, e a diferença entre **Regeneração** (cura perfeita) e **Fibrose** (cicatrização com marca).
 
-Na prática, o médico deve saber que a inflamação é necessária para a cura, mas se for exagerada ou persistente, ela destrói o próprio tecido, como ocorre nas doenças autoimunes ou na fibrose pulmonar.
+Na prática, o médico deve saber que a inflamação é necessária para a cura, mas se for exagerada ou persistente, ela destrói o próprio tecido, como ocorre nas doenças autoimunes ou na **fibrose pulmonar**.
 
 ---
 
@@ -17,7 +17,7 @@ Na prática, o médico deve saber que a inflamação é necessária para a cura,
 
 ## 1. Inflamação Aguda vs. Crônica
 
-- **Aguda (Início Rápido):** É dominada pelos **Neutrófilos**. Causa os 5 sinais clássicos: Calor, Rubor (vermelhidão), Inchaço (edema), Dor e Perda de função.
+- **Aguda (Início Rápido):** É dominada pelos **Neutrófilos**. Causa os 5 sinais clássicos: **Calor**, **Rubor** (vermelhidão), **Inchaço** (edema), **Dor** e **Perda de função**.
 - **Crônica (Longa Duração):** Ocorre quando o agressor persiste. É dominada por **Macrófagos** e Linfócitos. A marca registrada é a tentativa de cura com a formação de **Fibrose** (cicatriz).
 
 ---
@@ -28,7 +28,7 @@ As células se comunicam através de mediadores químicos:
 - **Histamina:** Solta na hora pelos mastócitos. Faz o vaso dilatar e "vazar" (causa o inchaço e a coceira).
 - **Prostaglandinas:** Causam **Dor e Febre**. São o alvo dos anti-inflamatórios comuns (AINEs).
 - **Leucotrienos:** Causam **Broncoespasmo** (fecham o pulmão). Importantes na asma.
-- **TNF e IL-1:** Causam os sintomas sistêmicos, como a prostração e a febre alta.
+- **TNF e IL-1:** Causam os **sintomas sistêmicos**, como a prostração e a febre alta.
 
 ---
 
@@ -36,14 +36,14 @@ As células se comunicam através de mediadores químicos:
 
 - **Inflamação Purulenta (Abscesso):** Presença de **Pus** (neutrófilos mortos + bactérias). Ex: Uma espinha ou apendicite.
 - **Inflamação Granulomatosa:** O corpo não consegue destruir o invasor e tenta "enclausurá-lo". Forma-se o **Granuloma**. Clássico na **Tuberculose** (onde o centro do granuloma morre e vira "queijo" - necrose caseosa).
-- **Úlcera:** É uma "escavação" na superfície de um órgão (estômago ou pele) causada pela descamação de tecido inflamado e morto.
+- **Úlcera:** É uma "**escavação**" na superfície de um órgão (estômago ou pele) causada pela descamação de tecido inflamado e morto.
 
 ---
 
 ## 4. Reparo Tecidual: Regeneração e Cicatrização
 
 Após a guerra da inflamação, o corpo precisa consertar o estrago:
-- **Regeneração:** A célula morta é substituída por uma igualzinha (cura sem marca). Ocorre na pele e no fígado.
+- **Regeneração:** A célula morta é substituída por uma igualzinha (cura sem marca). Ocorre na **pele** e no **fígado**.
 - **Fibrose (Cicatrização):** A célula morta é substituída por **Colágeno** (um "remendo" de tecido fibroso). A arquitetura original se perde.
 - **Cicatriz Hipertrófica vs. Quelóide:**
     - **Hipertrófica:** Fica gordinha mas respeita os limites do corte.

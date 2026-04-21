@@ -2,7 +2,7 @@
 
 O Sistema Nervoso Parassimpático é o modo "descansar e digerir" do corpo. Na prova, os temas centrais são a ação da **Acetilcolina**, a diferença entre receptores **Muscarínicos** e **Nicotínicos**, e o manejo de situações críticas como a **Intoxicação por Agrotóxicos** (organofosforados) e o tratamento da **Miastenia Gravis**.
 
-Na prática, o médico deve saber reconhecer a síndrome colinérgica (excesso de secreção e bradicardia) e usar a **Atropina** como o antídoto que "seca e acelera" o paciente em perigo.
+Na prática, o médico deve saber reconhecer a **síndrome colinérgica** (excesso de secreção e bradicardia) e usar a **Atropina** como o antídoto que "**seca e acelera**" o paciente em perigo.
 
 ---
 
@@ -18,7 +18,7 @@ Na prática, o médico deve saber reconhecer a síndrome colinérgica (excesso d
 ## 1. Acetilcolina e seus Receptores
 
 O parassimpático usa a **Acetilcolina (ACh)** para mandar mensagens. Ela se liga a dois tipos de receptores:
-- **Muscarínicos (M):** Estão nos órgãos (coração, pulmão, glândulas). Quando ativados, causam os efeitos de "descanso": suor, saliva, digestão e batimento cardíaco lento.
+- **Muscarínicos (M):** Estão nos órgãos (**coração**, **pulmão**, **glândulas**). Quando ativados, causam os efeitos de "descanso": suor, saliva, digestão e batimento cardíaco lento.
 - **Nicotínicos (N):** Estão nos **Músculos** (junção neuromuscular) e nos gânglios. Quando ativados, fazem o músculo contrair.
 
 ---
@@ -28,7 +28,7 @@ O parassimpático usa a **Acetilcolina (ACh)** para mandar mensagens. Ela se lig
 Existem remédios que impedem a destruição da acetilcolina, fazendo com que ela dure mais tempo na sinapse.
 - **Piridostigmina / Neostigmina:** Usados no tratamento da **Miastenia Gravis** (fraqueza muscular). Eles aumentam a acetilcolina no músculo para ajudar o paciente a ter força para abrir os olhos e respirar.
 - **Donepezila:** Usada no **Alzheimer** para tentar melhorar a memória aumentando a acetilcolina no cérebro.
-- **Organofosforados (Veneno):** Inibem a enzima de forma irreversível. O paciente fica "inundado" de acetilcolina e morre afogado em suas próprias secreções (DUMBELS).
+- **Organofosforados (Veneno):** Inibem a enzima de forma irreversível. O paciente fica "inundado" de acetilcolina e morre afogado em suas próprias secreções (**DUMBELS**).
 
 ---
 
@@ -85,7 +85,7 @@ A Uninove adora cobrar o efeito na **Pupila**. Remédio colinérgico (Pilocarpin
 | **Atropina** | **Adrenalina** | Aumenta FC por **Bloqueio** vs Aumenta FC por **Estímulo Direto** |
 | **Neostigmina** | **Pilocarpina** | Age na **Junção Muscular** vs Age no **Olho (Glaucoma)** |
 | **Síndrome Colinérgica** | **Síndrome Anticolinérgica** | **Úmido** (Babel/Suor) vs **Seco** (Boca seca/Calor) |
-| **Ipratrópio** | **Salbutamol** | **Antagonista** Muscarínico vs **Agonista** Beta-2 |
+| **Ipratrópio** | **Salbutamol** | **Antagonista Muscarínico** vs **Agonista Beta-2** |
 
 ### Frase-âncora para não esquecer
 

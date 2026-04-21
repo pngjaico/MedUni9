@@ -18,31 +18,31 @@ Na prática, saber interpretar esses números protege o médico de prescrever re
 ## 1. As Duas Hipóteses
 
 Toda pesquisa começa com um duelo entre duas ideias:
-- **H0 (Hipótese Nula):** Diz que "não há diferença". O novo remédio é igual ao antigo. Tudo o que aconteceu foi por acaso.
-- **H1 (Hipótese Alternativa):** Diz que "há diferença". O remédio novo é melhor (ou diferente) do antigo.
+- **H0 (Hipótese Nula):** Diz que "**não há diferença**". O novo remédio é igual ao antigo. Tudo o que aconteceu foi por acaso.
+- **H1 (Hipótese Alternativa):** Diz que "**há diferença**". O remédio novo é melhor (ou diferente) do antigo.
 
 ---
 
 ## 2. O famoso p-valor
 
 O p-valor é a chance de a **Hipótese Nula (H0)** estar certa.
-- **p < 0,05:** A chance de ser acaso é menor que 5%. É muito improvável que seja sorte. Dizemos que o resultado é **Estatisticamente Significativo**. Rejeitamos a H0.
-- **p > 0,05:** A chance de ser acaso é alta. Não podemos dizer que o remédio funciona. Aceitamos (ou não rejeitamos) a H0.
+- **p < 0,05:** A chance de ser acaso é menor que 5%. É muito improvável que seja sorte. Dizemos que o resultado é **Estatisticamente Significativo**. Rejeitamos a **H0**.
+- **p > 0,05:** A chance de ser acaso é alta. Não podemos dizer que o remédio funciona. Aceitamos (ou não rejeitamos) a **H0**.
 
 ---
 
 ## 3. Os Erros do Cientista
 
 Ninguém é perfeito, e a estatística pode falhar:
-- **Erro Tipo I (Falso Positivo):** Você diz que o remédio funciona, mas na verdade não funciona. (Rejeitou H0 sem devia).
-- **Erro Tipo II (Falso Negativo):** O remédio é bom, mas seu estudo foi pequeno demais e você disse que ele não funciona. (Não rejeitou H0 quando devia).
+- **Erro Tipo I (Falso Positivo):** Você diz que o remédio funciona, mas na verdade não funciona. (Rejeitou **H0** sem devia).
+- **Erro Tipo II (Falso Negativo):** O remédio é bom, mas seu estudo foi pequeno demais e você disse que ele não funciona. (Não rejeitou **H0** quando devia).
 
 ---
 
 ## 4. Intervalo de Confiança (IC 95%)
 
-Em vez de dar um número fixo, o IC dá uma margem de segurança (ex: o remédio reduz a pressão entre 5 e 15 mmHg).
-- **A Regra de Ouro:** Se o intervalo passar pelo **Valor Nulo**, ele não é significativo.
+Em vez de dar um número fixo, o **IC** dá uma margem de segurança (ex: o remédio reduz a pressão entre 5 e 15 mmHg).
+- **A Regra de Ouro:** Se o intervalo passar pelo **Valor Nulo**, ele **não é significativo**.
   - Para diferenças (ex: perda de peso), o valor nulo é **0**.
   - Para riscos (ex: Risco Relativo), o valor nulo é **1**.
 
@@ -80,10 +80,10 @@ Cuidado com os erros: **Tipo I** é o erro do otimista (vê efeito onde não tem
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **p-valor** | **Relevância Clínica** | Probabilidade estatística vs **Importância para o paciente** |
-| **Erro Tipo I** | **Erro Tipo II** | Falso Positivo vs **Falso Negativo** |
+| **Erro Tipo I** | **Erro Tipo II** | **Falso Positivo** vs **Falso Negativo** |
 | **H0 (Nula)** | **H1 (Alternativa)** | Sem diferença vs **Com diferença** |
 | **IC 95%** | **p-valor** | Mostra a margem do efeito vs **Mostra apenas se é acaso ou não** |
-| **Significativo** | **Inconclusivo** | p < 0,05 vs **p > 0,05** |
+| **Significativo** | **Inconclusivo** | **p < 0,05** vs **p > 0,05** |
 
 ### Frase-âncora para não esquecer
 

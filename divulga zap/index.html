@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedGradPlus Marketing Card V1 - No Link</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #00f2fe;
+            --accent: #00ffa3;
+            --bg: #030712;
+            --card-glass: rgba(255, 255, 255, 0.03);
+            --border: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Outfit', sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .card {
+            width: 1080px;
+            height: 1080px;
+            background: #030712;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            padding: 90px 100px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+            color: white;
+        }
+
+        /* Sophisticated Lighting */
+        .card::before {
+            content: '';
+            position: absolute;
+            top: -150px;
+            left: -150px;
+            width: 700px;
+            height: 700px;
+            background: radial-gradient(circle, rgba(0, 242, 254, 0.1) 0%, transparent 70%);
+            z-index: 1;
+        }
+
+        .header {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 50px;
+            z-index: 10;
+        }
+
+        .logo {
+            font-weight: 900;
+            font-size: 64px;
+            letter-spacing: -2px;
+            text-align: center;
+        }
+
+        .logo span {
+            color: var(--primary);
+        }
+
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            z-index: 10;
+        }
+
+        .headline {
+            font-size: 82px;
+            font-weight: 800;
+            line-height: 1.1;
+            margin-bottom: 35px;
+            text-align: center;
+            letter-spacing: -1px;
+        }
+
+        .headline span {
+            display: block;
+            background: linear-gradient(90deg, #fff, var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subheadline {
+            font-size: 32px;
+            color: #ffffff; /* Improved from grey */
+            text-align: center;
+            max-width: 850px;
+            margin: 0 auto 50px auto;
+            line-height: 1.5;
+            font-weight: 400; /* Slightly heavier for legibility */
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .feature-box {
+            background: var(--card-glass);
+            border: 1px solid var(--border);
+            padding: 40px 30px;
+            border-radius: 40px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .feature-value {
+            font-size: 74px;
+            font-weight: 900;
+            color: white;
+            line-height: 1;
+        }
+
+        .feature-label {
+            font-size: 26px;
+            color: var(--accent);
+            text-transform: uppercase;
+            font-weight: 800; /* Heavier for legibility */
+            letter-spacing: 2px;
+        }
+
+        .highlight-bar {
+            background: linear-gradient(90deg, rgba(0, 242, 254, 0), rgba(0, 242, 254, 0.4), rgba(0, 242, 254, 0));
+            height: 1px;
+            width: 100%;
+            margin: 50px 0;
+        }
+
+        .benefits-list {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            flex-wrap: wrap;
+            margin-bottom: 50px;
+        }
+
+        .benefit-tag {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 12px 28px;
+            border-radius: 50px;
+            font-size: 22px;
+            color: #ffffff; /* Fixed from grey */
+            border: 1.5px solid var(--accent); /* More visible border */
+            white-space: nowrap;
+        }
+
+        .bottom-section {
+            z-index: 10;
+            margin-top: auto;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+
+        .free-test {
+            font-size: 38px;
+            font-weight: 800;
+            color: var(--accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            letter-spacing: 2px;
+        }
+
+        .free-test::before, .free-test::after {
+            content: '';
+            width: 80px;
+            height: 2px;
+            background: var(--accent);
+            opacity: 0.5;
+        }
+
+        /* Abstract Pattern background */
+        .pattern {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: radial-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            opacity: 0.4;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="pattern"></div>
+        
+        <div class="header">
+            <div class="logo">MEDGRAD<span>PLUS</span></div>
+        </div>
+
+        <div class="main-content">
+            <h1 class="headline">O FIM DO CONTEÚDO <span>GENÉRICO.</span></h1>
+            <p class="subheadline">Pare de estudar por materiais que não batem com a sua prova. Use a plataforma mapeada pelo plano de ensino da Uni9.</p>
+            
+            <div class="features-grid">
+                <div class="feature-box">
+                    <span class="feature-value">5.000+</span>
+                    <span class="feature-label">Questões</span>
+                </div>
+                <div class="feature-box">
+                    <span class="feature-value">4.000+</span>
+                    <span class="feature-label">Flashcards</span>
+                </div>
+            </div>
+
+            <div class="highlight-bar"></div>
+
+            <div class="benefits-list">
+                <span class="benefit-tag">Resumos Pré-Prova</span>
+                <span class="benefit-tag">Atlas Integrado</span>
+                <span class="benefit-tag">App Mobile</span>
+                <span class="benefit-tag">Questões Comentadas</span>
+            </div>
+        </div>
+
+        <div class="bottom-section">
+            <div class="free-test">MODO GRATUITO DISPONÍVEL</div>
+        </div>
+    </div>
+</body>
+</html>

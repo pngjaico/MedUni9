@@ -2,7 +2,7 @@
 
 O transplante de órgãos e a transfusão sanguínea dependem da compatibilidade imunológica para evitar a rejeição. Na prova, os temas centrais são os **Tipos de Rejeição** (Hiperaguda, Aguda e Crônica) e a **Doença do Enxerto Contra Hospedeiro (GVHD)**.
 
-Na prática, a gestão da imunossupressão e a realização de provas cruzadas (*crossmatch*) são fundamentais para a sobrevida do enxerto e do paciente.
+Na prática, a gestão da imunossupressão e a realização de provas cruzadas (**crossmatch**) são fundamentais para a sobrevida do enxerto e do paciente.
 
 ---
 
@@ -31,7 +31,7 @@ Na prática, a gestão da imunossupressão e a realização de provas cruzadas (
 
 Ocorre principalmente em Transplantes de Medula Óssea (TMO).
 - **O Mecanismo:** Ao contrário da rejeição comum, aqui são os **Linfócitos do Doador** que atacam os tecidos do receptor.
-- **Alvos Principais:** Pele (Rash), Fígado (Icterícia) e Intestino (Diarreia).
+- **Alvos Principais:** Pele (**Rash**), Fígado (**Icterícia**) e Intestino (**Diarreia**).
 - **Prevenção:** Imunossupressão e depleção de células T do enxerto.
 
 ---
@@ -46,8 +46,8 @@ Ocorre principalmente em Transplantes de Medula Óssea (TMO).
 | **O** | **Nenhum** | Anti-A e B | **Doadores Universais** |
 
 ### Sistema Rh e DHRN
-A **Doença Hemolítica do Recém-Nascido** ocorre quando uma mãe **Rh Negativo** (sensibilizada) tem um feto **Rh Positivo**. O anticorpo IgG anti-D atravessa a placenta e destrói as hemácias do feto.
-- **Prevenção:** Aplicação de Imunoglobulina Anti-D (RhoGAM) na mãe.
+A **Doença Hemolítica do Recém-Nascido** (DHRN) ocorre quando uma mãe **Rh Negativo** (sensibilizada) tem um feto **Rh Positivo**. O anticorpo **IgG anti-D** atravessa a placenta e destrói as hemácias do feto.
+- **Prevenção:** Aplicação de Imunoglobulina Anti-D (**RhoGAM**) na mãe.
 
 ---
 

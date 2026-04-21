@@ -1,0 +1,1073 @@
+[
+  {
+    "id": 2901,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Considere a fase de Relaxamento Isovolumétrico. Qual das alternativas abaixo descreve CORRETAMENTE o estado das valvas e a variação de pressão/volume nesse momento?",
+    "opcoes": [
+      "A) AVs abertas, Semilunares fechadas, volume aumentando.",
+      "B) Todas as valvas fechadas, pressão diminuindo, volume constante.",
+      "C) AVs fechadas, Semilunares abertas, pressão aumentando.",
+      "D) Todas as valvas abertas, enchimento rápido ocorrendo."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Definição de fases isovolumétricas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Isso descreve o início da diástole (enchimento), não a fase isovolumétrica.",
+      "B": "Correta: No relaxamento isovolumétrico, como o nome diz, o volume não muda e a pressão cai enquanto as valvas esperam a pressão do átrio superar a do ventrículo.",
+      "C": "Incorreta: Isso descreve a sístole (ejeção).",
+      "D": "Incorreta: Nunca ocorrem todas as valvas abertas simultaneamente em corações saudáveis."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2903,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um paciente diabético descompensado apresenta glicosúria (glicose na urina). Considerando a fisiologia do néfron, por que a glicose apareceu na urina, sabendo que em condições normais 100% é reabsorvida?",
+    "opcoes": [
+      "A) Porque o transportador SGLT2 no Túbulo Distal foi bloqueado.",
+      "B) Porque a glicemia excedeu o 'limiar renal', saturando os transportadores no Túbulo Contorcido Proximal (TPC).",
+      "C) Porque o Ducto Coletor tornou-se permeável à glicose devido ao excesso de ADH.",
+      "D) Porque a alça de Henle não consegue reabsorver solutos orgânicos em altas concentrações."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Mecânica de reabsorção de solutos no TPC.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: O SGLT2 localiza-se no TPC, não no distal.",
+      "B": "Correta: Quando a carga filtrada de glicose supera a capacidade de transporte (Vmax) dos transportadores no TPC, o excesso é excretado.",
+      "C": "Incorreta: O ADH regula a permeabilidade à água, não à glicose.",
+      "D": "Incorreta: A reabsorção de glicose é tarefa exclusiva e primordial do TPC."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2904,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Em um cenário de privação prolongada de água, o corpo aumenta a secreção de Hormônio Antidiurético (ADH). Como esse hormônio altera histologicamente e funcionalmente o Ducto Coletor para concentrar a urina?",
+    "opcoes": [
+      "A) Estimula a proliferação de células principais para aumentar a secreção de potássio.",
+      "B) Promove a translocação de vesículas contendo Aquaporinas-2 (AQP2) para a membrana apical das células.",
+      "C) Aumenta o número de microvilosidades (borda em escova) no ducto coletor.",
+      "D) Inibe as bombas de sódio-potássio na membrana basolateral, reduzindo o gasto de ATP."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Mecanismo de ação do ADH no sistema tubular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A secreção de potássio é regulada principalmente pela aldosterona.",
+      "B": "Correta: O ADH recruta as AQP2 para a membrana, permitindo a saída osmótica de água para o interstício medular.",
+      "C": "Incorreta: A borda em escova é característica do TPC, não do ducto coletor.",
+      "D": "Incorreta: A atividade das bombas é necessária para manter os gradientes osmóticos."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2905,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "A secreção de Renina é o passo inicial do sistema angiotensina-aldosterona. Onde exatamente no néfron estão localizadas as células que produzem renina e qual o seu estímulo principal?",
+    "opcoes": [
+      "A) Células da Mácula Densa; estímulo por aumento de pressão arterial.",
+      "B) Células Justaglomerulares na arteríola aferente; estímulo por queda na pressão de perfusão renal.",
+      "C) Células claras do Ducto Coletor; estímulo por excesso de sódio.",
+      "D) Podócitos; estímulo por aumento da taxa de filtração glomerular."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Anatomia e função do Aparelho Justaglomerular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A mácula densa monitora NaCl, não produz renina diretamente, mas sinaliza para as JGs.",
+      "B": "Correta: As células JG são mecanorreceptores que secretam renina quando a pressão na arteríola aferente cai.",
+      "C": "Incorreta: Localização e função totalmente equivocadas.",
+      "D": "Incorreta: Podócitos são células de filtração, não endócrinas."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2906,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Ao analisar uma lâmina de córtex renal sob microscopia óptica, um patologista diferencia o Túbulo Contorcido Proximal (TPC) do Túbulo Contorcido Distal (TPD) pelo seguinte achado histológico no TPC:",
+    "opcoes": [
+      "A) Luz tubular ampla e bem delimitada, com núcleos proeminentes.",
+      "B) Presença de borda em escova e luz de aspecto 'sujo' ou 'estrelado'.",
+      "C) Citoplasma pálido e limites celulares muito nítidos.",
+      "D) Ausência total de mitocôndrias na região basal."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Diagnóstico histológico diferencial dos túbulos renais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Isso descreve melhor o TPD ou o duto coletor.",
+      "B": "Correta: O TPC possui microvilosidades abundantes para reabsorção, o que confere esse aspecto característico à luz do túbulo.",
+      "C": "Incorreta: Os limites celulares no néfron distal costumam ser mais visíveis que no proximal.",
+      "D": "Incorreta: O TPC é metabolicamente muito ativo e repleto de mitocôndrias."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2908,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Uma mulher de 42 anos queixa-se de cansaço, ganho de peso e constipação. Seus exames laboratoriais revelam TSH elevado e T4 livre baixo. Qual o mecanismo de feedback que explica o TSH elevado nesta paciente?",
+    "opcoes": [
+      "A) A baixa concentração de T4 livre estimula a adenohipófise a secretar mais TSH para tentar compensar a falha na tireoide.",
+      "B) O excesso de T3 circulante sensibiliza os tireotrofos a produzirem mais TSH.",
+      "C) A tireoide lesionada passa a secretar TSH de forma ectópica.",
+      "D) O hipotálamo deixa de produzir TRH, causando um efeito rebote de TSH."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Regulação por feedback negativo do eixo tireoidiano.",
+    "explicacoes_opcoes": {
+      "A": "Correta: No hipotireoidismo primário, a falta de hormônios tireoidianos retira a inibição sobre a hipófise, que aumenta a produção de TSH.",
+      "B": "Incorreta: Se houvesse excesso de T3, o TSH estaria suprimido (baixo).",
+      "C": "Incorreta: A tireoide não produz TSH; o TSH é um hormônio hipofisário.",
+      "D": "Incorreta: No hipotireoidismo, o hipotálamo aumenta a secreção de TRH."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2910,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um paciente com hipercalcemia persistente e cálculos renais de repetição é diagnosticado com um adenoma de paratireoide. Qual o efeito direto do Paratormônio (PTH) no tecido ósseo que contribui para a elevação do cálcio plasmático?",
+    "opcoes": [
+      "A) Estimula diretamente os osteoblastos a depositarem mais matriz óssea.",
+      "B) Ativa indiretamente os osteoclastos para promover a reabsorção da matriz mineralizada.",
+      "C) Inibe a absorção de cálcio no trato gastrointestinal.",
+      "D) Promove a diferenciação de condrócitos em osteócitos nas placas epifisárias."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Mecanismo de ação do PTH na homeostase do cálcio.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Isso reduziria o cálcio no sangue (função da calcitonina ou formação óssea normal).",
+      "B": "Correta: O PTH induz a liberação de cálcio do osso para o sangue através da ativação da reabsorção osteoclástica.",
+      "C": "Incorreta: O PTH aumenta a absorção intestinal via ativação da vitamina D.",
+      "D": "Incorreta: O PTH não regula a condrogênese nesse contexto clínico."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2911,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Nas Ilhotas de Langerhans do pâncreas, diferentes tipos celulares secretam hormônios com ações antagônicas no metabolismo da glicose. Em um paciente portador de Diabetes Mellitus Tipo 1, qual população celular é alvo de destruição autoimune e qual hormônio deixa de ser produzido?",
+    "opcoes": [
+      "A) Células Alfa; Glucagon.",
+      "B) Células Beta; Insulina.",
+      "C) Células Delta; Somatostatina.",
+      "D) Células PP; Polipeptídeo pancreático."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Histologia e patofisiologia do pâncreas endócrino.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: As células alfa costumam estar preservadas e podem até ter secreção inadequada no DM.",
+      "B": "Correta: No DM1, há uma destruição seletiva das células beta, levando à deficiência absoluta de insulina.",
+      "C": "Incorreta: Células delta regulam as demais, mas não são o alvo primário no DM1.",
+      "D": "Incorreta: Células PP regulam secreção exócrina e motilidade."
+    },
+    "aula_id": "sus_a1",
+    "essencial": false
+  },
+  {
+    "id": 2912,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "A farmacocinética estuda o caminho do fármaco no organismo. Qual dos seguintes parâmetros descreve a fração de fármaco administrado que atinge a circulação sistêmica de forma inalterada?",
+    "opcoes": [
+      "A) Meia-vida plasmática.",
+      "B) Volume de distribuição.",
+      "C) Biodisponibilidade.",
+      "D) Depuração (Clearance)."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Definição de parâmetros farmacocinéticos básicos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Meia-vida é o tempo para a concentração cair à metade.",
+      "B": "Incorreta: Volume de distribuição relaciona a quantidade de fármaco no corpo com sua concentração plasmática.",
+      "C": "Correta: Biodisponibilidade é a porcentagem da dose que chega ao sangue; essencial para comparar vias de administração.",
+      "D": "Incorreta: Depuração é a capacidade do organismo de eliminar o fármaco."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2913,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um fármaco administrado por via oral apresenta uma biodisponibilidade significativamente menor do que quando administrado por via intravenosa. Qual o principal fenômeno fisiológico responsável por essa diferença?",
+    "opcoes": [
+      "A) Filtração glomerular intensa no rim.",
+      "B) Efeito de primeira passgem pelo fígado.",
+      "C) Ligação irreversível à albumina plasmática.",
+      "D) Degradação térmica no estômago."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Mecanismos que influenciam a absorção nas diferentes vias.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A filtração glomerular ocorre após o fármaco atingir a circulação sistêmica.",
+      "B": "Correta: Após absorção gastrointestinal, o sangue passa pelo sistema porta-hepático, onde o fígado pode metabolizar o fármaco antes que este circule pelo resto do corpo.",
+      "C": "Incorreta: A ligação a proteínas retarda a distribuição, mas não impede o fármaco de atingir a circulação inicialmente.",
+      "D": "Incorreta: Embora o pH ácido possa degradar alguns fármacos, o efeito de primeira passagem é o fator cinético clássico para essa comparação."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2914,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Considere um fármaco hipotético com alta taxa de ligação às proteínas plasmáticas (98%). Se o paciente ingerir simultaneamente outra droga com maior afinidade pela albumina, deslocando o primeiro fármaco, qual a consequência farmacocinética imediata?",
+    "opcoes": [
+      "A) Aumento da fração livre do primeiro fármaco, elevando o risco de toxicidade.",
+      "B) Redução da meia-vida do fármaco, pois a ligação proteica protege contra a excreção.",
+      "C) Queda na biodisponibilidade por competição na absorção.",
+      "D) Inibição das enzimas do citocromo P450."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Dinâmica da distribuição e fração livre de fármacos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Somente a forma livre é ativa. O deslocamento da albumina aumenta subitamente a concentração de fármaco capaz de atuar nos tecidos.",
+      "B": "Incorreta: Embora a forma livre seja eliminada mais rápido, a preocupação clínica imediata é o pico de efeito/toxicidade.",
+      "C": "Incorreta: A competição ocorre no sangue (distribuição), não necessariamente na absorção.",
+      "D": "Incorreta: Deslocamento de proteína plasmática é um tipo de interação, inibição enzimática é outro completamente diferente."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2915,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "O metabolismo de fase I prepara a molécula do fármaco para a excreção, geralmente tornando-a mais polar. Qual o principal grupo de enzimas envolvido nestas reações e onde se localizam predominantemente?",
+    "opcoes": [
+      "A) Desidrogenase lática; Mitocôndrias cardíacas.",
+      "B) Citocromo P450 (CYP); Retículo endoplasmático liso dos hepatócitos.",
+      "C) Acetilcolinesterase; Fenda sináptica neuromuscular.",
+      "D) Amilase; Lúmen do intestino delgado."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Localização e função do complexo de biotransformação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Enzima de diagnóstico de lesão tecidual, não metabolismo de fármacos.",
+      "B": "Correta: O complexo CYP450 no fígado é o motor central do metabolismo xenobiótico.",
+      "C": "Incorreta: Enzima de sinalização nervosa.",
+      "D": "Incorreta: Enzima digestiva."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2916,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "A eliminação de um fármaco de 'ordem zero' é caracterizada por:",
+    "opcoes": [
+      "A) Eliminação de uma porcentagem constante do fármaco por unidade de tempo.",
+      "B) Eliminação de uma quantidade fixa de fármaco por unidade de tempo, independente da concentração plasmática.",
+      "C) Eliminação que depende exclusivamente do fluxo sanguíneo renal.",
+      "D) O fármaco não possui meia-vida definida."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Cinética de eliminação (Ordem Zero vs Primeira Ordem).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Isso descreve a cinética de primeira ordem (mais comum).",
+      "B": "Correta: Ocorre quando as vias de eliminação estão saturadas (ex: Álcool em doses altas).",
+      "C": "Incorreta: Isso descreve fármacos cuja eliminação depende do fluxo (limitação por fluxo).",
+      "D": "Incorreta: Na ordem zero, a meia-vida não é constante, mas o fármaco ainda é eliminado."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2917,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um estudante de medicina observa o cirurgião realizando a escovação das mãos com clorexidina degermante. Posteriormente, o cirurgião veste o capote e luvas estéreis. Quais os termos técnicos corretos para o processo realizado na pele do cirurgião e para a manutenção do ambiente livre de germes, respectivamente?",
+    "opcoes": [
+      "A) Desinfecção e Antissepsia.",
+      "B) Antissepsia e Assepsia.",
+      "C) Degermação e Esterilização.",
+      "D) Sanitização e Descontaminação."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Diferenciação entre processos de controle de microrganismos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Desinfecção aplica-se a objetos inanimados.",
+      "B": "Correta: Antissepsia é a redução de germes em tecidos vivos. Assepsia é o conjunto de medidas para manter o meio livre de patógenos (ex: paramentação).",
+      "C": "Incorreta: Degermação é apenas a parte mecânica da antissepsia; esterilização é a morte total de germes em materiais.",
+      "D": "Incorreta: Termos usados mais comumente na indústria alimentícia ou limpeza geral."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2918,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Durante o preparo do campo operatório, a equipe decide usar clorexidina. Qual a principal vantagem da clorexidina sobre os compostos iodados (como o PVPI) no contexto cirúrgico?",
+    "opcoes": [
+      "A) Ação imediata muito mais rápida que o iodo.",
+      "B) Excelente efeito residual (ação prolongada após aplicação).",
+      "C) Capacidade de esterilizar a pele do paciente removendo esporos.",
+      "D) Baixo custo e ausência de necessidade de fricção."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Propriedades farmacológicas dos principais antissépticos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: O álcool é o agente de ação mais rápida.",
+      "B": "Correta: A clorexidina tem alta afinidade pela queratina, mantendo sua ação por várias horas (6h ou mais).",
+      "C": "Incorreta: A pele nunca é esterilizada, apenas desinfetada/antisseptizada.",
+      "D": "Incorreta: A fricção é necessária e o PVPI costuma ser mais barato."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2919,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "A autoclave é o método de esterilização mais utilizado no ambiente hospitalar. Se após um ciclo de esterilização, o indicador biológico (contendo esporos de Geobacillus stearothermophilus) apresentar crescimento, o que isso indica e qual a conduta adequada?",
+    "opcoes": [
+      "A) Indica que a pressão foi excessiva; os materiais podem ser usados normalmente.",
+      "B) Indica falha no processo de esterilização; toda a carga deve ser considerada não estéril.",
+      "C) Indica que o tempo de secagem foi insuficiente; pode-se reautoclavar em ciclo rápido.",
+      "D) É um achado normal em autoclaves a vácuo; indica apenas a presença de ar residual."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 1,
+    "explicacao_geral": "Monitoramento e eficácia da esterilização.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: O indicador biológico é o teste definitivo de morte microbiana.",
+      "B": "Correta: O crescimento do indicador prova que as condições necessárias para matar formas resistentes (esporos) não foram atingidas.",
+      "C": "Incorreta: A falha é na fase de morte, não apenas na secagem. Exige reprocessamento total.",
+      "D": "Incorreta: O teste deve ser sempre negativo para validar a estanqueidade e eficácia."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2920,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "O álcool 70% é amplamente utilizado em clínicas e hospitais. Por que essa concentração é considerada superior ao álcool 96% ou 100% para fins de antissepsia?",
+    "opcoes": [
+      "A) O álcool 70% é inflamável, o que potencializa a morte térmica dos germes.",
+      "B) A presença de água no álcool 70% retarda a evaporação e facilita a penetração no microrganismo, permitindo a desnaturação das proteínas.",
+      "C) O álcool puro é muito viscoso e não consegue espalhar-se uniformemente na pele.",
+      "D) O álcool 70% possui propriedades detergentes que o álcool 100% não possui."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 1,
+    "explicacao_geral": "Propriedades físico-químicas do álcool como agente microbicida.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A inflamabilidade é um risco, não uma vantagem terapêutica.",
+      "B": "Correta: A água evita a coagulação rápida das proteínas da parede celular, permitindo que o álcool entre na célula e a destrua por dentro.",
+      "C": "Incorreta: A viscosidade de ambos é baixa.",
+      "D": "Incorreta: Álcool não é detergente (tensoativo)."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2921,
+    "materia": "sus",
+    "tema": "sus_a1",
+    "enunciado": "Um paciente será submetido a uma laparotomia exploradora de urgência. Ele refere alergia grave a iodo e frutos do mar. Qual a melhor escolha de antisséptico para a preparação do campo operatório deste paciente?",
+    "opcoes": [
+      "A) PVPI aquoso, pois a baixa concentração de iodo livre minimiza a reação.",
+      "B) Clorexidina alcoólica.",
+      "C) Álcool 92,8% apenas.",
+      "D) Água oxigenada (Peróxido de Hidrogênio)."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 1,
+    "explicacao_geral": "Escolha de antissépticos baseada no histórico do paciente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Contraindicado formalmente pelo risco de anafilaxia ao iodo.",
+      "B": "Correta: A clorexidina é a alternativa padrão ouro, segura e eficaz em pacientes alérgicos ao iodo.",
+      "C": "Incorreta: O álcool isoladamente tem baixo efeito residual e não é o ideal para grandes incisões.",
+      "D": "Incorreta: Fraco poder antisséptico para cirurgias de grande porte; irritante para tecidos."
+    },
+    "aula_id": "sus_a1"
+  },
+  {
+    "id": 2929,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Um paciente que fuma 2 maços de cigarro por dia apresenta um determinante de saúde classificado como \"estilo de vida\". No modelo de DSS, este é considerado um determinante:",
+    "opcoes": [
+      "A) Estrutural (distal).",
+      "B) Inalterável.",
+      "C) Próximo (intermediário).",
+      "D) Programático."
+    ],
+    "explicacao_geral": "Determinantes próximos são comportamentos individuais e condições imediatas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Distal seria a legislação do tabaco ou a economia do país.",
+      "B": "Incorreta: O fumo é um hábito passível de mudança.",
+      "C": "Correta: Estilos de vida são determinantes próximos/individuais.",
+      "D": "Incorreta: Programático refere-se à organização dos serviços de saúde."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3004,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Qual termo de relação descreve corretamente uma estrutura que se encontra mais próxima do plano mediano do que outra estrutura de referência?",
+    "opcoes": [
+      "A) Lateral.",
+      "B) Intermédio.",
+      "C) Medial.",
+      "D) Inferior."
+    ],
+    "explicacao_geral": "A terminologia de lateralidade avalia a distância das estruturas em relação à linha média do corpo (plano mediano).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Lateral indica maior afastamento do plano mediano.",
+      "B": "[INCORRETA] Intermédio descreve algo entre uma estrutura medial e uma lateral.",
+      "C": "[CORRETA] **Medial** é o termo técnico para indicar que algo está mais perto da linha média do corpo.",
+      "D": "[INCORRETA] Inferior (ou caudal) refere-se à direção dos pés, no eixo vertical."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3007,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O polegar, em posição anatômica, encontra-se em qual posição em relação aos demais dedos da mão?",
+    "opcoes": [
+      "A) Medial.",
+      "B) Proximal.",
+      "C) Distal.",
+      "D) Lateral."
+    ],
+    "explicacao_geral": "Lembre-se: em posição anatômica, as palmas estão para frente. Nesse arranjo, o polegar é o dedo mais afastado da linha média.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O dedo mínimo é o mais medial.",
+      "B": "[INCORRETA] Proximal indicaria que ele está mais perto do punho que os outros, o que não define sua lateralidade.",
+      "C": "[INCORRETA] Distal indicaria que ele é o mais 'longe' do punho, mas os outros dedos terminam em níveis similares.",
+      "D": "[CORRETA] O polegar é a estrutura mais **lateral** da mão quando em posição anatômica (supinação)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3018,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Os ossos são classificados de acordo com sua forma. Um osso que se desenvolve dentro de tendões, como a patela, é classificado como:",
+    "opcoes": [
+      "A) Osso Longo.",
+      "B) Osso Sesamoide.",
+      "C) Osso Pneumático.",
+      "D) Osso Irregular."
+    ],
+    "explicacao_geral": "Ossos **sesamoides** protegem os tendões contra o desgaste excessivo e alteram o ângulo de tração muscular.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ossos longos têm o comprimento predominando sobre largura e espessura.",
+      "B": "[CORRETA] A patela é o maior **osso sesamoide** do corpo, situando-se no tendão do quadríceps.",
+      "C": "[INCORRETA] Ossos pneumáticos possuem cavidades cheias de ar (seios), como o frontal.",
+      "D": "[INCORRETA] Ossos irregulares têm formas complexas, como as vértebras."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3024,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual função esquelética é exemplificada pela proteção do coração e pulmões pela caixa torácica?",
+    "opcoes": [
+      "A) Proteção de órgãos vitais.",
+      "B) Hematopoiese.",
+      "C) Alavanca para movimentação.",
+      "D) Armazenamento de minerais."
+    ],
+    "explicacao_geral": "Dentre as funções mecânicas do osso, a proteção de estruturas moles e nobres é uma das mais importantes biologicamente.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **proteção** é a função chave de gradis ósseos como o tórax e o crânio.",
+      "B": "[INCORRETA] Hematopoiese é a produção de sangue.",
+      "C": "[INCORRETA] Alavanca refere-se à locomoção via articulações e músculos.",
+      "D": "[INCORRETA] Armazenamento refere-se ao reservatório de cálcio e fósforo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3028,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Dentre os componentes da Matriz Extracelular, as Glicosaminoglicanas (GAGs) e Proteoglicanos atraem grandes quantidades de água. Qual a principal consequência funcional dessa hidratação para o tecido?",
+    "opcoes": [
+      "A) Permitir a difusão de nutrientes e resistir à forças de compressão.",
+      "B) Aumentar a rigidez do tecido para suportar tração extrema.",
+      "C) Impedir a migração de células de defesa para o local.",
+      "D) Armazenar minerais como cálcio e fosfato."
+    ],
+    "explicacao_geral": "A **substância fundamental** altamente hidratada cria um meio fluido ou gelatinoso que facilita o transporte molecular e atua como um 'amortecedor' biológico.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A água retida pelas GAGs facilita a **difusão** e ajuda o tecido a absorver pressões (resiliência à compressão).",
+      "B": "[INCORRETA] Fibras colágenas é que suportam a tração, não a hidratação da matriz.",
+      "C": "[INCORRETA] Pelo contrário, a matriz facilita a movimentação amoeboide de macrófagos e leucócitos.",
+      "D": "[INCORRETA] O armazenamento mineral é função do tecido ósseo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3030,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "O tecido conjuntivo adiposo é um tipo especializado de conjuntivo. Qual é a principal característica que diferencia o 'Tecido Adiposo Multilocular' (Marrom) do 'Unilocular' (Branco)?",
+    "opcoes": [
+      "A) O marrom serve exclusivamente para estoque de energia em adultos.",
+      "B) O branco é muito mais rico em mitocôndrias.",
+      "C) O marrom é especializado na termogênese (produção de calor).",
+      "D) O branco possui núcleos centrais bem definidos."
+    ],
+    "explicacao_geral": "O tecido adiposo branco foca em reserva de energia, enquanto o **marrom** é crucial para bebês e recém-nascidos manterem a temperatura corporal.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O marrom é escasso em adultos e serve para calor, não estoque.",
+      "B": "[INCORRETA] O tecido marrom é que possui abundância de mitocôndrias (que dão a cor escura).",
+      "C": "[CORRETA] O **tecido adiposo multilocular** produz calor através do desacoplamento da cadeia respiratória.",
+      "D": "[INCORRETA] Ambos possuem núcleos geralmente excêntricos ou achatados contra a membrana."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3040,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Canais transversais ou oblíquos que atravessam as lamelas ósseas, conectando os canais de Havers entre si e com a cavidade medular, são chamados de:",
+    "opcoes": [
+      "A) Canais de Havers.",
+      "B) Canalículos.",
+      "C) Lacunas.",
+      "D) Canais de Volkmann."
+    ],
+    "explicacao_geral": "A vascularização do osso compacto é uma rede integrada. Os canais longitudinais são os de Havers; os **transversais** são os de Volkmann.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Canais de Havers são longitudinais e centrais ao osteon.",
+      "B": "[INCORRETA] Canalículos conectam osteócitos vizinhos para troca de nutrientes.",
+      "C": "[INCORRETA] Lacunas são os espaços onde residem os osteócitos.",
+      "D": "[CORRETA] Os **canais de Volkmann** garantem a comunicação vascular transversal no osso compacto."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3013,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A neuroglia (ou células da glia) desempenha papéis de suporte fundamentais no tecido nervoso. Qual dessas células é responsável pela formação da bainha de mielina no Sistema Nervoso Central (SNC)?",
+    "opcoes": [
+      "A) Células de Schwann.",
+      "B) Microglia.",
+      "C) Oligodendrócitos.",
+      "D) Astrócitos."
+    ],
+    "explicacao_geral": "A mielinização é realizada por células diferentes dependendo da localização: **Oligodendrócitos** no SNC e Células de Schwann no SNP.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] As células de Schwann mielinizam o Sistema Nervoso Periférico (SNP).",
+      "B": "[INCORRETA] A microglia atua como células de defesa (macrófagos) do cérebro.",
+      "C": "[CORRETA] O **oligodendrócito** é a célula glial que envolve múltiplos axônios no SNC para formar a mielina.",
+      "D": "[INCORRETA] Astrócitos fornecem suporte metabólico e formam a barreira hematoencefálica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3015,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Sobre o tecido conjuntivo propriamente dito, qual característica diferencia o tipo 'Frouxo' do tipo 'Denso'?",
+    "opcoes": [
+      "A) O frouxo possui mais fibras colágenas que o denso.",
+      "B) O denso é sempre avascular.",
+      "C) O frouxo não contém células migratórias como macrófagos.",
+      "D) O denso possui predominância de fibras sobre a substância fundamental."
+    ],
+    "explicacao_geral": "A classificação baseia-se na proporção entre células, fibras e substância fundamental. O **conjuntivo denso** é rico em fibras (colágeno) e pobre em células e matriz amorfa.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É o oposto: o denso é que possui mais fibras.",
+      "B": "[INCORRETA] O tecido conjuntivo é tipicamente vascularizado.",
+      "C": "[INCORRETA] O frouxo é o principal local de atuação das células de defesa.",
+      "D": "[CORRETA] A alta densidade de **fibras colágenas** define o conjuntivo denso."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3044,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Ao examinar um fêmur, nota-se uma grande projeção óssea posterolateral na extremidade proximal, que serve como importante local de fixação para os músculos glúteos. Trata-se do:",
+    "opcoes": [
+      "A) Trocânter Maior.",
+      "B) Trocânter Menor.",
+      "C) Epicôndilo Lateral.",
+      "D) Maléolo Medial."
+    ],
+    "explicacao_geral": "O fêmur possui projeções proximais (trocânteres) e distais (côndilos). O trocânter maior é palpável na lateral do quadril.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **trocânter maior** é o acidente lateral marcante do fêmur proximal.",
+      "B": "[INCORRETA] O trocânter menor é medial e posterior, servindo para fixação do iliopsoas.",
+      "C": "[INCORRETA] Epicôndilos localizam-se na extremidade distal do fêmur (joelho).",
+      "D": "[INCORRETA] Maléolos são acidentes da tíbia e fíbula (tornozelo)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3048,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual dessas estruturas é uma característica marcante e diagnóstica das vértebras torácicas?",
+    "opcoes": [
+      "A) Forames transversos grandes.",
+      "B) Processo espinhoso curto e bífido.",
+      "C) Corpo vertebral em formato de rim.",
+      "D) Fóveas costais para articulação com as costelas."
+    ],
+    "explicacao_geral": "Vértebras torácicas são as únicas que se conectam ao gradil costal.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Esta é característica das cervicais.",
+      "B": "[INCORRETA] Esta também é típica das cervicais.",
+      "C": "[INCORRETA] O corpo em formato de rim é típico das vértebras lombares.",
+      "D": "[CORRETA] As **fóveas costais** (no corpo e nos processos transversos) são o 'RG' das vértebras torácicas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3061,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A camada de tecido conjuntivo denso que envolve a maioria das cartilagens (exceto as articulares) e fornece as células precursoras para o crescimento é chamada de:",
+    "opcoes": [
+      "A) Periósteo.",
+      "B) Endomísio.",
+      "C) Pericôndrio.",
+      "D) Cápsula Articular."
+    ],
+    "explicacao_geral": "O **pericôndrio** é a 'capa' nutridora e germinativa da cartilagem.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Periósteo envolve os ossos.",
+      "B": "[INCORRETA] Endomísio envolve fibras musculares.",
+      "C": "[CORRETA] O **pericôndrio** é essencial para a nutrição e crescimento por aposição da cartilagem.",
+      "D": "[INCORRETA] A cápsula articular envolve a junta, mas a cartilagem articular em si não tem pericôndrio."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3062,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O crescimento da cartilagem pode ocorrer de duas formas. Como é chamado o crescimento que acontece a partir da divisão mitótica dos condrócitos já existentes dentro das lacunas, formando grupos isógenos?",
+    "opcoes": [
+      "A) Crescimento Intersticial.",
+      "B) Crescimento por Aposição.",
+      "C) Ossificação Endocondral.",
+      "D) Metaplasia."
+    ],
+    "explicacao_geral": "O crescimento **intersticial** ocorre de 'dentro para fora', comum nas fases iniciais do desenvolvimento e nas placas epifisárias.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **crescimento intersticial** envolve a mitose celular dentro da matriz já formada.",
+      "B": "[INCORRETA] O crescimento por aposição ocorre na periferia, a partir do pericôndrio.",
+      "C": "[INCORRETA] Ossificação endocondral é a substituição de cartilagem por osso.",
+      "D": "[INCORRETA] Metaplasia é a troca de um tecido adulto por outro."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3070,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O 'Manguito Rotador' é um grupo de músculos e tendões essencial para a estabilidade de qual articulação?",
+    "opcoes": [
+      "A) Glenoumeral (Ombro).",
+      "B) Coxofemoral (Quadril).",
+      "C) Fêmuro-tibial (Joelho).",
+      "D) Úmero-ulnar (Cotovelo)."
+    ],
+    "explicacao_geral": "Devido à cavidade glenoide rasa, o ombro depende de um suporte dinâmico muscular.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **manguito rotador** (supraespinal, infraespinal, redondo menor e subescapular) mantém a cabeça do úmero centrada na glenoide.",
+      "B": "[INCORRETA] O quadril tem estabilidade óssea e ligamentar predominante.",
+      "C": "[INCORRETA] O joelho depende de cruzados e colaterais.",
+      "D": "[INCORRETA] O cotovelo é uma articulação estável em dobradiça."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3072,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A 'Gomfose' é um tipo especial de articulação fibrosa encontrada em qual local do corpo?",
+    "opcoes": [
+      "A) Entre os ossos do quadril.",
+      "B) Entre as raízes dos dentes e os alvéolos dentários.",
+      "C) Entre as costelas e o esterno.",
+      "D) Entre as vértebras cervicais."
+    ],
+    "explicacao_geral": "A gonfose é a ancoragem do dente na mandíbula ou maxila.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Quadril possui sínfises e articulações sinoviais (sacroilíaca).",
+      "B": "[CORRETA] A **gonfose** é a articulação 'em pino' dos dentes.",
+      "C": "[INCORRETA] Entre costela e esterno temos sincondroses e sinoviais.",
+      "D": "[INCORRETA] Vértebras possuem sínfises e sinoviais planas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3074,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A arquitetura das fibras musculares dita a vantagem mecânica do músculo. Qual formato muscular, caracterizado por fibras que se inserem obliquamente no tendão (como as barbas de uma pena), gera maior força bruta?",
+    "opcoes": [
+      "A) Fusiforme.",
+      "B) Paralelo.",
+      "C) Circular.",
+      "D) Pennado (ou Penatiforme)."
+    ],
+    "explicacao_geral": "Músculos pennados possuem mais fibras por área transversal, priorizando o torque em detrimento da amplitude.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Músculos fusiformes (ex: bíceps) priorizam velocidade e amplitude.",
+      "B": "[INCORRETA] Músculos paralelos têm fibras longas para grande encurtamento.",
+      "C": "[INCORRETA] Músculos circulares (ex: orbicular) funcionam como esfíncteres.",
+      "D": "[CORRETA] Músculos **pennados** são os 'geradores de força' por excelência do corpo (ex: reto femoral)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3078,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "As fixações musculares são classificadas como 'Origem' e 'Inserção'. Em um movimento típico de um membro, qual dessas fixações é considerada aquela que permanece fixa (ponto estável)?",
+    "opcoes": [
+      "A) Inserção.",
+      "B) Aponeurose.",
+      "C) Ventre muscular.",
+      "D) Origem."
+    ],
+    "explicacao_geral": "A terminologia facilita a descrição do movimento, embora em cadeias fechadas ambos os pontos possam se mover.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A inserção é a fixação móvel que é tracionada em direção à origem.",
+      "B": "[INCORRETA] Aponeurose é uma forma de tendão largo.",
+      "C": "[INCORRETA] Ventre muscular é a parte contrátil carnosa do músculo.",
+      "D": "[CORRETA] A **origem** é a base estável do músculo (geralmente mais proximal)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3054,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Em algumas articulações sinoviais, existem estruturas de fibrocartilagem que ajudam a adaptar superfícies ósseas incongruentes e amortecer impactos. Como se chamam essas estruturas no joelho?",
+    "opcoes": [
+      "A) Ligamentos Cruzados.",
+      "B) Meniscos.",
+      "C) Labrum (ou Lábio).",
+      "D) Bursas."
+    ],
+    "explicacao_geral": "Os meniscos aumentam a área de contato e a estabilidade da articulação fêmuro-tibial.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ligamentos cruzados conectam os ossos, mas não adaptam as superfícies articulares.",
+      "B": "[CORRETA] Os **meniscos** são as cunhas de fibrocartilagem clássicas do joelho.",
+      "C": "[INCORRETA] O labrum é análogo ao menisco, mas típico do ombro e quadril.",
+      "D": "[INCORRETA] Bursas são bolsas com líquido que reduzem o atrito de tendões, não adaptam ossos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3055,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual alternativa descreve corretamente um exemplo de articulação do tipo Sindesmose?",
+    "opcoes": [
+      "A) Membrana interóssea entre o rádio e a ulna.",
+      "B) Articulação entre os dentes e os alvéolos (Gonfose).",
+      "C) Disco intervertebral.",
+      "D) Articulação entre as falanges dos dedos."
+    ],
+    "explicacao_geral": "Sindesmoses são articulações fibrosas onde os ossos são unidos por uma maior quantidade de tecido conjuntivo (ligamento ou membrana).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **membrana interóssea** é o exemplo clássico de sindesmose.",
+      "B": "[INCORRETA] Gonfose é uma articulação fibrosa especial para os dentes.",
+      "C": "[INCORRETA] Disco intervertebral é uma sínfise (cartilaginosa).",
+      "D": "[INCORRETA] Articulações entre falanges são sinoviais tipo gínglimo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3082,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "No músculo estriado esquelético, o conjunto formado por um túbulo T central ladeado por duas cisternas terminais do retículo sarcoplasmático é chamado de:",
+    "opcoes": [
+      "A) Díade.",
+      "B) Tríade.",
+      "C) Junção comunicante.",
+      "D) Placa Motora."
+    ],
+    "explicacao_geral": "Essa organização permite que o potencial de ação da membrana chegue rapidamente ao local de estoque de cálcio.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Díades (um túbulo T e uma cisterna) são típicas do músculo cardíaco.",
+      "B": "[CORRETA] A **tríade** é a estrutura clássica de acoplamento excitação-contração no músculo esquelético.",
+      "C": "[INCORRETA] Junções comunicantes permitem troca de íons entre células, não armazenamento de cálcio.",
+      "D": "[INCORRETA] Placa motora é o local de contato do neurônio com o músculo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3088,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "O músculo liso é encontrado na parede das vísceras e vasos. Diferente do esquelético e cardíaco, ele não possui estriações transversais visíveis. Por que isso ocorre?",
+    "opcoes": [
+      "A) Porque ele não possui actina nem miosina.",
+      "B) Porque ele não utiliza cálcio para contração.",
+      "C) Porque ele não possui mitocôndrias.",
+      "D) Porque os seus miofilamentos não estão organizados em sarcômeros repetitivos paralelos."
+    ],
+    "explicacao_geral": "O músculo liso contrai por um mecanismo de 'rede' ancorada em corpos densos, o que dá um aspecto liso à microscopia.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Ele possui ambas, mas em arranjo diferente.",
+      "B": "[INCORRETA] Ele utiliza cálcio, mas via calmodulina (não troponina).",
+      "C": "[INCORRETA] Todas as células musculares são ricas em energia.",
+      "D": "[CORRETA] A **ausência de sarcômeros** organizados impede a visualização de estrias."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3093,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "O ATP desempenha três papéis fundamentais na contração. Qual deles é responsável pelo 'golpe de força' (deslizamento efetivo)?",
+    "opcoes": [
+      "A) A própria ligação do ATP à miosina.",
+      "B) A liberação do ADP e Fosfato inorgânico (Pi) da cabeça da miosina.",
+      "C) O bombeamento de sódio para fora da célula.",
+      "D) A síntese de acetilcolina."
+    ],
+    "explicacao_geral": "A energia é armazenada na miosina na hidrólise, mas o movimento ocorre na dissociação dos produtos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A ligação do ATP causa o **desligamento** da miosina.",
+      "B": "[CORRETA] A saída do **ADP + Pi** gera a alteração conformacional que traciona a actina.",
+      "C": "[INCORRETA] Bomba de Sódio/Potássio mantém o potencial, mas não gera o golpe de força.",
+      "D": "[INCORRETA] ACh é sintetizada no neurônio, não no sarcômero."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3096,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 0,
+    "enunciado": "O 'encurtamento' do músculo durante a contração isotônica é melhor explicado pela Teoria do Deslizamento dos Filamentos. O que acontece com os filamentos proteicos individuais nessa teoria?",
+    "opcoes": [
+      "A) Eles sofrem sobreposição mas NÃO mudam seu próprio comprimento individual.",
+      "B) Eles encolhem como molas sob pressão química.",
+      "C) Eles derretem parcialmente para se fundirem ao osso.",
+      "D) Eles dobram-se ao meio para reduzir o espaço."
+    ],
+    "explicacao_geral": "As proteínas actina e miosina são polímeros rígidos; o encurtamento do sarcômero vem do aumento da área de contato entre elas.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O segredo da contração é o **deslizamento** e sobreposição, sem alteração física do tamanho da molécula de miosina ou actina.",
+      "B": "[INCORRETA] Os filamentos não são elásticos como molas nesse nível de organização.",
+      "C": "[INCORRETA] Não há fusão proteica com o osso.",
+      "D": "[INCORRETA] Eles permanecem retilíneos, deslizando um sobre o outro."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3100,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Qual músculo do tronco, com origem nas vértebras torácicas e lombares e inserção no úmero, é apelidado de 'músculo do nadador' por realizar a adução, extensão e rotação medial do braço?",
+    "opcoes": [
+      "A) Trapézio.",
+      "B) Latíssimo do Dorso (Grande Dorsal).",
+      "C) Reto Abdominal.",
+      "D) Erretor da Espinha."
+    ],
+    "explicacao_geral": "Este músculo largo recobre a maior parte do dorso inferior e lateral.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Trapézio atua na escápula e pescoço.",
+      "B": "[CORRETA] O **latíssimo do dorso** traciona o braço para baixo e para trás, movimento fundamental na natação.",
+      "C": "[INCORRETA] Reto abdominal é anterior e flexiona o tronco (abdominal).",
+      "D": "[INCORRETA] Os eretores da espinha mantêm a postura e estendem a coluna."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  }
+]

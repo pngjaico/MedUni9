@@ -2,7 +2,7 @@
 
 A tolerância imunológica é o mecanismo que impede o sistema imune de atacar os próprios tecidos. Na prova, os temas centrais são a diferenciação entre **Tolerância Central e Periférica**, o papel do gene **AIRE** e o mecanismo de **Mimetismo Molecular**.
 
-Na prática, a quebra dessa tolerância resulta em doenças autoimunes sistêmicas (ex: Lúpus) ou órgão-específicas (ex: Diabetes Tipo 1).
+Na prática, a quebra dessa tolerância resulta em doenças autoimunes sistêmicas (ex: **Lúpus**) ou órgão-específicas (ex: **Diabetes Tipo 1**).
 
 ---
 
@@ -40,9 +40,9 @@ Na prática, a quebra dessa tolerância resulta em doenças autoimunes sistêmic
 | Doença | Alvo Principal | Mecanismo de Prova |
 |---|---|---|
 | **Lúpus (LES)** | DNA e Núcleo | **Anticorpo anti-dsDNA** (Marcador de atividade). |
-| **Diabetes Tipo 1** | Células Beta | Destruição celular (T CD8+). |
-| **Miastenia Gravis** | Junção Neuromuscular | Bloqueio do receptor de acetilcolina. |
-| **Doença de Graves** | Tireoide | Estimulação do receptor de TSH (Hipertireoidismo). |
+| **Diabetes Tipo 1** | Células Beta | Destruição celular (**T CD8+**). |
+| **Miastenia Gravis** | Junção Neuromuscular | Bloqueio do receptor de **acetilcolina**. |
+| **Doença de Graves** | Tireoide | Estimulação do receptor de **TSH** (Hipertireoidismo). |
 | **Hashimoto** | Tireoide | Destruição inflamatória (Hipotireoidismo). |
 
 ---
@@ -80,8 +80,8 @@ Em doenças: o **Lúpus** é a "doença do lixo acumulado" (imunocomplexos). Se 
 |------------|------------|-----------------|
 | **Tolerância Central** | **Tolerância Periférica** | **Elimina Células** (Timo) vs **Inativa Células** (Periferia) |
 | **Diabetes Tipo 1** | **Diabetes Tipo 2** | **Autoimune/Magra** vs Resistência à Insulina/Obesidade |
-| **Anti-dsDNA** | **Fator Antinuclear (FAN)** | **Específico** para Lúpus vs Sensível para muitas doenças |
-| **Hashimoto** | **Graves** | **Hipotireoidismo** vs Hipertireoidismo |
+| **Anti-dsDNA** | **Fator Antinuclear (FAN)** | **Específico para Lúpus** vs Sensível para muitas doenças |
+| **Hashimoto** | **Graves** | **Hipotireoidismo** vs **Hipertireoidismo** |
 | **Miastenia Gravis** | **Esclerose Múltipla** | Junção do músculo vs **Bainha de mielina (SNC)** |
 
 ### Frase-âncora para não esquecer

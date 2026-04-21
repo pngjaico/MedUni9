@@ -2,7 +2,7 @@
 
 As alterações no número de cromossomos são a causa mais comum de abortos e deficiência intelectual ao nascimento. Na prova, o tema central é saber identificar as trissomias do **21 (Down)**, **18 (Edwards)** e **13 (Patau)**, além das alterações nos cromossomos sexuais como as síndromes de **Turner** e **Klinefelter**.
 
-Na prática, o médico deve estar atento aos sinais físicos no recém-nascido e saber orientar a mãe sobre exames de rastreamento (como o NIPT) e diagnóstico (como a Amniocentese).
+Na prática, o médico deve estar atento aos sinais físicos no recém-nascido e saber orientar a mãe sobre exames de **rastreamento** (como o **NIPT**) e **diagnóstico** (como a **Amniocentese**).
 
 ---
 
@@ -18,7 +18,7 @@ Na prática, o médico deve estar atento aos sinais físicos no recém-nascido e
 ## 1. O Mecanismo: Não-Disjunção
 
 O erro acontece quando os cromossomos não se separam direito durante a fabricação do óvulo ou do espermatozoide.
-- **Idade Materna:** Quanto mais velha a mãe, maior o risco, pois os óvulos "envelhecem" e a chance de erro na separação aumenta drasticamente após os 35 anos.
+- **Idade Materna:** Quanto mais velha a mãe, maior o risco, pois os óvulos "envelhecem" e a chance de erro na separação aumenta drasticamente após os **35 anos**.
 - **Mosaicismo:** Quando o erro acontece **depois** da fecundação. Algumas células do corpo são normais e outras têm o erro. Geralmente, os sintomas são mais leves.
 
 ---
@@ -27,7 +27,7 @@ O erro acontece quando os cromossomos não se separam direito durante a fabrica�
 
 | Síndrome | Cromossomo | Sinais Clássicos de Prova |
 |---|---|---|
-| **Down** | **21** | Hipotonia (bebê "mole"), prega palmar única, cardiopatia. |
+| **Down** | **21** | **Hipotonia** (bebê "mole"), prega palmar única, cardiopatia. |
 | **Edwards** | **18** | **Mãos fechadas com dedos sobrepostos**, pés em "balanço". |
 | **Patau** | **13** | **Fenda labial e palatina**, polidactilia (muitos dedos), microcefalia. |
 
@@ -35,8 +35,8 @@ O erro acontece quando os cromossomos não se separam direito durante a fabrica�
 
 ## 3. Alterações nos Cromossomos Sexuais
 
-- **Síndrome de Turner (45,X):** Mulheres que têm apenas um cromossomo X. São de baixa estatura, têm o pescoço largo ("alado") e não conseguem ter filhos naturalmente. **Não têm Corpúsculo de Barr**.
-- **Síndrome de Klinefelter (47,XXY):** Homens que ganharam um X extra. Têm estatura elevada, testículos pequenos e dificuldade de produzir espermatozoides. **Têm 1 Corpúsculo de Barr**.
+- **Síndrome de Turner (45,X):** Mulheres que têm apenas um cromossomo X. São de **baixa estatura**, têm o **pescoço largo ("alado")** e não conseguem ter filhos naturalmente. **Não têm Corpúsculo de Barr**.
+- **Síndrome de Klinefelter (47,XXY):** Homens que ganharam um X extra. Têm **estaturo elevada**, testículos pequenos e dificuldade de produzir espermatozoides. **Têm 1 Corpúsculo de Barr**.
 
 ---
 
@@ -81,7 +81,7 @@ Sobre o rastreamento: o **NIPT** é maravilhoso para rastreio no sangue materno,
 | Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
 | **Down (21)** | **Edwards (18)** | Sobrevivência longa vs **Mortalidade altíssima no 1º ano** |
-| **Turner (45,X)** | **Klinefelter (XXY)** | Fenótipo Feminino vs **Fenótipo Masculino** |
+| **Turner (45,X)** | **Klinefelter (XXY)** | **Fenótipo Feminino** vs **Fenótipo Masculino** |
 | **Rastreio (NIPT)** | **Diagnóstico (Amnio)** | Sangue da mãe vs **Agulha na placenta/líquido** |
 | **Poliploidia** | **Aneuploidia** | 3n ou 4n (Totalmente inviável) vs **Um a mais ou a menos (Down/Turner)** |
 | **Meiose I** | **Meiose II** | Homólogos não separam vs **Irmãs não separam** |

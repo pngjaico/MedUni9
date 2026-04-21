@@ -1,8 +1,8 @@
 # MAD2 — Aula 14: Helmintíases — Nematódeos e Estrongiloidíase
 
-As helmintíases (vermes cilíndricos) são as infecções parasitárias mais comuns do mundo. Na prova, os temas centrais são o **Ciclo de Loos** (passagem pelo pulmão), a interpretação da **Eosinofilia** no hemograma e o perigo mortal da **Hiperinfecção por Strongyloides** em pacientes que usam corticoides.
+As helmintíases (vermes cilíndricos) são as infecções parasitárias mais comuns do mundo. Na prova, os temas centrais são o **Ciclo de Loos** (passagem pelo pulmão), a interpretação da **Eosinofilia** no hemograma e o perigo mortal da **Hiperinfecção por Strongyloides** em pacientes que usam **corticoides**.
 
-Na prática, o médico deve saber que tratar um verme hoje pode evitar uma sepse fatal amanhã, especialmente antes de iniciar tratamentos que baixam a imunidade do paciente.
+Na prática, o médico deve saber que tratar um verme hoje pode evitar uma **sepse fatal** amanhã, especialmente antes de iniciar tratamentos que baixam a imunidade do paciente.
 
 ---
 
@@ -19,7 +19,7 @@ Na prática, o médico deve saber que tratar um verme hoje pode evitar uma sepse
 
 Vários vermes (Ascaris, Ancilostomídeos e Strongyloides) precisam passar pelo pulmão para amadurecer.
 - **A Clínica:** Durante essa passagem, o paciente pode apresentar a **Síndrome de Löffler**: Tosse seca, falta de ar e manchas passageiras no Raio-X de tórax.
-- **O Hemograma:** A pista mestre é a **Eosinofilia** (aumento dos eosinófilos). Sempre que houver verme "passeando" pelo sangue ou pulmão, os eosinófilos estarão altos.
+- **O Hemograma:** A pista mestre é a **Eosinofilia** (aumento dos eosinófilos). Sempre que houver verme "passeando" pelo sangue ou pulmão, os **eosinófilos** estarão altos.
 
 ---
 
@@ -33,7 +33,7 @@ Vários vermes (Ascaris, Ancilostomídeos e Strongyloides) precisam passar pelo 
 ## 3. Estrongiloidíase: A Mais Perigosa
 
 O *Strongyloides stercoralis* tem uma característica única: ele consegue se reproduzir sozinho dentro do corpo humano (**Autoinfecção**).
-- **Larva Currens:** Uma marca na pele que parece um "caminho de minhoca" que se move rápido, geralmente nas nádegas ou abdome.
+- **Larva Currens:** Uma marca na pele que parece um "**caminho de minhoca**" que se move rápido, geralmente nas nádegas ou abdome.
 - **Hiperinfecção:** Se um paciente com *Strongyloides* começar a usar **Corticoides** em doses altas, o verme se multiplica descontroladamente. Milhares de larvas perfuram o intestino e levam bactérias para o sangue, causando uma **Sepse por Gram-Negativos** que mata rápido.
 
 ---
@@ -78,7 +78,7 @@ A Uninove ama cobrar sobre a **Hiperinfecção**. Lembre-se: paciente que vai to
 |------------|------------|-----------------|
 | **Síndrome de Löffler** | **Pneumonia Comum** | Tem **Eosinofilia** e manchas que "mudam de lugar" |
 | **Ascaris** | **Ancilostomídeo** | Causa **Obstrução** vs Causa **Anemia** |
-| **Strongyloides** | **Outros vermes** | Único que faz **Autoinfecção** e sepse por corticoide |
+| **Strongyloides** | **Outros vermes** | Único que faz **Autoinfecção** e **sepse por corticoide** |
 | **Eosinófilo Alto** | **Neutrófilo Alto** | Reação a **Parasita/Alergia** vs Reação a **Bactéria** |
 | **Albendazol** | **Ivermectina** | Mata a maioria vs **Droga padrão para Strongyloides** |
 

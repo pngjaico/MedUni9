@@ -1,6 +1,6 @@
 # BMF4 — Aula 13: Nervos Cranianos e Vias Descendentes — O Comando Central
 
-Os 12 pares de nervos cranianos e as vias motoras são os "cabos de comando" que ligam o cérebro à face e ao corpo. Na prova, os temas centrais são o funcionamento de cada **Nervo Craniano** (especialmente o III e o VII), a diferença entre a **Paralisia Facial Central e Periférica** e o trajeto do **Trato Corticoespinal**.
+Os 12 pares de nervos cranianos e as vias motoras são os "cabos de comando" que ligam o cérebro à face e ao corpo. Na prova, os temas centrais são o funcionamento de cada **Nervo Craniano** (especialmente o **III e o VII**), a diferença entre a **Paralisia Facial Central e Periférica** e o trajeto do **Trato Corticoespinal**.
 
 Na prática, o exame dos nervos cranianos é a ferramenta mais poderosa do neurologista. Quando você pede para o paciente sorrir ou acompanhar o seu dedo com o olhar, está testando diretamente circuitos específicos do tronco encefálico. Se um lado da face não move, mas a testa enruga, você já sabe: o problema não é no nervo em si, mas em algum lugar dentro do cérebro (**AVC**).
 
@@ -18,10 +18,10 @@ Na prática, o exame dos nervos cranianos é a ferramenta mais poderosa do neuro
 ## 1. O Time dos 12: Nervos Cranianos
 
 Cada par tem um nome e uma função sagrada:
-- **NC III, IV e VI:** O trio que move o **Olho**. O **III (Oculomotor)** também cuida da pupila e de levantar a pálpebra. Se o III falha, o olho "cai" (ptose) e a pupila dilata.
+- **NC III, IV e VI:** O trio que move o **Olho**. O **III (Oculomotor)** também cuida da pupila e de levantar a pálpebra. Se o III falha, o olho "cai" (**ptose**) e a pupila dilata (**midríase**).
 - **NC V (Trigêmeo):** É o nervo da **Sensibilidade da Face** e dos músculos da mordida.
 - **NC VII (Facial):** O nervo do **Sorriso**. Cuida da expressão facial e do gosto na ponta da língua.
-- **NC X (Vago):** O grande nervo das **Vísceras**. Cuida da voz, da deglutição e do coração.
+- **NC X (Vago):** O grande nervo das **Vísceras**. Cuida da **voz**, da deglutição e do coração.
 - **NC XII (Hipoglosso):** Manda na **Língua**. Se um lado falha, a língua "aponta" para o lado da lesão quando o paciente a coloca para fora.
 
 ---
@@ -29,8 +29,8 @@ Cada par tem um nome e uma função sagrada:
 ## 2. Paralisia Facial: Central vs Periférica
 
 Essa é a pegadinha favorita em qualquer prova médica:
-- **Paralisia Periférica (Lesão do Nervo):** O rosto inteiro de um lado "derrete". O paciente **NÃO** consegue enrugar a testa.
-- **Paralisia Central (AVC):** A parte inferior do rosto entorta, mas o paciente **CONSEGUE** enrugar a testa. Isso acontece porque a testa recebe comando dos dois lados do cérebro ao mesmo tempo.
+- **Paralisia Periférica (Lesão do Nervo):** O rosto inteiro de um lado "derrete". O paciente **NÃO consegue enrugar a testa**.
+- **Paralisia Central (AVC):** A parte inferior do rosto entorta, mas o paciente **CONSEGUE enrugar a testa**. Isso acontece porque a testa recebe comando dos dois lados do cérebro ao mesmo tempo.
 - **Regra de Ouro:** Se a testa enruga, pense em **AVC**. Se a testa está lisa, pense em **Bell (paralisia do nervo)**.
 
 ---
@@ -40,7 +40,7 @@ Essa é a pegadinha favorita em qualquer prova médica:
 O comando para você mover o braço nasce no córtex e desce:
 - **Trato Corticoespinal Lateral:** É a via principal do **Movimento Fino**. 
 - **Decussação das Pirâmides:** Lá no final do bulbo, 90% das fibras cruzam de lado. É por isso que uma lesão no lado esquerdo do cérebro paralisa o braço **Direito**.
-- **Cápsula Interna:** É um "funil" onde todas as fibras passam juntas. Um AVC minúsculo aqui pode causar uma catástrofe motora total.
+- **Cápsula Interna:** É um "funil" onde todas as fibras passam juntas. Um **AVC** minúsculo aqui pode causar uma catástrofe motora total.
 
 ---
 
@@ -60,7 +60,7 @@ No seu exame físico, se encontrar um paciente com **Midríase** (pupila dilatad
 
 ## Pontos-Chave para Prova
 
-- **Nervo Oculomotor (NC III)**: Controla a pupila e o elevador da pálpebra; sua paralisia gera ptose e midríase.
+- **Nervo Oculomotor (NC III)**: Controla a pupila e o elevador da pálpebra; sua paralisia gera **ptose e midríase**.
 - **Paralisia Facial Periférica**: Atinge tanto o quadrante inferior quanto o **Superior (Testa)** da face.
 - **Trato Corticoespinal Lateral**: Cruza nas **Pirâmides do Bulbo**; responsável pelo controle motor voluntário fino.
 - **Nervo Trigêmeo (NC V)**: Dividido em três ramos (V1, V2, V3); V3 é o único ramo com função **Motora** (mastigação).

@@ -47,7 +47,7 @@ Em uma distribuição perfeita (em forma de sino/Gaussiana):
 O **EPM** não mede a variação dos pacientes, mas sim o quão "certeiro" foi o estudo.
 - Se você estudar pouca gente (**n pequeno**), o erro padrão é grande.
 - Se você estudar muita gente (**n grande**), o erro padrão diminui e a sua média fica muito mais confiável.
-- **Fórmula:** EPM = Desvio Padrão / Raiz de n.
+- **Fórmula:** **EPM = Desvio Padrão / Raiz de n**.
 
 ---
 
@@ -82,11 +82,11 @@ A Uninove adora **Outliers**. Lembre-se: Se um valor é muito bizarro (muito alt
 
 | Medida A | Medida B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Média** | **Mediana** | **Sensível** a extremos vs **Resistente** a extremos |
-| **Desvio Padrão** | **Variância** | Unidade **Igual** aos dados vs Unidade ao **Quadrado** |
+| **Média** | **Mediana** | **Sensível vs Resistente** a extremos |
+| **Desvio Padrão** | **Variância** | Unidade **Igual** vs Unidade ao **Quadrado** |
 | **Desvio Padrão** | **Erro Padrão (EPM)** | Variação entre **Pessoas** vs Incerteza da **Média** |
 | **Amplitude** | **IIQ** | Usa os **Extremos** vs Usa o **Meio (50%)** |
-| **Simétrica** | **Assimétrica** | Média = Mediana vs Média ≠ Mediana |
+| **Simétrica** | **Assimétrica** | **Média = Mediana** vs **Média ≠ Mediana** |
 
 ### Frase-âncora para não esquecer
 

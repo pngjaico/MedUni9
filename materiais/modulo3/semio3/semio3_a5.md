@@ -18,7 +18,7 @@ Na prática, a ginecologia é feita de detalhes. Uma pergunta sobre o cheiro do 
 ## 1. Anamnese Ginecológica: O Roteiro Seguro
 
 Sempre organize sua entrevista nestes quatro pilares:
-1.  **Ciclo Menstrual:** Intervalo, duração e fluxo. **Dica:** Pergunte a data da última menstruação (**DUM**) em TODA consulta.
+1.  **Ciclo Menstrual:** Intervalo, duração e fluxo. **Dica:** Pergunte a **data da última menstruação** (**DUM**) em TODA consulta.
 2.  **Dor Pélvica:** É cíclica (vem com a menstruação)? Se for progressiva e causar dor na relação (**Dispareunia**), pense em **Endometriose**.
 3.  **Corrimento:** Cor, cheiro e se coça.
 4.  **Sangramento Anormal:** Sangrar fora do período ou **Pós-Menopausa** é um **Red Flag** gravíssimo (risco de câncer).
@@ -28,7 +28,7 @@ Sempre organize sua entrevista nestes quatro pilares:
 ## 2. Diferenciando os Corrimentos (Tabela de Ouro)
 
 A Uninove adora cobrar as características de cada um:
-- **Candidíase:** Branco grumoso (**Nata de leite**), causa muito prurido (coceira), sem cheiro forte.
+- **Candidíase:** Branco grumoso (**Nata de leite**), causa muito **prurido** (coceira), sem cheiro forte.
 - **Vaginose Bacteriana:** Conteúdo cinza/bolhoso com **Odor Fétido** (carne podre ou peixe podre), que piora após sexo ou menstruação.
 - **Tricomoníase:** Amarela-esverdeada, bolhosa, com muita irritação e o colo do útero cheio de pontinhos vermelhos (**Colo em Framboesa**).
 
@@ -46,7 +46,7 @@ O exame ginecológico é invasivo. Siga estas regras:
 
 ## 4. Red Flags: Quando investigar fundo?
 
-- **Sangramento na Menopausa:** Nunca é normal. Precisa de biópsia ou ultrassom.
+- **Sangramento na Menopausa:** Nunca é normal. Precisa de **biópsia** ou ultrassom.
 - **Dor Pélvica Aguda + Atraso Menstrual:** Pensar em **Gravidez Ectópica** (emergência!).
 - **Massa Palpável no Útero:** Pode ser um **Mioma** (benigno) ou algo mais sério.
 

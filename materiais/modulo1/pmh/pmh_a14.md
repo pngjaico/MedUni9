@@ -7,66 +7,58 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Adaptação Metabólica** é a estratégia para sobreviver ao **Jejum**, **Exercício** e **Estresse (Sepse)**. Domine como a queda da **Insulina** e o aumento da **Contrarregulação** reprogramam o metabolismo. Na clínica, o ponto crítico é a **Síndrome de Realimentação (Refeeding)**.
+A **Adaptação Metabólica** é a estratégia biológica para sobreviver a situações de desafio como o **Jejum Prolongado**, **Exercício Físico Intenso** e o **Estresse Metabólico (Sepse/Trauma)**. Domine como a queda drástica da **Insulina** e o aumento dos **Hormônios Contrarreguladores** reprogramam o metabolismo sistêmico. Na prática clínica, o ponto de maior atenção é a **Síndrome de Realimentação (Refeeding Syndrome)**, que pode ser fatal se não prevenida.
 
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `PMH-A14-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Após o bloco de relevância.
+- **O que mostrar:** Gráfico de "Fuel Shift" (transição de combustíveis) ao longo das semanas de jejum, mostrando o cruzamento entre a quebra de proteínas e a produção de corpos cetônicos.
+- **Tipo sugerido:** Gráfico de linhas didático.
+- **Legenda (rascunho):** Transição metabólica: da glicose aos corpos cetônicos.
 
 ---
 
 ## Jejum curto (horas)
 
-**Glicogenólise** hepática e **glicogênio** muscular para **ATP** local. **Lipólise** moderada. **Glicemia** mantida por **gliconeogênese** crescente.
+- **Glicogenólise:** O fígado libera glicose para o sangue, enquanto o músculo consome seu próprio **glicogênio** local.
+- **Manutenção:** A **Glicemia** é mantida inicialmente pela quebra do glicogênio e, conforme as horas passam, pela **Gliconeogênese** hepática crescente.
 
 ---
 
-## Jejum prolongado (dias)
+## Jejum prolongado (dias a semanas)
 
-**Glicogênio** hepático esgota-se → **gliconeogênese** (aminoácidos, glicerol, lactato) e **cetogênese** ↑. **Cérebro** gradualmente **utiliza cetônicos**.
+- **Esgotamento:** O glicogênio hepático acaba em cerca de 24 horas. A vida passa a depender da **Gliconeogênese** (usando aminoácidos musculares, glicerol e lactato).
+- **Ketoadaptação:** O fígado acelera a **Cetogênese**. O **Cérebro** gradualmente adapta seu metabolismo para utilizar **Corpos Cetônicos**, poupando a destruição excessiva da massa muscular (**Proteólise**).
 
-**Proteólise** muscular fornece **substrato** — **preservação** de massa magra exige **retorno alimentar planejado**.
-
-> **Dica de Prova:** **Ketoadaptação** leva dias — não confundir **cetose** de 12 h com **jejum** de 3 semanas.
-
----
-
-## Exercício físico
-
-**Sprint:** **glicogenólise** anaeróbia + **lactato**. **Maratona:** **oxidação** de **glicose** e **ÁG**; **depleção** de **glicogênio** muscular → **fadiga**.
-
-**Treino** crônico **aumenta** **mitocôndrias** e **capacidade oxidativa**.
+> **Dica de Prova:** A adaptação completa ao uso de cetonas pelo SNC leva dias. Não confunda a cetose leve de um jejum de 12 horas com a adaptação metabólica profunda de um jejum prolongado.
 
 ---
 
-## Trauma, cirurgia e sepse
+## Estresse metabólico: trauma e sepse
 
-**Resposta neuroendócrina** (↑ **cortisol**, **catecolaminas**, **glucagon**; **resistência insulínica**) → **hiperglicemia** de estresse, **proteólise**, **lipólise**. **Risco** de **perda de massa magra** e **complicações infecciosas**.
-
-**Nutrição enteral precoce** quando possível melhora **desfecho**.
-
----
-
-## Refeeding syndrome
-
-Reintrodução **rápida** de **calorias** (especialmente **glicose**) em **desnutrido** → **déficit** de **fosfato**, **potássio** e **magnésio** intracelular → **insuficiência cardíaca**, **arritmia**, **neurológico**.
-
-> **Pegadinha:** **Corrigir eletrólitos** e **iniciar calorias baixas** — “não empurrar sonda às pressas” sem monitorar.
+Diferente do jejum (que é hipometabólico), o estresse é **Hipermetabólico**:
+- **Tempestade Hormonal:** Aumento massivo de **Cortisol**, **Catecolaminas** (adrenalina) e **Glucagon**.
+- **Resistência Insulínica:** O corpo induz uma **Hiperglicemia de Estresse** para garantir oferta de energia aos tecidos lesionados e ao sistema imune.
+- **Catabolismo:** Ocorre proteólise e lipólise intensas, com risco de perda rápida de massa magra se não houver suporte nutricional adequado.
 
 ---
 
-## Câncer e metabolismo (visão geral)
+## Síndrome de Realimentação (Refeeding)
 
-**Warburg effect:** células tumorais podem favorecer **glicólise aeróbia** mesmo com oxigênio — **lactato** tumoral e **microambiente**.
+Ocorre ao reintroduzir calorias (especialmente carboidratos) de forma rápida em pacientes severamente desnutridos.
+- **Mecanismo:** A glicose gera um pico súbito de **Insulina**, que empurra eletrólitos para dentro das células.
+- **Consequência:** Queda perigosa nos níveis sanguíneos de **Fosfato (P)**, **Potássio (K)** e **Magnésio (Mg)**.
+- **Manifestações:** Pode causar **Insuficiência Cardíaca Aguda**, arritmias e colapso neurológico.
 
-**Cachexia** oncológica: **citocinas** (**TNF-α**, **IL-6**) → **anorexia** e **catabolismo**.
+---
+
+## Câncer e o Efeito Warburg
+
+Células tumorais reprogramam seu metabolismo para favorecer a **Glicólise Aeróbia** (produção de lactato mesmo na presença de oxigênio). Isso permite um crescimento rápido e o fornecimento de precursores para a síntese de novas células.
 
 ---
 
@@ -74,47 +66,51 @@ Reintrodução **rápida** de **calorias** (especialmente **glicose**) em **desn
 
 | Estado Metabólico | Hormônio Dominante | Combustível Principal | Glicemia |
 |-------------------|--------------------|-----------------------|----------|
-| **Pós-Prandial** | **Insulina** | **Glicose** (Dieta) | Estável |
-| **Jejum Curto** | **Glucagon** | **Glicogênio** Hepático | Mantida |
-| **Jejum Prolongado**| **Glucagon/Cortisol**| **Corpos Cetônicos** | Baixa-Normal |
-| **Estresse/Sepse** | **Catecolaminas** | **Hipercatabolismo** | **Elevada** |
+| **Pós-Prandial** | **Insulina** | **Glicose** da Dieta | Estável / Pico Leve |
+| **Jejum Curto** | **Glucagon** | **Glicogênio** Hepático | Mantida (Eunoglicemia) |
+| **Jejum Prolongado**| **Glucagon e Cortisol**| **Corpos Cetônicos** | Baixa-Normal |
+| **Estresse / Sepse**| **Adrenalina / Cortisol**| **Aminoácidos e Gordura** | **Elevada** (Hiperglicemia) |
 
 ---
 
 ## Ponte com a Clínica
 
-**Paciente desnutrido** com **IMC baixo** e **cirurgia de grande porte** — planejar **nutrição** e **prevenir refeeding**. **DM** com **infecção** → **insulina** pode precisar **aumentar** temporariamente. **Atleta** com **fadiga** — avaliar **glicogênio**, **ferro**, **hormônio** tireoidiano (não só “falta de vontade”).
+No paciente diabético, uma infecção (sepse) descompensa gravemente a glicemia devido aos hormônios de estresse. Já no tratamento da **Anorexia Nervosa** ou de pacientes em isolamento social com desnutrição, a regra de ouro é: **"Start low, go slow"** (começar com poucas calorias e repor eletrólitos antes do alimento) para evitar a síndrome de realimentação.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Jejum Prolongado:** O cérebro se adapta para queimar **Corpos Cetônicos**, poupando a massa magra.
-- **Síndrome de Realimentação:** Ocorre pela liberação súbita de **Insulina** após longo jejum, causando queda fatal de **Fósforo (P)**, **Potássio (K)** e **Magnésio (Mg)**.
-- **Efeito Warburg:** O câncer prefere fazer **Glicólise Anaeróbia** mesmo na presença de oxigênio para crescer rápido.
-- **Hiperglicemia de Estresse:** Ocorre pelo bloqueio da insulina via **Cortisol/Adrenalina**; comum na **UTI**.
-- **Caquexia:** Desnutrição com componente inflamatório (**TNF-Alfa**); diferente do jejum simples.
+- **Jejum:** O corpo tenta poupar energia e massa muscular (Hipometabolismo).
+- **Sepse:** O corpo gasta energia de forma agressiva (Hipermetabolismo).
+- **Hipofosfatemia:** É o marcador laboratorial "chave" da Síndrome de Realimentação.
+- **Warburg:** Estratégia metabólica do câncer para proliferação rápida.
+- **Caquexia:** Desnutrição inflamada (**TNF-Alpha**) que não responde apenas à oferta de comida.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Refeeding:** O perigo é o **Fosfato Baixo**. Repor eletrólitos ANTES da carga de glicose.
-- **Jejum de 24h:** A reserva de **Glicogênio Hepático** acaba; a vida depende agora da **Gliconeogênese**.
-- **Sepse:** Paciente catabólico. Quebra proteína muscular para fabricar **Imunoglobulinas** e reagentes de fase aguda.
-- **Lactato:** Sobe no exercício intenso e no **Choque Sético**.
+Foco total da **Uninove**:
+- **Fosfato:** Sempre que houver a palavra "Refeeding", procure pela queda do **Fósforo**.
+- **Hormônios do Estresse:** Cortisol e Adrenalina são os vilões da insulina na UTI.
+- **Cori e Alanina:** São os eixos que mantêm a glicemia quando o estoque de glicogênio acaba.
+- **Morte Celular:** Diferente do jejum fisiológico, na sepse a perda proteica é muito acelerada e perigosa.
 
-| Conceito A | Conceito B | Diferencial Crítico |
+### Diferenciações Críticas
+
+| Conceito A | Conceito B | Diferencial para Prova |
 |------------|------------|----------------------|
-| **Jejum** | **Estresse/Sepse** | **Hipometabólico** (Paupa) vs **Hipermetabólico** (Queima) |
-| **Hipofosfatemia**| **Refeeding** | A marca registrada da realimentação perigosa |
-| **Marasmo** | **Kwashiorkor** | Deficiência **Calórica** vs Deficiência **Proteica** (Edema) |
-| **Glicogênio** | **Ácido Graxo** | Energia de **Minutos** vs Energia de **Semanas** |
+| **Jejum Simples** | **Sepse/Trauma** | **Consome pouco** vs **Consome muito** (Hipermetabólico) |
+| **Realimentação** | **Hipofosfatemia** | O gatilho vs **A marca laboratorial** fatal |
+| **Marasmo** | **Kwashiorkor** | Pele e osso vs **Edema e Fígado Gorduroso** (falta proteína) |
+| **Glicogênio** | **Ácido Graxo** | Reserva de **curto prazo** vs Reserva de **longo prazo** |
 
 ### Frase-âncora para não esquecer
 
-> “Agudo queima estoque; crônico muda o termostato metabólico.”
+> **“O metabolismo agudo queima o estoque; o estresse crônico consome a estrutura; e a realimentação precipitada pode parar o coração.”**
+

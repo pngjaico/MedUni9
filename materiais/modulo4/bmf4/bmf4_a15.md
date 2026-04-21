@@ -1,6 +1,6 @@
 # BMF4 — Aula 15: Meninges e Líquor — A Proteção Hidráulica
 
-O sistema nervoso central é extremamente frágil e, por isso, vive dentro de uma "armadura" de membranas e mergulhado em um líquido protetor. Na prova, os temas centrais são o reconhecimento das **Meninges** (especialmente os hematomas Epidural e Subdural), a circulação do **Líquor (LCR)** e a função da **Barreira Hematoencefálica**.
+O sistema nervoso central é extremamente frágil e, por isso, vive dentro de uma "armadura" de membranas e mergulhado em um líquido protetor. Na prova, os temas centrais são o reconhecimento das **Meninges** (especialmente os hematomas **Epidural e Subdural**), a circulação do **Líquor (LCR)** e a função da **Barreira Hematoencefálica**.
 
 Na prática, as meninges são as sentinelas do cérebro. Quando uma bactéria as invade, temos a **Meningite**, uma emergência médica gravíssima. Além disso, o líquido que as banha serve como um amortecedor e um sistema de limpeza. Saber como esse líquido circula é o segredo para entender por que a cabeça de uma criança pode crescer anormalmente (**Hidrocefalia**).
 
@@ -25,16 +25,16 @@ Na prática, as meninges são as sentinelas do cérebro. Quando uma bactéria as
 
 ## 2. Sangramentos: Epidural vs Subdural
 
-- **Hematoma Epidural:** Sangue **Arterial** (principalmente a Meníngea Média) entre o osso e a dura. É rápido e perigoso. O paciente pode ter o "Intervalo Lúcido" (acorda, fala e morre em seguida).
+- **Hematoma Epidural:** Sangue **Arterial** (principalmente a **Meníngea Média**) entre o osso e a dura. É rápido e perigoso. O paciente pode ter o "**Intervalo Lúcido**" (acorda, fala e morre em seguida).
 - **Hematoma Subdural:** Sangue **Venoso** (veias em ponte) abaixo da dura. É mais lento. É comum em idosos que sofrem quedas leves, aparecendo dias ou semanas depois.
-- **Hemorragia Subaracnoide:** Sangue no líquor. O paciente grita que é a "pior dor de cabeça da vida".
+- **Hemorragia Subaracnoide:** Sangue no líquor. O paciente grita que é a "**pior dor de cabeça da vida**".
 
 ---
 
 ## 3. Líquor: O Amortecedor Cerebral
 
 O **Líquor (LCR)** é produzido no "filtro de sangue" do cérebro, o **Plexo Corioide**:
-- **Caminho:** Ventrículos Laterais -> III Ventrículo -> IV Ventrículo -> Espaço Subaracnoideo.
+- **Caminho:** **Ventrículos Laterais -> III Ventrículo -> IV Ventrículo** -> Espaço Subaracnoideo.
 - **Reabsorção:** Depois de rodar tudo, ele é jogado de volta no sangue pelas **Granulações Aracnoides**.
 - **Hidrocefalia:** Se o caminho entope (ex: aqueduto estreito), o líquor acumula e dilata o cérebro. Se o entupimento é no caminho, é **Não Comunicante**; se é na reabsorção final, é **Comunicante**.
 
@@ -44,13 +44,13 @@ O **Líquor (LCR)** é produzido no "filtro de sangue" do cérebro, o **Plexo Co
 
 O cérebro é "chato" com o que entra. Os vasos cerebrais são selados por **Astrócitos**:
 - **Função:** Impedir que bactérias e toxinas do sangue passem para os neurônios.
-- **Dificuldade:** Muitos antibióticos também não conseguem passar. Por isso, para tratar meningite, usamos doses altíssimas de remédios específicos que conseguem atravessar esse "muro".
+- **Dificuldade:** Muitos antibióticos também não conseguem passar. Por isso, para tratar **meningite**, usamos doses altíssimas de remédios específicos que conseguem atravessar esse "muro".
 
 ---
 
 ## Ponte com a Clínica
 
-No seu exame físico, ao realizar a **Punção Lombar**, você analisará o aspecto do líquor. O normal é ele ser translúcido como **"Água de Rocha"**. Se ele sair turvo ou purulento, você está diante de uma **Meningite Bacteriana**. O laboratório confirmará a queda da glicose no líquor (as bactérias a estão comendo) e o aumento de proteínas e células de defesa (combate à infecção).
+No seu exame físico, ao realizar a **Punção Lombar**, você analisará o aspecto do líquor. O normal é ele ser translúcido como **"Água de Rocha"**. Se ele sair turvo ou purulento, você está diante de uma **Meningite Bacteriana**. O laboratório confirmará a queda da **glicose** no líquor (as bactérias a estão comendo) e o aumento de proteínas e células de defesa (combate à infecção).
 
 ---
 
@@ -59,8 +59,8 @@ No seu exame físico, ao realizar a **Punção Lombar**, você analisará o aspe
 - **Plexo Corioide**: Garante a produção contínua do líquor (LCR) dentro dos ventrículos.
 - **Espaço Subaracnoideo**: Localização real onde circula o líquor e onde ocorrem as hemorragias por aneurisma.
 - **Granulações Aracnoides**: Responsáveis pela reabsorção do LCR para o sistema venoso (seio sagital superior).
-- **Barreira Hematoencefálica**: Formada por junções oclusivas entre as células endoteliais e os pés dos astrócitos.
-- **Hidrocefalia Obstrutiva**: Decorrente do bloqueio no fluxo do LCR (comum no aqueduto de Sylvius).
+- **Barreira Hematoencefálica**: Formada por junções oclusivas entre as células endoteliais e os pés dos **astrócitos**.
+- **Hidrocefalia Obstrutiva**: Decorrente do bloqueio no fluxo do LCR (comum no **aqueduto de Sylvius**).
 
 ---
 

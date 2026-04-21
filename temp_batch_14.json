@@ -1,0 +1,1726 @@
+[
+  {
+    "id": 1501,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Qual opção melhor integra o quarto e o quinto sinais cardinais da inflamação na nomenclatura mais completa?",
+    "opcoes": [
+      "A) Rubor e calor apenas",
+      "B) Tumefação e dor somente",
+      "C) Dolor isolado, sem função lesada",
+      "D) Dolor e functio laesa"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A sequência expandida inclui dolor e functio laesa além de rubor, calor e tumefação.",
+    "explicacoes_opcoes": {
+      "A": "Faltam dor e disfunção na lista completa dos cinco.",
+      "B": "Faltam rubor e calor na descrição completa dos cinco.",
+      "C": "A descrição completa inclui também função lesada como quinto sinal.",
+      "D": "Dor e função lesada completam os sinais após rubor, calor e tumefação."
+    },
+    "explicacao": "Resumo: O quarto e quinto sinais são dor e função lesada.\nA) INCORRETA. Lista incompleta para o quarto e quinto.\nB) INCORRETA. Não corresponde ao par final da nomenclatura completa.\nC) INCORRETA. Falta functio laesa no par.\nD) CORRETA. Dolor e functio laesa fecham os cinco sinais.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1502,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Em um hemograma, o VCM mede o volume médio de cada hemácia e o HCM mede:",
+    "opcoes": [
+      "A) A hemoglobina média por hemácia",
+      "B) O número de reticulócitos por campo",
+      "C) A largura da distribuição leucocitária",
+      "D) A contagem de plaquetas"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "VCM é volume corpuscular médio (fL). HCM é hemoglobina corpuscular média (pg por hemácia). CHCM é concentração.",
+    "explicacoes_opcoes": {
+      "A": "HCM quantifica a hemoglobina média por eritrócito.",
+      "B": "Reticulócitos têm contagem própria, não é definição de HCM.",
+      "C": "Distribuição leucocitária usa outros índices como desvio padrão relativo.",
+      "D": "Plaquetas são série trombocitária distinta."
+    },
+    "explicacao": "Resumo: HCM é hemoglobina média por hemácia.\nA) CORRETA. HCM reflete hemoglobina por eritrócito.\nB) INCORRETA. Reticulócitos não definem HCM.\nC) INCORRETA. Parâmetro leucocitário diferente.\nD) INCORRETA. Plaquetas não entram na definição de HCM.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1503,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Anemia microcítica com VCM reduzido e RDW frequentemente elevado sugere fortemente:",
+    "opcoes": [
+      "A) Anemia perniciosa sem déficit de B12",
+      "B) Deficiência de ferro",
+      "C) Hemólise intravascular aguda isolada com VCM alto",
+      "D) Policitemia vera"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Microcitose com anisocitose (RDW alto) é típica de ferropriva. Talassemia pode microcitose com RDW menos alterado em alguns casos.",
+    "explicacoes_opcoes": {
+      "A": "Deficit de B12 costuma macrocitose, não microcitose típica.",
+      "B": "Ferropenia produz microcitose e frequentemente RDW elevado.",
+      "C": "Hemólise não é clássica para microcitose com VCM baixo como padrão isolado.",
+      "D": "Policitemia aumenta massa eritrocitária, não microcitose ferropriva."
+    },
+    "explicacao": "Resumo: Microcitose sugere ferro deficiente entre causas comuns.\nA) INCORRETA. B12 baixa tende a macrocitose.\nB) CORRETA. Ferropriva é causa clássica de microcitose.\nC) INCORRETA. Cenário não típico para microcitose ferropriva.\nD) INCORRETA. Diagnóstico distinto.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1504,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Jovem com anemia hemolítica em investigação. Qual parâmetro indica produção eritrocitária medular ativa em resposta à perda ou destruição de hemácias?",
+    "opcoes": [
+      "A) VCM sempre baixo independentemente da causa",
+      "B) Contagem elevada de reticulócitos",
+      "C) Eosinofilia acentuada",
+      "D) Plaquetopenia isolada"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Reticulócitos refletem eritropoiese eficaz. Na hemólise compensada, reticulocitose é esperada se a medula responder.",
+    "explicacoes_opcoes": {
+      "A": "VCM varia conforme a etiologia da anemia.",
+      "B": "Aumento de reticulócitos indica resposta medular ativa.",
+      "C": "Eosinófilos não marcam eritropoiese.",
+      "D": "Plaquetas não substituem o papel dos reticulócitos nessa avaliação."
+    },
+    "explicacao": "Resumo: Reticulocitose indica medula respondendo à demanda.\nA) INCORRETA. VCM não é fixo em todas as hemólises.\nB) CORRETA. Reticulócitos elevados indicam produção aumentada.\nC) INCORRETA. Eosinofilia não mede eritropoiese.\nD) INCORRETA. Trombocitopenia não é marcador de reticulócitos.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1505,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Em infecção bacteriana aguda, o hemograma pode mostrar desvio à esquerda, que significa:",
+    "opcoes": [
+      "A) Predomínio de linfócitos atípicos",
+      "B) Maior presença de plaquetas gigantes",
+      "C) Maior presença de neutrófilos imaturos (bastonetes) na circulação",
+      "D) Hemácias em alvo sem anemia"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Desvio à esquerda indica liberação de formas menos segmentadas de neutrófilos devido à demanda inflamatória aguda.",
+    "explicacoes_opcoes": {
+      "A": "Linfócitos atípicos sugerem outros contextos, como viral em certos casos.",
+      "B": "Plaquetas gigantes não definem desvio à esquerda.",
+      "C": "Bastonetes e metamiélos aumentados compõem o desvio à esquerda neutrofílico.",
+      "D": "Hemácias em alvo não são o conceito de desvio à esquerda leucocitário."
+    },
+    "explicacao": "Resumo: Desvio à esquerda é neutrófilos imaturos aumentados.\nA) INCORRETA. Não é definição de desvio à esquerda.\nB) INCORRETA. Trombocitário distinto.\nC) CORRETA. Bastonetes e precursores aumentam na demanda aguda.\nD) INCORRETA. Não é o significado do termo.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1506,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente com abscesso dentário e leucocitose. Qual padrão esperado com mais frequência?",
+    "opcoes": [
+      "A) Neutrofilia com desvio à esquerda",
+      "B) Linfocitose relativa predominante",
+      "C) Eosinofilia acima de 1500 por microlitro isolada",
+      "D) Agranulocitose"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Infecções bacterianas supurativas elevam neutrófilos e podem aumentar formas imaturas. Linfocitose é mais viral em muitos cenários. Eosinofilia sugere parasitose ou alergia.",
+    "explicacoes_opcoes": {
+      "A": "Neutrofilia e desvio à esquerda acompanham infecção bacteriana supurativa.",
+      "B": "Linfocitose não é o padrão típico de piogenicidade bacteriana aguda.",
+      "C": "Eosinofilia não é o esperado como achado principal nesse contexto.",
+      "D": "Agranulocitose é oposto ao esperado."
+    },
+    "explicacao": "Resumo: Bactérias piogênicas costumam gerar neutrofilia.\nA) CORRETA. Neutrofilia com desvio à esquerda é típica.\nB) INCORRETA. Perfil mais viral ou outro contexto.\nC) INCORRETA. Eosinofilia não é o padrão clássico aqui.\nD) INCORRETA. Espera-se aumento, não ausência de granulócitos.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1507,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Criança com mononucleose infecciosa viral pode apresentar linfocitose com linfócitos atípicos. Isso contrasta com:",
+    "opcoes": [
+      "A) Microcitose ferropriva",
+      "B) Trombocitose reacional leve",
+      "C) Reticulocitose pós-hemorragia",
+      "D) Infecção bacteriana aguda com neutrofilia"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Mononucleose viral frequentemente mostra linfocitose e atipias. Bacteremia aguda clássica tende a neutrofilia.",
+    "explicacoes_opcoes": {
+      "A": "Microcitose é série vermelha, não contraste direto principal com linfocitose viral.",
+      "B": "Trombocitose pode coexistir em vários estados, não é o contraste central.",
+      "C": "Reticulócitos avaliam eritrócitos, não o padrão leucocitário viral típico.",
+      "D": "Neutrofilia bacteriana contrasta com o perfil linfocitário da mononucleose."
+    },
+    "explicacao": "Resumo: Mononucleose costuma linfocitose; bactéria costuma neutrofilia.\nA) INCORRETA. Outra linha hematológica.\nB) INCORRETA. Não é o contraste principal descrito.\nC) INCORRETA. Avaliação eritrocitária distinta.\nD) CORRETA. Contraste clássico entre perfil viral e bacteriano.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1508,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente com asma alérgica descompensada e rinite. O hemograma pode revelar:",
+    "opcoes": [
+      "A) Eosinofilia",
+      "B) Neutropenia severa sem causa",
+      "C) Linfopenia marcada isolada",
+      "D) Basopenia obrigatória"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Doenças alérgicas e parasitárias frequentemente elevam eosinófilos. Asma eosinofílica associa-se a esse padrão.",
+    "explicacoes_opcoes": {
+      "A": "Eosinófilos aumentam em alergia e algumas parasitoses.",
+      "B": "Neutropenia severa não é o padrão esperado da asma típica.",
+      "C": "Linfopenia não é o achado clássico isolado.",
+      "D": "Basopenia não é regra nem marcador típico."
+    },
+    "explicacao": "Resumo: Alergia frequentemente eosinofilia.\nA) CORRETA. Eosinofilia é compatível com asma alérgica.\nB) INCORRETA. Não é o esperado.\nC) INCORRETA. Não é o padrão clássico.\nD) INCORRETA. Basófilos não definem o quadro.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1509,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Idoso em uso de múltiplos medicamentos apresenta plaquetas 45 mil por microlitro e petéquias. Qual interpretação mais adequada?",
+    "opcoes": [
+      "A) Trombocitose reacional benigna sem risco",
+      "B) Plaquetopenia com risco hemorrágico proporcional à queda",
+      "C) Eosinofilia primária isolada",
+      "D) Hemoglobina elevada por policitemia de certeza"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Plaquetopenia aumenta risco de sangramento conforme a gravidade e a causa. Petéquias sugerem hemorragia de pequenos vasos.",
+    "explicacoes_opcoes": {
+      "A": "Contagem baixa não é trombocitose.",
+      "B": "Plaquetas baixas explicam manifestações hemorrágicas possíveis.",
+      "C": "Eosinofilia não é o achado descrito.",
+      "D": "Policitemia não foi indicada pelo enunciado."
+    },
+    "explicacao": "Resumo: Plaquetopenia pode cursar com sangramento cutâneo.\nA) INCORRETA. Valores estão baixos, não altos.\nB) CORRETA. Plaquetopenia explica petéquias e risco hemorrágico.\nC) INCORRETA. Série errada.\nD) INCORRETA. Dados insuficientes e achado incoerente.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1510,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Qual afirmação melhor descreve o papel das plaquetas na hemostasia primária?",
+    "opcoes": [
+      "A) Produzem trombina diretamente sem fator tecidual",
+      "B) Sintetizam hemoglobina quando ativadas",
+      "C) Aderem ao subendotélio lesionado e agregam-se formando tampão plaquetário",
+      "D) Fagocitam exclusivamente vírus na circulação"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Plaquetas aderem via vWF, ativam-se, agregam e liberam conteúdo granular, consolidando hemostasia primária antes da cascata de coagulação.",
+    "explicacoes_opcoes": {
+      "A": "Trombina é gerada pela cascata de coagulação; plaquetas participam mas não a definição isolada.",
+      "B": "Plaquetas não carregam hemoglobina funcional.",
+      "C": "Adesão e agregação plaquetária constituem hemostasia primária.",
+      "D": "Plaquetas não são fagócitos virais primários."
+    },
+    "explicacao": "Resumo: Hemostasia primária é adesão e agregação plaquetária.\nA) INCORRETA. Papel trombínico é mais complexo e não exclusivo das plaquetas.\nB) INCORRETA. Plaquetas não sintetizam hemoglobina.\nC) CORRETA. Tampão plaquetário é o núcleo da hemostasia primária.\nD) INCORRETA. Função fagocítica viral não é papel clássico.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1511,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Em anemia microcítica hipocrômica por ferro deficiente, qual achado laboratorial da série vermelha costuma acompanhar o baixo VCM?",
+    "opcoes": [
+      "A) Reticulócitos sempre acima de 5% em repouso não tratado",
+      "B) VCM elevado e RDW baixo",
+      "C) Hemácias macrócitas predominantes",
+      "D) HCM e CHCM reduzidos"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Ferropriva reduz hemoglobina por célula (HCM baixo) e concentração (CHCM baixo), com microcitose e frequentemente RDW elevado.",
+    "explicacoes_opcoes": {
+      "A": "Reticulócitos podem estar baixos ou discretos até tratamento, não regra de 5% em repouso.",
+      "B": "VCM alto não caracteriza ferropriva clássica.",
+      "C": "Macrócitos não predominam na ferropriva típica.",
+      "D": "Hipocromia microcítica com HCM e CHCM reduzidos é típica."
+    },
+    "explicacao": "Resumo: Ferropriva microcítica costuma ter HCM e CHCM baixos.\nA) INCORRETA. Reticulocitose robusta não é regra antes do ferro.\nB) INCORRETA. Perfil incompatível com ferropriva clássica.\nC) INCORRETA. Macrocitose não é esperada na forma clássica.\nD) CORRETA. Hipocromia microcítica com HCM e CHCM reduzidos é típica.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1512,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Imunização ativa difere da passiva principalmente porque:",
+    "opcoes": [
+      "A) A ativa estimula resposta do próprio hospedeiro com produção de anticorpos e células de memória",
+      "B) A passiva induz memória imunológica duradoura sempre",
+      "C) A ativa fornece imunoglobulina pronta sem resposta do paciente",
+      "D) A passiva requer sempre vacina de vírus vivo atenuado"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Vacinas ativas induzem resposta adaptativa com memória. Imunoglobulinas passivas fornecem anticorpos imediatos sem gerar memória duradoura típica.",
+    "explicacoes_opcoes": {
+      "A": "Ativa mobiliza sistema imune do paciente para produzir anticorpos e linfócitos de memória.",
+      "B": "Passiva não confere memória de longo prazo como regra.",
+      "C": "Fornecer Ig pronta é passiva, não ativa.",
+      "D": "Passiva não depende de vacina viva atenuada."
+    },
+    "explicacao": "Resumo: Ativa gera resposta e memória; passiva administra anticorpos.\nA) CORRETA. Ativa estimula imunidade adaptativa própria.\nB) INCORRETA. Passiva não garante memória duradoura.\nC) INCORRETA. Descreve passiva.\nD) INCORRETA. Confunde mecanismos.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1513,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Vacinas de vírus vivo atenuado, comparadas às inativadas, costumam:",
+    "opcoes": [
+      "A) Ser administradas apenas por via intradérmica exclusiva em todos os casos",
+      "B) Induzir resposta imune mais próxima da infecção natural com replicação limitada do agente vacinal",
+      "C) Nunca contraindicar-se em gestantes por serem inativas",
+      "D) Depender de adjuvante de alumínio em 100% das formulações"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Atenuados replicam-se parcialmente e imunizam de forma robusta; inativados não replicam. Contraindicações e perfis de segurança diferem.",
+    "explicacoes_opcoes": {
+      "A": "Vias de administração seguem cada vacina específica.",
+      "B": "Replicação limitada mimetiza infecção natural sem doença completa.",
+      "C": "Gestação é consideração especial para vivos atenuados em várias vacinas.",
+      "D": "Nem todos os atenuados usam adjuvante de alumínio da mesma forma que alguns inativados."
+    },
+    "explicacao": "Resumo: Atenuados imitam infecção natural com replicação controlada.\nA) INCORRETA. Generalização falsa sobre via.\nB) CORRETA. Replicação limitada aproxima da infecção natural.\nC) INCORRETA. Gestantes têm restrições para alguns vivos atenuados.\nD) INCORRETA. Formulações variam.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1514,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Qual situação é contraindicação típica a vacinas de vírus vivo atenuado em geral?",
+    "opcoes": [
+      "A) Imunodepressão grave com terapia imunossupressora intensa",
+      "B) Lactente saudável no calendário de rotina",
+      "C) Adulto imunocompetente sem alergia ao ovo",
+      "D) Contato domiciliar saudável com gestante sem vacina específica discutida"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Imunodeprimidos severos têm risco aumentado de doença por agente atenuado. Calendários de rotina em saudáveis seguem indicações específicas.",
+    "explicacoes_opcoes": {
+      "A": "Imunossupressão profunda contraindica uso de vivos atenuados na maioria dos casos.",
+      "B": "Rotina em saudável não é contraindicação por si só.",
+      "C": "Imunocompetência sem contraindicação específica permite avaliar cada vacina.",
+      "D": "Contato saudável não equivale a contraindicação absoluta genérica sem contexto."
+    },
+    "explicacao": "Resumo: Imunodepressão grave contraindica vivos atenuados.\nA) CORRETA. Risco de doença disseminada com vacina atenuada.\nB) INCORRETA. Situação habitualmente indicável conforme calendário.\nC) INCORRETA. Não é contraindicação.\nD) INCORRETA. Depende da vacina e orientação local.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1515,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Vacinas conjugadas contra polissacarídeos capsulares, em comparação com polissacarídeos puros, principalmente:",
+    "opcoes": [
+      "A) Não induzem resposta em lactentes",
+      "B) Ligam o polissacarídeo a proteína transportadora, melhorando resposta timo-dependente e imunogenicidade em crianças pequenas",
+      "C) Contêm apenas RNA sem proteína alguma",
+      "D) São idênticas às vacinas de vírus vivo atenuado"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Conjugação transforma resposta timo-independente fraca em lactentes em resposta mais robusta timo-dependente via proteína carreadora.",
+    "explicacoes_opcoes": {
+      "A": "O objetivo da conjugação é justamente imunogenicidade em faixas etárias jovens.",
+      "B": "Proteína conjugada melhora apresentação e memória imune.",
+      "C": "Vacinas de mRNA são outra plataforma, não definição de conjugada antimeningocócica ou pneumocócica.",
+      "D": "Conjugadas são subunidades polissacarídicas conjugadas, não vírus vivos."
+    },
+    "explicacao": "Resumo: Conjugadas melhoram resposta em crianças pequenas.\nA) INCORRETA. Propósito oposto ao real.\nB) CORRETA. Conjugação com proteína aumenta imunogenicidade.\nC) INCORRETA. Confunde plataformas.\nD) INCORRETA. Mecanismo distinto de vírus vivo.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1516,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Imunização passiva é exemplificada por:",
+    "opcoes": [
+      "A) Vacina tríplice viral em imunocompetente",
+      "B) Hepatite B recombinante com três doses espaçadas",
+      "C) Administração de imunoglobulina antitetânica após ferimento de risco",
+      "D) Vacina influenza inativada anual"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Imunoglobulinas específicas ou hiperimunes fornecem anticorpos prontos, caracterizando imunidade passiva. Vacinas ativas exigem resposta do hospedeiro.",
+    "explicacoes_opcoes": {
+      "A": "Tríplice viral é ativa com vírus atenuados.",
+      "B": "Recombinante hepática B é esquema ativo.",
+      "C": "Ig antitetânica oferece anticorpos imediatos, passiva.",
+      "D": "Influenza inativada é vacina ativa."
+    },
+    "explicacao": "Resumo: Ig pronta é passiva.\nA) INCORRETA. Vacina ativa.\nB) INCORRETA. Esquema ativo.\nC) CORRETA. Imunoglobulina é passiva.\nD) INCORRETA. Vacina ativa.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1517,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Vacinas de polissacarídeo não conjugado em adultos podem ter limitação de:",
+    "opcoes": [
+      "A) Induzir resposta timo-dependente robusta em todos os lactentes",
+      "B) Necessidade obrigatória de vetor viral em toda formulação",
+      "C) Bloqueio completo da produção de IgG",
+      "D) Resposta imune menos duradoura e menor em lactentes muito jovens"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Polissacarídeos puros geram resposta timo-independente com menor eficácia em menores de 2 anos e reforços necessários comparados a conjugadas.",
+    "explicacoes_opcoes": {
+      "A": "Lactentes respondem mal a polissacarídeo não conjugado.",
+      "B": "Vacinas polissacarídicas não são vetores virais.",
+      "C": "IgG pode ser produzida, não bloqueada totalmente.",
+      "D": "Imunogenicidade reduzida na primeira infância e memória menos robusta são limitações conhecidas."
+    },
+    "explicacao": "Resumo: Polissacarídeo puro imuniza pior em bebês que a conjugada.\nA) INCORRETA. Lactentes têm resposta fraca.\nB) INCORRETA. Não há vetor viral obrigatório.\nC) INCORRETA. Exagero falso.\nD) CORRETA. Limitação etária e memória são pontos fracos.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1518,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Vacinas de mRNA contra COVID-19 instruem as células do hospedeiro a:",
+    "opcoes": [
+      "A) Produzir proteína spike para induzir resposta imune sem vírus replicante completo",
+      "B) Replicar vírus vivo atenuado no citoplasma",
+      "C) Inserir DNA no núcleo de forma obrigatória em todas as células",
+      "D) Secretar toxoides de difteria automaticamente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "MRNA codifica proteína viral alvo (spike), traduzida pelo maquinário celular, gerando imunidade sem genoma viral completo replicante.",
+    "explicacoes_opcoes": {
+      "A": "MRNA leva à síntese temporária de spike e resposta imune.",
+      "B": "Não há vírus vivo replicando.",
+      "C": "MRNA não integra ao DNA como regra; não é vetor de DNA nuclear obrigatório.",
+      "D": "Toxoides são outras vacinas inativadas de toxina."
+    },
+    "explicacao": "Resumo: mRNA dirige síntese de antígeno spike.\nA) CORRETA. Proteína spike é expressa para vacinação.\nB) INCORRETA. Não replica vírus vivo.\nC) INCORRETA. Mecanismo de mRNA não exige integração nuclear típica.\nD) INCORRETA. Outra classe vacinal.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1519,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Recém-nascido recebe imunoglobulina humana anti-hepatite B além da vacina. A Ig constitui:",
+    "opcoes": [
+      "A) Imunização ativa primária isolada",
+      "B) Imunização passiva complementar",
+      "C) Memória de linfócitos T CD8 de longo prazo sem anticorpos",
+      "D) Vacina de vírus vivo atenuado"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Ig específica oferece proteção passiva imediata enquanto a vacina ativa desenvolve resposta duradoura.",
+    "explicacoes_opcoes": {
+      "A": "Ig não é vacina ativa.",
+      "B": "Imunoglobulina é passiva, frequentemente associada a esquemas ativos em profilaxia.",
+      "C": "Memória não surge exclusivamente da Ig exógena.",
+      "D": "Não há vírus vivo na imunoglobulina."
+    },
+    "explicacao": "Resumo: Ig anti-HBs é passiva.\nA) INCORRETA. Não substitui ativa.\nB) CORRETA. Imunoglobulina é imunidade passiva.\nC) INCORRETA. Mecanismo incorreto.\nD) INCORRETA. Produto biológico diferente.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1520,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Qual afirmação sobre vacinas inativadas é mais precisa?",
+    "opcoes": [
+      "A) Contêm patógeno replicante no organismo",
+      "B) São sempre proibidas em gestantes",
+      "C) Geralmente necessitam de mais de uma dose para reforço da imunidade",
+      "D) Induzem imunidade celular CD8 citotóxica exclusiva sem anticorpos"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Inativadas não replicam; muitas exigem esquemas multi dose e reforços. Gestação segue orientação por vacina específica.",
+    "explicacoes_opcoes": {
+      "A": "Inativação elimina replicação viável.",
+      "B": "Algumas inativadas são indicadas na gravidez, como influenza inativada.",
+      "C": "Esquemas primários e reforços são comuns para imunogenicidade adequada.",
+      "D": "Resposta humoral e celular participam; exclusividade CD8 é falsa."
+    },
+    "explicacao": "Resumo: Inativadas não replicam e frequentemente precisam reforços.\nA) INCORRETA. Não replicam.\nB) INCORRETA. Há indicações específicas na gestação.\nC) CORRETA. Multi dose é padrão em várias inativadas.\nD) INCORRETA. Imunidade não é exclusivamente CD8.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1521,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "A principal vantagem da imunização ativa em relação à passiva para controle epidemiológico de longo prazo é:",
+    "opcoes": [
+      "A) Efeito imediato em minutos após dose única de Ig",
+      "B) Necessidade de repetir infusões mensais indefinidas em toda população",
+      "C) Eliminar completamente a necessidade de higiene e distanciamento em qualquer doença",
+      "D) Geração de população imune com memória e capacidade de resposta anamnésica"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Imunidade ativa confere memória e redução sustentável de transmissão em campanhas bem-sucedidas. Passiva é temporária.",
+    "explicacoes_opcoes": {
+      "A": "Imediatismo é da passiva, não da memória ativa.",
+      "B": "Esquemas ativos não exigem infusão contínua de Ig em toda população.",
+      "C": "Vacinas não substituem todas as medidas não farmacológicas em todos os contextos.",
+      "D": "Memória e resposta secundária fortalecem proteção coletiva duradoura."
+    },
+    "explicacao": "Resumo: Ativa cria memória e proteção duradoura.\nA) INCORRETA. Descreve passiva.\nB) INCORRETA. Não caracteriza vacinação em massa.\nC) INCORRETA. Afirmação absoluta incorreta.\nD) CORRETA. Memória imune sustenta controle de longo prazo.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1522,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Lactente masculino, 8 meses, otites e pneumonia por Haemophilus de repetição. Ig séricas muito baixas e ausência de linfócitos B no sangue periférico. Mecanismo genético mais provável:",
+    "opcoes": [
+      "A) Mutação no gene BTK com bloqueio da maturação de linfócitos B na medula óssea",
+      "B) Defeito em RAG com ausência combinada de linfócitos T e B típica de SCID clássica",
+      "C) Deleção 22q11 com hipocalcemia e cardiopatia congênita",
+      "D) Deficiência seletiva de IgA com IgG e IgM preservados"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A agamaglobulinemia ligada ao X (Bruton) resulta de BTK defeituoso, bloqueando a maturação de linfócitos B.",
+    "explicacoes_opcoes": {
+      "A": "BTK é necessário à progressão de pré-B; sem linfócitos B maduros, não há imunoglobulinas.",
+      "B": "RAG define SCID, mas o quadro costuma afetar T e B; aqui T costuma estar presente.",
+      "C": "DiGeorge compromete principalmente linhagem T; há cardiopatia e hipocalcemia.",
+      "D": "Deficiência de IgA não explica ausência de linfócitos B e queda global de imunoglobulinas."
+    },
+    "explicacao": "Resumo: XLA é defeito em BTK com ausência de B maduros e hipogamaglobulinemia.\nA) CORRETA. Mecanismo clássico da XLA.\nB) INCORRETA. Descreve outra imunodeficiência combinada.\nC) INCORRETA. Perfil de DiGeorge.\nD) INCORRETA. Incompatível com ausência de B e queda de todas as classes.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1523,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Recém-nascido com linfocitopenia grave, timo ausente à imagem e infecções oportunistas precoces. Diagnóstico mais compatível:",
+    "opcoes": [
+      "A) Hiper-IgM por deficiência de CD40L com linfócitos T presentes",
+      "B) Imunodeficiência combinada grave (SCID) com falha na maturação ou função de linfócitos T (e frequentemente comprometimento de B",
+      "C) Deficiência isolada de IgA",
+      "D) Deficiência isolada do fator C3 do complemento"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "SCID agrupa defeitos que abolem ou comprometem gravemente a imunidade celular, com risco vital precoce.",
+    "explicacoes_opcoes": {
+      "A": "Hiper-IgM por CD40L mantém T, mas há disfunção de troca de classe; não é SCID típica.",
+      "B": "SCID apresenta linfocitopenia, timo hipoplásico e infecções oportunistas precoces.",
+      "C": "IgA isolada não cursa com imunodeficiência combinada grave.",
+      "D": "Deficiência de C3 predispõe a infecções por encapsulados, não a SCID."
+    },
+    "explicacao": "Resumo: SCID é emergência imunológica por falha de linfócitos T (e muitas vezes B).\nA) INCORRETA. Outro defeito de imunidade.\nB) CORRETA. Quadro típico de SCID.\nC) INCORRETA. Imunodeficiência humoral leve.\nD) INCORRETA. Defeito do complemento distinto.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1524,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Recém-nascido com hipocalcemia, cardiopatia congênita e infecções virais frequentes. Qual achado imunológico é mais esperado?",
+    "opcoes": [
+      "A) Ausência completa de linfócitos B maduros com níveis normais de T",
+      "B) Elevação isolada de IgE como achado universal",
+      "C) Hipoplasia tímica com linfocitopenia T variável e disfunção celular",
+      "D) Consumo crônico de complemento com hipocomplementemia como regra"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A síndrome de DiGeorge (22q11) associa defeito de desenvolvimento de derivados do terceiro e quarto arcos faringeos, incluindo timo.",
+    "explicacoes_opcoes": {
+      "A": "XLA afeta B; DiGeorge afeta principalmente T.",
+      "B": "IgE não define o quadro imunológico típico.",
+      "C": "Timo hipoplásico leva a déficit de maturação T e maior suscetibilidade a vírus e fungos.",
+      "D": "Hipocomplementemia não é o pilar do DiGeorge."
+    },
+    "explicacao": "Resumo: DiGeorge compromete desenvolvimento timóico e linfócitos T.\nA) INCORRETA. Perfil de XLA.\nB) INCORRETA. Não é marcador central.\nC) CORRETA. Comprometimento timóico e linfócitos T.\nD) INCORRETA. Não caracteriza o defeito principal.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1525,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Mulher adulta com hipogamaglobulinemia e infecções sinopulmonares de repetição, linfócitos B presentes porém produção inadequada de anticorpos específicos após exposição. O quadro sugere:",
+    "opcoes": [
+      "A) Agamaglobulinemia ligada ao X por mutação em BTK",
+      "B) SCID com ausência de linfócitos T e B ao fluxo",
+      "C) Deficiência seletiva de IgA com IgG normal",
+      "D) Imunodeficiência comum variável (CVID) com falha na diferenciação em plasmócitos produtores de anticorpos"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Na CVID há defeitos variados na diferenciação de B ou na produção de anticorpos, com Ig baixas e infecções recorrentes.",
+    "explicacoes_opcoes": {
+      "A": "XLA é doença de linhagem B ausente, não apenas hipogamaglobulinemia com B presentes.",
+      "B": "SCID não se apresenta só com falha de anticorpos em adulto com B circulantes típicos.",
+      "C": "Deficiência de IgA não explica pan-hipogamaglobulinemia típica da CVID.",
+      "D": "CVID explica B presentes com falha de resposta humoral efetiva."
+    },
+    "explicacao": "Resumo: CVID agrupa hipogamaglobulinemia com defeito na resposta humoral adaptativa.\nA) INCORRETA. XLA tem ausência de B maduros.\nB) INCORRETA. Imunidade celular gravemente comprometida.\nC) INCORRETA. Isolamento de IgA não explica o quadro.\nD) CORRETA. Mecanismo compatível com CVID.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1526,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Criança com infecções recorrentes por bactérias encapsuladas. Avaliação mostra consumo de C3 e via alternativa comprometida. A interpretação mais adequada é:",
+    "opcoes": [
+      "A) Defeitos precoces da cascata (como C3) prejudicam opsonização e clearance de patógenos capsulados",
+      "B) Deficiência de C5-C9 costuma causar o mesmo padrão de consumo de C3 na fase crônica",
+      "C) Angioedema hereditário explica infecções por pneumococos",
+      "D) Properdina elevada bloqueia infecções por Neisseria"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "C3 é ponto central de convergência; sua deficiência compromete opsonização e aumenta risco a germes encapsulados.",
+    "explicacoes_opcoes": {
+      "A": "Sem C3 efetivo, a opsonização e a resposta contra capsulados ficam prejudicadas.",
+      "B": "MAC terminal (C5-9) tem papel distinto; Neisseria é clássico, mas o padrão de C3 não é o mesmo.",
+      "C": "C1INH deficit causa angioedema, não este perfil infeccioso primário.",
+      "D": "Properdina deficiente predispõe a certas infecções, mas não explica consumo de C3 como regra."
+    },
+    "explicacao": "Resumo: C3 é hub de opsonização; defeito aumenta suscetibilidade a capsulados.\nA) CORRETA. Mecanismo central.\nB) INCORRETA. Confunde vias e padrões laboratoriais.\nC) INCORRETA. Doença distinta.\nD) INCORRETA. Raciocínio incorreto.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1527,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Jovem com meningite recorrente por Neisseria. Qual deficiência do complemento é mais clássica nesse contexto?",
+    "opcoes": [
+      "A) C3 isolado",
+      "B) Componentes do complexo de ataque à membrana (C5 a C9",
+      "C) Fator B da via alternativa apenas",
+      "D) C1q isolado"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A via lítica terminal é essencial contra Neisseria; defeitos em C5-C9 predispõem a infecções meningocócicas recorrentes.",
+    "explicacoes_opcoes": {
+      "A": "C3 predispõe a capsulados diversos, mas o vínculo clássico com Neisseria recorrente é MAC.",
+      "B": "MAC incompleto impede lise eficiente de Neisseria.",
+      "C": "Fator B não é o perfil mais clássico isolado para Neisseria recorrente.",
+      "D": "C1q associa-se a lúpus e imunocomplexos, não a esse padrão infeccioso típico."
+    },
+    "explicacao": "Resumo: Defeito terminal do complemento predispõe a Neisseria.\nA) INCORRETA. Outro espectro infeccioso.\nB) CORRETA. Clássico para meningococo recorrente.\nC) INCORRETA. Menos típico isoladamente.\nD) INCORRETA. Perfil distinto.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1528,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Menino com infecções por germes catalase-positivos (como certas bactérias e fungos), granulomas e teste de redução do NBT alterado. Diagnóstico:",
+    "opcoes": [
+      "A) Deficiência de adesão leucocitária tipo 1 (LAD1",
+      "B) Deficiência seletiva de IgA",
+      "C) Doença granulomatosa crônica por defeito na NADPH oxidase dos fagócitos",
+      "D) CVID com hipogamaglobulinemia"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Na DGC a burst oxidativo é deficiente; fagócitos não matam eficientemente catalase-positivos.",
+    "explicacoes_opcoes": {
+      "A": "LAD1 cursa com infecções de pele e atraso de separação do cordão umbilical, não NBT típico de DGC.",
+      "B": "IgA não explica granulomas e falha do burst oxidativo.",
+      "C": "DGC é diagnóstico clássico com catalase-positivos e NBT anormal.",
+      "D": "CVID não define defeito primário da oxidase."
+    },
+    "explicacao": "Resumo: DGC é falha do sistema oxidativo fagocitário.\nA) INCORRETA. Outro defeito de adesão.\nB) INCORRETA. Imunodeficiência humoral leve.\nC) CORRETA. Quadro típico da DGC.\nD) INCORRETA. Mecanismo distinto.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1529,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Adulto assintomático com IgA indetectável, IgG e IgM normais e sem infecções graves. Qual conduta é mais adequada em muitos cenários ambulatoriais?",
+    "opcoes": [
+      "A) Iniciar imunoglobulina intravenosa em todos os casos independentemente de sintomas",
+      "B) Indicar plasma fresco rotineiro sem critério",
+      "C) Antibiótico profilático de amplo espectro por anos em todos",
+      "D) Orientar seguimento clínico e atenção a reações transfusionais em quem tem anti-IgA quando aplicável; muitos permanecem assintomáticos"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Deficiência seletiva de IgA pode ser assintomática; imunoglobulina não é rotina para todos.",
+    "explicacoes_opcoes": {
+      "A": "Reposição de Ig não é indicada sem indicação clínica.",
+      "B": "Plasma não é estratégia de rotina sem necessidade.",
+      "C": "Profilaxia antibiótica prolongada não é padrão para todos os assintomáticos.",
+      "D": "Muitos casos são benignos; alertar sobre transfusões quando há anti-IgA sintetizado."
+    },
+    "explicacao": "Resumo: Deficiência de IgA frequentemente é achado laboratorial com curso leve.\nA) INCORRETA. Sem indicação universal.\nB) INCORRETA. Não é conduta padrão.\nC) INCORRETA. Excesso sem benefício comprovado geral.\nD) CORRETA. Abordagem proporcional ao risco.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1530,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Menino com linfócitos T presentes, ausência de linfócitos B maduros e imunoglobulinas muito baixas; história familiar compatível com herança ligada ao X. Tratamento de reposição indicado:",
+    "opcoes": [
+      "A) Imunoglobulina humana por via intravenosa ou subcutânea conforme protocolo assistencial",
+      "B) Somente antibióticos profiláticos sem reposição de anticorpos",
+      "C) Transplante de medula óssea de rotina em todos os casos assintomáticos",
+      "D) Vacinação com BCG em qualquer idade"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Na XLA a reposição de imunoglobulina é pilar para prevenir infecções graves.",
+    "explicacoes_opcoes": {
+      "A": "Ig substitui anticorpos que o paciente não produz.",
+      "B": "Somente antibióticos não substituem imunoglobulinas.",
+      "C": "Transplante não é primeira linha universal na XLA estável com Ig.",
+      "D": "Vacinas vivas atenuadas são contraindicadas em muitos casos de imunodeficiência grave."
+    },
+    "explicacao": "Resumo: XLA trata-se com imunoglobulina e cuidados infecciosos.\nA) CORRETA. Terapia de reposição padrão.\nB) INCORRETA. Insuficiente isoladamente.\nC) INCORRETA. Não é conduta inicial universal.\nD) INCORRETA. Risco com vacinas vivas.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1531,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Qual situação exige abordagem urgente com transplante de células hematopoéticas como tratamento curativo típico?",
+    "opcoes": [
+      "A) Rinite alérgica persistente leve",
+      "B) SCID com imunidade T gravemente comprometida e risco vital por infecções oportunistas",
+      "C) Deficiência isolada de IgA assintomática",
+      "D) Hipersensibilidade cutânea tipo I a pólen"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "SCID é emergência; sem reconstituição imune, o risco de óbito por infecção é altíssimo.",
+    "explicacoes_opcoes": {
+      "A": "Rinite não exige transplante.",
+      "B": "SCID requer transplante precoce quando indicado.",
+      "C": "IgA assintomática não indica transplante.",
+      "D": "Alergia tipo I não é tratada com transplante."
+    },
+    "explicacao": "Resumo: SCID grave requer reconstituição imune.\nA) INCORRETA. Quadro benigno.\nB) CORRETA. Indicação clássica.\nC) INCORRETA. Não é imunodeficiência combinada grave.\nD) INCORRETA. Mecanismo alérgico.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1532,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "A eliminação de timócitos fortemente autorreativos no timo exemplifica principalmente:",
+    "opcoes": [
+      "A) Tolerância central",
+      "B) Tolerância periférica mediada exclusivamente por IgG",
+      "C) Mimetismo molecular sem participação do timo",
+      "D) Inflamação de baixo grau fisiológica"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A seleção negativa timóica remove clones autorreativos antes da saída para periferia.",
+    "explicacoes_opcoes": {
+      "A": "Tolerância central ocorre no órgão primário da maturação T.",
+      "B": "Periferia complementa, mas não substitui a educação timóica.",
+      "C": "Mimetismo é outro mecanismo de autoimunidade.",
+      "D": "Inflamação não define tolerância central."
+    },
+    "explicacao": "Resumo: Timo educa o repertório T com seleção positiva e negativa.\nA) CORRETA. Tolerância central.\nB) INCORRETA. Confunde compartimentos.\nC) INCORRETA. Outro fenômeno.\nD) INCORRETA. Conceito distinto.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1533,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "O gene AIRE nas células epiteliais reticulares medulares contribui para:",
+    "opcoes": [
+      "A) Produzir autoanticorpos anti-DNA dupla fita no sangue",
+      "B) Promover apresentação de antígenos periféricos no timo e reforçar a seleção negativa de timócitos autorreativos",
+      "C) Sintetizar tireoglobulina no folículo tireoidiano",
+      "D) Inibir a expressão de FoxP3 em todos os linfócitos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "AIRE permite expressão apresentável de antígenos de tecidos periféricos no timo, expondo timócitos a antígenos próprios.",
+    "explicacoes_opcoes": {
+      "A": "Anti-dsDNA não é função da AIRE.",
+      "B": "AIRE atua na centralização da tolerância timóica à diversidade antigênica periférica.",
+      "C": "Tireoglobulina não é papel da AIRE.",
+      "D": "FoxP3 não é inibido universalmente pela AIRE."
+    },
+    "explicacao": "Resumo: AIRE amplia o universo de antígenos “próprios” vistos no timo.\nA) INCORRETA. Não descreve AIRE.\nB) CORRETA. Função central na tolerância.\nC) INCORRETA. Órgão e proteína errados.\nD) INCORRETA. Relação incorreta.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1534,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente com poliendocrinopatia autoimune suspeita. Linfócitos T CD4+ CD25+ altos com expressão nuclear de FoxP3 são classificados principalmente como:",
+    "opcoes": [
+      "A) CTL citotóxicos contra vírus",
+      "B) Produtores predominantes de IgA secretora",
+      "C) Células T reguladoras com papel supressor na homeostase imune e tolerância periférica",
+      "D) Apresentadores profissionais de antígeno no epitélio intestinal"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Tregs FoxP3+ suprimem respostas exageradas e ajudam a evitar autoimunidade.",
+    "explicacoes_opcoes": {
+      "A": "CTL são CD8+ e citotóxicos.",
+      "B": "Plasmócitos produzem IgA, não Tregs.",
+      "C": "Treg FoxP3+ é o fenótipo clássico regulatório.",
+      "D": "Células apresentadoras são dendríticas/macrófagos, não Tregs."
+    },
+    "explicacao": "Resumo: FoxP3 marca linhagem reguladora CD4.\nA) INCORRETA. Linfócito citotóxico.\nB) INCORRETA. Função humoral.\nC) CORRETA. Treg clássica.\nD) INCORRETA. Papel de APC não é de Treg.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1535,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Após infecção, epitopos do patógeno assemelham-se a estruturas do hospedeiro e favorecem resposta contra o próprio tecido. Esse mecanismo denomina-se:",
+    "opcoes": [
+      "A) Seleção positiva exclusiva no timo",
+      "B) Apoptose por privação de IL-7",
+      "C) Epitopo criptico sem relevância clínica",
+      "D) Mimetismo molecular entre antígenos microbianos e autoantígenos"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Mimetismo molecular explica algumas associações infecção-autoimunidade.",
+    "explicacoes_opcoes": {
+      "A": "Seleção positiva não é mimetismo.",
+      "B": "IL-7 não define o termo pedido.",
+      "C": "Epitopo criptico é outro conceito.",
+      "D": "Semelhança estrutural dispara autoimunidade cruzada."
+    },
+    "explicacao": "Resumo: Semelhança de epítopos liga infecção a autoimunidade.\nA) INCORRETA. Processo timóico distinto.\nB) INCORRETA. Citocina de sobrevivência.\nC) INCORRETA. Conceito diferente.\nD) CORRETA. Definição de mimetismo molecular.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1536,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Mulher com artrite, fotossensibilidade e FAN positivo; anti-DNA de dupla fita elevado. Qual papel é mais descrito para anti-dsDNA no LES?",
+    "opcoes": [
+      "A) Associação a nefrite por imunocomplexos e depósitos glomerulares",
+      "B) Proteção contra eventos trombóticos em todos os pacientes",
+      "C) Especificidade exclusiva para síndrome de Sjögren",
+      "D) Marcador apenas de hipersensibilidade imediata"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Anti-dsDNA participa de imunocomplexos e correlaciona com nefrite lúpica em muitos casos.",
+    "explicacoes_opcoes": {
+      "A": "Imunocomplexos medeiam lesão renal.",
+      "B": "Anti-dsDNA não protege trombose universalmente.",
+      "C": "Sjögren tem outros autoanticorpos típicos.",
+      "D": "Hipersensibilidade imediata é IgE, não anti-dsDNA."
+    },
+    "explicacao": "Resumo: Anti-dsDNA é central no dano renal imunomediado no LES.\nA) CORRETA. Mecanismo descrito.\nB) INCORRETA. Não é regra de proteção.\nC) INCORRETA. Outra doença.\nD) INCORRETA. Tipo errado de hipersensibilidade.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1537,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Adolescente com poliúria, perda ponderal e anticorpos contra ilhotas pancreáticas. Mecanismo mais compatível:",
+    "opcoes": [
+      "A) Resistência periférica à insulina como único defeito",
+      "B) Autoimunidade contra células beta com deficiência absoluta de insulina",
+      "C) Hiperprodução de ACTH",
+      "D) Estimulação do receptor de TSH por autoanticorpo"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O DM1 clássico associa-se a autoimunidade contra ilhotas e deficiência insulínica.",
+    "explicacoes_opcoes": {
+      "A": "DM2 predomina resistência; DM1 é destruição beta.",
+      "B": "DM1 autoimune destrói beta.",
+      "C": "ACTH não define DM1.",
+      "D": "Graves envolve TSHR, não ilhotas."
+    },
+    "explicacao": "Resumo: DM1 frequentemente é autoimune com destruição de beta.\nA) INCORRETA. Perfil de DM2.\nB) CORRETA. Mecanismo típico.\nC) INCORRETA. Eixo errado.\nD) INCORRETA. Doença tireoidiana.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1538,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Mulher com bócio difuso, tremores e exoftalmia; TSH suprimido e T4 livre elevado; TRAb positivo. Mecanismo fisiopatológico:",
+    "opcoes": [
+      "A) Tireoidite de Hashimoto com hipotireoidismo",
+      "B) Nódulo autônomo produtor de TSH",
+      "C) Autoanticorpos estimuladores do receptor de TSH (doença de Graves",
+      "D) Deficiência grave de iodo"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Graves é hipertireoidismo por anticorpo estimulador do receptor de TSH.",
+    "explicacoes_opcoes": {
+      "A": "Hashimoto cursa com hipotireoidismo.",
+      "B": "Nódulo autônomo não produz TSH.",
+      "C": "TRAb estimulador define Graves.",
+      "D": "Iodo carencial não explica hipertireoidismo típico."
+    },
+    "explicacao": "Resumo: Graves é autoimunidade com agonismo do TSHR.\nA) INCORRETA. Perfil oposto.\nB) INCORRETA. Fisiologia incorreta.\nC) CORRETA. Mecanismo clássico.\nD) INCORRETA. Causa de hipotireoidismo carencial.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1539,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Quando linfócitos T periféricos reconhecem antígeno próprio sem coestimulação adequada, podem entrar em anergia ou apoptose. Isso exemplifica:",
+    "opcoes": [
+      "A) Seleção positiva timóica",
+      "B) Expressão exclusiva de AIRE no hepatócito",
+      "C) Resposta Th2 dominante a parasitas",
+      "D) Mecanismos de tolerância periférica complementares à educação timóica"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "A tolerância periférica refina o repertório após o timo.",
+    "explicacoes_opcoes": {
+      "A": "Anergia periférica não é seleção positiva.",
+      "B": "AIRE é medular timica, não hepática exclusiva.",
+      "C": "Th2 não define o conceito.",
+      "D": "Anergia/apoptose periférica complementa tolerância central."
+    },
+    "explicacao": "Resumo: Periferia evita autoimunidade de clones que escapam ao timo.\nA) INCORRETA. Processo timóico.\nB) INCORRETA. Local e função errados.\nC) INCORRETA. Contexto parasitário.\nD) CORRETA. Tolerância periférica.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1540,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Sobre lúpus eritematoso sistêmico, assinale a afirmativa correta:",
+    "opcoes": [
+      "A) Anti-dsDNA é marcador importante e frequentemente correlaciona-se com nefrite",
+      "B) O LES nunca envolve pele ou articulações",
+      "C) FAN negativo exclui o diagnóstico em qualquer situação",
+      "D) Ocorre apenas em crianças menores de 5 anos"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Anti-dsDNA é útil e associado a manifestações renais em parte dos pacientes.",
+    "explicacoes_opcoes": {
+      "A": "Correlação clínico-laboratorial é clássica.",
+      "B": "LES pode afetar pele e articulações.",
+      "C": "FAN pode variar; critérios clínicos completam.",
+      "D": "LES ocorre em adultos e crianças."
+    },
+    "explicacao": "Resumo: LES é sistêmico; anti-dsDNA tem papel em nefrite.\nA) CORRETA. Afirmação adequada.\nB) INCORRETA. Manifestações comuns existem.\nC) INCORRETA. Diagnóstico é clínico-serológico integrado.\nD) INCORRETA. Faixa etária ampla.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1541,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "A síndrome IPEX associa-se principalmente a:",
+    "opcoes": [
+      "A) Deficiência isolada do fator C3",
+      "B) Mutações em FOXP3 com falha de células T reguladoras e autoimunidade multiorgânica",
+      "C) Infecção aguda por HIV como única causa",
+      "D) Excesso de vitamina D como mecanismo"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "IPEX é doença monogênica de Treg por FOXP3 defeituoso.",
+    "explicacoes_opcoes": {
+      "A": "Complemento não é o defeito.",
+      "B": "FOXP3 define Treg; sua perda leva autoimunidade grave.",
+      "C": "HIV não é IPEX.",
+      "D": "Vitamina D não causa IPEX."
+    },
+    "explicacao": "Resumo: FOXP3 é essencial para Treg e prevenção de autoimunidade.\nA) INCORRETA. Outro sistema.\nB) CORRETA. Mecanismo da IPEX.\nC) INCORRETA. Etiologia infecciosa não substitui IPEX.\nD) INCORRETA. Sem base fisiopatológica.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1542,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Rejeição renal hiperaguda minutos após reperfusão, com trombose e necrose hemorrágica. Mecanismo imediato:",
+    "opcoes": [
+      "A) Anticorpos pré-existentes contra antígenos do doador (anti-HLA e incompatibilidade ABO grave",
+      "B) Infecção viral tardia com citomegalovirus",
+      "C) Fibrose intersticial crônica lenta",
+      "D) Deficiência isolada de vitamina B12"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Hiperaguda é mediada por anticorpos pré-formados e ativação rápida de coagulação e lesão vascular.",
+    "explicacoes_opcoes": {
+      "A": "Anticorpos circulantes causam dano imediato.",
+      "B": "CMV causa outros quadros temporais.",
+      "C": "Crônica é lenta.",
+      "D": "B12 não medeia rejeição hiperaguda."
+    },
+    "explicacao": "Resumo: Hiperaguda é imunidade humoral pré-sensibilizada.\nA) CORRETA. Mecanismo clássico.\nB) INCORRETA. Tempo e mecanismo.\nC) INCORRETA. Cronologia errada.\nD) INCORRETA. Irrelevante.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1543,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente dias após transplante renal apresenta piora da função e biópsia com infiltrado linfocitário intersticial intenso. Quadro compatível com:",
+    "opcoes": [
+      "A) Nefropatia por IgA primária do receptor",
+      "B) Rejeição aguda celular mediada por linfócitos T alorreativos e outros leucócitos",
+      "C) Esclerose segmentar e focal idiopática do enxerto sem alorreconhecimento",
+      "D) Dermatite alérgica de contato"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A rejeição aguda celular é ataque imune ao enxerto por células T e infiltrado inflamatório.",
+    "explicacoes_opcoes": {
+      "A": "IgA primária não define rejeição típica aguda pós-transplante assim.",
+      "B": "Infiltrado linfocitário é típico de aguda celular.",
+      "C": "FSGS idiopática sem componente imune alorreativo não é o melhor encaixe temporal.",
+      "D": "Dermatite não explica biópsia renal típica."
+    },
+    "explicacao": "Resumo: Aguda celular é T cells contra o enxerto.\nA) INCORRETA. Outra nefropatia.\nB) CORRETA. Padrão de rejeição aguda celular.\nC) INCORRETA. Mecanismo e tempo.\nD) INCORRETA. Órgão errado.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1544,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Meses a anos após transplante, arteriopatia fibrosa intimal e perda progressiva da função renal sugerem:",
+    "opcoes": [
+      "A) Rejeição hiperaguda imediata",
+      "B) Infecção urinária não complicada isolada",
+      "C) Rejeição crônica com remodelação vascular e fibrose",
+      "D) Hiponatremia leve assintomática"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A crônica associa-se a fibrose e arteriopatia do enxerto ao longo do tempo.",
+    "explicacoes_opcoes": {
+      "A": "Hiperaguda é minutos a horas.",
+      "B": "ITU não explica arteriopatia fibrosa típica isoladamente.",
+      "C": "Crônica remodela vasos e parênquima.",
+      "D": "Hiponatremia não é critério histológico."
+    },
+    "explicacao": "Resumo: Rejeição crônica evolui com obsolescência e fibrose.\nA) INCORRETA. Tempo incompatível.\nB) INCORRETA. Diagnóstico infeccioso simples.\nC) CORRETA. Padrão crônico.\nD) INCORRETA. Laboratorial genérico.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1545,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Após transplante alogênico de medula, paciente com rash cutâneo, diarreia e elevação de transaminases. Quadro sugere:",
+    "opcoes": [
+      "A) Rejeição do órgão sólido pelo receptor apenas",
+      "B) Infecção exclusiva por helmintos",
+      "C) Trombose de veia porta idiopática",
+      "D) Doença do enxerto contra o hospedeiro mediada por linfócitos T do doador"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "GVHD clássica acomete pele, trato GI e fígado após transplante hematopoético alogênico.",
+    "explicacoes_opcoes": {
+      "A": "GVHD é ataque do enxerto ao organismo do receptor.",
+      "B": "Helmintos não são padrão único.",
+      "C": "Trombose portal não explica tríade típica.",
+      "D": "Linfócitos do doador reconhecem o hospedeiro como estranho."
+    },
+    "explicacao": "Resumo: GVHD é imunidade do doador contra tecidos do receptor.\nA) INCORRETA. Direção do processo.\nB) INCORRETA. Causa infecciosa incompleta.\nC) INCORRETA. Diagnóstico vascular não típico.\nD) CORRETA. Mecanismo da GVHD.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1546,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "A compatibilidade de antígenos leucocitários humanos (HLA) entre doador e receptor influencia principalmente:",
+    "opcoes": [
+      "A) Risco de rejeição alogênica e intensidade de imunossupressão necessária",
+      "B) Cor da pele do receptor",
+      "C) Tipo ABO sem relevância em transplante",
+      "D) Resposta vacinal à influenza exclusivamente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "HLA define alorreconhecimento; maior disparidade aumenta risco imunológico.",
+    "explicacoes_opcoes": {
+      "A": "HLA é central na alorresposta.",
+      "B": "Fenótipo cutâneo não é determinado por HLA para esse fim.",
+      "C": "ABO continua crucial em muitos transplantes sólidos.",
+      "D": "Influenza não é o foco primário do pareamento HLA."
+    },
+    "explicacao": "Resumo: Pareamento HLA modula alorreatividade.\nA) CORRETA. Efeito na rejeição.\nB) INCORRETA. Sem relação.\nC) INCORRETA. ABO importa.\nD) INCORRETA. Contexto errado.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1547,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Em transfusão de hemácias em situação de urgência, a compatibilidade mais crítica a garantir imediatamente é:",
+    "opcoes": [
+      "A) Identidade HLA completa entre doador e receptor",
+      "B) Grupo ABO para evitar hemólise aguda por isoaglutininas pré-formadas",
+      "C) Crossmatch imunológico para transplante renal em todo paciente febril",
+      "D) Dosagem sérica de IgE"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "ABO incompatível em hemácias pode causar reação hemolítica aguda grave.",
+    "explicacoes_opcoes": {
+      "A": "HLA não é teste de rotina para hemácias em urgência.",
+      "B": "Isoaglutininas anti-A ou anti-B medeiam hemólise se o ABO for incompatível.",
+      "C": "Crossmatch de transplante não substitui checagem ABO na hemotransfusão.",
+      "D": "IgE não define hemólise por incompatibilidade ABO."
+    },
+    "explicacao": "Resumo: Hemácias exigem respeito ao sistema ABO.\nA) INCORRETA. Não é requisito de hemácias.\nB) CORRETA. Prioridade clássica.\nC) INCORRETA. Contexto misturado.\nD) INCORRETA. Irrelevante para ABO.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1548,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Crossmatch positivo para anticorpos anti-HLA do receptor frente a linfócitos do doador indica:",
+    "opcoes": [
+      "A) Ausência de risco de rejeição",
+      "B) Compatibilidade imunológica perfeita",
+      "C) Alto risco de rejeição humoral; pode contraindicar o transplante ou exigir desensibilização",
+      "D) Incompatibilidade ABO como única causa possível"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Anticorpos anti-doador predizem lesão humoral do enxerto.",
+    "explicacoes_opcoes": {
+      "A": "A afirma ausência de risco; na prática há sensibilização e risco elevado.",
+      "B": "Compatibilidade perfeita é incompatível com crossmatch positivo.",
+      "C": "Anticorpos anti-HLA no soro do receptor predizem risco de rejeição humoral e podem contraindicar ou exigir desensibilização.",
+      "D": "Crossmatch avalia HLA; ABO é outro eixo e não é a única base do resultado."
+    },
+    "explicacao": "Resumo: DSA e crossmatch positivo aumentam risco de rejeição humoral.\nA) INCORRETA. Risco aumenta.\nB) INCORRETA. Interpretação invertida.\nC) CORRETA. Implicação clínica correta.\nD) INCORRETA. Mecanismos podem coexistir; ABO não explica sozinho o resultado.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1549,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Biópsia renal precoce pós-transplante mostra depósito peritubular de C4d e evidência de lesão mediada por anticorpos. O processo é:",
+    "opcoes": [
+      "A) Tolerância central completa",
+      "B) Infecção fúngica exclusiva sem alorreconhecimento",
+      "C) Infarto renal isquêmico simples sem imunidade",
+      "D) Rejeição aguda humoral com ativação do complemento pelo enxerto"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "C4d marca ativação da cascata do complemento na microcirculação por anticorpos anti-doador.",
+    "explicacoes_opcoes": {
+      "A": "Tolerância não deposita C4d por rejeição.",
+      "B": "Fungo não explica padrão de C4d típico isoladamente.",
+      "C": "Isquemia não é o diagnóstico imunológico descrito.",
+      "D": "Anticorpos ativam complemento e lesionam capilares."
+    },
+    "explicacao": "Resumo: Rejeição humoral usa anticorpos e complemento.\nA) INCORRETA. Estado oposto.\nB) INCORRETA. Diagnóstico infeccioso insuficiente.\nC) INCORRETA. Mecânica vascular simples.\nD) CORRETA. Marcação e patogenia compatíveis.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1550,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Receptor de segundo transplante renal com PRA elevado apresenta crossmatch luminométrico positivo com soro atual. A implicação mais importante é:",
+    "opcoes": [
+      "A) Risco aumentado de rejeição mediada por anticorpos e necessidade de estratégia especializada",
+      "B) Garantia de tolerância permanente sem imunossupressão",
+      "C) Indicação de hemotransfusão ABO deliberadamente incompatível",
+      "D) Prova de infecção bacteriana aguda única"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Sensibilização alorreativa eleva risco de rejeição humoral.",
+    "explicacoes_opcoes": {
+      "A": "Crossmatch positivo exige manejo cuidadoso.",
+      "B": "Não há tolerância automática.",
+      "C": "ABO incompatível não é objetivo.",
+      "D": "PRA e crossmatch não diagnosticam bacteremia."
+    },
+    "explicacao": "Resumo: Anticorpos anti-HLA circulantes prejudicam o enxerto.\nA) CORRETA. Risco imunológico elevado.\nB) INCORRETA. Falso.\nC) INCORRETA. Prática perigosa.\nD) INCORRETA. Contexto imune, não infeccioso.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1551,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na profilaxia clássica da GVHD em transplante alogênico, esquemas frequentemente combinam:",
+    "opcoes": [
+      "A) Somente vacinação com BCG em qualquer situação",
+      "B) Metotrexato e inibidor de calcineurina como base de muitos protocolos",
+      "C) Dose única de vitamina C oral",
+      "D) Antibioticoterapia exclusiva para anaeróbios facultativos"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "MTX mais inibidor de calcineurina é combinação histórica de profilaxia de GVHD.",
+    "explicacoes_opcoes": {
+      "A": "BCG é vacina viva e contraindicada em imunossuprimidos graves.",
+      "B": "Metotrexato com inibidor de calcineurina integra muitos protocolos clássicos de profilaxia.",
+      "C": "Vitamina C isolada não substitui imunossupressão da GVHD.",
+      "D": "Antibiótico não realiza profilaxia imunológica da GVHD."
+    },
+    "explicacao": "Resumo: Profilaxia de GVHD usa imunossupressores combinados.\nA) INCORRETA. Vacina viva inadequada.\nB) CORRETA. Esquema clássico com metotrexato e inibidor de calcineurina.\nC) INCORRETA. Sem base.\nD) INCORRETA. Antibiótico não substitui imunossupressão da GVHD.",
+    "aula_id": "semio2_a5"
+  },
+  {
+    "id": 1552,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na abordagem cardiorrespiratória, o que caracteriza a semiologia?",
+    "opcoes": [
+      "A) Método que transforma sinais e sintomas em hipóteses clínicas fundamentadas.",
+      "B) Conjunto exclusivo de exames complementares para confirmar diagnóstico etiológico.",
+      "C) Protocolo fixo de internação baseado apenas em critérios laboratoriais.",
+      "D) Classificação epidemiológica de doenças sem contato com o paciente."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A semiologia organiza a propedêutica em torno da coleta e interpretação de dados clínicos para formular hipóteses, não para substituir o raciocínio por exames ou classificações afastadas do encontro com o paciente.",
+    "explicacoes_opcoes": {
+      "A": "Corresponde à definição operacional central: sinais/sintomas conduzem a hipóteses, com método.",
+      "B": "Exames complementares podem refinar hipóteses, mas não definem a semiologia nem a tornam exclusiva.",
+      "C": "Internação e laboratório são etapas possíveis, mas não são o núcleo conceitual da semiologia.",
+      "D": "Epidemiologia é ferramenta distinta; semiologia pressupõe avaliação clínica direta."
+    },
+    "explicacao": "Resumo: a semiologia é o método clínico que integra dados subjetivos e objetivos para gerar hipóteses diagnosticamente úteis.\nA) CORRETA. É a formulação explícita do papel da semiologia na propedêutica cardiorrespiratória.\nB) INCORRETA. Confunde semiologia com etapa exclusivamente propedêutica instrumental.\nC) INCORRETA. Mistura critério de manejo hospitalar com definição de semiologia.\nD) INCORRETA. Remove o exame clínico, contrariando o conceito apresentado.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1553,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Para que uma queixa como dispneia ou dor torácica ganhe significado diagnóstico, qual integração é indispensável?",
+    "opcoes": [
+      "A) Comparar o relato apenas com valores de referência de espirometria ambulatorial.",
+      "B) Relacionar história clínica dirigida, exame físico sistematizado e contexto do paciente.",
+      "C) Priorizar achados isolados de radiografia mesmo quando discordam da evolução sintomática.",
+      "D) Substituir a anamnese por escores numéricos de risco cardiovascular genéricos."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Sintomas cardiorrespiratórios só se interpretam quando tempo de evolução, fatores de modificação e achados objetivos conversam entre si e com o contexto individual.",
+    "explicacoes_opcoes": {
+      "A": "Testes funcionais ajudam, mas não substituem a correlação clínica global exigida na integração.",
+      "B": "Reproduz o tripé enfatizado: anamnese, exame e contexto, evitando leitura fragmentada.",
+      "C": "Imagem pode orientar, mas não deve prevalecer isoladamente sobre coerência clínica.",
+      "D": "Escores auxiliam probabilidade, mas não dispensam história e exame físico estruturado."
+    },
+    "explicacao": "Resumo: a hipótese inicial depende de convergência entre dados da entrevista, exame e cenário clínico.\nA) INCORRETA. Reduz o problema a parâmetro de função pulmonar sem vínculo com história e exame.\nB) CORRETA. É exatamente a integração clínica necessária para dar significado ao sintoma.\nC) INCORRETA. Valoriza exame complementar isolado em detrimento da coerência sintoma–sinal–tempo.\nD) INCORRETA. Troca método clínico por instrumento de estratificação sem avaliação direta adequada.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1556,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Estudante descreve um sopro sistólico em foco mitral e conclui imediatamente “insuficiência mitral grave” sem perguntar sobre dispneia, ortopneia nem inspeção jugular. O erro conceitual principal é:",
+    "opcoes": [
+      "A) Tratar um achado acústico como conclusão diagnóstica definitiva sem integrar sintomas, contexto e gradação clínica.",
+      "B) Ter utilizado o foco mitral como local de ausculta.",
+      "C) Não ter pedido eletrocardiograma antes de auscultar o paciente.",
+      "D) Supor que sopros sistólicos sejam sempre funcionais em adultos jovens."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A banca costuma explorar a confusão entre sinal clínico e diagnóstico final: o sinal orienta hipótese, mas não substitui correlação com quadro completo.",
+    "explicacoes_opcoes": {
+      "A": "Capta a falha de transformar achado isolado em diagnóstico fechado sem dados clínicos adicionais.",
+      "B": "O foco mitral é localização usual; não constitui erro por si só.",
+      "C": "Eletrocardiograma pode ajudar, mas o erro central é interpretativa, não sequencial trivial.",
+      "D": "Generalização sobre sopros funcionais não é o núcleo do problema descrito no enunciado."
+    },
+    "explicacao": "Resumo: sopro é peça semiológica, não sentença diagnóstica sem suporte clínico.\nA) CORRETA. Explicita a confusão entre sinal e síndrome diagnosticamente fechada sem integração.\nB) INCORRETA. Não identifica o equívoco conceitual central da conduta do estudante.\nC) INCORRETA. Desvia para ordem de exames sem abordar o salto lógico no raciocínio.\nD) INCORRETA. Introduz hipótese etiológica específica não sustentada pelo texto.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1558,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente com tosse crônica é examinado em sala mal iluminada; percussão torácica foi feita de forma apressada e sem simetria entre hemítórax. Ao interpretar o caso, você explica ao calouro que:",
+    "opcoes": [
+      "A) Achados obtidos com técnica falha devem ser valorizados como equivalentes aos de técnica impecável.",
+      "B) A inspeção importa apenas para pele e não influencia leitura respiratória.",
+      "C) Dados semiológicos só são interpretáveis quando a coleta segue padrão técnico; caso contrário, o risco de conclusão equivocada aumenta.",
+      "D) A pressa é irrelevante se o examinador tiver experiência subjetiva suficiente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A confiabilidade do exame físico cardiorrespiratório depende de inspeção adequada, simetria na percussão e execução disciplinada das manobras.",
+    "explicacoes_opcoes": {
+      "A": "Nega o impacto da técnica na validade do achado, contrariando o princípio de exame padronizado.",
+      "B": "Subestima a inspeção ventilatória e de esforço respiratório na avaliação torácica.",
+      "C": "Reconhece que técnica deficiente corrompe o valor do dado clínico obtido.",
+      "D": "Substitui método objetivo por critério subjetivo de experiência, fragilizando a semiologia."
+    },
+    "explicacao": "Resumo: qualidade do exame físico condiciona a utilidade diagnóstica do sinal.\nA) INCORRETA. Equipara achados válidos e inválidos, ignorando exigência de técnica.\nB) INCORRETA. Ignora papel da inspeção na semiologia respiratória.\nC) CORRETA. Condiz com a ideia de que execução padronizada define validade semiológica.\nD) INCORRETA. Experiência não corrige dados mal obtidos de forma sistemática.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1562,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na abordagem cardiorrespiratória, qual princípio descreve melhor o ponto de partida racional da história clínica?",
+    "opcoes": [
+      "A) Priorizar o exame físico objetivo antes de qualquer relato subjetivo do paciente.",
+      "B) Iniciar pela queixa principal e pela linha do tempo dos sintomas.",
+      "C) Solicitar exames de imagem antes de caracterizar dispneia ou dor torácica.",
+      "D) Registrar primeiro apenas antecedentes familiares, adiando a queixa atual."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A história clínica estrutura-se a partir da queixa e da cronologia; isso permite qualificar sintomas antes de exames ou hipóteses fechadas.",
+    "explicacoes_opcoes": {
+      "A": "Inverte a sequência lógica: o relato orienta hipóteses e prioriza o que perguntar no exame físico.",
+      "B": "Correta: alinha-se ao fluxo descrito no material (queixa + linha do tempo) para ancorar o raciocínio.",
+      "C": "Exames não substituem a caracterização clínica inicial da dispneia ou da dor; ordem inadequada na propedêutica.",
+      "D": "Antecedentes complementam, mas não substituem a descrição atual da queixa e sua evolução."
+    },
+    "explicacao": "Resumo: A história clínica começa pela queixa e pela linha do tempo, que organizam hipóteses e perguntas seguintes.\nA) INCORRETA. Inverte a sequência: o relato guia o exame e as hipóteses, não o contrário.\nB) CORRETA. Reflete o núcleo do material: queixa principal e temporalidade como ponto de partida.\nC) INCORRETA. Caracterização clínica precede indicação racional de exames complementares.\nD) INCORRETA. Retardar a queixa atual enfraquece a anamnese dirigida e a priorização diagnóstica.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1563,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente com queixa respiratória crônica. Qual afirmação sobre o papel de comorbidades, hábitos e contexto na anamnese está mais alinhada ao raciocínio da aula?",
+    "opcoes": [
+      "A) Tabagismo e ocupação perdem relevância se a queixa for apenas dispneia sem dor torácica.",
+      "B) História familiar só precisa ser explorada quando há síncope ou palpitação isolada.",
+      "C) Medicações em uso não alteram de forma útil a probabilidade pré-teste das causas de dispneia.",
+      "D) Comorbidades, tabagismo, ocupação e exposições ambientais refinam a probabilidade diagnóstica."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O material enfatiza que sintomas não existem “no vazio”: fatores de risco e biografia clínica modulam a probabilidade pré-teste.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tabagismo e exposição ocupacional continuam centrais em causas pulmonares e mistas.",
+      "B": "Incorreta: história familiar pode ser relevante em vários eixos cardiovasculares e não só em arritmia.",
+      "C": "Incorreta: fármacos (anti-hipertensivos, broncodilatadores etc.) influenciam interpretação e hipóteses.",
+      "D": "Correta: corresponde ao texto sobre comorbidades, tabagismo, ocupação e ambiente refinando probabilidade."
+    },
+    "explicacao": "Resumo: Fatores de risco e contexto inserem o sintoma na biografia clínica e ajustam a probabilidade pré-teste.\nA) INCORRETA. Dispneia isolada não torna irrelevante tabagismo ou exposições ocupacionais.\nB) INCORRETA. História familiar pode importar além de síncope ou palpitação, conforme o quadro.\nC) INCORRETA. Medicações fazem parte do contexto que altera hipóteses e interpretação.\nD) CORRETA. Reproduz a ideia de que comorbidades, hábitos e ambiente refinam probabilidade diagnóstica.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1565,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Homem de 55 anos descreve sensação de aperto retroesternal ao caminhar ladeira acima, aliviando em poucos minutos ao parar, com irradiação ocasional para mandíbula. Qual afirmação reflete melhor o valor semiológico da dor torácica ?",
+    "opcoes": [
+      "A) O padrão da dor perde importância se o eletrocardiograma de repouso estiver sem alterações agudas.",
+      "B) Toda dor torácica deve ser tratada como uma única entidade clínica para simplificar a anamnese.",
+      "C) Padrão, relação com esforço, tempo de duração e irradiação têm alto valor para modular a hipótese central.",
+      "D) Somente náuseas ou sudorese definem o valor discriminativo da história, dispensando o relato da dor."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Na dor torácica, características semióticas (padrão, gatilho, irradiação, sintomas concomitantes) alteram o diagnóstico provável, independentemente de um único exame pontual.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ECG normal não anula o valor do relato típico de angina; a história continua central.",
+      "B": "Incorreta: o material contrapõe a ideia de “dor torácica única”; as características mudam a hipótese.",
+      "C": "Correta: alinha-se ao destaque para padrão, esforço, tempo e irradiação na definição da hipótese.",
+      "D": "Incorreta: sinais autonômicos somam, mas não substituem a descrição estruturada da dor."
+    },
+    "explicacao": "Resumo: Características semióticas da dor torácica orientam probabilidade; não se resume a um exame isolado nem a um único sintoma acessório.\nA) INCORRETA. Ausência de alteração aguda no ECG não descarta valor prognóstico e semiológico da história.\nB) INCORRETA. A aula enfatiza que características distintas mudam o diagnóstico provável.\nC) CORRETA. Captura padrão, esforço, duração e irradiação como eixos de alta discriminação.\nD) INCORRETA. Autonomia clínica complementa, mas não dispensa o perfil completo da dor.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1566,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Paciente com tosse com expectoração há três semanas, sem hemoptise referida. Na anamnese cardiorrespiratória, qual conduta melhor traduz o uso clínico da tosse como sintoma direcionador?",
+    "opcoes": [
+      "A) Considerar dispensável a evolução temporal enquanto não houver febre documentada.",
+      "B) Detalhar tipo de tosse, duração, evolução e sintomas associados como febre, sibilância ou dispneia.",
+      "C) Classificar tosse apenas como dado acessório frente ao tabagismo, sem qualificação adicional.",
+      "D) Registrar “tosse crônica” sem definir início nem mudança do padrão ao longo das semanas."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O material indica que tipo e evolução da tosse ajudam no diferencial; sintomas associados aumentam poder discriminatório.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: temporalidade e evolução importam mesmo sem febre; não dependem dela para serem úteis.",
+      "B": "Correta: integra tipo, curso temporal e sintomas associados citados para a tosse.",
+      "C": "Incorreta: tabagismo é fator de risco, mas a tosse ainda precisa ser qualificada em si.",
+      "D": "Incorreta: rótulo vago sem início ou progressão enfraquece a anamnese dirigida."
+    },
+    "explicacao": "Resumo: Tosse deve ser caracterizada (tipo, tempo, evolução) e cruzada com sintomas associados para hipóteses mais precisas.\nA) INCORRETA. Evolução não fica condicionada à presença de febre.\nB) CORRETA. Reflete a recomendação de explorar tipo, evolução e sintomas associados.\nC) INCORRETA. Reduz a tosse a pano de fundo do tabagismo sem qualificação própria.\nD) INCORRETA. Falta início e progressão, exatamente o que a aula desaconselha registrar de modo vago.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1572,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Mulher de 62 anos com dispneia aos esforços e edema de MMII há três semanas. Ao exame físico, há turgência jugular e estertores em bases pulmonares. No conjunto, esses achados orientam prioritariamente para:",
+    "opcoes": [
+      "A) Hipoperfusão arterial periférica como mecanismo único",
+      "B) Congestão venosa sistêmica compatível com sobrecarga de pressão/volume ou falência cardíaca",
+      "C) Valvopatia grave já definida apenas pela ausculta isolada",
+      "D) Obstrução de vias aéreas superiores sem repercussão hemodinâmica"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Turgência jugular e sinais pulmonares de congestão integram a leitura de sobrecarga venosa e possível IC; sinais periféricos e jugulares são classicamente sugestivos de congestão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hipoperfusão arterial predomina em baixo débito com perfusão fria; o quadro descreve congestão.",
+      "B": "Correta: Turgência jugular e congestão pulmonar associam-se a aumento das pressões de enchimento e congestão sistêmica/pulmonar típica de IC ou sobrecarga direita/esquerda conforme contexto.",
+      "C": "Incorreta: Valvopatia exige correlacionar sopro, contexto e exames; não se define só com um achado isolado.",
+      "D": "Incorreta: O padrão descrito é de congestão cardiopulmonar, não de obstrução de vias aéreas superiores."
+    },
+    "explicacao": "Resumo: Sinais de congestão venosa e pulmonar sugerem sobrecarga hemodinâmica e falência cardíaca no contexto clínico.\nA) INCORRETA. Incorreta: Hipoperfusão arterial predomina em baixo débito com perfusão fria; o quadro descreve congestão.\nB) CORRETA. Correta: Turgência jugular e congestão pulmonar associam-se a aumento das pressões de enchimento e congestão sistêmica/pulmonar típica de IC ou sobrecarga direita/esquerda conforme contexto.\nC) INCORRETA. Incorreta: Valvopatia exige correlacionar sopro, contexto e exames; não se define só com um achado isolado.\nD) INCORRETA. Incorreta: O padrão descrito é de congestão cardiopulmonar, não de obstrução de vias aéreas superiores.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1576,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "A avaliação do pulso periférico no exame cardiovascular informa principalmente:",
+    "opcoes": [
+      "A) Apenas a anatomia do sistema venoso profundo",
+      "B) Perfusão tecidual e padrão hemodinâmico periférico",
+      "C) Pressão intracraniana de forma direta",
+      "D) Integridade exclusiva do nódulo atrioventricular"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Classicamente associa-se o pulso periférico à avaliação de perfusão e padrão hemodinâmico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Pulso arterial não avalia sistema venoso profundo como foco principal.",
+      "B": "Correta: Pulso reflete débito e perfusão; alterações sugerem hipoperfusão ou patologia arterial.",
+      "C": "Incorreta: PIC não é medida pelo pulso periférico.",
+      "D": "Incorreta: Condução AV não é o único alvo do exame do pulso; ritmo e volume também importam."
+    },
+    "explicacao": "Resumo: Pulso periférico reflete perfusão e estado hemodinâmico periférico.\nA) INCORRETA. Pulso arterial não avalia sistema venoso profundo como foco principal.\nB) CORRETA. Pulso reflete débito e perfusão; alterações sugerem hipoperfusão ou patologia arterial.\nC) INCORRETA. PIC não é medida pelo pulso periférico.\nD) INCORRETA. Condução AV não é o único alvo do exame do pulso; ritmo e volume também importam.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1577,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na descrição semiológica do sopro cardíaco, o valor diagnóstico robusto exige que a caracterização inclua, de forma integrada:",
+    "opcoes": [
+      "A) Somente a intensidade, em escala arbitrária",
+      "B) Apenas o foco auscultatório, desconsiderando tempo e irradiação",
+      "C) Tempo no ciclo cardíaco, foco, irradiação e intensidade, lidos com o quadro clínico",
+      "D) A idade do paciente como único critério decisório"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O sopro ganha significado diagnóstico quando se descreve tempo do ciclo, foco, irradiação e intensidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Intensidade isolada é insuficiente para caracterizar lesão ou gravidade.",
+      "B": "Incorreta: Foco sem tempo e irradiação impede diferenciar sopro e sua origem provável.",
+      "C": "Correta: Descrição técnica completa é o padrão esperado na propedêutica para valor diagnóstico.",
+      "D": "Incorreta: Idade modula interpretação, mas não substitui descrição acústica e correlatos."
+    },
+    "explicacao": "Resumo: Sopro deve ser descrito por timing, localização, irradiação e intensidade.\nA) INCORRETA. Intensidade isolada é insuficiente para caracterizar lesão ou gravidade.\nB) INCORRETA. Foco sem tempo e irradiação impede diferenciar sopro e sua origem provável.\nC) CORRETA. Descrição técnica completa é o padrão esperado na propedêutica para valor diagnóstico.\nD) INCORRETA. Idade modula interpretação, mas não substitui descrição acústica e correlatos.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1580,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Ictus palpável e frêmito no exame cardiovascular contribuem principalmente para:",
+    "opcoes": [
+      "A) Estimar exclusivamente a pressão arterial diastólica",
+      "B) Substituir o eletrocardiograma em qualquer suspeita de arritmia",
+      "C) Raciocínio sobre alterações estruturais ou funcionais (ex.: valvulares, volumosidade de câmaras",
+      "D) Confirmar pericardite aguda sem outros achados"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ictus e frêmito integram o raciocínio estrutural na propedêutica cardiovascular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ictus informa deslocamento/força de deslocamento do ápice, não PA diastólica isolada.",
+      "B": "Incorreta: ECG permanece central para ritmo e isquemia; exame físico complementa.",
+      "C": "Correta: Frêmito sugere fluxo turbulento importante; ictus ajuda a caracterizar câmaras sob carga.",
+      "D": "Incorreta: Pericardite tem semiologia própria (dor, atrito); não se diagnostica só com ictus/frêmito genéricos."
+    },
+    "explicacao": "Resumo: Ictus e frêmito integram o raciocínio estrutural e funcional do exame.\nA) INCORRETA. Ictus informa deslocamento/força de deslocamento do ápice, não PA diastólica isolada.\nB) INCORRETA. ECG permanece central para ritmo e isquemia; exame físico complementa.\nC) CORRETA. Frêmito sugere fluxo turbulento importante; ictus ajuda a caracterizar câmaras sob carga.\nD) INCORRETA. Pericardite tem semiologia própria (dor, atrito); não se diagnostica só com ictus/frêmito genéricos.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1582,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na propedêutica respiratória, qual é a sequência clássica dos métodos do exame físico torácico?",
+    "opcoes": [
+      "A) Inspeção, palpação, percussão e ausculta.",
+      "B) Ausculta, inspeção, percussão e palpação.",
+      "C) Percussão, inspeção, palpação e ausculta.",
+      "D) Palpação, ausculta, inspeção e percussão."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A sequência ensinada na semiologia respiratória segue inspeção, palpação, percussão e ausculta, permitindo inspeção global antes da ausculta fina.",
+    "explicacoes_opcoes": {
+      "A": "Correta: É a ordem padronizada que evita pular etapas que orientam densidade e expansão antes de escutar.",
+      "B": "Incorreta: Começar pela ausculta descarta inspeção e palpação que contextualizam esforço, simetria e frêmito.",
+      "C": "Incorreta: Iniciar pela percussão não corresponde à sequência clássica (inspeção vem primeiro).",
+      "D": "Incorreta: Palpação e ausculta não são os primeiros passos; a inspeção antecede a palpação."
+    },
+    "explicacao": "Resumo: A sequência correta é inspeção, palpação, percussão e ausculta.\nA) CORRETA. Correta: Ordem padronizada da propedêutica respiratória.\nB) INCORRETA. Incorreta: Ausculta não é o primeiro método; perde-se contexto de inspeção/palpação.\nC) INCORRETA. Incorreta: Percussão não abre o exame; inspeção e palpação vêm antes.\nD) INCORRETA. Incorreta: Ordem invertida em relação à técnica clássica.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1586,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na palpação do tórax durante o exame respiratório, o examinador avalia, entre outros elementos:",
+    "opcoes": [
+      "A) Expansibilidade torácica e frêmito toracovocal.",
+      "B) Apenas dor à palpação da parede, sem expansão.",
+      "C) Ruídos adventícios, que pertencem só à inspeção.",
+      "D) Frequência cardíaca como método exclusivo da palpação pulmonar."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A palpação contribui com expansibilidade e frêmito toracovocal, além de dor ou massas quando presentes.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Na palpação respiratória avaliam-se expansibilidade e frêmito toracovocal.",
+      "B": "Incorreta: A palpação não se limita à dor; inclui movimento e transmissão de vibração vocal.",
+      "C": "Incorreta: Ruídos adventícios são auscultados; não são objeto da inspeção isolada.",
+      "D": "Incorreta: Pulso/frequência cardíaca não definem a palpação torácica do exame respiratório."
+    },
+    "explicacao": "Resumo: Palpação respiratória inclui expansão e frêmito vocal.\nA) CORRETA. Correta: Itens centrais da palpação torácica no exame respiratório.\nB) INCORRETA. Incorreta: Resposta incompleta e restritiva.\nC) INCORRETA. Incorreta: Confunde métodos do exame físico.\nD) INCORRETA. Incorreta: Não descreve a palpação pulmonar propriamente dita.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1590,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Mulher de 40 anos com pneumonia lobar em lobo inferior. Na região do lobo consolidado, a percussão costuma revelar:",
+    "opcoes": [
+      "A) Hipertimpanismo difuso em ambos os hemitórax.",
+      "B) Macicez ou submacicez localizada sobre a área consolidada.",
+      "C) Som claro aumentado em relação ao parênquima normal.",
+      "D) Timpanismo exclusivo sem alteração do murmúrio vesicular."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A consolidação aumenta a densidade do tecido, gerando macicez ou submacicez à percussão na topografia afetada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hipertimpanismo não é o padrão típico da consolidação parenquimatosa.",
+      "B": "Correta: O parênquima consolidado é mais denso; a percussão torna-se opaca na região.",
+      "C": "Incorreta: Som não fica mais timpânico; espera-se menor ressonância (mais maciça).",
+      "D": "Incorreta: Consolidação altera murmúrio (broncofonia e padrão auscultatório), não timpanismo puro."
+    },
+    "explicacao": "Resumo: Consolidação aumenta densidade local; percussão maciça ou submaciça.\nA) INCORRETA. Incorreta: Não é padrão de consolidação lobar típica.\nB) CORRETA. Correta: Densidade aumentada local dá macicez à percussão.\nC) INCORRETA. Incorreta: Som mais claro não descreve consolidação.\nD) INCORRETA. Incorreta: Murmúrio altera; não há timpanismo exclusivo típico.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1591,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na inspeção do tórax na abordagem respiratória, o examinador observa prioritariamente:",
+    "opcoes": [
+      "A) Apenas a frequência respiratória numérica, sem padrão de movimento.",
+      "B) Ruídos adventícios audíveis sem estetoscópio.",
+      "C) Som de percussão antes de qualquer contato manual.",
+      "D) Padrão ventilatório, recurso de musculatura acessória e simetria expansiva."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A inspeção identifica esforço respiratório, uso de acessórios e simetria da expansão, antes de palpação e percussão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: A inspeção vai além do número; inclui padrão e trabalho respiratório.",
+      "B": "Incorreta: Ruídos adventícios são auscultados com estetoscópio adequado.",
+      "C": "Incorreta: Percussão é etapa posterior; não inspeciona-se ‘som de percussão’ na inspeção pura.",
+      "D": "Correta: A inspeção respiratória foca padrão ventilatório, musculatura acessória e simetria expansiva."
+    },
+    "explicacao": "Resumo: Inspeção respiratória foca padrão ventilatório, acessórios e simetria.\nA) INCORRETA. Incorreta: Resposta incompleta.\nB) INCORRETA. Incorreta: Confunde inspeção com ausculta.\nC) INCORRETA. Incorreta: Percussão não é inspeção.\nD) CORRETA. Correta: Alinhado à definição semiológica da inspeção respiratória.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1592,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Na avaliação semiológica cardiorrespiratória, qual princípio melhor traduz a passagem da coleta de dados para o raciocínio clínico?",
+    "opcoes": [
+      "A) Integrar achados em um padrão coerente com uma hipótese fisiopatológica (síndrome provável), em vez de atribuir significado definitivo a um sinal isolado.",
+      "B) Considerar que um único achado bem descrito, se clássico, dispensa a busca de outros sinais correlatos.",
+      "C) Priorizar o fechamento do diagnóstico etiológico final antes de qualquer descrição sindrômica.",
+      "D) Tratar percussão e ausculta como provas isoladas que substituem a correlação com sintomas e exame geral."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A aula enfatiza que nenhum sinal físico isolado fecha diagnóstico com segurança; o valor está no padrão de achados que apontam na mesma direção fisiopatológica.",
+    "explicacoes_opcoes": {
+      "A": "Correta. Agrupar sinais compatíveis com uma mesma síndrome (ex.: congestiva, obstrutiva) é o núcleo do raciocínio proposto no material.",
+      "B": "Incorreta. O texto alerta explicitamente contra confiar em achado isolado como fechamento diagnóstico.",
+      "C": "Incorreta. O material contrapõe diagnóstico sindrômico inicial ao etiológico final: o sindrômico vem antes e orienta a investigação.",
+      "D": "Incorreta. Os métodos do exame físico devem ser correlacionados entre si e com a história — não substituem a síntese sindrômica."
+    },
+    "explicacao": "Resumo: O raciocínio maduro junta peças compatíveis em síndrome provável; sinal isolado não fecha etiologia.\nA) CORRETA. Integração em padrão fisiopatológico é o passo correto.\nB) INCORRETA. Um sinal clássico ainda exige contexto e conjunto de achados.\nC) INCORRETA. A etiologia final é investigada depois da formulação sindrômica.\nD) INCORRETA. Técnicas isoladas não substituem a hipótese clínica integrada.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1593,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Depois de formular uma síndrome cardiorrespiratória provável, qual é o próximo eixo lógico de decisão descrito na abordagem semiológica?",
+    "opcoes": [
+      "A) Solicitar imediatamente o maior número possível de exames complementares para \"fechar\" etiologia.",
+      "B) Estimar gravidade e necessidade de intervenção urgente versus investigação programada, conforme estabilidade clínica.",
+      "C) Adiar a estratificação de risco até o resultado de exames de imagem em todos os casos.",
+      "D) Definir conduta exclusivamente eletiva enquanto não houver diagnóstico etiológico fechado."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Após a síndrome provável, o material prioriza decidir quem precisa de ação imediata e quem pode ser investigado de forma escalonada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. Exames devem responder a perguntas clínicas definidas; painel amplo sem hipótese reduz rendimento e favorece ruído diagnóstico.",
+      "B": "Correta. A gravidade hemodinâmica e respiratória orienta urgência — coerente com estratificação de prioridade do texto.",
+      "C": "Incorreta. A gravidade clínica (sinais vitais, perfusão, trabalho respiratório) frequentemente antecede e guia exames, não o contrário em situações instáveis.",
+      "D": "Incorreta. Há situações que exigem intervenção imediata antes de etiologia completa (ex.: instabilidade)."
+    },
+    "explicacao": "Resumo: Síndrome definida → priorizar gravidade e necessidade de urgência.\nA) INCORRETA. Investigação deve ser orientada por hipótese.\nB) CORRETA. Priorização por gravidade é o passo lógico descrito.\nC) INCORRETA. Nem toda decisão pode esperar imagem.\nD) INCORRETA. Conduta não é sempre eletiva.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1595,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "Sobre a diferença entre diagnóstico sindrômico e diagnóstico etiológico na abordagem cardiorrespiratória, qual afirmação está correta?",
+    "opcoes": [
+      "A) O diagnóstico etiológico deve ser estabelecido antes de qualquer rotulação sindrômica, sob pena de imprecisão.",
+      "B) \"Síndrome congestiva\" e \"pneumonia lobar\" são equivalentes como primeira camada diagnóstica.",
+      "C) O diagnóstico sindrômico é um rótulo decorativo, sem impacto na escolha de exames.",
+      "D) O diagnóstico sindrômico inicial organiza hipóteses etiológicas e ajuda a selecionar exames que respondam a perguntas clínicas específicas."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "O material distingue síndrome (padrão de achados) de etiologia final; o primeiro orienta investigação racional.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. A tabela da aula posiciona o sindrômico antes do etiológico final.",
+      "B": "Incorreta. São categorias diferentes: uma descreve mecanismo/padrão clínico; a outra identifica causa específica.",
+      "C": "Incorreta. A síndrome guia hipóteses e priorização — não é apenas nomenclatura.",
+      "D": "Correta. Coerente com exame orientado por hipótese e com a sequência sindrômico → etiológico."
+    },
+    "explicacao": "Resumo: Sindrômico estrutura o raciocínio; etiologia vem com evidências.\nA) INCORRETA. Inverte a sequência defendida .\nB) INCORRETA. Confunde níveis de diagnóstico.\nC) INCORRETA. Sindrômico tem função decisória.\nD) CORRETA. Alinha síndrome, hipótese e investigação.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  },
+  {
+    "id": 1598,
+    "materia": "semiologia2",
+    "tema": "semio2_a5",
+    "enunciado": "A aula menciona que interpretação semiológica madura ajuda a reduzir erros de superdiagnóstico e subdiagnóstico. Qual mecanismo explica melhor esse benefício?",
+    "opcoes": [
+      "A) Substituição completa do exame físico por algoritmos laboratoriais.",
+      "B) Redução automática de qualquer solicitação de imagem em pacientes idosos.",
+      "C) Integrar achados em síndrome coerente e definir pergunta clínica antes de atribuir rótulos definitivos ou negligenciar padrões sugestivos.",
+      "D) Priorizar sempre a conduta eletiva para evitar iatrogenia de urgência."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Overdiagnosis e underdiagnosis diminuem quando o conjunto de sinais é interpretado com lógica fisiopatológica e hipótese explícita.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta. O material valoriza método clínico e correlação — não abolição do exame físico.",
+      "B": "Incorreta. Idade sozinha não determina corte de imagem; a decisão depende de probabilidade e gravidade.",
+      "C": "Correta. Síndrome coerente e pergunta clínica reduzem fechamento prematuro (over) e ignorar o padrão (under).",
+      "D": "Incorreta. Eletividade nem sempre é segura; urgências existem e a aula fala em priorização por gravidade."
+    },
+    "explicacao": "Resumo: Padrão sindrômico + hipótese clínica calibram diagnóstico.\nA) INCORRETA. Não elimina exame físico.\nB) INCORRETA. Regra por idade não substitui raciocínio.\nC) CORRETA. Mecanismo alinhado ao texto.\nD) INCORRETA. Ignora necessidade de urgência quando indicada.",
+    "aula_id": "semio2_a5",
+    "essencial": false
+  }
+]

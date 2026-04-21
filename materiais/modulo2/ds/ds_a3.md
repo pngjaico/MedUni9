@@ -2,7 +2,7 @@
 
 Políticas públicas não são apenas leis no papel, são ações que mudam a vida das pessoas. Na prova, o tema central é a **Intersetorialidade** (como o SUS trabalha junto com o Saneamento e a Defesa Civil) e como a **Vigilância em Saúde Ambiental** monitora os perigos antes que eles virem doenças.
 
-Na prática, se a prefeitura investe em coleta de lixo e esgoto, o hospital recebe menos casos de infecção. A saúde se faz na cidade, não apenas dentro do consultório.
+Na prática, se a prefeitura investe em **coleta de lixo** e **esgoto**, o hospital recebe menos casos de infecção. A saúde se faz na cidade, não apenas dentro do consultório.
 
 ---
 
@@ -18,25 +18,25 @@ Na prática, se a prefeitura investe em coleta de lixo e esgoto, o hospital rece
 ## 1. O SUS e o Meio Ambiente
 
 O SUS não trabalha sozinho. Para ser efetivo, ele precisa de:
-- **Vigilância em Saúde Ambiental:** Monitora a qualidade da água que você bebe e o ar que você respira.
-- **Saneamento Básico:** É a política mais barata e eficiente. Água limpa e esgoto tratado evitam hepatite, diarreia e leptospirose.
-- **PNRS (Resíduos Sólidos):** Regras para o lixo. Acabar com lixões reduz o risco de doenças transmitidas por bichos (ratos, moscas) e contaminação do solo.
+- **Vigilância em Saúde Ambiental:** Monitora a qualidade da **água** que você bebe e o **ar** que você respira.
+- **Saneamento Básico:** É a política mais barata e eficiente. Água limpa e esgoto tratado evitam **hepatite**, **diarreia** e **leptospirose**.
+- **PNRS (Resíduos Sólidos):** Regras para o lixo. Acabar com **lixões** reduz o risco de doenças transmitidas por bichos (ratos, moscas) e contaminação do solo.
 
 ---
 
 ## 2. Intersetorialidade (Trabalho em Equipe)
 
-A palavra-chave aqui é **Intersetorialidade**. Significa que a Secretaria da Saúde conversa com a Secretaria de Obras e a de Meio Ambiente.
-- **Exemplo de Sucesso:** No surto de Dengue, a Saúde cuida dos doentes, mas a Limpeza Urbana precisa tirar os entulhos e o Meio Ambiente precisa fiscalizar os terrenos. Se cada um trabalhar sozinho, o mosquito vence.
+A palavra-chave aqui é **Intersetorialidade**. Significa que a **Secretaria da Saúde** conversa com a **Secretaria de Obras** e a de **Meio Ambiente**.
+- **Exemplo de Sucesso:** No surto de **Dengue**, a Saúde cuida dos doentes, mas a **Limpeza Urbana** precisa tirar os entulhos e o **Meio Ambiente** precisa fiscalizar os terrenos. Se cada um trabalhar sozinho, o mosquito vence.
 
 ---
 
 ## 3. Resposta a Desastres
 
 O Brasil sofre com enchentes e deslizamentos. A política de saúde aqui é:
-- **Preparação:** Ter planos de evacuação e abrigos prontos.
-- **Resposta:** Triagem rápida nos abrigos e vigilância para evitar surtos de doenças logo após a chuva parar.
-- **Recuperação:** Acompanhar a saúde mental e as doenças que aparecem semanas depois do desastre.
+- **Preparação:** Ter planos de **evacuação** e **abrigos** prontos.
+- **Resposta:** **Triagem rápida** nos abrigos e vigilância para evitar surtos de doenças logo após a chuva parar.
+- **Recuperação:** Acompanhar a **saúde mental** e as doenças que aparecem semanas depois do desastre.
 
 ---
 
@@ -82,9 +82,9 @@ Não confunda **Vigilância Ambiental** com Vigilância Sanitária. A Ambiental 
 |------------|------------|-----------------|
 | **Vigilância Ambiental** | **Vigilância Sanitária** | Água/Ar/Vetores vs **Alimentos/Remédios/Serviços** |
 | **Ação Reativa** | **Ação Preventiva** | Age no desastre vs **Age antes para evitar o dano** |
-| **Saneamento** | **Assistência Médica** | Tira a causa da doença vs **Trata quem já adoeceu** |
+| **Saneamento** | **Assistência Médica** | **Tira a causa da doença** vs Trata quem já adoeceu |
 | **Fragmentação** | **Intersetorialidade** | Cada um por si vs **Trabalho em rede colaborativa** |
-| **Vigiágua** | **Vigipeq** | Vigilância da Água vs **Vigilância de Populações Expostas a Químicos** |
+| **Vigiágua** | **Vigipeq** | **Vigilância da Água** vs Vigilância de Populações Expostas a Químicos |
 
 ### Frase-âncora para não esquecer
 

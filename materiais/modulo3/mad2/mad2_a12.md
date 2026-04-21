@@ -2,7 +2,7 @@
 
 As arboviroses (vírus transmitidos por insetos) são um desafio constante para a saúde pública brasileira. Na prova, o segredo é saber diferenciar a "assinatura" de cada uma: a gravidade da **Dengue**, a dor articular da **Chikungunya** e o risco gestacional da **Zika**.
 
-Na prática, o médico deve estar atento aos sinais de alarme da dengue, pois o paciente pode piorar subitamente no momento em que a febre vai embora, exigindo hidratação imediata para evitar o choque.
+Na prática, o médico deve estar atento aos **sinais de alarme da dengue**, pois o paciente pode piorar subitamente no momento em que a febre vai embora, exigindo **hidratação imediata** para evitar o choque.
 
 ---
 
@@ -18,9 +18,9 @@ Na prática, o médico deve estar atento aos sinais de alarme da dengue, pois o 
 ## 1. Dengue: A Mais Perigosa
 
 A dengue é marcada por febre alta e dor no corpo, mas o perigo real é a **Síndrome do Extravasamento Plasmático**.
-- **Sinais de Alarme:** Ocorrem quando a febre está baixando (**Fase Crítica**). São eles: dor abdominal intensa, vômitos persistentes, tontura ao levantar, sangramento de mucosas e cansaço extremo.
+- **Sinais de Alarme:** Ocorrem quando a febre está baixando (**Fase Crítica**). São eles: **dor abdominal intensa**, **vômitos persistentes**, **tontura ao levantar**, **sangramento de mucosas** e cansaço extremo.
 - **Exames:** O hemograma mostra o sangue "ficando grosso" (**Aumento do Hematócrito**) e as **Plaquetas caindo**.
-- **Manejo:** Hidratação precoce e vigorosa é a base do tratamento. **NUNCA** usar anti-inflamatórios ou AAS, pelo risco de sangramento.
+- **Manejo:** **Hidratação precoce** e vigorosa é a base do tratamento. **NUNCA** usar anti-inflamatórios ou AAS, pelo risco de sangramento.
 
 ---
 
@@ -28,14 +28,14 @@ A dengue é marcada por febre alta e dor no corpo, mas o perigo real é a **Sín
 
 O vírus Chikungunya causa uma inflamação articular que pode ser devastadora.
 - **Perfil Clínico:** Febre alta súbita e uma **Artralgia Incapacitante** (dor nas juntas tão forte que o paciente não consegue andar ou pentear o cabelo). 
-- **Cronificação:** Diferente da dengue, a Chikungunya pode deixar o paciente com dor nas articulações por meses ou **Anos** após a infecção inicial, exigindo fisioterapia e remédios para dor crônica.
+- **Cronificação:** Diferente da dengue, a **Chikungunya** pode deixar o paciente com dor nas articulações por meses ou **Anos** após a infecção inicial, exigindo fisioterapia e remédios para dor crônica.
 
 ---
 
 ## 3. Zika: O Risco para o Bebê
 
 A Zika costuma ser a mais "leve" para o paciente comum, mas a mais trágica epidemiologicamente.
-- **Sinais Clínicos:** Febre baixa (ou ausente), conjuntivite sem pus (olhos vermelhos) e muito **Prurido** (coceira) com manchas vermelhas que aparecem logo no primeiro dia.
+- **Sinais Clínicos:** Febre baixa (ou ausente), **conjuntivite sem pus** (olhos vermelhos) e muito **Prurido** (coceira) com manchas vermelhas que aparecem logo no primeiro dia.
 - **A Grande Complicação:** O vírus Zika consegue atravessar a placenta e atacar o cérebro do feto, causando **Microcefalia** e outras malformações neurológicas graves. Também está associado à **Síndrome de Guillain-Barré**.
 
 ---

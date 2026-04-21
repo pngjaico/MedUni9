@@ -26,7 +26,7 @@ Como o homem é **XY**, ele não tem um segundo cromossomo X para "salvar" a sit
 
 É a mais comum em provas.
 - **Regras:** Afeta quase só homens. Mulheres portadoras são saudáveis.
-- **Hemofilia (A e B):** Sangramentos que não param, especialmente dentro das articulações (Hemartrose). Falha no Fator VIII (A) ou IX (B).
+- **Hemofilia (A e B):** Sangramentos que não param, especialmente dentro das articulações (**Hemartrose**). Falha no Fator VIII (A) ou IX (B).
 - **Distrofia de Duchenne (DMD):** O maior gene do corpo. Meninos que perdem a força muscular, têm panturrilhas grandes e usam as mãos para "escalar" o próprio corpo ao levantar (**Sinal de Gowers**).
 - **X-Frágil:** A causa hereditária mais comum de deficiência intelectual em meninos. Causada pela repetição excessiva das letras **CGG**.
 
@@ -36,7 +36,7 @@ Como o homem é **XY**, ele não tem um segundo cromossomo X para "salvar" a sit
 
 Basta um X estragado para ter a doença, tanto em homens quanto em mulheres.
 - **Regras:** Mulheres são mais afetadas que os homens. Se o pai tem a doença, **100% das filhas** terão, mas nenhum filho terá.
-- **Síndrome de Rett:** Uma doença que afeta quase só meninas (é fatal para a maioria dos meninos). Elas se desenvolvem bem até 1 ano e depois começam a perder a fala e a fazer movimentos repetitivos com as mãos ("lavar as mãos").
+- **Síndrome de Rett:** Uma doença que afeta quase só meninas (é fatal para a maioria dos meninos). Elas se desenvolvem bem até 1 ano e depois começam a perder a fala e a fazer movimentos repetitivos com as mãos ("**lavar as mãos**").
 
 ---
 
@@ -81,7 +81,7 @@ Dica de Duchenne: o gene da distrofina é o maior de todos, por isso sofre muita
 |------------|------------|-----------------|
 | **Hemofilia A** | **Hemofilia B** | Fator VIII (8) vs **Fator IX (9)** |
 | **Duchenne** | **Becker** | Grave (sem distrofina) vs **Leve (distrofina estragada)** |
-| **Recessiva (XLR)** | **Dominante (XLD)** | Homens afetados vs **Mulheres mais afetadas** |
+| **Recessiva (XLR)** | **Dominante (XLD)** | **Homens afetados** vs **Mulheres mais afetadas** |
 | **Sinal de Gowers** | **Macrorquidia** | Distrofia de Duchenne vs **Síndrome do X-Frágil** |
 | **Mãe Portadora** | **Pai Afetado** | Risco de 50% pro filho ser doente vs **0% risco pro filho ser doente** |
 

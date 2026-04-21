@@ -44,7 +44,7 @@ O câncer mexe em dois tipos de genes:
 
 ## 4. TNM: O Estadiamento (O CPF do Tumor)
 
-Para tratar o câncer, o médico precisa saber em que estágio a doença está usando a escala TNM:
+Para tratar o câncer, o médico precisa saber em que estágio a doença está usando a escala **TNM**:
 - **T (Tumor):** O tamanho do tumor original. T1 é pequeno; T4 é grande e invadiu órgãos vizinhos.
 - **N (Node/Linfonodo):** Se o câncer já chegou às "ínguas" (linfonodos) perto dele.
 - **M (Metástase):** Se o câncer já viajou para órgãos distantes como pulmão, fígado ou ossos. **M1** significa metástase presente (estágio avançado).

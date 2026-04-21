@@ -28,15 +28,15 @@ Na prática, o caso-controle é o "salvador" quando a doença é muito rara. Se 
 
 Como não sabemos quantas pessoas ficaram doentes ao longo do tempo (incidência), usamos as "chances":
 - **A Conta:** É o famoso **Produto Cruzado** da tabela 2x2.
-- **Fórmula:** (Casos Expostos × Controles Não Expostos) ÷ (Casos Não Expostos × Controles Expostos).
-- **Interpretando:** Quando a doença é rara, o OR é praticamente igual ao Risco Relativo (RR). Se OR = 4, a "chance" de ter sido exposto é 4 vezes maior nos doentes.
+- **Fórmula:** **(Casos Expostos × Controles Não Expostos) ÷ (Casos Não Expostos × Controles Expostos)**.
+- **Interpretando:** Quando a doença é rara, o **OR** é praticamente igual ao **Risco Relativo (RR)**. Se OR = 4, a "chance" de ter sido exposto é 4 vezes maior nos doentes.
 
 ---
 
 ## 3. O Inimigo: Viés de Memória (Recall Bias)
 
 Este é o calcanhar de Aquiles do caso-controle:
-- **O Problema:** Uma pessoa que está doente (Caso) tenta desesperadamente lembrar o que causou o problema dela. Ela lembra de detalhes que uma pessoa saudável (Controle) esquece.
+- **Viés de Memória (Recall Bias):** Uma pessoa que está doente (**Caso**) tenta desesperadamente lembrar o que causou o problema dela. Ela lembra de detalhes que uma pessoa saudável (**Controle**) esquece.
 - **O Erro:** Isso faz parecer que a pessoa doente teve muito mais exposição do que a saudável, apenas porque ela lembra mais, e não porque ela realmente se expôs mais.
 
 ---
@@ -61,7 +61,7 @@ No pronto-socorro, no meio de um surto de intoxicação alimentar, você usará 
 - **Odds Ratio (OR)**: É a medida oficial de associação.
 - **Doenças Raras**: Se a questão fala de uma doença raríssima, o estudo de escolha é o Caso-Controle.
 - **Custo**: É muito mais barato que uma Coorte.
-- **Tabela 2x2**: Saiba fazer o "X" do produto cruzado (A x D / B x C).
+- **Tabela 2x2**: Saiba fazer o "X" do **produto cruzado** (A x D / B x C).
 
 ---
 
@@ -80,8 +80,8 @@ A Uninove adora o **Odds Ratio**. Lembre-se: Ele não é o risco real, é uma es
 
 | Estudo A | Estudo B | Diferencial Crítico |
 |------------|------------|-----------------|
-| **Caso-Controle** | **Coorte** | Parte do **Doente** vs Parte do **Saudável** |
-| **Odds Ratio (OR)**| **Risco Relativo (RR)** | Razão de **Chances** vs Razão de **Riscos** |
+| **Caso-Controle** | **Coorte** | **Doente** vs **Saudável** |
+| **Odds Ratio (OR)**| **Risco Relativo (RR)** | **Chances** vs **Riscos** |
 | **Viés de Memória** | **Viés de Perda** | O paciente **Esquece** vs O paciente **Some** |
 | **Retrospectivo** | **Prospectivo** | Olha para o **Passado** vs Olha para o **Futuro** |
 | **Doença Rara** | **Exposição Rara** | Melhor para **Caso-Controle** vs Melhor para **Coorte** |

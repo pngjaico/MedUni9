@@ -1,0 +1,1770 @@
+[
+  {
+    "id": 3103,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "Qual músculo é considerado o mais lateral da perna e realiza a eversão do pé (virar a planta para fora)?",
+    "opcoes": [
+      "A) Tibial Posterior.",
+      "B) Sóleo.",
+      "C) Plantar Delgado.",
+      "D) Fibular Longo."
+    ],
+    "explicacao_geral": "O compartimento lateral da perna contém músculos que estabilizam o tornozelo contra a inversão excessiva.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Tibial posterior é inversor e situa-se profundamente na face posterior.",
+      "B": "[INCORRETA] Sóleo realiza flexão plantar e fica sob o gastrocnêmio.",
+      "C": "[INCORRETA] Músculo pequeno e vestigial da face posterior.",
+      "D": "[CORRETA] O **fibular longo** (e o curto) são os eversões por excelência."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3109,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Qual estrato da epiderme caracteriza-se por células repletas de grânulos basofílicos de queratohialina e é o local onde se inicia a desintegração dos núcleos celulares?",
+    "opcoes": [
+      "A) Estrato Granuloso.",
+      "B) Estrato Espinhoso.",
+      "C) Estrato Lúcido.",
+      "D) Estrato Basal."
+    ],
+    "explicacao_geral": "O nome da camada reflete o aspecto microscópico das células em processo de maturação.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] No **estrato granuloso**, os queratinócitos tornam-se pavimentosos e granulados.",
+      "B": "[INCORRETA] O estrato espinhoso possui desmossomos que dão aparência de 'espinhos' às células.",
+      "C": "[INCORRETA] O estrato lúcido é uma camada de transição e transparente.",
+      "D": "[INCORRETA] O estrato basal possui células cilíndricas/cúbicas íntegras e em divisão."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3111,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A 'Pele Espessa' é encontrada nas palmas das mãos e plantas dos pés. Qual característica histológica diferencia a pele espessa da pele fina?",
+    "opcoes": [
+      "A) Presença de muitos folículos pilosos.",
+      "B) Ausência de glândulas sudoríparas.",
+      "C) Camada granulosa mais delgada.",
+      "D) Presença do Estrato Lúcido e estrato córneo muito desenvolvido."
+    ],
+    "explicacao_geral": "Locais de alto atrito e pressão possuem adaptações epidérmicas específicas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Pele espessa é glabra (sem pelos).",
+      "B": "[INCORRETA] Possui muitas glândulas sudoríparas.",
+      "C": "[INCORRETA] O estrato granuloso é proporcionalmente mais evidente na pele espessa.",
+      "D": "[CORRETA] O **estrato lúcido** e um **estrato córneo massivo** são os definidores da pele espessa."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3117,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Na microscopia, os ácinos (adenômeros) podem ser classificados por sua cor de acordo com a secreção. Os ácinos que secretam enzimas proteicas e coram-se intensamente com hematoxilina-eosina (escuros) são do tipo:",
+    "opcoes": [
+      "A) Seroso.",
+      "B) Mucoso.",
+      "C) Misto.",
+      "D) Adiposo glandulado."
+    ],
+    "explicacao_geral": "Proteínas têm afinidade por corantes diferentes dos carboidratos viscosos do muco.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Ácinos **serosos** (ex: parótida e pâncreas) são ricos em proteínas e coram-se com facilidade.",
+      "B": "[INCORRETA] Ácinos mucosos são ricos em carboidratos (muco) e aparecem claros e vacuolados.",
+      "C": "[INCORRETA] Ácinos mistos contêm ambos, frequentemente vistos como uma semilua serosa sobre ácinos mucosos.",
+      "D": "[INCORRETA] Terminologia não utilizada em histologia glandular básica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3119,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "As glândulas endócrinas se diferenciam das exócrinas na histologia por qual característica marcante?",
+    "opcoes": [
+      "A) Presença de ductos muito longos e ramificados.",
+      "B) Serem obrigatoriamente unicelulares.",
+      "C) Disposição celular em cordões ou folículos circundados por capilares fenestrados.",
+      "D) Não possuírem núcleo celular."
+    ],
+    "explicacao_geral": "A ausência de ducto obriga a glândula a lançar seu conteúdo diretamente no sistema circulatório.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Glândulas endócrinas não possuem ductos.",
+      "B": "[INCORRETA] A maioria é multicelular e complexa.",
+      "C": "[CORRETA] A **rica vascularização** em contato direto com as células glandulares define a arquitetura endócrina.",
+      "D": "[INCORRETA] São células epiteliais íntegras com núcleo evidente."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3123,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "As fibras reticulares formam um arcabouço delicado em órgãos como o baço e linfonodos. Essas fibras são compostas predominantemente por qual proteína?",
+    "opcoes": [
+      "A) Elastina.",
+      "B) Queratina.",
+      "C) Colágeno Tipo I.",
+      "D) Colágeno Tipo III."
+    ],
+    "explicacao_geral": "O colágeno tipo III organiza-se em redes (reticulum) para suporte celular em órgãos hematopoiéticos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Elastina compõe as fibras elásticas.",
+      "B": "[INCORRETA] Queratina é uma proteína epitelial.",
+      "C": "[INCORRETA] Colágeno tipo I forma fibras espessas e resistentes (ex: derme, osso).",
+      "D": "[CORRETA] As **fibras reticulares** são compostas por **colágeno tipo III**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3124,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O tecido conjuntivo que possui equilíbrio entre células, fibras e substância fundamental, sendo o principal local de atuação das células de defesa e nutrição dos epitélios, é classificado como:",
+    "opcoes": [
+      "A) Tecido Conjuntivo Frouxo.",
+      "B) Tecido Conjuntivo Denso Regular.",
+      "C) Tecido Conjuntivo Denso Irregular.",
+      "D) Tecido Adiposo Unilocular."
+    ],
+    "explicacao_geral": "O tecido frouxo é flexível e muito vascularizado, ao contrário dos tecidos densos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **tecido conjuntivo frouxo** sustenta os epitélios e permite a migração de leucócitos.",
+      "B": "[INCORRETA] O denso regular possui fibras paralelas e poucas células (ex: tendões).",
+      "C": "[INCORRETA] O denso irregular possui fibras em várias direções para resistência (ex: derme profunda).",
+      "D": "[INCORRETA] O adiposo é especializado em reserva de energia."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3126,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "O tecido conjuntivo mucoso, encontrado no cordão umbilical, é caracterizado por possuir uma matriz gelatinosa muito rica em ácido hialurônico e poucas fibras. Qual o epônimo clássico para essa substância?",
+    "opcoes": [
+      "A) Corpo de Barr.",
+      "B) Geleia de Wharton.",
+      "C) Substância Fundamental de Purkinje.",
+      "D) Matriz de Golgi."
+    ],
+    "explicacao_geral": "Este tecido é transiente no desenvolvimento e protege os vasos do cordão contra compressão.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Corpo de Barr é o cromossomo X inativado.",
+      "B": "[CORRETA] A **Geleia de Wharton** é a denominação específica do tecido conjuntivo mucoso do cordão umbilical.",
+      "C": "[INCORRETA] Células de Purkinje são neurônios do cerebelo ou do sistema de condução cardíaco.",
+      "D": "[INCORRETA] Complexo de Golgi é uma organela celular."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3129,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "Os elementos figurados do sangue são suspensos no plasma. Qual desses elementos é o mais numeroso, não possui núcleo e é responsável pelo transporte de oxigênio?",
+    "opcoes": [
+      "A) Leucócitos.",
+      "B) Hemácias (Eritrócitos).",
+      "C) Plaquetas.",
+      "D) Macrófagos."
+    ],
+    "explicacao_geral": "As hemácias são discos bicôncavos especializados no transporte gasoso via hemoglobina.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Leucócitos são células de defesa e são muito menos numerosos que as hemácias.",
+      "B": "[CORRETA] As **hemácias** são anucleadas nos mamíferos e transportam O2 e CO2.",
+      "C": "[INCORRETA] Plaquetas são fragmentos celulares envolvidos na coagulação.",
+      "D": "[INCORRETA] Macrófagos são células teciduais derivadas dos monócitos sanguíneos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3130,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente com febre e dor abdominal realiza um hemograma que mostra aumento significativo de neutrófilos com presença de formas jovens ('bastões'). O que esse achado sugere?",
+    "opcoes": [
+      "A) Infecção bacteriana aguda (Desvio à esquerda).",
+      "B) Reação alérgica a medicamentos.",
+      "C) Infestação por vermes intestinais.",
+      "D) Anemia ferropriva crônica."
+    ],
+    "explicacao_geral": "Os neutrófilos são a primeira linha de defesa contra bactérias.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O aumento de **neutrófilos** e o **desvio à esquerda** são sinais clássicos de infecção bacteriana.",
+      "B": "[INCORRETA] Alergias costumam elevar basófilos ou eosinófilos.",
+      "C": "[INCORRETA] Parasitoses intestinais causam eosinofilia.",
+      "D": "[INCORRETA] Anemias afetam a série vermelha (hemácias), não os neutrófilos."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3131,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual leucócito agranulócito possui um núcleo grande e redondo, ocupando quase toda a célula, e é peça-chave na resposta imune adaptativa (produção de anticorpos e citotoxicidade)?",
+    "opcoes": [
+      "A) Monócito.",
+      "B) Neutrófilo.",
+      "C) Eosinófilo.",
+      "D) Linfócito."
+    ],
+    "explicacao_geral": "Os linfócitos (B e T) são as menores células dos leucócitos e fundamentais para a memória imunológica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Monócitos são as maiores células e possuem núcleo em formato de ferradura.",
+      "B": "[INCORRETA] Neutrófilos são granulócitos polimorfonucleares.",
+      "C": "[INCORRETA] Eosinófilos são granulócitos com núcleo bilobado.",
+      "D": "[CORRETA] O **linfócito** é caracterizado pelo seu núcleo volumoso e papel na imunidade específica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3132,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "As plaquetas não são células completas, mas fragmentos de citoplasma de uma célula gigante localizada na medula óssea. Qual o nome dessa célula precursora?",
+    "opcoes": [
+      "A) Eritroblasto.",
+      "B) Mieloblasto.",
+      "C) Megacariócito.",
+      "D) Reticulócito."
+    ],
+    "explicacao_geral": "A trombopoiese ocorre na medula óssea através da fragmentação periférica do megacariócito.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Eritroblasto é o precursor da hemácia.",
+      "B": "[INCORRETA] Mieloblasto é o precursor dos granulócitos.",
+      "C": "[CORRETA] O **megacariócito** emite prolongamentos que se rompem para formar as **plaquetas**.",
+      "D": "[INCORRETA] Reticulócito é uma hemácia jovem que acabou de perder o núcleo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3133,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente com diagnóstico de asma brônquica (doença alérgica crônica) apresenta aumento de quais células granulócitas, que possuem grânulos avermelhados na coloração de Wright?",
+    "opcoes": [
+      "A) Eosinófilos.",
+      "B) Basófilos.",
+      "C) Neutrófilos.",
+      "D) Linfócitos."
+    ],
+    "explicacao_geral": "As proteínas básicas dos grânulos dos eosinófilos têm afinidade pela eosina (corante ácido/vermelho).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] **Eosinófilos** aumentam em alergias e infestações parasitárias.",
+      "B": "[INCORRETA] Basófilos possuem grânulos azul-arroxeados (básicos) e são muito raros.",
+      "C": "[INCORRETA] Neutrófilos possuem grânulos neutros e pouco evidentes.",
+      "D": "[INCORRETA] Linfócitos não possuem grânulos específicos proeminentes."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3134,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A albumina é a proteína mais abundante do plasma sanguíneo. Qual a sua principal função biofísica para a manutenção da volemia (volume de sangue)?",
+    "opcoes": [
+      "A) Realizar o transporte de anticorpos.",
+      "B) Manter a pressão osmótica coloidal (oncótica) do sangue.",
+      "C) Iniciar a cascata de coagulação.",
+      "D) Secretar insulina para os tecidos."
+    ],
+    "explicacao_geral": "Sem albumina, o líquido do sangue escapa para os tecidos, causando edema.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O transporte de anticorpos é feito pelas gamaglobulinas.",
+      "B": "[CORRETA] A **albumina** retém água dentro dos vasos através da **pressão oncótica**.",
+      "C": "[INCORRETA] A coagulação depende de proteínas como o fibrinogênio.",
+      "D": "[INCORRETA] Insulina é um hormônio pancreático, não uma proteína plasmática de suporte."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3135,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual o tempo médio de vida de uma hemácia na circulação antes de ser removida pelo baço ou fígado?",
+    "opcoes": [
+      "A) 7 dias.",
+      "B) 30 dias.",
+      "C) 1 ano.",
+      "D) 120 dias."
+    ],
+    "explicacao_geral": "A ausência de núcleo impede a hemácia de reparar danos proteicos, limitando sua sobrevida.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] É o tempo médio de vida das plaquetas.",
+      "B": "[INCORRETA] Curto demais para a hemácia.",
+      "C": "[INCORRETA] Hemácias não duram tanto tempo.",
+      "D": "[CORRETA] As hemácias circulam por aproximadamente **120 dias**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3136,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente com sangramento gengival e manchas roxas na pele (petéquias) apresenta contagem de plaquetas muito baixa no exame de sangue. Qual o termo técnico para esse achado?",
+    "opcoes": [
+      "A) Trombocitopenia.",
+      "B) Leucocitose.",
+      "C) Policitemia.",
+      "D) Neutropenia."
+    ],
+    "explicacao_geral": "Plaquetas também são chamadas de trombócitos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] **Trombocitopenia** (ou plaquetopenia) é a redução do número de plaquetas.",
+      "B": "[INCORRETA] Leucocitose é o aumento de leucócitos.",
+      "C": "[INCORRETA] Policitemia é o aumento excessivo de hemácias.",
+      "D": "[INCORRETA] Neutropenia é a redução de neutrófilos."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3137,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A digestão dos alimentos inicia-se na cavidade oral. Qual a principal função da língua durante a fase preparatória da digestão?",
+    "opcoes": [
+      "A) Produzir a maior parte da enzima pepsina.",
+      "B) Manipular o bolo alimentar e auxiliar na articulação da fala.",
+      "C) Filtrar as bactérias patogênicas do alimento.",
+      "D) Absorver os nutrientes simples diretamente para o sangue."
+    ],
+    "explicacao_geral": "A língua é um órgão muscular extremamente móvel que desempenha papéis mecânicos e sensoriais.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A pepsina é produzida no estômago.",
+      "B": "[CORRETA] Além da **gustação**, a língua é essencial para posicionar o alimento sob os dentes e iniciar a **deglutição**.",
+      "C": "[INCORRETA] As tonsilas (amígdalas) têm papel imune, não a superfície da língua.",
+      "D": "[INCORRETA] Ocorre absorção mínima de fármacos, mas nutrientes são absorvidos no intestino."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3138,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "As papilas linguais possuem diferentes morfologias. Quais são as papilas mais numerosas, responsáveis por conferir rugosidade à língua, mas que NÃO possuem botões gustativos?",
+    "opcoes": [
+      "A) Papilas Fungiformes.",
+      "B) Papilas Circunvaladas (Caliciformes).",
+      "C) Papilas Filiformes.",
+      "D) Papilas Foliadas."
+    ],
+    "explicacao_geral": "As papilas filiformes têm função puramente mecânica (fricção).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Têm formato de cogumelo e possuem botões gustativos.",
+      "B": "[INCORRETA] São as maiores e ficam no 'V' lingual, ricas em botões gustativos.",
+      "C": "[CORRETA] As **papilas filiformes** são pontiagudas e apenas mecânicas.",
+      "D": "[INCORRETA] Localizam-se nas bordas laterais e possuem botões gustativos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3139,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente queixa-se de hipersensibilidade dentária ao ingerir bebidas frias. Anatomorfologicamente, a dor ocorre quando o estímulo atinge as terminações nervosas localizadas em qual tecido do dente?",
+    "opcoes": [
+      "A) Polpa.",
+      "B) Esmalte.",
+      "C) Dentina.",
+      "D) Cemento."
+    ],
+    "explicacao_geral": "O dente possui camadas minerais que protegem o centro vivo e inervado.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **polpa** é o tecido conjuntivo frouxo rico em vasos e nervos no interior do dente.",
+      "B": "[INCORRETA] O esmalte é a substância mais dura do corpo e é acelular/insensível.",
+      "C": "[INCORRETA] A dentina possui túbulos que transmitem o estímulo, mas os nervos residem na polpa.",
+      "D": "[INCORRETA] O cemento recobre apenas a raiz."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3140,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Qual é a substância mais dura do corpo humano, que recobre a coroa do dente e não possui capacidade de regeneração por ser acelular após a erupção dentária?",
+    "opcoes": [
+      "A) Dentina.",
+      "B) Esmalte.",
+      "C) Cartilagem Calcificada.",
+      "D) Osteoide."
+    ],
+    "explicacao_geral": "O esmalte é composto por 96% de minerais, sendo produzido pelos ameloblastos apenas durante a formação do dente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A dentina é o tecido principal do dente, menos dura que o esmalte.",
+      "B": "[CORRETA] O **esmalte** protege a coroa e sua perda é irreversível (cáries).",
+      "C": "[INCORRETA] Cartilagem calcificada não faz parte da estrutura dentária.",
+      "D": "[INCORRETA] Osteoide é a matriz óssea não mineralizada."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3141,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O teto da cavidade oral é formado pelos palatos duro e mole. Qual dessas estruturas é composta pela aponeurose de músculos esqueléticos e termina na úvula?",
+    "opcoes": [
+      "A) Palato Duro.",
+      "B) Processo Alveolar.",
+      "C) Coanas.",
+      "D) Palato Mole."
+    ],
+    "explicacao_geral": "O palato mole atua como uma válvula que fecha a nasofaringe durante a deglutição.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O palato duro é ósseo (maxila e palatino).",
+      "B": "[INCORRETA] Processos alveolares sustentam os dentes.",
+      "C": "[INCORRETA] Coanas são as aberturas posteriores das cavidades nasais.",
+      "D": "[CORRETA] O **palato mole** é a porção muscular e posterior do teto da boca."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3142,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A língua é inervada por diversos nervos cranianos. Qual deles é o responsável por toda a motricidade (movimento) da língua?",
+    "opcoes": [
+      "A) Nervo Hipoglosso (XII).",
+      "B) Nervo Glossofaringeo (IX).",
+      "C) Nervo Facial (VII).",
+      "D) Nervo Trigêmeo (V)."
+    ],
+    "explicacao_geral": "O controle motor da língua é quase inteiramente realizado por um único par de nervos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Nervo Hipoglosso** comanda os músculos intrínsecos e extrínsecos da língua.",
+      "B": "[INCORRETA] O IX par é responsável pela sensibilidade e paladar do 1/3 posterior.",
+      "C": "[INCORRETA] O VII par é responsável pelo paladar dos 2/3 anteriores.",
+      "D": "[INCORRETA] O V par faz a sensibilidade geral (dor/tato) dos 2/3 anteriores."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3143,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Um paciente traumatizado apresenta 'fratura de mandíbula' com perda dos dentes incisivos. Qual o nome das cavidades ósseas onde as raízes dentárias se articulam na mandíbula?",
+    "opcoes": [
+      "A) Forames Mandibulares.",
+      "B) Seios Maxilares.",
+      "C) Alvéolos Dentários.",
+      "D) Fossas Cranianas."
+    ],
+    "explicacao_geral": "Os alvéolos são recessos revestidos por ligamento periodontal.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Forames são 'furos' para passagem de vasos e nervos.",
+      "B": "[INCORRETA] Seios são cavidades pneumáticas nos ossos da face.",
+      "C": "[CORRETA] Os **alvéolos** são as 'casas' dos dentes nos processos alveolares.",
+      "D": "[INCORRETA] Fossas cranianas suportam o encéfalo."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3144,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 3,
+    "enunciado": "Qual dos seguintes órgãos NÃO faz parte do canal alimentar, sendo classificado como um órgão acessório do sistema digestório?",
+    "opcoes": [
+      "A) Esôfago.",
+      "B) Estômago.",
+      "C) Intestino Delgado.",
+      "D) Glândulas Salivares."
+    ],
+    "explicacao_geral": "O canal alimentar é o tubo contínuo da boca ao ânus; os acessórios auxiliam na digestão externamente a esse tubo.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O esôfago é parte integrante do tubo.",
+      "B": "[INCORRETA] O estômago é o reservatório do tubo.",
+      "C": "[INCORRETA] O delgado é o principal local de absorção do tubo.",
+      "D": "[CORRETA] **Glândulas salivares**, dentes, fígado e pâncreas são **órgãos acessórios**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3145,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "O canal alimentar possui uma estrutura básica em quatro camadas. Qual é a camada mais interna, em contato direto com o alimento, responsável por proteção e absorção?",
+    "opcoes": [
+      "A) Submucosa.",
+      "B) Mucosa.",
+      "C) Muscular externa.",
+      "D) Serosa ou Adventícia."
+    ],
+    "explicacao_geral": "A parede do trato digestório é organizada em túnicas concêntricas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A submucosa contém vasos e o plexo de Meissner.",
+      "B": "[CORRETA] A **mucosa** é a primeira camada, composta por epitélio, lâmina própria e muscular da mucosa.",
+      "C": "[INCORRETA] A muscular externa é responsável pelo peristaltismo.",
+      "D": "[INCORRETA] A serosa/adventícia é a capa externa de revestimento."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3146,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Uma característica histológica única do esôfago é a transição de tipos de tecido muscular ao longo de seu trajeto. Qual o tipo de músculo encontrado no terço superior do esôfago?",
+    "opcoes": [
+      "A) Músculo Estriado Esquelético.",
+      "B) Músculo Liso apenas.",
+      "C) Músculo Cardíaco.",
+      "D) Não possui camada muscular."
+    ],
+    "explicacao_geral": "O controle da deglutição inicia-se de forma voluntária e torna-se involuntário no trajeto descendente.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O terço superior possui **músculo esquelético**. O terço médio é misto e o inferior é puramente liso.",
+      "B": "[INCORRETA] O músculo liso predomina apenas no terço inferior.",
+      "C": "[INCORRETA] Músculo cardíaco é exclusivo do coração.",
+      "D": "[INCORRETA] O esôfago possui camadas musculares circulares e longitudinais potentes."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3147,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Um paciente queixa-se de pirose (azia) recorrente. O médico explica que o ácido do estômago está refluindo devido à falha de qual estrutura anatômica localizada na junção esofagogástrica?",
+    "opcoes": [
+      "A) Esfíncter Pilórico.",
+      "B) Válvula Ileocecal.",
+      "C) Cárdia anatômica.",
+      "D) Esfíncter Esofágico Inferior (EEI)."
+    ],
+    "explicacao_geral": "O EEI é um esfíncter fisiológico auxiliado pelo diafragma (hiato esofágico).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O piloro controla a saída do estômago para o duodeno.",
+      "B": "[INCORRETA] A válvula ileocecal fica no intestino grosso.",
+      "C": "[INCORRETA] Cárdia é a região do estômago, mas o 'guardião' contra o refluxo é o esfíncter.",
+      "D": "[CORRETA] A falha no **EEI** é a causa fisiopatológica da Doença do Refluxo Gastroesofágico (DRGE)."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3148,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "No estômago, as células parietais (oxicínticas) são responsáveis pela secreção de duas substâncias fundamentais. Quais são elas?",
+    "opcoes": [
+      "A) Pepsina e Gastrina.",
+      "B) Ácido Clorídrico (HCl) e Fator Intrínseco.",
+      "C) Muco e Bicarbonato.",
+      "D) Somatostatina e Serotonina."
+    ],
+    "explicacao_geral": "As células parietais localizam-se predominantemente no fundo e corpo do estômago.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Pepsina deriva do pepsinogênio das células principais; Gastrina vem das células G.",
+      "B": "[CORRETA] As **células parietais** produzem **HCl** (digestão) e **Fator Intrínseco** (essencial para absorção de Vitamina B12).",
+      "C": "[INCORRETA] Muco e bicarbonato são produzidos pelas células da mucosa superficial.",
+      "D": "[INCORRETA] São produtos de células enteroendócrinas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3149,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A muscular externa do estômago possui uma característica especial que a diferencia do restante do canal alimentar. Qual é essa diferença?",
+    "opcoes": [
+      "A) Possui uma terceira camada de fibras, a camada oblíqua interna.",
+      "B) É composta inteiramente por músculo estriado esquelético.",
+      "C) Não possui plexo mioentérico (Auerbach).",
+      "D) É composta apenas por uma camada longitudinal."
+    ],
+    "explicacao_geral": "A camada extra permite movimentos vigorosos de trituração e mistura (quimificação).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Além da circular e longitudinal, o estômago possui a **camada oblíqua**, totalizando três subcamadas musculares.",
+      "B": "[INCORRETA] O estômago é músculo liso.",
+      "C": "[INCORRETA] Possui plexo mioentérico entre as camadas para controle motor.",
+      "D": "[INCORRETA] Possui três camadas, sendo a mista a regra no restante do tubo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3150,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "Histologicamente, o epitélio do esôfago é diferente do epitélio do estômago. Qual é a transição epitelial que ocorre na Linha Z (junção escamocolunar)?",
+    "opcoes": [
+      "A) De simples colunar para estratificado pavimentoso.",
+      "B) De simples cúbico para estratificado cilíndrico.",
+      "C) De estratificado pavimentoso para simples colunar.",
+      "D) De pseudoestratificado para simples pavimentoso."
+    ],
+    "explicacao_geral": "A mucosa protetora de atrito (esôfago) dá lugar à mucosa secretoria (estômago).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Seria a ordem inversa.",
+      "B": "[INCORRETA] Epitélios não correspondentes às funções dos órgãos.",
+      "C": "[CORRETA] No cárdia, o epitélio **estratificado pavimentoso** do esôfago torna-se **simples colunar** gástrico.",
+      "D": "[INCORRETA] Pseudoestratificado é típico das vias aéreas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3151,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual região do estômago atua como uma 'válvula' que regula o esvaziamento gástrico, permitindo a passagem do quimo para o duodeno apenas em pequenas frações?",
+    "opcoes": [
+      "A) Fundo gástrico.",
+      "B) Corpo gástrico.",
+      "C) Cárdia.",
+      "D) Piloro (Esfíncter Pilórico)."
+    ],
+    "explicacao_geral": "O piloro é um espessamento da musculatura circular gástrica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O fundo armazena gases e secreta HCl/enzimas.",
+      "B": "[INCORRETA] O corpo é o maior reservatório.",
+      "C": "[INCORRETA] O cárdia é a entrada.",
+      "D": "[CORRETA] O **piloro** controla a velocidade com que o alimento digerido chega ao intestino."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3152,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "As glândulas gástricas possuem as 'células principais'. Qual a secreção dessas células que, em contato com o ácido clorídrico, torna-se a principal enzima digestiva de proteínas do estômago?",
+    "opcoes": [
+      "A) Lipase gástrica.",
+      "B) Pepsinogênio.",
+      "C) Tripsina.",
+      "D) Amilase."
+    ],
+    "explicacao_geral": "O pepsinogênio é uma pró-enzima (zimogênio) inativa para evitar a autodigestão da própria célula que a produz.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A lipase gástrica digere lipídios, mas não é a principal secreção das células principais gástricas sob foco proteico.",
+      "B": "[CORRETA] O **pepsinogênio** converte-se em **pepsina** em meio ácido.",
+      "C": "[INCORRETA] Tripsina é uma enzima pancreática que atua no duodeno.",
+      "D": "[INCORRETA] Amilase é salivar ou pancreática."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3157,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O intestino grosso possui características externas que o diferenciam visualmente do delgado. Quais são as três fitas longitudinais de músculo liso que percorrem o cólon?",
+    "opcoes": [
+      "A) Tênias do Cólon.",
+      "B) Haustros.",
+      "C) Pregas Circulares.",
+      "D) Meso."
+    ],
+    "explicacao_geral": "As tênias são mais curtas que o tubo, o que causa as saculações características.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] As **tênias** (mesocolónica, omental e livre) são as marcas visíveis do intestino grosso.",
+      "B": "[INCORRETA] Haustros são as saculações (bolsas).",
+      "C": "[INCORRETA] Pregas circulares (válvulas de Kerckring) são do intestino delgado.",
+      "D": "[INCORRETA] Meso é o tecido que sustenta e leva vasos aos órgãos intraperitoneais."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3160,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 3,
+    "enunciado": "O canal anal possui dois esfíncteres que controlam a defecação. Qual deles é composto por músculo estriado esquelético e está sob controle voluntário?",
+    "opcoes": [
+      "A) Esfíncter liso de Houston.",
+      "B) Esfíncter Anal Interno.",
+      "C) Válvula de Morgagni.",
+      "D) Esfíncter Anal Externo."
+    ],
+    "explicacao_geral": "O controle da defecação envolve um reflexo involuntário e um comando consciente.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Houston refere-se a pregas transversais do reto.",
+      "B": "[INCORRETA] O interno é de músculo liso e controle involuntário (SNA).",
+      "C": "[INCORRETA] Estrutura da mucosa anal, não um esfíncter.",
+      "D": "[CORRETA] O **esfíncter anal externo** é voluntário e nos permite 'segurar' as fezes."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3162,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A 'Porta Hepática' (Hilo hepático) é a entrada e saída de vasos e ductos. Qual a disposição correta das estruturas na porta hepática, de anterior para posterior?",
+    "opcoes": [
+      "A) Veia Porta, Artéria Hepática e Ducto Biliar.",
+      "B) Ducto Biliar, Artéria Hepática e Veia Porta.",
+      "C) Artéria Hepática, Veia Porta e Ducto Biliar.",
+      "D) Veia Cava, Aorta e Esôfago."
+    ],
+    "explicacao_geral": "A anatomia da tríade portal no hilo é fundamental para procedimentos cirúrgicos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A veia porta é a mais posterior.",
+      "B": "[CORRETA] A tríade padrão na porta hepática é: **Ducto Biliar (lat. direita), Artéria (lat. esquerda) e Veia Porta (posterior)**.",
+      "C": "[INCORRETA] A ordem posterior está errada.",
+      "D": "[INCORRETA] Estruturas que não compõem a porta hepática."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3168,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "Um paciente sofre um trauma abdominal penetrante com laceração do baço (esplenectomia). Qual parte do pâncreas corre o risco de ser lesionada por estar em íntimo contato com o hilo esplênico?",
+    "opcoes": [
+      "A) Cauda do pâncreas.",
+      "B) Cabeça do pâncreas.",
+      "C) Colo do pâncreas.",
+      "D) Esfíncter de Oddi."
+    ],
+    "explicacao_geral": "O pâncreas é um órgão retroperitoneal que se estende transversalmente no abdome superior.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **cauda do pâncreas** projeta-se para a esquerda até atingir o baço.",
+      "B": "[INCORRETA] A cabeça fica à direita.",
+      "C": "[INCORRETA] O colo é a porção estreita entre a cabeça e o corpo.",
+      "D": "[INCORRETA] O esfíncter de Oddi fica no duodeno (lado oposto)."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3173,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Ao realizar a palpação em uma peça de estômago, identifica-se um espessamento circular muscular na saída do órgão. Qual estrutura é essa?",
+    "opcoes": [
+      "A) Esfíncter Pilórico.",
+      "B) Cárdia.",
+      "C) Óstio Esofágico.",
+      "D) Plexo de Meissner."
+    ],
+    "explicacao_geral": "O piloro é facilmente identificável na prática como uma área firme e estreitada.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **piloro** é o esfíncter que regula o fluxo gástrico para o duodeno.",
+      "B": "[INCORRETA] Cárdia é a entrada, geralmente sem um esfíncter muscular anatômico tão evidente quanto o piloro.",
+      "C": "[INCORRETA] Óstio esofágico é apenas a abertura de entrada.",
+      "D": "[INCORRETA] Plexo nervoso microscópico."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3174,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "No modelo de pâncreas, nota-se que o órgão cruza a coluna vertebral horizontalmente. Qual estrutura vascular importante passa 'abraçada' pela cabeça do pâncreas e pela porção descendente do duodeno?",
+    "opcoes": [
+      "A) Veia Porta.",
+      "B) Artéria e Veia Mesentérica Superior.",
+      "C) Veia Cava Superior.",
+      "D) Artéria Carótida."
+    ],
+    "explicacao_geral": "Os vasos mesentéricos superiores emergem por trás do colo do pâncreas e passam sobre o processo uncinado.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A veia porta forma-se atrás do colo do pâncreas, mas não passa anteriormente no 'C' duodenal.",
+      "B": "[CORRETA] Os **vasos mesentéricos superiores** têm relação íntima com o complexo duodeno-pancreático.",
+      "C": "[INCORRETA] A veia cava superior está no tórax.",
+      "D": "[INCORRETA] Artéria do pescoço."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3181,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "As vias metabólicas podem ser classificadas em catabólicas e anabólicas. Qual das alternativas descreve corretamente o fluxo energético no anabolismo?",
+    "opcoes": [
+      "A) Consumo de ATP para síntese de moléculas complexas.",
+      "B) Produção de ATP através da quebra de nutrientes.",
+      "C) Liberação de calor sem transformação química.",
+      "D) Oxidação total da glicose para gerar água."
+    ],
+    "explicacao_geral": "O anabolismo é o conjunto de reações de síntese que requerem investimento de energia.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] No **anabolismo**, a célula usa energia livre (ATP) para construir estruturas.",
+      "B": "[INCORRETA] Esta é a definição de catabolismo.",
+      "C": "[INCORRETA] Todas as vias envolvem transformações químicas.",
+      "D": "[INCORRETA] Este é um processo catabólico (respiração celular)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3183,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Em uma reação em equilíbrio químico, qual o valor da variação de energia livre de Gibbs (ΔG)?",
+    "opcoes": [
+      "A) ΔG é fortemente negativo.",
+      "B) ΔG é fortemente positivo.",
+      "C) ΔG varia conforme a temperatura ambiente.",
+      "D) ΔG é igual a zero."
+    ],
+    "explicacao_geral": "O equilíbrio químico representa o estado de menor energia livre possível para aquele sistema, sem fluxo resultante.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] ΔG negativo indica reação fora do equilíbrio indo para frente.",
+      "B": "[INCORRETA] ΔG positivo indica reação fora do equilíbrio vindo para trás.",
+      "C": "[INCORRETA] Embora o ΔG padrão dependa da temperatura, o ΔG no equilíbrio é definido como zero.",
+      "D": "[CORRETA] No **equilíbrio**, as taxas de reação direta e inversa se igualam e **ΔG = 0**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3190,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "As vitaminas do complexo B são essenciais na dieta humana porque atuam frequentemente como:",
+    "opcoes": [
+      "A) Substratos energéticos diretos para a síntese de ATP.",
+      "B) Precursores de coenzimas necessárias para a atividade enzimática.",
+      "C) Hormônios que controlam o ciclo celular.",
+      "D) Componentes estruturais das membranas plasmáticas."
+    ],
+    "explicacao_geral": "Muitas enzimas requerem componentes não proteicos (cofatores ou coenzimas) para catalisar reações.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Vitaminas não são 'queimadas' como combustível.",
+      "B": "[CORRETA] Vitaminas como a B1 (Tiamina) ou B2 (Riboflavina) formam **coenzimas** vitais para o metabolismo oxidativo.",
+      "C": "[INCORRETA] Vitaminas e hormônios são classes diferentes de moléculas sinalizadoras/reguladoras.",
+      "D": "[INCORRETA] Membranas são compostas por fosfolipídios e proteínas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3192,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual o papel da 'Compartimentalização Celular' na regulação metabólica?",
+    "opcoes": [
+      "A) Impedir que o DNA saia do núcleo.",
+      "B) Garantir que todas as células do corpo tenham o mesmo metabolismo.",
+      "C) Destruir organelas envelhecidas através da apoptose.",
+      "D) Separar vias catabólicas e anabólicas para evitar ciclos fúteis e permitir controle independente."
+    ],
+    "explicacao_geral": "Manter enzimas de síntese e degradação em compartimentos diferentes (ex: citosol vs mitocôndria) é uma estratégia de controle.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Embora seja uma função da carioteca, não é o foco da regulação metabólica clássica.",
+      "B": "[INCORRETA] Células diferentes possuem metabolismos diferentes (especialização).",
+      "C": "[INCORRETA] Autofagia é o processo de reciclagem de organelas.",
+      "D": "[CORRETA] A **compartimentalização** permite que a célula sintetize e degrade moléculas simultaneamente de forma coordenada."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3198,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "Um paciente pediátrico apresenta episódios de hipoglicemia grave e aumento do tamanho do fígado (hepatomegalia) após algumas horas sem comer. O médico suspeita de uma deficiência enzimática na via da gliconeogênese. Se a enzima Frutose-1,6-bisfosfatase estiver ausente, qual metabólito se acumulará no citosol?",
+    "opcoes": [
+      "A) Frutose-1,6-bisfosfato.",
+      "B) Glicose-6-fosfato.",
+      "C) Piruvato.",
+      "D) Frutose-6-fosfato."
+    ],
+    "explicacao_geral": "Falhas enzimáticas causam o acúmulo dos reagentes da etapa que não consegue ser processada.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] Sem a bisfosfatase, a **Frutose-1,6-bisfosfato** não pode ser convertida em Frutose-6-fosfato, interrompendo a síntese de glicose.",
+      "B": "[INCORRETA] Este está 'abaixo' na via da gliconeogênese em relação à falha.",
+      "C": "[INCORRETA] O piruvato converte-se em outros precursores, mas o bloqueio direto é na frutose.",
+      "D": "[INCORRETA] Este seria o produto da reação que não ocorre."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3200,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A biotina (Vitamina B7) é um cofator indispensável para enzimas que realizam reações de carboxilação. Qual enzima da gliconeogênese requer biotina para transformar piruvato em oxaloacetato?",
+    "opcoes": [
+      "A) Enolase.",
+      "B) Piruvato Carboxilase.",
+      "C) Glicocinase.",
+      "D) Lactato Desidrogenase."
+    ],
+    "explicacao_geral": "Enzimas carboxilases utilizam ATP, CO2 e biotina para adicionar um grupo carbono à molécula de substrato.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Enolase desidrata o 2-fosfoglicerato.",
+      "B": "[CORRETA] A **Piruvato Carboxilase** é a primeira enzima do desvio da gliconeogênese mitocondrial e depende de biotina.",
+      "C": "[INCORRETA] A glicocinase fosforila a glicose.",
+      "D": "[INCORRETA] Esta enzima realiza reações de oxirredução, não carboxilação."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3207,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Qual enzima do Ciclo de Krebs é a mesma enzima que compõe o Complexo II da cadeia respiratória, servindo como ponto de conexão entre as duas vias?",
+    "opcoes": [
+      "A) Citrato Sintase.",
+      "B) Isocitrato Desidrogenase.",
+      "C) Succinato Desidrogenase.",
+      "D) Fumarase."
+    ],
+    "explicacao_geral": "Esta enzima é a única do ciclo ligada à membrana mitocondrial interna.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Localizada livre na matriz.",
+      "B": "[INCORRETA] Enzima reguladora do ciclo, mas não participa da cadeia.",
+      "C": "[CORRETA] A **Succinato Desidrogenase** transfere elétrons do succinato diretamente para o FAD, formando o Complexo II.",
+      "D": "[INCORRETA] Catalisa a hidratação do fumarato a malato."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3213,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "A Via das Pentoses-Fosfato possui uma 'fase não-oxidativa' reversível. Qual a principal finalidade dessa fase quando a célula NÃO precisa de mais NADPH, mas precisa sintetizar ácidos nucleicos (DNA/RNA)?",
+    "opcoes": [
+      "A) Produzir apenas lacatato para os músculos.",
+      "B) Gerar Ribose-5-fosfato a partir de intermediários da glicólise.",
+      "C) Quebrar o glicogênio em glicose livre.",
+      "D) Inibir totalmente a queima de açúcares."
+    ],
+    "explicacao_geral": "A via das pentoses interconecta o metabolismo de carboidratos com o de nucleotídeos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Função da fermentação lática.",
+      "B": "[CORRETA] A **Ribose-5-fosfato** é o açúcar base para a construção de nucleotídeos.",
+      "C": "[INCORRETA] Função da glicogenólise.",
+      "D": "[INCORRETA] A via é uma rota paralela/alternativa à glicólise, não um inibidor."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3215,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 0,
+    "enunciado": "O NADPH produzido na Via das Pentoses é fundamental para vias de síntese (anabolismo). Qual das alternativas abaixo NÃO depende de NADPH?",
+    "opcoes": [
+      "A) Ciclo de Krebs (Produção de ATP).",
+      "B) Síntese de Ácidos Graxos.",
+      "C) Síntese de Colesterol.",
+      "D) Funcionamento do sistema Citocromo P450 no fígado."
+    ],
+    "explicacao_geral": "O NADPH é o 'poder redutor' para biossínteses redutoras e detoxificação.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] O **Ciclo de Krebs** utiliza NAD+ e FAD como aceptores; o NADPH não é coenzima deste ciclo energético.",
+      "B": "[INCORRETA] A síntese de gordura consome muito NADPH.",
+      "C": "[INCORRETA] A síntese de esteroides requer NADPH.",
+      "D": "[INCORRETA] O P450 requer elétrons do NADPH para metabolizar drogas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3223,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A adrenalina (epinefrina) estimula a elevação da glicemia em situações de 'luta ou fuga'. Qual a diferença fundamental de sua ação em relação ao glucagon?",
+    "opcoes": [
+      "A) A adrenalina atua apenas no fígado.",
+      "B) O glucagon atua apenas no cérebro.",
+      "C) A adrenalina inibe a gliconeogênese.",
+      "D) A adrenalina estimula a glicogenólise tanto no fígado quanto no MÚSCULO."
+    ],
+    "explicacao_geral": "O glucagon não possui receptores no músculo esquelético, enquanto a adrenalina atua em ambos.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A adrenalina atua em múltiplos órgãos (fígado, músculo, coração, pulmão).",
+      "B": "[INCORRETA] O glucagon atua predominantemente no fígado.",
+      "C": "[INCORRETA] A adrenalina estimula a gliconeogênese hepática.",
+      "D": "[CORRETA] A **adrenalina** garante energia rápida para o **músculo** e glicose para o **sangue** (fígado)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3224,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "Por que pacientes com Diabetes Mellitus Tipo 2 raramente desenvolvem Cetoacidose Diabética (CAD), ao contrário dos pacientes Tipo 1?",
+    "opcoes": [
+      "A) Porque o Tipo 2 não tem resistência periférica.",
+      "B) Porque ainda restam níveis mínimos de insulina capazes de inibir a lipólise massiva, embora insuficientes para a normoglicemia.",
+      "C) Porque o tipo 2 urina menos corpos cetônicos.",
+      "D) Porque as células do tipo 2 preferem usar apenas gordura sempre."
+    ],
+    "explicacao_geral": "A insulina necessária para 'frear' a quebra de gordura é muito menor do que a necessária para normalizar o açúcar no sangue.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A resistência é a marca do Tipo 2.",
+      "B": "[CORRETA] A **insulina residual** no DM2 impede a cetose, mas o paciente pode evoluir com Estado Hiperosmolar.",
+      "C": "[INCORRETA] A produção que é menor, não a excreção.",
+      "D": "[INCORRETA] O problema é justamente a resistência ao uso da glicose."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3236,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A enzima Lipoproteína Lipase (LPL), localizada na parede dos capilares sanguíneos, é essencial para que os tecidos utilizem as gorduras das lipoproteínas. Qual apoproteína é necessária para ATIVAR a LPL?",
+    "opcoes": [
+      "A) Apo C-II.",
+      "B) Apo B-100.",
+      "C) Apo A-I.",
+      "D) Apo E."
+    ],
+    "explicacao_geral": "As apoproteínas funcionam como 'chaves' para ativar enzimas ou servirem de ligantes para receptores específicos.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Apo C-II** (presente em quilomícrons e VLDL) é o ativador obrigatório da LPL.",
+      "B": "[INCORRETA] Marcadora de lipoproteínas endógenas (VLDL/LDL), serve para reconhecimento do receptor de LDL.",
+      "C": "[INCORRETA] Aprotein principal da HDL.",
+      "D": "[INCORRETA] Ajuda no reconhecimento do remanescente de quilomícron pelo fígado."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3240,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A gordura endógena produzida no fígado é exportada para o sangue através de qual lipoproteína?",
+    "opcoes": [
+      "A) VLDL.",
+      "B) Quilomícrons.",
+      "C) LDL.",
+      "D) HDL."
+    ],
+    "explicacao_geral": "A VLDL carrega predominantemente triglicerídeos de síntese hepática (endógena).",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **VLDL** transporta para os tecidos os lipídios fabricados pelo próprio fígado.",
+      "B": "[INCORRETA] Quilomícrons são de origem intestinal.",
+      "C": "[INCORRETA] LDL transporta majoritariamente colesterol e deriva do metabolismo da VLDL.",
+      "D": "[INCORRETA] HDL atua no transporte de retorno."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3241,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 1,
+    "correta": 1,
+    "enunciado": "A Fórmula de Friedewald é amplamente utilizada para calcular o valor do LDL-C no perfil lipídico básico. Qual a principal limitação para o uso seguro desta fórmula?",
+    "opcoes": [
+      "A) Níveis de colesterol total menores que 150 mg/dL.",
+      "B) Níveis de Triglicerídeos (TG) acima de 400 mg/dL.",
+      "C) Pacientes com idade superior a 60 anos.",
+      "D) Presença de HDL acima de 60 mg/dL."
+    ],
+    "explicacao_geral": "Quando os triglicerídeos estão muito altos, a razão TG/5 não estima corretamente o colesterol da VLDL, gerando erro no cálculo do LDL.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] CT baixo não impede o uso da fórmula.",
+      "B": "[CORRETA] A fórmula torna-se **imprecisa** se **TG > 400 mg/dL**.",
+      "C": "[INCORRETA] A idade não invalida a matemática da fórmula.",
+      "D": "[INCORRETA] HDL alto é um fator protetor e não invalida o cálculo."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3247,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "O consumo excessivo de álcool frequentemente provoca um aumento isolado de qual componente do perfil lipídico?",
+    "opcoes": [
+      "A) Colesterol HDL.",
+      "B) Colesterol LDL.",
+      "C) Colesterol Total apenas.",
+      "D) Triglicerídeos."
+    ],
+    "explicacao_geral": "O álcool induz a síntese de VLDL e ácidos graxos no fígado através da alteração do balanço NADH/NAD+.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O álcool pode aumentar um pouco o HDL, mas não é a dislipidemia patológica clínica principal.",
+      "B": "[INCORRETA] LDL geralmente não é o alvo principal do álcool.",
+      "C": "[INCORRETA] Ele aumenta o CT às custas de um componente específico.",
+      "D": "[CORRETA] A **Hipertrigliceridemia** é a dislipidemia induzida pelo álcool por excelência."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3252,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 1,
+    "enunciado": "Qual a diferença clínica importante na interpretação laboratorial de ALT (TGP) e AST (TGO)?",
+    "opcoes": [
+      "A) AST é exclusiva do fígado.",
+      "B) ALT é mais específica para o fígado, enquanto a AST está presente também no coração e músculos.",
+      "C) Ambas são exclusivas do rim.",
+      "D) O valor de AST nunca aumenta em doenças do fígado."
+    ],
+    "explicacao_geral": "Embora ambas aumentem na hepatite, o aumento isolado da AST sugere outro foco de lesão tecidual.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] ALT é a mais específica.",
+      "B": "[CORRETA] A **ALT (TGP)** é o marcador mais fiel da integridade do **hepatócito**.",
+      "C": "[INCORRETA] São enzimas de perfil hepático/muscular.",
+      "D": "[INCORRETA] A AST aumenta na hepatite, às vezes proporcionalmente à ALT."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3253,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "A deficiência de Ornitina Transcarbamoilase (OTC) é o defeito enzimático mais comum do ciclo da ureia. Qual o padrão de herança genética desta enzima?",
+    "opcoes": [
+      "A) Autossômica Recessiva.",
+      "B) Herança Mitocondrial.",
+      "C) Herança Ligada ao X.",
+      "D) Dominante com penetrância incompleta."
+    ],
+    "explicacao_geral": "Diferente da maioria dos defeitos metabólicos, a OTC não é autossômica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] A maioria das outras enzimas do ciclo são autossômicas recessivas.",
+      "B": "[INCORRETA] A enzima está na mitocôndria mas o gene está no núcleo.",
+      "C": "[CORRETA] A **OTC** tem padrão de herança **Ligada ao X**, afetando mais severamente os meninos.",
+      "D": "[INCORRETA] Não é o padrão descrito."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3227,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "A cada ciclo da beta-oxidação, o ácido graxo é encurtado em dois átomos de carbono. Qual o produto final de cada ciclo que entra diretamente no Ciclo de Krebs?",
+    "opcoes": [
+      "A) Piruvato.",
+      "B) Lactato.",
+      "C) Acetil-CoA.",
+      "D) Succinato."
+    ],
+    "explicacao_geral": "A beta-oxidação produz moléculas de 2 carbonos prontas para a oxidação total no ciclo de Krebs.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Piruvato é produto da glicólise carboidruada.",
+      "B": "[INCORRETA] Lactato é produto da fermentação.",
+      "C": "[CORRETA] Cada ciclo de beta-oxidação libera uma unidade de **Acetil-CoA**.",
+      "D": "[INCORRETA] Succinato é um intermediário do Ciclo de Krebs."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3231,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual coenzima é o agente redutor (doador de elétrons) principal para as etapas de síntese na via da Ácido Graxo Sintase (FAS)?",
+    "opcoes": [
+      "A) NAD+.",
+      "B) FADH2.",
+      "C) Vitamina C.",
+      "D) NADPH."
+    ],
+    "explicacao_geral": "O NADPH é o 'dinheiro' das vias anabólicas (de construção).",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] NAD+ é aceptor de elétrons em vias oxidativas.",
+      "B": "[INCORRETA] FADH2 é um carregador reduzido mas atua na fosforilação oxidativa.",
+      "C": "[INCORRETA] Atua na síntese de colágeno, não de gordura diretamente.",
+      "D": "[CORRETA] O **NADPH** (frequentemente vindo da via das pentoses) é indispensável para a **síntese de lipídios**."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3261,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Balança Nitrogenada' é o cálculo da diferença entre o nitrogênio ingerido e o excretado. Qual condição clínica está associada a uma Balança Nitrogenada NEGATIVA?",
+    "opcoes": [
+      "A) Gravidez e crescimento na infância.",
+      "B) Estados catabólicos graves (Ex: queimaduras extensas, sepse).",
+      "C) Dieta hiperproteica em atleta de musculação.",
+      "D) Recuperação pós-cirúrgica bem-sucedida."
+    ],
+    "explicacao_geral": "Balanço negativo significa que o corpo está perdendo proteína (músculo/tecidos) mais rápido do que repõe.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Nestes casos o balanço é positivo (retenção para construir tecidos).",
+      "B": "[CORRETA] No **catabolismo**, a excreção de ureia aumenta, superando a ingestão (**balanço negativo**).",
+      "C": "[INCORRETA] Tende ao balanço positivo.",
+      "D": "[INCORRETA] Fase de anabolismo reparador (balanço positivo)."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3264,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "A Histamina é um mediador fundamental na resposta alérgica e na secreção ácida gástrica. De qual aminoácido a Histamina é derivada?",
+    "opcoes": [
+      "A) Histidina.",
+      "B) Glutamato.",
+      "C) Arginina.",
+      "D) Lisina."
+    ],
+    "explicacao_geral": "A descarboxilação da histidina produz a histamina.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **Histidina** sofre descarboxilação para se tornar **Histamina**.",
+      "B": "[INCORRETA] O glutamato gera o GABA.",
+      "C": "[INCORRETA] A arginina gera o Óxido Nítrico (NO).",
+      "D": "[INCORRETA] Aminoácido estrutural essencial."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3268,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "A síntese de novo de purinas exige o investimento de vários aminoácidos para a construção do anel purínico. Qual destas moléculas é a doadora da maior parte do esqueleto carbonado e nitrogenado inicial?",
+    "opcoes": [
+      "A) Alanina.",
+      "B) Prolina.",
+      "C) Arginina.",
+      "D) Glutamina, Glicina e Aspartato."
+    ],
+    "explicacao_geral": "Diferentes moléculas doam átomos específicos para o fecho dos anéis de adenina e guanina.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não participa da síntese de purinas.",
+      "B": "[INCORRETA] Aminoácido estrutural.",
+      "C": "[INCORRETA] Participa do ciclo da ureia.",
+      "D": "[CORRETA] **Glutamina, Glicina e Aspartato** são os principais contribuintes para o anel das purinas."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3272,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Qual molécula atua como o 'andaime' ou ativador inicial sobre o qual os nucleotídeos de purina e pirimidina são construídos?",
+    "opcoes": [
+      "A) Glicose-6-Fosfato.",
+      "B) Acetil-CoA.",
+      "C) Ácido graxo de 16 carbonos.",
+      "D) PRPP (Fosforribosil pirofosfato)."
+    ],
+    "explicacao_geral": "O PRPP é derivado da via das pentoses-fosfato e fornece a base de ribose necessária.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Precursor da via, mas não o andaime direto.",
+      "B": "[INCORRETA] Precursor energético.",
+      "C": "[INCORRETA] Lipídio.",
+      "D": "[CORRETA] O **PRPP** é a molécula central que 'liga' a via de síntese de nucleotídeos."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3277,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "O 'Ciclo da Alanina' (ou Ciclo de Cahill) é semelhante ao Ciclo de Cori, mas transporta nitrogênio do músculo para o fígado. Por que isso é importante do ponto de vista da integração de órgãos?",
+    "opcoes": [
+      "A) Para o músculo produzir ureia sozinho.",
+      "B) Para transformar gordura em açúcar.",
+      "C) Para permitir que o fígado neutralize a amônia vinda do catabolismo proteico muscular enquanto produz glicose.",
+      "D) Para aumentar a produção de hormônio do crescimento."
+    ],
+    "explicacao_geral": "A alanina carrega o grupo amina com segurança pelo sangue até o sistema de desintoxicação hepático.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O ciclo da ureia ocorre no fígado.",
+      "B": "[INCORRETA] Animais não convertem Acetil-CoA em glicose.",
+      "C": "[CORRETA] O **Ciclo da Alanina** integra a **proteólise muscular** com a **desintoxicação de amônia** e **gliconeogênese** hepáticas.",
+      "D": "[INCORRETA] Sem relação mecanística direta."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3279,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 0,
+    "enunciado": "O tecido adiposo não é apenas um local de estoque; ele secreta hormônios e moléculas reguladoras. Qual enzima o tecido adiposo libera para 'capturar' triglicerídeos das lipoproteínas circulantes sob estímulo da insulina?",
+    "opcoes": [
+      "A) Lipoproteína Lipase (LPL).",
+      "B) Lipase Sensível a Hormônio (HSL).",
+      "C) Glicocinase.",
+      "D) Arginase."
+    ],
+    "explicacao_geral": "A LPL degrada os TGs das VLDLs e quilomícrons para que os ácidos graxos entrem no adipócito.",
+    "explicacoes_opcoes": {
+      "A": "[CORRETA] A **LPL** é estimulada pela **insulina** no tecido adiposo para promover a engorda (estocagem).",
+      "B": "[INCORRETA] A HSL é inibida pela insulina, pois ela serve para a quebra (emagrecimento).",
+      "C": "[INCORRETA] Enzima hepática/pancreática.",
+      "D": "[INCORRETA] Enzima do ciclo da ureia."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3286,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 1,
+    "enunciado": "A 'Síndrome Metabólica' é um conjunto de fatores de risco cardiovascular. Qual das combinações abaixo define corretamente parte dos critérios diagnósticos?",
+    "opcoes": [
+      "A) Miopia, Gastrite e Fadiga crônica.",
+      "B) Circunferência abdominal aumentada, Hipertensão, HDL baixo e Triglicerídeos altos.",
+      "C) Febre persistente e Perda de peso rápida.",
+      "D) Apenas o valor da glicemia de jejum isolada."
+    ],
+    "explicacao_geral": "A síndrome reflete o estado de resistência insulínica sistêmica.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não são critérios metabólicos.",
+      "B": "[CORRETA] Estes são os **pilares da Síndrome Metabólica**, associados a alto risco de infarto.",
+      "C": "[INCORRETA] Sugere infecção ou câncer.",
+      "D": "[INCORRETA] É necessária uma combinação de fatores."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3288,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 3,
+    "correta": 2,
+    "enunciado": "O hormônio leptina é produzido pelos adipócitos e sinaliza saciedade no cérebro. Por que muitos obesos continuam com fome mesmo tendo níveis altíssimos de leptina?",
+    "opcoes": [
+      "A) Porque a leptina transborda na urina e se perde.",
+      "B) Porque a leptina é destruída pelo suco gástrico.",
+      "C) Devido à Resistência à Leptina, onde o cérebro deixa de responder ao sinal de 'estoque cheio'.",
+      "D) Porque a leptina causa dor de cabeça, impedindo o sono mas não a fome."
+    ],
+    "explicacao_geral": "Semelhante à insulina, o excesso crônico de sinalização pode levar à falha na recepção do sinal celular.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Não é o mecanismo.",
+      "B": "[INCORRETA] É um hormônio sanguíneo.",
+      "C": "[CORRETA] A **resistência à leptina** contribui para o desequilíbrio do apetite na obesidade grave.",
+      "D": "[INCORRETA] Sem correlação fisiológica."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3292,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Ao descrever a posição de um paciente no prontuário, o médico utiliza o termo 'Supinação' do antebraço. Qual movimento manual isso representa?",
+    "opcoes": [
+      "A) Palma da mão voltada para trás.",
+      "B) Palma da mão voltada para baixo.",
+      "C) Palma da mão voltada para cima (como se estivesse pedindo algo).",
+      "D) Mão fechada em punho."
+    ],
+    "explicacao_geral": "A supinação e pronação são movimentos rotacionais do rádio sobre a ulna.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Seria a posição anatômica ou pronação dependendo do referencial.",
+      "B": "[INCORRETA] Este é o movimento de pronação.",
+      "C": "[CORRETA] **Supinação** mantém a palma da mão voltada para cima ou para a frente.",
+      "D": "[INCORRETA] Não define o movimento rotacional."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3296,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 2,
+    "enunciado": "Um estudante de medicina observa um médico avaliando a coluna vertebral de um paciente. O médico solicita que o paciente incline o tronco lateralmente. Este movimento ocorre em qual plano anatômico?",
+    "opcoes": [
+      "A) Plano Sagital.",
+      "B) Plano Transversal.",
+      "C) Plano Coronal (Frontal).",
+      "D) Plano Horizontal."
+    ],
+    "explicacao_geral": "Movimentos de inclinação lateral ocorrem no plano que divide o corpo em anterior e posterior.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] O sagital divide em direita e esquerda; permite flexão e extensão.",
+      "B": "[INCORRETA] O transversal divide em superior e inferior; permite rotações.",
+      "C": "[CORRETA] A inclinação lateral (adução/abdução) ocorre no **plano coronal**.",
+      "D": "[INCORRETA] Equivalente ao plano transversal."
+    },
+    "essencial": false,
+    "caso_clinico": true,
+    "categoria": "inedita"
+  },
+  {
+    "id": 3300,
+    "materia": "sus",
+    "aula_id": "sus_a1",
+    "tema": "sus_a1",
+    "modulo": 1,
+    "dificuldade": 2,
+    "correta": 3,
+    "enunciado": "Na avaliação da dor, o acrônimo 'SOCRATES' ajuda a não esquecer nenhum detalhe. O que a letra 'A' deste acrônimo representa?",
+    "opcoes": [
+      "A) Articulações afetadas.",
+      "B) Anamnese pregressa.",
+      "C) Alívio com aspirina.",
+      "D) Associações (Sintomas associados)."
+    ],
+    "explicacao_geral": "Perguntar sobre sintomas associados (Ex: febre, rash cutâneo, olho vermelho) ajuda a identificar doenças sistêmicas.",
+    "explicacoes_opcoes": {
+      "A": "[INCORRETA] Faz parte da caracterização da dor, mas não é o significado da letra A no acrônimo.",
+      "B": "[INCORRETA] Parte geral da anamnese.",
+      "C": "[INCORRETA] Alívio e piora são a letra 'E' (Exacerbating/Relieving).",
+      "D": "[CORRETA] A letra 'A' refere-se aos **Sintomas Associados** à dor principal."
+    },
+    "essencial": false,
+    "caso_clinico": false,
+    "categoria": "inedita"
+  }
+]

@@ -2,7 +2,7 @@
 
 As células morrem de duas maneiras: ou por um acidente trágico ou por um suicídio planejado. Na prova, o tema central é a diferença entre a **Necrose** (morte barulhenta com inflamação) e a **Apoptose** (morte silenciosa e programada), além de saber identificar os tipos de necrose em doenças como a **Tuberculose** ou o **Infarto**.
 
-Na prática, quando você pede um exame de **Troponina** para um paciente com dor no peito, você está procurando por sinais de necrose no coração.
+Na prática, quando você pede um exame de **Troponina** para um paciente com dor no peito, você está procurando por sinais de **necrose** no coração.
 
 ---
 
@@ -43,8 +43,8 @@ A célula decide morrer para o bem do corpo (Ex: dedos do bebê se separando no 
 ## 3. O Equilíbrio do Câncer
 
 O câncer é mestre em evitar a apoptose. 
-- **BCL-2:** É uma proteína que diz "não morra". Muitos tumores fabricam BCL-2 demais para nunca entrarem em apoptose, mesmo quando levam pancada da quimioterapia. 
-- **Uso Clínico:** Drogas modernas (como o Venetoclax) bloqueiam o BCL-2 para forçar o câncer a finalmente morrer por apoptose.
+- **BCL-2:** É uma proteína que diz "não morra". Muitos tumores fabricam **BCL-2** demais para nunca entrarem em apoptose, mesmo quando levam pancada da quimioterapia. 
+- **Uso Clínico:** Drogas modernas (como o **Venetoclax**) bloqueiam o BCL-2 para forçar o câncer a finalmente morrer por apoptose.
 
 ---
 
@@ -84,7 +84,7 @@ Sobre as caspases, lembre-se: a **8** começa a via externa e a **9** começa a 
 | **Coagulativa** | **Liquefativa** | Preserva o contorno (Coração) vs **Vira líquido/pus (Cérebro/Abscesso)** |
 | **Via Intrínseca** | **Via Extrínseca** | Mitocôndria (Caspase 9) vs **Receptor de Morte (Caspase 8)** |
 | **BAX / BAK** | **BCL-2** | Pró-morte (furam a mitocôndria) vs **Anti-morte (bloqueiam o furo)** |
-| **Troponina** | **Caspsase 3** | Marcador de Necrose vs **Marcador de Apoptose** |
+| **Troponina** | **Caspase 3** | Marcador de **Necrose** vs **Marcador de Apoptose** |
 
 ### Frase-âncora para não esquecer
 
