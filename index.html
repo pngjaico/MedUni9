@@ -4954,7 +4954,7 @@
   <!-- Firebase SDK (Auth + Firestore + Analytics) -->
   <script type="module">
     import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
-    import { getFirestore, collection, addDoc, doc, getDoc, setDoc, getDocs, query, where, updateDoc, deleteDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+    import { getFirestore, collection, addDoc, doc, getDoc, setDoc, getDocs, query, where, updateDoc, deleteDoc, onSnapshot } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
     import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut, sendPasswordResetEmail, updateProfile } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
     import { getAnalytics, isSupported } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-analytics.js';
 
@@ -4982,7 +4982,7 @@
     window.__fbAuth            = _auth;
     window.__fbDb              = _db;
     window.__fbGoogleProvider  = _gprov;
-    window.__fbFirestore       = { doc, getDoc, setDoc, collection, addDoc, getDocs, query, where, updateDoc, deleteDoc };
+    window.__fbFirestore       = { doc, getDoc, setDoc, collection, addDoc, getDocs, query, where, updateDoc, deleteDoc, onSnapshot };
     window.__fbAuthFns         = {
       createUserWithEmailAndPassword,
       signInWithEmailAndPassword,
@@ -6233,7 +6233,10 @@
       });
     }
 
-    function buildSessionTrackedProfile(profile = {}, fingerprint = '') {
+    // Global session identifier for multi-device block
+    window.__mgpSessionToken = Math.random().toString(36).substring(2) + Date.now();
+
+    function buildSessionTrackedProfile(profile = {}, fingerprint = '', sessionToken = '') {
       const normalized = normalizeUserProfile(profile);
       const currentDevice = (fingerprint || normalized.deviceId || '').trim();
       const previous = Array.isArray(normalized.deviceIds) ? normalized.deviceIds.filter(Boolean) : [];
@@ -6246,6 +6249,7 @@
         ...normalized,
         deviceId: currentDevice || normalized.deviceId || '',
         deviceIds: nextDevices,
+        sessionToken: sessionToken || window.__mgpSessionToken || '',
         loginDate: nowIso,
         lastSeenAt: nowIso,
         lastSeenUa: (navigator.userAgent || '').slice(0, 160),
@@ -6276,6 +6280,7 @@
           modulosAcesso: normalized.modulosAcesso || null,
           deviceId: normalized.deviceId || '',
           deviceIds: Array.isArray(normalized.deviceIds) ? normalized.deviceIds.filter(Boolean).slice(-5) : [],
+          sessionToken: normalized.sessionToken || '',
           maxDispositivos: Number(normalized.maxDispositivos || 2),
           accessSource: normalized.accessSource || '',
           emailGrantId: normalized.emailGrantId || '',
@@ -13205,6 +13210,24 @@ Usa meu cupom ${dashboard.couponCode} e vem testar o Modo Gratuito!`
       const [user, setUser] = useState(null);
       const [routeState, setRouteState] = useState(initialRoute);
       const [currentTab, setCurrentTab] = useState(initialRoute.tab);
+
+      // Monitor de conflito de sessão (Multi-dispositivos)
+      useEffect(() => {
+        if (!user || !user.uid || stage !== 'app' || user.isGuest) return;
+        if (!window.__fbFirestore || !window.__fbDb) return;
+
+        const { doc, onSnapshot } = window.__fbFirestore;
+        const unsubscribe = onSnapshot(doc(window.__fbDb, 'users', user.uid), (snap) => {
+          if (!snap.exists()) return;
+          const data = snap.data();
+          // Se o token no Firestore mudou e não é o desta aba/janela, desconectar
+          if (data.sessionToken && data.sessionToken !== window.__mgpSessionToken) {
+            alert('Acesso Detectado: Sua conta foi conectada em outro dispositivo. Esta sessão será encerrada para sua segurança.');
+            handleLogout();
+          }
+        });
+        return () => unsubscribe();
+      }, [user?.uid, stage]);
       const [quizMode, setQuizMode] = useState('todas');
       const isAmbassadorUser = !!(user?.ambassadorId || user?.ambassadorVitalicio || user?.couponCode);
       const [darkMode, setDarkMode] = useState(() => {
@@ -13353,9 +13376,12 @@ Usa meu cupom ${dashboard.couponCode} e vem testar o Modo Gratuito!`
                 const synced = await syncProfileAccessFromCodeEntry(firebaseUser, p);
                 const syncedEmail = await syncProfileAccessFromEmailGrant(firebaseUser, synced);
                 const qualified = await checkAmbassadorQualification(syncedEmail);
-                const normalized = persistLocalUser(qualified);
+                // TAKE OVER SESSION: Garantir que o Firestore tenha o token desta aba/dispositivo
+                const withSession = buildSessionTrackedProfile(qualified);
+                await saveUserProfile(firebaseUser, withSession, { merge: true });
+                const normalized = persistLocalUser(withSession);
                 authStateRef.current = normalized;
-                if (splashDoneRef.current) applyResolvedAuth(qualified);
+                if (splashDoneRef.current) applyResolvedAuth(withSession);
               } else {
                 let grantPending = null;
                 try {
