@@ -751,7 +751,7 @@ exports.geminiSupport = functions
       if (!apiKey) throw new Error('Secret GEMINI_API_KEY não configurado.');
 
       const genAI = new GoogleGenerativeAI(apiKey);
-      const modelsToTry = ['gemini-2.5-flash', 'gemini-3-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash-lite'];
+      const modelsToTry = ['gemini-1.5-flash', 'gemini-1.5-pro', 'gemini-1.0-pro'];
       let lastError = null;
       let responseText = null;
 

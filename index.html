@@ -13103,7 +13103,7 @@ Usa meu cupom ${dashboard.couponCode} e vem testar o Modo Gratuito!`
           const res = await fetch('https://southamerica-east1-medgradplus.cloudfunctions.net/geminiSupport', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ prompt: currentInput, userId: user?.id })
+            body: JSON.stringify({ prompt: currentInput, userId: user?.uid })
           });
           const data = await res.json();
           if (data.error) throw new Error(data.error);
