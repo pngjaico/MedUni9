@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedGradPlus - Preview de Materiais</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #00f2fe;
+            --bg: #030712;
+            --card-bg: #111827;
+            --border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            background-color: var(--bg);
+            color: white;
+            font-family: 'Outfit', sans-serif;
+            margin: 0;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: 900;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #fff, var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p {
+            font-size: 18px;
+            opacity: 0.7;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .card-preview {
+            background: var(--card-bg);
+            border-radius: 24px;
+            border: 1px solid var(--border);
+            overflow: hidden;
+            transition: transform 0.3s ease, border-color 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-preview:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .iframe-container {
+            width: 100%;
+            aspect-ratio: 1/1;
+            background: #000;
+            position: relative;
+        }
+
+        iframe {
+            width: 1080px;
+            height: 1080px;
+            border: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0.32); /* Roughly fits 350px width */
+            transform-origin: center center;
+            pointer-events: none;
+        }
+
+        .card-info {
+            padding: 25px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .card-title {
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        .card-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 12px;
+            border-radius: 12px;
+            text-align: center;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: #000;
+        }
+
+        .btn-primary:hover {
+            filter: brightness(1.1);
+            transform: scale(1.02);
+        }
+
+        .btn-outline {
+            border: 1px solid var(--border);
+            color: white;
+        }
+
+        .btn-outline:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 32px; }
+            .grid { grid-template-columns: 1fr; }
+            iframe { transform: translate(-50%, -50%) scale(0.28); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Kit de Divulgação</h1>
+            <p>Escolha um modelo, adicione seu cupom e tire um print para divulgar.</p>
+        </header>
+
+        <div class="grid">
+            <!-- Card V1 (Index) -->
+            <div class="card-preview">
+                <div class="iframe-container">
+                    <iframe src="index.html?coupon=EXEMPLO"></iframe>
+                </div>
+                <div class="card-info">
+                    <div class="card-title">Modelo "O Fim do Genérico"</div>
+                    <div class="card-actions">
+                        <a href="index.html?coupon=SUA_ID" id="link-v1" class="btn btn-primary">Abrir e Customizar</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card V2 -->
+            <div class="card-preview">
+                <div class="iframe-container">
+                    <iframe src="card_v2.html?coupon=EXEMPLO"></iframe>
+                </div>
+                <div class="card-info">
+                    <div class="card-title">Modelo "Nota Máxima"</div>
+                    <div class="card-actions">
+                        <a href="card_v2.html?coupon=SUA_ID" id="link-v2" class="btn btn-primary">Abrir e Customizar</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card V3 -->
+            <div class="card-preview">
+                <div class="iframe-container">
+                    <iframe src="card_v3.html?coupon=EXEMPLO"></iframe>
+                </div>
+                <div class="card-info">
+                    <div class="card-title">Modelo "Suas Regras"</div>
+                    <div class="card-actions">
+                        <a href="card_v3.html?coupon=SUA_ID" id="link-v3" class="btn btn-primary">Abrir e Customizar</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card V4 -->
+            <div class="card-preview">
+                <div class="iframe-container">
+                    <iframe src="card_v4.html?coupon=EXEMPLO"></iframe>
+                </div>
+                <div class="card-info">
+                    <div class="card-title">Modelo "Te Entende"</div>
+                    <div class="card-actions">
+                        <a href="card_v4.html?coupon=SUA_ID" id="link-v4" class="btn btn-primary">Abrir e Customizar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Inject current coupon from URL if present
+        const urlParams = new URLSearchParams(window.location.search);
+        const coupon = urlParams.get('coupon');
+        if (coupon) {
+            document.querySelectorAll('a').forEach(link => {
+                const href = link.getAttribute('href');
+                if (href && href.includes('coupon=')) {
+                    link.setAttribute('href', href.split('coupon=')[0] + 'coupon=' + coupon);
+                }
+            });
+            document.querySelectorAll('iframe').forEach(frame => {
+                const src = frame.getAttribute('src');
+                if (src && src.includes('coupon=')) {
+                    frame.setAttribute('src', src.split('coupon=')[0] + 'coupon=' + coupon);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

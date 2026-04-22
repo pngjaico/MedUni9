@@ -194,23 +194,26 @@
         body {
             overflow: hidden;
             background: #000;
-        }
-        #card-scaler {
+            margin: 0;
+            padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             width: 100vw;
             height: 100vh;
         }
-        .card {
+        #card-scaler {
             flex-shrink: 0;
+            width: 1080px;
+            height: 1080px;
             transform-origin: center center;
+            position: relative;
         }
     </style>
 </head>
 <body>
     <div id="card-scaler">
-        <div class="card">
+        <div class="card" style="width: 100%; height: 100%; padding: 100px;">
             <div class="pattern"></div>
             
             <div id="couponDisplay" class="coupon-box">CUPOM: <span id="couponText"></span></div>
@@ -252,11 +255,14 @@
         }
 
         function updateScale() {
-            const card = document.querySelector('.card');
-            const scale = Math.min(1, (window.innerWidth - 40) / 1080, (window.innerHeight - 40) / 1080);
-            card.style.transform = `scale(${scale})`;
+            const scaler = document.getElementById('card-scaler');
+            const winW = window.innerWidth;
+            const winH = window.innerHeight;
+            const scale = Math.min(winW / 1080, winH / 1080);
+            scaler.style.transform = `scale(${scale})`;
         }
         window.addEventListener('resize', updateScale);
+        window.addEventListener('load', updateScale);
         updateScale();
     </script>
 </body>
