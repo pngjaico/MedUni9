@@ -10619,7 +10619,7 @@
                 </div>
                 <a
                   className="btn btn-primary"
-                  href={user.email ? `comprar.html?email=${encodeURIComponent(user.email)}` : 'comprar.html'}
+                  href={(user.email && !user.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(user.email)) ? `comprar.html?email=${encodeURIComponent(user.email)}` : 'comprar.html'}
                   style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', textDecoration: 'none', boxSizing: 'border-box' }}
                 >
                   Ver planos e comprar
