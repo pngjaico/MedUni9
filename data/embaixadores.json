@@ -75,5 +75,43 @@
     "qualificacao_status": "approved",
     "proxima_verificacao_em": "2026-05-22T11:34:44.016Z",
     "notas": "Promovido de conta existente"
+  },
+  "emb_ded0k8azh": {
+    "id": "emb_ded0k8azh",
+    "nome": "Kim",
+    "email": "williamhwskim@gmail.com",
+    "telefone": "",
+    "modulo": "1-12",
+    "vitalicio": true,
+    "comissao_percentual": 10,
+    "comissao_total": 0,
+    "vendas_valor_total": 0,
+    "cupomCode": "KIM",
+    "ativo": true,
+    "criadoEm": "2026-04-22T11:41:38.222Z",
+    "ultimaVendaEm": null,
+    "vendas_abril_2026": 0,
+    "qualificacao_status": "approved",
+    "proxima_verificacao_em": "2026-05-22T11:41:38.222Z",
+    "notas": "Promovido de conta existente"
+  },
+  "emb_wu9jxy84f": {
+    "id": "emb_wu9jxy84f",
+    "nome": "Bernardão",
+    "email": "rochabernardo914@gmail.com",
+    "telefone": "",
+    "modulo": "1-12",
+    "vitalicio": true,
+    "comissao_percentual": 10,
+    "comissao_total": 0,
+    "vendas_valor_total": 0,
+    "cupomCode": "BERNARDO",
+    "ativo": true,
+    "criadoEm": "2026-04-22T11:42:22.331Z",
+    "ultimaVendaEm": null,
+    "vendas_abril_2026": 0,
+    "qualificacao_status": "approved",
+    "proxima_verificacao_em": "2026-05-22T11:42:22.331Z",
+    "notas": "Promovido de conta existente"
   }
 }

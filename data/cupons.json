@@ -63,5 +63,31 @@
     "linkedToAmbassador": "emb_2vtd4kzyr",
     "criadoEm": "2026-04-22T11:34:44.016Z",
     "notas": "Cupom embaixador de Isaac"
+  },
+  "KIM": {
+    "codigo": "KIM",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_ded0k8azh",
+    "criadoEm": "2026-04-22T11:41:38.222Z",
+    "notas": "Cupom embaixador de Kim"
+  },
+  "BERNARDO": {
+    "codigo": "BERNARDO",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_wu9jxy84f",
+    "criadoEm": "2026-04-22T11:42:22.331Z",
+    "notas": "Cupom embaixador de Bernardão"
   }
 }
