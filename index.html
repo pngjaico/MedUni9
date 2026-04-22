@@ -10774,7 +10774,7 @@
       );
     };
 
-    const AmbassadorScreen = () => {
+    const AmbassadorScreen = ({ user }) => {
       const [loading, setLoading] = useState(true);
       const [currentTab, setCurrentTab] = useState('dashboard'); // 'dashboard' or 'kit'
       const [dashboard, setDashboard] = useState({
