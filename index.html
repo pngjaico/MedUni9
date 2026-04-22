@@ -10774,12 +10774,14 @@
       );
     };
 
-    const AmbassadorScreen = ({ user }) => {
+    const AmbassadorScreen = () => {
       const [loading, setLoading] = useState(true);
       const [dashboard, setDashboard] = useState({
         status: user?.qualificationStatus || 'pending',
         daysUntilCheck: 30,
         salesCurrentMonth: 0,
+        commissionMonth: 0,
+        grossMonth: 0,
         couponCode: user?.couponCode || '—',
         ambassadorId: user?.ambassadorId || '—',
       });
@@ -10800,7 +10802,10 @@
             const ambassador = ambassadorId ? ambassadors[ambassadorId] : null;
 
             const monthKey = new Date().toISOString().slice(0, 7);
-            const sales = ambassadorId ? (salesMonthly[monthKey]?.[ambassadorId]?.count || 0) : 0;
+            const monthData = ambassadorId ? (salesMonthly[monthKey]?.[ambassadorId] || {}) : {};
+            const sales = monthData.count || 0;
+            const commission = monthData.total_comissao || 0;
+            const gross = monthData.total_bruto || 0;
 
             const lastCheck = user?.lastQualificationCheck ? new Date(user.lastQualificationCheck) : null;
             const daysSince = lastCheck ? Math.floor((Date.now() - lastCheck.getTime()) / (1000 * 60 * 60 * 24)) : 0;
@@ -10811,6 +10816,8 @@
               status: user?.qualificationStatus || ambassador?.qualificacao_status || 'pending',
               daysUntilCheck,
               salesCurrentMonth: sales,
+              commissionMonth: commission,
+              grossMonth: gross,
               couponCode: user?.couponCode || ambassador?.cupomCode || '—',
               ambassadorId: ambassadorId || '—',
             });
@@ -10825,52 +10832,115 @@
         return () => { isMounted = false; };
       }, [user?.email, user?.ambassadorId, user?.couponCode, user?.qualificationStatus, user?.lastQualificationCheck, user?.codeHash]);
 
+      const copyCoupon = () => {
+        if (dashboard.couponCode === '—') return;
+        try {
+          navigator.clipboard.writeText(dashboard.couponCode);
+          toast.success('Cupom copiado!');
+        } catch {
+          toast.error('Erro ao copiar');
+        }
+      };
+
       return (
         <div className="screen-content">
-          <div className="page-header" style={{ marginBottom: '18px' }}>
-            <h1 style={{ fontSize: '26px' }}>Área do Embaixador</h1>
-            <p style={{ color: 'var(--text-secondary)' }}>Acompanhe sua elegibilidade, vendas e dados de identificação.</p>
+          <div className="page-header" style={{ marginBottom: '24px' }}>
+            <h1 style={{ fontSize: '28px', fontWeight: 800 }}>Área do Embaixador</h1>
+            <p style={{ color: 'var(--text-secondary)' }}>Acompanhe sua performance e ganhos em tempo real.</p>
           </div>
 
           {loading && (
-            <div className="panel" style={{ marginBottom: '16px' }}>
+            <div className="panel" style={{ marginBottom: '16px', padding: '20px', textAlign: 'center' }}>
+              <div className="loading-spinner" style={{ margin: '0 auto 12px' }}></div>
               <p style={{ color: 'var(--text-secondary)' }}>Carregando dados do embaixador...</p>
             </div>
           )}
 
-          <div className="profile-stats" style={{ marginBottom: '18px' }}>
-            <div className="profile-stat">
-              <div className="profile-stat-icon" style={{ color: dashboard.status === 'suspended' ? 'var(--error)' : 'var(--success)' }}><IconTarget /></div>
-              <div className="profile-stat-value" style={{ fontSize: '20px' }}>{dashboard.status === 'suspended' ? 'Suspenso' : 'Aprovado'}</div>
-              <div className="profile-stat-label">Status</div>
+          {/* Cards de Performance */}
+          <div className="profile-stats" style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '12px', marginBottom: '20px' }}>
+            <div className="profile-stat" style={{ padding: '16px', borderRadius: '16px' }}>
+              <div className="profile-stat-icon" style={{ color: dashboard.status === 'suspended' ? 'var(--error)' : '#10b981' }}><IconTarget /></div>
+              <div className="profile-stat-value" style={{ fontSize: '22px', fontWeight: 800 }}>{dashboard.status === 'suspended' ? 'Suspenso' : 'Ativo'}</div>
+              <div className="profile-stat-label">Status da Conta</div>
             </div>
-            <div className="profile-stat">
-              <div className="profile-stat-icon" style={{ color: 'var(--warning)' }}><IconClock /></div>
-              <div className="profile-stat-value" style={{ fontSize: '20px' }}>{dashboard.daysUntilCheck}d</div>
-              <div className="profile-stat-label">Até verificação</div>
-            </div>
-            <div className="profile-stat">
-              <div className="profile-stat-icon" style={{ color: 'var(--primary)' }}><IconClipboardList /></div>
-              <div className="profile-stat-value" style={{ fontSize: '20px' }}>{dashboard.salesCurrentMonth}</div>
-              <div className="profile-stat-label">Vendas no mês</div>
+            <div className="profile-stat" style={{ padding: '16px', borderRadius: '16px' }}>
+              <div className="profile-stat-icon" style={{ color: '#F59E0B' }}><IconClock /></div>
+              <div className="profile-stat-value" style={{ fontSize: '22px', fontWeight: 800 }}>{dashboard.daysUntilCheck}d</div>
+              <div className="profile-stat-label">Próximo Ciclo</div>
             </div>
           </div>
 
-          <div className="profile-section">
-            <div className="profile-item">
-              <span className="profile-label">Cupom</span>
-              <span className="profile-value" style={{ fontFamily: 'monospace', fontSize: '13px' }}>{dashboard.couponCode}</span>
+          {/* Financeiro */}
+          <div className="panel" style={{ marginBottom: '20px', padding: '20px', background: 'linear-gradient(135deg, rgba(37,99,235,0.1) 0%, rgba(37,99,235,0.02) 100%)', border: '1px solid rgba(37,99,235,0.2)' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '16px' }}>
+              <div style={{ width: '32px', height: '32px', borderRadius: '8px', background: 'var(--primary)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'white' }}>
+                <IconWallet />
+              </div>
+              <h3 style={{ fontSize: '18px', fontWeight: 700, margin: 0 }}>Ganhos do Mês</h3>
             </div>
-            <div className="profile-item">
-              <span className="profile-label">ID do embaixador</span>
-              <span className="profile-value" style={{ fontFamily: 'monospace', fontSize: '12px' }}>{dashboard.ambassadorId}</span>
+
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+                <div>
+                  <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px' }}>Comissão a receber</div>
+                  <div style={{ fontSize: '32px', fontWeight: 900, color: '#10b981' }}>R$ {dashboard.commissionMonth.toLocaleString('pt-BR', { minimumFractionDigits: 2 })}</div>
+                </div>
+                <div style={{ textAlign: 'right' }}>
+                  <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px' }}>Vendas totais</div>
+                  <div style={{ fontSize: '20px', fontWeight: 700 }}>{dashboard.salesCurrentMonth}</div>
+                </div>
+              </div>
+              
+              <div style={{ height: '1px', background: 'rgba(255,255,255,0.08)' }}></div>
+              
+              <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '14px' }}>
+                <span style={{ color: 'var(--text-secondary)' }}>Volume de vendas (Bruto):</span>
+                <span style={{ fontWeight: 600 }}>R$ {dashboard.grossMonth.toLocaleString('pt-BR', { minimumFractionDigits: 2 })}</span>
+              </div>
             </div>
           </div>
 
-          <div style={{ marginTop: '12px', padding: '12px', borderRadius: '12px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
-            <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '8px' }}>Regras de manutenção</div>
-            <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.6 }}>
-              Você começa aprovado no primeiro ciclo. Após 30 dias, é necessário ter ao menos 1 venda no mês para manter o acesso vitalício.
+          {/* Cupom */}
+          <div className="panel" style={{ marginBottom: '20px', padding: '20px' }}>
+            <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '12px' }}>Seu Cupom de Desconto</div>
+            <div 
+              onClick={copyCoupon}
+              style={{ 
+                display: 'flex', 
+                alignItems: 'center', 
+                justifyContent: 'space-between', 
+                padding: '16px', 
+                background: 'rgba(0,0,0,0.2)', 
+                borderRadius: '12px', 
+                border: '2px dashed rgba(255,255,255,0.1)',
+                cursor: 'pointer'
+              }}
+            >
+              <span style={{ fontSize: '20px', fontWeight: 800, color: 'var(--primary)', letterSpacing: '2px' }}>{dashboard.couponCode}</span>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '12px', color: 'var(--text-secondary)' }}>
+                <IconClipboardList />
+                Copiar
+              </div>
+            </div>
+            <p style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '10px', textAlign: 'center' }}>
+              Compartilhe este cupom para ganhar comissões em cada venda.
+            </p>
+          </div>
+
+          {/* Dados */}
+          <div className="profile-section" style={{ padding: '0 4px' }}>
+            <div className="profile-item" style={{ padding: '12px 0' }}>
+              <span className="profile-label" style={{ fontSize: '12px' }}>ID de Identificação</span>
+              <span className="profile-value" style={{ fontFamily: 'monospace', fontSize: '12px', color: 'var(--text-secondary)' }}>{dashboard.ambassadorId}</span>
+            </div>
+          </div>
+
+          <div style={{ marginTop: '24px', padding: '16px', borderRadius: '16px', background: 'rgba(245,158,11,0.05)', border: '1px solid rgba(245,158,11,0.2)' }}>
+            <div style={{ fontSize: '14px', fontWeight: 700, color: '#F59E0B', marginBottom: '8px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+              <IconAlertCircle /> Regras de Manutenção
+            </div>
+            <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.6 }}>
+              Para manter seu acesso vitalício e status de embaixador, você precisa realizar pelo menos <strong>1 venda a cada 30 dias</strong>. A próxima verificação ocorre em <strong>{dashboard.daysUntilCheck} dias</strong>.
             </div>
           </div>
         </div>

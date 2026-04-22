@@ -1680,7 +1680,7 @@
             return `emb_${base || Math.random().toString(36).slice(2, 10)}`;
         }
 
-        async function persistAmbassadorCommissionToFirebase(amb) {
+        async function persistAmbassadorProfileToFirebase(amb) {
             if (!amb || !window.__adminFirebase) return;
 
             const currentUser = adminFirebaseUser || window.__adminFirebase.auth.currentUser;
@@ -1690,15 +1690,17 @@
             if (!email) return;
 
             const { collection, getDocs, doc, setDoc } = window.__adminFirebase.fs;
-            const usersSnap = await getDocs(collection(window.__adminFirebase.db, 'users'));
+            const db = window.__adminFirebase.db;
+            const usersSnap = await getDocs(collection(db, 'users'));
             const existing = usersSnap.docs
                 .map(d => ({ id: d.id, ...d.data() }))
                 .find(u => normalizeEmailValue(u.email) === email);
 
             if (!existing) return;
 
-            await setDoc(doc(window.__adminFirebase.db, 'users', existing.id), {
+            await setDoc(doc(db, 'users', existing.id), {
                 ambassadorCommissionPercent: Number(amb.comissao_percentual || 10),
+                couponCode: amb.cupomCode || '',
                 updatedAt: new Date().toISOString(),
             }, { merge: true });
         }
@@ -2627,6 +2629,7 @@
                 <div style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: var(--surface-2); border: 1px solid var(--border); border-radius: 16px; padding: 32px; width: 90%; max-width: 450px; box-shadow: 0 20px 60px rgba(0,0,0,0.5); zIndex: 10000;">
                     <h2 style="margin-bottom: 20px;">+ Novo Embaixador</h2>
                     <input type="text" id="newAmbNome" placeholder="Nome" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
+                    <input type="email" id="newAmbEmail" placeholder="Email" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <input type="text" id="newAmbTelefone" placeholder="Telefone" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <input type="number" id="newAmbCommission" placeholder="Comissão (%)" min="0" max="100" value="10" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <div style="margin-bottom: 12px; padding: 10px; border-radius: 8px; background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.35); font-size: 12px; color: var(--text-primary);">
@@ -2641,13 +2644,18 @@
         }
 
         async function saveNewAmbassador() {
-            const nome = document.getElementById('newAmbNome')?.value || '';
-            const telefone = document.getElementById('newAmbTelefone')?.value || '';
+            const nome = (document.getElementById('newAmbNome')?.value || '').trim();
+            const email = (document.getElementById('newAmbEmail')?.value || '').trim().toLowerCase();
+            const telefone = (document.getElementById('newAmbTelefone')?.value || '').trim();
             const comissaoPercentual = Number(document.getElementById('newAmbCommission')?.value || 10);
-            const email = null;
 
-            if (!nome) {
-                showToast('Nome é obrigatório', true);
+            if (!nome || !email) {
+                showToast('Nome e Email são obrigatórios', true);
+                return;
+            }
+
+            if (!window.__adminFirebase) {
+                showToast('Firebase admin não carregado.', true);
                 return;
             }
 
@@ -2657,80 +2665,81 @@
                 .toUpperCase().replace(/[^A-Z0-9]/g, '')
                 .slice(0, 6) || 'EMB';
             const cupomCode = `${nameBase}-${new Date().getFullYear()}-${id.slice(-4).toUpperCase()}`;
-            const plainAccessCode = generateRandomCode();
-            const accessCodeHash = await sha256(CODE_SALT + plainAccessCode);
             const nextYear = new Date(new Date().getFullYear() + 1, 11, 31).toISOString().split('T')[0];
 
-            // Key is created together with the ambassador and permanently linked.
-            codesData[accessCodeHash] = {
-                plano: 'vitalicio',
-                tipo: 'embaixador',
-                embaixadorId: id,
-                cupomCode,
-                modulosAcesso: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-                ativo: true,
-                maxDispositivos: 2,
-                dispositivos: [],
-                email: email || null,
-                expira: nextYear,
-                nota: `Chave vinculada ao embaixador ${nome}`,
-                criadoEm: new Date().toISOString()
-            };
-
-            ambassadorsData[id] = {
-                id, nome, email, telefone, modulo: '1-12', vitalicio: true,
-                comissao_percentual: Number.isFinite(comissaoPercentual) ? comissaoPercentual : 10,
-                comissao_total: 0,
-                vendas_valor_total: 0,
-                cupomCode,
-                codeHash: accessCodeHash,
-                ativo: true,
-                criadoEm: new Date().toISOString(),
-                ultimaVendaEm: null,
-                vendas_abril_2026: 0,
-                qualificacao_status: 'pending',
-                proxima_verificacao_em: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString(),
-                notas: ''
-            };
-
-            // Create corresponding coupon
-            couponsData[cupomCode] = {
-                codigo: cupomCode,
-                tipo: 'embaixador',
-                desconto_percentual: 0,
-                desconto_fixo: 0,
-                validade_ate: nextYear,
-                usos_maximos: null,
-                usos_atuais: 0,
-               ativo: true,
-                linkedToAmbassador: id,
-                criadoEm: new Date().toISOString(),
-                notas: `Cupom embaixador de ${nome}`
-            };
-
-            renderCodes();
-            renderAmbassadors();
-            renderCoupons();
-            await _persistCodes();
-            await _persistAmbassadors();
-            await _persistCoupons();
-            closeModal('newAmbassadorModal');
-
-            const generatedValue = document.getElementById('generatedCodeValue');
-            if (generatedValue) {
-                generatedValue.innerHTML = `
-                    <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Chave de acesso</div>
-                    <div style="font-size: 24px; margin-bottom: 16px;">${plainAccessCode}</div>
-                    <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Cupom</div>
-                    <div style="font-size: 20px;">${cupomCode}</div>
-                `;
-            }
-            const generatedModal = document.getElementById('generatedCodeModal');
-            if (generatedModal) generatedModal.classList.remove('hidden');
             try {
-                navigator.clipboard.writeText(`CHAVE: ${plainAccessCode}\nCUPOM: ${cupomCode}`);
-            } catch {}
-            showToast(`Embaixador ${nome} criado com chave + cupom vinculados.`);
+                const { doc, setDoc } = window.__adminFirebase.fs;
+                const db = window.__adminFirebase.db;
+
+                // 1. Grant access via email_access (Modern System)
+                await setDoc(doc(db, 'email_access', email), {
+                    ativo: true,
+                    plano: 'vitalicio',
+                    modulosAcesso: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                    maxDispositivos: 2,
+                    expira: nextYear,
+                    nota: `Embaixador: ${nome} (Criado via Admin)`,
+                    atualizadoEm: new Date().toISOString(),
+                    accessSource: 'admin_ambassador'
+                }, { merge: true });
+
+                // 2. Update/Create ambassador in local data
+                ambassadorsData[id] = {
+                    id, nome, email, telefone, modulo: '1-12', vitalicio: true,
+                    comissao_percentual: Number.isFinite(comissaoPercentual) ? comissaoPercentual : 10,
+                    comissao_total: 0,
+                    vendas_valor_total: 0,
+                    cupomCode,
+                    ativo: true,
+                    criadoEm: new Date().toISOString(),
+                    ultimaVendaEm: null,
+                    vendas_abril_2026: 0,
+                    qualificacao_status: 'approved',
+                    proxima_verificacao_em: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString(),
+                    notas: ''
+                };
+
+                // 3. Create corresponding coupon in local data
+                couponsData[cupomCode] = {
+                    codigo: cupomCode,
+                    tipo: 'embaixador',
+                    desconto_percentual: 0,
+                    desconto_fixo: 0,
+                    validade_ate: nextYear,
+                    usos_maximos: null,
+                    usos_atuais: 0,
+                    ativo: true,
+                    linkedToAmbassador: id,
+                    criadoEm: new Date().toISOString(),
+                    notas: `Cupom embaixador de ${nome}`
+                };
+
+                // 4. Save everything
+                renderAmbassadors();
+                renderCoupons();
+                await _persistAmbassadors();
+                await _persistCoupons();
+                
+                closeModal('newAmbassadorModal');
+                
+                // Show success modal without legacy key
+                const generatedValue = document.getElementById('generatedCodeValue');
+                if (generatedValue) {
+                    generatedValue.innerHTML = `
+                        <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Embaixador Criado</div>
+                        <div style="font-size: 20px; margin-bottom: 16px;">${email}</div>
+                        <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Cupom</div>
+                        <div style="font-size: 24px; color: #10b981; font-weight: 800;">${cupomCode}</div>
+                    `;
+                }
+                const generatedModal = document.getElementById('generatedCodeModal');
+                if (generatedModal) generatedModal.classList.remove('hidden');
+                
+                showToast(`Embaixador ${nome} criado e acesso vitalício concedido ao email.`);
+            } catch (err) {
+                console.error(err);
+                showToast('Erro ao criar embaixador no Firebase: ' + err.message, true);
+            }
         }
 
         function showPromoteExistingAmbassadorModal() {
@@ -2738,7 +2747,7 @@
                 <div style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: var(--surface-2); border: 1px solid var(--border); border-radius: 16px; padding: 32px; width: 90%; max-width: 460px; box-shadow: 0 20px 60px rgba(0,0,0,0.5); zIndex: 10000;">
                     <h2 style="margin-bottom: 12px;">⭐ Promover Conta Existente</h2>
                     <p style="font-size: 12px; color: var(--text-secondary); margin-bottom: 14px; line-height: 1.6;">
-                        Informe o email de uma conta já existente para torná-la embaixador. A chave atual da conta será reaproveitada e atualizada para módulos 1 a 12.
+                        Informe o email de uma conta já existente para torná-la embaixador. O acesso vitalício será concedido automaticamente ao email informado.
                     </p>
                     <input type="email" id="promoteAmbEmail" placeholder="Email da conta existente" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <input type="text" id="promoteAmbNome" placeholder="Nome (opcional)" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
@@ -2776,7 +2785,9 @@
 
             try {
                 const { collection, getDocs, doc, setDoc } = window.__adminFirebase.fs;
-                const usersSnap = await getDocs(collection(window.__adminFirebase.db, 'users'));
+                const db = window.__adminFirebase.db;
+
+                const usersSnap = await getDocs(collection(db, 'users'));
                 const existing = usersSnap.docs
                     .map(d => ({ id: d.id, ...d.data() }))
                     .find(u => String(u.email || '').toLowerCase() === email);
@@ -2800,45 +2811,19 @@
                 const cupomCode = `${nameBase}-${new Date().getFullYear()}-${id.slice(-4).toUpperCase()}`;
                 const nextYear = new Date(new Date().getFullYear() + 1, 11, 31).toISOString().split('T')[0];
 
-                const rawCodeHash = String(existing.codeHash || '').trim();
-                let accessCodeHash = rawCodeHash;
-                let codeEntry = accessCodeHash ? codesData[accessCodeHash] : null;
+                // 1. Grant access via email_access (Modern System)
+                await setDoc(doc(db, 'email_access', email), {
+                    ativo: true,
+                    plano: 'vitalicio',
+                    modulosAcesso: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                    maxDispositivos: 2,
+                    expira: nextYear,
+                    nota: `Conta promovida a Embaixador: ${nome} (Admin)`,
+                    atualizadoEm: new Date().toISOString(),
+                    accessSource: 'admin_promote_ambassador'
+                }, { merge: true });
 
-                // Backward compatibility: older profiles may store a short hash prefix.
-                if (!codeEntry && rawCodeHash && rawCodeHash.length < 64) {
-                    const matchHash = Object.keys(codesData).find(fullHash => fullHash.startsWith(rawCodeHash));
-                    if (matchHash) {
-                        accessCodeHash = matchHash;
-                        codeEntry = codesData[matchHash];
-                    }
-                }
-
-                // Fallback by email if codeHash is missing in profile.
-                if (!codeEntry) {
-                    const byEmailHash = Object.keys(codesData).find(hash => String(codesData[hash]?.email || '').toLowerCase() === email);
-                    if (byEmailHash) {
-                        accessCodeHash = byEmailHash;
-                        codeEntry = codesData[byEmailHash];
-                    }
-                }
-
-                if (!codeEntry || !accessCodeHash) {
-                    showToast('Esta conta ainda não possui chave vinculada. Ative uma chave antes de promover.', true);
-                    return;
-                }
-
-                // Reuse existing key and upgrade access/metadata to ambassador.
-                codeEntry.plano = 'vitalicio';
-                codeEntry.tipo = 'embaixador';
-                codeEntry.embaixadorId = id;
-                codeEntry.cupomCode = cupomCode;
-                codeEntry.modulosAcesso = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
-                codeEntry.ativo = true;
-                codeEntry.email = email;
-                codeEntry.expira = codeEntry.expira || nextYear;
-                codeEntry.nota = `Chave existente promovida para embaixador ${nome}`;
-                codeEntry.atualizadoEm = new Date().toISOString();
-
+                // 2. Add to local ambassador data
                 ambassadorsData[id] = {
                     id,
                     nome,
@@ -2850,7 +2835,6 @@
                     comissao_total: 0,
                     vendas_valor_total: 0,
                     cupomCode,
-                    codeHash: accessCodeHash,
                     ativo: true,
                     criadoEm: new Date().toISOString(),
                     ultimaVendaEm: null,
@@ -2860,6 +2844,7 @@
                     notas: 'Promovido de conta existente'
                 };
 
+                // 3. Create corresponding coupon in local data
                 couponsData[cupomCode] = {
                     codigo: cupomCode,
                     tipo: 'embaixador',
@@ -2874,7 +2859,8 @@
                     notas: `Cupom embaixador de ${nome}`
                 };
 
-                await setDoc(doc(window.__adminFirebase.db, 'users', existing.id), {
+                // 4. Update the user profile in Firestore
+                await setDoc(doc(db, 'users', existing.id), {
                     plano: 'vitalicio',
                     modulosAcesso: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
                     ambassadorVitalicio: true,
@@ -2882,41 +2868,39 @@
                     ambassadorEmail: email,
                     ambassadorCommissionPercent: Number.isFinite(comissaoPercentual) ? comissaoPercentual : 10,
                     couponCode: cupomCode,
-                    codeHash: accessCodeHash,
                     lastQualificationCheck: new Date().toISOString(),
                     qualificationStatus: 'approved',
                     updatedAt: new Date().toISOString(),
                 }, { merge: true });
 
-                renderCodes();
+                // 5. Save everything and refresh UI
                 renderAmbassadors();
                 renderCoupons();
-                await _persistCodes();
                 await _persistAmbassadors();
                 await _persistCoupons();
 
                 closeModal('promoteExistingAmbassadorModal');
+                
+                // Success feedback
                 const generatedValue = document.getElementById('generatedCodeValue');
                 if (generatedValue) {
                     generatedValue.innerHTML = `
-                        <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Chave existente reaproveitada (hash)</div>
-                        <div style="font-size: 16px; margin-bottom: 16px; font-family: monospace;">${String(accessCodeHash).slice(0, 24)}...</div>
+                        <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Conta Promovida</div>
+                        <div style="font-size: 18px; margin-bottom: 16px;">${email}</div>
                         <div style="font-size: 16px; margin-bottom: 8px; color: var(--text-secondary);">Cupom</div>
-                        <div style="font-size: 20px;">${cupomCode}</div>
+                        <div style="font-size: 24px; color: #10b981; font-weight: 800;">${cupomCode}</div>
                     `;
                 }
                 const generatedModal = document.getElementById('generatedCodeModal');
                 if (generatedModal) generatedModal.classList.remove('hidden');
-                try {
-                    navigator.clipboard.writeText(`HASH_CHAVE_EXISTENTE: ${accessCodeHash}\nCUPOM: ${cupomCode}`);
-                } catch {}
 
-                showToast(`Conta ${email} promovida para embaixador sem gerar nova chave.`);
+                showToast(`Conta ${email} promovida para embaixador com acesso vitalício.`);
                 if (document.getElementById('section-users')?.classList.contains('active')) {
                     loadUsersSection();
                 }
             } catch (err) {
-                showToast('Erro ao promover conta existente para embaixador.', true);
+                console.error(err);
+                showToast('Erro ao promover conta existente: ' + err.message, true);
             }
         }
 
@@ -3112,6 +3096,7 @@
                     <input type="text" id="editAmbNome" value="${amb.nome}" placeholder="Nome" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <input type="email" id="editAmbEmail" value="${amb.email}" placeholder="Email" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <input type="text" id="editAmbTelefone" value="${amb.telefone || ''}" placeholder="Telefone" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
+                    <input type="text" id="editAmbCoupon" value="${amb.cupomCode || ''}" placeholder="Cupom (ex: PROMO-2026)" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit; text-transform: uppercase;">
                     <input type="number" id="editAmbCommission" value="${Number(amb.comissao_percentual || 10)}" placeholder="Comissão (%)" min="0" max="100" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
                     <div style="display: flex; gap: 10px; margin-top: 20px;">
                         <button class="btn btn-primary" style="flex: 1;" onclick="saveEditAmbassador('${ambassadorId}')">Salvar</button>
@@ -3125,18 +3110,55 @@
             const amb = ambassadorsData[ambassadorId];
             if (!amb) return;
 
+            const oldCouponCode = amb.cupomCode;
+            const newCouponCode = (document.getElementById('editAmbCoupon')?.value || '').trim().toUpperCase();
+
             amb.nome = document.getElementById('editAmbNome')?.value || amb.nome;
-            amb.email = document.getElementById('editAmbEmail')?.value || amb.email;
+            amb.email = (document.getElementById('editAmbEmail')?.value || amb.email).trim().toLowerCase();
             amb.telefone = document.getElementById('editAmbTelefone')?.value || amb.telefone;
             amb.comissao_percentual = Number(document.getElementById('editAmbCommission')?.value || amb.comissao_percentual || 10);
 
-            renderAmbassadors();
-            await _persistAmbassadors();
-            try {
-                await persistAmbassadorCommissionToFirebase(amb);
-            } catch (err) {
-                console.warn('Falha ao persistir comissão no Firebase:', err?.message || err);
+            // Handle coupon change
+            if (newCouponCode && newCouponCode !== oldCouponCode) {
+                // If the coupon already exists for someone else, block
+                if (couponsData[newCouponCode] && couponsData[newCouponCode].linkedToAmbassador !== ambassadorId) {
+                    showToast('Este cupom já está em uso por outro embaixador ou sistema.', true);
+                    return;
+                }
+
+                // Update local couponsData
+                if (oldCouponCode && couponsData[oldCouponCode]) {
+                    const couponObj = couponsData[oldCouponCode];
+                    couponObj.codigo = newCouponCode;
+                    couponsData[newCouponCode] = couponObj;
+                    delete couponsData[oldCouponCode];
+                } else {
+                    // Create if not exists
+                    couponsData[newCouponCode] = {
+                        codigo: newCouponCode,
+                        tipo: 'embaixador',
+                        desconto_percentual: 0,
+                        desconto_fixo: 0,
+                        validade_ate: new Date(new Date().getFullYear() + 1, 11, 31).toISOString().split('T')[0],
+                        ativo: true,
+                        linkedToAmbassador: ambassadorId,
+                        criadoEm: new Date().toISOString()
+                    };
+                }
+                amb.cupomCode = newCouponCode;
+                await _persistCoupons();
             }
+
+            renderAmbassadors();
+            renderCoupons();
+            await _persistAmbassadors();
+            
+            try {
+                await persistAmbassadorProfileToFirebase(amb);
+            } catch (err) {
+                console.warn('Falha ao persistir embaixador no Firebase:', err?.message || err);
+            }
+            
             closeModal('editAmbassadorModal');
             showToast('Embaixador atualizado!');
         }
@@ -3327,8 +3349,13 @@
                 // Keep links in ambassador and key data in sync when code changes.
                 const linkedAmbassadorId = coupon.linkedToAmbassador;
                 if (linkedAmbassadorId && ambassadorsData[linkedAmbassadorId]) {
-                    ambassadorsData[linkedAmbassadorId].cupomCode = newCode;
+                    const amb = ambassadorsData[linkedAmbassadorId];
+                    amb.cupomCode = newCode;
                     await _persistAmbassadors();
+                    // Sync to Firestore
+                    try {
+                        await persistAmbassadorProfileToFirebase(amb);
+                    } catch (e) {}
                 }
                 Object.values(codesData).forEach(entry => {
                     if (entry && entry.embaixadorId === linkedAmbassadorId) {
