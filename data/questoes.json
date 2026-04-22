@@ -5170,30 +5170,6 @@
       "aula_id": "bmf1_a3"
     },
     {
-      "id": 416,
-      "materia": "bmf1",
-      "tema": "bmf1_a3",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 3,
-      "enunciado": "Em metástase óssea lítica, qual alteração estrutural contribui para dor mecânica precoce?",
-      "opcoes": [
-        "A) Reação periosteal esclerótica progressiva",
-        "B) Aumento uniforme da mineralização",
-        "C) Formação de cartilagem hialina no foco",
-        "D) Perda de trabéculas com redução da estabilidade interna"
-      ],
-      "explicacao_geral": "A desorganização trabecular reduz a capacidade de distribuir cargas.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: padrão lítico não gera espessamento protetor inicial.",
-        "B": "Incorreta: esse padrão não define lesão lítica.",
-        "C": "Incorreta: não é mecanismo típico.",
-        "D": "Correta: a perda trabecular favorece fragilidade e dor Ã carga."
-      },
-      "explicacao": "A esponjosa é determinante para sustentação em várias regiões; sua destruição precoce tem impacto clínico relevante.",
-      "aula_id": "bmf1_a3"
-    },
-    {
       "id": 417,
       "materia": "bmf1",
       "tema": "bmf1_a3",
@@ -5215,30 +5191,6 @@
         "D": "Incorreta: o desuso favorece perda de massa."
       },
       "explicacao": "Esse princípio fundamenta reabilitação, prevenção de osteopenia e interpretação de adaptação estrutural.",
-      "aula_id": "bmf1_a3"
-    },
-    {
-      "id": 418,
-      "materia": "bmf1",
-      "tema": "bmf1_a3",
-      "modulo": 1,
-      "dificuldade": 1,
-      "correta": 2,
-      "enunciado": "A patela é classificada como osso sesamoide porque:",
-      "opcoes": [
-        "A) Apresenta medula hematopoética ativa na vida adulta",
-        "B) É osso plano da cintura escapular",
-        "C) Desenvolve-se em tendão e melhora alavanca mecânica",
-        "D) É parte do esqueleto axial"
-      ],
-      "explicacao_geral": "Sesamoides surgem em tendões e modificam o vetor de força muscular.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: pneumática não é característica da patela.",
-        "B": "Incorreta: nÃ£o pertence Ã cintura escapular.",
-        "C": "Correta: função mecânica e localização tendínea definem sesamoide.",
-        "D": "Incorreta: integra o membro inferior."
-      },
-      "explicacao": "A patela aumenta o braço de momento do quadríceps e protege estruturas anteriores do joelho.",
       "aula_id": "bmf1_a3"
     },
     {
@@ -5566,30 +5518,6 @@
       "aula_id": "bmf1_a4"
     },
     {
-      "id": 432,
-      "materia": "bmf1",
-      "tema": "bmf1_a5",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 0,
-      "enunciado": "A unidade estrutural do osso compacto organizada em lamelas concêntricas ao redor de um canal central é:",
-      "opcoes": [
-        "A) Osteon (sistema de Havers",
-        "B) Lacuna condrocitária",
-        "C) Trabécula óssea",
-        "D) Disco intercalar"
-      ],
-      "explicacao_geral": "O osteon integra lamelas, canal vascular e comunicação celular no osso compacto.",
-      "explicacoes_opcoes": {
-        "A": "Correta: essa é a unidade clássica da cortical.",
-        "B": "Incorreta: refere-se Ã cartilagem.",
-        "C": "Incorreta: pertence ao rim.",
-        "D": "Incorreta: pertence ao tecido cardíaco."
-      },
-      "explicacao": "A organização osteonal explica resistência e nutrição da cortical óssea.",
-      "aula_id": "bmf1_a5"
-    },
-    {
       "id": 433,
       "materia": "bmf1",
       "tema": "bmf1_a5",
@@ -5851,30 +5779,6 @@
         "D": "Incorreta: mistura grupos com articulação diferente."
       },
       "explicacao": "A classificação costal é útil para interpretar lesão torácica e relação com esterno.",
-      "aula_id": "bmf1_a6"
-    },
-    {
-      "id": 444,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 2,
-      "enunciado": "Na posição anatÍ´mica, em relação Í ulna, o rÍ¡dio estÍ¡:",
-      "opcoes": [
-        "A) Medial e posterior",
-        "B) Medial e proximal",
-        "C) Lateral, no lado do polegar",
-        "D) Medial, no lado do quinto dedo"
-      ],
-      "explicacao_geral": "Com o antebraço em supinação, o rádio fica do lado lateral.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: não ocupa essa posição em referência anatômica.",
-        "B": "Incorreta: o rÃ¡dio nÃ£o Ã© medial Ã ulna.",
-        "C": "Correta: lado do polegar corresponde ao rádio.",
-        "D": "Incorreta: lado do quinto dedo corresponde Ã ulna."
-      },
-      "explicacao": "A relação rádio-ulna muda em pronação/supinação, mas a descrição padrão usa posição anatômica.",
       "aula_id": "bmf1_a6"
     },
     {
@@ -13401,31 +13305,6 @@
       "aula_id": "sus_a9"
     },
     {
-      "id": 767,
-      "categoria": "inedita",
-      "materia": "sus",
-      "tema": "sus_a9",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 1,
-      "enunciado": "São consideradas **Portas de Entrada** prioritárias de usuários às ações e aos serviços de saúde, EXCETO:",
-      "opcoes": [
-        "A) Atenção Primária (UBS).",
-        "B) Hospitais de Alta Complexidade sem agendamento prévio.",
-        "C) Atenção de Urgência e Emergência (UPAs/Prontos-Socorros).",
-        "D) Atenção Psicossocial (CAPS) e Serviços de Acesso Especializado (SAE)."
-      ],
-      "explicacao_geral": "O SUS define portas específicas para organizar o fluxo; o hospital terciário não é uma delas por padrão.",
-      "explicacoes_opcoes": {
-        "A": "[CORRETA/PORTA] A APS é a porta principal.",
-        "B": "[INCORRETA/NÃO É PORTA] O hospital terciário deve receber o paciente via **referência** (agendamento/regulação), não sendo porta de entrada livre para o público geral, salvo em situações de urgência traumática extrema regulada.",
-        "C": "[CORRETA/PORTA] Urgências são portas abertas 24h.",
-        "D": "[CORRETA/PORTA] CAPS e SAEs são portas de entrada para demandas específicas de saúde mental e doenças infectocontagiosas."
-      },
-      "caso_clinico": false,
-      "aula_id": "sus_a9"
-    },
-    {
       "id": 768,
       "categoria": "inedita",
       "materia": "sus",
@@ -14638,28 +14517,6 @@
       "explicacao_geral": "O uso excessivo ou inadequado da articulação é a causa nº 1 de dores mecânicas.",
       "explicacoes_opcoes": {
         "B": "[CORRETA] O trabalho repetitivo (LER/DORT) é o principal determinante de muitas queixas musculoesqueléticas atendidas na APS."
-      },
-      "caso_clinico": false,
-      "aula_id": "pmh_a10"
-    },
-    {
-      "id": 818,
-      "categoria": "inedita",
-      "materia": "pmh",
-      "tema": "pmh_a10",
-      "modulo": 1,
-      "dificuldade": 3,
-      "correta": 2,
-      "enunciado": "Em um **paciente idoso** com osteopenia conhecida, uma queda da própria altura (baixa energia) que resulta em dor intensa no quadril deve ser tratada como:",
-      "opcoes": [
-        "A) Apenas uma contusão muscular que resolverá com gelo.",
-        "B) Um processo natural do envelhecimento que não exige conduta rápida.",
-        "C) Suspeita de fratura por fragilidade até que a imagem (RX/TC) prove o contrário.",
-        "D) Preguiça do paciente em deambular."
-      ],
-      "explicacao_geral": "Fragilidade óssea permite fraturas mesmo em traumas banais.",
-      "explicacoes_opcoes": {
-        "C": "[CORRETA] No idoso, a baixa energia do trauma NÃO exclui a gravidade da lesão. A fratura de colo de fêmur é a principal suspeita nesse cenário."
       },
       "caso_clinico": false,
       "aula_id": "pmh_a10"
@@ -27624,246 +27481,6 @@
         "D": "Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro"
       },
       "explicacao": "Resumo: A opção correta é a linha em que “*Proteus mirabilis*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Proteus:: urease → cálculo de estruvita (coraliforme)\nB) INCORRETA. Incorreta: Proteinúria leve — Pode aparecer em pielonefrite\nC) CORRETA. Correta: *Proteus mirabilis* — 2–5% — Urease → alcaliniza urina → cálculo de estruvita (coralliforme)\nD) INCORRETA. Incorreta: Bacteriúria assintomática na gestante: → TRATAR (risco de pielonefrite e parto prematuro",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1372,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Homem de 48 anos, tabagista, hipertenso, em uso irregular de anti-hipertensivos. Qual afirmação sobre “Aeróbio obrigatório” está correta?",
-      "opcoes": [
-        "A) se encontra em água, solo, equipamentos hospitalares úmidos",
-        "B) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "C) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-        "D) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
-      ],
-      "correta": 0,
-      "dificuldade": 3,
-      "modulo": 2,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.",
-      "explicacoes_opcoes": {
-        "A": "Correta: se encontra em água, solo, equipamentos hospitalares úmidos",
-        "B": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "C": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
-        "D": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.\nA) CORRETA. Correta: se encontra em água, solo, equipamentos hospitalares úmidos\nB) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nC) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico\nD) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1373,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Mulher de 34 anos, gestante, sem pré-natal regular. Qual alternativa associa corretamente “Bactéria” às demais informações da mesma linha (função, local ou critério)?",
-      "opcoes": [
-        "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B) Bactéria — Habitat — Doenças Principais",
-        "C) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "D) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico"
-      ],
-      "correta": 1,
-      "dificuldade": 1,
-      "modulo": 2,
-      "explicacao_geral": "A opção correta é a linha em que “Bactéria” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B": "Correta: Bactéria — Habitat — Doenças Principais",
-        "C": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "D": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
-      },
-      "explicacao": "Resumo: A opção correta é a linha em que “Bactéria” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) CORRETA. Correta: Bactéria — Habitat — Doenças Principais\nC) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nD) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1374,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “Aeróbio obrigatório” está correta?",
-      "opcoes": [
-        "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B) Etambutol:: neurite óptica → monitorar visão",
-        "C) → preferência por ápices pulmonares (alta pO₂",
-        "D) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico"
-      ],
-      "correta": 2,
-      "dificuldade": 2,
-      "modulo": 2,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B": "Incorreta: Etambutol:: neurite óptica → monitorar visão",
-        "C": "Correta: → preferência por ápices pulmonares (alta pO₂",
-        "D": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Aeróbio obrigatório”.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) INCORRETA. Incorreta: Etambutol:: neurite óptica → monitorar visão\nC) CORRETA. Correta: → preferência por ápices pulmonares (alta pO₂)\nD) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1375,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Qual alternativa associa corretamente “*Escherichia coli*” às demais informações da mesma linha (função, local ou critério)?",
-      "opcoes": [
-        "A) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "B) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-        "C) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "D) *Escherichia coli* — Cólon normal + hospitalar — ITU, diarreia (ETEC, EPEC, EHEC), sepse, meningite neonatal"
-      ],
-      "correta": 3,
-      "dificuldade": 3,
-      "modulo": 2,
-      "explicacao_geral": "A opção correta é a linha em que “*Escherichia coli*” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "B": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
-        "C": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "D": "Correta: *Escherichia coli* — Cólon normal + hospitalar — ITU, diarreia (ETEC, EPEC, EHEC), sepse, meningite neonatal"
-      },
-      "explicacao": "Resumo: A opção correta é a linha em que “*Escherichia coli*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nB) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico\nC) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nD) CORRETA. Correta: *Escherichia coli* — Cólon normal + hospitalar — ITU, diarreia (ETEC, EPEC, EHEC), sepse, meningite neonatal",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1376,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Qual afirmação sobre “TB pulmonar cavitária” está correta?",
-      "opcoes": [
-        "A) bacilífero (BAAR 3+) → isolar + notificar",
-        "B) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "C) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-        "D) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
-      ],
-      "correta": 0,
-      "dificuldade": 2,
-      "modulo": 2,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “TB pulmonar cavitária”.",
-      "explicacoes_opcoes": {
-        "A": "Correta: bacilífero (BAAR 3+) → isolar + notificar",
-        "B": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "C": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
-        "D": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “TB pulmonar cavitária”.\nA) CORRETA. Correta: bacilífero (BAAR 3+) → isolar + notificar\nB) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nC) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico\nD) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1377,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Qual alternativa associa corretamente “*Klebsiella pneumoniae*” às demais informações da mesma linha (função, local ou critério)?",
-      "opcoes": [
-        "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B) *Klebsiella pneumoniae* — Cólon; hospitalar + comunidade — Pneumonia lobular (imunodeprimidos); ITU; sepse hospitalar; produtora de KPC/ESBL",
-        "C) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "D) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico"
-      ],
-      "correta": 1,
-      "dificuldade": 2,
-      "modulo": 2,
-      "explicacao_geral": "A opção correta é a linha em que “*Klebsiella pneumoniae*” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B": "Correta: *Klebsiella pneumoniae* — Cólon; hospitalar + comunidade — Pneumonia lobular (imunodeprimidos); ITU; sepse hospitalar; produtora de KPC/ESBL",
-        "C": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "D": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico"
-      },
-      "explicacao": "Resumo: A opção correta é a linha em que “*Klebsiella pneumoniae*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) CORRETA. Correta: *Klebsiella pneumoniae* — Cólon; hospitalar + comunidade — Pneumonia lobular (imunodeprimidos); ITU; sepse hospitalar; produtora de KPC/ESBL\nC) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nD) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1378,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Paciente em seguimento na atenção primária. Qual afirmação sobre “EHEC O157:” está correta?",
-      "opcoes": [
-        "A) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B) Etambutol:: neurite óptica → monitorar visão",
-        "C) toxina Shiga → SHU → NÍO dar antibiótico",
-        "D) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
-      ],
-      "correta": 2,
-      "dificuldade": 1,
-      "modulo": 2,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “EHEC O157:”.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "B": "Incorreta: Etambutol:: neurite óptica → monitorar visão",
-        "C": "Correta: toxina Shiga → SHU → NÃO dar antibiótico",
-        "D": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “EHEC O157:”.\nA) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nB) INCORRETA. Incorreta: Etambutol:: neurite óptica → monitorar visão\nC) CORRETA. Correta: toxina Shiga → SHU → NÍO dar antibiótico\nD) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1379,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Cenário de equipe multiprofissional na UBS. Qual alternativa associa corretamente “*Salmonella typhi*” às demais informações da mesma linha (função, local ou critério)?",
-      "opcoes": [
-        "A) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "B) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-        "C) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "D) *Salmonella typhi* — Via fecal-oral — Febre tifoide: febre plateau, dor abdominal, roséola tífica, leucopenia"
-      ],
-      "correta": 3,
-      "dificuldade": 2,
-      "modulo": 2,
-      "explicacao_geral": "A opção correta é a linha em que “*Salmonella typhi*” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "B": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
-        "C": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "D": "Correta: *Salmonella typhi* — Via fecal-oral — Febre tifoide: febre plateau, dor abdominal, roséola tífica, leucopenia"
-      },
-      "explicacao": "Resumo: A opção correta é a linha em que “*Salmonella typhi*” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nB) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico\nC) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nD) CORRETA. Correta: *Salmonella typhi* — Via fecal-oral — Febre tifoide: febre plateau, dor abdominal, roséola tífica, leucopenia",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1380,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Qual afirmação sobre “Pseudomonas:” está correta?",
-      "opcoes": [
-        "A) multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso",
-        "B) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "C) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-        "D) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
-      ],
-      "correta": 0,
-      "dificuldade": 2,
-      "modulo": 2,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pseudomonas:”.",
-      "explicacoes_opcoes": {
-        "A": "Correta: multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso",
-        "B": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
-        "C": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
-        "D": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Pseudomonas:”.\nA) CORRETA. Correta: multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso\nB) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂)\nC) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico\nD) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-      "aula_id": "mad1_a17"
-    },
-    {
-      "id": 1381,
-      "materia": "mad1",
-      "tema": "mad1_a17",
-      "enunciado": "Qual alternativa associa corretamente “*Salmonella* não-typhi” às demais informações da mesma linha (função, local ou critério)?",
-      "opcoes": [
-        "A) EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico",
-        "B) Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "C) *Salmonella* não-typhi — Alimento contaminado — Gastrenterite; bacteremia em falcêmicos e imunodeprimidos",
-        "D) Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
-      ],
-      "correta": 2,
-      "dificuldade": 3,
-      "modulo": 2,
-      "explicacao_geral": "A opção correta é a linha em que “*Salmonella* não-typhi” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: EHEC O157:: toxina Shiga → SHU → NÃO dar antibiótico",
-        "B": "Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções",
-        "C": "Correta: *Salmonella* não-typhi — Alimento contaminado — Gastrenterite; bacteremia em falcêmicos e imunodeprimidos",
-        "D": "Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂"
-      },
-      "explicacao": "Resumo: A opção correta é a linha em que “*Salmonella* não-typhi” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: EHEC O157:: toxina Shiga → SHU → NÍO dar antibiótico\nB) INCORRETA. Incorreta: Rifampicina:: indutor CYP → reduz ACO; coloração alaranjada das secreções\nC) CORRETA. Correta: *Salmonella* não-typhi — Alimento contaminado — Gastrenterite; bacteremia em falcêmicos e imunodeprimidos\nD) INCORRETA. Incorreta: Aeróbio obrigatório: → preferência por ápices pulmonares (alta pO₂",
       "aula_id": "mad1_a17"
     },
     {
@@ -63786,259 +63403,6 @@
       "essencial": false
     },
     {
-      "id": 2822,
-      "materia": "sus",
-      "tema": "sus_a1",
-      "enunciado": "Paciente em leito, equipe discute achados de propedêutica. Qual afirmação sobre “Alerta:” está correta?",
-      "opcoes": [
-        "A) responde a estímulos normais de voz.",
-        "B) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.",
-        "C) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
-      ],
-      "correta": 0,
-      "dificuldade": 2,
-      "modulo": 1,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Alerta:”.",
-      "explicacoes_opcoes": {
-        "A": "Correta: responde a estímulos normais de voz.",
-        "B": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "C": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Alerta:”.\nA) CORRETA. Correta: responde a estímulos normais de voz.\nB) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.\nC) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nD) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-      "aula_id": "sus_a1",
-      "essencial": false
-    },
-    {
-      "id": 2823,
-      "materia": "semiologia4",
-      "tema": "semio4_a3",
-      "enunciado": "Durante treinamento em avaliação de nível de consciência, o instrutor explica que a Escala de Coma de Glasgow (ECG) avalia três domínios independentes. Um interno precisa identificar corretamente os três domínios avaliados pela ECG. Quais são eles?",
-      "opcoes": [
-        "A) Orientação temporal, orientação espacial e memória imediata",
-        "B) Abertura ocular, resposta verbal e resposta motora",
-        "C) Reflexo pupilar, reflexo corneano e reflexo de tosse",
-        "D) Linguagem, praxias e funções executivas",
-        "E) Tônus muscular, reflexos tendíneos e coordenação cerebelar"
-      ],
-      "correta": "B",
-      "dificuldade": 3,
-      "modulo": 4,
-      "explicacao_geral": "A opção correta é a linha em que “Domínio” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "B": "Correta: Domínio — 1 — 2 — 3 — 4 — 5 — 6",
-        "C": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "D": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo."
-      },
-      "explicacao": "A Escala de Coma de Glasgow (ECG) avalia três domínios: abertura ocular (O: 1–4), resposta verbal (V: 1–5) e resposta motora (M: 1–6), com pontuação total de 3 a 15. ECG ≤8 define coma clínico e geralmente indica necessidade de via aérea definitiva. Cada domínio é pontuado de forma independente: abertura ocular vai de nenhuma (1) a espontânea (4); verbal de nenhuma (1) a orientado (5); motora de nenhuma (1) a obedece comandos (6). É a escala de nível de consciência mais usada mundialmente.",
-      "aula_id": "semio4_a3",
-      "essencial": true
-    },
-    {
-      "enunciado": "Qual afirmação sobre “Sonolento (letárgico):” está correta?",
-      "opcoes": [
-        "A) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "B) Abertura ocular — Nenhuma — A dor — A voz — Espontânea — — — —",
-        "C) abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local."
-      ],
-      "correta": 2,
-      "dificuldade": 2,
-      "modulo": 4,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sonolento (letárgico):”.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "B": "Incorreta: Abertura ocular — Nenhuma — A dor — A voz — Espontânea — — — —",
-        "C": "Correta: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local."
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Sonolento (letárgico):”.\nA) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose\nB) INCORRETA. Incorreta: Abertura ocular — Nenhuma — A dor — A voz — Espontânea — — — —\nC) CORRETA. Correta: abre os olhos ao ser chamado, responde mas adormece logo.\nD) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.",
-      "materia": "bmf1",
-      "aula_id": "bmf1_a1",
-      "id": 5105,
-      "tema": ""
-    },
-    {
-      "id": 2825,
-      "materia": "semiologia4",
-      "tema": "semio4_a3",
-      "enunciado": "Na Escala de Coma de Glasgow, o domínio de abertura ocular é pontuado de 1 a 4. Um paciente não abre os olhos espontaneamente, mas os abre ao comando verbal e fecha em seguida. Qual pontuação de abertura ocular esse paciente recebe?",
-      "opcoes": [
-        "A) Pontuação 1 — nenhuma abertura mesmo com estímulo doloroso intenso",
-        "B) Pontuação 2 — abre os olhos somente a estímulo doloroso",
-        "C) Pontuação 3 — abre os olhos ao comando verbal",
-        "D) Pontuação 4 — abertura ocular espontânea, sem necessidade de estímulo",
-        "E) Pontuação 5 — abertura ocular com piscar reflexo ao ameaça"
-      ],
-      "correta": "C",
-      "dificuldade": 1,
-      "modulo": 4,
-      "explicacao_geral": "A opção correta é a linha em que “Abertura ocular” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "B": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "C": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "D": "Correta: Abertura ocular — Nenhuma — A dor — A voz — Espontânea — — — —"
-      },
-      "explicacao": "No domínio de abertura ocular da ECG: 1 = nenhuma; 2 = abre a dor; 3 = abre à voz (comando verbal); 4 = abre espontaneamente. O paciente descrito abre os olhos ao chamado verbal, sem necessidade de estimulação dolorosa — pontuação 3. Abertura espontânea (4) indica que o paciente já mantém os olhos abertos sem estimulação. Ausência total de abertura mesmo à dor intensa (1) é sinal de mau prognóstico. Não existe pontuação 5 no domínio ocular da ECG.",
-      "aula_id": "semio4_a3",
-      "essencial": true
-    },
-    {
-      "id": 2826,
-      "materia": "semiologia4",
-      "tema": "semio4_a3",
-      "enunciado": "Qual afirmação sobre “Estupor:” está correta?",
-      "opcoes": [
-        "A) só responde a estímulos vigorosos; sem estímulo fica inconsciente.",
-        "B) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.",
-        "C) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
-      ],
-      "correta": 0,
-      "dificuldade": 3,
-      "modulo": 4,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Estupor:”.",
-      "explicacoes_opcoes": {
-        "A": "Correta: só responde a estímulos vigorosos; sem estímulo fica inconsciente.",
-        "B": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "C": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Estupor:”.\nA) CORRETA. Correta: só responde a estímulos vigorosos; sem estímulo fica inconsciente.\nB) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.\nC) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nD) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-      "aula_id": "semio4_a3",
-      "essencial": true
-    },
-    {
-      "id": 2827,
-      "materia": "semiologia4",
-      "tema": "semio4_a3",
-      "enunciado": "No exame de coma usando a Escala de Glasgow, o médico avalia a resposta verbal. O paciente emite sons mas não forma palavras compreensíveis. Qual é a pontuação correta para essa resposta verbal?",
-      "opcoes": [
-        "A) Resposta verbal 1 — nenhum som, sem resposta verbal a qualquer estímulo",
-        "B) Resposta verbal 2 — sons incompreensíveis (gemidos, grunhidos)",
-        "C) Resposta verbal 3 — palavras isoladas, fora de contexto",
-        "D) Resposta verbal 4 — frases confusas, desorientado mas com palavras",
-        "E) Resposta verbal 5 — orientado em pessoa, tempo e espaço"
-      ],
-      "correta": "B",
-      "dificuldade": 2,
-      "modulo": 4,
-      "explicacao_geral": "A opção correta é a linha em que “Verbal” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "B": "Correta: Verbal — Nenhuma — Sons — Palavras — Confuso — Orientado — —",
-        "C": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "D": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo."
-      },
-      "explicacao": "O domínio verbal da ECG pontua: 1 = nenhum; 2 = sons incompreensíveis (gemidos, grunhidos sem palavras); 3 = palavras inapropriadas (palavras isoladas, fora de contexto); 4 = confuso (frases, mas desorientado); 5 = orientado. O paciente emite sons sem formar palavras — pontuação 2. É importante distinguir som (2) de palavra (3) e de frase (4 ou 5). Em pacientes intubados, o domínio verbal recebe 1T (\"T\" de tubo), não sendo pontuável, e a ECG é registrada como, por exemplo, E3VTM5.",
-      "aula_id": "semio4_a3",
-      "essencial": true
-    },
-    {
-      "id": 2828,
-      "materia": "semiologia4",
-      "tema": "semio4_a3",
-      "enunciado": "Qual afirmação sobre “Coma:” está correta?",
-      "opcoes": [
-        "A) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "B) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "C) sem resposta a qualquer estímulo.",
-        "D) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local."
-      ],
-      "correta": 2,
-      "dificuldade": 2,
-      "modulo": 4,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coma:”.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "B": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "C": "Correta: sem resposta a qualquer estímulo.",
-        "D": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local."
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “Coma:”.\nA) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nB) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose\nC) CORRETA. Correta: sem resposta a qualquer estímulo.\nD) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.",
-      "aula_id": "semio4_a3",
-      "essencial": true
-    },
-    {
-      "id": 2829,
-      "materia": "semiologia4",
-      "tema": "semio4_a3",
-      "enunciado": "Paciente em coma é avaliado com a Escala de Glasgow. Ao aplicar pressão supraorbital, ele estende os membros superiores com rotação interna e extensão dos membros inferiores (postura de descerebração). Qual pontuação motora da ECG esse padrão representa?",
-      "opcoes": [
-        "A) Resposta motora 6 — obedece comandos verbais simples",
-        "B) Resposta motora 5 — localiza o estímulo doloroso",
-        "C) Resposta motora 4 — retirada inespecífica ao estímulo doloroso",
-        "D) Resposta motora 3 — flexão anormal (decorticação)",
-        "E) Resposta motora 2 — extensão anormal (descerebração)"
-      ],
-      "correta": "E",
-      "dificuldade": 3,
-      "modulo": 4,
-      "explicacao_geral": "A opção correta é a linha em que “Motora” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "B": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "C": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "D": "Correta: Motora — Nenhuma — Extensão — Flexão anormal — Flexão normal — Localiza dor — Obedece"
-      },
-      "explicacao": "O domínio motor da ECG: 6 = obedece; 5 = localiza dor; 4 = retirada (flexão normal); 3 = flexão anormal/decorticação (flexão dos MS + extensão dos MI); 2 = extensão anormal/descerebração (extensão de MS e MI com rotação interna); 1 = nenhuma. A postura de descerebração (extensão generalizada) indica lesão do tronco encefálico ao nível do mesencéfalo inferior ou ponte superior, abaixo do núcleo rubro. É sinal de pior prognóstico do que a decorticação (M3), que indica lesão acima do mesencéfalo.",
-      "aula_id": "semio4_a3",
-      "essencial": true
-    },
-    {
-      "id": 2830,
-      "materia": "sus",
-      "tema": "sus_a1",
-      "enunciado": "Idoso de 78 anos, morador de área com rede de apoio frágil. Qual afirmação sobre “ECG ≤8:” está correta?",
-      "opcoes": [
-        "A) indica coma grave, necessidade de via aérea definitiva.",
-        "B) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.",
-        "C) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
-      ],
-      "correta": 0,
-      "dificuldade": 1,
-      "modulo": 1,
-      "explicacao_geral": "A resposta correta é a que melhor reflete a definição ou o mecanismo de “ECG ≤8:”.",
-      "explicacoes_opcoes": {
-        "A": "Correta: indica coma grave, necessidade de via aérea definitiva.",
-        "B": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local.",
-        "C": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "D": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose"
-      },
-      "explicacao": "Resumo: A resposta correta é a que melhor reflete a definição ou o mecanismo de “ECG ≤8:”.\nA) CORRETA. Correta: indica coma grave, necessidade de via aérea definitiva.\nB) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.\nC) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nD) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-      "aula_id": "sus_a1",
-      "essencial": false
-    },
-    {
-      "id": 2831,
-      "materia": "sus",
-      "tema": "sus_a1",
-      "enunciado": "Adolescente de 16 anos, relata dor e limitação funcional em membro. Qual alternativa associa corretamente “NC” às demais informações da mesma linha (função, local ou critério)?",
-      "opcoes": [
-        "A) Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "B) NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "C) NC — Nome — Função principal — Como testar",
-        "D) NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local."
-      ],
-      "correta": 2,
-      "dificuldade": 2,
-      "modulo": 1,
-      "explicacao_geral": "A opção correta é a linha em que “NC” aparece com os demais dados compatíveis.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.",
-        "B": "Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose",
-        "C": "Correta: NC — Nome — Função principal — Como testar",
-        "D": "Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÃO indica lesão local."
-      },
-      "explicacao": "Resumo: A opção correta é a linha em que “NC” aparece com os demais dados compatíveis.\nA) INCORRETA. Incorreta: Sonolento (letárgico):: abre os olhos ao ser chamado, responde mas adormece logo.\nB) INCORRETA. Incorreta: NC III comprimido (aneurisma) — Síndrome de Horner — III = midríase; Horner = miose\nC) CORRETA. Correta: NC — Nome — Função principal — Como testar\nD) INCORRETA. Incorreta: NC VI pseudolocalizado:: lesão em HIC por tracção do nervo, NÍO indica lesão local.",
-      "aula_id": "sus_a1",
-      "essencial": false
-    },
-    {
       "id": 2832,
       "materia": "sus",
       "tema": "sus_a1",
@@ -80677,32 +80041,6 @@
       },
       "essencial": true,
       "caso_clinico": false,
-      "categoria": "inedita"
-    },
-    {
-      "id": 3549,
-      "materia": "bcm1",
-      "aula_id": "bcm1_a15",
-      "tema": "bcm1_a15",
-      "modulo": 2,
-      "dificuldade": 3,
-      "correta": 3,
-      "enunciado": "O 'Cianeto' é um veneno letal que bloqueia especificamente o Complexo IV (Citocromo C Oxidase) da cadeia respiratória. Por que isso causa a morte em poucos minutos?",
-      "opcoes": [
-        "A) Porque ele impede a digestão do açúcar.",
-        "B) Porque ele aumenta a temperatura do corpo até 50°C.",
-        "C) Porque ele dissolve o coração.",
-        "D) Porque ele interrompe o fluxo de elétrons, impedindo a formação do gradiente de prótons e a produção de ATP, colapsando a energia celular (asfixia celular)."
-      ],
-      "explicacao_geral": "Sem ATP, os processos vitais básicos (como bombas iônicas) param e a célula morre.",
-      "explicacoes_opcoes": {
-        "A": "[INCORRETA] Bloqueia a UTILIZAÇÃO de energia, o açúcar continua lá, mas não serve para nada.",
-        "B": "[INCORRETA] Termogenina faria isso, mas cianeto para tudo.",
-        "C": "[INCORRETA] Dano molecular invisível a olho nu inicialmente.",
-        "D": "[CORRETA] O **Cianeto** causa um **choque energético** fatal imediato."
-      },
-      "essencial": true,
-      "caso_clinico": true,
       "categoria": "inedita"
     },
     {
@@ -102237,31 +101575,6 @@
       "essencial": false
     },
     {
-      "materia": "farm",
-      "enunciado": "Em qual região localiza-se o terceiro neurÍ´nio desta via?",
-      "opcoes": [
-        "A) Núcleos intralaminares da formação reticular.",
-        "B) Corno posterior do H medular da medula espinal.",
-        "C) Tálamo (núcleo ventral póstero-lateral).",
-        "D) Giro pós-central (áreas 3, 2, 1 de Brodmann)"
-      ],
-      "correta": 2,
-      "explicacao_geral": "O caso descreve uma **dor lancinante** (dor em pontada e bem localizada), que é transmitida principalmente pelo **trato espinotalâmico lateral**. Nesta via, o **primeiro neurônio** está no gânglio da raiz dorsal, o **segundo neurônio** no corno posterior da medula espinal (onde decussa), e o **terceiro neurônio** está localizado no **tálamo**, especificamente no **núcleo ventral póstero-lateral (VPL)**, de onde projeta para o córtex somatossensorial primário.",
-      "explicacoes_opcoes": {
-        "A": "Os **núcleos intralaminares do tálamo** estão envolvidos na modulação da dor e no estado de alerta, mas não são o principal relé para a dor discriminativa.",
-        "B": "O **corno posterior da medula espinal** é onde se localiza o corpo celular do **segundo neurônio** da via espinotalâmica.",
-        "C": "O **nÃºcleo ventral pÃ³stero-lateral (VPL) do tÃ¡lamo** Ã© o principal relÃ© para as informaÃ§Ãµes somatossensoriais do corpo (incluindo dor discriminativa) antes de serem enviadas ao cÃ³rtex. Ã‰ onde se localiza o **terceiro neurÃ´nio** da via.",
-        "D": "O **giro pós-central (áreas 3, 2, 1 de Brodmann)** é o **córtex somatossensorial primário**, onde a sensibilidade é interpretada, mas não é a localização do terceiro neurônio, que projeta *para* essa região."
-      },
-      "tema": "farm_a9",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5108,
-      "categoria": "antiga",
-      "aula_id": "farm_a9",
-      "essencial": false
-    },
-    {
       "materia": "bmf1",
       "enunciado": "Em qual lobo telencefÍ¡lico essa sensibilidade é interpretada?",
       "opcoes": [
@@ -102613,31 +101926,6 @@
     },
     {
       "materia": "bcm1",
-      "enunciado": "A cromatina das células eucariÍ³ticas é composta por regiÍµes mais compactas e regiÍµes menos compactas, dependendo da intensidade de atividade da sÍ­ntese proteica. Qual o nome dado para as regiÍµes menos compactadas, onde ocorre maior atividade de sÍ­ntese?",
-      "opcoes": [
-        "A) Eucromatina.",
-        "B) Heterocromatina",
-        "C) Cromátide",
-        "D) Cromossomo"
-      ],
-      "correta": 0,
-      "explicacao_geral": "A **cromatina** é o complexo de DNA e proteínas (principalmente histonas) encontrado no núcleo das células eucarióticas. Ela existe em diferentes estados de compactação, que regulam a acessibilidade do DNA para a transcrição. As regiões menos compactadas são aquelas onde os genes estão ativos e a síntese de RNA (e consequentemente proteínas) é mais intensa.",
-      "explicacoes_opcoes": {
-        "A": "Correta. A **eucromatina** Ã© a forma menos condensada da cromatina, rica em genes e ativamente transcrita. Ã‰ onde ocorre a maior parte da **sÃ­ntese de RNA** e, consequentemente, a expressÃ£o gÃªnica.",
-        "B": "Incorreta. A **heterocromatina** é a forma mais condensada da cromatina, geralmente inativa transcricionalmente e associada a regiões de genes silenciados ou sequências repetitivas.",
-        "C": "Incorreta. Uma **cromátide** é uma das duas cópias idênticas de um cromossomo replicado, unidas pelo centrômero, antes da divisão celular. Não se refere a uma região de atividade de síntese.",
-        "D": "Incorreta. Um **cromossomo** é uma estrutura organizada de DNA e proteínas que contém a maior parte da informação genética de um organismo. Não é um termo para uma região de atividade de síntese dentro da cromatina."
-      },
-      "tema": "bcm1_a2",
-      "dificuldade": 1,
-      "depende_de_imagem": false,
-      "id": 5123,
-      "categoria": "antiga",
-      "aula_id": "bcm1_a2",
-      "essencial": false
-    },
-    {
-      "materia": "bcm1",
       "enunciado": "Paciente feminino, 68 anos, hÍ¡ dois anos com movimentos coreicos de lÍ¡bios, lÍ­ngua, mãos e pé esquerdo, disfagia, sintomas depressivos e comprometimento de funçÍµes cognitivas de média gravidade. A ressonÍ¢ncia magnética de crÍ¢nio apresentou alteraçÍµes compatÍ­veis com doença de Huntington. É caracterizada uma doença genética, monogÍªnica, onde a mutação em um Íºnico gene é o suficiente para manifestar as alteraçÍµes fenotÍ­picas da doença. Baseado nestas informaçÍµes, responda: Qual a definição de gene?",
       "opcoes": [
         "A) Gene corresponde ao genoma, ambos são sinônimos.",
@@ -102684,31 +101972,6 @@
       "id": 5125,
       "categoria": "antiga",
       "aula_id": "ff4_a13",
-      "essencial": false
-    },
-    {
-      "materia": "bmf2",
-      "enunciado": "RSF., 06 anos, sexo masculino, se apresentou ao PS devido a um sangramento excessivo por causa de uma queda, onde quebrou dois dentes e fez um corte no lÍ¡bio superior. O paciente relatou um histÍ³rico de prolongado sangramento apÍ³s extração de dentes, um sangramento prolongado apÍ³s queda da bicicleta 1 anos antes, e excessivas contusÍµes. Relatou hematomas e dor crÍ´nica em seus tornozelos e juntas. De acordo com o caso acima, relacione a alternativa correta:",
-      "opcoes": [
-        "A) O paciente tem uma suspeita diagnóstica de Hemofilia, que se caracteriza por uma deficiência do fator VIII da cascata de coagulação. A principal manifestação clínica da Hemofilia é a Hemartrose, que se caracteriza por sangramentos dentro do espaço articular.",
-        "B) O paciente tem uma suspeita diagnóstica de Hemofilia, que se caracteriza por uma deficiência do fator VI da cascata de coagulação. Está doença está relacionada com Padrão de Herança dominante restrito ao sexo.",
-        "C) O paciente tem uma suspeita diagnóstica de Distrofia muscular de Duchenne. Deficiência ou falta da proteína Distrofina, causada por uma mutação do gene SRY, relacionado com Padrão de Herança dominante restrito ao sexo.",
-        "D) O paciente tem uma suspeita diagnóstica de Distrofia muscular de Duchenne, que se caracteriza por uma deficiência do fator XX da cascata de coagulação. A principal manifestação clínica da Distrofia muscular de Duchenne é a dor muscular, que se caracteriza por dor crônica em seus tornozelos e juntas."
-      ],
-      "correta": 0,
-      "explicacao_geral": "O quadro clínico de um menino de 6 anos com **sangramentos excessivos e prolongados** após traumas leves, **hematomas** e **dor crônica em tornozelos e juntas** (sugestivo de **hemartrose**) é altamente indicativo de **Hemofilia**. A hemofilia é um distúrbio hemorrágico hereditário, geralmente ligado ao cromossomo X, que afeta predominantemente o sexo masculino. Existem dois tipos principais: Hemofilia A (deficiência de **Fator VIII**) e Hemofilia B (deficiência de **Fator IX**).",
-      "explicacoes_opcoes": {
-        "A": "Correta. O histórico de sangramentos prolongados, hematomas e **hemartrose** (sangramentos articulares) em um menino é clássico da **Hemofilia**. A **Hemofilia A**, a forma mais comum, é causada pela deficiência do **Fator VIII** da cascata de coagulação. A hemartrose é, de fato, a principal manifestação clínica e causa de morbidade na hemofilia grave.",
-        "B": "Incorreta. Embora a suspeita de **Hemofilia** esteja correta, a deficiência do **Fator VI** não é uma causa comum de hemofilia (que envolve FVIII ou FIX). Além disso, a hemofilia tem um padrão de herança **recessivo ligado ao cromossomo X**, não dominante restrito ao sexo.",
-        "C": "Incorreta. A **Distrofia Muscular de Duchenne** Ã© uma doenÃ§a genÃ©tica que causa fraqueza muscular progressiva, nÃ£o distÃºrbios de coagulaÃ§Ã£o. Ã‰ causada por mutaÃ§Ãµes no gene da **distrofina**, nÃ£o no gene **SRY** (que estÃ¡ envolvido na determinaÃ§Ã£o do sexo). O padrÃ£o de heranÃ§a Ã© **recessivo ligado ao cromossomo X**.",
-        "D": "Incorreta. A **Distrofia Muscular de Duchenne** não está relacionada a deficiências de fatores da cascata de coagulação. A dor muscular na Duchenne é devido à degeneração muscular, não a sangramentos articulares como na hemofilia. 'Fator XX' não é um fator de coagulação conhecido."
-      },
-      "tema": "bmf2_a1",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5126,
-      "categoria": "antiga",
-      "aula_id": "bmf2_a1",
       "essencial": false
     },
     {
@@ -103238,31 +102501,6 @@
     },
     {
       "materia": "pmh",
-      "enunciado": "Dentre as alternativas abaixo, podemos afirmar que a fração (%) de hemoglobina glicada (HbA1c):",
-      "opcoes": [
-        "A) Indica a glicemia média que o indivíduo apresentou nos últimos 4 meses, sendo um importante marcador no tratamento de diabetes.",
-        "B) Tem grande importância clínica pois quando em altas concentrações, indica que o indivíduo encontra-se com dificuldade na troca gasosa nos alvéolos pulmonares.",
-        "C) Indica a glicemia média que o indivíduo apresentou nos últimos 12 meses, sendo um importante marcador no tratamento do diabetes.",
-        "D) Indica a concentração de hemoglobina que se encontra associada a moléculas de glicose, acarretando em moléculas de hemoglobina com menor afinidade pelo O2."
-      ],
-      "correta": 3,
-      "explicacao_geral": "A **hemoglobina glicada (HbA1c)** é formada pela ligação não enzimática da **glicose** à porção N-terminal da cadeia beta da hemoglobina. Essa ligação é irreversível e a quantidade de HbA1c formada é proporcional à concentração média de glicose no sangue ao longo da vida útil das **hemácias** (aproximadamente 90-120 dias, ou 2-3 meses). A HbA1c é um importante **marcador de controle glicêmico** a longo prazo para pacientes com **diabetes mellitus**. A glicação da hemoglobina também pode levar a uma **redução na afinidade da hemoglobina pelo oxigênio**.",
-      "explicacoes_opcoes": {
-        "A": "A **HbA1c** reflete a glicemia mÃ©dia dos Ãºltimos **2 a 3 meses (90-120 dias)**, e nÃ£o 4 meses, embora 4 meses seja o tempo de vida mÃ¡ximo de uma hemÃ¡cia, a mÃ©dia Ã© menor. Ã‰ um importante marcador para o tratamento do **diabetes**.",
-        "B": "Esta afirmação está incorreta. A **HbA1c** é um marcador de controle glicêmico e não está diretamente relacionada à dificuldade na **troca gasosa** nos alvéolos pulmonares.",
-        "C": "Esta afirmação está incorreta. A **HbA1c** reflete a glicemia média dos últimos **2 a 3 meses**, e não 12 meses.",
-        "D": "Esta afirmação está correta. A **HbA1c** é a fração de hemoglobina que se liga à **glicose** (glicação). A glicação da hemoglobina altera sua estrutura e pode levar a uma **menor afinidade pelo oxigênio**, o que pode contribuir para complicações em pacientes diabéticos."
-      },
-      "tema": "pmh_a4",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5148,
-      "categoria": "antiga",
-      "aula_id": "pmh_a4",
-      "essencial": false
-    },
-    {
-      "materia": "pmh",
       "enunciado": "\"A ligação de um oxigÍªnio ao grupo heme da hemoglobina acarreta em alteraçÍµes estruturais que facilitam a ligação do oxigÍªnio seguinte\". Esta afirmação se refere a qual caracterÍ­stica da hemoglobina?",
       "opcoes": [
         "A) Cooperatividade",
@@ -103684,56 +102922,6 @@
       "id": 5165,
       "categoria": "antiga",
       "aula_id": "pmh_a7",
-      "essencial": false
-    },
-    {
-      "materia": "bcm1",
-      "enunciado": "Qual o processo patolÍ³gico bÍ¡sico e especÍ­fico da seguinte doença no corpo uterino de uma paciente? Qual a nomenclatura neste caso?",
-      "opcoes": [
-        "A) Neoplasia benigna com com histogênese em músculo liso de útero. Leiomioma uterino",
-        "B) Neoplasia maligna com com histogênese em músculo liso de útero, primária, invasiva. Leiomiossarcoma uterino",
-        "C) Neoplasia maligna com com histogênese em músculo liso de bexiga, invasiva, secundária em útero. Leiomiossarcoma vesical",
-        "D) Neoplasia benigna com com histogênese em músculo liso de útero, invasiva, primária. Leiomioma uterino"
-      ],
-      "correta": 0,
-      "explicacao_geral": "A questão solicita a descrição e nomenclatura de uma doença no corpo uterino. Entre as opções, o **leiomioma uterino** é uma das neoplasias mais comuns do útero, sendo uma **neoplasia benigna** que se origina do **músculo liso** do miométrio. A opção A descreve fielmente essa condição, que é um exemplo clássico de neoplasia ginecológica.",
-      "explicacoes_opcoes": {
-        "A": "Correta. O **leiomioma uterino** Ã© uma **neoplasia benigna** que se desenvolve a partir das cÃ©lulas do **mÃºsculo liso** do Ãºtero (miomÃ©trio). Ã‰ a descriÃ§Ã£o mais precisa e comum para uma neoplasia uterina benigna de mÃºsculo liso.",
-        "B": "Incorreta. Embora o **leiomiossarcoma uterino** seja uma neoplasia maligna de músculo liso do útero, a questão não fornece informações que sugiram malignidade. Sem contexto adicional, a descrição de uma neoplasia benigna comum é mais provável.",
-        "C": "Incorreta. Esta opção descreve um **leiomiossarcoma vesical** (da bexiga) que seria secundário no útero, o que não se encaixa na ideia de um processo patológico 'básico e específico' de uma doença uterina primária.",
-        "D": "Incorreta. Um **leiomioma uterino** é uma **neoplasia benigna** e, por definição, **não é invasiva**. A presença do termo 'invasiva' torna esta opção incorreta."
-      },
-      "tema": "bcm1_a2",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5166,
-      "categoria": "antiga",
-      "aula_id": "bcm1_a2",
-      "essencial": false
-    },
-    {
-      "materia": "pmh",
-      "enunciado": "Qual o processo patolÍ³gico bÍ¡sico e especÍ­fico da seguinte doença no cÍ³lon de um paciente? Qual a nomenclatura neste caso?",
-      "opcoes": [
-        "A) Neoplasia maligna com com histogênese em células glandulares intestinais, invasiva, primária. Adenocarcinoma de cólon",
-        "B) Neoplasia maligna com com histogênese em células glandulares gástricas, invasiva, secundária em cólon. Adenocarcinoma gástrico metastático",
-        "C) Neoplasia benigna com com histogênese em células glandulares intestinais. Adenoma de cólon",
-        "D) Neoplasia benigna com com histogênese em células glandulares intestinais, primária, invasiva. Adenoma de cólon"
-      ],
-      "correta": 0,
-      "explicacao_geral": "A questão busca a descrição e nomenclatura de uma doença no cólon. O **adenocarcinoma de cólon** é uma das neoplasias malignas mais comuns do trato gastrointestinal, originando-se das **células glandulares** da mucosa intestinal. A opção A fornece uma descrição precisa e completa dessa condição, que é um tipo de câncer colorretal.",
-      "explicacoes_opcoes": {
-        "A": "Correta. O **adenocarcinoma de cÃ³lon** Ã© uma **neoplasia maligna** que se desenvolve a partir das **cÃ©lulas glandulares intestinais** do cÃ³lon. Ã‰ uma neoplasia primÃ¡ria e, por definiÃ§Ã£o, invasiva, sendo a descriÃ§Ã£o mais adequada para um cÃ¢ncer de cÃ³lon.",
-        "B": "Incorreta. Esta opção descreve um adenocarcinoma metastático de origem gástrica, o que não se encaixa na ideia de um processo patológico 'básico e específico' de uma doença primária do cólon.",
-        "C": "Incorreta. Embora o **adenoma de cólon** seja uma neoplasia benigna de células glandulares intestinais, a questão não especifica se a doença é benigna ou maligna. No contexto de 'neoplasias' em geral, e sem mais informações, a descrição de uma neoplasia maligna comum é frequentemente o foco.",
-        "D": "Incorreta. Um **adenoma de cólon** é uma **neoplasia benigna** e, por definição, **não é invasiva**. A presença do termo 'invasiva' torna esta opção incorreta."
-      },
-      "tema": "pmh_a6",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5167,
-      "categoria": "antiga",
-      "aula_id": "pmh_a6",
       "essencial": false
     },
     {
@@ -104313,31 +103501,6 @@
     },
     {
       "materia": "bmf3",
-      "enunciado": "Os vÍ­rus em geral iniciam a infecção por uma interação inicial com receptores na superfÍ­cie das células hospedeiras. Qual das seguintes afirmativas é a mais correta sobre esta interação?",
-      "opcoes": [
-        "A) O processo é chamado ADSORÇÍO, e determina o tropismo celular, ou seja, o tipo celular no qual o vÍ­rus irÍ¡ interagir para se multiplicar.",
-        "B) O processo é chamado MATURAÇÍO e determina o tropismo celular, ou seja, o tipo celular no qual o vÍ­rus irÍ¡ interagir para se multiplicar.",
-        "C) O processo é chamado INTEGRAÇÍO, e determina a entrada no vÍ­rus na célula, seguido pelo momento de liberação do material genético.",
-        "D) O processo é chamado ABSORÇÍO, e determina a presença do vÍ­rus no interior da célula, seguido pelo momento de liberação do material genético."
-      ],
-      "correta": 0,
-      "explicacao_geral": "Esta questão aborda a primeira etapa do **ciclo de replicação viral**: a interação entre o vírus e a célula hospedeira. Essa etapa é crucial para o sucesso da infecção e é altamente específica. O termo correto para a ligação do vírus aos receptores da superfície celular é **adsorsão**. Essa especificidade de ligação é o que define o **tropismo celular**, ou seja, a capacidade de um vírus infectar e se replicar apenas em determinados tipos de células ou tecidos.",
-      "explicacoes_opcoes": {
-        "A": "O processo inicial de ligaÃ§Ã£o do vÃ­rus aos receptores especÃ­ficos na superfÃ­cie da cÃ©lula hospedeira Ã© denominado **ADSORÃ‡ÃƒO**. Essa especificidade de ligaÃ§Ã£o Ã© o principal fator que determina o **tropismo celular**, ou seja, quais tipos de cÃ©lulas o vÃ­rus pode infectar e onde ele pode se multiplicar.",
-        "B": "**Maturação** é uma etapa tardia do ciclo viral, onde as novas partículas virais são montadas dentro da célula hospedeira, não a interação inicial com os receptores.",
-        "C": "**Integração** é o processo pelo qual o material genético viral é inserido no genoma da célula hospedeira, característico de alguns vírus como os retrovírus. Não é a interação inicial que determina o tropismo.",
-        "D": "O termo **absorção** é menos preciso em virologia para descrever a ligação inicial. O termo correto é **adsorsão**. A presença do vírus no interior da célula é a **penetração**, que ocorre *após* a adsorsão, e a liberação do material genético é o **desnudamento**."
-      },
-      "tema": "bmf3_a2",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5191,
-      "categoria": "antiga",
-      "aula_id": "bmf3_a2",
-      "essencial": false
-    },
-    {
-      "materia": "bmf3",
       "enunciado": "Durante o processo de reparo de um tecido do organismo que sofreu lesão por necrose, a reação inflamatÍ³ria promove a saÍ­da de exsudato que contém, entre outras proteÍ­nas, os componentes do sistema complemento, que apresentam como caracterÍ­sticas:",
       "opcoes": [
         "A) Presença de transudato rico em proteínas que estimulam ainda mais o processo inflamatório.",
@@ -104559,31 +103722,6 @@
       "id": 5200,
       "categoria": "antiga",
       "aula_id": "bmf3_a6",
-      "essencial": false
-    },
-    {
-      "materia": "fp3",
-      "enunciado": "ApÍ³s acidente (carro X motocicleta) paciente dÍ¡ entrada no pronto atendimento com fraturas mÍºltiplas no corpo. 1- fratura de diÍ¡fise do fÍªmur direito, 2- fratura de tÍ­bia direita na região de epÍ­fise distal, 3- afundamento da região do osso parietal do crÍ¢nio e 4- fratura do escafÍ³ide (um dos ossos carpais) em mão direita. Como são classificados morfologicamente os ossos descritos no caso, respectivamente?",
-      "opcoes": [
-        "A) Longo - alongado - plano - sesamóide",
-        "B) Longo - plano - longo - curto",
-        "C) Longo - longo - plano - curto",
-        "D) Longo - longo - irregular - plano"
-      ],
-      "correta": 2,
-      "explicacao_geral": "A questão exige a classificação morfológica de diferentes **ossos** do corpo humano, com base em suas dimensões e formas. Essa classificação é fundamental para a compreensão da **anatomia esquelética**.",
-      "explicacoes_opcoes": {
-        "A": "**Incorreta**. 'Alongado' não é uma classificação morfológica padrão. O **escafóide** é um osso curto, não sesamóide.",
-        "B": "**Incorreta**. A **tíbia** é um osso longo, não plano.",
-        "C": "**Correta**. A classificaÃ§Ã£o morfolÃ³gica dos ossos Ã© a seguinte:\n*   **1- FÃªmur:** Ã‰ um **osso longo**, caracterizado por ter um comprimento maior que a largura e espessura, com diÃ¡fise e epÃ­fises.\n*   **2- TÃ­bia:** TambÃ©m Ã© um **osso longo**, com as mesmas caracterÃ­sticas do fÃªmur.\n*   **3- Osso parietal:** Ã‰ um **osso plano**, que possui duas lÃ¢minas de osso compacto separadas por osso esponjoso, com funÃ§Ã£o de proteÃ§Ã£o e grande superfÃ­cie para inserÃ§Ã£o muscular.\n*   **4- EscafÃ³ide (osso carpal):** Ã‰ um **osso curto**, que apresenta dimensÃµes semelhantes em comprimento, largura e espessura, com funÃ§Ã£o de absorÃ§Ã£o de choque e mobilidade.",
-        "D": "**Incorreta**. O **osso parietal** é plano, não irregular. O **escafóide** é curto, não plano."
-      },
-      "tema": "fp3_a4",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5201,
-      "categoria": "antiga",
-      "aula_id": "fp3_a4",
       "essencial": false
     },
     {
@@ -105235,31 +104373,6 @@
       "essencial": false
     },
     {
-      "materia": "bcm1",
-      "enunciado": "A anidrase carbÍ´nica é uma enzima que promove a transformação reversÍ­vel de gÍ¡s carbÍ´nico (CO2) em Í¡cido carbÍ´nico (H2CO3). A constante de Michaelis (KM) da anidrase carbÍ´nica para o seu substrato CO2 é de 1mM, um valor muito prÍ³ximo das concentraçÍµes fisiolÍ³gicas de CO2 (que são de aproximadamente 1,2mM). Isso significa que:",
-      "opcoes": [
-        "A) Quando os níveis de CO2 aumentam, a velocidade de conversão de gás carbônico (CO2) e ácido carbônico (H2CO3) pela enzima também aumenta.",
-        "B) Quanto maior a concentração de gás carbônico maior vai ser a velocidade de conversão de gás carbônico (CO2) em ácido carbônico (H2CO3) pois a enzima segue uma cinética de primeira ordem.",
-        "C) A enzima está trabalhando o tempo todo em sua velocidade máxima pois ela está saturada de substrato.",
-        "D) Quando os níveis de CO2 aumentam, a velocidade de conversão de gás carbônico (CO2) e ácido carbônico (H2CO3) pela enzima não aumenta."
-      ],
-      "correta": 0,
-      "explicacao_geral": "A **constante de Michaelis (KM)** é a concentração de **substrato** na qual a **velocidade da reação** é metade da **velocidade mÍ¡xima (Vmax)**. Quando a concentração de **substrato** ([S]) é prÍ³xima do **KM**, a **enzima** não estÍ¡ saturada e a **velocidade da reação** é sensÍ­vel a mudanças na concentração de **substrato**. Se [S] â‰ˆ **KM**, um aumento em [S] resultarÍ¡ em um aumento proporcional na **velocidade da reação**. No caso da **anidrase carbÍ´nica**, com **KM** de **1mM** e concentraçÍµes fisiolÍ³gicas de **CO2** de **1,2mM**, a **enzima** opera em uma faixa onde sua atividade pode ser modulada pela disponibilidade de **CO2**, permitindo uma resposta rÍ¡pida Í s variaçÍµes fisiolÍ³gicas.",
-      "explicacoes_opcoes": {
-        "A": "Correta. Quando a concentração de **substrato** ([S]) é próxima do **KM** (como **1,2mM CO2** vs. **1mM KM**), a **enzima** não está saturada. Isso significa que um aumento na concentração de **CO2** levará a um aumento na **velocidade da reação**, pois há mais **substrato** disponível para se ligar à **enzima**.",
-        "B": "A **cinética de primeira ordem** ocorre quando [S] << **KM**. Neste caso, [S] é próximo de **KM**, então a **enzima** não está operando estritamente em **cinética de primeira ordem** nem em **ordem zero**. A velocidade aumenta, mas a relação não é linear como na primeira ordem quando [S] é muito baixo.",
-        "C": "Incorreta. Se a **enzima** estivesse saturada, a **velocidade** estaria prÃ³xima da **Vmax** e nÃ£o aumentaria significativamente com o aumento do **substrato**. Como [S] â‰ˆ **KM**, a **enzima** nÃ£o estÃ¡ saturada.",
-        "D": "Incorreta. Se a **enzima** nÃ£o estivesse saturada (o que Ã© o caso quando [S] â‰ˆ **KM**), um aumento nos nÃ­veis de **CO2** resultaria em um aumento na **velocidade de conversÃ£o**."
-      },
-      "tema": "bcm1_a18",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5228,
-      "categoria": "antiga",
-      "aula_id": "bcm1_a18",
-      "essencial": false
-    },
-    {
       "materia": "pmh",
       "enunciado": "O tampão bicarbonato é formado pelo equilÍ­brio entre o gÍ¡s carbÍ´nico o Í¡cido carbÍ´nico e o Í­on bicarbonato. O tampão bicarbonato é o principal tampão extracelular. Como o tampão bicarbonato mantém o pH do sangue no valor fisiolÍ³gico?",
       "opcoes": [
@@ -105582,31 +104695,6 @@
       "id": 5241,
       "categoria": "antiga",
       "aula_id": "pmh_a7",
-      "essencial": false
-    },
-    {
-      "materia": "pmh",
-      "enunciado": "Em qual região localiza-se o terceiro neurÍ´nio desta via? *",
-      "opcoes": [
-        "A) Núcleos intralaminares da formação reticular.",
-        "B) Corno posterior do H medular da medula espinal.",
-        "C) Tálamo (núcleo ventral póstero-lateral).",
-        "D) Giro pós-central (áreas 3, 2, 1 de Brodmann)"
-      ],
-      "correta": 2,
-      "explicacao_geral": "O caso descreve **dor lancinante** (dor em pontada e bem localizada), que é transmitida principalmente pelo **trato espinotalâmico lateral**. Nesta via, o **primeiro neurônio** está no gânglio da raiz dorsal, o **segundo neurônio** no corno posterior da medula espinal (onde cruza a linha média), e o **terceiro neurônio** no **tálamo**, especificamente no **núcleo ventral posterolateral (VPL)**, antes de projetar-se para o córtex somatossensorial primário.",
-      "explicacoes_opcoes": {
-        "A": "Os **núcleos intralaminares do tálamo** estão envolvidos na dor difusa e no estado de alerta, mas não são o principal relé para a dor lancinante no córtex.",
-        "B": "O **corno posterior da medula espinal** é onde o **segundo neurônio** da via espinotalâmica tem seu corpo celular e onde ocorre a sinapse com o primeiro neurônio.",
-        "C": "O **nÃºcleo ventral posterolateral (VPL) do tÃ¡lamo** Ã© o principal relÃ© para as informaÃ§Ãµes somatossensoriais do corpo (incluindo dor e temperatura) antes de serem enviadas ao cÃ³rtex cerebral. Ã‰ a localizaÃ§Ã£o do **terceiro neurÃ´nio** desta via.",
-        "D": "O **giro pós-central** (áreas 3, 2, 1 de Brodmann) é o **córtex somatossensorial primário**, onde a sensibilidade é interpretada, mas não é a localização do terceiro neurônio, que projeta para esta área."
-      },
-      "tema": "pmh_a10",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5242,
-      "categoria": "antiga",
-      "aula_id": "pmh_a10",
       "essencial": false
     },
     {
@@ -106136,31 +105224,6 @@
     },
     {
       "materia": "fp3",
-      "enunciado": "Jovem, passeava pelo limbo praiano quando pisou, com seu pé esquerdo, em um caco de vidro. Isso fez com que o mesmo sentisse uma dor lancinante (dor em pontada e bem localizada). Ato contÍ­nuo, o mesmo retirou o pé do objeto cortante e esfregou levemente a periferia prÍ³xima Í  ferida. Baseado no caso responda: Em qual região localiza-se o terceiro neurÍ´nio desta via?",
-      "opcoes": [
-        "A) Núcleos intralaminares da formação reticular.",
-        "B) Corno posterior do H medular da medula espinal.",
-        "C) Tálamo (núcleo ventral póstero-lateral).",
-        "D) Giro pós-central (áreas 3, 2, 1 de Brodmann)"
-      ],
-      "correta": 2,
-      "explicacao_geral": "O caso descreve uma **dor lancinante** (dor em pontada e bem localizada) no **pé esquerdo**, o que é característico da **via espinotalâmica lateral** (também conhecida como **via anterolateral**), responsável pela transmissão de **dor** e **temperatura**. Nesta via, o **primeiro neurônio** está no **gânglio da raiz dorsal**, o **segundo neurônio** no **corno posterior da medula espinal** (cruzando a linha média) e o **terceiro neurônio** no **tálamo**, especificamente no **núcleo ventral póstero-lateral (VPL)**, de onde projeta para o **córtex somatossensorial primário** (giro pós-central).",
-      "explicacoes_opcoes": {
-        "A": "Os **núcleos intralaminares do tálamo** e a **formação reticular** estão envolvidos na **dor difusa** e no componente afetivo-emocional da dor, mas não são o principal relê para a **dor lancinante** e bem localizada.",
-        "B": "O **corno posterior da medula espinal** é onde se localiza o corpo celular do **segundo neurônio** da **via espinotalâmica lateral**.",
-        "C": "O **tálamo**, especificamente o **núcleo ventral póstero-lateral (VPL)**, é a localização do corpo celular do **terceiro neurônio** da **via espinotalâmica lateral**, que retransmite a informação de **dor** e **temperatura** para o **córtex somatossensorial primário**.",
-        "D": "O **giro pÃ³s-central** (Ã¡reas 3, 2, 1 de Brodmann) Ã© o **cÃ³rtex somatossensorial primÃ¡rio**, onde a sensibilidade Ã© interpretada e percebida conscientemente. Ã‰ o destino final do terceiro neurÃ´nio, mas nÃ£o a sua localizaÃ§Ã£o."
-      },
-      "tema": "fp3_a6",
-      "dificuldade": 3,
-      "depende_de_imagem": false,
-      "id": 5264,
-      "categoria": "antiga",
-      "aula_id": "fp3_a6",
-      "essencial": false
-    },
-    {
-      "materia": "fp3",
       "enunciado": "Em qual lobo telencefÍ¡lico essa sensibilidade é interpretada?",
       "opcoes": [
         "A) Parietal",
@@ -106536,31 +105599,6 @@
     },
     {
       "materia": "mad1",
-      "enunciado": "A cromatina das células eucariÍ³ticas é composta por regiÍµes mais compactas e regiÍµes menos compactas, dependendo da intensidade de atividade da sÍ­ntese proteica. Qual o nome dado para as regiÍµes menos compactadas, onde ocorre maior atividade de sÍ­ntese?",
-      "opcoes": [
-        "A) Eucromatina.",
-        "B) Heterocromatina",
-        "C) Cromátide",
-        "D) Cromossomo"
-      ],
-      "correta": 0,
-      "explicacao_geral": "A **cromatina** é o complexo de DNA e proteínas (principalmente **histonas**) encontrado no núcleo das células eucarióticas. Ela existe em dois estados principais de compactação: **eucromatina** e **heterocromatina**. A **eucromatina** é a forma menos compactada e mais acessível do DNA, onde os genes estão ativos e disponíveis para a **transcrição** (síntese de RNA, que precede a síntese proteica). A **heterocromatina**, por outro lado, é altamente compactada e geralmente inativa transcricionalmente.",
-      "explicacoes_opcoes": {
-        "A": "A **eucromatina** é a região da cromatina que se encontra menos compactada, permitindo o acesso das enzimas e fatores de transcrição ao DNA, o que resulta em **maior atividade de síntese proteica** (via transcrição de genes).",
-        "B": "A **heterocromatina** é a forma mais compactada da cromatina, onde os genes são geralmente inativos ou silenciados, e a atividade de síntese é mínima.",
-        "C": "Uma **cromátide** é uma das duas cópias idênticas de um cromossomo que se formam após a replicação do DNA e que estão unidas pelo centrômero. Não se refere a uma região de compactação da cromatina.",
-        "D": "Um **cromossomo** Ã© uma estrutura altamente organizada de DNA e proteÃ­nas que contÃ©m a maior parte da informaÃ§Ã£o genÃ©tica de um organismo. Ã‰ a forma mais compactada do material genÃ©tico durante a divisÃ£o celular, mas nÃ£o Ã© o termo para as regiÃµes de atividade de sÃ­ntese na cromatina interfÃ¡sica."
-      },
-      "tema": "mad1_a3",
-      "dificuldade": 1,
-      "depende_de_imagem": false,
-      "id": 5280,
-      "categoria": "antiga",
-      "aula_id": "mad1_a3",
-      "essencial": false
-    },
-    {
-      "materia": "mad1",
       "enunciado": "Paciente feminino, 68 anos, hÍ¡ dois anos com movimentos coreicos de lÍ¡bios, lÍ­ngua, mãos e pé esquerdo, disfagia, sintomas depressivos e comprometimento de funçÍµes cognitivas de média gravidade. A ressonÍ¢ncia magnética de crÍ¢nio apresentou alteraçÍµes compatÍ­veis com doença de Huntington. É caracterizada uma doença genética, monogÍªnica, onde a mutação em um Íºnico gene é o suficiente para manifestar as alteraçÍµes fenotÍ­picas da doença. Baseado nestas informaçÍµes, responda: Qual a definição de gene?",
       "opcoes": [
         "A) Gene corresponde ao genoma, ambos são sinônimos.",
@@ -106607,31 +105645,6 @@
       "id": 5282,
       "categoria": "antiga",
       "aula_id": "mad2_a16",
-      "essencial": false
-    },
-    {
-      "materia": "mad1",
-      "enunciado": "RSF., 06 anos, sexo masculino, se apresentou ao PS devido a um sangramento excessivo por causa de uma queda, onde quebrou dois dentes e fez um corte no lÍ¡bio superior. O paciente relatou um histÍ³rico de prolongado sangramento apÍ³s extração de dentes, um sangramento prolongado apÍ³s queda da bicicleta 1 anos antes, e excessivas contusÍµes. Relatou hematomas e dor crÍ´nica em seus tornozelos e juntas. De acordo com o caso acima, relacione a alternativa correta:",
-      "opcoes": [
-        "A) O paciente tem uma suspeita diagnóstica de Hemofilia, que se caracteriza por uma deficiência do fator VIII da cascata de coagulação. A principal manifestação clínica da Hemofilia é a Hemartrose, que se caracteriza por sangramentos dentro do espaço articular.",
-        "B) O paciente tem uma suspeita diagnóstica de Hemofilia, que se caracteriza por uma deficiência do fator VI da cascata de coagulação. Está doença está relacionada com Padrão de Herança dominante restrito ao sexo.",
-        "C) O paciente tem uma suspeita diagnóstica de Distrofia muscular de Duchenne. Deficiência ou falta da proteína Distrofina, causada por uma mutação do gene SRY, relacionado com Padrão de Herança dominante restrito ao sexo.",
-        "D) O paciente tem uma suspeita diagnóstica de Distrofia muscular de Duchenne, que se caracteriza por uma deficiência do fator XX da cascata de coagulação. A principal manifestação clínica da Distrofia muscular de Duchenne é a dor muscular, que se caracteriza por dor crônica em seus tornozelos e juntas."
-      ],
-      "correta": 0,
-      "explicacao_geral": "O caso clínico de um menino de 6 anos com **sangramento excessivo** após traumas leves, **sangramento prolongado** após extrações dentárias, **contusões excessivas**, **hematomas** e **dor crônica em tornozelos e juntas** (sugestivo de **hemartrose**) é altamente indicativo de **Hemofilia**. A **Hemofilia A**, a forma mais comum, é causada pela deficiência do **Fator VIII** da cascata de coagulação e é uma doença **recessiva ligada ao cromossomo X**, afetando predominantemente o sexo masculino. A **hemartrose** (sangramento nas articulações) é uma das manifestações mais características e debilitantes da hemofilia.",
-      "explicacoes_opcoes": {
-        "A": "O quadro clínico é clássico de **Hemofilia**. A **Hemofilia A** é causada pela deficiência do **Fator VIII** da coagulação. A **hemartrose**, que são sangramentos dentro das articulações, é uma complicação comum e característica, causando dor e dano articular crônico.",
-        "B": "A **Hemofilia** é causada pela deficiência do **Fator VIII** (Hemofilia A) ou **Fator IX** (Hemofilia B), não do Fator VI. Além disso, a hemofilia tem um padrão de herança **recessivo ligado ao cromossomo X**, não dominante restrito ao sexo.",
-        "C": "A **Distrofia Muscular de Duchenne** Ã© uma doenÃ§a muscular progressiva, nÃ£o um distÃºrbio de coagulaÃ§Ã£o. Ã‰ causada pela deficiÃªncia da proteÃ­na **distrofina**, nÃ£o por uma mutaÃ§Ã£o no gene **SRY** (que estÃ¡ relacionado Ã  determinaÃ§Ã£o do sexo). O padrÃ£o de heranÃ§a Ã© **recessivo ligado ao cromossomo X**, nÃ£o dominante restrito ao sexo.",
-        "D": "A **Distrofia Muscular de Duchenne** não é um distúrbio da cascata de coagulação (não há 'fator XX'). Embora possa haver dor muscular, as manifestações principais são fraqueza muscular progressiva e não sangramentos ou hemartroses."
-      },
-      "tema": "mad1_a15",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5283,
-      "categoria": "antiga",
-      "aula_id": "mad1_a15",
       "essencial": false
     },
     {
@@ -107160,31 +106173,6 @@
       "essencial": false
     },
     {
-      "materia": "mad2",
-      "enunciado": "Paciente feminina, 68 anos, hÍ¡ trÍªs anos com movimentos coreicos de lÍ¡bios, lÍ­ngua, mãos e pé esquerdo, disfagia, sintomas depressivos e comprometimento de funçÍµes cognitivas de média gravidade. A ressonÍ¢ncia magnética de crÍ¢nio apresentou alteraçÍµes compatÍ­veis com doença de Huntington. A Doença de Huntington é uma doença neurolÍ³gica degenerativa de causa genética, que se caracterizada por alteraçÍµes psiquiÍ¡tricas, cognitivas e motoras progressivas. Com relação aos marcadores genéticos, responda:",
-      "opcoes": [
-        "A) Padrão de Herança Autossômica Recessiva, Gene: Huntingtina, Proteína: Huntington, Expressividade Uniforme.",
-        "B) Padrão de Herança Autossômica Dominante, Gene: HTT, Proteína: Huntingtina, Expressividade Variável.",
-        "C) Padrão de Herança Ligada ao X, Gene: RB, Proteína: Huntingtina, Expressividade Variável.",
-        "D) Padrão de Herança Autossômica Dominante, Gene: NF1, Proteína: Neurofibromina, Expressividade Uniforme."
-      ],
-      "correta": 1,
-      "explicacao_geral": "A **Doença de Huntington** é uma doença neurodegenerativa hereditÍ¡ria com **padrão de herança autossÍ´mica dominante**. É causada por uma expansão de repetiçÍµes de trinucleotÍ­deos CAG no **gene HTT** (Huntingtin), localizado no cromossomo 4. Este gene codifica a proteÍ­na **huntingtina**. A doença é caracterizada por **expressividade variÍ¡vel**, o que significa que a idade de inÍ­cio, a gravidade e a combinação dos sintomas (motores, cognitivos e psiquiÍ¡tricos) podem variar amplamente entre os indivÍ­duos afetados.",
-      "explicacoes_opcoes": {
-        "A": "Esta alternativa está **INCORRETA**. A Doença de Huntington tem **padrão de herança autossômica dominante**, não recessiva. Além disso, o gene é **HTT** e a proteína é **huntingtina** (os nomes estão invertidos), e a expressividade é variável, não uniforme.",
-        "B": "Esta alternativa estÃ¡ **CORRETA**. A **DoenÃ§a de Huntington** segue um **padrÃ£o de heranÃ§a autossÃ´mica dominante**. Ã‰ causada por uma mutaÃ§Ã£o no **gene HTT**, que codifica a proteÃ­na **huntingtina**. A doenÃ§a Ã© conhecida por sua **expressividade variÃ¡vel**, o que explica a diversidade de sintomas e idades de inÃ­cio.",
-        "C": "Esta alternativa está **INCORRETA**. A Doença de Huntington não é de herança **ligada ao X**. O **gene RB** está associado ao retinoblastoma, não à Doença de Huntington.",
-        "D": "Esta alternativa está **INCORRETA**. Embora seja de herança **autossômica dominante**, o **gene NF1** e a proteína **neurofibromina** estão associados à Neurofibromatose tipo 1, não à Doença de Huntington. Além disso, a expressividade da Doença de Huntington é variável, não uniforme."
-      },
-      "tema": "mad2_a16",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5305,
-      "categoria": "antiga",
-      "aula_id": "mad2_a16",
-      "essencial": false
-    },
-    {
       "materia": "mad1",
       "enunciado": "Qual o processo patolÍ³gico bÍ¡sico e especÍ­fico da seguinte doença no corpo uterino de uma paciente? Qual a nomenclatura neste caso?",
       "opcoes": [
@@ -107282,56 +106270,6 @@
       "id": 5309,
       "categoria": "antiga",
       "aula_id": "bmf2_a7",
-      "essencial": false
-    },
-    {
-      "materia": "bmf2",
-      "enunciado": "Qual é o efeito da hiperventilação pulmonar sobre o pH fisiolÍ³gico?",
-      "opcoes": [
-        "A) Nenhum",
-        "B) Acidificação",
-        "C) Alcalinização",
-        "D) Diminuição do pH"
-      ],
-      "correta": 2,
-      "explicacao_geral": "A **hiperventilação pulmonar** leva à eliminação excessiva de **dióxido de carbono (CO2)** do corpo. Como o **CO2** é um **ácido volátil** (na forma de **ácido carbônico**), sua redução no sangue diminui a concentração de **íons hidrogênio (H+)**, resultando em um aumento do **pH sanguíneo**, caracterizando uma **alcalose respiratória**.",
-      "explicacoes_opcoes": {
-        "A": "A hiperventilação tem um efeito significativo no **pH**.",
-        "B": "A hiperventilação causa **alcalinização**, não acidificação.",
-        "C": "A **hiperventilaÃ§Ã£o** reduz a **pCO2**, deslocando o equilÃ­brio da reaÃ§Ã£o **CO2 + H2O â‡Œ H2CO3 â‡Œ H+ + HCO3-** para a esquerda, diminuindo a concentraÃ§Ã£o de **H+** e aumentando o **pH**, levando Ã  **alcalinizaÃ§Ã£o** do sangue (alcalose respiratÃ³ria).",
-        "D": "A hiperventilação causa **aumento do pH**, não diminuição."
-      },
-      "tema": "bmf2_a1",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5310,
-      "categoria": "antiga",
-      "aula_id": "bmf2_a1",
-      "essencial": false
-    },
-    {
-      "materia": "bmf3",
-      "enunciado": "Qual é o efeito da hipoventilação pulmonar sobre o pH fisiolÍ³gico?",
-      "opcoes": [
-        "A) Nenhum",
-        "B) Acidificação",
-        "C) Alcalinização",
-        "D) Aumento do pH"
-      ],
-      "correta": 1,
-      "explicacao_geral": "A **hipoventilação pulmonar** resulta na retenção de **dióxido de carbono (CO2)** no corpo. O aumento do **CO2** no sangue leva à formação de mais **ácido carbônico (H2CO3)** e, consequentemente, mais **íons hidrogênio (H+)**, o que diminui o **pH sanguíneo**, caracterizando uma **acidose respiratória**.",
-      "explicacoes_opcoes": {
-        "A": "A hipoventilação tem um efeito significativo no **pH**.",
-        "B": "A **hipoventilaÃ§Ã£o** aumenta a **pCO2**, deslocando o equilÃ­brio da reaÃ§Ã£o **CO2 + H2O â‡Œ H2CO3 â‡Œ H+ + HCO3-** para a direita, aumentando a concentraÃ§Ã£o de **H+** e diminuindo o **pH**, levando Ã  **acidificaÃ§Ã£o** do sangue (acidose respiratÃ³ria).",
-        "C": "A hipoventilação causa **acidificação**, não alcalinização.",
-        "D": "A hipoventilação causa **diminuição do pH**, não aumento."
-      },
-      "tema": "bmf3_a4",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5311,
-      "categoria": "antiga",
-      "aula_id": "bmf3_a4",
       "essencial": false
     },
     {
@@ -107955,31 +106893,6 @@
       "id": 5334,
       "categoria": "antiga",
       "aula_id": "semio1_a4",
-      "essencial": false
-    },
-    {
-      "materia": "semio1",
-      "enunciado": "Qual é o efeito da hiperventilação pulmonar sobre o pH fisiolÍ³gico?",
-      "opcoes": [
-        "A) Nenhum",
-        "B) Acidificação",
-        "C) Alcalinização",
-        "D) Diminuição do pH"
-      ],
-      "correta": 2,
-      "explicacao_geral": "A **hiperventilação pulmonar** refere-se ao aumento da frequência e/ou profundidade da respiração, resultando na eliminação excessiva de **dióxido de carbono (CO2)** do corpo. Como o **CO2** é um componente do sistema tampão **bicarbonato-ácido carbônico** e forma **ácido carbônico (H2CO3)** no sangue, sua redução leva a uma diminuição da concentração de **íons hidrogênio (H+)**, elevando o **pH** e causando **alcalinização**.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta. A hiperventilação tem um efeito significativo no pH fisiológico.",
-        "B": "Incorreta. A hiperventilação leva à **alcalinização**, não à acidificação.",
-        "C": "Correta. A **hiperventilaÃ§Ã£o** remove **CO2** do sangue, deslocando o equilÃ­brio da reaÃ§Ã£o H2O + CO2 â‡Œ H2CO3 â‡Œ H+ + HCO3- para a esquerda, diminuindo a concentraÃ§Ã£o de **H+** e, consequentemente, aumentando o **pH** (alcalinizaÃ§Ã£o).",
-        "D": "Incorreta. A diminuição do pH é sinônimo de acidificação. A hiperventilação causa o efeito oposto, ou seja, **aumento do pH**."
-      },
-      "tema": "semio1_a5",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5335,
-      "categoria": "antiga",
-      "aula_id": "semio1_a5",
       "essencial": false
     },
     {
@@ -108831,31 +107744,6 @@
       "essencial": false
     },
     {
-      "materia": "bmf3",
-      "enunciado": "As hemÍ¡cias alteradas são identificadas no hemograma com: *",
-      "opcoes": [
-        "A) VCM normal e HCM diminuído",
-        "B) VCM diminuído e HCM normal",
-        "C) VCM diminuído e HCM diminuído",
-        "D) VCM normal e HCM aumentado"
-      ],
-      "correta": 2,
-      "explicacao_geral": "A questão aborda a identificação de alterações morfológicas das hemácias no hemograma através dos **índices hematimétricos**, especificamente o **VCM (Volume Corpuscular Médio)** e o **HCM (Hemoglobina Corpuscular Média)**. A opção correta descreve as características da **anemia microcítica e hipocrômica**, um tipo comum de alteração.",
-      "explicacoes_opcoes": {
-        "A": "**VCM normal e HCM diminuído** indicaria hemácias de tamanho normal, mas com pouca hemoglobina, o que é uma combinação menos comum.",
-        "B": "**VCM diminuído e HCM normal** indicaria hemácias pequenas, mas com concentração normal de hemoglobina, o que também é uma combinação menos comum.",
-        "C": "**VCM diminuÃ­do e HCM diminuÃ­do** Ã© a caracterÃ­stica de **hemÃ¡cias microcÃ­ticas e hipocrÃ´micas**, classicamente observadas na **anemia ferropÃªnica** e em algumas **talassemias**. Ã‰ uma das alteraÃ§Ãµes mais comuns e importantes a serem identificadas.",
-        "D": "**VCM normal e HCM aumentado** indicaria hemácias de tamanho normal, mas com mais hemoglobina, o que é incomum e geralmente não é uma alteração primária."
-      },
-      "tema": "bmf3_a12",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5368,
-      "categoria": "antiga",
-      "aula_id": "bmf3_a12",
-      "essencial": false
-    },
-    {
       "materia": "semio1",
       "enunciado": "Paciente, sexo masculino, 8 anos. A mãe relata que a criança estÍ¡ sonolenta e com baixo rendimento escolar. Relata ainda que o menino não se alimenta adequadamente. O médico solicita hemograma que apresenta hemoglobina abaixo do valor de referÍªncia para a idade da criança. Esse dado significa:",
       "opcoes": [
@@ -109028,31 +107916,6 @@
       "id": 5375,
       "categoria": "antiga",
       "aula_id": "mad2_a6",
-      "essencial": false
-    },
-    {
-      "materia": "farm",
-      "enunciado": "Um médico patologista recebe em sua rotina uma lÍ¢mina de linfonodo sentinela para pesquisa de metÍ¡stases um melanoma cutÍ¢neo. O local em que o médico primeiro deve procurar, no linfonodo, considerando-se que a disseminação do melanoma seja linfÍ¡tica, é",
-      "opcoes": [
-        "A) nos cordões medulares.",
-        "B) no seio trabecular.",
-        "C) no seio subcapsular.",
-        "D) nas vênulas de endotélio alto."
-      ],
-      "correta": 2,
-      "explicacao_geral": "A **disseminação linfática** de **células tumorais**, como as de um **melanoma cutâneo**, segue o fluxo normal da **linfa** através do **linfonodo**. A **linfa** entra no **linfonodo** pelos **vasos linfáticos aferentes** e primeiro atinge o **seio subcapsular**, que é a região logo abaixo da cápsula. Este é, portanto, o local mais provável para a detecção inicial de **metástases**.",
-      "explicacoes_opcoes": {
-        "A": "Os **cordões medulares** são estruturas localizadas na **medula do linfonodo**, mais profundas, e contêm **plasmócitos** e **macrófagos**. As **células metastáticas** chegariam a esta região após passar pelo **seio subcapsular** e pelos **seios corticais/trabeculares**.",
-        "B": "O **seio trabecular** (ou cortical) é uma rede de seios linfáticos que se estende do **seio subcapsular** para o córtex profundo. Embora seja um local de passagem, o **seio subcapsular** é o primeiro ponto de chegada da **linfa** e das **células metastáticas**.",
-        "C": "O **seio subcapsular** Ã© a primeira cÃ¢mara do **linfonodo** a receber a **linfa** dos **vasos linfÃ¡ticos aferentes**. Ã‰ o local onde as **cÃ©lulas metastÃ¡ticas** que chegam pela via linfÃ¡tica seriam encontradas inicialmente, tornando-o o ponto de partida para a pesquisa de **metÃ¡stases**.",
-        "D": "As **vênulas de endotélio alto** (HEVs) são especializadas na **paracórtex** do **linfonodo** e são o principal local de entrada de **linfócitos** do sangue para o **linfonodo**, não sendo a via primária para a chegada de **células metastáticas** via **linfa**."
-      },
-      "tema": "farm_a5",
-      "dificuldade": 2,
-      "depende_de_imagem": false,
-      "id": 5376,
-      "categoria": "antiga",
-      "aula_id": "farm_a5",
       "essencial": false
     },
     {
@@ -109278,222 +108141,6 @@
       "dificuldade": 2,
       "depende_de_imagem": false,
       "categoria": "antiga",
-      "essencial": false
-    },
-    {
-      "id": 5548,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 1,
-      "correta": 1,
-      "enunciado": "As costelas verdadeiras correspondem, em geral, a quais pares?",
-      "opcoes": [
-        "A) 8 a 10",
-        "B) 1 a 7",
-        "C) 11 e 12",
-        "D) 6 a 12"
-      ],
-      "explicacao_geral": "Costelas 1-7 articulam-se diretamente ao esterno por cartilagem prÍÂ³pria.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: 8-10 sÃƒÂ£o costelas falsas.",
-        "B": "Correta: este ÃƒÂ© o grupo das verdadeiras.",
-        "C": "Incorreta: 11-12 sÃƒÂ£o flutuantes.",
-        "D": "Incorreta: mistura grupos com articulaÃƒÂ§ÃƒÂ£o diferente."
-      },
-      "explicacao": "A classificaÍÂ§ÍÂ£o costal ÍÂ© ÍÂºtil para interpretar lesÍÂ£o torÍÂ¡cica e relaÍÂ§ÍÂ£o com esterno.",
-      "essencial": false
-    },
-    {
-      "id": 5549,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 2,
-      "enunciado": "Na posiÍÂ§ÍÂ£o anatÍÂ´mica, em relaÍÂ§ÍÂ£o Í ulna, o rÍÂ¡dio estÍÂ¡:",
-      "opcoes": [
-        "A) Medial e posterior",
-        "B) Medial e proximal",
-        "C) Lateral, no lado do polegar",
-        "D) Medial, no lado do quinto dedo"
-      ],
-      "explicacao_geral": "Com o antebraÍÂ§o em supinaÍÂ§ÍÂ£o, o rÍÂ¡dio fica do lado lateral.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: nÃƒÂ£o ocupa essa posiÃƒÂ§ÃƒÂ£o em referÃƒÂªncia anatÃƒÂ´mica.",
-        "B": "Incorreta: o rÃƒÂ¡dio nÃƒÂ£o ÃƒÂ© medial Ãƒ ulna.",
-        "C": "Correta: lado do polegar corresponde ao rÃƒÂ¡dio.",
-        "D": "Incorreta: lado do quinto dedo corresponde Ãƒ ulna."
-      },
-      "explicacao": "A relaÍÂ§ÍÂ£o rÍÂ¡dio-ulna muda em pronaÍÂ§ÍÂ£o/supinaÍÂ§ÍÂ£o, mas a descriÍÂ§ÍÂ£o padrÍÂ£o usa posiÍÂ§ÍÂ£o anatÍÂ´mica.",
-      "essencial": false
-    },
-    {
-      "id": 5550,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 3,
-      "enunciado": "A vÍÂ©rtebra proeminente palpÍÂ¡vel na base do pescoÍÂ§o ÍÂ© geralmente:",
-      "opcoes": [
-        "A) C5",
-        "B) C1",
-        "C) T2",
-        "D) C7"
-      ],
-      "explicacao_geral": "C7 costuma ter processo espinhoso mais evidente ao exame fÍÂ­sico.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: nÃƒÂ£o ÃƒÂ© o marco palpÃƒÂ¡vel mais tÃƒÂ­pico.",
-        "B": "Incorreta: atlas nÃƒÂ£o possui processo espinhoso proeminente.",
-        "C": "Incorreta: pode palpar-se, mas o marco clÃƒÂ¡ssico ÃƒÂ© cervical.",
-        "D": "Correta: C7 ÃƒÂ© a referÃƒÂªncia anatÃƒÂ´mica tradicional."
-      },
-      "explicacao": "A identificaÍÂ§ÍÂ£o da C7 auxilia contagem de nÍÂ­veis vertebrais em exame clÍÂ­nico.",
-      "essencial": false
-    },
-    {
-      "id": 5551,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 3,
-      "correta": 0,
-      "enunciado": "Qual associaÍÂ§ÍÂ£o entre forame craniano e estrutura ÍÂ© correta?",
-      "opcoes": [
-        "A) Forame oval - nervo mandibular (V3)",
-        "B) Forame redondo - nervo facial (VII)",
-        "C) Forame ÍÂ³ptico - nervo olfatÍÂ³rio (I)",
-        "D) Forame jugular - nervo glossofaríngeo (IX)"
-      ],
-      "explicacao_geral": "Os forames da base do crÍÂ¢nio tÍÂªm conteÍÂºdos neurovasculares especÍÂ­ficos.",
-      "explicacoes_opcoes": {
-        "A": "Correta: V3 atravessa o forame oval.",
-        "B": "Incorreta: V2 passa pelo forame redondo.",
-        "C": "Incorreta: o nervo ÃƒÂ³ptico (II) passa pelo canal ÃƒÂ³ptico.",
-        "D": "Incorreta: o trigÃƒÂªmeo nÃƒÂ£o atravessa o forame magno."
-      },
-      "explicacao": "Conhecer mapeamento de forames evita erros de localizaÍÂ§ÍÂ£o em correlaÍÂ§ÍÂ£o clÍÂ­nica e radiolÍÂ³gica.",
-      "essencial": false
-    },
-    {
-      "id": 5552,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 1,
-      "correta": 1,
-      "enunciado": "A coluna torÍÂ¡cica possui tipicamente:",
-      "opcoes": [
-        "A) 7 vÍÂ©rtebras com lordose",
-        "B) 12 vÍÂ©rtebras com cifose",
-        "C) 5 vÍÂ©rtebras com lordose",
-        "D) 12 vÍÂ©rtebras com lordose"
-      ],
-      "explicacao_geral": "A curvatura fisiolÍÂ³gica torÍÂ¡cica ÍÂ© cifÍÂ³tica.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: sete vÃƒÂ©rtebras corresponde ao segmento cervical.",
-        "B": "Correta: nÃƒÂºmero e curvatura estÃƒÂ£o corretos.",
-        "C": "Incorreta: cinco vÃƒÂ©rtebras corresponde ao segmento lombar.",
-        "D": "Incorreta: a curvatura torÃƒÂ¡cica nÃƒÂ£o ÃƒÂ© lordose."
-      },
-      "explicacao": "O padrÍÂ£o de curvaturas fisiolÍÂ³gicas ajuda na anÍÂ¡lise postural e na interpretaÍÂ§ÍÂ£o de imagem.",
-      "essencial": false
-    },
-    {
-      "id": 5553,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 2,
-      "enunciado": "ApÍÂ³s queda sobre a mÍÂ£o espalmada com punho em extensÍÂ£o, qual osso do carpo ÍÂ© classicamente fraturado?",
-      "opcoes": [
-        "A) Pisiforme",
-        "B) Hamato",
-        "C) Escafoide",
-        "D) Semilunar"
-      ],
-      "explicacao_geral": "O escafoide ÍÂ© particularmente vulnerÍÂ¡vel nesse mecanismo de trauma.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: nÃƒÂ£o ÃƒÂ© o mais frequente nesse mecanismo.",
-        "B": "Incorreta: fratura menos tÃƒÂ­pica para essa queda.",
-        "C": "Correta: ÃƒÂ© o diagnÃƒÂ³stico clÃƒÂ¡ssico da queda sobre mÃƒÂ£o estendida.",
-        "D": "Incorreta: pode lesar-se, mas nÃƒÂ£o ÃƒÂ© o mais caracterÃƒÂ­stico."
-      },
-      "explicacao": "A suspeita clÍÂ­nica de fratura de escafoide exige atenÍÂ§ÍÂ£o pelo risco de complicaÍÂ§ÍÂµes vasculares.",
-      "essencial": false
-    },
-    {
-      "id": 5554,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 3,
-      "correta": 3,
-      "enunciado": "Em idoso com queda da prÍÂ³pria altura e dor no quadril, o local de fratura por fragilidade mais frequente ÍÂ©:",
-      "opcoes": [
-        "A) TÍÂ­bia proximal",
-        "B) Corpo do ÍÂ­lio",
-        "C) Patela",
-        "D) Colo do fÍÂªmur"
-      ],
-      "explicacao_geral": "Fraturas do colo femoral sÍÂ£o tÍÂ­picas em osteoporose apÍÂ³s trauma de baixa energia.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: nÃƒÂ£o ÃƒÂ© o sÃƒÂ­tio mais comum nesse cenÃƒÂ¡rio.",
-        "B": "Incorreta: possÃƒÂ­vel, porÃƒÂ©m menos tÃƒÂ­pico.",
-        "C": "Incorreta: mecanismo e epidemiologia diferentes.",
-        "D": "Correta: ÃƒÂ© o local clÃƒÂ¡ssico em fratura de quadril por fragilidade."
-      },
-      "explicacao": "Esse padrÍÂ£o tem grande impacto funcional e prognÍÂ³stico, exigindo diagnÍÂ³stico e manejo precoces.",
-      "essencial": false
-    },
-    {
-      "id": 5555,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 2,
-      "correta": 1,
-      "enunciado": "Na perna, qual osso suporta a maior parte da carga axial em ortostatismo?",
-      "opcoes": [
-        "A) FÍÂ­bula",
-        "B) TÍÂ­bia",
-        "C) CalcÍÂ¢neo",
-        "D) TÍÂ¡lus"
-      ],
-      "explicacao_geral": "A tÍÂ­bia ÍÂ© o principal osso de transmissÍÂ£o de carga da perna.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: fÃƒÂ­bula participa mais da estabilidade lateral.",
-        "B": "Correta: a carga axial principal passa pela tÃƒÂ­bia.",
-        "C": "Incorreta: calcÃƒÂ¢neo recebe carga no retropÃƒÂ©, nÃƒÂ£o substitui a tÃƒÂ­bia.",
-        "D": "Incorreta: tÃƒÂ¡lus participa da articulaÃƒÂ§ÃƒÂ£o do tornozelo, mas nÃƒÂ£o ÃƒÂ© o principal osso da perna."
-      },
-      "explicacao": "Diferenciar funÍÂ§ÍÂ£o de tÍÂ­bia e fÍÂ­bula ajuda na interpretaÍÂ§ÍÂ£o de padrÍÂµes de fratura e sobrecarga.",
-      "essencial": false
-    },
-    {
-      "id": 5556,
-      "materia": "bmf1",
-      "tema": "bmf1_a6",
-      "modulo": 1,
-      "dificuldade": 3,
-      "correta": 3,
-      "enunciado": "Comparando ombro e quadril, qual afirmaÍÂ§ÍÂ£o estÍÂ¡ correta?",
-      "opcoes": [
-        "A) Ombro ÍÂ© mais estÍÂ¡vel por ter cavidade mais profunda",
-        "B) Quadril apresenta maior amplitude global que o ombro",
-        "C) Ambos tÍÂªm estabilidade e mobilidade equivalentes",
-        "D) Ombro prioriza mobilidade; quadril prioriza estabilidade"
-      ],
-      "explicacao_geral": "A morfologia articular do ombro favorece amplitude, enquanto o quadril favorece contenÍÂ§ÍÂ£o.",
-      "explicacoes_opcoes": {
-        "A": "Incorreta: a cavidade glenoidal ÃƒÂ© relativamente rasa.",
-        "B": "Incorreta: o ombro costuma ter maior amplitude.",
-        "C": "Incorreta: hÃƒÂ¡ diferenÃƒÂ§a funcional importante entre eles.",
-        "D": "Correta: resume o principal contraste biomecÃƒÂ¢nico."
-      },
-      "explicacao": "A relaÍÂ§ÍÂ£o mobilidade-estabilidade explica a maior frequÍÂªncia de instabilidade glenoumeral em comparaÍÂ§ÍÂ£o ao quadril.",
       "essencial": false
     },
     {
