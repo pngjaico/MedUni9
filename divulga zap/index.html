@@ -205,45 +205,84 @@
             background-size: 60px 60px;
             opacity: 0.4;
         }
+
+        /* Floating Coupon Badge */
+        .coupon-float {
+            position: absolute;
+            top: 40px;
+            right: 40px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: #000;
+            padding: 15px 35px;
+            border-radius: 20px;
+            font-size: 32px;
+            font-weight: 900;
+            box-shadow: 0 15px 35px rgba(0, 242, 254, 0.3);
+            z-index: 100;
+            display: none;
+            transform: rotate(3deg);
+        }
+
+        .coupon-float span {
+            text-decoration: underline;
+        }
+
+        /* Responsive Scaler */
+        body {
+            overflow: hidden;
+            background: #000;
+        }
+        #card-scaler {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            height: 100vh;
+        }
+        .card {
+            flex-shrink: 0;
+            transform-origin: center center;
+        }
     </style>
 </head>
 <body>
-    <div class="card">
-        <div id="couponDisplay" class="coupon-float">CUPOM: <span id="couponText"></span></div>
-        <div class="pattern"></div>
-        
-        <div class="header">
-            <div class="logo">MEDGRAD<span>PLUS</span></div>
-        </div>
-
-        <div class="main-content">
-            <h1 class="headline">O FIM DO CONTEÚDO <span>GENÉRICO.</span></h1>
-            <p class="subheadline">Pare de estudar por materiais que não batem com a sua prova. Use a plataforma mapeada pelo plano de ensino da Uni9.</p>
+    <div id="card-scaler">
+        <div class="card">
+            <div id="couponDisplay" class="coupon-float">CUPOM: <span id="couponText"></span></div>
+            <div class="pattern"></div>
             
-            <div class="features-grid">
-                <div class="feature-box">
-                    <span class="feature-value">5.000+</span>
-                    <span class="feature-label">Questões</span>
+            <div class="header">
+                <div class="logo">MEDGRAD<span>PLUS</span></div>
+            </div>
+
+            <div class="main-content">
+                <h1 class="headline">O FIM DO CONTEÚDO <span>GENÉRICO.</span></h1>
+                <p class="subheadline">Pare de estudar por materiais que não batem com a sua prova. Use a plataforma mapeada pelo plano de ensino da Uni9.</p>
+                
+                <div class="features-grid">
+                    <div class="feature-box">
+                        <span class="feature-value">5.000+</span>
+                        <span class="feature-label">Questões</span>
+                    </div>
+                    <div class="feature-box">
+                        <span class="feature-value">4.000+</span>
+                        <span class="feature-label">Flashcards</span>
+                    </div>
                 </div>
-                <div class="feature-box">
-                    <span class="feature-value">4.000+</span>
-                    <span class="feature-label">Flashcards</span>
+
+                <div class="highlight-bar"></div>
+
+                <div class="benefits-list">
+                    <span class="benefit-tag">Resumos Pré-Prova</span>
+                    <span class="benefit-tag">Atlas Integrado</span>
+                    <span class="benefit-tag">App Mobile</span>
+                    <span class="benefit-tag">Questões Comentadas</span>
                 </div>
             </div>
 
-            <div class="highlight-bar"></div>
-
-            <div class="benefits-list">
-                <span class="benefit-tag">Resumos Pré-Prova</span>
-                <span class="benefit-tag">Atlas Integrado</span>
-                <span class="benefit-tag">App Mobile</span>
-                <span class="benefit-tag">Questões Comentadas</span>
-            </div>
-        </div>
-
-        <div class="bottom-section">
-            <div class="footer">
-            medgradplus.web.app
+            <div class="bottom-section">
+                <div class="free-test">TESTE O MODO GRATUITO</div>
+                <div style="font-size: 30px; opacity: 0.6; margin-top: 20px;">medgradplus.web.app</div>
             </div>
         </div>
     </div>
@@ -255,6 +294,14 @@
             document.getElementById('couponDisplay').style.display = 'block';
             document.getElementById('couponText').innerText = coupon.toUpperCase();
         }
+
+        function updateScale() {
+            const card = document.querySelector('.card');
+            const scale = Math.min(1, (window.innerWidth - 40) / 1080, (window.innerHeight - 40) / 1080);
+            card.style.transform = `scale(${scale})`;
+        }
+        window.addEventListener('resize', updateScale);
+        updateScale();
     </script>
 </body>
 </html>

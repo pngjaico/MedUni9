@@ -209,42 +209,97 @@
             background-size: 40px 40px;
             opacity: 0.5;
         }
+
+        /* Floating Coupon Badge */
+        .coupon-float {
+            position: absolute;
+            top: 40px;
+            right: 40px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: #000;
+            padding: 15px 35px;
+            border-radius: 20px;
+            font-size: 32px;
+            font-weight: 900;
+            box-shadow: 0 15px 35px rgba(94, 234, 212, 0.3);
+            z-index: 100;
+            display: none;
+            transform: rotate(-3deg);
+        }
+
+        /* Responsive Scaler */
+        body {
+            overflow: hidden;
+            background: #000;
+        }
+        #card-scaler {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            height: 100vh;
+        }
+        .card {
+            flex-shrink: 0;
+            transform-origin: center center;
+        }
     </style>
 </head>
 <body>
-    <div class="card">
-        <div class="pattern"></div>
-        
-        <div class="header">
-            <div class="logo">MEDGRAD<span>PLUS</span></div>
-        </div>
-
-        <div class="main-content">
-            <h1 class="headline">SUA NOTA MÁXIMA <span>COMEÇA AQUI.</span></h1>
-            <p class="subheadline">O Ciclo Básico completo (Módulo 1 ao Módulo 4) com tudo que você precisa para dominar as provas e atividades.</p>
+    <div id="card-scaler">
+        <div class="card">
+            <div id="couponDisplay" class="coupon-float">CUPOM: <span id="couponText"></span></div>
+            <div class="pattern"></div>
             
-            <div class="stats-row">
-                <div class="stat-badge">
-                    <span class="stat-value">22</span>
-                    <span class="stat-label">Disciplinas</span>
+            <div class="header">
+                <div class="logo">MEDGRAD<span>PLUS</span></div>
+            </div>
+
+            <div class="main-content">
+                <h1 class="headline">SUA NOTA MÁXIMA <span>COMEÇA AQUI.</span></h1>
+                <p class="subheadline">O Ciclo Básico completo (Módulo 1 ao Módulo 4) com tudo que você precisa para dominar as provas e atividades.</p>
+                
+                <div class="stats-row">
+                    <div class="stat-badge">
+                        <span class="stat-value">22</span>
+                        <span class="stat-label">Disciplinas</span>
+                    </div>
+                    <div class="stat-badge">
+                        <span class="stat-value">100%</span>
+                        <span class="stat-label">Mapeado</span>
+                    </div>
                 </div>
-                <div class="stat-badge">
-                    <span class="stat-value">100%</span>
-                    <span class="stat-label">Mapeado</span>
+
+                <div class="list-container">
+                    <div class="list-item"><i></i> Questões Comentadas</div>
+                    <div class="list-item"><i></i> Flashcards Inteligentes</div>
+                    <div class="list-item"><i></i> Atlas de Anatomia</div>
+                    <div class="list-item"><i></i> Suporte Mobile</div>
                 </div>
             </div>
 
-            <div class="list-container">
-                <div class="list-item"><i></i> Questões Comentadas</div>
-                <div class="list-item"><i></i> Flashcards Inteligentes</div>
-                <div class="list-item"><i></i> Atlas de Anatomia</div>
-                <div class="list-item"><i></i> Suporte Mobile</div>
+            <div class="bottom-section">
+                <div class="cta-text">DISPONÍVEL <span>GRATUITAMENTE</span></div>
+                <div style="font-size: 28px; opacity: 0.6; margin-top: 20px;">medgradplus.web.app</div>
             </div>
-        </div>
-
-        <div class="bottom-section">
-            <div class="cta-text">DISPONÍVEL <span>GRATUITAMENTE</span></div>
         </div>
     </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const coupon = urlParams.get('coupon');
+        if (coupon) {
+            document.getElementById('couponDisplay').style.display = 'block';
+            document.getElementById('couponText').innerText = coupon.toUpperCase();
+        }
+
+        function updateScale() {
+            const card = document.querySelector('.card');
+            const scale = Math.min(1, (window.innerWidth - 40) / 1080, (window.innerHeight - 40) / 1080);
+            card.style.transform = `scale(${scale})`;
+        }
+        window.addEventListener('resize', updateScale);
+        updateScale();
+    </script>
 </body>
 </html>
