@@ -12,8 +12,8 @@
     "criadoEm": "2026-03-15T09:00:00Z",
     "notas": "Promoção geral de 10% (máximo 100 usos)"
   },
-  "JOAOVI-2026-Y5EW": {
-    "codigo": "JOAOVI-2026-Y5EW",
+  "JOAO10": {
+    "codigo": "JOAO10",
     "tipo": "embaixador",
     "desconto_percentual": 0,
     "desconto_fixo": 0,
@@ -24,5 +24,44 @@
     "linkedToAmbassador": "emb_4vpguy5ew",
     "criadoEm": "2026-04-04T17:44:42.578Z",
     "notas": "Cupom embaixador de João Vitor Fiches Machado"
+  },
+  "GOMESDAVI": {
+    "codigo": "GOMESDAVI",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_lk0epjt5a",
+    "criadoEm": "2026-04-22T11:20:52.231Z",
+    "notas": "Cupom embaixador de Davizão"
+  },
+  "LUCENALEO": {
+    "codigo": "LUCENALEO",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_kf6xahvdh",
+    "criadoEm": "2026-04-22T11:26:15.904Z",
+    "notas": "Cupom embaixador de LEO LUCENA"
+  },
+  "ISAAC": {
+    "codigo": "ISAAC",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_2vtd4kzyr",
+    "criadoEm": "2026-04-22T11:34:44.016Z",
+    "notas": "Cupom embaixador de Isaac"
   }
 }

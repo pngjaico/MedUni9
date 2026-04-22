@@ -209,6 +209,7 @@
 </head>
 <body>
     <div class="card">
+        <div id="couponDisplay" class="coupon-float">CUPOM: <span id="couponText"></span></div>
         <div class="pattern"></div>
         
         <div class="header">
@@ -241,8 +242,19 @@
         </div>
 
         <div class="bottom-section">
-            <div class="free-test">MODO GRATUITO DISPONÍVEL</div>
+            <div class="footer">
+            medgradplus.web.app
+            </div>
         </div>
     </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const coupon = urlParams.get('coupon');
+        if (coupon) {
+            document.getElementById('couponDisplay').style.display = 'block';
+            document.getElementById('couponText').innerText = coupon.toUpperCase();
+        }
+    </script>
 </body>
 </html>

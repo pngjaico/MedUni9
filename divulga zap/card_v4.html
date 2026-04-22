@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedGradPlus Marketing Card V4 - Mobile</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #00D2FF;
+            --secondary: #3A7BD5;
+            --bg: #050505;
+            --card-glass: rgba(255, 255, 255, 0.03);
+            --border: rgba(255, 255, 255, 0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        body {
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .card {
+            width: 1080px;
+            height: 1080px;
+            background: var(--bg);
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            padding: 90px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+            color: white;
+            justify-content: space-between;
+        }
+
+        /* Gradient Orbs */
+        .orb {
+            position: absolute;
+            width: 600px;
+            height: 600px;
+            border-radius: 50%;
+            filter: blur(120px);
+            opacity: 0.2;
+            z-index: 1;
+        }
+        .orb-1 { top: -200px; left: -200px; background: var(--primary); }
+        .orb-2 { bottom: -200px; right: -200px; background: var(--secondary); }
+
+        .logo {
+            font-weight: 900;
+            font-size: 60px;
+            z-index: 10;
+            text-align: center;
+            letter-spacing: -2px;
+        }
+        .logo span { color: var(--primary); }
+
+        .content {
+            z-index: 10;
+            text-align: center;
+        }
+
+        .headline {
+            font-size: 90px;
+            font-weight: 900;
+            line-height: 1.1;
+            margin-bottom: 30px;
+        }
+
+        .headline span {
+            background: linear-gradient(to right, #00D2FF, #92FE9D);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .features {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+            max-width: 700px;
+            margin: 0 auto 50px auto;
+        }
+
+        .feature-row {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            font-size: 34px;
+            font-weight: 500;
+            background: var(--card-glass);
+            padding: 25px 40px;
+            border-radius: 25px;
+            border: 1px solid var(--border);
+            text-align: left;
+        }
+
+        .feature-icon {
+            font-size: 40px;
+            min-width: 60px;
+        }
+
+        .footer {
+            z-index: 10;
+            text-align: center;
+        }
+
+        .cta {
+            font-size: 42px;
+            font-weight: 800;
+            color: white;
+            margin-bottom: 10px;
+        }
+
+        .url {
+            font-size: 36px;
+            font-weight: 600;
+            color: var(--primary);
+            opacity: 0.8;
+        }
+
+        .coupon-badge {
+            position: absolute;
+            top: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 210, 255, 0.2);
+            border: 1px solid var(--primary);
+            padding: 8px 24px;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: 800;
+            display: none;
+            z-index: 20;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div id="couponDisplay" class="coupon-badge">CUPOM: <span id="couponText"></span></div>
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+
+        <div class="logo">MEDGRAD<span>PLUS</span></div>
+
+        <div class="content">
+            <h1 class="headline">A PLATAFORMA QUE <span>TE ENTENDE.</span></h1>
+            
+            <div class="features">
+                <div class="feature-row">
+                    <span class="feature-icon">🧠</span>
+                    <span>Repetição Espaçada Inteligente</span>
+                </div>
+                <div class="feature-row">
+                    <span class="feature-icon">📱</span>
+                    <span>No celular, tablet ou computador</span>
+                </div>
+                <div class="feature-row">
+                    <span class="feature-icon">📚</span>
+                    <span>Aulas mapeadas (BCM, SEMIO...)</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="cta">COMECE A ESTUDAR GRÁTIS</div>
+            <div class="url">medgradplus.web.app</div>
+        </div>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const coupon = urlParams.get('coupon');
+        if (coupon) {
+            document.getElementById('couponDisplay').style.display = 'block';
+            document.getElementById('couponText').innerText = coupon.toUpperCase();
+        }
+    </script>
+</body>
+</html>
