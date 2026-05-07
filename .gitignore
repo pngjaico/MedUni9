@@ -6,6 +6,13 @@ node_modules/
 $base/
 .gemini/
 
+# Pasta de legado do ciclo clinico (PDFs/docs/slides do aluno + provas antigas).
+# Inventario salvo em data/agent_logs/inventario_legado_*.json e versionado em
+# git lfs OU mantido apenas local (conforme volume). Conteudo bruto fica fora do repo.
+../Dados para expansão ciclo clinico/
+../legado_ciclo_clinico/
+legado_ciclo_clinico/
+
 # Secrets — NEVER commit
 .env
 .env.*

@@ -1,0 +1,124 @@
+{
+  "_meta": {
+    "descricao": "Biblioteca canônica de fontes confiáveis por área. Usada pelo agente camada 1 (geração) para citar com livro/edição corretos, e pelo agente camada 2 (revisor) para validar fontes citadas.",
+    "versao": "1.0.0",
+    "atualizado_em": "2026-05-07",
+    "regra_de_uso": "Sempre prefira fonte primária (diretriz oficial, sociedade) sobre livro-texto. Sempre prefira edição mais recente. Quando incerto da edição, escreva apenas o título do livro sem ano (ex.: 'Cecil-Goldman, capítulo de doença hepática crônica')."
+  },
+  "categorias": {
+    "clinica_medica": {
+      "livros_principais": [
+        {"titulo": "Cecil-Goldman Medicine", "edicao_recente": "26ª", "ano_recente": 2024, "editora": "Elsevier", "uso": "fonte primária para clínica geral, capítulos por sistema"},
+        {"titulo": "Harrison's Principles of Internal Medicine", "edicao_recente": "21ª", "ano_recente": 2022, "editora": "McGraw-Hill", "uso": "fonte secundária mais densa; bom para fisiopatologia"}
+      ],
+      "diretrizes_brasileiras": [
+        {"sociedade": "SBC", "tema": "HAS", "diretriz": "Diretriz Brasileira de Hipertensão Arterial 2020"},
+        {"sociedade": "SBC", "tema": "IC", "diretriz": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda 2018"},
+        {"sociedade": "SBC", "tema": "FA", "diretriz": "Diretriz de Fibrilação Atrial 2024"},
+        {"sociedade": "SBD", "tema": "DM", "diretriz": "Diretrizes da Sociedade Brasileira de Diabetes 2024-2025"},
+        {"sociedade": "SBN", "tema": "DRC", "diretriz": "Diretriz Brasileira de DRC; usar KDIGO como referência internacional"},
+        {"sociedade": "SBPT", "tema": "DPOC", "diretriz": "GOLD 2024 (referência internacional adotada no Brasil)"},
+        {"sociedade": "SBPT", "tema": "Asma", "diretriz": "GINA 2024"},
+        {"sociedade": "MS", "tema": "TB", "diretriz": "Manual de Recomendações para o Controle da Tuberculose, MS"},
+        {"sociedade": "MS", "tema": "HIV", "diretriz": "PCDT HIV em Adultos 2024"},
+        {"sociedade": "FEBRASGO", "tema": "Ginecologia", "diretriz": "Manuais e Protocolos FEBRASGO"},
+        {"sociedade": "SBP", "tema": "Pediatria", "diretriz": "Tratado de Pediatria SBP"}
+      ],
+      "diretrizes_internacionais": [
+        {"sociedade": "AHA/ACC", "tema": "SCA, IC", "url_base": "ahajournals.org"},
+        {"sociedade": "ESC", "tema": "FA, IC, SCA, valvopatias", "url_base": "escardio.org"},
+        {"sociedade": "KDIGO", "tema": "DRC, AKI", "url_base": "kdigo.org"},
+        {"sociedade": "GOLD", "tema": "DPOC", "url_base": "goldcopd.org"},
+        {"sociedade": "GINA", "tema": "Asma", "url_base": "ginasthma.org"},
+        {"sociedade": "IDSA", "tema": "Doenças infecciosas", "url_base": "idsociety.org"},
+        {"sociedade": "AASLD", "tema": "Hepatologia", "url_base": "aasld.org"}
+      ]
+    },
+    "cirurgia_geral": {
+      "livros_principais": [
+        {"titulo": "Sabiston Textbook of Surgery", "edicao_recente": "21ª", "ano_recente": 2022, "editora": "Elsevier", "uso": "fonte primária para cirurgia geral"},
+        {"titulo": "Schwartz's Principles of Surgery", "edicao_recente": "11ª", "ano_recente": 2019, "editora": "McGraw-Hill", "uso": "fonte secundária; bom para anatomia aplicada"},
+        {"titulo": "Tratado de Técnica Operatória — Goffi", "edicao_recente": "5ª", "ano_recente": 2019, "editora": "Atheneu", "uso": "técnica operatória, suturas, drenagens"}
+      ],
+      "diretrizes_brasileiras": [
+        {"sociedade": "SBCO", "tema": "Cirurgia oncológica", "diretriz": "Manual de condutas SBCO"},
+        {"sociedade": "CBC", "tema": "Cirurgia geral", "diretriz": "Colégio Brasileiro de Cirurgiões — guias"}
+      ],
+      "diretrizes_internacionais": [
+        {"sociedade": "WSES", "tema": "Emergência cirúrgica", "url_base": "wsesonline.com"},
+        {"sociedade": "SAGES", "tema": "Cirurgia minimamente invasiva", "url_base": "sages.org"}
+      ]
+    },
+    "trauma_emergencia_cirurgica": {
+      "livros_principais": [
+        {"titulo": "ATLS Student Course Manual", "edicao_recente": "10ª", "ano_recente": 2018, "editora": "American College of Surgeons", "uso": "fonte primária para trauma; protocolos atuais"},
+        {"titulo": "Tintinalli's Emergency Medicine", "edicao_recente": "9ª", "ano_recente": 2020, "editora": "McGraw-Hill", "uso": "emergência geral"}
+      ]
+    },
+    "ortopedia": {
+      "livros_principais": [
+        {"titulo": "Campbell's Operative Orthopaedics", "edicao_recente": "14ª", "ano_recente": 2020, "editora": "Elsevier"},
+        {"titulo": "Hebert — Ortopedia e Traumatologia", "edicao_recente": "5ª", "ano_recente": 2017, "editora": "Artmed"}
+      ],
+      "diretrizes_brasileiras": [
+        {"sociedade": "SBOT", "tema": "Ortopedia", "diretriz": "Diretrizes SBOT"}
+      ]
+    },
+    "pediatria": {
+      "livros_principais": [
+        {"titulo": "Nelson Textbook of Pediatrics", "edicao_recente": "21ª", "ano_recente": 2020, "editora": "Elsevier"},
+        {"titulo": "Tratado de Pediatria SBP", "edicao_recente": "5ª", "ano_recente": 2022, "editora": "Manole"}
+      ]
+    },
+    "farmacologia": {
+      "livros_principais": [
+        {"titulo": "Goodman & Gilman: The Pharmacological Basis of Therapeutics", "edicao_recente": "14ª", "ano_recente": 2022, "editora": "McGraw-Hill"},
+        {"titulo": "Katzung — Farmacologia Básica e Clínica", "edicao_recente": "15ª", "ano_recente": 2023, "editora": "AMGH"},
+        {"titulo": "Rang & Dale Farmacologia", "edicao_recente": "9ª", "ano_recente": 2020, "editora": "Elsevier"}
+      ],
+      "fontes_oficiais": [
+        {"orgao": "ANVISA", "tema": "Bulário", "url_base": "consultas.anvisa.gov.br/#/bulario"}
+      ]
+    },
+    "neurologia_psiquiatria": {
+      "livros_principais": [
+        {"titulo": "Adams and Victor's Principles of Neurology", "edicao_recente": "12ª", "ano_recente": 2023, "editora": "McGraw-Hill"},
+        {"titulo": "Kaplan & Sadock's Comprehensive Textbook of Psychiatry", "edicao_recente": "10ª", "ano_recente": 2017, "editora": "Wolters Kluwer"},
+        {"titulo": "DSM-5-TR", "edicao_recente": "DSM-5-TR", "ano_recente": 2022, "editora": "APA"}
+      ]
+    },
+    "imagem": {
+      "livros_principais": [
+        {"titulo": "Sutton — Textbook of Radiology and Imaging", "edicao_recente": "8ª", "ano_recente": 2019},
+        {"titulo": "Radiopaedia (online)", "url_base": "radiopaedia.org", "uso": "casos exemplares e descrição de achados"}
+      ]
+    },
+    "medicina_familia_aps": {
+      "livros_principais": [
+        {"titulo": "Tratado de Medicina de Família e Comunidade — SBMFC", "edicao_recente": "2ª", "ano_recente": 2018, "editora": "Artmed"},
+        {"titulo": "Cadernos de Atenção Básica — Ministério da Saúde", "url_base": "bvsms.saude.gov.br"}
+      ]
+    },
+    "bancos_questoes_residencia_publicos": [
+      {"banca": "ENARE", "url_base": "enare.gov.br", "tipo": "PDFs oficiais publicados após cada edição"},
+      {"banca": "USP-SP / FMUSP", "url_base": "fas.fm.usp.br", "tipo": "Arquivos institucionais"},
+      {"banca": "Unifesp / EPM", "url_base": "epm.unifesp.br", "tipo": "Arquivos institucionais"},
+      {"banca": "Einstein (HIAE)", "url_base": "einstein.br/ensino", "tipo": "Provas anteriores publicadas"},
+      {"banca": "AMRIGS", "url_base": "amrigs.org.br", "tipo": "Provas oficiais"},
+      {"banca": "Iamspe", "url_base": "iamspe.sp.gov.br", "tipo": "Provas oficiais"},
+      {"banca": "Comvest / Unicamp", "url_base": "comvest.unicamp.br", "tipo": "Arquivos públicos"}
+    ]
+  },
+  "edicoes_obsoletas_evitar": [
+    {"livro": "Cecil-Goldman", "edicao": "≤ 24ª", "motivo": "Várias diretrizes mudaram; preferir 25ª/26ª"},
+    {"livro": "Harrison", "edicao": "≤ 19ª", "motivo": "Várias atualizações; 20ª e 21ª trazem mudanças relevantes"},
+    {"livro": "Sabiston", "edicao": "≤ 19ª", "motivo": "Atualizações em oncologia cirúrgica e cirurgia minimamente invasiva"}
+  ],
+  "diretrizes_que_mudaram_recentemente": [
+    {"tema": "Sepse", "diretriz_atual": "Sepsis-3 (2016)", "obsoleta": "Sepsis-2", "impacto": "Definição usa qSOFA / SOFA, não SIRS isolada"},
+    {"tema": "Pancreatite", "diretriz_atual": "Atlanta revisada (2012)", "obsoleta": "Atlanta original (1992)", "impacto": "Classificação da gravidade e nomenclatura de coleções"},
+    {"tema": "DRC", "diretriz_atual": "KDIGO 2024", "obsoleta": "KDIGO 2012", "impacto": "Classificação por causa + GFR + albuminúria; recomendações de SGLT2"},
+    {"tema": "DM tipo 2", "diretriz_atual": "ADA 2024 / SBD 2024", "obsoleta": "Versões pré-SGLT2/GLP-1", "impacto": "SGLT2/GLP-1 como linha precoce em alto risco CV/renal"},
+    {"tema": "TB pulmonar", "diretriz_atual": "MS 2024 (esquema 6 meses 2RHZE/4RH)", "obsoleta": "Esquemas anteriores", "impacto": "Confirmar dose e duração com PCDT vigente"}
+  ]
+}

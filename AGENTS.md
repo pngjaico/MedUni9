@@ -30,10 +30,15 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 |----------|-------------------|
 | **Questões de Prova** | [prompts/gerar_questoes.md](prompts/gerar_questoes.md) |
 | Flashcards (`data/flashcards.json`) | [prompts/gerar_flashcards.md](prompts/gerar_flashcards.md) |
-| Materiais de apoio (`.md` de aula) | [prompts/gerar_materiais_apoio.md](prompts/gerar_materiais_apoio.md) |
+| Materiais de apoio — **Ciclo Básico (Mod 1–4)** | [prompts/gerar_materiais_apoio.md](prompts/gerar_materiais_apoio.md) |
+| Materiais de apoio — **Ciclo Clínico (Mod 5–8)** | [prompts/gerar_materiais_apoio_v3.md](prompts/gerar_materiais_apoio_v3.md) |
+| **Persona MedGradPlus (voz/tom/macetes)** | [prompts/persona_medgradplus.md](prompts/persona_medgradplus.md) |
 | **Curadoria de Negritos (Aesthetics)** | [prompts/padronizacao_negritos.md](prompts/padronizacao_negritos.md) |
+| **Plano-mestre Ciclo Clínico (handoff)** | [PLANO_CICLO_CLINICO.md](PLANO_CICLO_CLINICO.md) |
 
 Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** (métricas, estilo, JSON); em conflito, prevalece `gerar_questoes_flashcards.md`. **A negritagem estratégica é obrigatória para legibilidade.**
+
+**Para qualquer material do ciclo clínico (Mod 5–8):** ler **antes** `prompts/persona_medgradplus.md`, depois `prompts/gerar_materiais_apoio_v3.md`. O v2 (`gerar_materiais_apoio.md`) continua válido só para revisões do ciclo básico.
 
 ## Glossário mínimo
 

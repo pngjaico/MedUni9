@@ -1,0 +1,261 @@
+{
+  "_meta": {
+    "descricao": "Biblioteca canônica de macetes/mnemônicos consagrados em medicina. Usada pelo agente revisor clínico para validar macetes propostos no material.",
+    "versao": "1.0.0",
+    "atualizado_em": "2026-05-07",
+    "regra": "Adicionar SEMPRE com origem (banca/livro/sociedade) e referência. Se inventado pelo MedGradPlus, marcar 'origem': 'medgradplus' e validar antes de canonizar."
+  },
+  "macetes": [
+    {
+      "id": "child_pugh_beata",
+      "nome": "BEATA do Child-Pugh",
+      "tema": "cirrose",
+      "letras": [
+        {"letra": "B", "significado": "Bilirrubina"},
+        {"letra": "E", "significado": "Encefalopatia"},
+        {"letra": "A", "significado": "Ascite"},
+        {"letra": "T", "significado": "Tempo de protrombina (INR)"},
+        {"letra": "A", "significado": "Albumina"}
+      ],
+      "regra_pratica": "Cinco itens, cada um pontua 1 a 3. Soma 5–6 = A; 7–9 = B; 10–15 = C. Child A opera, Child C transplanta.",
+      "origem": "consagrado",
+      "fonte": "Cecil/Sabiston (capítulos de doença hepática crônica)",
+      "validado": true,
+      "tags": ["clinica_medica6", "cirrose", "hepatologia"]
+    },
+    {
+      "id": "mudpiles_acidose",
+      "nome": "MUDPILES",
+      "tema": "acidose metabólica com AG aumentado",
+      "letras": [
+        {"letra": "M", "significado": "Methanol (metanol)"},
+        {"letra": "U", "significado": "Uremia"},
+        {"letra": "D", "significado": "DKA / Diabetic ketoacidosis"},
+        {"letra": "P", "significado": "Paraldehyde / Propylene glycol"},
+        {"letra": "I", "significado": "Iron / Isoniazid (INH)"},
+        {"letra": "L", "significado": "Lactate (lactato)"},
+        {"letra": "E", "significado": "Ethylene glycol"},
+        {"letra": "S", "significado": "Salicylates"}
+      ],
+      "regra_pratica": "Diante de acidose metabólica com ânion-gap aumentado, percorrer MUDPILES como diferencial.",
+      "origem": "consagrado_internacional",
+      "fonte": "Tintinalli, Harrison",
+      "validado": true,
+      "tags": ["ecl8", "acidose", "emergencia"]
+    },
+    {
+      "id": "6ps_isquemia_aguda",
+      "nome": "6 P's da isquemia arterial aguda",
+      "tema": "isquemia arterial aguda de membro",
+      "letras": [
+        {"letra": "P", "significado": "Pain (dor)"},
+        {"letra": "P", "significado": "Pallor (palidez)"},
+        {"letra": "P", "significado": "Pulselessness (ausência de pulso)"},
+        {"letra": "P", "significado": "Paresthesia (parestesia)"},
+        {"letra": "P", "significado": "Paralysis (paralisia)"},
+        {"letra": "P", "significado": "Poikilothermia (frio)"}
+      ],
+      "regra_pratica": "Os 3 primeiros são precoces; os 3 últimos marcam necrose iminente. Tempo de viabilidade tecidual: 6h.",
+      "origem": "consagrado_internacional",
+      "fonte": "Sabiston (cirurgia vascular)",
+      "validado": true,
+      "tags": ["cirurgia_vascular", "eci8", "emergencia"]
+    },
+    {
+      "id": "abcde_atls",
+      "nome": "ABCDE do trauma (ATLS)",
+      "tema": "avaliação primária do politraumatizado",
+      "letras": [
+        {"letra": "A", "significado": "Airway com proteção da coluna cervical"},
+        {"letra": "B", "significado": "Breathing"},
+        {"letra": "C", "significado": "Circulation com controle de hemorragia"},
+        {"letra": "D", "significado": "Disability (avaliação neurológica — Glasgow + pupilas)"},
+        {"letra": "E", "significado": "Exposure / controle de hipotermia"}
+      ],
+      "regra_pratica": "Avaliação sistemática SEMPRE nessa ordem. Não progrida sem resolver o passo anterior.",
+      "origem": "consagrado_internacional",
+      "fonte": "ATLS 10ª ed. (American College of Surgeons)",
+      "validado": true,
+      "tags": ["eci8", "trauma", "atls", "emergencia"]
+    },
+    {
+      "id": "chads2vasc_fa",
+      "nome": "CHA₂DS₂-VASc",
+      "tema": "risco tromboembólico em fibrilação atrial",
+      "letras": [
+        {"letra": "C", "significado": "Congestive heart failure (1)"},
+        {"letra": "H", "significado": "Hypertension (1)"},
+        {"letra": "A2", "significado": "Age ≥ 75 anos (2)"},
+        {"letra": "D", "significado": "Diabetes mellitus (1)"},
+        {"letra": "S2", "significado": "Stroke / TIA / TEV prévios (2)"},
+        {"letra": "V", "significado": "Vascular disease (1)"},
+        {"letra": "A", "significado": "Age 65–74 (1)"},
+        {"letra": "Sc", "significado": "Sex category (feminino, 1)"}
+      ],
+      "regra_pratica": "Score ≥ 2 em homens ou ≥ 3 em mulheres = anticoagulação plena. Score 1 = avaliar individualmente.",
+      "origem": "consagrado_internacional",
+      "fonte": "ESC, AHA/ACC",
+      "validado": true,
+      "tags": ["cardiologia", "fa", "anticoagulacao"]
+    },
+    {
+      "id": "hasbled",
+      "nome": "HAS-BLED",
+      "tema": "risco de sangramento em pacientes anticoagulados",
+      "letras": [
+        {"letra": "H", "significado": "Hypertension (PA > 160 sistólica)"},
+        {"letra": "A", "significado": "Abnormal renal/liver function (1 cada)"},
+        {"letra": "S", "significado": "Stroke prévio"},
+        {"letra": "B", "significado": "Bleeding history or predisposition"},
+        {"letra": "L", "significado": "Labile INR"},
+        {"letra": "E", "significado": "Elderly (>65)"},
+        {"letra": "D", "significado": "Drugs/alcohol (AAS, AINE, álcool — 1 cada)"}
+      ],
+      "regra_pratica": "Score ≥ 3 = alto risco de sangramento; reavaliar mas não contraindica anticoagulação.",
+      "origem": "consagrado_internacional",
+      "fonte": "ESC",
+      "validado": true,
+      "tags": ["cardiologia", "anticoagulacao", "fa"]
+    },
+    {
+      "id": "bisap_pancreatite",
+      "nome": "BISAP",
+      "tema": "gravidade da pancreatite aguda",
+      "letras": [
+        {"letra": "B", "significado": "BUN > 25 mg/dL"},
+        {"letra": "I", "significado": "Impaired mental status"},
+        {"letra": "S", "significado": "SIRS"},
+        {"letra": "A", "significado": "Age > 60 anos"},
+        {"letra": "P", "significado": "Pleural effusion"}
+      ],
+      "regra_pratica": "Cada item 1 ponto. Score ≥ 3 = pancreatite grave; mortalidade aumentada.",
+      "origem": "consagrado_internacional",
+      "fonte": "Sabiston, Cecil",
+      "validado": true,
+      "tags": ["cirurgia_geral", "pancreatite", "cir6"]
+    },
+    {
+      "id": "rockall_hda",
+      "nome": "Rockall",
+      "tema": "risco em hemorragia digestiva alta",
+      "letras": [],
+      "regra_pratica": "Score que combina idade, comorbidade, sinais de choque, achado endoscópico e estigmas de sangramento recente. Estratifica risco de ressangramento e mortalidade.",
+      "origem": "consagrado_internacional",
+      "fonte": "Sabiston (capítulo HDA)",
+      "validado": true,
+      "tags": ["cirurgia_geral", "hda", "cir6"]
+    },
+    {
+      "id": "wells_tep",
+      "nome": "Wells (TEP)",
+      "tema": "probabilidade pré-teste de embolia pulmonar",
+      "letras": [],
+      "regra_pratica": "≤ 4 pontos: TEP improvável → D-dímero. > 4: TEP provável → angio-TC direto.",
+      "origem": "consagrado_internacional",
+      "fonte": "ESC, Tintinalli",
+      "validado": true,
+      "tags": ["pneumologia", "tep", "ecl8"]
+    },
+    {
+      "id": "wells_tvp",
+      "nome": "Wells (TVP)",
+      "tema": "probabilidade pré-teste de trombose venosa profunda",
+      "letras": [],
+      "regra_pratica": "Diferente do Wells de TEP — não confundir. Estratifica em improvável / provável → conduta com USG ou D-dímero.",
+      "origem": "consagrado_internacional",
+      "fonte": "Tintinalli",
+      "validado": true,
+      "tags": ["pneumologia", "tvp", "ecl8"]
+    },
+    {
+      "id": "centor_mcisaac",
+      "nome": "Centor / McIsaac",
+      "tema": "probabilidade de faringite estreptocócica",
+      "letras": [
+        {"letra": "1", "significado": "Tonsila com exsudato"},
+        {"letra": "2", "significado": "Adenopatia cervical anterior"},
+        {"letra": "3", "significado": "Febre > 38°C"},
+        {"letra": "4", "significado": "Ausência de tosse"},
+        {"letra": "+", "significado": "McIsaac adiciona idade: < 15 anos +1, > 45 anos -1"}
+      ],
+      "regra_pratica": "Score ≥ 4 = tratar empiricamente com penicilina. < 2 = não rastrear estreptococo.",
+      "origem": "consagrado_internacional",
+      "fonte": "IDSA, MS-PCDT (faringite)",
+      "validado": true,
+      "tags": ["mfc", "infectologia", "cm5"]
+    },
+    {
+      "id": "light_transudato_exsudato",
+      "nome": "Critérios de Light",
+      "tema": "transudato vs exsudato em derrame pleural",
+      "letras": [
+        {"letra": "1", "significado": "Proteína líquido / soro > 0,5"},
+        {"letra": "2", "significado": "LDH líquido / soro > 0,6"},
+        {"letra": "3", "significado": "LDH líquido > 2/3 do limite superior do normal sérico"}
+      ],
+      "regra_pratica": "Se UM critério positivo = exsudato. Nenhum = transudato. Excelente sensibilidade, baixa especificidade.",
+      "origem": "consagrado_internacional",
+      "fonte": "Cecil, Tintinalli",
+      "validado": true,
+      "tags": ["pneumologia", "derrame_pleural", "cm6"]
+    },
+    {
+      "id": "meld_cirrose",
+      "nome": "MELD / MELD-Na",
+      "tema": "estratificação de gravidade na cirrose / lista de transplante",
+      "letras": [],
+      "regra_pratica": "Calcula com bilirrubina, INR, creatinina (e sódio no MELD-Na). Score ≥ 15 = considerar transplante. Score ≥ 22 = mortalidade 3 meses elevada.",
+      "origem": "consagrado_internacional",
+      "fonte": "AASLD, OPTN",
+      "validado": true,
+      "tags": ["clinica_medica6", "cirrose", "hepatologia"]
+    },
+    {
+      "id": "apgar_rn",
+      "nome": "APGAR",
+      "tema": "avaliação do recém-nascido",
+      "letras": [
+        {"letra": "A", "significado": "Aparência (cor)"},
+        {"letra": "P", "significado": "Pulso (FC)"},
+        {"letra": "G", "significado": "Grimace (irritabilidade reflexa)"},
+        {"letra": "A", "significado": "Atividade (tônus muscular)"},
+        {"letra": "R", "significado": "Respiração"}
+      ],
+      "regra_pratica": "Cada item 0–2. Avalia 1 e 5 min após nascimento. < 7 aos 5 min = reanimação.",
+      "origem": "consagrado_internacional",
+      "fonte": "Nelson Pediatria",
+      "validado": true,
+      "tags": ["pediatria", "neonatal"]
+    },
+    {
+      "id": "heart_score",
+      "nome": "HEART score",
+      "tema": "estratificação de risco em dor torácica na emergência",
+      "letras": [
+        {"letra": "H", "significado": "História (típica/atípica)"},
+        {"letra": "E", "significado": "ECG"},
+        {"letra": "A", "significado": "Age (idade)"},
+        {"letra": "R", "significado": "Risk factors"},
+        {"letra": "T", "significado": "Troponina"}
+      ],
+      "regra_pratica": "0–3 = baixo risco (alta segura); 4–6 = intermediário (observação); ≥ 7 = alto (cateterismo).",
+      "origem": "consagrado_internacional",
+      "fonte": "ESC, ACC",
+      "validado": true,
+      "tags": ["cardiologia", "sca", "emergencia", "ecl8"]
+    },
+    {
+      "id": "_template_macete_novo",
+      "nome": "MEDGRADPLUS — [nome do macete]",
+      "tema": "[tema curto]",
+      "letras": [
+        {"letra": "X", "significado": "[o que cada letra representa]"}
+      ],
+      "regra_pratica": "[a regra de plantão / prova que o macete resume]",
+      "origem": "medgradplus",
+      "fonte": "[se baseado em livro/diretriz, citar]",
+      "validado": false,
+      "tags": []
+    }
+  ]
+}
