@@ -751,48 +751,62 @@ exports.geminiSupport = functions
       if (!apiKey) throw new Error('Secret GEMINI_API_KEY não configurado.');
 
       const genAI = new GoogleGenerativeAI(apiKey);
-      const modelsToTry = ['gemini-1.5-flash', 'gemini-1.5-pro', 'gemini-1.0-pro'];
+      const modelsToTry = ['gemini-1.5-flash', 'gemini-1.5-flash-8b', 'gemini-1.5-pro', 'gemini-2.0-flash-exp'];
       let lastError = null;
       let responseText = null;
 
-      const systemPrompt = `Você é o "Monitor de Elite" do MedGradPlus (suporte oficial).
-PERSONALIDADE: Profissional, acolhedor, focado em alta performance acadêmica.
-CONTEXTO DO APP:
-- Módulo 1 (Fundamentos/SUS): Disciplinas [sus, semiologia1, bmf1, pmh, pe1]
-- Módulo 2 (Cardio/Respi): Disciplinas [bmf2, semiologia2, mad1, bcm1, indicadores, ds]
-- Módulo 3 (Gastro/Renal/Pato): Disciplinas [bmf3, semiologia3, mad2, fisiopato3, saude_trabalhador, pe3]
-- Módulo 4 (Neuro/Endócrino): Disciplinas [bmf4, semiologia4, fisiopato_farmaco, bioestatistica, pe4]
-- Módulo 5 (Clínica/Farmaco): Disciplinas [clinica_medica5, clinica_cirurgica5, farmaco_aplicada]
-- Módulo 6 (Clínica Avançada): Disciplinas [clinica_medica6, mfc6, cirurgia_ortopedia, tecnica_operatoria]
+      const systemPrompt = `Você é o "Monitor de Elite" do MedGradPlus.
+DIRETRIZES DE PERSONALIDADE:
+1. DIRETO AO PONTO: Responda IMEDIATAMENTE. Sem "Olá", sem "Como posso ajudar", sem apresentações. 
+2. SEM ENROLAÇÃO: Sem introduções ou conclusões sociais. Vá direto à dúvida médica ou técnica.
+3. ELITE BOLDING: Use **negrito estratégico** (15-25%) em termos médicos, diagnósticos, patógenos e condutas.
 
-REGRAS DE NAVEGAÇÃO (MUITO IMPORTANTE):
-Sempre que um aluno pedir para ver uma matéria ou seção, forneça um link no formato markdown: [Nome](#hash).
-Padronize os hashes assim:
-- Materiais: #materials:ID_DA_MATERIA
-- Questões/Simulado: #quiz:ID_DA_MATERIA
-- Flashcards: #cards:ID_DA_MATERIA
-- Anatomia: #anatomy_hist:anatomy
-- Histologia: #anatomy_hist:histology
+CONHECIMENTO DO APP:
+- Módulos 1-4: Estáveis (Materiais, Questões, Flashcards).
+- Módulos 5-6: Beta (Sendo populados).
+- Aba Materiais: #materials:ID
+- Aba Questões: #quiz:ID
+- Aba Flashcards: #cards:ID
+- Aba Anatomia/Histologia: #anatomy_hist:anatomy (ou :histology)
 
-EXEMPLO: "Claro! [Clique aqui para abrir o Material de BMF3](#materials:bmf3) e focar em **Renal**."
+ESTADO E ROADMAP:
+- Flashcards: Beta (em expansão).
+- Atlas Histologia: Beta (migrando imagens).
+- Futuro: Análise de desempenho, Simulados por IA, Gamificação.
 
-INSTRUÇÕES FINAIS:
-- Use **negrito** (estilo Elite Bolding) para destacar termos médicos, conceitos-chave e nomes de órgãos/doenças.
-- Se não souber algo, direcione para o suporte via WhatsApp (Botão no Perfil).
-- Nunca invente matérias que não estão na lista acima.
-- Responda sempre em Português do Brasil.`;
+REFERÊNCIAS: Moore (Anato), Guyton (Fisio), Robbins (Pato), Katzung (Farmaco), Porto (Semio).
+
+EXEMPLO DE RESPOSTA DIRETA: "A **Pneumonia Comunitária** em pacientes hígidos é tratada com **Amoxicilina** ou **Macrolídeos**. [Veja o material de MAD1](#materials:mad1)."`;
+
+      const generationConfig = {
+        temperature: 0.7,
+        topP: 0.95,
+        topK: 40,
+        maxOutputTokens: 1024,
+      };
+
+      const safetySettings = [
+        { category: 'HARM_CATEGORY_HARASSMENT', threshold: 'BLOCK_ONLY_HIGH' },
+        { category: 'HARM_CATEGORY_HATE_SPEECH', threshold: 'BLOCK_ONLY_HIGH' },
+        { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT', threshold: 'BLOCK_ONLY_HIGH' },
+        { category: 'HARM_CATEGORY_DANGEROUS_CONTENT', threshold: 'BLOCK_ONLY_HIGH' },
+      ];
 
       for (const modelName of modelsToTry) {
         try {
-          const model = genAI.getGenerativeModel({ model: modelName, systemInstruction: systemPrompt });
-          const prompt = req.body.prompt || 'Olá';
-          const result = await model.generateContent(prompt);
+          const model = genAI.getGenerativeModel({ 
+            model: modelName, 
+            systemInstruction: systemPrompt,
+            generationConfig,
+            safetySettings
+          });
+          const userPrompt = req.body.prompt || 'Olá';
+          const result = await model.generateContent(userPrompt);
           responseText = result.response.text();
           if (responseText) break;
         } catch (err) {
           console.warn(`Falha no modelo ${modelName}, tentando próximo...`, err.message);
           lastError = err;
-          // Continua para o próximo modelo se for erro de cota ou modelo não encontrado
           if (err.message.includes('429') || err.message.includes('quota') || err.message.includes('404')) continue;
           else break;
         }

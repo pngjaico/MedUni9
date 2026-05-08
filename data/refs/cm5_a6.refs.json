@@ -1,0 +1,31 @@
+{
+  "aula_id": "cm5_a6",
+  "materia": "clinica_medica5",
+  "tema": "Síndrome Metabólica e Diabetes Mellitus",
+  "generatedAt": "2026-05-07T19:40:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a6",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Tema centrado em critérios, conduta e estratificação cardio-renal; imagem Wikimedia disponível tenderia a ser decorativa, não essencial."
+  },
+  "fontes_base": [
+    {
+      "tipo": "diretriz",
+      "titulo": "American Diabetes Association - Standards of Care in Diabetes 2026",
+      "url": "https://professional.diabetes.org/standards-of-care/practice-guidelines-resources",
+      "uso": "diagnóstico, metas, tratamento por comorbidades, risco cardiovascular e renal."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "Sociedade Brasileira de Diabetes - Diagnóstico de diabetes mellitus, Diretriz 2024/2025",
+      "url": "https://diretriz.diabetes.org.br/diagnostico-de-diabetes-mellitus/",
+      "uso": "critérios diagnósticos no Brasil e rastreio."
+    },
+    {
+      "tipo": "consenso",
+      "titulo": "International Diabetes Federation - Worldwide definition of the metabolic syndrome",
+      "url": "https://idf.org/about-diabetes/resources/idf-consensus-worldwide-definition-of-the-metabolic-syndrome/",
+      "uso": "componentes de síndrome metabólica e risco cardiometabólico."
+    }
+  ]
+}

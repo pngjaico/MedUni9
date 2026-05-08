@@ -4,24 +4,6 @@
 
 A **Farmacocinética** é o pilar fundamental para a compreensão da dose-resposta e da segurança terapêutica. Para o acadêmico de medicina, dominar o acrônimo **ADME** (Absorção, Distribuição, Metabolismo e Excreção) não é apenas memorizar processos, mas prever como falhas orgânicas (como insuficiência renal ou hepática) exigem **ajustes posológicos** críticos para evitar a toxicidade ou a falha do tratamento.
 
----
-
-## 1. Transporte Através de Membranas
-
-A maioria dos fármacos atravessa as membranas celulares por **difusão passiva**. A velocidade desse transporte é regida pela **Lei de Fick** e pela lipossolubilidade da molécula.
-
-### O Papel do pKa e do pH
-De acordo com a equação de **Henderson-Hasselbalch**, fármacos que são ácidos fracos (ex: AAS) são melhor absorvidos em meios ácidos (estômago), pois permanecem na forma **não ionizada** (lipossolúvel). Já bases fracas (ex: anfetaminas) são melhor absorvidas em meios básicos (intestino).
-
-### Figura sugerida
-**Figura-ID:** FARM-A1-F01
-- **Descrição Técnica:** Esquema mostrando a bicamada lipídica com moléculas atravessando via difusão passiva, transporte facilitado (canais) e transporte ativo (gasto de ATP). Destacar a diferença entre formas ionizadas e não ionizadas.
-- **Busca Commons (PT):** Transporte de membrana celular difusão
-- **Busca Commons (EN):** Cell membrane transport drug diffusion diagram
-- **Legenda Rascunho:** Mecanismos de transporte transmembrana: a lipossolubilidade e o estado de ionização determinam a passagem passiva.
-
----
-
 ## 2. Absorção e Biodisponibilidade
 
 A **Absorção** é a transferência do fármaco do local de administração para a circulação sistêmica.
@@ -35,19 +17,6 @@ A **Absorção** é a transferência do fármaco do local de administração par
 - **Busca Commons (PT):** Metabolismo de primeira passagem fígado
 - **Busca Commons (EN):** First pass effect drug metabolism liver
 - **Legenda Rascunho:** O Ciclo de Primeira Passagem reduz a biodisponibilidade de diversos fármacos administrados por via oral.
-
----
-
-## 3. Distribuição e Volume de Distribuição (Vd)
-
-Uma vez no sangue, o fármaco se distribui pelos tecidos.
-
-- **Ligação a Proteínas**: A **Albumina** é a principal proteína de ligação para ácidos fracos. Apenas a **fração livre** do fármaco é farmacologicamente ativa e capaz de ser metabolizada/excretada.
-- **Volume de Distribuição (Vd)**: Um parâmetro teórico que relaciona a quantidade de fármaco no corpo com sua concentração plasmática ($Vd = Dose / C$). 
-    - **Vd Baixo**: Fármaco retido no compartimento vascular (ex: varfarina).
-    - **Vd Alto**: Fármaco acumulado em tecidos periféricos ou gordura (ex: digoxina, cloroquina).
-
----
 
 ## 4. Metabolismo (Biotransformação)
 
@@ -65,34 +34,6 @@ O objetivo é tornar o fármaco mais **hidrossolúvel** para facilitar a excreç
 - **Busca Commons (PT):** Metabolismo de fármacos fase I e II
 - **Busca Commons (EN):** Drug metabolism phase I phase II biotransformation
 - **Legenda Rascunho:** A biotransformação hepática converte compostos lipofílicos em hidrofílicos.
-
----
-
-## 5. Excreção e Depuração (Clearance)
-
-A principal via é a **Renal**.
-
-- **Filtração Glomerular**: Apenas fármacos livres (não ligados a proteínas) são filtrados.
-- **Meia-vida ($t_{1/2}$)**: Tempo necessário para que a concentração plasmática caia pela metade. São necessários cerca de **4 a 5 meias-vidas** para atingir o **Estado de Equilíbrio (Steady State)**.
-- **Depuração (Clearance)**: O volume de plasma depurado do fármaco por unidade de tempo.
-
----
-
-## Ponte com a Clínica
-
-Na **Insuficiência Renal**, a depuração de fármacos como a **Gentamicina** ou **Digoxina** cai drasticamente. Se a dose não for ajustada com base no **Clearance de Creatinina**, o paciente desenvolverá nefrotoxicidade e ototoxicidade (Gentamicina) ou arritmias fatais (Digoxina).
-
----
-
-## Pontos-Chave para Prova
-
-- **Biodisponibilidade (F)** é 100% na via **IV**.
-- Fármacos **ácidos** são melhor absorvidos no **estômago** (meio ácido).
-- O **Volume de Distribuição (Vd)** alto indica que o fármaco está nos **tecidos**, não no sangue.
-- **Fase I** do metabolismo usa o sistema **Citocromo P450**.
-- São necessários **4-5 meias-vidas** para atingir o **Steady State**.
-
----
 
 ## Mini Quiz
 

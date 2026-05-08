@@ -89,5 +89,18 @@
     "linkedToAmbassador": "emb_wu9jxy84f",
     "criadoEm": "2026-04-22T11:42:22.331Z",
     "notas": "Cupom embaixador de Bernardão"
+  },
+  "SHEAR": {
+    "codigo": "SHEAR",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_mp19lvgbs",
+    "criadoEm": "2026-04-22T14:14:42.105Z",
+    "notas": "Cupom embaixador de Shearlley"
   }
 }

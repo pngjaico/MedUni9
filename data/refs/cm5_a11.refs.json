@@ -1,0 +1,38 @@
+{
+  "aula_id": "cm5_a11",
+  "materia": "clinica_medica5",
+  "tema": "Cefaleia",
+  "generatedAt": "2026-05-07T23:35:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Cefaleia depende de algoritmo de red flags e decisão de neuroimagem; imagem anatômica genérica não melhora a aula."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "International Headache Society. ICHD-3 - International Classification of Headache Disorders.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "NICE. Headaches in over 12s: diagnosis and management (CG150).",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "ACR. Appropriateness Criteria: Headache, 2022.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de cefaleias.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de neurologia clínica.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

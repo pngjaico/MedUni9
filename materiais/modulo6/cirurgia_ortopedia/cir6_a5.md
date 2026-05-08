@@ -3,46 +3,11 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-A **pancreatite aguda** é inflamação pancreática com dor epigástrica intensa e elevação de **lipase** (mais específica que amilase). Causas clássicas: **biliar**, **alcoólica**, **hipertrigliceridemia**, **pós-ERCP**, **trauma**, **medicamentos**. Em prova, destacam-se **critérios de gravidade** (BISAP, Ranson conceitual), **TC** para necrose/complicações, **hidratação** agressiva, **nutrição enteral** quando necessária e **papel cirúrgico/radiológico** em necrose infectada.
-
----
-
 ## Fisiopatologia (por que fica grave?)
 
 Autodigestão por ativação enzimática → **edema intersticial** ou **necrose**. **SIRS** e falência orgânica definem gravidade. Coleções peripancreáticas podem evoluir para **necrose infectada**, **pseudoquisto** ou **fístulas**.
 
 > **Pegadinha:** Em **pancreatite crônica** avançada, a lipase pode não estar altíssima — **imagem** e contexto importam.
-
----
-
-## Diagnóstico clínico-laboratorial
-
-- Dor **em faixa** epigástrica irradiando ao dorso; alívio parcial com posição antálgica.  
-- **Lipase** elevada (múltiplo do limite superior — usar referência local).  
-- Excluir **perfuração péptica**, **IAM**, **cólica biliar** isolada.
-
-### Critérios de gravidade (visão de prova)
-
-| Ferramenta | O que mede | Uso prático |
-|------------|------------|-------------|
-| **BISAP** | BUN, alteração mental, SIRS, idade, derrame | Rápido à admissão |
-| **Ranson** | Parâmetros 0h e 48h | Clássico didático |
-| **CT com contraste** | Necrose, complicações | Após 48–72h se dúvida |
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A5-F01`
-
-- **Momento:** após critérios de gravidade (imagem da pancreatite exsudativa).
-- **O que mostrar:** **TC axial** com pancreatite aguda e líquido peripancreático.
-- **Tipo sugerido:** imagem tomográfica real.
-- **Legenda (rascunho):** Pancreatite aguda exsudativa ao TC (líquido peripancreático).
-
----
 
 ## Tratamento inicial e suporte
 
@@ -61,34 +26,9 @@ Início precoce de **via oral** quando tolerado. Se íleo prolongado, **nutriç�
 - **Tipo sugerido:** TC com legenda anatômica.
 - **Legenda (rascunho):** Pseudoquisto pancreático ao TC (relação com estômago).
 
----
-
-## Complicações e papel da intervenção
-
-**Síndrome compartimental**, **coleções infectadas**, **pseudoaneurisma** (ex.: artéria esplênica), **fístulas**. Necrosectomia minimamente invasiva ou drenagem percutânea em centros especializados — **laparotomia “descompressiva”** é exceção.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A5-F03`
-
-- **Momento:** após menção ao escore de **Balthazar** / necrose na TC.
-- **O que mostrar:** **TC** com contraste evidenciando **necrose pancreática** ou painel esquemático dos graus de Balthazar (se optar por figura composta).
-- **Tipo sugerido:** tomografia exemplo **ou** esquema didático dos graus.
-- **Legenda (rascunho):** Pancreatite necrotizante: TC com áreas não realçadas (necrose).
-
----
-
 ## Pancreatite biliar com colangite
 
 Se houver **obstrução biliar persistente** e critérios de colangite, **CPRE** urgente entra na equação — **não** adie apenas “porque já há pancreatite”.
-
----
-
-## Ponte com a Clínica
-
-Paciente com **taquicardia desproporcional**, **oligúria** e dor intensa pertence a monitorização adequada — pancreatite “leve” no papel pode ser **grave** na evolução.
-
----
 
 ## Pontos-Chave para Prova
 

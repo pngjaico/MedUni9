@@ -3,14 +3,6 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-A **doença do refluxo gastroesofágico (DRGE)** é refluxo de conteúdo gástrico com sintomas e/ou lesões. **Acalásia** e **distúrbios de motilidade** primários alteram o esvaziamento esofágico. O cirurgião aborda **hérnia hiatal**, **fundoplicatura** em casos selecionados e **miotomia** (Heller, **POEM**) na acalásia. Em prova, dominam **alarmes**, **classificação de Los Angeles**, **pHmetria/impedâniometria**, **manometria** e critérios de **indicação cirúrgica**.
-
----
-
 ## DRGE — diagnóstico e estratificação
 
 Sintomas típicos: **pirose**, regurgitação. Atípicos: tosse crônica, rouquidão, dor torácica. **PPI** em teste terapêutico pode ajudar, mas **alarmes** exigem **endoscopia**: disfagia, sangramento, emagrecimento, idade avançada.
@@ -28,63 +20,13 @@ Esofagite erosiva, **estenose** péptica, **Barrett** (metaplasia — programa d
 - **Tipo sugerido:** diagrama médico (Blausen ou equivalente).
 - **Legenda (rascunho):** Hérnia hiatal: deslizamento do estômago pelo hiato.
 
----
-
-## Exames complementares na DRGE
-
-- **Endoscopia** com biopsias se Barrett suspeito.  
-- **pHmetria** e **impedâniometria** em casos complexos ou pré-operatório.  
-- **Manometria** **antes** de fundoplicatura para excluir motilidade grave.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A7-F02`
-
-- **Momento:** após complicações / esofagite grave (correlação radiológica).
-- **O que mostrar:** **radiografia** com contraste mostrando **refluxo** esofagogástrico (ex.: estudo com bário).
-- **Tipo sugerido:** RX com contraste.
-- **Legenda (rascunho):** Estudo contrastado: refluxo gastroesofágico evidente.
-
----
-
 ## Tratamento clínico x cirúrgico
 
 **Medidas** (peso, horários, elevação cabeceira), **PPI** em doses adequadas. **Cirurgia** (fundoplicatura laparoscópica) para **bem selecionados**: boa resposta a PPI, achados objetivos de refluxo, **sem** dismotilidade esofágica grave.
 
----
-
-## Acalásia e outros distúrbios motores
-
-### Acalásia
-
-**Disfagia** para sólidos e líquidos, regurgitação não ácida, perda ponderal. **Radiografia:** achatamento distal com **bico de pássaro**. **Manometria:** aperistalse e **falha de relaxamento** do EEI.
-
-### Tratamentos
-
-**Cardiomiotomia de Heller** + fundoplicatura parcial; **dilatação pneumática**; **POEM** em centros; **toxina botulínica** paliativa.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A7-F03`
-
-- **Momento:** após acalásia (diagnóstico por estudo contrastado).
-- **O que mostrar:** série radiológica de **deglutição com bário** com dilatação esofágica e estreitamento distal (padrão de **acalásia**).
-- **Tipo sugerido:** radiografia com contraste.
-- **Legenda (rascunho):** Acalásia: atraso no esvaziamento esofágico ao estudo com bário.
-
----
-
 ## Espasmo difuso e “nutcracker”
 
 Dor torácica com achados manométricos específicos — tratamento medicamentoso ou intervenções selecionadas conforme especialista.
-
----
-
-## Ponte com a Clínica
-
-Paciente com **disfagia progressiva** e perda de peso **não** é “DRGE” até **endoscopia** excluir **malignidade**. Alarmes primeiro, sempre.
-
----
 
 ## Pontos-Chave para Prova
 

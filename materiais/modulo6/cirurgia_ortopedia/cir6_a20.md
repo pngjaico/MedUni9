@@ -3,14 +3,6 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-**Displasia do desenvolvimento do quadril (DDQ)** predispõe **luxação**, **coxa vara** e **artrose** precoce. **Doença de Legg-Calvé-Perthes** é **osteonecrose** idiopática da cabeça femoral pediátrica. **Epifisiólise** do colo femoral é deslizamento da **placa de crescimento** em adolescente, frequentemente **obeso**. Em prova, dominam **triagem ao nascimento** (Ortolani/Barlow), **radiografia** em suspeita e **condutas** (arnês de Pavlik, osteotomias, **in situ fixation** na epifisiólise).
-
----
-
 ## DDQ
 
 ### Rastreio
@@ -26,16 +18,6 @@
 - **Tipo sugerido:** desenho clínico educacional.
 - **Legenda (rascunho):** Triagem do quadril: Ortolani e Barlow.
 
----
-
-### Tratamento
-
-**Arnês de Pavlik** em displasia instável diagnosticada precocemente. **Redução fechada** ou **cirúrgica** se tardio. **Osteotomias** acetabulares/femorais em casos residuais.
-
-> **Pegadinha:** **assimetria** das pregas — **não** diagnóstico isolado; correlacione exame e imagem.
-
----
-
 ## Legg-Calvé-Perthes
 
 Apresentação com **claudicação** e dor de quadril (pode referir joelho). **Radiografia** com **achatamento**, **fragmentação** da cabeça femoral. **RM** em fases iniciais. Tratamento: **contenção**, **mobilidade** conforme estágio; **prognóstico** ligado à idade e **extensão** da necrose.
@@ -48,43 +30,6 @@ Apresentação com **claudicação** e dor de quadril (pode referir joelho). **R
 - **O que mostrar:** **radiografia** de quadril com **Perthes** (cabeça femoral irregular, achatada).
 - **Tipo sugerido:** RX pélvico pediátrico.
 - **Legenda (rascunho):** Doença de Perthes: alterações da cabeça femoral.
-
----
-
-## Epifisiólise do colo femoral
-
-Adolescente **obeso** ou muito magro; **dor** e **claudicação**; **rotação externa** ao caminhar. **Radiografia** em **incidência Lauenstein** e **frog** — **deslizamento** da metáfise em relação à epífise.
-
-**Tratamento**: **fixação in situ** com parafuso — **não** forçar redução vigorosa no deslizamento agudo (risco vascular).
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A20-F03`
-
-- **Momento:** após epifisiólise — imagem.
-- **O que mostrar:** **RX** com **slip** do colo femoral (linha de Klein / desalinhamento).
-- **Tipo sugerido:** radiografia em projeção lateral ou frog.
-- **Legenda (rascunho):** Epifisiólise: deslizamento da placa de crescimento.
-
----
-
-## Ponte com a Clínica
-
-Criança com **dor no joelho** sem trauma: **sempre** olhe o **quadril** (irradiado). Bilateralidade em epifisiólise — monitorar o lado contralateral. **RN** de risco (breech, oligoidrâmio): seguir protocolo de triagem.
-
-### Erros comuns
-
-Atrasar **imagem** em claudicação afebril; confundir **Perthes** com **DDQ** sem radiografias seriadas; **redução agressiva** na epifisiólise aguda (risco de AVN).
-
----
-
-## Pontos-Chave para Prova
-
-- DDQ: Ortolani/Barlow; USG precoce; Pavlik se indicado.
-- Perthes: osteonecrose pediátrica; RX clássico.
-- Epifisiólise: adolescente, obesidade, fixação in situ; não redução agressiva.
-
----
 
 ## Pré-Prova
 

@@ -3,14 +3,6 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-**Carcinoma esofágico** divide-se principalmente em **espinocelular** (tórax superior/médio, fatores tabaco/álcool) e **adenocarcinoma** (junção gastroesofágica, **Barrett**). **Câncer colorretal** é altamente rastreável (**FOBT**, **colonoscopia**). **Neoplasia de canal anal** associa-se a **HPV**; protocolo **Nigro** (**quimiorradioterapia**) pode preservar esfincter. Em prova, dominam **estadiamento TNM**, **margens** cirúrgicas e **cirurgia mínima invasiva** em reto/cólon.
-
----
-
 ## Esôfago — subtipos e apresentação
 
 **Disphagia progressiva**, perda ponderal, odinofagia. **Esofagite grave** e Barrett são campos de **adenocarcinoma distal**. **Espinocelular** — sintomas precoces às vezes (disfagia), metástases locorregionais.
@@ -28,64 +20,11 @@
 - **Tipo sugerido:** RX com bário ou TC.
 - **Legenda (rascunho):** Carcinoma esofágico: estenose ao estudo contrastado.
 
----
-
-## Colorretal — rastreio e genética
-
-**Colonoscopia** a cada 10 anos em risco médio (faixas etárias conforme diretriz local). **Síndrome de Lynch** e **FAP** alteram idade e frequência. **Pólipo adenomatoso** é lesão precursora — resecção endoscópica quando seguro.
-
-### Apresentação
-
-Sangue oculto, alteração do hábito, anemia ferropriva, obstrução. **Lado direito** pode sangrar silenciosamente; **esquerdo** obstrutivo mais comum.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A14-F02`
-
-- **Momento:** após rastreio — lesão endoscópica.
-- **O que mostrar:** **colonoscopia** com **pólipo pedunculado** ou massa (imagem didática).
-- **Tipo sugerido:** endoscopia colorretal.
-- **Legenda (rascunho):** Neoplasia colorretal: lesão polipoide à colonoscopia.
-
----
-
 ## Tratamento colorretal
 
 **Cirurgia oncológica** com ressecção de meso e margens; **quimioterapia adjuvante** em estádios III (conceito). **Reto baixo**: **TME** (mesorreto total), **preservação esfincteriana** quando oncologicamente seguro. **Neoadjuvância** em reto médio/baixo localmente avançado.
 
 > **Pegadinha:** **metástase hepática** não significa automaticamente incurável — **ressecável** com quimioterapia de conversão em casos selecionados.
-
----
-
-## Canal anal — espinocelular e Nigro
-
-Dor, sangramento, massa; **HPV** importante. **Biópsia** confirma. **QRT** (5-FU + mitomicina + radioterapia) primeira linha em muitos casos — preservação funcional.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A14-F03`
-
-- **Momento:** após canal anal — esquema de radioterapia de pelve.
-- **O que mostrar:** diagrama de **campos de irradiação** pélvica para tumor anal (esquema educacional).
-- **Tipo sugerido:** ilustração radioterápica.
-- **Legenda (rascunho):** Tratamento conservador: QRT em carcinoma anal.
-
----
-
-## Ponte com a Clínica
-
-Anemia em homem >50 anos: **colonoscopia** mesmo sem sangramento visível. **Disfagia** nova em qualquer idade: investigação endoscópica. Lesão anal ulcerada: **não** trate como hemorroida sem inspeção adequada.
-
----
-
-## Pontos-Chave para Prova
-
-- Esôfago: espinocelular vs adeno — epidemiologia e localização.
-- Colorretal: rastreio; pólipo → adenocarcinoma em sequência.
-- Reto: TME; neoadjuvância em localmente avançado.
-- Canal anal: Nigro + HPV; biópsia antes de hemorroidectomia atrevida.
-
----
 
 ## Pré-Prova
 

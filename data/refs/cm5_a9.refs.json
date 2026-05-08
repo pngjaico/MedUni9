@@ -1,0 +1,31 @@
+{
+  "aula_id": "cm5_a9",
+  "materia": "clinica_medica5",
+  "tema": "Doença Renal Crônica",
+  "generatedAt": "2026-05-07T20:25:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a9",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Mapa GFR/albuminúria é melhor como tabela própria; imagem Wikimedia não agregaria precisão didática."
+  },
+  "fontes_base": [
+    {
+      "tipo": "diretriz",
+      "titulo": "KDIGO 2024 CKD Evaluation and Management",
+      "url": "https://kdigo.org/guidelines/ckd-evaluation-and-management/kdigo-2024-ckd-guideline-executive-summary/",
+      "uso": "definição, classificação CGA, risco e encaminhamento."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "KDIGO Diabetes in CKD",
+      "url": "https://kdigo.org/guidelines/diabetes-ckd/",
+      "uso": "SGLT2i e manejo cardiorrenal."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "KDIGO Blood Pressure in CKD",
+      "url": "https://kdigo.org/guidelines/blood-pressure-in-ckd/",
+      "uso": "PA, albuminúria e bloqueio SRAA."
+    }
+  ]
+}

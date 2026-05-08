@@ -3,14 +3,6 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-O **adenocarcinoma pancreático** tem prognóstico reservado; apresenta-se tardiamente com **emagrecimento**, **dor**, **icterícia obstrutiva** (lesão de cabeça) e **trombose venosa** (Trousseau — pista). O **adenocarcinoma gástrico** associa-se a **H. pylori**, dieta e fatores genéticos. Tratamento curativo: **reseção R0** — **Whipple** para tumores periampulares/cabeça pancreática, **gastrectomia** adequada ao estadiamento. Em prova, dominam **bilirrubinas e coléstase**, **CA 19-9** (pancreático — não diagnóstico isolado) e **neoadjuvância** em casos fronteira ressecáveis.
-
----
-
 ## Adenocarcinoma pancreático
 
 ### Apresentação e sinais de alarme
@@ -30,16 +22,6 @@ Icterícia **painless progressiva** com vesícula palpável (**Courvoisier** —
 - **Tipo sugerido:** corte axial anotado.
 - **Legenda (rascunho):** Tumor pancreático de cabeça: obstrução biliar.
 
----
-
-## Tratamento pancreático
-
-**Whipple (pancreatoduodenectomia)** se ressecável sem metástases à distância e com vasos respeitáveis (conceito borderline resectable — protocolos). **Quimioterapia paliativa** (FOLFIRINOX, gemcitabina-nab-paclitaxel) em metastático. **Descompressão biliar** pré-operatória em icterícia prolongada — timing conforme equipe.
-
-> **Pegadinha:** **lipase alta** isolada **não** define adenocarcinoma — correlacione imagem.
-
----
-
 ## Câncer gástrico
 
 ### Fatores e localização
@@ -58,38 +40,6 @@ Dispepsia refratária, anemia ferropriva, perda ponderal. **Endoscopia com bióp
 - **O que mostrar:** **endoscopia** com **lesão ulcerada/vegetante** no estômago (imagem didática).
 - **Tipo sugerido:** foto endoscópica anônima.
 - **Legenda (rascunho):** Adenocarcinoma gástrico: lesão mucosa à endoscopia.
-
----
-
-## Tratamento gástrico
-
-**Gastrectomia subtotal/total** com linfadenectomia D2 em centros experientes. **Perioperatório QUIMIO** em estádios locais avançados (protocolos). **Paliativo**: stent gástrico, quimioterapia, melhora sintomas obstrutivos.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A13-F03`
-
-- **Momento:** após cirurgia — reconstrução (conceito).
-- **O que mostrar:** esquema da **pancreatoduodenectomia (Whipple)** com anastomoses (biliodigestiva, pancreático, gástrica).
-- **Tipo sugerido:** diagrama cirúrgico educacional.
-- **Legenda (rascunho):** Procedimento de Whipple: componentes anatômicos.
-
----
-
-## Ponte com a Clínica
-
-Paciente ictérico com **massa pancreática** e **colangite**: estabilize infecção, desobstrua, **depois** planeje oncologia. Anemia em **jovem** com história familiar: pense **síndromes hereditárias** e genética.
-
----
-
-## Pontos-Chave para Prova
-
-- Pancreático: icterícia obstrutiva + massa cabeça; CA 19-9 auxiliar.
-- Whipple: ressecável periampular; complicações (fístula pancreática) — conceito.
-- Gástrico: endoscopia + biópsia; D2 em estádios adequados.
-- H. pylori: fator de risco tratável.
-
----
 
 ## Pré-Prova
 

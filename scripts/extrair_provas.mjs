@@ -8,7 +8,7 @@ dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || "AIzaSyD1h1VqUCfhJhz8ezjPymzVcE3J6ywYdQ0";
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY || "";
 const TEST_MODE = process.argv.includes('--test');
 
 const SYSTEM_PROMPT = `Você é um curador médico acadêmico experiente do MedGradPlus. 

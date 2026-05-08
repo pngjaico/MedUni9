@@ -1,0 +1,28 @@
+{
+  "aula_id": "cm5_a8",
+  "materia": "clinica_medica5",
+  "tema": "Disfunções da Tireoide e Metabolismo Ósseo",
+  "generatedAt": "2026-05-07T20:10:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a8",
+  "fontes_base": [
+    {
+      "tipo": "diretriz",
+      "titulo": "ATA Guidelines for Hyperthyroidism and Thyrotoxicosis",
+      "url": "https://www.thyroid.org/guidelines-hyperthyroidism-thyrotoxicosis/",
+      "uso": "hipertireoidismo, Graves, tireoidite e tempestade tireotóxica."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "ATA Guidelines for Thyroid Nodules and Differentiated Thyroid Cancer",
+      "url": "https://www.thyroid.org/endorsed-guidelines-differentiated/",
+      "uso": "nódulos, ultrassom e PAAF."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "Endocrine Society - Osteoporosis in Postmenopausal Women",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/osteoporosis-in-postmenopausal-women",
+      "uso": "tratamento farmacológico e segurança de denosumabe."
+    }
+  ],
+  "imagem": "CM5-A8-F01"
+}

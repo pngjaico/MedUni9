@@ -49176,6 +49176,4226 @@
       "explicacao": "A imunossupressão necessária para evitar a rejeição baixa a guarda contra patógenos incomuns.",
       "dificuldade": 2,
       "id": 12040
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12041,
+      "dificuldade": 1,
+      "frente": "Pela diretriz brasileira atual, HAS em consultório é definida por PA {{c1::>= 140/90 mmHg}} em pelo menos duas ocasiões.",
+      "verso": ">= 140/90 mmHg",
+      "explicacao": "MAPA e MRPA ajudam a confirmar fenótipos como avental branco e hipertensão mascarada.",
+      "origem": "material",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "has",
+        "diagnostico"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12042,
+      "dificuldade": 2,
+      "frente": "No MAPA de 24h, o ponto de corte médio para HAS é {{c1::>= 130/80 mmHg}}.",
+      "verso": ">= 130/80 mmHg",
+      "explicacao": "Na vigília o corte é >= 135/85; durante o sono, >= 120/70.",
+      "origem": "material",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "has",
+        "diagnostico"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12043,
+      "dificuldade": 1,
+      "frente": "Hipertensão do avental branco é PA alta {{c1::no consultório}} com medidas fora do consultório normais.",
+      "verso": "no consultório",
+      "explicacao": "Não é totalmente benigna; deve ser confirmada com MAPA ou MRPA e acompanhada.",
+      "origem": "material",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "has",
+        "diagnostico"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12044,
+      "dificuldade": 2,
+      "frente": "Hipertensão mascarada é PA normal no consultório, mas {{c1::elevada fora dele}}.",
+      "verso": "elevada fora dele",
+      "explicacao": "Tem pior prognóstico que avental branco e deve ser suspeitada se há lesão de órgão-alvo.",
+      "origem": "material",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "has",
+        "diagnostico"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12045,
+      "dificuldade": 2,
+      "frente": "DM, DRC, IC ou pós-IAM favorecem iniciar anti-hipertensivo com {{c1::IECA ou BRA}} quando não houver contraindicação.",
+      "verso": "IECA ou BRA",
+      "explicacao": "A lógica é proteção renal e cardiovascular, especialmente com albuminúria ou disfunção ventricular.",
+      "origem": "material",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "has",
+        "tratamento"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12046,
+      "dificuldade": 2,
+      "frente": "Paciente negro ou idoso sem comorbidade costuma responder melhor a {{c1::BCC ou tiazídico}} em monoterapia.",
+      "verso": "BCC ou tiazídico",
+      "explicacao": "IECA/BRA podem ser usados se houver indicação renal ou cardíaca específica.",
+      "origem": "material",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "has",
+        "tratamento"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12047,
+      "dificuldade": 2,
+      "frente": "A combinação {{c1::IECA + BRA}} deve ser evitada por maior risco renal e hipercalemia sem ganho clínico relevante.",
+      "verso": "IECA + BRA",
+      "explicacao": "A dupla bloqueia o mesmo eixo e aumenta dano potencial, especialmente em DRC.",
+      "origem": "material",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "has",
+        "tratamento"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12048,
+      "dificuldade": 3,
+      "frente": "HAS resistente é PA não controlada apesar de 3 classes otimizadas, incluindo {{c1::um diurético}}.",
+      "verso": "um diurético",
+      "explicacao": "Antes de rotular, conferir medida correta, adesão, dose e causas secundárias.",
+      "origem": "material",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "has",
+        "tratamento"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12049,
+      "dificuldade": 3,
+      "frente": "Na HAS resistente, a quarta droga preferencial costuma ser {{c1::espironolactona}}.",
+      "verso": "espironolactona",
+      "explicacao": "O racional vem do componente de retenção de sódio/mineralocorticoide e do PATHWAY-2.",
+      "origem": "material",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "has",
+        "tratamento"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12050,
+      "dificuldade": 2,
+      "frente": "Urgência hipertensiva é PA >= 180/120 {{c1::sem lesão aguda de órgão-alvo}}.",
+      "verso": "sem lesão aguda de órgão-alvo",
+      "explicacao": "A redução deve ser gradual, por via oral, geralmente em 24-48h.",
+      "origem": "material",
+      "categoria": "crise-hipertensiva",
+      "tags": [
+        "cm5",
+        "has",
+        "crise-hipertensiva"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12051,
+      "dificuldade": 2,
+      "frente": "Emergência hipertensiva é PA elevada com {{c1::lesão aguda de órgão-alvo}}.",
+      "verso": "lesão aguda de órgão-alvo",
+      "explicacao": "Exemplos: edema agudo de pulmão, dissecção aórtica, encefalopatia hipertensiva e alguns AVCs.",
+      "origem": "material",
+      "categoria": "crise-hipertensiva",
+      "tags": [
+        "cm5",
+        "has",
+        "crise-hipertensiva"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a1",
+      "id": 12052,
+      "dificuldade": 3,
+      "frente": "HAS com hipocalemia espontânea sugere {{c1::hiperaldosteronismo primário}}.",
+      "verso": "hiperaldosteronismo primário",
+      "explicacao": "A triagem clássica é a relação aldosterona/atividade da renina plasmática.",
+      "origem": "material",
+      "categoria": "has-secundaria",
+      "tags": [
+        "cm5",
+        "has",
+        "has-secundaria"
+      ]
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 1,
+      "frente": "No ECG padrão, cada quadradinho pequeno no eixo horizontal vale {{c1::0,04 s}}.",
+      "verso": "0,04 s",
+      "explicacao": "Com velocidade de 25 mm/s, 1 mm corresponde a 0,04 segundo; quadrado grande vale 0,20 segundo.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "calibracao",
+      "tags": [
+        "cm5",
+        "ecg",
+        "calibracao"
+      ],
+      "id": 12053
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 1,
+      "frente": "A calibração vertical padrão do ECG é {{c1::10 mm/mV}}.",
+      "verso": "10 mm/mV",
+      "explicacao": "Se a calibração mudar, a interpretação de baixa voltagem ou sobrecarga ventricular pode ficar errada.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "calibracao",
+      "tags": [
+        "cm5",
+        "ecg",
+        "voltagem"
+      ],
+      "id": 12054
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 1,
+      "frente": "Em ritmo regular, frequência cardíaca ≈ {{c1::300 / quadrados grandes entre R-R}}.",
+      "verso": "300 / quadrados grandes",
+      "explicacao": "A regra só funciona bem em ritmo regular; em irregular, conte QRS em 10 segundos e multiplique por 6.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "frequencia",
+      "tags": [
+        "cm5",
+        "ecg",
+        "frequencia"
+      ],
+      "id": 12055
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "Ritmo sinusal exige P antes de cada QRS, P positiva em DII e {{c1::negativa em aVR}}.",
+      "verso": "P negativa em aVR",
+      "explicacao": "Frequência normal sem esse padrão não prova origem sinusal.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "ritmo",
+      "tags": [
+        "cm5",
+        "ecg",
+        "ritmo-sinusal"
+      ],
+      "id": 12056
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "No método rápido do eixo, DI positivo e aVF positivo indicam eixo {{c1::normal}}.",
+      "verso": "Normal",
+      "explicacao": "DI e aVF colocam o vetor nos quadrantes. DII ajuda nos casos limítrofes.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "eixo",
+      "tags": [
+        "cm5",
+        "ecg",
+        "eixo"
+      ],
+      "id": 12057
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "PR normal mede {{c1::120-200 ms}}.",
+      "verso": "120-200 ms",
+      "explicacao": "PR maior que 200 ms com condução 1:1 sugere bloqueio AV de primeiro grau.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "intervalos",
+      "tags": [
+        "cm5",
+        "ecg",
+        "pr"
+      ],
+      "id": 12058
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "QRS largo em adulto é QRS {{c1::>= 120 ms}}.",
+      "verso": ">= 120 ms",
+      "explicacao": "QRS largo muda o diferencial para bloqueio de ramo, ritmo ventricular ou pré-excitação.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "intervalos",
+      "tags": [
+        "cm5",
+        "ecg",
+        "qrs"
+      ],
+      "id": 12059
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 3,
+      "frente": "QTc muito prolongado, especialmente {{c1::> 500 ms}}, aumenta risco de torsades.",
+      "verso": "> 500 ms",
+      "explicacao": "Corrija eletrólitos e revise fármacos que prolongam QT quando esse achado aparece.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "intervalos",
+      "tags": [
+        "cm5",
+        "ecg",
+        "qtc"
+      ],
+      "id": 12060
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "Supra de ST em derivações contíguas com recíprocas sugere {{c1::IAM com supra}} no contexto correto.",
+      "verso": "IAM com supra",
+      "explicacao": "Topografia depende das derivações: inferiores DII/DIII/aVF, anteriores V1-V4, laterais DI/aVL/V5-V6.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "isquemia",
+      "tags": [
+        "cm5",
+        "ecg",
+        "stemi"
+      ],
+      "id": 12061
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "Infra de ST horizontal/descendente em dor torácica sugere {{c1::isquemia subendocárdica}}.",
+      "verso": "Isquemia subendocárdica",
+      "explicacao": "A interpretação depende de sintomas, troponina e comparação com ECG prévio.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "isquemia",
+      "tags": [
+        "cm5",
+        "ecg",
+        "st"
+      ],
+      "id": 12062
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 2,
+      "frente": "Ondas T altas, estreitas e apiculadas em paciente renal lembram {{c1::hipercalemia}}.",
+      "verso": "Hipercalemia",
+      "explicacao": "Hipercalemia pode evoluir para alargamento de QRS e arritmia fatal.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "eletrolitos",
+      "tags": [
+        "cm5",
+        "ecg",
+        "hipercalemia"
+      ],
+      "id": 12063
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a2",
+      "dificuldade": 3,
+      "frente": "Traçado caótico com paciente bem e pulso regular deve levantar suspeita de {{c1::artefato}}.",
+      "verso": "Artefato",
+      "explicacao": "Correlacione ECG com paciente, pulso e eletrodos antes de diagnosticar arritmia grave.",
+      "origem": "cm5_quality_contract_2026_05_07",
+      "categoria": "tecnica",
+      "tags": [
+        "cm5",
+        "ecg",
+        "artefato"
+      ],
+      "id": 12064
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 1,
+      "frente": "IC é incapacidade de suprir demanda ou fazê-lo com {{c1::pressões de enchimento elevadas}}.",
+      "verso": "Pressões de enchimento elevadas",
+      "explicacao": "Congestão vem de pressão de enchimento alta; baixo débito é outra face da síndrome.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "conceito",
+      "tags": [
+        "cm5",
+        "ic",
+        "conceito"
+      ],
+      "id": 12065
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 1,
+      "frente": "FEVE <= 40% define IC com fração de ejeção {{c1::reduzida}}.",
+      "verso": "Reduzida",
+      "explicacao": "Esse fenótipo concentra as melhores evidências dos quatro pilares farmacológicos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "classificacao",
+      "tags": [
+        "cm5",
+        "ic",
+        "hfrEF"
+      ],
+      "id": 12066
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "Os quatro pilares da HFrEF incluem ARNI/IECA/BRA, beta bloqueador, MRA e {{c1::SGLT2i}}.",
+      "verso": "SGLT2i",
+      "explicacao": "SGLT2 reduz hospitalização por IC e desfechos cardiovasculares, inclusive sem diabetes.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "ic",
+        "sglt2"
+      ],
+      "id": 12067
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "Diurético de alça na IC serve principalmente para {{c1::descongestão}}.",
+      "verso": "Descongestão",
+      "explicacao": "Ele melhora sintomas e volume, mas não substitui terapia que muda prognóstico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "ic",
+        "diuretico"
+      ],
+      "id": 12068
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "BNP/NT-proBNP ajudam no diferencial de dispneia porque refletem {{c1::estresse de parede cardíaca}}.",
+      "verso": "Estresse de parede cardíaca",
+      "explicacao": "Valores baixos ajudam a afastar IC em muitos cenários, mas sempre com contexto.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "ic",
+        "bnp"
+      ],
+      "id": 12069
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "IC com FEVE preservada exige sintomas + evidência objetiva; FEVE normal {{c1::não exclui IC}}.",
+      "verso": "Não exclui IC",
+      "explicacao": "HFpEF é comum em idosos, hipertensos, obesos e diabéticos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "classificacao",
+      "tags": [
+        "cm5",
+        "ic",
+        "hfpef"
+      ],
+      "id": 12070
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "Perfil quente e úmido na IC significa perfusão preservada com {{c1::congestão}}.",
+      "verso": "Congestão",
+      "explicacao": "É o perfil clássico para diurese e vasodilatação conforme PA/contexto.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "aguda",
+      "tags": [
+        "cm5",
+        "ic",
+        "congestao"
+      ],
+      "id": 12071
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 3,
+      "frente": "Perfil frio na IC indica {{c1::hipoperfusão}}.",
+      "verso": "Hipoperfusão",
+      "explicacao": "Pele fria, confusão, oligúria, lactato alto e hipotensão mudam prioridade para suporte hemodinâmico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "aguda",
+      "tags": [
+        "cm5",
+        "ic",
+        "choque"
+      ],
+      "id": 12072
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "Betabloqueadores clássicos em HFrEF: carvedilol, metoprolol succinato e {{c1::bisoprolol}}.",
+      "verso": "Bisoprolol",
+      "explicacao": "Atenolol não é o pilar clássico de IC com fração reduzida.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "ic",
+        "betabloqueador"
+      ],
+      "id": 12073
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "MRA na HFrEF exige monitorar {{c1::potássio e função renal}}.",
+      "verso": "Potássio e função renal",
+      "explicacao": "Espironolactona/eplerenona reduzem eventos, mas podem causar hipercalemia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "ic",
+        "mra"
+      ],
+      "id": 12074
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 3,
+      "frente": "QRS largo com BRE em HFrEF sintomática pode indicar {{c1::ressincronização cardíaca}}.",
+      "verso": "Ressincronização cardíaca",
+      "explicacao": "CRT é para pacientes selecionados, após terapia otimizada e critérios eletrocardiográficos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "dispositivos",
+      "tags": [
+        "cm5",
+        "ic",
+        "crt"
+      ],
+      "id": 12075
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a3",
+      "dificuldade": 2,
+      "frente": "Alta de IC precisa incluir peso diário, sinais de alarme e {{c1::retorno precoce}}.",
+      "verso": "Retorno precoce",
+      "explicacao": "A transição de cuidado evita reinternação por ajuste tardio de volume e medicação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a3",
+      "categoria": "seguimento",
+      "tags": [
+        "cm5",
+        "ic",
+        "alta"
+      ],
+      "id": 12076
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 1,
+      "frente": "Na arritmia aguda, a primeira pergunta é se o paciente está {{c1::instável}}.",
+      "verso": "Instável",
+      "explicacao": "Hipotensão, choque, dor isquêmica, edema pulmonar e rebaixamento mudam a conduta.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "abordagem",
+      "tags": [
+        "cm5",
+        "arritmia",
+        "emergencia"
+      ],
+      "id": 12077
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "Taquiarritmia com pulso e instabilidade pede {{c1::cardioversão sincronizada}}.",
+      "verso": "Cardioversão sincronizada",
+      "explicacao": "O sincronismo evita choque no período vulnerável da repolarização.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "acls",
+      "tags": [
+        "cm5",
+        "taquicardia",
+        "cardioversao"
+      ],
+      "id": 12078
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 1,
+      "frente": "Fibrilação atrial no ECG é ritmo {{c1::irregularmente irregular}} sem onda P sinusal organizada.",
+      "verso": "Irregularmente irregular",
+      "explicacao": "É o padrão clássico que a banca cobra antes de anticoagulação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "ecg",
+      "tags": [
+        "cm5",
+        "fa",
+        "ecg"
+      ],
+      "id": 12079
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "FA com estenose mitral moderada/importante ou válvula mecânica usa {{c1::varfarina/VKA}}, não DOAC como rotina.",
+      "verso": "Varfarina/VKA",
+      "explicacao": "É exceção central das diretrizes modernas e caiu em prova pública.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "anticoagulacao",
+      "tags": [
+        "cm5",
+        "fa",
+        "vka"
+      ],
+      "id": 12080
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "Na maioria da FA não valvar elegível, anticoagulação prefere {{c1::DOAC}} em vez de varfarina.",
+      "verso": "DOAC",
+      "explicacao": "Sempre ponderar risco tromboembólico, sangramento, rim e interações.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "anticoagulacao",
+      "tags": [
+        "cm5",
+        "fa",
+        "doac"
+      ],
+      "id": 12081
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 3,
+      "frente": "FA pré-excitada com QRS largo irregular: evitar bloqueadores do {{c1::nó AV}}.",
+      "verso": "Nó AV",
+      "explicacao": "Adenosina, betabloqueador, diltiazem/verapamil e digoxina podem favorecer via acessória.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "armadilha",
+      "tags": [
+        "cm5",
+        "wpw",
+        "fa"
+      ],
+      "id": 12082
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "TSV regular estreita estável começa com manobra vagal e {{c1::adenosina}}.",
+      "verso": "Adenosina",
+      "explicacao": "Bolus rápido e monitorização; instabilidade muda para cardioversão.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "tsv",
+      "tags": [
+        "cm5",
+        "tsv",
+        "adenosina"
+      ],
+      "id": 12083
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "Taquicardia regular de QRS largo deve ser tratada como {{c1::taquicardia ventricular}} até prova em contrário.",
+      "verso": "Taquicardia ventricular",
+      "explicacao": "Essa regra é especialmente importante em cardiopata estrutural.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "ecg",
+      "tags": [
+        "cm5",
+        "tv",
+        "qrs_largo"
+      ],
+      "id": 12084
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 3,
+      "frente": "Torsades de pointes é TV polimórfica com QT longo e pede {{c1::magnésio}}.",
+      "verso": "Magnésio",
+      "explicacao": "Também corrigir K/Mg e retirar drogas que prolongam QT.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "torsades",
+        "qt"
+      ],
+      "id": 12085
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "Bradicardia sintomática usa atropina {{c1::1 mg IV a cada 3-5 min, máximo 3 mg}} quando apropriado.",
+      "verso": "1 mg IV a cada 3-5 min, máximo 3 mg",
+      "explicacao": "Se ineficaz, pacing e/ou drogas vasoativas entram no fluxo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "acls",
+      "tags": [
+        "cm5",
+        "bradicardia",
+        "atropina"
+      ],
+      "id": 12086
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 2,
+      "frente": "Bloqueio AV avançado com hipotensão após atropina ineficaz indica {{c1::marcapasso transcutâneo}} enquanto prepara solução definitiva.",
+      "verso": "Marcapasso transcutâneo",
+      "explicacao": "Pode ser ponte para marcapasso transvenoso ou definitivo conforme causa.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "bradiarritmia",
+      "tags": [
+        "cm5",
+        "bloqueio_av",
+        "pacing"
+      ],
+      "id": 12087
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a4",
+      "dificuldade": 1,
+      "frente": "Taquicardia sinusal é geralmente {{c1::sinal de causa sistêmica}}, não diagnóstico final.",
+      "verso": "Sinal de causa sistêmica",
+      "explicacao": "Procure dor, febre, hipovolemia, anemia, sepse, hipóxia e tireotoxicose.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a4",
+      "categoria": "raciocinio",
+      "tags": [
+        "cm5",
+        "taquicardia_sinusal",
+        "causa"
+      ],
+      "id": 12088
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 1,
+      "frente": "Angina típica = desconforto retroesternal + esforço/estresse + alívio com {{c1::repouso ou nitrato}}.",
+      "verso": "Repouso ou nitrato",
+      "explicacao": "Três critérios tornam a dor muito mais sugestiva de isquemia miocárdica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "dac",
+        "angina"
+      ],
+      "id": 12089
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Dor em repouso/progressiva, ST dinâmico ou troponina subindo sugere {{c1::síndrome coronariana aguda}}.",
+      "verso": "Síndrome coronariana aguda",
+      "explicacao": "Essa é a fronteira entre DAC crônica e fluxo de emergência.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "diferencial",
+      "tags": [
+        "cm5",
+        "sca",
+        "dac"
+      ],
+      "id": 12090
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Na dor torácica estável, o exame depende da {{c1::probabilidade pré-teste}} e do perfil do paciente.",
+      "verso": "Probabilidade pré-teste",
+      "explicacao": "Evita pedir cateterismo para todo mundo ou ignorar risco alto.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "dac",
+        "teste"
+      ],
+      "id": 12091
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Angiotomografia coronária é teste {{c1::anatômico}} não invasivo para DAC em paciente selecionado.",
+      "verso": "Anatômico",
+      "explicacao": "Testes funcionais respondem se há isquemia; CCTA mostra anatomia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "dac",
+        "ccta"
+      ],
+      "id": 12092
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Nitrato não deve ser associado a inibidor de PDE5 como {{c1::sildenafila}}.",
+      "verso": "Sildenafila",
+      "explicacao": "A combinação pode causar hipotensão grave.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "angina",
+        "nitrato"
+      ],
+      "id": 12093
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Estatina na DAC crônica serve para reduzir {{c1::LDL e risco cardiovascular}}.",
+      "verso": "LDL e risco cardiovascular",
+      "explicacao": "Não é remédio de alívio imediato de dor.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "prevencao",
+      "tags": [
+        "cm5",
+        "dac",
+        "estatina"
+      ],
+      "id": 12094
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "AAS em baixa dose é prevenção secundária comum na DAC, salvo {{c1::contraindicação ou estratégia antitrombótica alternativa}}.",
+      "verso": "Contraindicação ou estratégia alternativa",
+      "explicacao": "Clopidogrel pode ser alternativa em intolerância, e cenários com anticoagulação exigem ajuste.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "prevencao",
+      "tags": [
+        "cm5",
+        "dac",
+        "aas"
+      ],
+      "id": 12095
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Betabloqueador reduz demanda miocárdica ao diminuir frequência e {{c1::contratilidade}}.",
+      "verso": "Contratilidade",
+      "explicacao": "Ajuda sintomas anginosos, especialmente pós-IAM ou com disfunção ventricular quando indicado.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "antianginoso",
+      "tags": [
+        "cm5",
+        "angina",
+        "betabloqueador"
+      ],
+      "id": 12096
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Revascularização na DAC crônica é para sintomas refratários ou {{c1::anatomia de alto risco}} em casos selecionados.",
+      "verso": "Anatomia de alto risco",
+      "explicacao": "Stent ou cirurgia não substituem tratamento clínico e prevenção secundária.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "revascularizacao",
+      "tags": [
+        "cm5",
+        "dac",
+        "pci"
+      ],
+      "id": 12097
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 1,
+      "frente": "Cessar tabagismo é uma das intervenções mais fortes para reduzir {{c1::risco cardiovascular}}.",
+      "verso": "Risco cardiovascular",
+      "explicacao": "Não é orientação genérica; é tratamento de DAC.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "estilo_de_vida",
+      "tags": [
+        "cm5",
+        "dac",
+        "tabagismo"
+      ],
+      "id": 12098
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 2,
+      "frente": "Controle da angina trata sintoma; controle de LDL, PA, DM e tabaco trata {{c1::prognóstico}}.",
+      "verso": "Prognóstico",
+      "explicacao": "Separar sintoma de evento evita plano incompleto.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "raciocinio",
+      "tags": [
+        "cm5",
+        "dac",
+        "prognostico"
+      ],
+      "id": 12099
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a5",
+      "dificuldade": 3,
+      "frente": "Dor torácica com troponina positiva e GRACE alto não é DAC crônica: é {{c1::SCA de alto risco}}.",
+      "verso": "SCA de alto risco",
+      "explicacao": "Esse padrão pede manejo agudo e estratégia invasiva conforme protocolo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a5",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "sca",
+        "grace"
+      ],
+      "id": 12100
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 1,
+      "frente": "DM pode ser diagnosticado por jejum, HbA1c, TTGO ou glicemia aleatória com {{c1::sintomas clássicos}}.",
+      "verso": "Sintomas clássicos",
+      "explicacao": "Poliúria, polidipsia, perda ponderal e glicemia aleatória >= 200 sustentam diagnóstico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "diagnostico"
+      ],
+      "id": 12101
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 1,
+      "frente": "Corte clássico de DM: glicemia de jejum {{c1::>= 126 mg/dL}}.",
+      "verso": ">= 126 mg/dL",
+      "explicacao": "Em assintomático, confirmar em nova amostra ou outro teste alterado.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "jejum"
+      ],
+      "id": 12102
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 1,
+      "frente": "HbA1c diagnóstica para DM é {{c1::>= 6,5%}}.",
+      "verso": ">= 6,5%",
+      "explicacao": "Pode falhar em anemia, hemoglobinopatia, DRC e situações de troca eritrocitária.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "hba1c"
+      ],
+      "id": 12103
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "Pré-diabetes inclui HbA1c {{c1::5,7-6,4%}}.",
+      "verso": "5,7-6,4%",
+      "explicacao": "É janela para intervenção intensiva, não rótulo inofensivo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "prediabetes"
+      ],
+      "id": 12104
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "Síndrome metabólica reúne cintura aumentada, TG alto, HDL baixo, PA elevada e {{c1::glicemia alterada}}.",
+      "verso": "Glicemia alterada",
+      "explicacao": "É marcador de resistência insulínica e risco cardiovascular.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "sindrome_metabolica",
+      "tags": [
+        "cm5",
+        "metabolica"
+      ],
+      "id": 12105
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "DM2 com DRC/albuminúria favorece {{c1::SGLT2i}} se tolerado.",
+      "verso": "SGLT2i",
+      "explicacao": "Benefício renal e cardiovascular vai além da queda de HbA1c.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "sglt2"
+      ],
+      "id": 12106
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "DM2 com ASCVD favorece GLP-1 RA de benefício CV ou {{c1::SGLT2i}} conforme perfil.",
+      "verso": "SGLT2i",
+      "explicacao": "A escolha moderna é guiada por comorbidades.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "cv"
+      ],
+      "id": 12107
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 3,
+      "frente": "Cetoacidose diabética = hiperglicemia + cetose + {{c1::acidose metabólica}}.",
+      "verso": "Acidose metabólica",
+      "explicacao": "Potássio precisa ser checado antes/durante insulina.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "cad"
+      ],
+      "id": 12108
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 3,
+      "frente": "Estado hiperosmolar tem hiperglicemia extrema, osmolaridade alta e {{c1::pouca cetose/acidose}}.",
+      "verso": "Pouca cetose/acidose",
+      "explicacao": "Desidratação é muito marcada, comum em idosos com DM2.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "ehh"
+      ],
+      "id": 12109
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "Rastreio microvascular no DM inclui rim, retina e {{c1::pés/neuropatia}}.",
+      "verso": "Pés/neuropatia",
+      "explicacao": "Monofilamento, pulsos e inspeção previnem amputação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "complicacoes",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "rastreio"
+      ],
+      "id": 12110
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "Meta de HbA1c deve ser {{c1::individualizada}}.",
+      "verso": "Individualizada",
+      "explicacao": "Hipoglicemia, idade, comorbidades e expectativa de vida mudam a meta.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "metas",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "hba1c"
+      ],
+      "id": 12111
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a6",
+      "dificuldade": 2,
+      "frente": "Tratamento moderno do DM2 integra glicose, peso e risco {{c1::cardio-renal}}.",
+      "verso": "Cardio-renal",
+      "explicacao": "Não basta baixar açúcar se o paciente infarta, dialisa ou faz hipoglicemia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a6",
+      "categoria": "raciocinio",
+      "tags": [
+        "cm5",
+        "diabetes",
+        "cardiorenal"
+      ],
+      "id": 12112
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 1,
+      "frente": "Eixo HPA: CRH estimula ACTH, que estimula {{c1::cortisol}}.",
+      "verso": "Cortisol",
+      "explicacao": "Cortisol faz feedback negativo em hipotálamo e hipófise.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "eixo",
+      "tags": [
+        "cm5",
+        "hipofise",
+        "adrenal"
+      ],
+      "id": 12113
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Insuficiência adrenal primária sugere ACTH alto, hiperpigmentação e {{c1::hipercalemia}}.",
+      "verso": "Hipercalemia",
+      "explicacao": "Aldosterona baixa explica hipercalemia e hipotensão.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "adrenal",
+      "tags": [
+        "cm5",
+        "addison"
+      ],
+      "id": 12114
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 3,
+      "frente": "Crise adrenal exige hidrocortisona IV e {{c1::reposição volêmica}} sem atrasar por exame.",
+      "verso": "Reposição volêmica",
+      "explicacao": "Colha cortisol/ACTH se possível, mas trate primeiro se grave.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "crise_adrenal"
+      ],
+      "id": 12115
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Cushing é rastreado com cortisol salivar noturno, cortisol urinário 24h ou {{c1::dexametasona 1 mg}}.",
+      "verso": "Dexametasona 1 mg",
+      "explicacao": "Cortisol aleatório isolado é armadilha.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "cushing",
+      "tags": [
+        "cm5",
+        "cushing"
+      ],
+      "id": 12116
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "HAS resistente + hipocalemia sugere hiperaldosteronismo; rastreio é relação {{c1::aldosterona/renina}}.",
+      "verso": "Aldosterona/renina",
+      "explicacao": "Preparação medicamentosa e potássio interferem no resultado.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "adrenal",
+      "tags": [
+        "cm5",
+        "aldosterona"
+      ],
+      "id": 12117
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Prolactinoma causa galactorreia, hipogonadismo e {{c1::prolactina elevada}}.",
+      "verso": "Prolactina elevada",
+      "explicacao": "Macroadenoma pode causar cefaleia e defeito campimétrico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "hipofise",
+      "tags": [
+        "cm5",
+        "prolactinoma"
+      ],
+      "id": 12118
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Acromegalia deve ser rastreada com {{c1::IGF-1}}.",
+      "verso": "IGF-1",
+      "explicacao": "GH pulsa; IGF-1 é mais estável para rastreio.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "hipofise",
+      "tags": [
+        "cm5",
+        "acromegalia"
+      ],
+      "id": 12119
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 3,
+      "frente": "Apoplexia hipofisária = cefaleia súbita, alteração visual e risco de {{c1::insuficiência adrenal aguda}}.",
+      "verso": "Insuficiência adrenal aguda",
+      "explicacao": "Corticoide de estresse pode ser necessário antes da confirmação completa.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "apoplexia"
+      ],
+      "id": 12120
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Incidentaloma adrenal exige avaliar função hormonal e {{c1::risco radiológico}}.",
+      "verso": "Risco radiológico",
+      "explicacao": "Não basta medir tamanho; densidade, washout e secreção importam.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "incidentaloma",
+      "tags": [
+        "cm5",
+        "adrenal"
+      ],
+      "id": 12121
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Feocromocitoma lembra crises de cefaleia, sudorese, palpitações e {{c1::hipertensão paroxística}}.",
+      "verso": "Hipertensão paroxística",
+      "explicacao": "Confirmar bioquimicamente antes de operar.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "adrenal",
+      "tags": [
+        "cm5",
+        "feocromocitoma"
+      ],
+      "id": 12122
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Macroadenoma hipofisário próximo ao quiasma exige avaliação de {{c1::campo visual}}.",
+      "verso": "Campo visual",
+      "explicacao": "Defeito bitemporal é pista clássica de compressão quiasmática.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "hipofise",
+      "tags": [
+        "cm5",
+        "macroadenoma"
+      ],
+      "id": 12123
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a7",
+      "dificuldade": 2,
+      "frente": "Na insuficiência adrenal central, ACTH é baixo/inadequado e aldosterona costuma estar {{c1::preservada}}.",
+      "verso": "Preservada",
+      "explicacao": "Por isso hipercalemia é menos típica que na forma primária.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a7",
+      "categoria": "adrenal",
+      "tags": [
+        "cm5",
+        "adrenal_central"
+      ],
+      "id": 12124
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 1,
+      "frente": "Hipotireoidismo primário franco = TSH alto + {{c1::T4 livre baixo}}.",
+      "verso": "T4 livre baixo",
+      "explicacao": "A tireoide falha e a hipófise sobe TSH.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "tireoide",
+      "tags": [
+        "cm5",
+        "hipotireoidismo"
+      ],
+      "id": 12125
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 1,
+      "frente": "Hipertireoidismo primário = TSH suprimido + {{c1::T4 livre/T3 altos}}.",
+      "verso": "T4 livre/T3 altos",
+      "explicacao": "TSH baixo por feedback negativo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "tireoide",
+      "tags": [
+        "cm5",
+        "hipertireoidismo"
+      ],
+      "id": 12126
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "Graves sugere bócio difuso, TRAb positivo e {{c1::oftalmopatia}}.",
+      "verso": "Oftalmopatia",
+      "explicacao": "É a etiologia autoimune clássica de hipertireoidismo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "graves",
+      "tags": [
+        "cm5",
+        "graves"
+      ],
+      "id": 12127
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "Tireoidite libera hormônio pronto e costuma ter captação {{c1::baixa}}.",
+      "verso": "Baixa",
+      "explicacao": "Antitireoidiano não resolve liberação por inflamação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "tireoidite",
+      "tags": [
+        "cm5",
+        "tireoidite"
+      ],
+      "id": 12128
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 3,
+      "frente": "Tempestade tireotóxica exige betabloqueador, tionamida, iodo depois da tionamida, corticoide e {{c1::suporte}}.",
+      "verso": "Suporte",
+      "explicacao": "É emergência sistêmica, não apenas T4 alto.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "tempestade_tireotoxica"
+      ],
+      "id": 12129
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "Nódulo tireoidiano é estratificado por ultrassom; PAAF depende de {{c1::risco ecográfico e tamanho}}.",
+      "verso": "Risco ecográfico e tamanho",
+      "explicacao": "Não se punciona tudo nem se ignora nódulo suspeito.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "nodulo",
+      "tags": [
+        "cm5",
+        "nodulo_tireoide"
+      ],
+      "id": 12130
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 1,
+      "frente": "Osteoporose densitométrica = T-score {{c1::<= -2,5}}.",
+      "verso": "<= -2,5",
+      "explicacao": "Fratura de fragilidade também pesa como diagnóstico/alto risco.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "osso",
+      "tags": [
+        "cm5",
+        "osteoporose"
+      ],
+      "id": 12131
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "Fratura de quadril por baixa energia é {{c1::fratura de fragilidade}}.",
+      "verso": "Fratura de fragilidade",
+      "explicacao": "Não deve ser tratada como queda banal.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "osso",
+      "tags": [
+        "cm5",
+        "fragilidade"
+      ],
+      "id": 12132
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "Glicocorticoide crônico é causa importante de {{c1::osteoporose secundária}}.",
+      "verso": "Osteoporose secundária",
+      "explicacao": "Risco aparece cedo e depende de dose/duração.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "osso",
+      "tags": [
+        "cm5",
+        "corticoide"
+      ],
+      "id": 12133
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "FRAX ajuda a estimar risco de {{c1::fratura}} em osteopenia/risco intermediário.",
+      "verso": "Fratura",
+      "explicacao": "Não trate osteopenia olhando só T-score.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "osso",
+      "tags": [
+        "cm5",
+        "frax"
+      ],
+      "id": 12134
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 3,
+      "frente": "Denosumabe não deve ser suspenso sem {{c1::anti-reabsortivo subsequente}}.",
+      "verso": "Anti-reabsortivo subsequente",
+      "explicacao": "Evita rebote de remodelamento e fraturas vertebrais.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "denosumabe"
+      ],
+      "id": 12135
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a8",
+      "dificuldade": 2,
+      "frente": "Excesso de hormônio tireoidiano aumenta turnover ósseo e risco de {{c1::fratura}}.",
+      "verso": "Fratura",
+      "explicacao": "Inclui hipertireoidismo e excesso iatrogênico de levotiroxina.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a8",
+      "categoria": "integracao",
+      "tags": [
+        "cm5",
+        "tireoide",
+        "osso"
+      ],
+      "id": 12136
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 1,
+      "frente": "DRC exige alteração renal por pelo menos {{c1::3 meses}}.",
+      "verso": "3 meses",
+      "explicacao": "Sem persistência, pense em injúria aguda ou alteração transitória.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "conceito",
+      "tags": [
+        "cm5",
+        "drc"
+      ],
+      "id": 12137
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 1,
+      "frente": "Classificação de risco na DRC combina eTFG e {{c1::albuminúria}}.",
+      "verso": "Albuminúria",
+      "explicacao": "Albuminúria muda prognóstico mesmo com creatinina pouco alterada.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "classificacao",
+      "tags": [
+        "cm5",
+        "drc",
+        "albuminuria"
+      ],
+      "id": 12138
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "eTFG 45-59 mL/min/1,73 m2 corresponde a G{{c1::3a}}.",
+      "verso": "3a",
+      "explicacao": "G3a é perda moderada leve/moderada, depende também de albuminúria.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "classificacao",
+      "tags": [
+        "cm5",
+        "drc",
+        "gfr"
+      ],
+      "id": 12139
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "Albuminúria >= 300 mg/g corresponde a A{{c1::3}}.",
+      "verso": "3",
+      "explicacao": "A3 indica alto risco renal e cardiovascular.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "classificacao",
+      "tags": [
+        "cm5",
+        "drc",
+        "a3"
+      ],
+      "id": 12140
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "DRC diabética albuminúrica favorece {{c1::SGLT2i}} se eTFG permitir.",
+      "verso": "SGLT2i",
+      "explicacao": "Benefício cardiorrenal além da HbA1c.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "drc",
+        "sglt2"
+      ],
+      "id": 12141
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "IECA/BRA pode causar queda inicial esperada de {{c1::eTFG}}.",
+      "verso": "eTFG",
+      "explicacao": "Monitorar creatinina e potássio; não suspender automaticamente.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "drc",
+        "sraa"
+      ],
+      "id": 12142
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "Evitar {{c1::AINE}} é medida prática para proteger rim em DRC.",
+      "verso": "AINE",
+      "explicacao": "AINE reduz prostaglandina renal, piora perfusão e pode subir K.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "nefrotoxico",
+      "tags": [
+        "cm5",
+        "drc",
+        "aine"
+      ],
+      "id": 12143
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 3,
+      "frente": "Hipercalemia com alteração de ECG exige {{c1::tratamento imediato}}.",
+      "verso": "Tratamento imediato",
+      "explicacao": "Cálcio IV estabiliza membrana quando indicado; depois deslocar/remover K.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "hipercalemia"
+      ],
+      "id": 12144
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "Anemia da DRC ocorre por deficiência relativa de {{c1::eritropoetina}}.",
+      "verso": "Eritropoetina",
+      "explicacao": "Também há inflamação e distúrbio de ferro funcional.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "complicacoes",
+      "tags": [
+        "cm5",
+        "drc",
+        "anemia"
+      ],
+      "id": 12145
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "DRC avançada favorece acidose {{c1::metabólica}}.",
+      "verso": "Metabólica",
+      "explicacao": "Rim perde capacidade de excretar carga ácida.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "complicacoes",
+      "tags": [
+        "cm5",
+        "drc",
+        "acidose"
+      ],
+      "id": 12146
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "Hematúria glomerular, A3 e queda rápida de eTFG são red flags para {{c1::nefrologia}}.",
+      "verso": "Nefrologia",
+      "explicacao": "Pode haver glomerulopatia tratável.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "encaminhamento",
+      "tags": [
+        "cm5",
+        "drc",
+        "nefrologia"
+      ],
+      "id": 12147
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a9",
+      "dificuldade": 2,
+      "frente": "Creatinina isolada pode enganar em paciente com baixa {{c1::massa muscular}}.",
+      "verso": "Massa muscular",
+      "explicacao": "Use eTFG, albuminúria e contexto; cistatina C pode ajudar.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a9",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "drc",
+        "creatinina"
+      ],
+      "id": 12148
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Hematúria glomerular sugere hemácias {{c1::dismórficas}} e cilindros hemáticos.",
+      "verso": "Dismórficas",
+      "explicacao": "A deformação ocorre ao atravessar a barreira glomerular lesionada.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "glomerulopatia"
+      ],
+      "id": 12149
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Síndrome nefrítica combina hematúria, edema, hipertensão e queda de {{c1::função renal}}.",
+      "verso": "Função renal",
+      "explicacao": "É inflamação do glomérulo, não ITU baixa.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "sindromes",
+      "tags": [
+        "cm5",
+        "nefritica"
+      ],
+      "id": 12150
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Síndrome nefrótica combina proteinúria maciça, edema e {{c1::hipoalbuminemia}}.",
+      "verso": "Hipoalbuminemia",
+      "explicacao": "A perda de proteína reduz pressão oncótica e aumenta risco trombótico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "sindromes",
+      "tags": [
+        "cm5",
+        "nefrotica"
+      ],
+      "id": 12151
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 3,
+      "frente": "Creatinina subindo rápido com sedimento nefrítico sugere {{c1::GNRP}}.",
+      "verso": "GNRP",
+      "explicacao": "Glomerulonefrite rapidamente progressiva é emergência nefrológica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "emergencia",
+      "tags": [
+        "cm5",
+        "gnrp"
+      ],
+      "id": 12152
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Hematúria sinfaríngea é pista clássica de nefropatia por {{c1::IgA}}.",
+      "verso": "IgA",
+      "explicacao": "Surge muito próxima de infecção de via aérea.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "diagnostico",
+      "tags": [
+        "cm5",
+        "iga"
+      ],
+      "id": 12153
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Nefrite lúpica geralmente exige considerar {{c1::biópsia renal}} para classe.",
+      "verso": "Biópsia renal",
+      "explicacao": "A classe histológica guia intensidade terapêutica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "lupus",
+      "tags": [
+        "cm5",
+        "lupus"
+      ],
+      "id": 12154
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Bacteriúria assintomática deve ser tratada principalmente na gestação e antes de {{c1::procedimento urológico invasivo}}.",
+      "verso": "Procedimento urológico invasivo",
+      "explicacao": "Fora dessas situações, antibiótico costuma causar mais dano que benefício.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "itu",
+      "tags": [
+        "cm5",
+        "asb"
+      ],
+      "id": 12155
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Urocultura positiva sem sintoma urinário não define {{c1::ITU}}.",
+      "verso": "ITU",
+      "explicacao": "Colonização é comum, especialmente em idosos e usuários de cateter.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "itu",
+      "tags": [
+        "cm5",
+        "bacteriuria"
+      ],
+      "id": 12156
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 1,
+      "frente": "Disúria, urgência e polaciúria sem febre sugerem {{c1::cistite}}.",
+      "verso": "Cistite",
+      "explicacao": "É o padrão de ITU baixa não complicada.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "itu",
+      "tags": [
+        "cm5",
+        "cistite"
+      ],
+      "id": 12157
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "Febre, dor lombar e Giordano positivo sugerem {{c1::pielonefrite}}.",
+      "verso": "Pielonefrite",
+      "explicacao": "É ITU alta e pode exigir avaliação de gravidade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "itu",
+      "tags": [
+        "cm5",
+        "pielonefrite"
+      ],
+      "id": 12158
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 2,
+      "frente": "ITU em homem, gestante, obstrução, cálculo ou cateter tende a ser {{c1::complicada}}.",
+      "verso": "Complicada",
+      "explicacao": "O risco anatômico/funcional muda investigação e conduta.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "itu",
+      "tags": [
+        "cm5",
+        "complicada"
+      ],
+      "id": 12159
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a10",
+      "dificuldade": 3,
+      "frente": "Síndrome nefrótica aumenta risco de trombose, inclusive de veia {{c1::renal}}.",
+      "verso": "Renal",
+      "explicacao": "Dor em flanco e hematúria no nefrótico pedem lembrar trombose.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a10",
+      "categoria": "complicacoes",
+      "tags": [
+        "cm5",
+        "nefrotica"
+      ],
+      "id": 12160
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Cefaleia {{c1::thunderclap}} é HSA até prova em contrário.",
+      "verso": "thunderclap",
+      "explicacao": "Início máximo em segundos/minutos é red flag forte.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "cefaleia"
+      ],
+      "id": 12161
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Migrânea típica tem náusea e {{c1::foto/fonofobia}}.",
+      "verso": "foto/fonofobia",
+      "explicacao": "Piora ao esforço e dor pulsátil ajudam.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "migranea",
+      "tags": [
+        "cm5",
+        "cefaleia"
+      ],
+      "id": 12162
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Aura migranosa costuma ser gradual e {{c1::reversível}}.",
+      "verso": "reversível",
+      "explicacao": "Déficit súbito fixo sugere AIT/AVC.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "migranea",
+      "tags": [
+        "cm5",
+        "aura"
+      ],
+      "id": 12163
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Cluster tem dor orbitária unilateral com sintomas {{c1::autonômicos}}.",
+      "verso": "autonômicos",
+      "explicacao": "Lacrimejamento, rinorreia, ptose ou miose.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "cluster",
+      "tags": [
+        "cm5",
+        "cefaleia"
+      ],
+      "id": 12164
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Crise de cluster trata com oxigênio alto fluxo e {{c1::sumatriptano}}.",
+      "verso": "sumatriptano",
+      "explicacao": "Verapamil é prevenção clássica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "cluster"
+      ],
+      "id": 12165
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Migrânea estável sem red flags geralmente não precisa de {{c1::neuroimagem}}.",
+      "verso": "neuroimagem",
+      "explicacao": "Imagem sem indicação aumenta incidentaloma.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "imagem",
+      "tags": [
+        "cm5",
+        "cefaleia"
+      ],
+      "id": 12166
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Triptanos devem ser evitados em doença vascular e hipertensão grave {{c1::não controlada}}.",
+      "verso": "não controlada",
+      "explicacao": "São vasoconstritores.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "migranea"
+      ],
+      "id": 12167
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Uso frequente de abortivos causa cefaleia por {{c1::abuso de medicação}}.",
+      "verso": "abuso de medicação",
+      "explicacao": "Mais analgésico pode perpetuar a dor.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "cronificacao",
+      "tags": [
+        "cm5",
+        "cefaleia"
+      ],
+      "id": 12168
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Profilaxia de migrânea entra em crises frequentes ou {{c1::incapacitantes}}.",
+      "verso": "incapacitantes",
+      "explicacao": "Também se há abuso ou contraindicação de abortivos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "profilaxia",
+      "tags": [
+        "cm5",
+        "migranea"
+      ],
+      "id": 12169
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Cefaleia após 50 anos com claudicação mandibular sugere arterite {{c1::temporal}}.",
+      "verso": "temporal",
+      "explicacao": "Iniciar corticoide se suspeita forte.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "arterite"
+      ],
+      "id": 12170
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 2,
+      "frente": "Cefaleia com papiledema sugere hipertensão {{c1::intracraniana}}.",
+      "verso": "intracraniana",
+      "explicacao": "Exige investigação, não é migrânea simples.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "papiledema"
+      ],
+      "id": 12171
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a11",
+      "dificuldade": 3,
+      "frente": "Puerpério + cefaleia + convulsão/déficit lembra trombose {{c1::venosa cerebral}}.",
+      "verso": "venosa cerebral",
+      "explicacao": "Contexto hipercoagulável muda risco.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a11",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "tvc"
+      ],
+      "id": 12172
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 1,
+      "frente": "Demência exige declínio cognitivo com perda {{c1::funcional}}.",
+      "verso": "funcional",
+      "explicacao": "Sem perda de independência, pense em CCL.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "demencia",
+      "tags": [
+        "cm5",
+        "demencia"
+      ],
+      "id": 12173
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Delirium é agudo, flutuante e altera {{c1::atenção}}.",
+      "verso": "atenção",
+      "explicacao": "Não confundir com Alzheimer.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "delirium",
+      "tags": [
+        "cm5",
+        "delirium"
+      ],
+      "id": 12174
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "CCL altera cognição mas preserva {{c1::independência}}.",
+      "verso": "independência",
+      "explicacao": "Funcionalidade separa CCL de demência.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "demencia",
+      "tags": [
+        "cm5",
+        "ccl"
+      ],
+      "id": 12175
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Lewy combina flutuação, alucinações visuais e {{c1::parkinsonismo}}.",
+      "verso": "parkinsonismo",
+      "explicacao": "Cuidado com antipsicóticos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "demencia",
+      "tags": [
+        "cm5",
+        "lewy"
+      ],
+      "id": 12176
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "HPN lembra marcha, urina e {{c1::cognição}}.",
+      "verso": "cognição",
+      "explicacao": "Mnemônico clássico da tríade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "demencia",
+      "tags": [
+        "cm5",
+        "hpn"
+      ],
+      "id": 12177
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Meningite bacteriana é emergência e não espera tríade {{c1::completa}}.",
+      "verso": "completa",
+      "explicacao": "Tríade pode estar ausente.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "meningite",
+      "tags": [
+        "cm5",
+        "meningite"
+      ],
+      "id": 12178
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "TC antes da LP é indicada com déficit focal ou {{c1::papiledema}}.",
+      "verso": "papiledema",
+      "explicacao": "Também imunossupressão, convulsão recente e rebaixamento importante.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "meningite",
+      "tags": [
+        "cm5",
+        "lp"
+      ],
+      "id": 12179
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 3,
+      "frente": "Se LP atrasar em meningite suspeita, não atrase {{c1::antibiótico}}.",
+      "verso": "antibiótico",
+      "explicacao": "Coletar hemoculturas se possível.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "meningite",
+      "tags": [
+        "cm5",
+        "antibiotico"
+      ],
+      "id": 12180
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Líquor bacteriano típico tem glicose {{c1::baixa}}.",
+      "verso": "baixa",
+      "explicacao": "Também neutrófilos e proteína alta.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "liquor",
+      "tags": [
+        "cm5",
+        "meningite"
+      ],
+      "id": 12181
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Ampicilina cobre {{c1::Listeria}} em idosos, gestantes e imunossuprimidos.",
+      "verso": "Listeria",
+      "explicacao": "Adicionar ao esquema empírico nesses grupos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "listeria"
+      ],
+      "id": 12182
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Dexametasona deve vir antes ou junto do primeiro {{c1::antibiótico}} quando indicada.",
+      "verso": "antibiótico",
+      "explicacao": "Tempo define benefício.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "dexametasona"
+      ],
+      "id": 12183
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a12",
+      "dificuldade": 2,
+      "frente": "Meningococo exige profilaxia de contatos {{c1::próximos}}.",
+      "verso": "próximos",
+      "explicacao": "Contato casual geralmente não entra.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+      "categoria": "saude_publica",
+      "tags": [
+        "cm5",
+        "meningococo"
+      ],
+      "id": 12184
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "OMA precisa de membrana timpânica {{c1::abaulada}}.",
+      "verso": "abaulada",
+      "explicacao": "Hiperemia isolada não basta.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "otite",
+      "tags": [
+        "cm5",
+        "orl"
+      ],
+      "id": 12185
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "OME é efusão sem infecção {{c1::aguda}}.",
+      "verso": "aguda",
+      "explicacao": "Não recebe antibiótico automático.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "otite",
+      "tags": [
+        "cm5",
+        "ome"
+      ],
+      "id": 12186
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Otite externa dói ao tracionar {{c1::pavilhão}}.",
+      "verso": "pavilhão",
+      "explicacao": "Também dói ao pressionar tragus.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "otite",
+      "tags": [
+        "cm5",
+        "externa"
+      ],
+      "id": 12187
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Rinossinusite bacteriana é persistente, grave ou de {{c1::piora dupla}}.",
+      "verso": "piora dupla",
+      "explicacao": "Padrão temporal manda.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "rinossinusite",
+      "tags": [
+        "cm5",
+        "sinusite"
+      ],
+      "id": 12188
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Rinite alérgica tem prurido, espirros e rinorreia {{c1::aquosa}}.",
+      "verso": "aquosa",
+      "explicacao": "Olho coçando reforça alergia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "rinite",
+      "tags": [
+        "cm5",
+        "rinite"
+      ],
+      "id": 12189
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Corticoide {{c1::intranasal}} é pilar da rinite alérgica persistente.",
+      "verso": "intranasal",
+      "explicacao": "Melhor controle anti-inflamatório local.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "rinite"
+      ],
+      "id": 12190
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Descongestionante tópico prolongado causa rinite {{c1::medicamentosa}}.",
+      "verso": "medicamentosa",
+      "explicacao": "Rebote piora obstrução.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "rinite",
+      "tags": [
+        "cm5",
+        "rebote"
+      ],
+      "id": 12191
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Rinossinusite aguda simples não precisa de {{c1::TC}} de rotina.",
+      "verso": "TC",
+      "explicacao": "Imagem fica para complicação/atipia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "imagem",
+      "tags": [
+        "cm5",
+        "sinusite"
+      ],
+      "id": 12192
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 3,
+      "frente": "Diplopia em sinusite sugere complicação {{c1::orbitária}}.",
+      "verso": "orbitária",
+      "explicacao": "Olho muda gravidade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "sinusite"
+      ],
+      "id": 12193
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "OME persistente deve levantar avaliação de {{c1::audição}}.",
+      "verso": "audição",
+      "explicacao": "Risco de impacto funcional.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "otite",
+      "tags": [
+        "cm5",
+        "audicao"
+      ],
+      "id": 12194
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 2,
+      "frente": "Amox-clav é lembrada em OMA com conjuntivite {{c1::purulenta}}.",
+      "verso": "purulenta",
+      "explicacao": "Sugere patógeno produtor de beta-lactamase.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "oma"
+      ],
+      "id": 12195
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a13",
+      "dificuldade": 1,
+      "frente": "Analgesia é parte central do tratamento da {{c1::otalgia}}.",
+      "verso": "otalgia",
+      "explicacao": "Não trate só o micróbio.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "dor"
+      ],
+      "id": 12196
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Tosse, coriza e rouquidão favorecem faringite {{c1::viral}}.",
+      "verso": "viral",
+      "explicacao": "Reduz probabilidade de GAS.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "faringite",
+      "tags": [
+        "cm5",
+        "orl"
+      ],
+      "id": 12197
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "GAS clássico tem febre, exsudato e ausência de {{c1::tosse}}.",
+      "verso": "tosse",
+      "explicacao": "Centor/McIsaac ajudam probabilidade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "faringite",
+      "tags": [
+        "cm5",
+        "gas"
+      ],
+      "id": 12198
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "EBV causa linfonodo posterior e {{c1::esplenomegalia}}.",
+      "verso": "esplenomegalia",
+      "explicacao": "Evitar esporte se baço aumentado.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "ebv",
+      "tags": [
+        "cm5",
+        "mononucleose"
+      ],
+      "id": 12199
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Amoxicilina em EBV pode causar {{c1::rash}}.",
+      "verso": "rash",
+      "explicacao": "Não significa alergia obrigatória.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "ebv",
+      "tags": [
+        "cm5",
+        "rash"
+      ],
+      "id": 12200
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 3,
+      "frente": "Trismo e desvio de úvula sugerem abscesso {{c1::peritonsilar}}.",
+      "verso": "peritonsilar",
+      "explicacao": "Não é faringite simples.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "abscesso",
+      "tags": [
+        "cm5",
+        "orl"
+      ],
+      "id": 12201
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Disfonia >4 semanas em tabagista pede {{c1::laringoscopia}}.",
+      "verso": "laringoscopia",
+      "explicacao": "Red flag oncológica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "disfonia",
+      "tags": [
+        "cm5",
+        "voz"
+      ],
+      "id": 12202
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Rinne normal é condução aérea maior que {{c1::óssea}}.",
+      "verso": "óssea",
+      "explicacao": "AC > BC.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "audicao",
+      "tags": [
+        "cm5",
+        "rinne"
+      ],
+      "id": 12203
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Weber lateraliza para o lado afetado na perda {{c1::condutiva}}.",
+      "verso": "condutiva",
+      "explicacao": "Na sensorioneural lateraliza para o melhor ouvido.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "audicao",
+      "tags": [
+        "cm5",
+        "weber"
+      ],
+      "id": 12204
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 3,
+      "frente": "Surdez súbita neurossensorial é urgência {{c1::otológica}}.",
+      "verso": "otológica",
+      "explicacao": "Audiometria e tratamento têm janela.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "surdez",
+      "tags": [
+        "cm5",
+        "ssnhl"
+      ],
+      "id": 12205
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Estridor em dor de garganta é red flag de {{c1::via aérea}}.",
+      "verso": "via aérea",
+      "explicacao": "Prioridade muda.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "estridor"
+      ],
+      "id": 12206
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 2,
+      "frente": "Cultura após RADT negativo é mais lembrada em {{c1::crianças}}.",
+      "verso": "crianças",
+      "explicacao": "Risco de febre reumática muda estratégia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "faringite",
+      "tags": [
+        "cm5",
+        "gas"
+      ],
+      "id": 12207
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a14",
+      "dificuldade": 1,
+      "frente": "Penicilina/amoxicilina tratam faringite por {{c1::GAS}}.",
+      "verso": "GAS",
+      "explicacao": "Quando diagnóstico é confirmado/provável conforme protocolo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "gas"
+      ],
+      "id": 12208
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "VPPB é vertigem breve desencadeada por {{c1::posição}}.",
+      "verso": "posição",
+      "explicacao": "Segundos ao virar na cama.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "vppb",
+      "tags": [
+        "cm5",
+        "vertigem"
+      ],
+      "id": 12209
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "Dix-Hallpike diagnostica VPPB de canal {{c1::posterior}}.",
+      "verso": "posterior",
+      "explicacao": "Reproduz vertigem e nistagmo típico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "vppb",
+      "tags": [
+        "cm5",
+        "dix"
+      ],
+      "id": 12210
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "Epley é tratamento de {{c1::VPPB}}.",
+      "verso": "VPPB",
+      "explicacao": "Reposiciona otólitos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "tratamento",
+      "tags": [
+        "cm5",
+        "epley"
+      ],
+      "id": 12211
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "Neurite vestibular não deve ter perda {{c1::auditiva}} importante.",
+      "verso": "auditiva",
+      "explicacao": "Perda auditiva sugere labirintite/Ménière.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "neurite",
+      "tags": [
+        "cm5",
+        "vertigem"
+      ],
+      "id": 12212
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "Ménière combina vertigem, tinnitus, plenitude e {{c1::hipoacusia}}.",
+      "verso": "hipoacusia",
+      "explicacao": "Crises duram minutos a horas.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "meniere",
+      "tags": [
+        "cm5",
+        "vertigem"
+      ],
+      "id": 12213
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 3,
+      "frente": "Nistagmo vertical sugere causa {{c1::central}}.",
+      "verso": "central",
+      "explicacao": "Red flag de tronco/cerebelo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "central",
+      "tags": [
+        "cm5",
+        "vertigem"
+      ],
+      "id": 12214
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 3,
+      "frente": "Ataxia grave em vertigem aguda sugere {{c1::AVC}} posterior.",
+      "verso": "AVC",
+      "explicacao": "Não tranquilizar com TC normal.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "central",
+      "tags": [
+        "cm5",
+        "avc"
+      ],
+      "id": 12215
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "HINTS só serve na síndrome vestibular aguda {{c1::contínua}}.",
+      "verso": "contínua",
+      "explicacao": "Não usar em tontura episódica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "hints",
+      "tags": [
+        "cm5",
+        "hints"
+      ],
+      "id": 12216
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "Migrânea vestibular associa vertigem a pistas {{c1::migranosas}}.",
+      "verso": "migranosas",
+      "explicacao": "Foto/fonofobia e história de migrânea ajudam.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "migranea",
+      "tags": [
+        "cm5",
+        "vertigem"
+      ],
+      "id": 12217
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "Labirintite verdadeira combina vertigem e perda {{c1::auditiva}}.",
+      "verso": "auditiva",
+      "explicacao": "Não usar como rótulo genérico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "labirintite",
+      "tags": [
+        "cm5",
+        "orl"
+      ],
+      "id": 12218
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 2,
+      "frente": "TC normal não exclui AVC de fossa {{c1::posterior}}.",
+      "verso": "posterior",
+      "explicacao": "Limitação de sensibilidade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "imagem",
+      "tags": [
+        "cm5",
+        "avc"
+      ],
+      "id": 12219
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a15",
+      "dificuldade": 1,
+      "frente": "Vertigem deve ser classificada por tempo e {{c1::gatilho}}.",
+      "verso": "gatilho",
+      "explicacao": "Evita rótulo genérico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+      "categoria": "abordagem",
+      "tags": [
+        "cm5",
+        "vertigem"
+      ],
+      "id": 12220
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Olho vermelho com dor e baixa visual é {{c1::urgência}}.",
+      "verso": "urgência",
+      "explicacao": "Não trate como conjuntivite banal.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "olho_vermelho",
+      "tags": [
+        "cm5",
+        "oftalmo"
+      ],
+      "id": 12221
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 3,
+      "frente": "Queimadura química ocular exige {{c1::irrigação imediata}}.",
+      "verso": "irrigação imediata",
+      "explicacao": "Não espere completar exame.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "trauma",
+      "tags": [
+        "cm5",
+        "queimadura"
+      ],
+      "id": 12222
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 3,
+      "frente": "Globo aberto contraindica {{c1::tonometria}}.",
+      "verso": "tonometria",
+      "explicacao": "Não comprimir o olho.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "trauma",
+      "tags": [
+        "cm5",
+        "globo_aberto"
+      ],
+      "id": 12223
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Lente de contato com dor sugere {{c1::ceratite}}.",
+      "verso": "ceratite",
+      "explicacao": "Pseudomonas é preocupação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "cornea",
+      "tags": [
+        "cm5",
+        "lente"
+      ],
+      "id": 12224
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Fluoresceína evidencia abrasão/úlcera de {{c1::córnea}}.",
+      "verso": "córnea",
+      "explicacao": "Útil em dor/fotofobia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "cornea",
+      "tags": [
+        "cm5",
+        "fluoresceina"
+      ],
+      "id": 12225
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Fotofobia consensual sugere {{c1::uveíte}}.",
+      "verso": "uveíte",
+      "explicacao": "Dor ao iluminar o olho contralateral.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "uveite",
+      "tags": [
+        "cm5",
+        "fotofobia"
+      ],
+      "id": 12226
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Glaucoma agudo dá dor, halos, náusea e pupila {{c1::média fixa}}.",
+      "verso": "média fixa",
+      "explicacao": "Urgência visual.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "glaucoma",
+      "tags": [
+        "cm5",
+        "glaucoma"
+      ],
+      "id": 12227
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 1,
+      "frente": "Hiposfagma isolado sem dor costuma ser {{c1::benigno}}.",
+      "verso": "benigno",
+      "explicacao": "Verificar trauma/anticoagulação se contexto.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "conjuntiva",
+      "tags": [
+        "cm5",
+        "hiposfagma"
+      ],
+      "id": 12228
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Esclerite causa dor ocular {{c1::profunda}} intensa.",
+      "verso": "profunda",
+      "explicacao": "Associa doença sistêmica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "esclerite",
+      "tags": [
+        "cm5",
+        "olho"
+      ],
+      "id": 12229
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Hifema é sangue na câmara {{c1::anterior}}.",
+      "verso": "anterior",
+      "explicacao": "Pode elevar PIO.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "trauma",
+      "tags": [
+        "cm5",
+        "hifema"
+      ],
+      "id": 12230
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Córnea é estrutura-chave em dor e {{c1::fotofobia}}.",
+      "verso": "fotofobia",
+      "explicacao": "Lesão corneana dói muito.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "anatomia",
+      "tags": [
+        "cm5",
+        "cornea"
+      ],
+      "id": 12231
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a16",
+      "dificuldade": 2,
+      "frente": "Baixa visual é red flag em olho {{c1::vermelho}}.",
+      "verso": "vermelho",
+      "explicacao": "Muda urgência.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "olho"
+      ],
+      "id": 12232
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 3,
+      "frente": "CRAO é {{c1::AVC ocular}}.",
+      "verso": "AVC ocular",
+      "explicacao": "Perda monocular súbita indolor é urgência.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "retina",
+      "tags": [
+        "cm5",
+        "crao"
+      ],
+      "id": 12233
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Cherry-red spot sugere {{c1::CRAO}}.",
+      "verso": "CRAO",
+      "explicacao": "Retina pálida com mácula em cereja.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "retina",
+      "tags": [
+        "cm5",
+        "fundoscopia"
+      ],
+      "id": 12234
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Blood and thunder sugere {{c1::CRVO}}.",
+      "verso": "CRVO",
+      "explicacao": "Hemorragias difusas e veias tortuosas.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "retina",
+      "tags": [
+        "cm5",
+        "crvo"
+      ],
+      "id": 12235
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Flashes, floaters e cortina sugerem descolamento de {{c1::retina}}.",
+      "verso": "retina",
+      "explicacao": "Avaliação urgente.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "retina",
+      "tags": [
+        "cm5",
+        "descolamento"
+      ],
+      "id": 12236
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Neurite óptica dói ao mover o {{c1::olho}}.",
+      "verso": "olho",
+      "explicacao": "Pode ter RAPD.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "nervo_optico",
+      "tags": [
+        "cm5",
+        "neurite"
+      ],
+      "id": 12237
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "RAPD é defeito pupilar {{c1::aferente}}.",
+      "verso": "aferente",
+      "explicacao": "Localiza retina/nervo óptico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "pupila",
+      "tags": [
+        "cm5",
+        "rapd"
+      ],
+      "id": 12238
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Papiledema bilateral sugere hipertensão {{c1::intracraniana}}.",
+      "verso": "intracraniana",
+      "explicacao": "Investigar causa.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "papiledema",
+      "tags": [
+        "cm5",
+        "papila"
+      ],
+      "id": 12239
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 3,
+      "frente": "Arterite temporal com risco visual recebe {{c1::corticoide}} urgente.",
+      "verso": "corticoide",
+      "explicacao": "Não esperar biópsia se suspeita forte.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "arterite",
+      "tags": [
+        "cm5",
+        "gca"
+      ],
+      "id": 12240
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Perda visual monocular localiza antes do {{c1::quiasma}}.",
+      "verso": "quiasma",
+      "explicacao": "Olho, retina ou nervo óptico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "localizacao",
+      "tags": [
+        "cm5",
+        "visao"
+      ],
+      "id": 12241
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Aura migranosa visual costuma ser gradual e {{c1::reversível}}.",
+      "verso": "reversível",
+      "explicacao": "Diferencia de evento vascular súbito.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "aura",
+      "tags": [
+        "cm5",
+        "migranea"
+      ],
+      "id": 12242
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Retinopatia diabética tem microaneurismas e {{c1::exsudatos}}.",
+      "verso": "exsudatos",
+      "explicacao": "Neovasos indicam estágio proliferativo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "retina",
+      "tags": [
+        "cm5",
+        "diabetes"
+      ],
+      "id": 12243
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a17",
+      "dificuldade": 2,
+      "frente": "Hemorragia vítrea reduz o reflexo {{c1::vermelho}}.",
+      "verso": "vermelho",
+      "explicacao": "Sangue bloqueia o eixo visual.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+      "categoria": "retina",
+      "tags": [
+        "cm5",
+        "vitreo"
+      ],
+      "id": 12244
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Zóster é vesicular, doloroso e {{c1::dermatomal}}.",
+      "verso": "dermatomal",
+      "explicacao": "Geralmente unilateral.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "viral",
+      "tags": [
+        "cm5",
+        "zoster"
+      ],
+      "id": 12245
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 3,
+      "frente": "Sinal de Hutchinson sugere zóster {{c1::oftálmico}}.",
+      "verso": "oftálmico",
+      "explicacao": "Risco ocular.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "viral",
+      "tags": [
+        "cm5",
+        "zoster"
+      ],
+      "id": 12246
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Molusco tem pápula {{c1::umbilicada}}.",
+      "verso": "umbilicada",
+      "explicacao": "Centro deprimido.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "viral",
+      "tags": [
+        "cm5",
+        "molusco"
+      ],
+      "id": 12247
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Tinea corporis tem borda {{c1::ativa}}.",
+      "verso": "ativa",
+      "explicacao": "KOH vem da borda.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "micose",
+      "tags": [
+        "cm5",
+        "tinea"
+      ],
+      "id": 12248
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Tinea capitis exige antifúngico {{c1::sistêmico}}.",
+      "verso": "sistêmico",
+      "explicacao": "Creme não alcança folículo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "micose",
+      "tags": [
+        "cm5",
+        "capitis"
+      ],
+      "id": 12249
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Corticoide pode mascarar tinea: tinea {{c1::incognito}}.",
+      "verso": "incognito",
+      "explicacao": "Lesão fica atípica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "micose",
+      "tags": [
+        "cm5",
+        "incognito"
+      ],
+      "id": 12250
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Pitiríase versicolor é causada por {{c1::Malassezia}}.",
+      "verso": "Malassezia",
+      "explicacao": "Máculas descamativas no tronco.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "micose",
+      "tags": [
+        "cm5",
+        "malassezia"
+      ],
+      "id": 12251
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Candidíase em dobra tem lesões {{c1::satélites}}.",
+      "verso": "satélites",
+      "explicacao": "Intertrigo candidiásico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "micose",
+      "tags": [
+        "cm5",
+        "candida"
+      ],
+      "id": 12252
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Verruga anogenital por HPV é diagnóstico {{c1::clínico}}.",
+      "verso": "clínico",
+      "explicacao": "HPV teste não fecha lesão visível.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "hpv",
+      "tags": [
+        "cm5",
+        "hpv"
+      ],
+      "id": 12253
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Varicela tem lesões em diferentes {{c1::estágios}}.",
+      "verso": "estágios",
+      "explicacao": "Polimorfismo lesional.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "viral",
+      "tags": [
+        "cm5",
+        "varicela"
+      ],
+      "id": 12254
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Ramsay Hunt associa zóster ótico e paralisia {{c1::facial}}.",
+      "verso": "facial",
+      "explicacao": "Pode ter hipoacusia/vertigem.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "viral",
+      "tags": [
+        "cm5",
+        "ramsay"
+      ],
+      "id": 12255
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a18",
+      "dificuldade": 2,
+      "frente": "Esporotricose pode seguir trajeto {{c1::linfangítico}}.",
+      "verso": "linfangítico",
+      "explicacao": "Pista após trauma/inoculação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+      "categoria": "micose",
+      "tags": [
+        "cm5",
+        "esporotricose"
+      ],
+      "id": 12256
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Psoríase típica acomete superfícies {{c1::extensoras}}.",
+      "verso": "extensoras",
+      "explicacao": "Cotovelos e joelhos.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "dermato"
+      ],
+      "id": 12257
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Pitting ungueal reforça {{c1::psoríase}}.",
+      "verso": "psoríase",
+      "explicacao": "Unha muda gravidade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "unha"
+      ],
+      "id": 12258
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Psoríase gutata pode seguir faringite {{c1::estreptocócica}}.",
+      "verso": "estreptocócica",
+      "explicacao": "Jovens e lesões em gotas.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "gutata"
+      ],
+      "id": 12259
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Dermatite seborreica tem escama {{c1::gordurosa}}.",
+      "verso": "gordurosa",
+      "explicacao": "Áreas sebáceas.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "seborreica",
+      "tags": [
+        "cm5",
+        "dermato"
+      ],
+      "id": 12260
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Pitiríase rósea começa com placa {{c1::mãe}}.",
+      "verso": "mãe",
+      "explicacao": "Depois árvore de Natal.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "pitiriase",
+      "tags": [
+        "cm5",
+        "dermato"
+      ],
+      "id": 12261
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Sífilis secundária pode acometer palmas e {{c1::plantas}}.",
+      "verso": "plantas",
+      "explicacao": "Não esquecer sorologia.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "sifilis",
+      "tags": [
+        "cm5",
+        "dermato"
+      ],
+      "id": 12262
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Tinea tem borda {{c1::ativa}}.",
+      "verso": "ativa",
+      "explicacao": "Mimetiza eczema/psoríase.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "tinea",
+      "tags": [
+        "cm5",
+        "dermato"
+      ],
+      "id": 12263
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 3,
+      "frente": "Psoríase eritrodérmica é forma {{c1::grave}}.",
+      "verso": "grave",
+      "explicacao": "Risco sistêmico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "grave"
+      ],
+      "id": 12264
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Dactilite sugere artrite {{c1::psoriásica}}.",
+      "verso": "psoriásica",
+      "explicacao": "Não é só pele.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "artrite",
+      "tags": [
+        "cm5",
+        "psoriase"
+      ],
+      "id": 12265
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Koebner é lesão em área de {{c1::trauma}}.",
+      "verso": "trauma",
+      "explicacao": "Fenômeno isomórfico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "koebner"
+      ],
+      "id": 12266
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Auspitz é sangramento {{c1::puntiforme}}.",
+      "verso": "puntiforme",
+      "explicacao": "Após remover escama.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "auspitz"
+      ],
+      "id": 12267
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a19",
+      "dificuldade": 2,
+      "frente": "Psoríase inversa ocorre em {{c1::dobras}}.",
+      "verso": "dobras",
+      "explicacao": "Pouca descamação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+      "categoria": "psoriase",
+      "tags": [
+        "cm5",
+        "inversa"
+      ],
+      "id": 12268
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Charcot = febre, icterícia e dor em {{c1::HCD}}.",
+      "verso": "HCD",
+      "explicacao": "Tríade de colangite.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "colangite",
+      "tags": [
+        "cm5",
+        "ictericia"
+      ],
+      "id": 12269
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 3,
+      "frente": "Reynolds adiciona hipotensão e {{c1::confusão}}.",
+      "verso": "confusão",
+      "explicacao": "Gravidade na colangite.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "colangite",
+      "tags": [
+        "cm5",
+        "sepsis"
+      ],
+      "id": 12270
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Leptospirose lembra enchente e dor de {{c1::panturrilha}}.",
+      "verso": "panturrilha",
+      "explicacao": "Sufusão conjuntival e IRA reforçam.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "lepto",
+      "tags": [
+        "cm5",
+        "infecto"
+      ],
+      "id": 12271
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "LV = febre prolongada, esplenomegalia e {{c1::pancitopenia}}.",
+      "verso": "pancitopenia",
+      "explicacao": "Área endêmica importa.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "lv",
+      "tags": [
+        "cm5",
+        "baço"
+      ],
+      "id": 12272
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Malária confirma com gota {{c1::espessa}}.",
+      "verso": "espessa",
+      "explicacao": "Ou teste rápido conforme cenário.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "malaria",
+      "tags": [
+        "cm5",
+        "febre"
+      ],
+      "id": 12273
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Dengue grave envolve choque, sangramento ou {{c1::órgão}}.",
+      "verso": "órgão",
+      "explicacao": "Disfunção orgânica muda gravidade.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "dengue",
+      "tags": [
+        "cm5",
+        "arbovirose"
+      ],
+      "id": 12274
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Adenopatia supraclavicular é red flag de {{c1::malignidade}}.",
+      "verso": "malignidade",
+      "explicacao": "Especialmente dura/fixa.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "linfonodo",
+      "tags": [
+        "cm5",
+        "adenomegalia"
+      ],
+      "id": 12275
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Sintomas B = febre, sudorese noturna e {{c1::perda de peso}}.",
+      "verso": "perda de peso",
+      "explicacao": "Pista de linfoma/TB/HIV.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "linfoma",
+      "tags": [
+        "cm5",
+        "b_symptoms"
+      ],
+      "id": 12276
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 3,
+      "frente": "Evite {{c1::corticoide}} antes de biópsia em suspeita de linfoma estável.",
+      "verso": "corticoide",
+      "explicacao": "Pode apagar diagnóstico.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "linfoma",
+      "tags": [
+        "cm5",
+        "biopsia"
+      ],
+      "id": 12277
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "EBV pode causar esplenomegalia e risco de ruptura {{c1::esplênica}}.",
+      "verso": "esplênica",
+      "explicacao": "Evitar esporte de contato.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "ebv",
+      "tags": [
+        "cm5",
+        "baço"
+      ],
+      "id": 12278
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "FA/GGT e bilirrubina direta sugerem padrão {{c1::colestático}}.",
+      "verso": "colestático",
+      "explicacao": "Pensa via biliar.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "ictericia",
+      "tags": [
+        "cm5",
+        "colestase"
+      ],
+      "id": 12279
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a20",
+      "dificuldade": 2,
+      "frente": "Epidemiologia é central em icterícia {{c1::febril}}.",
+      "verso": "febril",
+      "explicacao": "Viagem, enchente e área endêmica mudam tudo.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+      "categoria": "abordagem",
+      "tags": [
+        "cm5",
+        "febre"
+      ],
+      "id": 12280
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 1,
+      "frente": "Perda relevante é >{{c1::5%}} em 6-12 meses.",
+      "verso": "5%",
+      "explicacao": "Definição prática.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "definicao",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12281
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Confirme peso real antes de {{c1::investigar}} em excesso.",
+      "verso": "investigar",
+      "explicacao": "Balança e edema importam.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "abordagem",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12282
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Perda com polifagia sugere DM ou {{c1::hipertireoidismo}}.",
+      "verso": "hipertireoidismo",
+      "explicacao": "Gasto/perda metabólica.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "endocrino",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12283
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Disfagia progressiva com perda sugere câncer de {{c1::esôfago}}.",
+      "verso": "esôfago",
+      "explicacao": "Red flag GI.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "cancer",
+      "tags": [
+        "cm5",
+        "disfagia"
+      ],
+      "id": 12284
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Febre e sudorese noturna são sintomas {{c1::B}}.",
+      "verso": "B",
+      "explicacao": "Linfoma/TB/HIV entram.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "red_flag",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12285
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Idoso com perda pede avaliar dentição e {{c1::depressão}}.",
+      "verso": "depressão",
+      "explicacao": "Também demência e social.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "geriatria",
+      "tags": [
+        "cm5",
+        "idoso"
+      ],
+      "id": 12286
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Exame inicial inclui hemograma, TSH e {{c1::glicemia}}.",
+      "verso": "glicemia",
+      "explicacao": "Baseia próximas etapas.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "exames",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12287
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Perda + anemia ferropriva sugere trato {{c1::GI}}.",
+      "verso": "GI",
+      "explicacao": "Câncer colorretal é preocupação.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "gi",
+      "tags": [
+        "cm5",
+        "anemia"
+      ],
+      "id": 12288
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "GLP-1 pode causar perda de {{c1::peso}}.",
+      "verso": "peso",
+      "explicacao": "Revisar medicações.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "medicacao",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12289
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Investigação negativa e estável pede {{c1::seguimento}} estruturado.",
+      "verso": "seguimento",
+      "explicacao": "Peso, retorno e novas pistas.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "seguimento",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12290
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "Cachexia não é só magreza; envolve inflamação e perda {{c1::muscular}}.",
+      "verso": "muscular",
+      "explicacao": "Prognóstico pior.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "cachexia",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12291
+    },
+    {
+      "materia": "clinica_medica5",
+      "tema": "cm5_a21",
+      "dificuldade": 2,
+      "frente": "TC de corpo inteiro não substitui {{c1::história}} clínica.",
+      "verso": "história",
+      "explicacao": "Evita caça aleatória.",
+      "origem": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+      "categoria": "abordagem",
+      "tags": [
+        "cm5",
+        "peso"
+      ],
+      "id": 12292
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "IBP deve ser tomado antes da {{c1::refeição}} principal.",
+      "verso": "refeição",
+      "explicacao": "Bomba ativa melhora efeito.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "ibp",
+      "tags": [
+        "farm",
+        "digestorio"
+      ],
+      "id": 12293
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "IBP inibe a bomba {{c1::H/K ATPase}} da célula parietal.",
+      "verso": "H/K ATPase",
+      "explicacao": "Inibição irreversível da bomba de prótons.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "ibp",
+      "tags": [
+        "farm",
+        "drge"
+      ],
+      "id": 12294
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Bloqueador H2 perde efeito contínuo por {{c1::taquifilaxia}}.",
+      "verso": "taquifilaxia",
+      "explicacao": "Limita uso crônico diário.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "h2",
+      "tags": [
+        "farm",
+        "acido"
+      ],
+      "id": 12295
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Sucralfato pode reduzir {{c1::absorção}} de outros fármacos.",
+      "verso": "absorção",
+      "explicacao": "Espaçar administração.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "citoprotetor",
+      "tags": [
+        "farm",
+        "sucralfato"
+      ],
+      "id": 12296
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Misoprostol é contraindicado na {{c1::gestação}}.",
+      "verso": "gestação",
+      "explicacao": "Efeito uterotônico.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "citoprotetor",
+      "tags": [
+        "farm",
+        "misoprostol"
+      ],
+      "id": 12297
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Bismuto pode escurecer fezes e {{c1::língua}}.",
+      "verso": "língua",
+      "explicacao": "Não confundir automaticamente com melena.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "bismuto",
+      "tags": [
+        "farm",
+        "hpylori"
+      ],
+      "id": 12298
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Ondansetrona bloqueia receptor {{c1::5-HT3}}.",
+      "verso": "5-HT3",
+      "explicacao": "Cuidado com QT e constipação.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "antiemetico",
+      "tags": [
+        "farm",
+        "ondansetrona"
+      ],
+      "id": 12299
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Metoclopramida antagoniza {{c1::D2}} e é procinética.",
+      "verso": "D2",
+      "explicacao": "Também tem efeito 5-HT4.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "procinetico",
+      "tags": [
+        "farm",
+        "metoclopramida"
+      ],
+      "id": 12300
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 3,
+      "frente": "Metoclopramida prolongada pode causar discinesia {{c1::tardia}}.",
+      "verso": "tardia",
+      "explicacao": "Toxicidade neurológica relevante.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "seguranca",
+      "tags": [
+        "farm",
+        "metoclopramida"
+      ],
+      "id": 12301
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Procinético é evitado em obstrução {{c1::gastrointestinal}}.",
+      "verso": "gastrointestinal",
+      "explicacao": "Pode piorar quadro mecânico.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "contraindicacao",
+      "tags": [
+        "farm",
+        "procinético"
+      ],
+      "id": 12302
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Náusea vestibular responde a anti-H1 ou {{c1::antimuscarínico}}.",
+      "verso": "antimuscarínico",
+      "explicacao": "Mecanismo vestibular.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "antiemetico",
+      "tags": [
+        "farm",
+        "vestibular"
+      ],
+      "id": 12303
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a1",
+      "dificuldade": 2,
+      "frente": "Terapia quádrupla com {{c1::bismuto}} é opção forte em H. pylori sem susceptibilidade conhecida.",
+      "verso": "bismuto",
+      "explicacao": "Padrão reforçado em diretriz recente.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+      "categoria": "hpylori",
+      "tags": [
+        "farm",
+        "bismuto"
+      ],
+      "id": 12304
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "AINEs inibem {{c1::COX}} e reduzem prostaglandinas.",
+      "verso": "COX",
+      "explicacao": "Base do efeito analgésico/anti-inflamatório.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "aine",
+      "tags": [
+        "farm",
+        "aine"
+      ],
+      "id": 12305
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "Prostaglandinas protegem mucosa gástrica e perfusão {{c1::renal}}.",
+      "verso": "renal",
+      "explicacao": "Bloqueio gera risco GI/renal.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "seguranca",
+      "tags": [
+        "farm",
+        "aine"
+      ],
+      "id": 12306
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "IECA/BRA + diurético + AINE é o {{c1::triple whammy}} renal.",
+      "verso": "triple whammy",
+      "explicacao": "Risco de IRA hemodinâmica.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "renal",
+      "tags": [
+        "farm",
+        "aine"
+      ],
+      "id": 12307
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "COX-2 seletivo mantém preocupação {{c1::cardiovascular}}.",
+      "verso": "cardiovascular",
+      "explicacao": "Menos GI relativo não significa sem risco.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "cox2",
+      "tags": [
+        "farm",
+        "aine"
+      ],
+      "id": 12308
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "AAS inibe plaquetas de forma {{c1::irreversível}}.",
+      "verso": "irreversível",
+      "explicacao": "Plaqueta não refaz COX.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "aas",
+      "tags": [
+        "farm",
+        "plaqueta"
+      ],
+      "id": 12309
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "IBP com AINE protege risco {{c1::gastrointestinal}}, não renal.",
+      "verso": "gastrointestinal",
+      "explicacao": "Não protege rim/coração.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "gastroprotecao",
+      "tags": [
+        "farm",
+        "aine"
+      ],
+      "id": 12310
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "Corticoide sistêmico aumenta risco de {{c1::hiperglicemia}}.",
+      "verso": "hiperglicemia",
+      "explicacao": "Monitorar diabetes/glicose.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "corticoide",
+      "tags": [
+        "farm",
+        "glicose"
+      ],
+      "id": 12311
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "Corticoide crônico aumenta risco de osteoporose e {{c1::fratura}}.",
+      "verso": "fratura",
+      "explicacao": "Avaliar prevenção.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "corticoide",
+      "tags": [
+        "farm",
+        "osso"
+      ],
+      "id": 12312
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "Uso prolongado de corticoide pode suprimir eixo {{c1::HHA}}.",
+      "verso": "HHA",
+      "explicacao": "Hipotálamo-hipófise-adrenal.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "adrenal",
+      "tags": [
+        "farm",
+        "corticoide"
+      ],
+      "id": 12313
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 3,
+      "frente": "Suspensão abrupta de corticoide crônico pode causar insuficiência {{c1::adrenal}}.",
+      "verso": "adrenal",
+      "explicacao": "Desmame é parte da prescrição.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "adrenal",
+      "tags": [
+        "farm",
+        "desmame"
+      ],
+      "id": 12314
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 3,
+      "frente": "Paciente em risco de supressão adrenal pode precisar dose de {{c1::estresse}}.",
+      "verso": "estresse",
+      "explicacao": "Cirurgia/infecção grave.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "adrenal",
+      "tags": [
+        "farm",
+        "stress"
+      ],
+      "id": 12315
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farm_a2",
+      "dificuldade": 2,
+      "frente": "Corticoide crônico exige plano de osso, glicemia, PA, infecção e {{c1::desmame}}.",
+      "verso": "desmame",
+      "explicacao": "Monitorização evita dano previsível.",
+      "origem": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+      "categoria": "seguranca",
+      "tags": [
+        "farm",
+        "corticoide"
+      ],
+      "id": 12316
     }
   ]
 }

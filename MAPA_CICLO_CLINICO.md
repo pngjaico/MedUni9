@@ -4,7 +4,7 @@
 >
 > Para a fila de trabalho detalhada e checkboxes por aula, ver [`PLANO_CICLO_CLINICO.md`](PLANO_CICLO_CLINICO.md).
 >
-> **Última atualização:** 2026-05-07 (revisão crítica v2.0).
+> **Última atualização:** 2026-05-07 (CM5 completo estruturalmente + blindagem anti-decaimento).
 
 ---
 
@@ -23,10 +23,10 @@
 | Métrica | Valor atual | Alvo |
 |---|---|---|
 | Aulas no `materias.json` (Mod 5–8) | 184 | — |
-| Aulas com `.md` em padrão v3 | 0 | 184 |
+| Aulas com `.md` em padrão v3 | 23 | 184 |
 | Aulas com `.md` em padrão v2 (a elevar) | 62 | 0 |
-| Aulas sem `.md` | 122 | 0 |
-| Aula piloto aprovada | ❌ não | ✅ sim |
+| Aulas sem `.md` | 99 | 0 |
+| Aula piloto aprovada | ✅ sim (`cm5_a1`) | ✅ sim |
 | Linter v3 implementado | ✅ sim | ✅ |
 | Sistema de qualidade ativo | ✅ definido | ⏱️ em uso |
 
@@ -36,10 +36,10 @@
 
 | Disciplina | Aulas | `.md` v3 | `.md` v2 | Faltam | Questões | Flashcards | Status |
 |---|---|---|---|---|---|---|---|
-| **clinica_medica5 (CM5)** | 21 | 0 | 0 | 21 | 0 | 0 | 🔴 |
+| **clinica_medica5 (CM5)** | 21 | 21 | 0 | 0 | 252 | 252 | 🟡 completo; dívida de densidade/negrito |
 | **clinica_cirurgica5 (CC5)** | 10 | 0 | 0 | 10 | 0 | 0 | 🔴 |
-| **farmaco_aplicada (FARM)** | 12 | 0 | 1 | 11 | 39 | 0 | 🔴 |
-| **TOTAL Mod 5** | **43** | **0** | **1** | **42** | **39** | **0** | 🔴 |
+| **farmaco_aplicada (FARM)** | 12 | 2 | 1 | 10 | 61 | 34 | 🟡 iniciado |
+| **TOTAL Mod 5** | **43** | **23** | **1** | **20** | **313** | **286** | 🟡 |
 
 ---
 
@@ -47,11 +47,11 @@
 
 | Disciplina | Aulas | `.md` v3 | `.md` v2 | Faltam | Questões | Flashcards | Status |
 |---|---|---|---|---|---|---|---|
-| **clinica_medica6 (CM6)** | 24 | 0 | 24 | 0 | 0 | 0 | 🟡 |
-| **mfc6 (MFC)** | 6 | 0 | 6 | 0 | 0 | 0 | 🟡 |
-| **cirurgia_ortopedia (CIR6)** | 21 | 0 | 21 | 0 | 1 | 0 | 🟡 |
-| **tecnica_operatoria (TO/TCAR)** | 10 | 0 | 10 | 0 | 21 | 59 | 🟡 |
-| **TOTAL Mod 6** | **61** | **0** | **61** | **0** | **22** | **59** | 🟡 |
+| **clinica_medica6 (CM6)** | 24 | 0 | 24 | 0 | 119 | 0 | 🟡 |
+| **mfc6 (MFC)** | 6 | 0 | 6 | 0 | 30 | 0 | 🟡 |
+| **cirurgia_ortopedia (CIR6)** | 21 | 0 | 21 | 0 | 104 | 0 | 🟡 |
+| **tecnica_operatoria (TO/TCAR)** | 10 | 0 | 10 | 0 | 59 | 59 | 🟡 |
+| **TOTAL Mod 6** | **61** | **0** | **61** | **0** | **312** | **59** | 🟡 |
 
 ---
 
@@ -81,11 +81,11 @@
 | Métrica | Mod 5 | Mod 6 | Mod 8 | Mod 7+9 (futuro) | Total |
 |---|---|---|---|---|---|
 | Aulas no catálogo | 43 | 61 | 80 | ~150 | 334 |
-| Materiais v3 | 0 | 0 | 0 | 0 | 0 |
+| Materiais v3 | 23 | 0 | 0 | 0 | 23 |
 | Materiais v2 (a elevar) | 1 | 61 | 0 | 0 | 62 |
-| Faltam completamente | 42 | 0 | 80 | 150 | 272 |
-| Questões | 39 | 22 | 1 | 0 | 62 |
-| Flashcards | 0 | 59 | 0 | 0 | 59 |
+| Faltam completamente | 20 | 0 | 80 | 150 | 250 |
+| Questões | 313 | 312 | 1 | 0 | 626 |
+| Flashcards | 286 | 59 | 0 | 0 | 345 |
 
 ---
 
@@ -93,13 +93,13 @@
 
 | Métrica | Alvo | Atual |
 |---|---|---|
-| % aulas com header YAML v3 | 100% | 0% |
+| % aulas com header YAML v3 | 100% | 23/184 |
 | % aulas com ≥ 2 macetes assinados | 95% | — |
 | % aulas com vinheta clínica de 3 atos | 90% | — |
 | % aulas com ≥ 2 fontes canônicas | 95% | — |
-| Flashcards/aula clínica | 12 | 0,6 |
-| Questões inéditas/aula clínica | 5 | 0,6 |
-| Questões públicas mapeadas/aula | 3+ | 0 |
+| Flashcards/aula clínica | 12 | 345/104 (média bruta; distribuição ruim) |
+| Questões inéditas/aula clínica | 5 | 626/104 (média bruta; qualidade não auditada) |
+| Questões públicas mapeadas/aula | 3+ | refs internas criadas para CM5 e FARM inicial; qualidade de URLs não auditada |
 | Taxa de aprovação Camada 2 | ≥ 80% | — |
 | Taxa de aprovação humana sample | ≥ 85% | — |
 | Erros críticos publicados | 0 | 0 (sem produção ainda) |
@@ -111,10 +111,10 @@
 > Estas são as aulas que o aluno vai ter prova **logo**. Priorizar nesta ordem.
 
 ### Onda 1 — Aula piloto (Etapa 1 do plano-mestre)
-1. **`cm5_a1`** Hipertensão Arterial Sistêmica → gold standard
+1. **`cm5_a1`** Hipertensão Arterial Sistêmica → ✅ gold standard local
 
 ### Onda 2 — Farmacologia base (Etapa 3A)
-2. `farm_a9` Anti-hipertensivos (par com HAS)
+2. `farm_a9` Anti-hipertensivos (par com HAS) **ou** `farm_a1` v3 se a prioridade for primeiro elevar o material antigo
 3. `farm_a4` Antibióticos 1
 4. `farm_a5` Antibióticos 2
 5. `farm_a10` Antiarrítmicos / Antianginosos
@@ -170,3 +170,5 @@
 | 2026-05-07 | Criação do mapa. Ciclo clínico ainda não iniciado oficialmente. Persona, prompt v3 e plano-mestre criados. |
 | 2026-05-07 | Inventário completo dos planos de ensino: 4 PDFs Mod 5, 4 PDFs Mod 6, 5 PDFs Mod 8 (Mod 8 com nomes corrompidos). |
 | 2026-05-07 | Revisão crítica v2.0: sistema de qualidade 5 camadas, aula piloto (`cm5_a1`), linter v3, agente revisor clínico, bibliotecas (macetes/fontes), reorg de pasta legado, risk register, métricas de qualidade, integração end-to-end, roadmap Mod 7+. |
+| 2026-05-07 | Codex integrou a branch Claude, fechou `cm5_a1` localmente (linter v3 ok, piloto canônico, 12 flashcards, 12 questões essenciais, refs públicas mapeadas) e corrigiu as contagens do mapa com base no JSON real. |
+| 2026-05-07 | Codex fechou CM5 estruturalmente e iniciou FARM, mas a auditoria anti-decaimento rebaixou CM5 para revisão de densidade/negrito antes de considerar padrão elite. |

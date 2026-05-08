@@ -8,10 +8,9 @@ Estende `scripts/validate_materiais_md.mjs` (que valida v2/basico) com:
   - Tabelas estritas (1a coluna negrito, sem <br>, sem listas em celula)
   - Persona MedGradPlus (>= 3 callouts)
   - Macetes assinados (>= 2 com prefixo "Macete MedGradPlus")
-  - Vinheta clinica de 3 atos
   - Mini Quiz com 5-8 questoes, 1 caso longo
   - Fontes (>= 2 com livro/edicao)
-  - Mais de 180 linhas
+  - Mais de 240 linhas
   - Espelhamento data/materiais <-> materiais/moduloN
 
 Uso:
@@ -57,13 +56,12 @@ PROIBIDOS = {
 }
 
 # Limites do v3
-MIN_LINHAS = 180
+MIN_LINHAS = 240
 MIN_MACETES = 2
 MIN_PERSONA_CALLOUTS = 3
 MIN_FONTES = 2
 MIN_MINI_QUIZ = 5
 MAX_MINI_QUIZ = 8
-MIN_VINHETA = 1
 
 
 def load_materias() -> dict:
@@ -142,7 +140,6 @@ def check_persona_callouts(text: str) -> list[dict]:
     - Perola Clinica
     - Macete MedGradPlus
     - Aqui no MedGradPlus
-    - Caso da Semana
     """
     norm = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii").lower()
     keywords = [
@@ -151,7 +148,6 @@ def check_persona_callouts(text: str) -> list[dict]:
         "perola clinica",
         "macete medgradplus",
         "aqui no medgradplus",
-        "caso da semana",
     ]
     blockquote_lines = [l for l in text.split("\n") if l.strip().startswith(">")]
     bq_text = "\n".join(blockquote_lines).lower()
@@ -162,13 +158,19 @@ def check_persona_callouts(text: str) -> list[dict]:
     return []
 
 
-def check_vinheta_3atos(text: str) -> list[dict]:
-    norm = text.lower()
-    if "ato 1" in norm and "ato 2" in norm and "ato 3" in norm:
-        return []
-    if "caso da semana" in norm and "pergunta 1" in norm and "pergunta 2" in norm:
-        return []
-    return [{"sev": "warn", "cat": "vinheta", "msg": "Vinheta clinica de 3 atos nao detectada"}]
+def check_secoes_proibidas(text: str) -> list[dict]:
+    issues = []
+    proibidas = [
+        (r"^##\s+Caso da Semana\s*$", "Caso da Semana"),
+        (r"^##\s+Ponte com próximas aulas\s*$", "Ponte com próximas aulas"),
+        (r"^##\s+Questões(?:\s+de\s+Residência)?\s*(?:\(mapeadas\)|mapeadas)?\s*$", "Questões mapeadas/residência"),
+    ]
+    for pattern, label in proibidas:
+        if re.search(pattern, text, flags=re.IGNORECASE | re.MULTILINE):
+            issues.append({"sev": "error", "cat": "estrutura", "msg": f"Secao proibida no material: {label}"})
+    if re.search(r"^\s*>\s*\*\*Caso da Semana", text, flags=re.IGNORECASE | re.MULTILINE):
+        issues.append({"sev": "error", "cat": "estrutura", "msg": "Callout proibido: Caso da Semana"})
+    return issues
 
 
 def check_mini_quiz(text: str) -> list[dict]:
@@ -288,7 +290,7 @@ def lint_aula(modulo: int, materia_id: str, aula_id: str) -> dict:
     issues.extend(check_tamanho(text))
     issues.extend(check_macetes_assinados(text))
     issues.extend(check_persona_callouts(text))
-    issues.extend(check_vinheta_3atos(text))
+    issues.extend(check_secoes_proibidas(text))
     issues.extend(check_mini_quiz(text))
     issues.extend(check_tabelas(text))
     issues.extend(check_fontes(text))

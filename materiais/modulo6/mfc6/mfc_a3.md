@@ -3,16 +3,6 @@
 **Disciplina:** Medicina de Família e Comunidade 6  
 **Módulo:** 6 | **Referência principal:** WONCA, SBMFC, PNAB e Linhas de Cuidado da APS | **Tempo de estudo sugerido:** 20-30 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-Longitudinalidade é o atributo que transforma consultas isoladas em trajetória de cuidado. Em MFC, doenças crônicas como hipertensão, diabetes, DPOC e depressão não são manejadas como "eventos", mas como processos que exigem vínculo, revisão de metas e coordenação interprofissional contínua.
-
-Na prova, esse tema aparece em casos de baixa adesão, múltiplas comorbidades e repetidas idas à urgência. A alternativa correta geralmente é a que combina acompanhamento estruturado, clínica ampliada e integração com território, em vez de intensificar conduta farmacológica sem plano de seguimento.
-
----
-
 ## Longitudinalidade: o que muda no desfecho
 
 Quando a mesma equipe acompanha o paciente por longo período, ela reconhece padrões de piora, barreiras de adesão e gatilhos psicossociais mais cedo. Isso reduz descompensações e hospitalizações evitáveis.
@@ -40,27 +30,6 @@ A longitudinalidade também melhora decisão terapêutica porque permite avaliar
 - **Tipo sugerido:** diagrama temporal clínico.
 - **Legenda (rascunho):** Longitudinalidade permite pequenos ajustes contínuos que evitam grandes desfechos.
 
----
-
-## Clínica ampliada e projeto terapêutico singular
-
-Clínica ampliada considera simultaneamente doença, subjetividade e contexto social. Em condições crônicas, isso significa que conduta eficaz depende de rotina de trabalho, apoio familiar, renda, literacia em saúde e saúde mental.
-
-O projeto terapêutico singular (PTS) organiza objetivos graduais e realistas para cada pessoa. Em vez de prescrever metas inalcançáveis, a equipe pactua prioridades possíveis, com revisão periódica e corresponsabilização.
-
-Exemplo: paciente com diabetes mal controlado, insônia e insegurança alimentar. Conduta centrada apenas em aumentar dose de medicação tende a falhar. Conduta ampliada inclui ajuste farmacológico, educação em saúde, articulação territorial e plano de retorno com monitoramento ativo.
-
-### Figura sugerida
-
-**Figura-ID:** `MFC-A3-F02`
-
-- **Momento:** após o exemplo de PTS.
-- **O que mostrar:** quadro de PTS com metas clínicas, metas funcionais e ações de suporte territorial.
-- **Tipo sugerido:** esquema de plano de cuidado.
-- **Legenda (rascunho):** Projeto terapêutico singular integra objetivo biomédico e viabilidade social.
-
----
-
 ## Território, autocuidado apoiado e equipe multiprofissional
 
 Longitudinalidade robusta depende de território conhecido. A equipe identifica fatores que dificultam autocuidado, como insegurança alimentar, jornada de trabalho instável, violência e ausência de cuidador.
@@ -74,36 +43,6 @@ O autocuidado apoiado exige linguagem simples, objetivos de curto prazo e checag
 | Dificuldade de transporte | Perda de retorno e exames | Agenda integrada e priorização de demandas no mesmo dia |
 | Baixa alfabetização em saúde | Uso incorreto de medicação | Educação com linguagem acessível e técnica de "ensinar de volta" |
 | Sobrecarga familiar/cuidado | Abandono de metas terapêuticas | Plano simplificado e divisão de prioridades por etapas |
-
----
-
-## Coordenação da rede em condições crônicas
-
-Longitudinalidade não exclui encaminhamento; ela organiza encaminhamento com propósito. O especialista contribui em pontos específicos, enquanto a APS mantém visão global e continuidade do plano.
-
-A cada transição, a equipe deve revisar medicações, metas e sinais de alarme. Essa rotina reduz eventos adversos de fragmentação, especialmente em polifarmácia e multimorbidade.
-
-> **Dica de Prova:** a melhor alternativa costuma incluir retorno programado após mudança terapêutica importante.
-
-> **Pegadinha:** "encaminhar e aguardar" sem plano intermediário da APS em paciente de alto risco.
-
----
-
-## Ponte com a Clínica
-
-Em caso de hipertensão resistente associada a ansiedade e baixa adesão, a abordagem de MFC é longitudinal e ampliada: revisar técnica de uso, simplificar esquema, pactuar meta progressiva, acionar apoio multiprofissional e monitorar de perto nos primeiros meses. O ganho vem da continuidade, não de uma intervenção única.
-
----
-
-## Pontos-Chave para Prova
-
-- Longitudinalidade melhora desfecho em crônicos por vínculo e ajuste progressivo.
-- Clínica ampliada integra doença, subjetividade e condições de vida.
-- PTS é ferramenta prática para metas factíveis e revisáveis.
-- Território orienta intensidade de seguimento e desenho da conduta.
-- Coordenação com especialista mantém APS como eixo do plano global.
-
----
 
 ## Pré-Prova
 

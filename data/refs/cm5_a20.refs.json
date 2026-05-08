@@ -1,0 +1,38 @@
+{
+  "aula_id": "cm5_a20",
+  "materia": "clinica_medica5",
+  "tema": "Hepatoesplenomegalia, Icterícia Febril e Adenomegalias",
+  "generatedAt": "2026-05-08T00:20:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a20",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Tema é sindrômico e ganha mais com algoritmo/tabela diferencial do que com imagem isolada."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Ministério da Saúde. Leptospirose - recomendações de conduta clínica.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Ministério da Saúde. Leishmaniose visceral grave.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Tokyo Guidelines. Acute cholangitis and cholecystitis.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de hepatologia e infectologia.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

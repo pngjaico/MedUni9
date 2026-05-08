@@ -1,0 +1,39 @@
+{
+  "aula_id": "cm5_a18",
+  "materia": "clinica_medica5",
+  "tema": "Dermatoses Virais e Micoses",
+  "generatedAt": "2026-05-08T00:20:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a18",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A18-F01",
+    "motivo": "Dermatologia depende de morfologia; zóster dermatomal é sinal visual que muda diagnóstico e urgência ocular."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "CDC. Clinical Overview of Shingles.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "CDC. Molluscum Contagiosum Clinical Overview.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "CDC. Ringworm Clinical Overview.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Ministério da Saúde. Micoses endêmicas.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de dermatologia infecciosa.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

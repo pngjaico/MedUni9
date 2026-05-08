@@ -1,0 +1,84 @@
+{
+  "aula_id": "cm5_a1",
+  "materia": "clinica_medica5",
+  "modulo": 5,
+  "tema": "Hipertensão Arterial Sistêmica",
+  "gerado_em": "2026-05-07",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "Goldman-Cecil Medicine",
+      "edicao": "26ª edição",
+      "capitulo": "Hipertensão Arterial Sistêmica",
+      "relevancia": "principal"
+    }
+  ],
+  "diretrizes": [
+    {
+      "titulo": "Diretriz Brasileira de Hipertensão Arterial - 2025",
+      "instituicao": "Sociedade Brasileira de Cardiologia / Sociedade Brasileira de Hipertensão / Sociedade Brasileira de Nefrologia",
+      "url": "https://abccardiol.org/article/diretriz-brasileira-de-hipertensao-arterial-2025/",
+      "uso": "referência nacional vigente para diagnóstico, estratificação, metas, tratamento e emergências hipertensivas"
+    },
+    {
+      "titulo": "Diretriz Brasileira de Hipertensão Arterial - 2025",
+      "instituicao": "Sociedade Brasileira de Cardiologia / Sociedade Brasileira de Hipertensão / Sociedade Brasileira de Nefrologia",
+      "url": "https://abccardiol.org/article/diretriz-brasileira-de-hipertensao-arterial-2025/",
+      "uso": "referência nacional vigente para diagnóstico, estratificação, metas, tratamento e emergências hipertensivas"
+    },
+    {
+      "titulo": "2017 ACC/AHA Hypertension Guideline",
+      "instituicao": "American College of Cardiology / American Heart Association",
+      "url": "https://professional.heart.org/en/science-news/2017-hypertension-clinical-guidelines/top-things-to-know",
+      "uso": "comparação de cortes diagnósticos com a diretriz americana"
+    }
+  ],
+  "questoes_publicas": [
+    {
+      "fonte": "INEP ENADE Medicina",
+      "ano": 2016,
+      "questao": "27",
+      "url": "https://download.inep.gov.br/educacao_superior/enade/provas/2016/medicina.pdf",
+      "topico_mapeado": "HAS com doença renal, proteinúria e escolha de IECA/BRA",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Não transcrever o enunciado no app sem nova checagem de licença; usar como referência de tema."
+    },
+    {
+      "fonte": "INEP ENAMED",
+      "ano": 2025,
+      "questao": "29",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "topico_mapeado": "AVC isquêmico, níveis pressóricos e elegibilidade para trombólise",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Mapeia a interface entre HAS, emergência neurológica e conduta em AVC."
+    },
+    {
+      "fonte": "INEP ENADE Medicina",
+      "ano": 2004,
+      "questao": "Discursiva 6",
+      "url": "https://download.inep.gov.br/download/superior/2004/enade/provas/MEDICINA.pdf",
+      "topico_mapeado": "HAS crônica, insuficiência cardíaca e escolha terapêutica inicial",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Boa ponte para complicações cardiovasculares da HAS no internato."
+    }
+  ],
+  "pontos_de_prova": [
+    "Diagnóstico de HAS por consultório, MAPA e MRPA.",
+    "Avental branco versus hipertensão mascarada.",
+    "Quando iniciar fármaco junto com mudança de estilo de vida.",
+    "Escolha de classe por comorbidade: DM, DRC, IC, pós-IAM, negro e idoso.",
+    "HAS resistente e papel da espironolactona.",
+    "Urgência versus emergência hipertensiva.",
+    "HAS secundária: hiperaldosteronismo primário, renovascular e feocromocitoma."
+  ],
+  "observacoes": "Atualizado para usar Diretriz Brasileira de Hipertensão Arterial 2025 como referência nacional vigente; questões públicas seguem mapeadas sem transcrição.",
+  "imagens": [
+    {
+      "figura_id": "CM5-A1-F01",
+      "fonte": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Checking_blood_pressure_at_home.jpg",
+      "licenca": "CC0 1.0",
+      "status": "catalogada_no_app"
+    }
+  ]
+}

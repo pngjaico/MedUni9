@@ -3,6 +3,13 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "audit:questoes": "node scripts/audit_questoes_mapping_coverage.mjs",
+    "fix:questoes": "node scripts/fix_questoes_mapping_and_essenciais.mjs",
+    "generate:essenciais": "node scripts/generate_essenciais_queue_gemini.mjs",
+    "generate:essenciais:local": "node scripts/generate_essenciais_queue_local.mjs",
+    "audit:essenciais:local": "node scripts/audit_essenciais_alignment_local.mjs",
+    "trim:essenciais": "node scripts/trim_essenciais_excess.mjs",
+    "validate:questoes": "node scripts/validate_questoes_consistency.mjs",
     "validate:materiais": "node scripts/validate_materiais_md.mjs",
     "restore:firestore-backup": "node scripts/restore-firestore-from-dump.mjs",
     "stripe:list-prices": "node scripts/list-stripe-prices.mjs",

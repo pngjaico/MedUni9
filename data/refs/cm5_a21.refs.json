@@ -1,0 +1,38 @@
+{
+  "aula_id": "cm5_a21",
+  "materia": "clinica_medica5",
+  "tema": "Perda de Peso Não Intencional",
+  "generatedAt": "2026-05-08T00:20:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a21",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Perda de peso é algoritmo diagnóstico e red flags; imagem não acrescenta informação acionável."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "AAFP. Unintentional Weight Loss in Older Adults.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "NICE. Suspected cancer: recognition and referral NG12.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Merck Manual Professional. Involuntary Weight Loss.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de sintomas sistêmicos e oncologia.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de abordagem clínica.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

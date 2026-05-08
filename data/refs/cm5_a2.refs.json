@@ -1,0 +1,85 @@
+{
+  "aula_id": "cm5_a2",
+  "materia": "clinica_medica5",
+  "modulo": 5,
+  "tema": "Interpretação do Eletrocardiograma",
+  "gerado_em": "2026-05-07",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "Cecil-Goldman Medicine",
+      "edicao": "26ª edição",
+      "capitulo": "Avaliação cardiovascular e eletrocardiografia clínica",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Harrison's Principles of Internal Medicine",
+      "edicao": "21ª edição",
+      "capitulo": "Eletrocardiografia, dor torácica e síndrome coronariana",
+      "relevancia": "complementar"
+    }
+  ],
+  "diretrizes": [
+    {
+      "titulo": "AHA/ACCF/HRS Recommendations for the Standardization and Interpretation of the Electrocardiogram",
+      "instituicao": "American Heart Association / American College of Cardiology Foundation / Heart Rhythm Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19228821/",
+      "uso": "padronização de interpretação, intervalos, ST-T, QT e terminologia"
+    },
+    {
+      "titulo": "Electrocardiogram (ECG or EKG)",
+      "instituicao": "American Heart Association",
+      "url": "https://www.heart.org/en/health-topics/heart-attack/diagnosing-a-heart-attack/electrocardiogram-ecg-or-ekg",
+      "uso": "explicação institucional de finalidade do ECG e relação com ritmo/atividade elétrica cardíaca"
+    }
+  ],
+  "questoes_publicas": [
+    {
+      "fonte": "INEP ENAMED",
+      "ano": 2025,
+      "questao": "16",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "topico_mapeado": "ECG em avaliação clínica e risco cardiovascular",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Usar como calibrador de estilo; não copiar enunciado."
+    },
+    {
+      "fonte": "INEP ENAMED",
+      "ano": 2025,
+      "questao": "67",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "topico_mapeado": "dor torácica, infradesnivelamento de ST e síndrome coronariana",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Questão pública útil para calibrar integração ECG + clínica + biomarcador."
+    },
+    {
+      "fonte": "FGV/Ebserh ENARE",
+      "ano": 2024,
+      "questao": "Acesso Direto - caderno tipo 1",
+      "url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos-medica.html",
+      "topico_mapeado": "temas cardiovasculares em acesso direto: ritmo, pressão arterial, insuficiência cardíaca e risco clínico",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Página oficial lista cadernos e gabaritos; triagem automatizada local identificou recorrência cardiovascular."
+    }
+  ],
+  "imagens": [
+    {
+      "figura_id": "CM5-A2-F01",
+      "fonte": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Electrocardiogram_12derivations_male_23yo_Japanese.png",
+      "licenca": "Public domain",
+      "status": "catalogada_no_app"
+    }
+  ],
+  "pontos_de_prova": [
+    "Calibração: 25 mm/s e 10 mm/mV.",
+    "Frequência em ritmo regular: 300/quadrados grandes.",
+    "Critérios de ritmo sinusal.",
+    "Eixo por DI/aVF e papel de DII.",
+    "PR, QRS e QTc.",
+    "Supra/infra de ST por derivações contíguas.",
+    "Hipercalemia e QTc prolongado.",
+    "Artefato versus arritmia verdadeira."
+  ],
+  "observacoes": "Questões públicas mapeadas por tema, sem transcrição. A aula é introdutória; arritmias completas ficam em cm5_a4."
+}

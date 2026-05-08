@@ -1,0 +1,47 @@
+{
+  "aula_id": "cm5_a4",
+  "materia": "clinica_medica5",
+  "tema": "Arritmias Cardíacas",
+  "generatedAt": "2026-05-07T18:00:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a4",
+  "fontes_base": [
+    {
+      "tipo": "diretriz",
+      "titulo": "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001193",
+      "uso": "diagnóstico de FA, anticoagulação, exceções para válvula mecânica/estenose mitral e estratégia de controle."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "2024 ESC Guidelines for the management of atrial fibrillation",
+      "url": "https://academic.oup.com/eurheartj/article/45/36/3314/7738779",
+      "uso": "modelo AF-CARE, risco tromboembólico e manejo integrado."
+    },
+    {
+      "tipo": "algoritmo",
+      "titulo": "AHA 2025 Guidelines for CPR and ECC - Adult Bradycardia and Tachycardia With a Pulse",
+      "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines",
+      "uso": "taquicardia com pulso, bradicardia sintomática, atropina, pacing e cardioversão."
+    }
+  ],
+  "questoes_publicas": [
+    {
+      "origem": "ENARE 2024",
+      "url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos-medica.html",
+      "descricao": "Questão pública de acesso direto com estenose mitral moderada e fibrilação atrial no Holter; usada apenas como mapeamento temático para anticoagulação com VKA.",
+      "copiar_enunciado": false
+    },
+    {
+      "origem": "ENAMED 2025",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "descricao": "Questão pública com fibrilação atrial no contexto de AVC agudo; usada como mapeamento de risco tromboembólico, sem transcrição.",
+      "copiar_enunciado": false
+    },
+    {
+      "origem": "ENAMED 2025",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "descricao": "Questão pública com síncope e ECG em paciente com perda ponderal; usada como mapeamento para risco elétrico/ECG, sem transcrição.",
+      "copiar_enunciado": false
+    }
+  ]
+}

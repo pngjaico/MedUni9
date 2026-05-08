@@ -113,5 +113,24 @@
     "qualificacao_status": "approved",
     "proxima_verificacao_em": "2026-05-22T11:42:22.331Z",
     "notas": "Promovido de conta existente"
+  },
+  "emb_mp19lvgbs": {
+    "id": "emb_mp19lvgbs",
+    "nome": "Shearlley",
+    "email": "miguelina.rocha@uni9.edu.br",
+    "telefone": "",
+    "modulo": "1-12",
+    "vitalicio": true,
+    "comissao_percentual": 10,
+    "comissao_total": 0,
+    "vendas_valor_total": 0,
+    "cupomCode": "SHEAR",
+    "ativo": true,
+    "criadoEm": "2026-04-22T14:14:42.105Z",
+    "ultimaVendaEm": null,
+    "vendas_abril_2026": 0,
+    "qualificacao_status": "approved",
+    "proxima_verificacao_em": "2026-05-22T14:14:42.105Z",
+    "notas": ""
   }
 }

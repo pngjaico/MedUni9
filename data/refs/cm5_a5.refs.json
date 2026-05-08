@@ -1,0 +1,35 @@
+{
+  "aula_id": "cm5_a5",
+  "materia": "clinica_medica5",
+  "tema": "Doença Arterial Coronariana Crônica",
+  "generatedAt": "2026-05-07T18:15:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a5",
+  "fontes_base": [
+    {
+      "tipo": "diretriz",
+      "titulo": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease",
+      "url": "https://www.acc.org/Guidelines/Guidelines/2023/07/20/12/34/Chronic-Coronary-Disease",
+      "uso": "definição de CCD, metas terapêuticas, prevenção secundária e seleção de revascularização."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "2024 ESC Guidelines for the management of chronic coronary syndromes",
+      "url": "https://academic.oup.com/eurheartj/article/45/36/3415/7743115",
+      "uso": "probabilidade pré-teste, testes anatômicos/funcionais e manejo de CCS."
+    }
+  ],
+  "questoes_publicas": [
+    {
+      "origem": "ENAMED 2025",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "descricao": "Questão pública com dor torácica, infra de ST, troponina positiva e GRACE alto; usada apenas como mapeamento para diferenciar DAC crônica de SCA.",
+      "copiar_enunciado": false
+    },
+    {
+      "origem": "ENARE 2024",
+      "url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos-medica.html",
+      "descricao": "Caderno público de acesso direto revisado por termos de isquemia/dor torácica; usado para calibração temática, sem transcrição.",
+      "copiar_enunciado": false
+    }
+  ]
+}

@@ -1,16 +1,5 @@
 # Espirometria e Prova de Função Pulmonar
 
-**Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (fisiologia respiratória; testes de função pulmonar)  
-**Tempo de estudo sugerido:** 10–20 min
-
----
-
-## Relevância Clínica e Acadêmica
-
-A **prova de função pulmonar (PFP)** traduz a **mecânica respiratória** e as **trocas gasosas** em números comparáveis com **valores previstos** ajustados a idade, sexo e altura. A **espirometria** é o exame mais acessível: mede **volumes** e **fluxos** durante manobras forçadas. No *Cecil*, a interpretação separa **padrão obstrutivo** (fluxo diminuído, relação **VEF1/CVF** reduzida após broncodilatador quando aplicável) de **restritivo** (capacidades reduzidas com relação **preservada ou aumentada** conforme o caso). Em prova, **curvas**, **broncodilatador** e **distância de caminhada** aparecem como tema recorrente.
-
----
 
 
 ### Figura sugerida
@@ -35,37 +24,6 @@ A **prova de função pulmonar (PFP)** traduz a **mecânica respiratória** e as
 
 > **Dica de Prova:** PFP **normal** não exclui **doença** em estágio inicial ou esforço isolado — **teste de esforço cardiopulmonar** ou **imagem** podem ser necessários.
 
----
-
-## Espirometria: volumes e fluxos essenciais
-
-### Manobra aceitável
-
-Inspiração máxima → **expiração forçada rápida e longa** → técnica supervisionada. **Repetir** até critérios de reprodutibilidade.
-
-### Parâmetros-chave
-
-| Sigla (uso comum) | Conceito |
-|-------------------|----------|
-| **CVF** ou **VCF** | Capacidade vital forçada — volume expirado após inspiração máxima |
-| **VEF1** ou **FEV1** | Volume expirado no **primeiro segundo** |
-| **Relação VEF1/CVF** | Principal marcador de **obstrução** (quando baixa) |
-| **FEF25–75%** | Fluxo no meio da expiração — sensível a obstrução **periférica** |
-
-### Padrão obstrutivo
-
-**VEF1/CVF** **< limite inferior da normalidade** (tipicamente **< 0,70** em adultos em alguns consensos para DPOC — em prova, siga o enunciado). **Gravidade** muitas vezes pelo **percentual do VEF1** previsto.
-
-**Resposta ao broncodilatador:** aumento significativo de **VEF1** e/ou **CVF** define **reversibilidade** — importante na **asma** e para caracterizar **DPOC** com componente tratável.
-
-### Padrão restritivo
-
-**CVF** e **CPT** (capacidade pulmonar total — por pletismografia ou diluição) **reduzidas** com **VEF1/CVF** **normal ou elevado** (não obstrutivo). Causas: **parenquima** (fibrose), **parede** (obesidade, cifoescoliose), **pleura**, **músculo** (fraqueza diafragmática).
-
-> **Pegadinha:** “Restrição” na espirometria isolada pode ser **pseudo-restritiva** por esforço submáximo — **CPT** confirma restrição **verdadeira**.
-
----
-
 ## Outros componentes da PFP
 
 ### Capacidade de difusão (DLCO / TLCO)
@@ -79,36 +37,6 @@ Inspiração máxima → **expiração forçada rápida e longa** → técnica s
 ### Prova broncoprovocativa
 
 Na **asma** com espirometria limite, **metacolina** ou **exercício** sob protocolo — especializado.
-
----
-
-## Interpretação integrada (fluxo de trabalho)
-
-| Passo | Ação |
-|-------|------|
-| 1 | Verificar **qualidade** da curva |
-| 2 | Olhar **VEF1/CVF** → obstrutivo? |
-| 3 | Se obstrutivo, **broncodilatador** e gravidade pelo **VEF1** |
-| 4 | Se suspeita restritiva, **CPT** + **DLCO** |
-| 5 | Correlacionar com **radiografia/TC** e **clínica** |
-
----
-
-## Ponte com a Clínica
-
-Paciente **fumante** com dispneia: **espirometria** é rápida e barata — mas **radiografia** e **escore** de risco (ex.: **BODE** em DPOC) complementam **prognóstico**. Não atrase **cessação tabágica** esperando exame para orientar **primeira conversa**.
-
----
-
-## Pontos-Chave para Prova
-
-- **Obstrução:** **VEF1/CVF** baixo; **reversibilidade** pensa **asma**.  
-- **Restrição:** volumes totais baixos; **DLCO** ajuda a separar **parenquima** de **extra-parenquima**.  
-- **Qualidade** da manobra — resultado inválido não interpreta.  
-- **DPOC** e **asma** compartilham obstrução, mas **história** e **resposta** diferem.  
-- **CPT** necessária para confirmar **restrição** quando só há suspeita na espirometria.
-
----
 
 ## Pré-Prova
 

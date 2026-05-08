@@ -1,0 +1,38 @@
+{
+  "aula_id": "cm5_a14",
+  "materia": "clinica_medica5",
+  "tema": "Faringotonsilites, Disfonias e Surdez",
+  "generatedAt": "2026-05-07T23:55:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a14",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Aula depende de decisão clínica, testes e manobras; imagem estática não agrega o suficiente."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "CDC. Clinical Guidance for Group A Streptococcal Pharyngitis.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "IDSA. Streptococcal Pharyngitis Guideline.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO-HNS. Clinical Practice Guideline: Hoarseness (Dysphonia).",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO-HNS. Sudden Hearing Loss Guideline Update.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de ORL e infectologia.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

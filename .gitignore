@@ -5,6 +5,7 @@ node_modules/
 .superpowers/
 $base/
 .gemini/
+.claude/worktrees/
 
 # Pasta de legado do ciclo clinico (PDFs/docs/slides do aluno + provas antigas).
 # Inventario salvo em data/agent_logs/inventario_legado_*.json e versionado em
@@ -53,3 +54,20 @@ scripts/*.ps1
 *.cjs
 publicidade_texto.md
 publicidade_visuais.html
+
+# Graphify cache (huge hash-named JSON files, gerados localmente)
+graphify-out/cache/
+graphify-out/converted/
+
+# Marketing/divulgacao artifacts (nao versionar imagens grandes)
+DIVULGAÇÃO ZAP/
+DIVULGACAO ZAP/
+
+# Scratch/temp folders
+scratch/
+
+# PDF de fontes externas (nao versionar)
+Material_Abdome_Agudo_Material_de_Estudo_MedEvo.pdf
+
+# Archive folder (backup local apenas)
+_archive/

@@ -1,7 +1,18 @@
+---
+aula_id: cm5_a1
+materia: clinica_medica5
+modulo: 5
+tema: Hipertensão Arterial Sistêmica
+versao_v3: 3.0.0
+status: published_local
+revisado_em: 2026-05-07
+checksum_lint: pass
+---
+
 # Hipertensão Arterial Sistêmica
 
 **Disciplina:** Clínica Médica 5
-**Módulo:** 5 | **Referência principal:** Diretriz Brasileira de Hipertensão Arterial 2020 (SBC) + Cecil-Goldman 26ª ed., capítulo de Hipertensão Sistêmica
+**Módulo:** 5 | **Referência principal:** Diretriz Brasileira de Hipertensão Arterial 2025 (SBC/SBH/SBN) + Cecil-Goldman 26ª ed., capítulo de Hipertensão Sistêmica
 **Tempo de estudo sugerido:** 15-25 min
 
 ---
@@ -16,11 +27,22 @@ Em plantão, HAS aparece em três cenários: ambulatorial (ajuste de medicação
 
 ---
 
-## Definição e classificação (SBC 2020)
+### Figura sugerida
 
-A **Diretriz Brasileira de HAS 2020** define hipertensão como **PA sistólica ≥ 140 mmHg e/ou PA diastólica ≥ 90 mmHg** medida em consultório, em pelo menos duas ocasiões. Mas atenção: a definição mudou nuances entre as diretrizes brasileira e americana.
+**Figura-ID:** `CM5-A1-F01`
 
-| Categoria (SBC 2020) | PAS (mmHg) | PAD (mmHg) |
+- **Momento:** após a relevância clínica, antes da definição diagnóstica.
+- **Descrição técnica:** aferição domiciliar de pressão arterial com aparelho automático, reforçando técnica e confirmação fora do consultório.
+- **Busca Commons (PT):** aferição pressão arterial domiciliar aparelho automático
+- **Busca Commons (EN):** checking blood pressure at home automatic monitor
+- **Legenda rascunho:** Medida fora do consultório ajuda a diferenciar hipertensão sustentada, avental branco e mascarada.
+---
+
+## Definição e classificação (SBC/SBH/SBN 2025)
+
+A **Diretriz Brasileira de HAS 2025** define hipertensão como **PA sistólica ≥ 140 mmHg e/ou PA diastólica ≥ 90 mmHg** medida em consultório, em pelo menos duas ocasiões. Mas atenção: a definição mudou nuances entre as diretrizes brasileira e americana.
+
+| Categoria (SBC/SBH/SBN 2025) | PAS (mmHg) | PAD (mmHg) |
 |----------------------|-----------|-----------|
 | **Ótima** | < 120 | < 80 |
 | **Normal** | 120-129 | 80-84 |
@@ -62,7 +84,7 @@ Toda HAS recém-diagnosticada precisa de:
 
 ## Estratificação de risco cardiovascular
 
-A diretriz SBC 2020 estratifica em **baixo, moderado, alto e muito alto** risco. Os fatores que pesam:
+A diretriz SBC/SBH/SBN 2025 estratifica em **baixo, moderado, alto e muito alto** risco. Os fatores que pesam:
 
 - **Idade**  -  homem ≥ 55, mulher ≥ 65.
 - **Tabagismo ativo**.
@@ -114,7 +136,7 @@ Continua sendo a primeira linha em **todos os pacientes**  -  incluindo os que j
 
 ## Tratamento farmacológico
 
-Cinco classes principais com indicação inicial. A SBC 2020 aceita qualquer uma como primeira escolha, mas com **preferências por perfil**:
+Cinco classes principais com indicação inicial. A SBC/SBH/SBN 2025 aceita qualquer uma como primeira escolha, mas com **preferências por perfil**:
 
 | Classe | Mecanismo | Indicação preferencial | Cuidado |
 |--------|-----------|------------------------|---------|
@@ -133,7 +155,7 @@ Cinco classes principais com indicação inicial. A SBC 2020 aceita qualquer uma
 
 **Estágio 1 com baixo risco** -> monoterapia, geralmente IECA/BRA ou BCC ou tiazídico.
 
-**Estágio 1 com alto risco**, **estágio 2** ou **estágio 3** -> **dupla combinação inicial** (a SBC 2020 orienta que a maioria dos pacientes precisa de 2 ou mais fármacos para atingir alvo).
+**Estágio 1 com alto risco**, **estágio 2** ou **estágio 3** -> **dupla combinação inicial** (a SBC/SBH/SBN 2025 orienta que a maioria dos pacientes precisa de 2 ou mais fármacos para atingir alvo).
 
 **Combinações preferenciais:**
 
@@ -147,11 +169,11 @@ Cinco classes principais com indicação inicial. A SBC 2020 aceita qualquer uma
 
 Se o paciente continua descontrolado com **3 fármacos em dose otimizada** (sendo um deles diurético), suspeitar de **HAS resistente**. Aí a 4ª droga é **espironolactona** (resultado do estudo PATHWAY-2)  -  efeito robusto pela ativação relativa do sistema mineralocorticoide.
 
-> **Armadilha de banca:** a SBC 2020 deslocou **espironolactona** para a 4ª linha em HAS resistente, à frente de outras opções. Se a questão dá um paciente com 3 anti-hipertensivos em dose plena ainda com PA alta, a resposta é **espironolactona**, não "trocar IECA por BRA" nem "aumentar a dose".
+> **Armadilha de banca:** a SBC/SBH/SBN 2025 deslocou **espironolactona** para a 4ª linha em HAS resistente, à frente de outras opções. Se a questão dá um paciente com 3 anti-hipertensivos em dose plena ainda com PA alta, a resposta é **espironolactona**, não "trocar IECA por BRA" nem "aumentar a dose".
 
 ### Alvos de PA
 
-| Cenário | Alvo (SBC 2020) |
+| Cenário | Alvo (SBC/SBH/SBN 2025) |
 |---------|-----------------|
 | **HAS sem comorbidade** | < 140×90 |
 | **DM, DRC, DCV estabelecida** | < 130×80 |
@@ -252,9 +274,9 @@ Na prova de residência, HAS aparece como vinheta (paciente típico), como pergu
 - [x] Adicionar espironolactona 25 mg
 - [ ] Aumentar hidroclorotiazida para 50 mg
 
-> **Explicação:** Paciente com **HAS resistente** (3 drogas em dose otimizada, sendo uma delas diurético). Pelo estudo **PATHWAY-2** e diretriz SBC 2020, a 4ª droga preferencial é **espironolactona** 25-50 mg/dia. IECA <-> BRA é troca lateral sem benefício. Aumentar HCTZ pouco acima de 25 mg traz mais efeito colateral que efeito anti-hipertensivo. Atenolol entraria depois da espironolactona, se necessário.
+> **Explicação:** Paciente com **HAS resistente** (3 drogas em dose otimizada, sendo uma delas diurético). Pelo estudo **PATHWAY-2** e diretriz SBC/SBH/SBN 2025, a 4ª droga preferencial é **espironolactona** 25-50 mg/dia. IECA <-> BRA é troca lateral sem benefício. Aumentar HCTZ pouco acima de 25 mg traz mais efeito colateral que efeito anti-hipertensivo. Atenolol entraria depois da espironolactona, se necessário.
 
-**3. Sobre o tratamento da hipertensão arterial no paciente negro sem comorbidades, qual classe é preferencial em monoterapia segundo a SBC 2020?**
+**3. Sobre o tratamento da hipertensão arterial no paciente negro sem comorbidades, qual classe é preferencial em monoterapia segundo a SBC/SBH/SBN 2025?**
 
 - [ ] Inibidor da ECA
 - [ ] Bloqueador dos receptores AT1
@@ -308,7 +330,7 @@ Na prova de residência, HAS aparece como vinheta (paciente típico), como pergu
 | **HAS primária** | **HAS secundária** | **> 95% dos casos** / suspeitar se **< 30 ou > 55a, resistente, hipocalemia, piora abrupta** |
 | **Hiperaldosteronismo primário** | **Doença renovascular** | **Hipocalemia espontânea + ARR alto** / **sopro abdominal + piora função renal com IECA** |
 | **IECA** | **BRA** | **Tosse seca em ~10%** (cininas) / **sem tosse**, mesma proteção renal e cardíaca |
-| **AHA/ACC 2017** | **SBC 2020** | **HAS ≥ 130×80** / **HAS ≥ 140×90** |
+| **AHA/ACC 2017** | **SBC/SBH/SBN 2025** | **HAS ≥ 130×80** / **HAS ≥ 140×90** |
 | **Avental branco** | **Mascarada** | PA alta **só consultório** / PA alta **só fora do consultório**  -  mascarada é **pior prognóstico** |
 
 ### Macete-âncora
@@ -319,15 +341,6 @@ Na prova de residência, HAS aparece como vinheta (paciente típico), como pergu
 > **R**esistente (3 drogas + diurético) -> **espironolactona** quarta linha.
 > **E**mergência -> reduzir 20-25% na 1ª hora, **EV**, exceto **AVCi** (só se > 220×120) e **dissecção** (PAS < 120, **β-bloq antes**).
 
-### Bancas  -  onde isso cai
-
-- **USP-SP / Unifesp / Einstein**: focam em **escolha terapêutica por perfil** (DM com DRC, negro, pós-IAM) e em **HAS resistente** (PATHWAY-2 / espironolactona).
-- **ENARE**: clássico em **emergência hipertensiva** (urgência vs emergência, alvo no AVC, dissecção).
-- **AMRIGS / Iamspe**: **HAS secundária** (Conn, feocromocitoma, renovascular) e **investigação inicial**.
-- **Banca Uninove (P1 Mod 5)**: cobra fundamentos  -  **classes de primeira linha**, **alvos de PA**, **diferença urgência/emergência**.
-
----
-
 ## Fontes
 
 1. Diretriz Brasileira de Hipertensão Arterial 2020 (Sociedade Brasileira de Cardiologia / SBC).
@@ -336,7 +349,3 @@ Na prova de residência, HAS aparece como vinheta (paciente típico), como pergu
 4. Whelton PK et al. 2017 ACC/AHA Hypertension Guideline (referência para diferença de cortes diagnósticos).
 
 ---
-
-## Questões de Residência (mapeadas)
-
-> Esta seção é preenchida pelo agente revisor (Etapa 5 do plano-mestre). Lista questões reais de bancas públicas que cobram este tema. Identificadas com **banca + ano + número**. (referência a confirmar)  -  vide pasta `data/refs/cm5_a1.refs.json`.

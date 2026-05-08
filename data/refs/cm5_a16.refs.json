@@ -1,0 +1,39 @@
+{
+  "aula_id": "cm5_a16",
+  "materia": "clinica_medica5",
+  "tema": "Anatomia e Fisiologia da Visão, Olho Vermelho e Trauma",
+  "generatedAt": "2026-05-07T23:55:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a16",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A16-F01",
+    "motivo": "Anatomia ocular é base para localizar córnea, câmara anterior, retina e nervo óptico na triagem de olho vermelho/trauma."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "AAO. Conjunctivitis Preferred Practice Pattern.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO. Bacterial Keratitis Preferred Practice Pattern.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO EyeWiki. Pre-Ophthalmologist Management of Eye Trauma.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de oftalmologia clínica.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de urgências oculares.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

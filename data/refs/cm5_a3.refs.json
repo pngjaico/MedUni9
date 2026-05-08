@@ -1,0 +1,67 @@
+{
+  "aula_id": "cm5_a3",
+  "materia": "clinica_medica5",
+  "modulo": 5,
+  "tema": "Insuficiência Cardíaca",
+  "gerado_em": "2026-05-07",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "Cecil-Goldman Medicine",
+      "edicao": "26ª edição",
+      "capitulo": "Insuficiência cardíaca",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Harrison's Principles of Internal Medicine",
+      "edicao": "21ª edição",
+      "capitulo": "Heart Failure",
+      "relevancia": "complementar"
+    }
+  ],
+  "diretrizes": [
+    {
+      "titulo": "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure",
+      "instituicao": "AHA/ACC/HFSA",
+      "url": "https://www.acc.org/Guidelines/Guidelines/2022/03/30/16/38/2022-Heart-Failure",
+      "uso": "fenótipos, estágios e terapia modificadora de prognóstico"
+    },
+    {
+      "titulo": "2023 Focused Update of the 2021 ESC Guidelines for Heart Failure",
+      "instituicao": "European Society of Cardiology",
+      "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/focused-update-on-heart-failure-guidelines/",
+      "uso": "atualização em SGLT2i para HFmrEF/HFpEF e manejo contemporâneo"
+    }
+  ],
+  "questoes_publicas": [
+    {
+      "fonte": "INEP ENAMED",
+      "ano": 2025,
+      "questao": "1",
+      "url": "https://download.inep.gov.br/enamed/provas_e_gabaritos/2025_caderno_superampliado_preliminar.pdf",
+      "topico_mapeado": "dispneia, HAS, quarta bulha e ecocardiograma em contexto de IC",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Usar como calibrador de estilo, sem copiar enunciado."
+    },
+    {
+      "fonte": "FGV/Ebserh ENARE",
+      "ano": 2024,
+      "questao": "Acesso Direto - caderno tipo 1",
+      "url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos-medica.html",
+      "topico_mapeado": "insuficiência cardíaca congestiva em cenário clínico",
+      "status": "mapeada_sem_transcricao",
+      "observacao": "Triagem local por PDF identificou recorrência cardiovascular."
+    }
+  ],
+  "pontos_de_prova": [
+    "Definição sindrômica de IC.",
+    "Classificação por FEVE.",
+    "BNP/NT-proBNP e ecocardiograma.",
+    "Perfis quente/frio e seco/úmido.",
+    "Quatro pilares da HFrEF.",
+    "Papel do diurético de alça.",
+    "HFpEF e SGLT2i.",
+    "CRT/CDI em pacientes selecionados."
+  ],
+  "observacoes": "Sem imagem nesta aula por decisão operacional: apenas cm5_a1 e cm5_a2 receberam Wikimedia nesta rodada."
+}

@@ -1,0 +1,43 @@
+{
+  "aula_id": "farm_a1",
+  "materia": "farmaco_aplicada",
+  "tema": "Farmacologia do Sistema Digestório",
+  "generatedAt": "2026-05-08T00:45:00.000Z",
+  "marker": "farm_quality_contract_2026_05_07_a1_a2_farm_a1",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Aula ganha mais com tabelas receptor-fármaco-conduta; imagem de trato digestório seria decorativa."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "Goodman & Gilman. As Bases Farmacológicas da Terapêutica, 14ª edição, capítulos de farmacologia gastrointestinal.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Katzung. Farmacologia Básica e Clínica, 16ª edição, capítulos de fármacos gastrointestinais.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "ACG. Clinical Guideline for the Diagnosis and Management of GERD, 2022.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "ACG. Clinical Guideline: Gastroparesis, 2022.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "ACG. Clinical Guideline: Treatment of Helicobacter pylori Infection, 2024.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "FDA. Metoclopramide boxed warning and prescribing information.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "aula_id": "farm_a2",
+  "materia": "farmaco_aplicada",
+  "tema": "Anti-inflamatórios - AINEs e Corticoides",
+  "generatedAt": "2026-05-08T00:45:00.000Z",
+  "marker": "farm_quality_contract_2026_05_07_a1_a2_farm_a2",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "O conteúdo é risco-benefício, contraindicação e monitorização; fluxogramas e tabelas superam imagem decorativa."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "Goodman & Gilman. As Bases Farmacológicas da Terapêutica, 14ª edição, capítulos de anti-inflamatórios.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Katzung. Farmacologia Básica e Clínica, 16ª edição, capítulos de AINEs e corticosteroides.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "FDA. NSAID cardiovascular and gastrointestinal warnings.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "American College of Rheumatology. 2022 Guideline for Prevention and Treatment of Glucocorticoid-Induced Osteoporosis.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Endocrine Society. Glucocorticoid-Induced Adrenal Insufficiency Guideline.",
+      "uso": "base farmacológica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

@@ -1971,6 +1971,78 @@
     .upsell-banner--demo .upsell-banner-btn {
       animation: pulse-green 2s infinite;
     }
+
+    /* Targeted Ad Banner (Vergueiro) */
+    .location-ad-banner {
+      margin-bottom: 24px;
+      padding: 24px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, rgba(0, 200, 150, 0.15) 0%, rgba(37, 43, 58, 0.95) 100%),
+                  url('assets/vergueiro_banner.png');
+      background-size: cover;
+      background-position: center;
+      border: 1px solid rgba(0, 200, 150, 0.3);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    }
+    .location-ad-banner::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: linear-gradient(90deg, rgba(30, 36, 51, 0.95) 0%, rgba(30, 36, 51, 0.4) 100%);
+      z-index: 1;
+    }
+    .location-ad-content {
+      position: relative;
+      z-index: 2;
+    }
+    .location-ad-tag {
+      display: inline-block;
+      padding: 4px 8px;
+      background: var(--primary);
+      color: #000;
+      font-size: 10px;
+      font-weight: 800;
+      text-transform: uppercase;
+      border-radius: 4px;
+      margin-bottom: 8px;
+      letter-spacing: 0.05em;
+    }
+    .location-ad-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 6px;
+    }
+    .location-ad-text {
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.9);
+      line-height: 1.5;
+      max-width: 85%;
+      margin-bottom: 12px;
+    }
+    .location-ad-btn {
+      align-self: flex-start;
+      padding: 10px 20px;
+      background: #fff;
+      color: #000;
+      border: none;
+      border-radius: 10px;
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .location-ad-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);
+    }
     @keyframes pulse-green {
       0% { box-shadow: 0 0 0 0 rgba(0, 200, 150, 0.4); }
       70% { box-shadow: 0 0 0 10px rgba(0, 200, 150, 0); }
@@ -5206,9 +5278,38 @@
       return host.innerHTML;
     }
 
+    function stripMdFrontmatter(md) {
+      if (!md || typeof md !== 'string') return md;
+      const normalized = String(md).replace(/^\uFEFF/, '').replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+      const start = normalized.trimStart();
+
+      if (start.startsWith('---')) {
+        const afterOpen = start.slice(3);
+        const close = /\n---\s*(?:\n|$)/.exec(afterOpen);
+        if (close) return afterOpen.slice(close.index + close[0].length);
+
+        // Fallback for malformed YAML headers that lost the closing delimiter.
+        const lines = start.split('\n');
+        const titleIndex = lines.findIndex((line, idx) => idx > 0 && /^#\s+/.test(line));
+        const headerLines = lines.slice(1, titleIndex > 0 ? titleIndex : Math.min(lines.length, 20));
+        const yamlLike = headerLines.filter((line) => /^\s*[\w.-]+:\s*/.test(line)).length;
+        if (titleIndex > 0 && yamlLike >= 2) return lines.slice(titleIndex).join('\n');
+      }
+
+      const lines = start.split('\n');
+      const titleIndex = lines.findIndex((line, idx) => idx < 20 && /^#\s+/.test(line));
+      if (titleIndex > 0) {
+        const yamlKeys = /^(aula_id|materia|modulo|tema|versao_v3|status|gerado_em|revisado_em|checksum_lint|tags)\s*:/;
+        const yamlLike = lines.slice(0, titleIndex).filter((line) => yamlKeys.test(line.trim())).length;
+        if (yamlLike >= 2) return lines.slice(titleIndex).join('\n');
+      }
+
+      return normalized;
+    }
+
     function renderMd(text) {
       const cleaned = stripFiguraSugeridaBlocksForCliente(
-        text
+        String(stripMdFrontmatter(text) || '')
           .replace(/\r\n/g, '\n')
           .replace(/(\|[^\n]*)\n\n+(?=\|)/g, '$1\n')
       );
@@ -7244,6 +7345,22 @@
                 </button>
               </div>
             )}
+
+            {/* Targeted Ad for Uninove Vergueiro */}
+            {(user.facultyId === 'uninove' && user.campusId === 'vergueiro') && (
+              <div className="location-ad-banner" style={{ marginTop: '16px' }}>
+                <div className="location-ad-content">
+                  <span className="location-ad-tag">Exclusivo Vergueiro 📍</span>
+                  <div className="location-ad-title">Grupo de Elite MedUni9</div>
+                  <div className="location-ad-text">
+                    Participe do grupo oficial de alunos da Vergueiro para materiais extras, avisos de prova e suporte direto.
+                  </div>
+                  <button type="button" className="location-ad-btn" onClick={() => window.open('https://chat.whatsapp.com/vossa_url_aqui', '_blank')}>
+                    Entrar no Grupo
+                  </button>
+                </div>
+              </div>
+            )}
             <div className="dashboard-header">
               <h1 className="dashboard-welcome">Olá, {user.isGuest ? 'Visitante' : user.email.split('@')[0]}!</h1>
               <p className="dashboard-date">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })} — Módulo {userSemester}</p>
@@ -8583,6 +8700,68 @@
         if (m) return <strong key={i} style={style}>{m[1]}</strong>;
         return part ? <span key={i}>{part}</span> : null;
       });
+    }
+
+    function stripMiniQuizInlineMarkdown(value) {
+      return String(value || '')
+        .replace(/^\s*>+\s?/, '')
+        .replace(/\*\*([^*]+)\*\*/g, '$1')
+        .replace(/__([^_]+)__/g, '$1')
+        .replace(/`([^`]+)`/g, '$1')
+        .trim();
+    }
+
+    function parseMdMiniQuiz(markdown) {
+      try {
+        const md = String(markdown || '');
+        const headingMatch = /^#{2,3}\s*Mini\s*Quiz\s*$/im.exec(md);
+        if (!headingMatch) return [];
+
+        const start = headingMatch.index + headingMatch[0].length;
+        const rest = md.slice(start);
+        const nextHeading = /^#{2,3}\s+\S.*$/im.exec(rest);
+        const section = (nextHeading ? rest.slice(0, nextHeading.index) : rest).trim();
+        if (!section) return [];
+
+        const questionRe = /^\s*\*\*(\d+)\.\s*([\s\S]*?)\*\*\s*$/gm;
+        const questionMatches = [];
+        let questionMatch;
+        while ((questionMatch = questionRe.exec(section))) {
+          questionMatches.push({
+            index: questionMatch.index,
+            end: questionRe.lastIndex,
+            pergunta: stripMiniQuizInlineMarkdown(questionMatch[2]),
+          });
+        }
+
+        return questionMatches.map((question, idx) => {
+          const nextQuestion = questionMatches[idx + 1];
+          const block = section.slice(question.end, nextQuestion ? nextQuestion.index : section.length);
+          const opcoes = [];
+          let correta = -1;
+          const optionRe = /^\s*[-*]\s*\[(x|X|\s)\]\s*(.+?)\s*$/gm;
+          let optionMatch;
+          while ((optionMatch = optionRe.exec(block))) {
+            if (/x/i.test(optionMatch[1])) correta = opcoes.length;
+            opcoes.push(stripMiniQuizInlineMarkdown(optionMatch[2]));
+          }
+
+          const explanationMatch = /^\s*>\s*\*\*Explica[cç][aã]o:\*\*\s*([\s\S]*?)(?=\n\s*\n|$)/im.exec(block);
+          return {
+            pergunta: question.pergunta,
+            opcoes,
+            correta,
+            explicacao: explanationMatch ? stripMiniQuizInlineMarkdown(explanationMatch[1]) : '',
+          };
+        }).filter((question) => (
+          question.pergunta &&
+          question.opcoes.length >= 2 &&
+          question.correta >= 0
+        ));
+      } catch (err) {
+        console.warn('Falha ao parsear Mini Quiz do material:', err);
+        return [];
+      }
     }
 
     function toEstudosWhitenEmbeddedBlackBg(img, opts) {

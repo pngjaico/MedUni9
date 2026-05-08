@@ -1,0 +1,39 @@
+{
+  "aula_id": "cm5_a17",
+  "materia": "clinica_medica5",
+  "tema": "Perda Súbita da Visão e Fundo de Olho",
+  "generatedAt": "2026-05-07T23:55:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a17",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A17-F01",
+    "motivo": "Fundo de olho normal é referência visual essencial para interpretar perda súbita da visão e retinopatias."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "American Heart Association. Retinal artery occlusion as retinal stroke.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO EyeWiki. Central Retinal Artery Occlusion.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO EyeWiki. Retinal Vein Occlusion.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO EyeWiki. Retinal Detachment.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de oftalmologia e neurologia vascular.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

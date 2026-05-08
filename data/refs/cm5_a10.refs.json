@@ -1,0 +1,33 @@
+{
+  "aula_id": "cm5_a10",
+  "materia": "clinica_medica5",
+  "tema": "Glomerulopatias e Infecção Urinária",
+  "generatedAt": "2026-05-07T23:05:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a10",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A10-F01",
+    "motivo": "A anatomia glomerular é ponto de ancoragem para entender hematúria dismórfica, cilindros e proteinúria; a imagem reduz confusão com ITU."
+  },
+  "fontes_base": [
+    {
+      "tipo": "diretriz",
+      "titulo": "KDIGO 2021 Glomerular Diseases Guideline",
+      "url": "https://kdigo.org/guidelines/gd/",
+      "uso": "síndromes glomerulares, investigação e urgência nefrológica."
+    },
+    {
+      "tipo": "diretriz",
+      "titulo": "IDSA 2019 Asymptomatic Bacteriuria Guideline",
+      "url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/",
+      "uso": "quando rastrear/tratar bacteriúria assintomática."
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Bowman's capsule and glomerulus.svg",
+      "url": "https://commons.wikimedia.org/wiki/File:Bowman%27s_capsule_and_glomerulus.svg",
+      "licenca": "CC0",
+      "uso": "figura anatômica de barreira glomerular."
+    }
+  ]
+}

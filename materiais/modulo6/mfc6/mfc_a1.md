@@ -3,16 +3,6 @@
 **Disciplina:** Medicina de Família e Comunidade 6  
 **Módulo:** 6 | **Referência principal:** WONCA, SBMFC, PNAB e Cadernos de Atenção Básica | **Tempo de estudo sugerido:** 20-30 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-A Medicina de Família e Comunidade (MFC) é a especialidade que sustenta a APS como porta de entrada preferencial do SUS e como lugar de cuidado continuado. Na prática, o médico de família combina clínica, gestão do cuidado e leitura de território para resolver a maior parte das demandas comuns e articular a rede quando necessário.
-
-Em prova, o tema aparece quando a banca quer diferenciar atendimento pontual de cuidado longitudinal, ou quando cobra qual nível organiza o percurso do usuário entre UBS, ambulatório especializado e hospital. O erro clássico é confundir "encaminhar" com "transferir a responsabilidade". Na APS, a responsabilidade clínica continua compartilhada.
-
----
-
 ## Fundamentos da MFC na APS
 
 Os atributos essenciais da APS orientam o raciocínio da MFC:
@@ -46,27 +36,6 @@ Os atributos essenciais da APS orientam o raciocínio da MFC:
 - **Tipo sugerido:** esquema didático.
 - **Legenda (rascunho):** A APS coordena o cuidado e mantém vínculo mesmo após encaminhamentos.
 
----
-
-## Território, adscrição e responsabilidade sanitária
-
-Na MFC, território não é apenas mapa geográfico: é o conjunto de condições concretas que moldam risco, acesso e adesão. A equipe trabalha com população adscrita, o que cria responsabilidade sanitária sobre um grupo definido, e não apenas sobre quem comparece espontaneamente.
-
-A leitura territorial inclui transporte, segurança alimentar, condições de moradia, violência, disponibilidade de cuidador e barreiras culturais. Esses fatores mudam conduta tanto quanto resultados de exame.
-
-Quando a equipe territorializa bem, ela consegue priorizar visitas domiciliares, identificar faltosos de alto risco e planejar ações coletivas com maior impacto. Isso reduz cuidado fragmentado e melhora continuidade.
-
-### Figura sugerida
-
-**Figura-ID:** `MFC-A1-F02`
-
-- **Momento:** após o parágrafo sobre leitura territorial.
-- **O que mostrar:** mapa simplificado de microárea com pontos de risco (idosos frágeis, acamados, área de difícil acesso) e prioridades da equipe.
-- **Tipo sugerido:** infográfico territorial.
-- **Legenda (rascunho):** Territorialização orienta prioridades clínicas e comunitárias da equipe.
-
----
-
 ## Coordenação do cuidado e trabalho em rede
 
 Coordenar cuidado significa garantir continuidade informacional, relacional e de plano terapêutico quando o paciente transita entre serviços. Encaminhamento bom é específico: hipótese, pergunta clínica, contexto e medicamentos atuais.
@@ -84,34 +53,6 @@ Também faz parte da coordenação evitar iatrogenias de fragmentação, como po
 > **Dica de Prova:** contrarreferência útil não é só "retornar à UBS", e sim retorno com decisão clínica compreensível e aplicável.
 
 > **Pegadinha:** afirmar que coordenação do cuidado é responsabilidade exclusiva da regulação municipal. A regulação ajuda o fluxo, mas a coordenação clínica segue na APS.
-
----
-
-## Longitudinalidade e clínica ampliada
-
-Longitudinalidade gera conhecimento acumulado da pessoa, da família e do contexto, permitindo decisões melhores diante de incerteza. Em MFC, "acompanhar" não é repetir consulta; é recalibrar objetivos terapêuticos ao longo do ciclo de vida.
-
-A clínica ampliada incorpora dimensão biológica, psicológica e social. O foco não é só "qual doença", mas "qual projeto terapêutico viável para esta pessoa, nesta realidade".
-
-Exemplo típico: paciente com diabetes descompensado, ansiedade e sobrecarga de cuidado familiar. Abordagem centrada apenas em ajuste farmacológico tende a falhar. Abordagem ampliada combina metas graduais, apoio multiprofissional e pactuação de prioridades com o paciente.
-
----
-
-## Ponte com a Clínica
-
-Em cenário de prova, quando o caso traz multimorbidade e baixa adesão, pense em quatro passos práticos da MFC: reconhecer vulnerabilidades do território, priorizar risco, pactuar plano factível e coordenar a rede. Isso transforma uma conduta "teoricamente correta" em cuidado realmente executável.
-
----
-
-## Pontos-Chave para Prova
-
-- A APS é primeiro contato, mas sua marca distintiva é manter vínculo longitudinal.
-- Encaminhar não encerra cuidado: a MFC continua responsável pela coordenação.
-- Território influencia risco, adesão e desfecho clínico.
-- Clínica ampliada integra dimensão biomédica, subjetiva e social.
-- Prova costuma opor cuidado episódico versus cuidado continuado.
-
----
 
 ## Pré-Prova
 

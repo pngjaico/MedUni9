@@ -4,8 +4,8 @@
 >
 > **Para começar HOJE:** abra primeiro [`INICIO_OPERACIONAL.md`](INICIO_OPERACIONAL.md) — checklist de 1 página com plano de 7 dias. Volte aqui depois.
 >
-> **Última atualização:** 2026-05-07 — sessão de revisão crítica + bloco-por-aula (Claude Opus 4.7).
-> **Versão:** 2.1 (sequência interna do bloco-por-aula + Etapa 0.5 extração de legado + integração com app via questoes_antigas.json).
+> **Última atualização:** 2026-05-07 — blindagem anti-decaimento após auditoria crítica de CM5 (Codex).
+> **Versão:** 2.9 (CM5 completo estruturalmente, mas com dívida estética/densidade detectada; FARM `a1`-`a2`; PE segue fora de escopo).
 >
 > **Histórico de versões:**
 > - 1.0 (2026-05-07 manhã) — criação inicial.
@@ -17,6 +17,13 @@
 >   3. **Arquivo separado para legado clínico:** `data/questoes_clinico_legado.json` (não mexer em `data/questoes_antigas.json` que é do ciclo básico).
 >   4. **Sem deploy Firebase até o ciclo clínico inteiro acabar.** Apenas commits git locais. Deploy ao final, em lote único, após aprovação de todas as 104 aulas.
 >   5. **Validação de planos de ensino concluída** — 7 disciplinas (CM5/CC5/FARM/CM6/CIR6/MFC/TCAR) batem com `materias.json` em quantidade e nome de aulas.
+> - 2.3 (2026-05-07) — branch `claude/thirsty-mendeleev-09af81` integrada no `main`; `cm5_a1` corrigida para LF/UTF-8, linter v3 ok, `piloto/cm5_a1.md` criado, prompt v3 aponta para a piloto, 12 flashcards + 12 questões essenciais + `data/refs/cm5_a1.refs.json` adicionados. Sem navegador/deploy por regra explícita do `AGENTS.md` e decisão 2.2.
+> - 2.4 (2026-05-07) — contrato local `scripts/validate_cm5_quality_contract.mjs`; `cm5_a1`-`cm5_a3` validadas; `cm5_a1` e `cm5_a2` com figuras Wikimedia catalogadas em `data/materiais_figuras.json`; questões essenciais obrigatórias em `data/questoes.json`, não embutidas no material.
+> - 2.5 (2026-05-07) — `cm5_a4` e `cm5_a5` geradas sem imagem, com 12 questões essenciais + 12 flashcards cada; contrato CM5 `a1`-`a5`, lint v3 e `validate:questoes` ok.
+> - 2.6 (2026-05-07) — `cm5_a6`-`cm5_a10` geradas; frontmatter ocultado no app; removidas seções visíveis de "Ponte com próximas aulas" e questões/residência mapeadas; contrato CM5 `a1`-`a10`, lint v3 e `validate:questoes` ok.
+> - 2.7 (2026-05-07) — `cm5_a11`-`cm5_a21` geradas; CM5 completo com 252 questões essenciais e 252 flashcards; imagens somente em aulas com ganho visual real; contrato CM5 completo e `validate:questoes` ok.
+> - 2.8 (2026-05-07) — `farm_a1` refeito no ID canônico e `farm_a2` gerada; 24 questões essenciais + 24 flashcards novos; contrato FARM local criado e validado; PE mantido fora de escopo.
+> - 2.9 (2026-05-07) — auditoria anti-decaimento: frontmatter mais robusto no app, contrato CM5 endurecido para 240+ linhas e Pontos-Chave com negrito, e registro de dívida em `cm5_a3`-`cm5_a9`/`cm5_a11`-`cm5_a21`.
 
 ---
 
@@ -94,15 +101,15 @@ Para **reorganização de pasta legado**, ver [`docs/REORG_LEGADO_CICLO_CLINICO.
 
 | Módulo | Disciplina | Aulas | Materiais `.md` | Questões | Flashcards | Status |
 |---|---|---|---|---|---|---|
-| 5 | **clinica_medica5 (CM5)** | 21 | 0 | 0 | 0 | 🔴 Crítico — gerar do zero |
+| 5 | **clinica_medica5 (CM5)** | 21 | 21 (`cm5_a1`-`cm5_a21`, v3) | 252 | 252 | 🟡 Completo estruturalmente; revisão de densidade/negrito pendente em `a3`-`a9` e `a11`-`a21` |
 | 5 | **clinica_cirurgica5 (CC5)** | 10 | 0 | 0 | 0 | 🔴 Crítico — gerar do zero |
-| 5 | **farmaco_aplicada (FARM)** | 12 | 1 (`farm_a1`, v2) | 39 | 0 | 🔴 Crítico — gerar 11 + revisar a1 |
-| 6 | **clinica_medica6 (CM6)** | 24 | 24 (v2) | 0 | 0 | 🟡 Elevar ao v3 |
-| 6 | **mfc6 (MFC)** | 6 | 6 (v2) | 0 | 0 | 🟡 Elevar ao v3 |
-| 6 | **cirurgia_ortopedia (CIR6)** | 21 | 21 (v2) | 1 | 0 | 🟡 Elevar ao v3 |
-| 6 | **tecnica_operatoria (TO/TCAR)** | 10 | 10 (v2) | 21 | 59 | 🟡 Elevar ao v3 |
+| 5 | **farmaco_aplicada (FARM)** | 12 | 2 (`farm_a1`-`farm_a2`, v3) | 61 | 34 | 🟡 `a1`-`a2` prontas; `a3`-`a12` pendentes |
+| 6 | **clinica_medica6 (CM6)** | 24 | 24 (v2) | 119 | 0 | 🟡 Elevar ao v3; questões existem, qualidade não auditada |
+| 6 | **mfc6 (MFC)** | 6 | 6 (v2) | 30 | 0 | 🟡 Elevar ao v3; questões existem, qualidade não auditada |
+| 6 | **cirurgia_ortopedia (CIR6)** | 21 | 21 (v2) | 104 | 0 | 🟡 Elevar ao v3; questões existem, qualidade não auditada |
+| 6 | **tecnica_operatoria (TO/TCAR)** | 10 | 10 (v2) | 59 | 59 | 🟡 Elevar ao v3 |
 
-**Total Ciclo Clínico:** 104 aulas, 62 materiais existentes (todos em v2), ~62 questões, ~80 flashcards. **Gap: 43 a gerar (Mod 5) + 62 a elevar (Mod 6) = 105 entregas.**
+**Total Ciclo Clínico (Mod 5–6, contagem estrutural em JSON):** 104 aulas, 85 materiais existentes (23 v3 + 62 v2), ~625 questões, ~345 flashcards. **Gap operacional: 20 a gerar/revisar (Mod 5: CC5 + FARM restante) + 62 a elevar (Mod 6) = 82 entregas.** Atenção: questão existir no JSON não equivale a aprovação semântica.
 
 ### 1.3 Módulo 8 (Internato 4º ano)
 
@@ -249,9 +256,9 @@ A aula piloto **só é aprovada** quando:
 ### 4.3 O que produzir junto com a aula piloto
 
 - O `.md` da aula em si.
-- 12 flashcards (`data/flashcards.json`) — também no padrão MedGradPlus.
-- 5 questões inéditas (`data/questoes.json`) com explicações no estilo MedGradPlus.
-- 3–5 questões públicas mapeadas (`data/refs/cm5_a1.refs.json` com seção nova `questoes_publicas`).
+- 10-12 flashcards (`data/flashcards.json`) — também no padrão MedGradPlus.
+- 10-12 questões essenciais inéditas (`data/questoes.json`) com `aula_id` e `tema` iguais ao ID da aula; devem aparecer na aba **Questões Essenciais**, não dentro do material.
+- Referências públicas internas, quando úteis, apenas em `data/refs/{aula}.refs.json`; não exibir seção de questões públicas/residência no `.md`.
 - Captura de tela do app renderizando — para conferir que a render bate com o esperado (tabelas, callouts, mini quiz).
 
 ### 4.4 Tempo estimado piloto
@@ -295,16 +302,16 @@ A aula piloto **só é aprovada** quando:
 │     (Camada 2)     │                                                │
 │         │          │                                                │
 │         ▼          │                                                │
-│  D. Flashcards x12 │ extraídos de "Pontos-Chave" + "Pré-Prova"      │
+│  D. Flashcards x10-12 │ extraídos de "Pontos-Chave" + "Pré-Prova"   │
 │         │          │ schema: id seq, materia, frente, verso ≤120ch │
 │         │          │         explicacao, tema=aula_id, dificuldade │
 │         ▼          │                                                │
-│  E. Questões x5    │ mix Uninove: 2 conceit + 2 contexto + 1 caso  │
-│     inéditas       │ tom calibrado por questões antigas Uni9       │
+│  E. Essenciais x10-12 │ mix residência/Uninove: conceito, contexto, caso │
+│     em JSON          │ tom calibrado por questões antigas e públicas    │
 │         │          │ A/B/C/D balanceadas                           │
 │         ▼          │                                                │
 │  F. Q públicas x3-5│ ENARE/USP/Unifesp/Einstein/AMRIGS/Iamspe       │
-│     mapeadas       │ data/refs/<aula>.refs.json + seção no .md     │
+│     mapeadas       │ data/refs/<aula>.refs.json; sem seção no .md  │
 │         │          │                                                │
 │         ▼          │                                                │
 │  G. Header YAML    │ status: published, checksum_lint: pass         │
@@ -441,8 +448,9 @@ Arquivo canônico: [`prompts/gerar_materiais_apoio_v3.md`](prompts/gerar_materia
 
 - UTF-8 sem BOM, LF, sem caracteres proibidos.
 - Tabelas estritas (1ª coluna 100% negrito, sem `<br>`, máx. 6 colunas).
-- Estrutura fixa: Cabeçalho → Relevância → Tópicos → Caso da Semana → Diferencial → Conduta → Ponte → Pontos-Chave → Mini Quiz → Pré-Prova → Fontes → Questões mapeadas.
-- Mínimo 180 linhas, 5–8 questões, 2–3 macetes, 2–4 fontes.
+- Estrutura fixa: Cabeçalho → Relevância → Tópicos → Caso da Semana → Diferencial → Conduta → Pontos-Chave → Mini Quiz → Pré-Prova → Fontes.
+- Proibido no corpo do `.md`: `## Ponte com próximas aulas`, `## Questões mapeadas`, `## Questões de Residência`.
+- Mínimo real 240 linhas, 5–8 questões no Mini Quiz, 2–3 macetes, 2–4 fontes e Pontos-Chave com 10+ bullets / 8+ negritos.
 
 ### 7.3 Fontes-base por matéria
 
@@ -556,18 +564,18 @@ ENARE, USP-SP, Unifesp, Einstein, AMRIGS, Iamspe, Comvest. **Apenas referência 
 
 ### Etapa 1 — Aula piloto `cm5_a1` (~6h)
 
-- [ ] **1.1** — Camada 1: gerar `cm5_a1` com prompt v3 a partir do plano de ensino + persona + fontes.
-- [ ] **1.2** — Camada 2: revisão clínica (verificar SBC HAS 2020, doses, macete usado).
-- [ ] **1.3** — Camada 3: curadoria estética.
-- [ ] **1.4** — Camada 4: linter v3 → exit code 0.
-- [ ] **1.5** — Camada 5: aprovação humana (você).
-- [ ] **1.6** — Salvar como `piloto/cm5_a1.md` (referência).
-- [ ] **1.7** — Atualizar `prompts/gerar_materiais_apoio_v3.md` apontando para piloto.
-- [ ] **1.8** — Gerar 12 flashcards de `cm5_a1`.
-- [ ] **1.9** — Gerar 5 questões inéditas.
-- [ ] **1.10** — Mapear 3–5 questões públicas em `data/refs/cm5_a1.refs.json`.
-- [ ] **1.11** — Deploy em ambiente de staging (ou produção) e validar render no app.
-- [ ] **1.12** — Captura de tela das principais seções.
+- [x] **1.1** — Camada 1: gerar `cm5_a1` com prompt v3 a partir do plano de ensino + persona + fontes. *(Claude, integrado 2026-05-07)*
+- [x] **1.2** — Camada 2: revisão clínica (verificar SBC HAS 2020, doses, macete usado). *(Codex: `data/agent_logs/pendentes/revisao_clinica_cm5_a1_20260507.json`, approved_with_notes)*
+- [x] **1.3** — Camada 3: curadoria estética. *(Codex: `data/agent_logs/pendentes/curadoria_estetica_cm5_a1_20260507.json`)*
+- [x] **1.4** — Camada 4: linter v3 → exit code 0. *(2026-05-07, 0 errors / 0 warnings)*
+- [x] **1.5** — Camada 5: aprovação humana (você). *(Usuário sinalizou que o primeiro `cm5_a1` ficou muito bom; manter amostra humana mais ampla antes do bulk grande.)*
+- [x] **1.6** — Salvar como `piloto/cm5_a1.md` (referência).
+- [x] **1.7** — Atualizar `prompts/gerar_materiais_apoio_v3.md` apontando para piloto.
+- [x] **1.8** — Gerar 12 flashcards de `cm5_a1`.
+- [x] **1.9** — Gerar 12 questões essenciais de `cm5_a1` em `data/questoes.json`.
+- [x] **1.10** — Mapear 3–5 questões públicas em `data/refs/cm5_a1.refs.json`.
+- [ ] **1.11** — Deploy em ambiente de staging (ou produção) e validar render no app. **Adiado:** decisão 2.2 diz sem deploy Firebase até o ciclo clínico inteiro acabar; navegador também é proibido sem pedido explícito no `AGENTS.md`.
+- [ ] **1.12** — Captura de tela das principais seções. **Adiado:** depende de pedido explícito para navegador/preview visual.
 
 **Critério de aceite Etapa 1:** aula piloto aprovada em todas as 5 camadas, render no app validado, mantenedor satisfeito.
 
@@ -591,12 +599,13 @@ ENARE, USP-SP, Unifesp, Einstein, AMRIGS, Iamspe, Comvest. **Apenas referência 
 
 > Primeiro porque é fundação para CM5 e CC5.
 
-- [ ] **3A.0** — Re-elevar `farm_a1` para v3 (está em v2).
-- [ ] **3A.1** a **3A.11** — `farm_a2` ... `farm_a12`.
+- [x] **3A.0** — Re-elevar `farm_a1` para v3 no ID canônico.
+- [x] **3A.1** — `farm_a2` em padrão v3.
+- [ ] **3A.2** a **3A.11** — `farm_a3` ... `farm_a12`.
 
 #### Etapa 3B — Clínica Médica 5 (CM5, 21 aulas)
 
-- [ ] **3B.1** a **3B.21** — `cm5_a1` (já piloto) ... `cm5_a21`.
+- [x] **3B.1** a **3B.21** — `cm5_a1` ... `cm5_a21` em padrão v3 local.
 
 #### Etapa 3C — Clínica Cirúrgica 5 (CC5, 10 aulas)
 
@@ -607,9 +616,10 @@ ENARE, USP-SP, Unifesp, Einstein, AMRIGS, Iamspe, Comvest. **Apenas referência 
 ```
 1. Camada 1 (gerar) → 2. Camada 2 (revisor clínico) →
 3. Camada 3 (curador) → 4. Linter v3 →
-5. Camada 5 (aprovação sample) → 6. Gerar 12 flashcards →
-7. Gerar 5 questões inéditas → 8. Mapear questões públicas →
-9. Atualizar este plano (checkbox + log) → próxima aula
+5. Camada 5 (aprovação sample) → 6. Gerar 10-12 flashcards →
+7. Gerar 10-12 questões essenciais em `data/questoes.json` →
+8. Mapear questões públicas → 9. Rodar contrato/lint/validate →
+10. Atualizar este plano (checkbox + log) → próxima aula
 ```
 
 **Estimativa por aula:** 1.5h camadas 1+3+4 + 1h camada 2 + 0.5h flashcards + 0.5h questões + retrabalho 0.4× = **~3h por aula**.
@@ -625,21 +635,21 @@ ENARE, USP-SP, Unifesp, Einstein, AMRIGS, Iamspe, Comvest. **Apenas referência 
 
 **Estimativa por aula (revisão é ~0.6× de geração nova):** ~2.2h.
 
-### Etapa 5 — Mineração de questões públicas (~75h)
+### Etapa 5 — Curadoria interna de questões públicas (~75h)
 
 > Roda em paralelo com Etapas 3/4. Cada aula tem mineração separada.
 
-- [ ] **5.1** Para cada aula clínica → buscar 3–5 questões públicas.
-- [ ] **5.2** Salvar em `data/refs/<aula>.refs.json` com schema novo (campo `questoes_publicas`).
-- [ ] **5.3** Adicionar seção `## Questões de Residência (mapeadas)` no `.md`.
-- [ ] **5.4** Validar URLs e licenças.
+- [ ] **5.1** Para cada aula clínica → buscar questões públicas somente quando agregarem calibração real.
+- [ ] **5.2** Salvar em `data/refs/<aula>.refs.json` com schema `questoes_publicas`, sem copiar enunciado protegido.
+- [ ] **5.3** Não adicionar seção visível de questões no `.md`; o aluno usa Questões Essenciais e Questões Antigas.
+- [ ] **5.4** Validar URLs, origem e licença quando houver imagem ou fonte pública.
 
 ### Etapa 6 — Módulo 8 (~180h, futuro)
 
 - [ ] **6.1** ECI8 — 30 aulas.
 - [ ] **6.2** ECL8 — 16 aulas.
 - [ ] **6.3** SM8 — 28 aulas.
-- [ ] **6.4** PE8 (avaliar fora de escopo).
+- [ ] **6.4** PE8 permanece fora de escopo; não gerar.
 
 ### Etapa 7 — Roadmap futuro (Seção 12) — **ver detalhes lá**
 
@@ -707,8 +717,10 @@ ENARE, USP-SP, Unifesp, Einstein, AMRIGS, Iamspe, Comvest. **Apenas referência 
 | **Cobertura de vinheta 3 atos** | aulas com vinheta detectada / total | ≥ 90% |
 | **Cobertura de fontes citadas** | aulas com ≥ 2 fontes canônicas / total | ≥ 95% |
 | **Flashcards por aula** | total flashcards / aulas no clínico | ≥ 12 média |
-| **Questões inéditas por aula** | total questões / aulas no clínico | ≥ 5 média |
-| **Questões públicas mapeadas por aula** | aulas com ≥ 3 questões em `.refs.json` / total | ≥ 90% |
+| **Questões essenciais por aula** | total questões essenciais / aulas no clínico | ≥ 10 média |
+| **Curadoria pública interna** | aulas com refs públicas úteis em `.refs.json` quando necessário | sem meta cega; qualidade > quantidade |
+| **Tamanho real da aula v3** | linhas por `.md` clínico após YAML | ≥ 240 linhas; 180 é apenas piso estrutural legado |
+| **Pontos-Chave com negrito** | bullets e marcações em `## Pontos-Chave` | ≥ 10 bullets e ≥ 8 negritos |
 | **Taxa de aprovação Camada 2** | aulas approved / total submetidas | ≥ 80% |
 | **Taxa de aprovação humana sample** | aulas aprovadas / sample / total | ≥ 85% |
 | **Erros críticos publicados** | erros clínicos detectados após publicação | 0 (ideal); SLA: ≤ 1 / trimestre |
@@ -835,7 +847,7 @@ checksum_lint: pass
 | **Modo Pré-Prova 30 min** | Roteiro de revisão usando só `## Pré-Prova` de cada aula | Alta |
 | **Simulado temático** | 30 questões aleatórias do banco próprio + público por tema, com timer | Alta |
 | **Spaced repetition (flashcards)** | Implementar SM-2 ou FSRS no flashcards | Alta |
-| **Autoavaliação pós-aula** | 5 questões após cada aula; < 60% sugere revisão | Média |
+| **Autoavaliação pós-aula** | 10-12 questões essenciais após cada aula; < 60% sugere revisão | Média |
 | **Calendário de estudos** | Integra com datas de prova da Uninove; sugere quais aulas estudar | Média |
 | **Modo offline melhorado** | Cache de aulas recentes para acesso sem rede | Média |
 | **Notificações de revisão** | Push de "revise X em Y dias" baseado em SRS | Média |
@@ -914,6 +926,7 @@ checksum_lint: pass
 - **2026-05-07 — PDFs do Mod 4 e Mod 8 com nome corrompido** (`MÃ_DULO`, `Ã³`, `Â°`). Próxima ação: Etapa 0.12.
 - ~~**2026-05-07 — "Plano que falta" mencionado pelo usuário não foi identificado.**~~ **RESOLVIDO 2026-05-07 noite:** todos os 7 planos do ciclo clínico foram validados contra `materias.json`. Todas as 104 aulas (Mod 5+6, exceto PE) estão corretas em quantidade e nome. **PE5, PE6, PE8 estão FORA DE ESCOPO** (decisão usuário) — não gerar material nem questões.
 - **2026-05-07 — Pasta legado bagunçada** (3 versões do mesmo semestre). Próxima ação: Etapa 0.15 (opcional, recomendado).
+- **2026-05-07 — Dívida de qualidade CM5 após geração longa.** `cm5_a13`-`cm5_a21` estão curtas para o piso novo (203-216 linhas) e sem negrito em Pontos-Chave; `cm5_a3`-`cm5_a9`, `cm5_a11` e `cm5_a12` também precisam passe de negrito nos Pontos-Chave. Não reescrever agora; antes de continuar outra disciplina, usar `scripts/audit_cm5_material_quality_decay.mjs` e o contrato CM5 endurecido como guarda.
 - (próximos bloqueadores aqui)
 
 ---
@@ -924,6 +937,13 @@ checksum_lint: pass
 |---|---|---|---|
 | 2026-05-07 | 1.0 | Claude Opus 4.7 | Criação. Persona, prompt v3, plano-mestre. |
 | 2026-05-07 | 2.0 | Claude Opus 4.7 (revisão crítica) | Auditoria, sistema de qualidade 5 camadas, aula piloto, linter v3, agente revisor clínico, bibliotecas (macetes/fontes), reorg de pasta legado, risk register, métricas, integração end-to-end, roadmap Mod 7+, header YAML em aulas. |
+| 2026-05-07 | 2.3 | Codex local | Integra branch Claude no `main`, corrige LF do `cm5_a1`, valida linter v3, cria `piloto/cm5_a1.md`, aponta prompt v3 para piloto, adiciona 12 flashcards, 12 questões essenciais e `data/refs/cm5_a1.refs.json`. |
+| 2026-05-07 | 2.4 | Codex local | Fecha `cm5_a1`-`cm5_a3` com contrato local, 36 questões essenciais, 36 flashcards, `cm5_a1`-`cm5_a2` com imagens Wikimedia e validação do banco em 5035 questões. Próxima geração CM5: `cm5_a4`. |
+| 2026-05-07 | 2.5 | Codex local | Fecha `cm5_a1`-`cm5_a5` com contrato local, 60 questões essenciais, 60 flashcards, `cm5_a1`-`cm5_a2` com imagens Wikimedia e validação do banco em 5059 questões. Próxima geração CM5: `cm5_a6`. |
+| 2026-05-07 | 2.6 | Codex local | Fecha `cm5_a1`-`cm5_a10` com contrato local, 120 questões essenciais, 120 flashcards, frontmatter ocultado no app, seções de ponte/questões visíveis removidas, imagens Wikimedia em `a1`, `a2`, `a7`, `a8` e `a10` por relevância real. Validação atual em 4820 questões após alteração paralela de Mod 6 detectada na árvore local. |
+| 2026-05-07 | 2.7 | Codex local | Fecha CM5 completo (`cm5_a1`-`cm5_a21`) com 252 questões essenciais e 252 flashcards; imagens Wikimedia em `a1`, `a2`, `a7`, `a8`, `a10`, `a12`, `a13`, `a16`, `a17`, `a18`, `a19`; contrato CM5 completo ok; validação atual em 4952 questões consistentes. |
+| 2026-05-07 | 2.8 | Codex local | Inicia FARM econômico: `farm_a1` refeito no ID canônico e `farm_a2` gerada, ambas v3, com 24 questões essenciais e 24 flashcards; cria `scripts/validate_farm_quality_contract.mjs`; validação atual em 4976 questões consistentes. PE permanece fora de escopo. |
+| 2026-05-07 | 2.9 | Codex local | Corrige ocultação robusta de YAML/frontmatter no app, identifica queda de qualidade em CM5 (`a13`-`a21` curtas; `a3`-`a9`/`a11`-`a21` com Pontos-Chave pobres em negrito), endurece prompt/AGENTS/contrato CM5 contra nova geração fraca. |
 
 ---
 
@@ -934,13 +954,17 @@ checksum_lint: pass
 python -c "import sys; b = open('caminho.md', 'rb').read(); print('BOM!' if b.startswith(b'\xef\xbb\xbf') else 'OK')"
 
 # Comparar arquivo espelhado
-Compare-Object (Get-Content "data/materiais/cm5/cm5_a1.md") (Get-Content "materiais/modulo5/clinica_medica5/cm5_a1.md")
+Compare-Object (Get-Content "data/materiais/clinica_medica5/cm5_a1.md") (Get-Content "materiais/modulo5/clinica_medica5/cm5_a1.md")
 
 # Linter v3 (uma aula)
 python scripts/lint_material_v3.py --aula cm5_a1
 
 # Linter v3 (módulo 5 inteiro)
 python scripts/lint_material_v3.py --modulo 5
+
+# Auditoria anti-decaimento CM5
+node scripts/audit_cm5_material_quality_decay.mjs
+node scripts/validate_cm5_quality_contract.mjs --aulas=cm5_a1,cm5_a2
 
 # Linter v3 (todo clínico)
 python scripts/lint_material_v3.py --tudo
@@ -978,11 +1002,15 @@ firebase deploy --only hosting
 5. **Trabalhe 1 aula por vez.** Sem batch, sem script de geração em massa.
 6. **Após cada aula:**
    - Rode `python scripts/lint_material_v3.py --aula <aula_id>`.
+   - Para CM5, rode também `node scripts/validate_cm5_quality_contract.mjs --aulas=<aula_id>`; para novas disciplinas, crie contrato equivalente antes de chamar de pronto.
+   - Confira que a aula tem 240+ linhas e Pontos-Chave com 10+ bullets e 8+ negritos.
    - Marque `[x]` neste arquivo.
    - Incremente contador na Seção 1.2.
    - Adicione linha no log da Seção 15.
-7. **A cada 5 aulas:** commit isolado com mensagem `feat(materiais): cm5_aN..aM em padrão v3`. **Não** force-push, **não** rode operações destrutivas.
-8. **A cada 50 aulas:** rode métricas de qualidade (Seção 10) e atualize MAPA_CICLO_CLINICO.md.
+7. **Agentes:** subagentes podem pesquisar/auditar, mas a redação final fica no agente principal mais forte. Se houver queda de qualidade por delegação, parar delegação e continuar só no modelo forte.
+8. **A cada 2 aulas:** rode auditoria de decaimento. Se duas aulas seguidas ficarem curtas ou sem negrito nos Pontos-Chave, interrompa geração e revise o método.
+9. **A cada 5 aulas:** commit isolado com mensagem `feat(materiais): cm5_aN..aM em padrão v3`. **Não** force-push, **não** rode operações destrutivas.
+10. **A cada 50 aulas:** rode métricas de qualidade (Seção 10) e atualize MAPA_CICLO_CLINICO.md.
 
 ### Se algo travar
 

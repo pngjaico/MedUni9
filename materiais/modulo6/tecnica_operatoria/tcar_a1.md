@@ -83,24 +83,6 @@ Sem embalagem correta e rastreabilidade, não há esterilização confiável.
 - **Tipo sugerido:** foto técnica.
 - **Legenda (rascunho):** Rastreabilidade mínima de material estéril no centro cirúrgico.
 
-## Ponte com a Clínica
-
-No pós-operatório com hiperemia de ferida, dor local e secreção, nem sempre o problema é "falha do antibiótico".
-Muitas vezes a origem está na cadeia intraoperatória: preparo inadequado da pele, quebra de campo não reconhecida, luva perfurada não trocada ou material mal processado.
-Por isso, a revisão de caso deve reconstruir o processo do ato operatório, não apenas trocar antimicrobiano.
-
----
-
-## Pontos-Chave para Prova
-
-- Antissepsia, assepsia, desinfecção e esterilização não são sinônimos.
-- Em tecido vivo, fala-se em antissepsia; em artigo crítico, exige-se esterilização.
-- Campo estéril depende de técnica e comportamento de equipe.
-- Indicador químico não substitui monitorização biológica da instituição.
-- Segurança cirúrgica começa antes da incisão, no preparo e na disciplina do fluxo.
-
----
-
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.

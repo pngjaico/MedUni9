@@ -3,6 +3,12 @@
 > **Hierarquia de prompts:** este v3 **substitui** `prompts/gerar_materiais_apoio.md` para o **ciclo clínico (Mod 5–8)**. O ciclo básico continua usando o v2 até receber revisão. Em conflito de regras, prevalece v3.
 >
 > **Persona obrigatória:** ler antes [`prompts/persona_medgradplus.md`](persona_medgradplus.md) — voz, macetes, tom de residência. Este arquivo cobre **estrutura, fontes, formato e armadilhas técnicas**; a persona cobre **como o autor fala**.
+>
+> **Referência canônica de qualidade:** antes de gerar qualquer aula clínica nova, leia [`piloto/cm5_a1.md`](../piloto/cm5_a1.md). A aula `cm5_a1` é o padrão visual, clínico e narrativo mínimo para o ciclo clínico.
+>
+> **Contrato operacional por aula:** além do `.md`, gerar **10-12 questões essenciais** em `data/questoes.json` e **10-12 flashcards** em `data/flashcards.json`, sempre com `aula_id` e `tema` iguais ao ID da aula. Questões essenciais pertencem à aba **Questões Essenciais**, não ao corpo do material.
+>
+> **Imagens:** avaliar figura durante a geração, mas incluir imagem inline somente quando ela for realmente importante para entendimento clínico, anatômico ou visual. Se a imagem não agregar muito, registrar a decisão em `data/refs/<aula_id>.refs.json` e não criar slot visual decorativo.
 
 ---
 
@@ -12,12 +18,12 @@
 |---|---|
 | Estilo neutro técnico, pouca persona | **Persona MedGradPlus obrigatória** (preceptor/banca/aluno) |
 | Foco em prova Uninove | **Foco em residência** (ENARE, USP, Unifesp, Einstein, AMRIGS, Iamspe) |
-| 100+ linhas | **180+ linhas** para clínica/cirurgia/ortopedia |
-| Mini Quiz com 3–5 questões | **Mini Quiz com 5–8 questões** + 1 vinheta clínica longa |
+| 100+ linhas | **240+ linhas como piso real de aprovação** para clínica/cirurgia/ortopedia/farm; 180 linhas é só erro estrutural legado |
+| Mini Quiz com 3–5 questões | **Mini Quiz com 5–8 questões**; casos clínicos só dentro do quiz/questões, quando úteis |
 | Negritagem 10–15% no corpo | **Negritagem 12–18% no corpo, 35–45% no Pré-Prova** |
 | Tabelas livres em Markdown | **Tabelas com regras estritas** (anti-quebra, anti-encode) |
 | Diretriz citada genericamente | **Citação obrigatória** com nome do livro/sociedade/edição |
-| 1 caso ilustrativo no fim | **1 vinheta clínica de 3 atos** misturada ao texto + macetes assinados |
+| 1 caso ilustrativo no fim | **Sem `Caso da Semana`**; aplicação clínica deve aparecer integrada ao raciocínio, não como seção fixa |
 
 ---
 
@@ -166,7 +172,7 @@
 
 > **Macete MedGradPlus — [NOME]:** [definição linha-a-linha + regra prática]
 
-### Figura sugerida
+### Figura sugerida (somente se indispensável)
 
 **Figura-ID:** `SIGLA-AULA-FXX`
 - **Momento:** [onde inserir no app]
@@ -175,18 +181,7 @@
 - **Busca Commons (EN):** [termos]
 - **Legenda rascunho:** [texto da legenda]
 
----
-
-## Caso da Semana
-
-> **Caso da Semana — [Cenário curto].**
-> [Vinheta clínica de 3 atos: persona + dados + comando]
->
-> **Pergunta 1:** [...]
-> **Pergunta 2:** [...]
-> **Pergunta 3:** [...]
->
-> Volte e responda depois de ler [seção X].
+Se a imagem não for indispensável, omita esta subseção e registre em `data/refs/<aula_id>.refs.json`: `image_decision.usar_imagem = false` + motivo.
 
 ---
 
@@ -217,7 +212,7 @@
 - **[Termo]:** [...]
 - **[Termo]:** [...]
 
-[Mínimo 8, máximo 15 bullets.]
+[Mínimo 10, máximo 15 bullets. Cada bullet deve ter pelo menos 1 termo-pivô em negrito; a seção inteira precisa ter 8+ marcações em negrito.]
 
 ---
 
@@ -321,55 +316,30 @@ Quando criar **macete novo** (não consagrado): marque com `[verificar consenso]
 
 ---
 
-## 7. Caso da Semana — vinheta de 3 atos
+## 7. Aplicação clínica sem seção fixa de caso
 
-Modelo:
+Não usar `## Caso da Semana`, "Ato 1/Ato 2/Ato 3" ou bloco de caso longo fora do Mini Quiz. Esse formato foi reprovado pelo mantenedor por quebrar o ritmo do material.
 
-```markdown
-> **Caso da Semana — Plantão emergência, 03h.**
->
-> **Ato 1 (persona):** Mulher, 62 anos, hipertensa, diabética. Relata dor epigástrica em barra há 6h, irradiando para dorso, vômitos persistentes. Etilismo social.
->
-> **Ato 2 (dados):** PA 100×60, FC 112, FR 22, glicemia capilar 280, lactato 4,2. Abdome doloroso difuso, sem peritonismo. Bilirrubina total 1,2; AST 80; ALT 75; lipase 920 (VR < 60); amilase 380 (VR < 100).
->
-> **Ato 3 (comando):**
-> 1. Qual o diagnóstico mais provável?
-> 2. Qual o pior diagnóstico que você não pode perder?
-> 3. Qual exame de imagem indicar agora? Antibiótico empírico?
->
-> Volte aqui depois de ler **Diagnóstico Diferencial** e **Conduta**.
-```
+O raciocínio clínico deve entrar de forma mais natural:
 
-- **Apenas 1** vinheta longa por aula. **Posicione antes** do diferencial.
-- **3 atos sempre** (persona, dados, comando).
-- **3 perguntas** numeradas (não mais).
-- **Não** dê a resposta no callout — o aluno volta depois de ler as seções seguintes.
-- **Pode** referenciar a vinheta nos "Pontos-Chave" no fim ("a paciente do nosso caso teria pontuação X no BISAP").
+- Em **frases curtas dentro dos tópicos**, conectando achado -> hipótese -> conduta.
+- Em **callouts de pegadinha**, quando a banca troca um diagnóstico por outro.
+- Em **Ponte com a Clínica**, com 1-2 parágrafos aplicados e objetivos.
+- No **Mini Quiz** e nas **Questões Essenciais**, onde a vinheta faz sentido como avaliação.
+
+Se o conteúdo precisar de uma história clínica longa para ensinar, prefira transformar em **Mini Quiz** ou em questão essencial, não em seção visível no material.
 
 ---
 
-## 8. Mapeamento de questões de bancos públicos
+## 8. Mapeamento interno de questões públicas
 
-Sempre que o material aborda um tema cobrado em residência, **liste no rodapé** as questões públicas relevantes. Bancos públicos disponíveis para mineração:
+Sempre que o material aborda um tema cobrado em provas públicas, registre referências **apenas em `data/refs/<aula_id>.refs.json`**. Não liste questões públicas, questões de residência ou questões mapeadas no corpo do `.md`, porque o aluno já terá a aba de Questões Essenciais e o banco de questões antigas.
 
 - **Resmedicina, Estratégia MED Q-bank gratuita, Sanar Up, MedQuest, Medway Q** (alguns gratuitos, outros parcialmente).
 - **Bancos abertos**: ENARE (provas oficiais públicas), provas de concursos públicos médicos (Iamspe, FCC-Saúde).
 - **Sites com provas oficiais**: enare.gov.br, sis.fas.usp.br (USP arquivos), unicamp (Comvest), unifesp (CRMV).
 
-### Formato no fim do material:
-
-```markdown
-## Questões de Residência (mapeadas)
-
-> Esta seção é preenchida pelo agente revisor. Lista questões reais de bancas públicas que cobram o tema desta aula. Identificadas com **banca + ano + número**.
-
-- **ENARE 2023 Q42** — Pancreatite aguda biliar com critério de gravidade.
-- **USP-SP 2024 Q18** — Diferencial entre divertículo de Zenker e epifrênico.
-- **Unifesp 2022 Q67** — Conduta inicial em abdome agudo perfurativo.
-- *(a confirmar)* — vide pasta `data/refs/<aula_id>.refs.json`.
-```
-
-A **mineração efetiva** é tarefa do agente revisor (etapa separada — ver Plano-mestre, Etapa 4).
+A mineração efetiva é tarefa de curadoria/revisor e deve ficar invisível para o aluno, servindo só para calibrar geração e auditoria.
 
 ---
 
@@ -401,14 +371,13 @@ Compare-Object (Get-Content "data/materiais/cir6/cir6_a1.md") (Get-Content "mate
 ### Estrutura
 
 - [ ] **Cabeçalho** (Disciplina/Módulo/Referência/Tempo) presente?
-- [ ] **Mínimo 180 linhas** para clínica/cirurgia/ortopedia?
-- [ ] **Ordem das seções** correta? (Relevância → Tópicos → Caso da Semana → Diferencial → Conduta → Ponte → Pontos-Chave → Mini Quiz → Pré-Prova → Fontes → Questões mapeadas)
-- [ ] **`## Pré-Prova`** é a **antepenúltima** seção (antes só de Fontes e Questões mapeadas)?
+- [ ] **Mínimo 240 linhas** para clínica/cirurgia/ortopedia/farm? (180 linhas é apenas piso estrutural legado, não aprovação de qualidade.)
+- [ ] **Ordem das seções** correta? (Relevância → Tópicos → Diferencial/Conduta quando fizer sentido → Ponte com a Clínica → Pontos-Chave → Mini Quiz → Pré-Prova → Fontes)
+- [ ] **Sem seção `## Caso da Semana`, `## Ponte com próximas aulas`, `## Questões mapeadas` ou `## Questões de Residência`** no corpo do material?
 
 ### Conteúdo
 
 - [ ] **2 a 3 macetes assinados** "Macete MedGradPlus —"?
-- [ ] **1 vinheta clínica de 3 atos** com 3 perguntas?
 - [ ] **5 a 8 questões** no Mini Quiz, com **1 caso longo**?
 - [ ] **2 a 4 fontes** citadas (livro/sociedade/edição)?
 - [ ] **Persona MedGradPlus** presente em pelo menos **3 callouts**?
@@ -424,6 +393,7 @@ Compare-Object (Get-Content "data/materiais/cir6/cir6_a1.md") (Get-Content "mate
 
 - [ ] **Corpo 12–18%**, **Pré-Prova 35–45%**?
 - [ ] **Sem frases longas inteiras** negritadas?
+- [ ] **Pontos-Chave** com 10–15 bullets e pelo menos **8 marcações em negrito**?
 
 ### Salvamento
 
@@ -432,7 +402,7 @@ Compare-Object (Get-Content "data/materiais/cir6/cir6_a1.md") (Get-Content "mate
 
 ### Citação a banca (residência)
 
-- [ ] Pelo menos **1 menção a banca de residência** (ENARE, USP, Unifesp, Einstein, AMRIGS, Iamspe) na "Síntese para a prova" ou "Bancas — onde isso cai"?
+- [ ] Pelo menos **1 menção a banca de residência** (ENARE, USP, Unifesp, Einstein, AMRIGS, Iamspe) em texto fluido, sem criar seção visível de questões ou lista de provas?
 
 ---
 
@@ -446,7 +416,14 @@ Após validar uma aula:
 4. Seguir para a próxima aula **da mesma disciplina** (não pular).
 5. Entre disciplinas, atualizar também **`MAPA_CICLO_CLINICO.md`**.
 
-**Nunca** rodar script para escrever em lote o conteúdo. Agente trabalha **manualmente, uma aula por vez**, com revisão.
+**Nunca** rodar script para escrever em lote o conteúdo final. Agente trabalha **manualmente, uma aula por vez**, com revisão.
+
+### 11.1 Anti-decaimento em sessões longas
+
+- Subagente pode ajudar em **pesquisa, auditoria e checklist**, mas não assume a redação final de material clínico.
+- A redação final deve ser feita/revisada pelo agente principal de maior capacidade e maior reasoning.
+- Se a aula ficar com 200–239 linhas, sem negritos nos Pontos-Chave, ou com persona apenas protocolar, marque como **rascunho fraco**, não como aprovado.
+- A cada 2 aulas novas, rodar auditoria de linhas, seções, persona, Mini Quiz e Pontos-Chave. Se 2 aulas seguidas falharem, parar geração e revisar prompt/modelo antes de continuar.
 
 ---
 

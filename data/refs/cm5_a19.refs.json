@@ -1,0 +1,39 @@
+{
+  "aula_id": "cm5_a19",
+  "materia": "clinica_medica5",
+  "tema": "Lesões Eritematodescamativas",
+  "generatedAt": "2026-05-08T00:20:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a18_a21_cm5_a19",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A19-F01",
+    "motivo": "Morfologia de placa eritematoescamosa é central para diferenciar psoríase, tinea, eczema e sífilis secundária."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "AAD-NPF. Psoriasis clinical guidelines.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "NICE. Psoriasis: assessment and management CG153.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Sociedade Brasileira de Dermatologia. Consenso Brasileiro de Psoríase.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de dermatologia inflamatória.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de dermatologia.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

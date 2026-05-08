@@ -40,6 +40,16 @@ Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** 
 
 **Para qualquer material do ciclo clínico (Mod 5–8):** ler **antes** `prompts/persona_medgradplus.md`, depois `prompts/gerar_materiais_apoio_v3.md`. O v2 (`gerar_materiais_apoio.md`) continua válido só para revisões do ciclo básico.
 
+## Controle anti-decaimento de conteúdo clínico
+
+- **Piso real de aprovação v3:** material final do ciclo clínico precisa ter **240+ linhas**, exceto tema formalmente simples com justificativa registrada no plano. O limite antigo de 180 linhas é só erro estrutural legado, não aprovação de qualidade.
+- **Pontos-Chave para Prova:** mínimo **10 bullets** e **8 marcações em negrito** nessa seção. Se os bullets não destacam cortes, condutas, red flags, escalas ou pegadinhas, a aula está fraca mesmo que o linter antigo passe.
+- **Sem subagentes para conteúdo clínico final:** a partir de 2026-05-08, não delegar redação, expansão, negritagem ou aprovação estética de aula clínica para subagentes. Use o agente principal/modelo forte, mesmo que gaste mais tokens.
+- **Sem batch de redação final:** não escrever material final em lote. Se houver qualquer automação, ela só pode remover ruído mecânico ou auditar; conteúdo, densidade, negrito e incremento são curadoria manual.
+- **Sem `Caso da Semana`:** seção proibida em materiais clínicos. Raciocínio clínico entra integrado aos tópicos, à Ponte com a Clínica, ao Mini Quiz e às Questões Essenciais.
+- **Validações mínimas antes de marcar aula como pronta:** espelho idêntico em `data/materiais/` e `materiais/moduloN/`, linter v3, contrato local da disciplina quando existir, 10-12 questões essenciais em `data/questoes.json`, 10-12 flashcards em `data/flashcards.json`, refs em `data/refs/`, e nenhuma seção visível de "Ponte com próximas aulas" ou "Questões de Residência".
+- **PE permanece fora de escopo** (`pe1`, `pe3`, `pe4`, `pe5`, `pe6`, `pe8`) até o usuário pedir explicitamente o contrário.
+
 ## Glossário mínimo
 
 | Termo | Significado |

@@ -1,0 +1,39 @@
+{
+  "aula_id": "cm5_a12",
+  "materia": "clinica_medica5",
+  "tema": "Demência e Meningite",
+  "generatedAt": "2026-05-07T23:35:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a11_a12_cm5_a12",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A12-F01",
+    "motivo": "Rash petequial/purpúrico em meningococcemia é sinal visual de urgência e muda conduta; não é imagem decorativa."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "NICE. Dementia: assessment, management and support (NG97).",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "WHO. Meningitis diagnosis, treatment and care guideline, 2025.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "IDSA. Practice Guidelines for the Management of Bacterial Meningitis.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de demência e meningites.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de neurologia e infectologia.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

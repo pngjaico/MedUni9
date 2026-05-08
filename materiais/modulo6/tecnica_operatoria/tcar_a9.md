@@ -90,24 +90,6 @@ Princípios práticos:
 - **Tipo sugerido:** esquema geométrico-clínico.
 - **Legenda (rascunho):** Planejamento correto da elipse reduz tensão e melhora desfecho cicatricial.
 
-## Ponte com a Clínica
-
-No ambulatório, técnica refinada em pequenos procedimentos reduz dor, retorno não programado e complicações precoces.
-A combinação de anestesia adequada, drenagem completa e fechamento planejado transforma um procedimento “simples” em cuidado de alta qualidade.
-Para prova prática, demonstrar organização sequencial e critérios de segurança costuma ser mais valorizado que velocidade.
-
----
-
-## Pontos-Chave para Prova
-
-- Dose e técnica de infiltração definem segurança da anestesia local.
-- Em abscesso maduro, drenagem adequada é pilar terapêutico.
-- Incisão insuficiente e loculação não rompida causam recidiva.
-- Exérese em fuso depende de planejamento geométrico prévio.
-- Fechamento sem tensão excessiva melhora resultado funcional e estético.
-
----
-
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
@@ -131,4 +113,3 @@ Procedimento ambulatorial de qualidade depende de técnica e de orientação cla
 ### Frase-âncora para não esquecer
 
 > "Pequena cirurgia com técnica grande gera grande resultado."
-

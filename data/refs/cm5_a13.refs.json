@@ -1,0 +1,39 @@
+{
+  "aula_id": "cm5_a13",
+  "materia": "clinica_medica5",
+  "tema": "Otites, Rinites e Rinossinusites",
+  "generatedAt": "2026-05-07T23:55:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a13",
+  "image_decision": {
+    "usar_imagem": true,
+    "figura_id": "CM5-A13-F01",
+    "motivo": "Otoscopia é critério diagnóstico de OMA; imagem ajuda a separar OMA de OME e otite externa."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "AAP. The Diagnosis and Management of Acute Otitis Media.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO-HNS. Clinical Practice Guideline: Acute Otitis Externa.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO-HNS. Clinical Practice Guideline: Allergic Rhinitis.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de ORL clínica.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de infecções respiratórias altas.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

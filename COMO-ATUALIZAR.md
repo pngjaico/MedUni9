@@ -55,6 +55,11 @@ Seus flashcards de estudo. O modelo editorial atual (**cloze v3**) está descrit
 ### data/questoes.json
 Questões de simulado extraídas de provas antigas. Contém enunciado, alternativas, resposta correta e explicação. Você vai atualizar bastante aqui.
 
+- **Auditoria de consistência e cobertura:** `npm run audit:questoes`
+- **Correção automática de mapeamento + promoção de essenciais:** `npm run fix:questoes`
+- **Validação obrigatória antes de consolidar mudanças em questões:** `npm run validate:questoes`
+- O vínculo canônico é `aula_id`; para questões de prova, `tema` deve espelhar `aula_id` e `materia` deve bater com a dona da aula em `data/materias.json`.
+
 ### data/codigos.json
 Códigos de ativação para alunos novos. Cada código tem um ID único e status de uso.
 

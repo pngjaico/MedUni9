@@ -3,14 +3,6 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-**Fraturas** interrompem a continuidade óssea; **luxações** perdem congruência articular completa. Princípios: **redução**, **estabilização** (fixação interna/externa), **imobilização** quando adequado e **reabilitação precoce** segura. **Fraturas abertas** são emergência ortopédica — **antibiótico**, **débito cirúrgico**, classificação de **Gustilo**. Em prova, dominam **síndrome compartimental**, **prioridades** em politrauma e **tipos de imobilização** (gesso, tala, órtese).
-
----
-
 ## Avaliação inicial
 
 **ABC** primeiro; **sangramento** com pressão, não garrote improvisado prolongado. **Exame neurovascular** antes e após qualquer manipulação. **Imagem** das articulações adjacentes quando indicado.
@@ -25,39 +17,9 @@
 
 > **Pegadinha:** **pulso presente** não exclui **síndrome compartimental** — monitorize dor.
 
----
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A18-F01`
-
-- **Momento:** após fratura aberta — classificação.
-- **O que mostrar:** ilustração **Gustilo I–III** com ferimento e tecidos moles.
-- **Tipo sugerido:** diagrama educacional.
-- **Legenda (rascunho):** Fratura exposta: graus de Gustilo (esquema).
-
----
-
 ## Luxações — redução urgente
 
 **Ombro** e **cotovelo** pediátrico (puxe) são comuns. **Redução** com analgesia/sedação adequada; **radiografia pós-redução** para confirmar e **reavaliar neurovascular**. **Luxação de quadril** — **redução em horas** para proteger vascularização da cabeça femoral.
-
----
-
-## Imobilização
-
-**Gesso** circunferencial vs **tala** (menor risco de compartimento em fase aguda edematosa). **Órteses** articuladas permitem mobilização controlada. **Tala** dorsal de punho após redução de fratura do antebraço — **elevação** e **observação de compartimento**.
-
-### Figura sugerida
-
-**Figura-ID:** `CIR6-A18-F02`
-
-- **Momento:** após imobilização — tipos.
-- **O que mostrar:** fotos ou desenho de **gesso em punho**, **tala** e **órtese** de joelho.
-- **Tipo sugerido:** ilustração comparativa.
-- **Legenda (rascunho):** Imobilização: gesso, tala e órtese.
-
----
 
 ## Consolidação e complicações
 
@@ -71,14 +33,6 @@
 - **O que mostrar:** **radiografia** de fratura com **calo** em consolidação (exemplo).
 - **Tipo sugerido:** RX de tíbia ou úmero.
 - **Legenda (rascunho):** Consolidação óssea: formação de calo visível ao RX.
-
----
-
-## Ponte com a Clínica
-
-Paciente com **fratura bimalleolar** e bolha de **fricção**: **não** dê alta sem regra de compartimento e orientação clara. **Idoso** com **fratura de quadril**: **time** cirúrgico precoce reduz complicações sistêmicas.
-
----
 
 ## Pontos-Chave para Prova
 

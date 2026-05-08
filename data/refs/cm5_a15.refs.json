@@ -1,0 +1,38 @@
+{
+  "aula_id": "cm5_a15",
+  "materia": "clinica_medica5",
+  "tema": "Labirintopatias e Vertigem",
+  "generatedAt": "2026-05-07T23:55:00.000Z",
+  "marker": "cm5_quality_contract_2026_05_07_cm5_a13_a17_cm5_a15",
+  "image_decision": {
+    "usar_imagem": false,
+    "motivo": "Vertigem é melhor ensinada por timing/gatilho e manobras descritas; imagem estática tende a confundir."
+  },
+  "fontes_base": [
+    {
+      "tipo": "fonte",
+      "titulo": "AAO-HNS. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "SAEM. GRACE-3: Acute Dizziness and Vertigo.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "AAO-HNS. Clinical Practice Guideline: Ménière Disease.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Harrison Medicina Interna, 21ª edição, capítulos de tontura e vertigem.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    },
+    {
+      "tipo": "fonte",
+      "titulo": "Cecil-Goldman Medicine, 26ª edição, capítulos de neurologia e ORL.",
+      "uso": "base clínica e padrão de prova para material, questões e flashcards."
+    }
+  ]
+}

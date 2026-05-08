@@ -3,16 +3,6 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
----
-
-## Relevância Clínica e Acadêmica
-
-**Abdome agudo** é síndrome de início súbito (horas) de dor abdominal associada a possível necessidade de **intervenção cirúrgica urgente** ou, no mínimo, **monitorização intensiva** e **imagem** para fechar etiologia. Em prova e na emergência, você precisa dominar três eixos: **classificação fisiopatológica** (para gerar hipóteses), **propedêutica** (anamnese + exame físico serial + exames) e **critérios de gravidade** (peritonismo, instabilidade hemodinâmica, lactato, necessidade de sala de cirurgia).
-
-> **Dica de Prova:** “Abdome agudo” **não é um diagnóstico** — é **porta de entrada**. A banca cobra **mecanismo** (inflamatório, perfurativo, obstrutivo, isquêmico, hemorrágico) e **primeiro exame** (RX, USG, TC conforme contexto).
-
----
-
 ## Classificação fisiopatológica (como pensar)
 
 | Tipo | Mecanismo central | Exemplos típicos | Pista de imagem / exame |
@@ -24,19 +14,6 @@
 | **Hemorrágico** | Sangramento intra ou retroperitoneal | AAA roto, trauma, hemorragia digestiva maciça | Queda de Hb, estabilidade, foco |
 
 > **Pegadinha:** **Idoso, imunossuprimido, diabético, grávida** ou em uso de **glicocorticoide** podem ter **apendicite/colecistite** com **dor e leucocitose discretas** — mantenha **baixo limiar** para imagem e observação prolongada com reavaliação.
-
----
-
-## Anamnese dirigida (o que não pode faltar)
-
-- **Localização** e **irradição** (epigástrio, FID, difusa; omoplata em colecistite; flanco em rim; dor em “cinturão” em pancreatite).  
-- **Tempo de evolução** e **ritmo** (minutos = perfuração/hemorragia; horas = inflamatório; dias com piora progressiva = obstrução complicada).  
-- **Síncope, lipotímia** (hemorragia, embolismo).  
-- **Última evacuação e flatos** (obstrução).  
-- **Antecedentes:** cirurgias prévias (aderências), **AINEs**, **anticoagulação**, **etilismo**, litíase biliar, **doença cardiovascular** (fibrilação e embolia mesentérica), **AAA** conhecido.  
-- **Gineco-obstétrico:** gravidez, DIU, dor pélvica (não esqueça **beta-HCG** antes de TC com radiação).
-
----
 
 ## Exame físico (serial, não “avaliação isolada”)
 
@@ -57,21 +34,6 @@ Rigidez, defesa, **Blumberg** (dor à descompressão brusca). Em idoso, **perito
 - **Tipo sugerido:** radiografia exemplo (real) ou esquema didático equivalente.
 - **Legenda (rascunho):** Pneumoperitônio: ar livre sob o diafragma em RX.
 
----
-
-## Exames complementares iniciais (laboratório)
-
-- **Hemograma** (leucocitose pode ausentar-se em idosos).  
-- **Lactato** (elevação sugere hipoperfusão; pense em **isquemia** ou sepse).  
-- **Amilase/lipase** (pancreatite; lipase costuma ser mais específica).  
-- **Função renal e eletrólitos** (vômitos, terceiro espaço).  
-- **Urina I** (cálculo, infecção urinária).  
-- **Gasometria** quando instabilidade ou suspeita de sepse.
-
-> **Pegadinha:** **Analgesia precoce** é segura quando há **reavaliação** — não deixe o paciente “sofrer” esperando exame; documente sinais antes/depois.
-
----
-
 ## Imagem: quando RX, USG ou TC?
 
 | Situação | Primeira linha (geral) | Observação |
@@ -90,21 +52,6 @@ Rigidez, defesa, **Blumberg** (dor à descompressão brusca). Em idoso, **perito
 - **O que mostrar:** radiografia abdominal em **ortostatismo** com alças dilatadas e **níveis hidroaéreos** compatíveis com obstrução intestinal.
 - **Tipo sugerido:** radiografia real de exemplo didático.
 - **Legenda (rascunho):** Obstrução intestinal: distensão de alças e níveis hidroaéreos em RX.
-
----
-
-## Conduta imediata (antes do diagnóstico etiológico fechado)
-
-| Passo | Ação |
-|-------|------|
-| 1 | Acesso venoso, monitoramento, **reposição volêmica** conforme resposta |
-| 2 | **Analgesia** e antiemético quando necessário (com reavaliação) |
-| 3 | Laboratório + urina + **beta-HCG** quando aplicável |
-| 4 | **Imagem** orientada pela hipótese (USG/TC/RX) |
-| 5 | Antibioticoterapia empírica se **peritonite**, sepse ou foco inflamatório grave (protocolo do serviço) |
-| 6 | **Cirurgião** acionado cedo — tempo de isquemia e perfuração contam |
-
----
 
 ## Algoritmo rápido (emergência)
 
@@ -127,23 +74,6 @@ Rigidez, defesa, **Blumberg** (dor à descompressão brusca). Em idoso, **perito
 - **O que mostrar:** radiografia de abdome em **decúbito dorsal** com **sinal da parede dupla** (ar intra e intraluminal realçando ambas as faces da parede intestinal) — sinal secundário de pneumoperitônio.
 - **Tipo sugerido:** radiografia exemplo (abdome agudo supino).
 - **Legenda (rascunho):** Sinal da parede dupla (sinal da parede dupla) em pneumoperitônio.
-
----
-
-## Ponte com a Clínica
-
-Paciente com dor periumbilical que **migra** para FID em 12–24 h com anorexia e náuseas — padrão clássico de **apendicite**; não espere leucocitose “gigante” para encaminhar. **Estrangulamento** herniário ou **torção** com alça isquêmica: dor intensa, sinais sistêmicos, lactato — **tempo cirúrgico** crítico. **AAA** roto: dor em lombo, hipotensão, massa pulsátil — estabilize e **vascular + cirurgia**.
-
-**Documentação:** registre **início dos sintomas**, **exame físico serial**, **hora da primeira dose de antibiótico** (se sepse) e **decisão de imagem** — protege paciente e equipe em auditoria e ensino.
-
-### Erros comuns em plantão
-
-- **Atrasar imagem** por “parecer gastrite” sem critérios de baixo risco.  
-- **Confundir** dor torácica inferior com abdome alto sem **ECG** quando indicado.  
-- **Esquecer** ginecologia na mulher com dor em FID.  
-- **Subestimar** idoso com dor leve e leucograma quase normal.
-
----
 
 ## Pontos-Chave para Prova
 
