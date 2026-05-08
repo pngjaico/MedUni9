@@ -91,6 +91,24 @@ Parâmetros para autoavaliação no treino:
 - **Tipo sugerido:** ilustração clínica comparativa.
 - **Legenda (rascunho):** Qualidade de eversão e tensão define cicatrização de melhor prognóstico.
 
+## Ponte com a Clínica
+
+Em ambulatório cirúrgico, sutura interrompida permite manejo mais seguro de feridas com inflamação parcial.
+Se um segmento apresenta hiperemia ou secreção, é possível retirar pontos específicos sem desestruturar todo o fechamento.
+No contexto de ensino, dominar interrompida melhora o desempenho em técnicas mais complexas porque consolida fundamentos de geometria e tensão.
+
+---
+
+## Pontos-Chave para Prova
+
+- Interrompida oferece controle segmentado e retirada seletiva de pontos.
+- Simetria de mordida e espaçamento regular valem mais que velocidade.
+- Donati favorece eversão, mas pode isquemiar se hipertracionado.
+- Ponto em X e em U são úteis para reforço e ancoragem local.
+- Em OSCE, erro crítico é estrangular borda para “garantir” fechamento.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
@@ -114,3 +132,4 @@ O resultado final depende mais de simetria, tensão e espacamento do que de velo
 ### Frase-âncora para não esquecer
 
 > "Ponto bem colocado fecha tecido; ponto mal tensionado abre ferida."
+

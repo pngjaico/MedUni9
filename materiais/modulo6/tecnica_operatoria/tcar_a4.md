@@ -93,6 +93,24 @@ Essa rotina reduz erro de material, retrabalho e tensão em momentos críticos.
 - **Tipo sugerido:** fluxograma simples.
 - **Legenda (rascunho):** Comunicação estruturada reduz erro intraoperatório.
 
+## Ponte com a Clínica
+
+Em eventos adversos cirúrgicos, falha de equipe é causa frequente: ordem mal compreendida, instrumento inadequado e contagem incompleta.
+Treinar função e comunicação na técnica operatória prepara o aluno para o internato real.
+Equipe alinhada opera de forma mais fluida e com menos intercorrência.
+
+---
+
+## Pontos-Chave para Prova
+
+- Papel de cada membro deve estar claro antes da incisão.
+- Ergonomia correta sustenta qualidade técnica ao longo do ato.
+- Instrumentador antecipa o passo seguinte, não apenas reage.
+- Comunicação em alça fechada evita erro de material.
+- Contagem de compressas e agulhas é responsabilidade coletiva.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.

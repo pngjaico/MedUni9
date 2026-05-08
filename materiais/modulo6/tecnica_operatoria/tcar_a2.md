@@ -111,6 +111,24 @@ Direto: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Errors_reducti
 Atribuição: Jack M. Kartush, MD / Wikimedia Commons, CC BY-SA 4.0
 -->
 
+## Ponte com a Clínica
+
+Quando um evento adverso ocorre em cirurgia, raramente ele nasce de uma única pessoa.
+Geralmente existe falha de sistema: ambiente desorganizado, fluxo quebrado e checklist negligenciado.
+Por isso, discutir ambiente cirúrgico é discutir segurança assistencial real.
+
+---
+
+## Pontos-Chave para Prova
+
+- Ambiente organizado reduz complicação e tempo operatório.
+- Zona restrita protege campo, não é burocracia.
+- Fluxo limpo e contaminado não pode cruzar.
+- Paramentação correta inclui comportamento, não só vestimenta.
+- Time-out antes da incisão previne erro grave.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.

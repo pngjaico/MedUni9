@@ -130,6 +130,24 @@ Atribuição: Olek Remesz / Wikimedia Commons, CC BY-SA 2.5
 - **Cortar cauda curta demais:** facilita afrouxamento precoce.
 - **Misturar fios sem estratégia de plano:** dificulta revisão e padronização da equipe.
 
+## Ponte com a Clínica
+
+No ambulatório de pós-operatório, muitas complicações de ferida refletem a decisão de material feita no centro cirúrgico.
+Quando o profissional escolhe fio e agulha com critério, o fechamento fica mais seguro, o pós-operatório menos doloroso e o resultado estético melhor.
+Em técnica cirúrgica, "dar ponto" sem entender material é treino incompleto.
+
+---
+
+## Pontos-Chave para Prova
+
+- Escolha de fio é decisão biológica e mecânica.
+- Nome comercial ajuda na logística, mas o critério é o tipo do material.
+- Monofilamentar e multifilamentar têm vantagens diferentes.
+- Agulha deve ser compatível com resistência e delicadeza do tecido.
+- Nó seguro sem estrangulamento é parte do resultado.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.

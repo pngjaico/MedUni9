@@ -118,6 +118,41 @@ Erros comuns no treinamento:
 - hemostasia incompleta antes da síntese;
 - confundir Mayo com Metzenbaum em momento crítico.
 
+## Ponte com a Clínica
+
+Na prática, má exposição e hemostasia insuficiente prolongam tempo operatório e elevam risco.
+Em cirurgia geral, boa técnica com instrumental básico costuma resolver mais problema do que dependência excessiva de tecnologia.
+Para o interno, dominar mesa e tempos operatórios melhora desempenho em qualquer especialidade cirúrgica.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR-A3-F02`
+
+- **Momento:** após a ponte com a clínica.
+- **O que mostrar:** comparação de campo bem exposto versus campo com hemostasia inadequada.
+- **Tipo sugerido:** ilustração comparativa.
+- **Legenda (rascunho):** Como exposição e hemostasia mudam a segurança do ato operatório.
+
+<!--
+Wikimedia (referência guardada; não exibir no leitor por ora) · TO-A3-F02
+Descrição: Centro cirúrgico moderno com mesa, iluminação e equipe ao redor do campo (visão geral de setup).
+Página: https://commons.wikimedia.org/wiki/File:Laparoscopic_operating_theatre.jpg
+Direto: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Laparoscopic_operating_theatre.jpg/960px-Laparoscopic_operating_theatre.jpg
+Atribuição: Dr.jayesh amin / Wikimedia Commons, CC BY-SA 3.0
+-->
+
+---
+
+## Pontos-Chave para Prova
+
+- Todo procedimento cirúrgico passa por diérese, hemostasia e síntese.
+- Instrumental deve ser escolhido pelo tecido e pelo objetivo, não por hábito.
+- Mesa dividida por função melhora ritmo e segurança.
+- Exposição ruim induz erro técnico.
+- Hemostasia vem antes de "fechar rápido".
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.

@@ -3,6 +3,14 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
+---
+
+## Relevância Clínica e Acadêmica
+
+**Entorses** lesionam ligamentos por mecanismos em varo/valgo/rotação. **Distensões musculares** ocorrem em aceleração ou alongamento brusco (**isquiotibiais**, adutores). **Roturas tendíneas** (Aquiles, supraespinal) podem ser parciais ou totais. Em prova, dominam **graus de entorse** (I–III), indicações de **RM**, **reabilitação** progressiva e **cirurgia** (LCA em esportista de alto rendimento, Aquiles rota total em atleta).
+
+---
+
 ## Tornozelo — ligamentos laterais
 
 Mecanismo inversão → **ligamento talofibular anterior** (LTA) primeiro. **Grau I** — microtears; **II** — ruptura parcial; **III** — instabilidade grave. **RICE** inicial, carga precoce guiada na maioria; **cirurgia de ligamentoplastia** em instabilidade crônica selecionada.
@@ -16,6 +24,16 @@ Mecanismo inversão → **ligamento talofibular anterior** (LTA) primeiro. **Gra
 - **Tipo sugerido:** ilustração anatômica.
 - **Legenda (rascunho):** Tornozelo: ligamentos laterais (entorse por inversão).
 
+---
+
+## Joelho — LCA e menisco
+
+**LCA** — mecanismo de desaceleração/rotação; **estalido** e **hemartrose**. **Menisco** — bloqueio, dor de linha articular. **RM** confirma. **LCA** — reconstrução em casos selecionados; **reabilitação** longa.
+
+> **Pegadinha:** **hemartrose** em joelho também ocorre em **fratura de platô** — não confie só na “entorse”.
+
+---
+
 ## Ombro — manguito e instabilidade
 
 **Lesões do manguito** (supraespinal predominante) em elevação repetida ou trauma. **Luxação anterior** — **Bankart**; **instabilidade multidirecional** — reabilitação intensiva. **USG** e **RM** complementares.
@@ -28,6 +46,42 @@ Mecanismo inversão → **ligamento talofibular anterior** (LTA) primeiro. **Gra
 - **O que mostrar:** vista posterior do **ombro** com **tendões do manguito** (SITS).
 - **Tipo sugerido:** ilustração anatômica.
 - **Legenda (rascunho):** Manguito rotador: tendões principais.
+
+---
+
+## Músculo-tendão — Aquiles e isquiotibiais
+
+**Rotura de Aquiles** — “chute na panturrilha”, déficit de **Thompson** positivo. **Tratamento** conservador com bota equinada vs **cirúrgico** — debate por protocolo e perfil. **Isquiotibiais** — distensão vs avulsão apofisária (adolescente).
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A19-F03`
+
+- **Momento:** após Aquiles — teste clínico.
+- **O que mostrar:** esquema do **teste de Thompson** (compressão da panturrilha sem flexão plantar).
+- **Tipo sugerido:** desenho clínico.
+- **Legenda (rascunho):** Teste de Thompson positivo: suspeita de rotura do tendão de Aquiles.
+
+---
+
+## Ponte com a Clínica
+
+Atleta jovem com **joelho instável** recorrente — avaliação de **LCA** e **menisco** antes de retorno ao esporte. **Idoso** com **rotura de manguito** assintomático parcial — pode ser conservador; **totais** sintomáticos — cirurgia.
+
+### Erros comuns
+
+Liberar **retorno ao esporte** só por “sumiu a dor” sem testes de saltos/estabilidade; subestimar **reabilitação** pós-LCA; tratar **entorse grau III** como “só repouso” sem avaliar instabilidade crônica.
+
+---
+
+## Pontos-Chave para Prova
+
+- Entorse: graus; tornozelo — LTA mais comum.
+- LCA: RM; hemartrose — differential amplo.
+- Aquiles: Thompson; tratamento individualizado.
+- Manguito: USG/RM; reabilitação antes de cirurgia em parciais.
+
+---
 
 ## Pré-Prova
 

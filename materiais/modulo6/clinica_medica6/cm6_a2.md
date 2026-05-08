@@ -1,5 +1,16 @@
 # Hepatites Virais
 
+**Disciplina:** Clínica Médica 6  
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (hepatites virais; interpretação sorológica e manejo)  
+**Tempo de estudo sugerido:** 10–20 min
+
+---
+
+## Relevância Clínica e Acadêmica
+
+As **hepatites virais** A a E não são “um único tema”: são **cinco agentes** com **vias de transmissão**, **potencial de cronificação**, **painéis sorológicos** e **estratégias de prevenção** distintos. No *Cecil*, o internista precisa dominar **quem transmite como**, **qual marcador confirma fase aguda versus imunidade**, **quando há infecção ativa replicativa** e **quando tratar ou vacinar**. Em prova, erro típico é misturar **perfil de hepatite B** com **C** ou interpretar **anti-HBc** isolado sem contexto temporal.
+
+---
 
 
 ### Figura sugerida
@@ -23,6 +34,27 @@
 | **HEV** | Fecal-oral | Imunocompetente: rara; imunossuprimido: possível | Situações específicas |
 
 > **Dica de Prova:** **HAV e HEV** → pense **higiene, água, alimentos, viagem**. **HBV, HCV, HDV** → pense **sangue, sexual, vertical** e **risco de doença hepática crônica**, cirrose e **HCC** ao longo dos anos.
+
+---
+
+## Hepatite A (HAV)
+
+### Fisiopatologia e apresentação
+
+Infecção **aguda** do hepatócito pelo picornavírus transmitido por **via fecal-oral**. Incubação em geral **2–6 semanas**. Quadro clássico: **fadiga**, **náuseas**, **dor em hipocôndrio direito**, **icterícia** com elevação de **ALT/AST** (predomínio de hepatite citolítica). Crianças podem ser **anictericas**.
+
+### Diagnóstico laboratorial
+
+- **Anti-HAV IgM:** infecção **aguda** (padrão diagnóstico na fase sintomática).  
+- **Anti-HAV IgG:** **imunidade** (infecção prévia ou vacinação, conforme contexto vacinal).
+
+### Conduta e prevenção
+
+Tratamento de suporte (hidratação, orientação dietética, evitar **álcool** e hepatotóxicos). **Vacina inativada** para grupos de risco (viajantes, profissionais de saúde, doença hepática crônica subjacente, etc., conforme calendário e protocolos locais). **Imunoglobulina** pós-exposição em cenários selecionados (timing e indicação seguem protocolo).
+
+> **Pegadinha:** transaminases **muito altas** com IgM positivo e quadro agudo **não** significam cronificação — HAV não evolui para cirrose viral crônica no sentido de persistência do vírus como HBV/HCV.
+
+---
 
 ## Hepatite B (HBV)
 
@@ -61,6 +93,29 @@ Analogues de nucleos(t)ídeos e outras estratégias são indicados conforme **re
 
 Na **infecção aguda adulta**, uma proporção significativa **elimina** o vírus (HBsAg negativa, anti-HBs/anti-HBc). Quando o **HBsAg persiste** além do limiar temporal de **cronicidade**, o paciente entra no manejo de **hepatite B crônica** (vigilância, critérios de tratamento, rastreio de HCC conforme estágio). A **transmissão vertical** (mãe HBsAg positiva) exige **profilaxia ao nascimento** (vacina + imunoglobulina anti-HBs em protocolos) — erro clássico de pediatria e obstetrícia em provas integradas.
 
+---
+
+## Hepatite C (HCV)
+
+### Epidemiologia e apresentação
+
+Transmissão principal **parenteral** (sangue compartilhado, material médico inadequadamente esterilizado no passado, etc.). Muitos pacientes **assintomáticos** por décadas. Não confundir **anti-HCV reagente** com “doença ativa” sem **HCV-RNA**.
+
+### Diagnóstico
+
+1. **Anti-HCV** (triagem).  
+2. **HCV-RNA (PCR):** confirma **infecção ativa** e permite **genotipagem** quando necessário.
+
+### Tratamento
+
+**Antivirais de ação direta (DAAs)** elevaram muito as taxas de **cura virológica sustentada**; esquema e duração dependem de **genótipo**, fibrose, comorbidades e interações medicamentosas.
+
+### Vacina
+
+**Não há vacina universal** disponível como para HAV/HBV — prevenção é **evitar exposição** e **rastrear/tratar** portadores.
+
+---
+
 ## Hepatite D (HDV)
 
 Vírus **defectivo** que necessita **HBsAg** para completar o ciclo. Cenários:
@@ -70,6 +125,14 @@ Vírus **defectivo** que necessita **HBsAg** para completar o ciclo. Cenários:
 
 Diagnóstico por **anti-HDV**, **RNA-HDV** quando disponível, sempre em paciente **HBsAg positivo**.
 
+---
+
+## Hepatite E (HEV)
+
+Transmissão **fecal-oral** (água contaminada, surtos). Em **imunocompetentes**, curso usualmente autolimitado. **Gravidez** (especialmente 2º/3º trimestres) associa-se a **maior gravidade** em alguns contextos epidemiológicos — tema clássico de prova. Em **imunossuprimidos**, descrição de **cronificação** possível. Diagnóstico: **anti-HEV IgM**, **RNA-HEV** conforme disponibilidade.
+
+---
+
 ## Rastreio de complicações em doença crônica (HBV/HCV)
 
 Pacientes com infecção crônica necessitam **estratificação de fibrose** (métodos não invasivos ou histologia quando indicado) e **rastreio de HCC** conforme protocolo assistencial — integração com a aula de **cirrose** e oncologia hepática.
@@ -77,6 +140,14 @@ Pacientes com infecção crônica necessitam **estratificação de fibrose** (m�
 ### Co-infecções e contexto de imunossupressão
 
 **HBV** pode **reativar** com quimioterapia ou imunossupressores — diretrizes enfatizam rastreio pré-tratamento e profilaxe em cenários de risco. **HCV** + **HIV** (e outras combinações) altera priorização e interações medicamentosas; o manejo é especializado, mas a prova cobra **ordem de tratamento** e **monitorização hepática**.
+
+---
+
+## Ponte com a Clínica
+
+Um laudo “positivo para hepatite” sem especificar **vírus** e **marcador** não orienta conduta. O raciocínio correto: **qual agente?** há **replicação (DNA/RNA)?** há **indicação de tratamento agora?** há **vacina ou profilaxia** para contatos? há **necessidade de investigar fibrose**? Essa sequência é o que o preceptor espera na discussão de caso.
+
+---
 
 ## Pontos-Chave para Prova
 

@@ -1,5 +1,16 @@
 # Síndromes Geriátricas
 
+**Disciplina:** Clínica Médica 6  
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (síndromes geriátricas, iatrogenia, continência, mobilidade)  
+**Tempo de estudo sugerido:** 10–20 min
+
+---
+
+## Relevância Clínica e Acadêmica
+
+As **grandes síndromes geriátricas** — entre elas **quedas**, **incontinência urinária**, **imobilidade** e **iatrogenia** (incluindo **polifarmácia**) — são **interdependentes**: uma piora puxa a outra em **cascata**. No *Cecil*, o raciocínio não é “sintoma isolado”, e sim **causa multifatorial** + **reversibilidade**. Em prova, cenários de **delirium** após novo fármaco ou **incontinência** que “resolve” com tratamento de infecção do trato urinário testam se você evita **atalhos diagnósticos**.
+
+---
 
 
 ### Figura sugerida
@@ -23,6 +34,22 @@
 
 > **Dica de Prova:** **incontinência** no idoso **não é “normal”** — é **sintoma** com causas identificáveis na maioria dos casos.
 
+---
+
+## Quedas: abordagem sistemática
+
+### Avaliação
+
+História da queda (**sincope versus trip versus desequilíbrio**), medicamentos, **visão**, **pé** (neuropatia, calçado), **ambiente**, **ritmo cardíaco** (arritmias). Exame: **força**, **marcha**, **propriocepção**, **sinais neurológicos focais**.
+
+### Prevenção
+
+**Exercício de equilíbrio e força**, revisão de **hipnóticos**, correção de **deficit vitamínico** quando indicado, **otimização** de pressão arterial ortostática (hidratação, ajuste de fármaco), **adequação do lar**.
+
+> **Pegadinha:** **hiponatremia** ou **infecção** podem manifestar-se só como **instabilidade** — investigar gatilhos metabólicos.
+
+---
+
 ## Incontinência urinária: tipos (visão de prova)
 
 | Tipo | Mecanismo resumido | Pistas |
@@ -34,6 +61,14 @@
 
 **Constipação** e **diuréticos** podem piorar qualquer padrão — sempre pergunte.
 
+---
+
+## Imobilidade e decondicionamento
+
+Após **internação** ou **evento agudo**, perda rápida de **força** e **massa muscular** (especialmente se **jejum** e **inflamação**). **Fisioterapia precoce**, **nutrição adequada** e **controle da dor** reduzem complicações (TVP, pneumonia, delirium).
+
+---
+
 ## Iatrogenia e polifarmácia
 
 **Definição operacional** comum: **≥5 medicamentos** (limiar arbitrário, mas útil para alerta). Riscos: **interações**, **aderência ruim**, **efeitos anticolinérgicos cumulativos**, **sangramento** (anticoagulantes + AINEs).
@@ -41,6 +76,14 @@
 ### Estratégias
 
 Revisão periódica com critério de **desprescrição** quando benefício não é claro; **alinhamento** com metas do paciente (compartilhamento de decisão).
+
+---
+
+## Ponte com a Clínica
+
+Idoso com **três quedas em um mês** e uso de **benzodiazepínico noturno**: o plano não é só “cuidado”; é **tentar reduzir sedativo** com substitutos não farmacológicos do sono, **treinar marcha** e **iluminar corredor**. A síndrome geriátrica **some** quando você trata **causa e contexto**.
+
+---
 
 ## Pontos-Chave para Prova
 

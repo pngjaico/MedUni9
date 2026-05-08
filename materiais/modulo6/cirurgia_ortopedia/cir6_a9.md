@@ -3,6 +3,14 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
+---
+
+## Relevância Clínica e Acadêmica
+
+A **doença ulcerosa péptica (DUP)** resulta do desequilíbrio entre **fatores agressivos** (ácido, pepsina, **H. pylori**, AINEs) e **defesas** mucosas. Complicações definem gravidade: **hemorragia**, **perfuração**, **estenose pilórica** (obstrutiva). Em prova, dominam **erradicação** de H. pylori com verificação, **PPI** na fase aguda e **cirurgia** em perfuração livre ou obstrução refratária.
+
+---
+
 ## Etiologia e cofatores
 
 - **H. pylori** — principal agente infeccioso associado a úlcera duodenal e gástrica.  
@@ -18,6 +26,16 @@
 | Gástrica | Maior suspeita de malignidade | Biópsia de borda em úlcera gástrica |
 | Pilórica / prepilórica | Obstrução mecânica possível | Vômitos alimentares, desidratação |
 
+---
+
+## Quadro clínico e alarmes
+
+Dor epigástrica em **queimação** ou peso, relação variável com alimento. **Hematêmese/melena** se hemorragia. **Rigidez** e dor difusa sugerem **perfuração** (abdome agudo). **Obstrução**: saciedade precoce, vômitos, perda ponderal.
+
+> **Pegadinha:** melhora sintomática com antiácido **não** exclui úlcera complicada nem neoplasia gástrica.
+
+---
+
 ## Diagnóstico
 
 **Endoscopia** com alarmes (disfagia, emagrecimento, anemia) ou falha ao tratamento empírico. **Teste de H. pylori** não invasivo (ureia marcada, antigenemia fecal) ou **urease** na biópsia. Pesquisa de **uso de AINE** e necessidade de **gastroproteção**.
@@ -31,6 +49,29 @@
 - **Tipo sugerido:** imagem microscópica ou desenho didático.
 - **Legenda (rascunho):** H. pylori: relação com inflamação e úlcera.
 
+---
+
+## Tratamento clínico
+
+**PPI** em curso de **4–8 semanas** conforme localização e gravidade. **Erradicação** de H. pylori com esquema tríplice/quádruplo guiado por resistência local quando disponível. **Suspender AINE** ou associar **misoprostol/PPI** se imprescindível. **Teste de erradicação** (ureia ou antigenemia) semanas após terapia — dependendo do protocolo.
+
+### Complicações cirúrgicas
+
+- **Perfuração livre:** laparoscopia/laparotomia com **patch de Graham** (omental) ± lavagem.  
+- **Estenose pilórica:** descompressão, correção eletiva; cirurgia definitiva em casos selecionados.  
+- **Hemorragia:** abordagem endoscópica + PPI parenteral em alto risco.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A09-F02`
+
+- **Momento:** após perfuração — abdome agudo.
+- **O que mostrar:** **radiografia** com **pneumoperitônio** (ar livre subdiafragmático).
+- **Tipo sugerido:** RX tórax ortostático.
+- **Legenda (rascunho):** Perfuração péptica: pneumoperitônio em RX.
+
+---
+
 ## Classificação de Forrest (visão de prova)
 
 Estigmas de **alto risco de ressangramento** orientam terapêutica endoscópica e PPI parenteral contínuo. Memorize o conceito (“vascular exposto” pior que “base limpa”), não só o nome.
@@ -43,6 +84,14 @@ Estigmas de **alto risco de ressangramento** orientam terapêutica endoscópica 
 - **O que mostrar:** painel esquemático **Forrest Ia–III** com legenda.
 - **Tipo sugerido:** diagrama educacional.
 - **Legenda (rascunho):** Úlcera sangrante: classificação de Forrest (esquema).
+
+---
+
+## Ponte com a Clínica
+
+Idoso em AINE com anemia ferropriva: **endoscopia** antes de cronicizar PPI sem etiologia. Úlcera gástrica: **biópsias** para excluir malignidade. Jovem com úlcera duodenal e H. pylori positivo: **complete o tratamento** e confirme cura — recidiva evitável.
+
+---
 
 ## Pontos-Chave para Prova
 

@@ -3,6 +3,14 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
+---
+
+## Relevância Clínica e Acadêmica
+
+**Radiografia** simples é primeira linha na maioria dos quadros traumáticos e degenerativos. **TC** detalha **osso**, fraturas complexas e planejamento cirúrgico. **RM** é padrão-ouro para **partes moles** — meniscos, ligamentos, tendões, medula. **Ultrassom** é dinâmico para **manguito**, **Aquiles** e **derrames**. **Cintilografia** e **PET** têm papéis específicos (stress, oncologia). Em prova, dominam **incidências adequadas**, **indicações** e **limitações** (custo, artefatos, contraindicações à RM).
+
+---
+
 ## Radiografia
 
 ### Trauma
@@ -22,6 +30,16 @@ Sempre que possível **duas incidências ortogonais** + **incluídas articulaç�
 - **Tipo sugerido:** RX padrão.
 - **Legenda (rascunho):** Fratura pediátrica: padrão em galho verde.
 
+---
+
+## Tomografia computadorizada
+
+Alta resolução óssea; **reconstruções** em planos coronal/sagital para **articular** (escápulo, acetábulo, calcâneo). **TC com contraste** em suspeita de infecção osteoarticular em cenários específicos.
+
+> **Pegadinha:** **TC** expõe radiação — não substitua RX inicial sem necessidade em trauma simples.
+
+---
+
 ## Ressonância magnética
 
 Excelente contraste de partes moles. **Contraindicações**: alguns implantes metálicos antigos, **clipes** intracranianos ferromagnéticos (checar protocolo). **Protocolos** específicos: **cartilagem** (sequências de cartilagem), **osteomielite precoce** (edema medular).
@@ -35,9 +53,34 @@ Excelente contraste de partes moles. **Contraindicações**: alguns implantes me
 - **Tipo sugerido:** imagem RM anotada.
 - **Legenda (rascunho):** RM: lesão do ligamento cruzado anterior.
 
+---
+
+## Ultrassom
+
+Dinâmico, sem radiação. **Manguito rotador**, **tendão de Aquiles**, **bursas**, **derrame articular**. Dependente do operador.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A16-F03`
+
+- **Momento:** após USG — ombro.
+- **O que mostrar:** **ultrassom** de ombro com **ruptura parcial/total** do supraespinal (longitudinal).
+- **Tipo sugerido:** USG musculoesquelético.
+- **Legenda (rascunho):** USG: rotura do tendão do supraespinal.
+
+---
+
 ## Cintilografia e PET
 
 **Cintilo óssea** sensível para **stress fractures**, metastases (complementar). **PET-CT** em estadiamento oncológico ósseo.
+
+---
+
+## Ponte com a Clínica
+
+Paciente com **trauma** e dor importante mas **RX normal**: considere **fratura oculta** — **RM** ou **TC** conforme local (escafóide, estresse femoral). Paciente **grávida**: **USG** primeiro; **RM sem gadolínio** se indispensável — evitar TC abdominal se possível.
+
+---
 
 ## Pontos-Chave para Prova
 

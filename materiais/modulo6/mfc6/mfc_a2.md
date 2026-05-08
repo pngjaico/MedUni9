@@ -3,6 +3,16 @@
 **Disciplina:** Medicina de Família e Comunidade 6  
 **Módulo:** 6 | **Referência principal:** WONCA, SBMFC, PNAB, e-SUS APS e Cadernos de Atenção Básica | **Tempo de estudo sugerido:** 20-30 min
 
+---
+
+## Relevância Clínica e Acadêmica
+
+Coordenação do cuidado é um dos atributos mais cobrados em MFC porque traduz o papel central da APS na rede. O médico de família não atua isolado: ele articula fluxos entre UBS, atenção especializada, hospital, CAPS, reabilitação e equipamentos sociais, mantendo continuidade clínica e vínculo.
+
+Nas questões, a banca costuma apresentar um paciente complexo (multimorbidade, polifarmácia, internações repetidas) e perguntar qual conduta melhora desfecho. A resposta correta geralmente envolve organizar percurso assistencial com informação qualificada, e não "pedir mais exames" de forma descontextualizada.
+
+---
+
 ## O que significa coordenar cuidado na prática
 
 Coordenar cuidado envolve três continuidades:
@@ -34,6 +44,24 @@ Se uma dessas dimensões falha, aumentam eventos adversos, repetição de condut
 - **Tipo sugerido:** diagrama de fluxo assistencial.
 - **Legenda (rascunho):** Coordenação efetiva exige referência e contrarreferência com informação útil.
 
+---
+
+## Referência, contrarreferência e transição de cuidado
+
+Referência qualificada inclui motivo do encaminhamento, hipótese diagnóstica, tratamentos já tentados, comorbidades e pergunta específica para o especialista. Isso aumenta resolubilidade e reduz tempo até decisão.
+
+Contrarreferência de qualidade precisa ser acionável para a UBS: diagnóstico, conduta proposta, prioridades e sinais de alarme. A APS integra esse retorno ao plano longitudinal, evitando prescrições incompatíveis entre serviços.
+
+Transições críticas (alta hospitalar, início de cuidado paliativo, mudança de esquema terapêutico) exigem consulta de reconciliação medicamentosa e revisão de metas em curto prazo.
+
+| Situação de transição | Risco principal | Conduta coordenadora da MFC |
+|-----------------------|----------------|------------------------------|
+| Alta por insuficiência cardíaca | Reinternação precoce | Consulta em até 7-14 dias + ajuste de plano domiciliar |
+| Introdução de múltiplos fármacos | Interação e baixa adesão | Reconciliação medicamentosa e simplificação posológica |
+| Retorno sem documento do especialista | Conduta sem contexto | Contato ativo para obter contrarreferência e redefinir seguimento |
+
+---
+
 ## Matriciamento, interdisciplinaridade e clínica ampliada
 
 Matriciamento não substitui a equipe de referência; ele qualifica a tomada de decisão da APS por apoio técnico-pedagógico. Exemplo clássico é discussão com saúde mental para manejo compartilhado de depressão resistente, mantendo o vínculo principal na UBS.
@@ -50,6 +78,32 @@ A coordenação melhora quando equipe multiprofissional compartilha objetivo ún
 - **O que mostrar:** reunião de equipe com caso clínico no centro, destacando contribuição de médico, enfermagem, ACS e NASF/equipe multiprofissional.
 - **Tipo sugerido:** ilustração de reunião clínica.
 - **Legenda (rascunho):** Matriciamento apoia a APS sem romper o vínculo longitudinal da equipe de referência.
+
+---
+
+## Território e priorização de risco para coordenar melhor
+
+Coordenação do cuidado depende de conhecer o território para definir quem precisa de seguimento intensivo. Pacientes com fragilidade social, baixa literacia em saúde e múltiplas comorbidades não podem ter o mesmo modelo de acompanhamento de casos estáveis.
+
+Estratificação de risco, microárea e busca ativa ajudam a concentrar esforço onde há maior chance de desfecho grave. Na APS, priorizar é estratégia de equidade.
+
+---
+
+## Ponte com a Clínica
+
+Diante de paciente com diabetes, DPOC e depressão após duas internações no ano, a conduta mais forte em MFC é: reconciliação medicamentosa, plano terapêutico singular com metas factíveis, articulação matricial e retorno programado com monitoramento pela equipe e ACS. Isso é coordenação aplicada ao mundo real.
+
+---
+
+## Pontos-Chave para Prova
+
+- Coordenação do cuidado é atributo essencial da APS e reduz fragmentação.
+- Referência boa tem pergunta clínica objetiva; contrarreferência boa tem plano acionável.
+- Transição de cuidado (especialmente pós-alta) é momento de alto risco.
+- Matriciamento qualifica a APS sem transferir a responsabilidade longitudinal.
+- Território e risco social determinam intensidade de seguimento.
+
+---
 
 ## Pré-Prova
 

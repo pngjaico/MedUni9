@@ -79,6 +79,24 @@ Medidas preventivas essenciais:
 - assepsia rigorosa em manipulações;
 - retirada precoce quando não houver mais indicação.
 
+## Ponte com a Clínica
+
+Em paciente crítico, acesso venoso adequado impacta diretamente tempo de tratamento e segurança terapêutica.
+No cuidado diário, complicações evitáveis costumam estar ligadas a falhas básicas: indicação frouxa, técnica sem padronização e manutenção inadequada.
+Na formação prática, dominar periférico e central com critério reduz iatrogenias e melhora desfechos.
+
+---
+
+## Pontos-Chave para Prova
+
+- Periférico é primeira escolha na maioria dos cenários.
+- Central deve ter indicação clínica clara.
+- Técnica de Seldinger exige controle contínuo do fio-guia.
+- Confirmação da posição do cateter é etapa obrigatória.
+- Revisão diária de necessidade reduz infecção e trombose.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.

@@ -90,6 +90,24 @@ Critérios de qualidade observáveis:
 - não há esmagamento central do tecido;
 - o plano fica estável sem necessidade de “nós de resgate”.
 
+## Ponte com a Clínica
+
+Em ferida de pele sob tensão moderada, nó manual bem feito reduz deiscência e melhora resultado estético.
+Em cirurgia aberta, estabilidade do nó em planos profundos evita sangramento tardio por soltura de ligadura.
+No internato e na residência inicial, consistência técnica do nó manual diferencia execução segura de execução apenas “rápida”.
+
+---
+
+## Pontos-Chave para Prova
+
+- Nó estável depende de alternância correta e tensão progressiva.
+- Nó de cirurgião é indicação de contexto, não substituto de técnica.
+- Falso nó costuma surgir por repetição do mesmo semilance.
+- Número de lances deve considerar tipo de fio e tensão do plano.
+- Em OSCE, segurança e reprodutibilidade valem mais que velocidade.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
@@ -114,3 +132,4 @@ No instrumental segue os mesmos principios do manual: alternancia, tração cont
 ### Frase-âncora para não esquecer
 
 > "No estavel fecha ferida; no instavel abre problema."
+

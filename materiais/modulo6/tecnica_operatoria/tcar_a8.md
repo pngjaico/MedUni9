@@ -84,6 +84,24 @@ Checklist prático de qualidade:
 - **Tipo sugerido:** ilustração clínica comparativa.
 - **Legenda (rascunho):** Regularidade e tensão fisiológica determinam segurança da sutura contínua.
 
+## Ponte com a Clínica
+
+Na cirurgia geral, a sutura contínua economiza tempo anestésico quando bem indicada e bem executada.
+Entretanto, decisão técnica deve considerar risco infeccioso, qualidade tecidual e possibilidade de edema pós-operatório.
+No internato, o ganho real não é apenas “fechar rápido”, e sim fechar de forma previsível e reprodutível.
+
+---
+
+## Pontos-Chave para Prova
+
+- Contínua é eficiente em linhas longas e homogêneas.
+- Hemostasia prévia é pré-requisito para fechamento seguro.
+- Ancoragens inicial e final definem estabilidade global da linha.
+- Regularidade de passada pesa mais que velocidade.
+- Em tensão irregular importante, considere interrompida.
+
+---
+
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
@@ -106,3 +124,4 @@ Em prática, no de ancoragem e passadas simetricas são os pilares do resultado.
 ### Frase-âncora para não esquecer
 
 > "Na sutura continua, regularidade e segurança."
+

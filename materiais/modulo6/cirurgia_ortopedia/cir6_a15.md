@@ -3,6 +3,14 @@
 **Disciplina:** Cirurgia e Ortopedia 6  
 **Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
+---
+
+## Relevância Clínica e Acadêmica
+
+A **semiologia ortopédica** segue **inspeção**, **palpação**, **amplitude de movimento (ADM)**, **testes de estabilidade** e **avaliação neurovascular**. Correlacionar **dor referida** (radiculopatia L5 vs S1), **linhas de Bryant/Galeazzi** (trauma pediátrico) e testes como **Lachman** e **Jobe** permite hipótese diagnóstica antes da imagem. Em prova, cobram-se **padrões de trauma** (menisco, LCA, manguito) e **red flags** (infecção, tumor).
+
+---
+
 ## Inspeção
 
 Simetria, **edema**, hematoma, **deformidades** (depressão supraespinal, “de dedo em gatilho”), alteração de marcha. **Atrofia** sugestiva de desuso ou neuropatia.
@@ -10,6 +18,14 @@ Simetria, **edema**, hematoma, **deformidades** (depressão supraespinal, “de 
 ### Atitude e marcha
 
 **Claudicação** antálgica vs isquêmica vs neurológica. **Trendelenburg** positivo — fraqueza de glúteo médio ou DDQ.
+
+---
+
+## Palpação
+
+Pontos de referência ósseos (**epicôndilos**, **maleolos**, **tuberosidade tibial**). **Dor à palpação** na linha de fratura, **tendões** (Aquiles, rotuliano), **cavidades articulares** (derrame).
+
+---
 
 ## Amplitude de movimento (ADM)
 
@@ -24,6 +40,21 @@ Ativa e passiva — **perda de ADM passiva** sugere **contratura** articular ou 
 - **Tipo sugerido:** desenho esquemático comparativo.
 - **Legenda (rascunho):** Trauma pediátrico: desalinhamento e linhas de referência.
 
+---
+
+## Testes especiais — amostra
+
+| Região | Teste | Interpretação (visão de prova) |
+|--------|-------|------------------------|
+| Joelho | Lachman | LCA (sensível precocemente) |
+| Joelho | McMurray | menisco (menos específico isolado) |
+| Ombro | Jobe | supraespinal / impacto |
+| Tornozelo | anterior drawer | ligamento talofibular anterior |
+
+> **Pegadinha:** **RM** “positiva para menisco” em assintomático idoso — correlacione clínica.
+
+---
+
 ## Avaliação neurovascular
 
 **Pulsos**, **perfusão**, **capilar**, **motricidade**, **sensibilidade**. Pós-redução de luxação ou fratura: **documentar** antes e depois. **Síndrome compartimental**: dor desproporcional, dor à passiva dos dedos — **não** esperar pulso ausente.
@@ -36,6 +67,38 @@ Ativa e passiva — **perda de ADM passiva** sugere **contratura** articular ou 
 - **O que mostrar:** sequência esquemática do **teste de Lachman** (posição e translação).
 - **Tipo sugerido:** ilustração médica.
 - **Legenda (rascunho):** Teste de Lachman: avaliação do LCA.
+
+---
+
+## Dor irradiada e coluna
+
+**L4** — face medial perna/pé; **L5** — dorso do pé; **S1** — borda lateral do pé. Confundir **joelho** com **radiculopatia** atrasa diagnóstico.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A15-F03`
+
+- **Momento:** após radiculopatia — dermatomas.
+- **O que mostrar:** mapa de **dermatomas** lombossacrais (corpo humano anterior/posterior).
+- **Tipo sugerido:** diagrama anatômico.
+- **Legenda (rascunho):** Dermatomas: correlação clínica com nível radicular.
+
+---
+
+## Ponte com a Clínica
+
+Paciente pós-trauma com **dor em coxa** e rotação externa da perna: **não** caminhe até excluir **fratura de quadril** no idoso. Criança com **claudicação** afebril: **DDQ**, **Perthes**, **epifisiólise** na lista.
+
+---
+
+## Pontos-Chave para Prova
+
+- Inspeção → palpação → ADM → testes especiais → neurovascular.
+- Lachman para LCA; McMurray com cautela interpretativa.
+- Linhas de Bryant/Galeazzi: fraturas pediátricas.
+- Síndrome compartimental: tempo é nervo/músculo.
+
+---
 
 ## Pré-Prova
 
