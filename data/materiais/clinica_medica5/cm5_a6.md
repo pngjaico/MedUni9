@@ -27,18 +27,6 @@ A prova costuma misturar obesidade, HAS, dislipidemia, esteatose, DRC, infarto p
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** homem de 58 anos, IMC 34, cintura aumentada, HAS em uso irregular, TG 240 mg/dL, HDL 34 mg/dL e glicemia de jejum 122 mg/dL. Ele diz que "não tem diabetes", então acha que está tudo bem.
-
-**Ato 2 - Virada:** seis meses depois, retorna com HbA1c 7,8%, albuminúria e histórico recente de angioplastia. Agora a pergunta não é só se ele precisa baixar glicose, mas qual droga também reduz risco cardiovascular e renal.
-
-**Ato 3 - Decisão:** o raciocínio correto separa três camadas: síndrome metabólica como alerta, diabetes como diagnóstico e comorbidades como guia de tratamento. A escolha terapêutica muda quando há ASCVD, DRC, IC, obesidade ou risco de hipoglicemia.
-
-> **Moral da vinheta:** não espere o infarto para chamar síndrome metabólica de problema. Ela é o trailer do filme cardiometabólico.
-
----
-
 ## Diagnóstico de Diabetes
 
 | Critério | Corte clássico | Observação |

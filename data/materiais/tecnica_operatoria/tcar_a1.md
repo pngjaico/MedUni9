@@ -108,21 +108,6 @@ Diferencie os quatro conceitos que a banca confunde:
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Centro Cirurgico, 14h, colecistectomia videolaparoscopica eletiva.**
->
-> **Ato 1 (cenario):** Instrumentadora de sala avisa o residente que o pacote de material laparoscopico foi colocado na mesa ja aberto ha 45 minutos, periodo em que a sala ficou temporariamente desocupada com a porta aberta durante troca de escala.
->
-> **Ato 2 (dados):** Material sem indicador interno de esterilizacao visivel. Indicador externo da embalagem positivo (fita listrada). Paciente ja posicionado, anestesiado, prep cutaneo feito com clorexidina alcoolica 2% ha 8 minutos. Cirurgiao principal chega e quer iniciar imediatamente.
->
-> **Ato 3 (comando):**
-> 1. O indicador externo positivo garante que o material esta esteril? O que deve ser feito?
-> 2. A porta aberta da sala durante 45 minutos compromete o campo cirurgico antes de montar? Qual e a intervencao correta?
-> 3. O tempo decorrido desde o preparo cutaneo (8 min) invalida a antissepsia? Quando e indicado refazer?
->
-> Volte aqui depois de ler **Monitoramento do Ciclo de Esterilizacao** e a secao de **Assepsia de Campo**.
-
 ---
 
 ## Complicacoes e como Evitar

@@ -27,18 +27,6 @@ O foco desta aula é dominar antiácidos, bloqueadores H2, IBP, citoprotetores, 
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** homem de 46 anos com pirose quase diária recebe omeprazol "quando sente queimar" depois do jantar. Ele diz que melhora pouco.
-
-**Ato 2 - Virada:** mulher diabética com gastroparesia recebe metoclopramida por tempo indefinido e volta com movimentos involuntários orofaciais.
-
-**Ato 3 - Decisão:** no primeiro caso, o problema é uso errado do IBP. No segundo, a droga certa por tempo errado virou toxicidade neurológica.
-
-> **Moral da vinheta:** em farmacologia, acertar a classe não basta. Dose, horário, duração e contraindicação decidem se o remédio ajuda ou machuca.
-
----
-
 ## Antiácidos, Alginato e Bloqueadores H2
 
 Antiácidos neutralizam ácido já secretado. São úteis para alívio rápido, mas não cicatrizam esofagite erosiva importante como um IBP.

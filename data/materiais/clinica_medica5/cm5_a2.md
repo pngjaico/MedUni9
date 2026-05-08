@@ -203,23 +203,6 @@ Critérios de sobrecarga, isoladamente, têm sensibilidade limitada. O ECG apont
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Dor torácica no corredor.**
->
-> **Ato 1 (persona):** Homem, 61 anos, diabético e tabagista, chega com dor retroesternal opressiva há 45 minutos, sudorese e náuseas.
->
-> **Ato 2 (dados):** PA 156x94, FC 92, SatO2 96%. ECG calibrado em 25 mm/s e 10 mm/mV mostra supra de ST em DII, DIII e aVF, com infra em DI e aVL.
->
-> **Ato 3 (comando):**
-> 1. O ritmo é regular? Há P antes de cada QRS?
-> 2. Qual território está envolvido?
-> 3. Que achado reforça que o supra é isquêmico e não casual?
->
-> Volte ao roteiro de 8 passos antes de responder. A pressa é a maior inimiga da leitura de ECG.
-
----
-
 ## Diagnóstico Diferencial do Traçado Alterado
 
 | Situação | O que parece | O que diferencia |

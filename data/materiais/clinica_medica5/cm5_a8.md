@@ -37,18 +37,6 @@ O aluno costuma errar por interpretar TSH isolado, tratar tireoidite como Graves
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** mulher de 32 anos chega com perda de peso, tremor, intolerância ao calor e palpitações. TSH suprimido, T4 livre alto e bócio difuso ao exame.
-
-**Ato 2 - Virada:** ela tem olhos proeminentes e dor óssea vaga. A família conta que ela usa suplementos com biotina em dose alta e que perdeu seguimento.
-
-**Ato 3 - Decisão:** antes de escolher radioiodo, antitireoidiano ou outra conduta, você precisa confirmar etiologia, reconhecer gravidade, perguntar sobre interferentes laboratoriais e lembrar que tireotoxicose sustentada também machuca osso.
-
-> **Moral da vinheta:** tireoide é laboratório com clínica. Se você trata só o número, erra a doença.
-
----
-
 ## Fisiologia Tireoidiana
 
 O eixo básico é TRH, TSH e T4/T3. A tireoide capta iodeto, organifica no coloide por ação da TPO, acopla resíduos na tireoglobulina e libera T4 e T3.

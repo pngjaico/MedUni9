@@ -27,18 +27,6 @@ O objetivo é saber quando o anti-inflamatório ajuda, quando causa dano e quand
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** homem com DRC, HAS em IECA e diurético recebe ibuprofeno para lombalgia. Três dias depois volta com creatinina e potássio subindo.
-
-**Ato 2 - Virada:** mulher com lúpus usa prednisona há meses e ninguém avaliou osso, glicemia, PA, vacinação ou risco de adrenal suprimida.
-
-**Ato 3 - Decisão:** AINE fez a tríade do rim sofrer; corticoide crônico exige plano de prevenção, desmame e stress dose quando apropriado.
-
-> **Moral da vinheta:** anti-inflamatório sem contexto é prescrição pela metade.
-
----
-
 ## AINEs: COX, Prostaglandinas e Plaquetas
 
 AINEs inibem ciclo-oxigenase e reduzem prostaglandinas. Isso reduz dor, febre e inflamação, mas também remove proteção gástrica, renal e plaquetária.

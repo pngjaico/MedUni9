@@ -82,21 +82,6 @@ O **adenocarcinoma gastrico** ainda e o quinto cancer mais frequente no mundo e 
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Pronto-socorro, 6a feira a tarde.**
->
-> **Ato 1 (persona):** Homem, 66 anos, tabagista, ex-alcoolatra. Relata ictericia progressiva ha 4 semanas, urina escura, fezes esbranquicadas, emagrecimento de 8 kg em 2 meses. Sem dor importante inicialmente; agora dor dorsal leve. Exame: ictericia 3+/4+, vesicula palpavel, sem adenopatia periferica, sem ascite.
->
-> **Ato 2 (dados):** Bilirrubina total 12,4 (direta 10,1); FA 380; GGT 420; transaminases normais. CEA 8; CA 19-9: 1.840 U/mL. TC abdome: massa de 3,2 cm na cabeca do pancreas, dilatacao de colédoco e ducto de Wirsung (sinal do ducto duplo), sem metastases hepaticas ou pulmonares. Sem invasao da arteria mesenterica superior.
->
-> **Ato 3 (comando):**
-> 1. Qual o estadiamento clinico (ressecavel, borderline ou irressecavel) e por que?
-> 2. O CA 19-9 elevado confirma o diagnostico de adenocarcinoma - verdadeiro ou falso? Justifique.
-> 3. Qual o procedimento cirurgico curativo indicado e quais suas principais anastomoses?
->
-> Volte aqui depois de ler **Tratamento / Conduta** e a tabela de Whipple.
-
 ---
 
 ## Tratamento e Conduta

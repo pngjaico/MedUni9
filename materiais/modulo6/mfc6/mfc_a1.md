@@ -81,21 +81,6 @@ A MFC usa instrumentos proprios que nao sao cobrados nas outras especialidades. 
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Consulta de rotina na UBS do Bairro das Palmeiras.**
->
-> **Ato 1 (persona):** Dona Maria, 58 anos, hipertensa ha 12 anos, diabetica ha 5, vem para "pegar receita". Voce ve na ficha que ela compareceu apenas duas vezes nos ultimos 18 meses - sempre com outra medica, que esta de ferias. Pressao de hoje: 162x98 mmHg. Glicemia capilar: 248 mg/dL. A propria paciente diz: "Eu sei que esta alto, mas eu trabalho o dia todo, minha filha tem problema mental e eu cuido dela. Nao tenho tempo."
->
-> **Ato 2 (dados):** IMC 31,2. PA 162x98 mmHg. FC 82 bpm. Glicemia capilar 248 mg/dL. Ultima HbA1c (11 meses atras): 9,4%. Medicacao prescrita: metformina 850mg 2x/dia + losartana 50mg/dia. ACS relata que a filha de Dona Maria foi internada no CAPS dois meses atras e que ela "nao sai de casa". Sem retinoscopia ha 2 anos. Sem microalbuminuria solicitada.
->
-> **Ato 3 (comando):**
-> 1. Que atributo da APS esta mais comprometido neste caso e qual seria a intervencao prioritaria?
-> 2. Que instrumentos de avaliacao familiar voce usaria e quais dados voce buscaria com eles?
-> 3. Como voce organizaria o projeto terapeutico singular para Dona Maria considerando as barreiras de adesao identificadas?
->
-> Volte aqui depois de ler as secoes de **Conduta na APS** e **Pontos-Chave**.
-
 ---
 
 ## Conduta na APS

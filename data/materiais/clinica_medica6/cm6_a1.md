@@ -88,21 +88,6 @@ O cirrotico compensado pode estar assintomatico por anos. A descompensacao norma
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana -- Pronto-socorro, sabado, 22h.**
->
-> **Ato 1 (persona):** Homem, 54 anos, etilista pesado ha 20 anos, trazido pelos familiares com "vomito de sangue" ha 2 horas. Ictericia moderada, abdome globoso. Relata uso esporadico de espironolactona mas nao sabe a dose. Nega uso de AINE.
->
-> **Ato 2 (dados):** PA 90x60 mmHg, FC 118 bpm, FR 20, SatO2 95% em ar ambiente. Abdome tenso, macico, sinal do fluido positivo. Extremidades frias. Hemoglobina 7,2 g/dL, plaquetas 58.000/mm3, INR 2,4, creatinina 1,8 mg/dL, bilirrubina total 4,2 mg/dL, albumina 2,1 g/dL.
->
-> **Ato 3 (comando):**
-> 1. Qual o Child-Pugh deste paciente e o que isso implica na conduta?
-> 2. Quais as duas medicacoes que voce nao pode deixar de prescrever na primeira hora?
-> 3. O paciente esta em choque. Qual a meta de reposicao volemica e por que nao "abre o soro" ate normalizar a PA?
->
-> Volte aqui depois de ler **Tratamento / Conduta**.
-
 ---
 
 ## Tratamento e Conduta

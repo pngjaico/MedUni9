@@ -37,18 +37,6 @@ Aqui o raciocínio precisa ser hormonal: **qual eixo? excesso ou deficiência? e
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** mulher de 38 anos chega com fadiga progressiva, perda de peso, tontura ao levantar e escurecimento de pregas palmares. PA 86x54, sódio baixo e potássio alto.
-
-**Ato 2 - Virada:** a família relata vômitos e febre desde ontem. Ela está sonolenta e hipoglicêmica. O laboratório de cortisol não ficará pronto rapidamente.
-
-**Ato 3 - Decisão:** o quadro é crise adrenal provável. A prioridade é hidrocortisona IV e volume. Se der para colher cortisol e ACTH antes, ótimo; se não der, não se atrasa tratamento em paciente instável.
-
-> **Moral da vinheta:** adrenal é eixo em que esperar resultado pode ser dano. Crise adrenal se trata quando é provável.
-
----
-
 ## Eixo HPA
 
 O eixo hipotálamo-hipófise-adrenal funciona assim:

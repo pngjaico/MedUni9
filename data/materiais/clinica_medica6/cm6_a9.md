@@ -108,21 +108,6 @@ A PFP em si nao tem "quadro clinico", mas o contexto de indicacao determina o qu
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Ambulatorio de pneumologia, tarde de quarta-feira.**
->
-> **Ato 1 (persona):** Homem, 58 anos, tabagista (40 anos-maco), aposentado metalurgico. Chega com queixa de "falta de ar para subir escada" ha 2 anos, piorando. Nega febre ou hemoptise. Usa salbutamol spray "quando aperta", sem seguimento regular. No exame: MV diminuido globalmente, ausencia de sibilos em repouso, saturacao 93% em ar ambiente.
->
-> **Ato 2 (dados):** RX de torax com hiperinsuflacao e diafragma retificado. Espirometria pre-BD: VEF1 = 58% do previsto; CVF = 72% do previsto; VEF1/CVF = 0,62. Pos-BD: VEF1 = 61% do previsto; VEF1/CVF = 0,64. DLCO = 52% do previsto.
->
-> **Ato 3 (comando):**
-> 1. Qual o padrao fisiologico e a gravidade segundo GOLD?
-> 2. A resposta ao broncodilatador muda o diagnostico? Por que?
-> 3. O que a DLCO baixa acrescenta ao raciocinio clinico?
->
-> Volte aqui depois de ler **Diagnostico/Investigacao** e **Tratamento**.
-
 ---
 
 ## Tratamento / Conduta

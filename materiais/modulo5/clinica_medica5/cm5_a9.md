@@ -27,18 +27,6 @@ DRC também é cardiologia disfarçada: albuminúria prediz evento cardiovascula
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** homem de 61 anos, DM2 e HAS, chega com creatinina 1,4 mg/dL. O aluno diz que "não parece tão alto". A eTFG calculada é 48 e a relação albumina/creatinina urinária é 520 mg/g.
-
-**Ato 2 - Virada:** três meses depois, os achados persistem. Ele usa ibuprofeno quase diariamente para dor lombar e nunca teve albuminúria discutida no consultório.
-
-**Ato 3 - Decisão:** agora não é "creatinina levemente alta". É DRC G3a A3, com alto risco renal e cardiovascular. A conduta é bloquear progressão, retirar nefrotóxico, controlar PA/DM e considerar SGLT2i se elegível.
-
-> **Moral da vinheta:** DRC se enxerga com lente de risco, não com olhômetro de creatinina.
-
----
-
 ## Definição
 
 DRC é anormalidade de estrutura ou função renal por **pelo menos 3 meses**, com implicação para saúde.

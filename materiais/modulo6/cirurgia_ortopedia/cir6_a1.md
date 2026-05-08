@@ -115,21 +115,6 @@ Inspeção (distensao, cicatrizes, massas visíveis), ausculta (rha presentes/au
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Plantao da emergencia, 02h da manha.**
->
-> **Ato 1 (persona):** Homem, 67 anos, hipertenso, com fibrilacao atrial em uso de warfarina. Chega com dor abdominal difusa ha 4 horas, descrita como intensa desde o inicio. Nao consegue descansar, fica se mexendo. Acompanhante refere que ele "parecia bem" antes da dor comecar de repente.
->
-> **Ato 2 (dados):** PA 95x60 mmHg, FC 118 bpm irregular, FR 24 irpm, Tax 36,8oC, SatO2 94% em ar ambiente. Abdome com RHA diminuidos, dor a palpacao difusa, sem rigidez franca, sem Blumberg definido. Lactato arterial: 5,1 mmol/L. Leucocitos 9.800/mm3. INR 2,4 (em uso de warfarina).
->
-> **Ato 3 (comando):**
-> 1. Qual o diagnostico mais provavel e por que o lactato alto com abdome "mole" nao tranquiliza?
-> 2. Qual exame de imagem voce pede primeiro e com qual protocolo?
-> 3. Antibiotico empírico agora? Qual a conduta inicial nos proximos 30 minutos?
->
-> Volte aqui depois de ler **Diagnostico** e **Tratamento/Conduta**.
-
 ---
 
 ## Tratamento e Conduta

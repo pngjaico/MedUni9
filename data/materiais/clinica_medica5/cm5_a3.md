@@ -204,23 +204,6 @@ Não decore dispositivo como receita universal. A banca costuma cobrar **quem é
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Ortopneia na madrugada.**
->
-> **Ato 1 (persona):** Homem, 72 anos, hipertenso e diabético, acorda sentado na cama por falta de ar. Relata ganho de 3 kg em 1 semana e edema em pernas.
->
-> **Ato 2 (dados):** PA 154x88, FC 104, SatO2 91%, estertores bibasais, turgência jugular e extremidades quentes. BNP elevado. Eco prévio: FEVE 34%.
->
-> **Ato 3 (comando):**
-> 1. Qual fenótipo crônico pela FEVE?
-> 2. Qual perfil hemodinâmico atual?
-> 3. Qual prioridade imediata: pilar prognóstico ou descongestão?
->
-> No MedGradPlus, a resposta completa separa crônico de agudo: HFrEF no papel, quente e úmido no leito.
-
----
-
 ## Diagnóstico Diferencial da Dispneia
 
 | Diagnóstico | A favor | Contra IC isolada |

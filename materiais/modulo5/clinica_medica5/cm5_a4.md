@@ -29,18 +29,6 @@ Esta aula conversa diretamente com `cm5_a2`: lá você aprendeu a ler o ECG; aqu
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** homem de 74 anos, hipertenso e com dispneia aos pequenos esforços, chega com palpitações há 6 horas. Está sudoreico, PA 84x50 mmHg, confuso, saturando 91% e com estertores bibasais.
-
-**Ato 2 - Virada:** o ECG mostra ritmo irregularmente irregular, QRS estreito e frequência ventricular perto de 160 bpm. A família conta que ele já teve episódio parecido, mas nunca usou anticoagulante.
-
-**Ato 3 - Decisão:** antes de discutir DOAC, escore de risco ou cardioversão eletiva, a prioridade é reconhecer **FA instável** com congestão e hipoperfusão. Aqui a conduta inicial é cardioversão elétrica sincronizada, com monitorização e manejo da IC aguda.
-
-> **Moral da vinheta:** se a perfusão caiu, o tratamento agudo é guiado pela instabilidade. Anticoagulação e estratégia crônica vêm depois que o paciente volta a existir como paciente estável.
-
----
-
 ## Abordagem Inicial
 
 A sequência mental deve ser curta:

@@ -101,21 +101,6 @@ A presença de **DM ou DCV estabelecida** já joga o paciente em **alto risco**,
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana  -  Ambulatório de Clínica Médica, terça-feira.**
->
-> **Ato 1 (persona):** Mulher, 58 anos, secretária, sedentária. Refere "pressão alta há uns 5 anos", em uso irregular de losartana 50 mg/dia. Última consulta há 2 anos. Mãe e irmã hipertensas. Tabagista (15 cigarros/dia há 30 anos).
->
-> **Ato 2 (dados):** PA 168×102 (média de 3 medidas). FC 84. IMC 31. Cintura 102 cm. Exame normal exceto fundoscopia com cruzamentos AV patológicos. Labs: glicemia jejum 118, HbA1c 6,2%, LDL 142, HDL 38, Cr 1,1 (TFG 62), K+ 4,1, EAS com microalbuminúria 80 mg/g. ECG com critérios de Sokolow-Lyon positivos para HVE.
->
-> **Ato 3 (comando):**
-> 1. Em qual estágio HAS ela está e qual o risco cardiovascular?
-> 2. A losartana 50 mg/dia em monoterapia é suficiente?
-> 3. Qual a próxima etapa terapêutica e por quê?
->
-> Volte aqui depois de ler **Tratamento farmacológico** e **Pré-Prova**.
-
 ---
 
 ## Tratamento não-farmacológico

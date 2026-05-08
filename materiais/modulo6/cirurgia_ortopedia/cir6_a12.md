@@ -95,21 +95,6 @@ Em **cirrotico** com nodulo **> 1 cm**, o diagnostico pode ser feito pela **imag
 
 ---
 
-## Caso da Semana
-
-> **Caso da Semana - Ambulatorio de hepatologia, 2a feira.**
->
-> **Ato 1 (persona):** Homem, 58 anos, cirrotico por VHC tratado (SVR ha 3 anos), em acompanhamento. Assintomatico. USG de rastreio semestral mostra **nodulo novo** no segmento VI, **1,8 cm**, ecogenicidade mista. AFP: 42 ng/mL (VR < 20). Funcao hepatica: Child A5, MELD 8.
->
-> **Ato 2 (dados):** TC multifasica: nodulo com **wash-in arterial** e **washout portal**, sem invasao vascular. Sem outros nodulos. Sem ascite, sem esplenomegalia importante. Ausente: metastases pulmonares ou osseas.
->
-> **Ato 3 (comando):**
-> 1. Qual o estagio BCLC deste paciente e qual a conduta curativa indicada?
-> 2. Por que nao e necessaria biopsia neste cenario?
-> 3. Se o paciente tivesse 3 nodulos de 2,5 cm cada, sem invasao vascular, como mudaria o estagio e a conduta?
->
-> Volte aqui depois de ler **Tratamento / Conduta** e a tabela de Criterios de Milao.
-
 ---
 
 ## Tratamento e Conduta

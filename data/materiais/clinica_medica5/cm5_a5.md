@@ -27,18 +27,6 @@ A banca não quer que você mande todo mundo direto para cateterismo, nem que tr
 
 ---
 
-## Caso da Semana
-
-**Ato 1 - Entrada:** mulher de 59 anos, diabética e ex-tabagista, relata aperto retroesternal ao caminhar rápido há 8 meses. A dor melhora em poucos minutos quando para. Sem dor em repouso.
-
-**Ato 2 - Virada:** na última semana, ela percebe que a dor começou a surgir com esforços menores. Hoje chegou ao pronto atendimento com dor em repouso há 35 minutos.
-
-**Ato 3 - Decisão:** o quadro começou como angina estável, mas mudou de padrão. Agora há sinal de instabilidade. A conduta deixa de ser investigação eletiva de DAC crônica e passa a ser avaliação de síndrome coronariana aguda.
-
-> **Moral da vinheta:** a mesma paciente pode atravessar a fronteira entre crônico e agudo. Dor que muda de padrão não é "só a angina de sempre".
-
----
-
 ## Conceito e Fisiopatologia
 
 A doença arterial coronariana crônica envolve aterosclerose coronária, disfunção endotelial, inflamação, trombose subclínica e desequilíbrio entre oferta e demanda de oxigênio.
