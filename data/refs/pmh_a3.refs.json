@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Glicólise e Gliconeogênese",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:39:38.653Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Glicólise e Gliconeogênese",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Glicólise e Gliconeogênese",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Glicólise e Gliconeogênese",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Glicólise e Gliconeogênese.",
+  "pontos_de_prova": [
+    "Glicólise ocorre no citosol.",
+    "PFK-1 é etapa comprometida da glicólise.",
+    "ATP e citrato freiam PFK-1.",
+    "AMP e F2,6BP ativam PFK-1.",
+    "Lactato regenera NAD+ em anaerobiose.",
+    "Gliconeogênese usa lactato, glicerol e aminoácidos.",
+    "Piruvato carboxilase depende de biotina.",
+    "PEPCK participa do bypass do piruvato.",
+    "F1,6BPase é freada por F2,6BP.",
+    "Ciclo de Cori liga músculo/hemácia ao fígado."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

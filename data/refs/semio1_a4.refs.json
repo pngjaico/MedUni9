@@ -2,18 +2,36 @@
   "aula_id": "semio1_a4",
   "materia": "semiologia1",
   "modulo": 1,
-  "tema": "Exame Físico — Palpação",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Exame Físico - Palpação",
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "técnica de palpação, temperatura, pulsos e exame musculoesquelético"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "dor à palpação, achados físicos e sinais de alerta"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "topografia de joelho, punho, cotovelo, Aquiles e coluna"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre palpação progressiva e anatômica, temperatura, derrame, linhas articulares, tendões, bursas, tabaqueira, coluna, dor crônica e pulsos periféricos.",
+  "pontos_de_prova": [
+    "palpação progressiva",
+    "comparação contralateral",
+    "linha articular",
+    "sinal da tecla",
+    "tabaqueira anatômica",
+    "epicôndilo lateral",
+    "cisto de Baker versus TVP",
+    "Aquiles",
+    "processo espinhoso",
+    "alodinia",
+    "pulsos do pé"
+  ],
+  "observacoes": "Aula com valor visual anatômico; manter mapa/spot na rodada posterior de imagens."
 }

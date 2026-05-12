@@ -1,140 +1,155 @@
-# Semiologia 1 — Aula 7: prática simulada com manequins e pacientes padronizados
+# Semiologia 1 - Aula 7: Prática Simulada - Manequins e Pacientes Padronizados
 
-A **Prática Simulada** é o laboratório onde você erra com segurança para acertar com o paciente. Para a prova, domine a mecânica das estações de **OSCE**, as regras de **Higiene das Mãos** e o pedido obrigatório de **Consentimento**. Na clínica, a simulação serve para automatizar a sequência **Inspeção → Palpação → Mobilidade → Testes**, liberando seu cérebro para focar no raciocínio diagnóstico de alto nível.
+**Disciplina:** Semiologia do Sistema Musculoesquelético  
+**Módulo:** 1 | **Referência principal:** estação prática/OSCE  
+**Tempo de estudo sugerido:** 15-20 min
 
-### Figura sugerida
+---
 
-**Figura-ID:** `SEMIO1-A7-F01`
+## Relevância clínica e acadêmica
 
-- **Momento:** após a introdução da relevância clínica.
-- **O que mostrar:** estação de OSCE com aluno examinando joelho em paciente padronizado, com checklist em prancheta.
-- **Tipo sugerido:** foto de propedêutica.
-- **Legenda (rascunho):** "A simulação estrutura técnica, comunicação e segurança antes do atendimento real."
-- **Notas (opcional):** enquadrar posição do examinador, do paciente e o contexto de avaliação prática.
+A prática simulada é o lugar de errar com segurança. Ela treina técnica, ordem mental, comunicação e segurança antes do contato real com paciente com dor.
 
-## Objetivos da simulação no aparelho locomotor
-
-O objetivo central é consolidar um método repetível.
-Em prova prática, o estudante que improvisa perde pontos em itens simples.
-Em clínica real, o estudante que improvisa pode perder achados importantes.
-
-| Meta da Simulação | Atitude na Estação | Por que cai em Prova? |
-|-------------------|--------------------|------------------------|
-| **Padronização** | Seguir a **sequência canônica** | Avalia **Organização Mental** |
-| **Precisão Técnica**| Mão leve e posição correta | Erros técnicos zeram o item |
-| **Comunicação** | Explicar cada passo ao paciente | Ganha pontos de **Empatia** |
-| **Gestão de Tempo** | Ser direto e objetivo | Estações de OSCE duram 5-8 min|
-| **Comparação** | Sempre checar o **lado sadio** | É o erro mais comum (Comer bola) |
-
-> **Dica de Prova:** Comece dizendo em voz clara o plano do exame ("vou inspecionar, palpar e testar mobilidade"), porque isso organiza sua execução e mostra domínio.
-
-> **Pegadinha:** Fazer teste especial sem indicação clínica prévia. A banca pode interpretar como exame mecanizado e sem raciocínio.
-
-## Manequins e pacientes padronizados: quando cada recurso é melhor
-
-Manequins são excelentes para repetição motora.
-Você treina postura, posicionamento e ordem da avaliação sem medo de causar dor.
-Isso favorece aprendizado inicial de manobras como gaveta anterior, Lachman e testes de ombro.
-
-Pacientes padronizados (atores) acrescentam o elemento humano:
-ansiedade, dúvida, resistência ao movimento, medo de piora e necessidade de linguagem acessível.
-Nesse cenário, o estudante precisa integrar técnica com vínculo terapêutico.
-
-### Comparação prática
-
-| Recurso | Vantagem principal | Limitação principal | Melhor uso pedagógico |
-|---------|--------------------|---------------------|-----------------------|
-| **Manequim** | Repetição ilimitada da manobra | Não reproduz completamente dor e resposta emocional | Treino inicial de técnica e sequência |
-| **Paciente padronizado** | Treino de **comunicação e empatia** | Menor padronização de achado físico fino | Treino intermediário e avaliação comportamental |
-| **Simulação híbrida** | Integra técnica e comunicação | Requer organização docente maior | Preparação final para OSCE e ambulatório |
-
-## Sequência operacional de um exame simulado (exemplo: joelho doloroso)
-
-1. **Abertura e segurança:** identificação, consentimento e **higiene das mãos**.
-2. **Inspeção estática e dinâmica:** edema, alinhamento, marcha antálgica.
-3. **Palpação dirigida:** linha articular, patela, ligamentos colaterais e pontos dolorosos.
-4. **Amplitude de movimento:** ativa e passiva, com descrição objetiva da limitação.
-5. **Testes especiais indicados:** menisco, LCA/LCP, estabilidade colateral conforme hipótese.
-6. **Checagem neurovascular:** pulso distal, perfusão, sensibilidade e motricidade.
-7. **Fechamento:** hipótese inicial, conduta imediata e orientação ao "paciente".
-
-Essa sequência deve ser treinada até ficar automática.
-A automatização libera carga mental para o raciocínio diagnóstico.
+Na prova prática, o aluno não perde ponto apenas por não saber o diagnóstico. Perde por não higienizar as mãos, não se identificar, não pedir consentimento, não comparar bilateralmente, não explicar manobra dolorosa e não fechar a estação com registro e orientação.
 
 ### Figura sugerida
 
-**Figura-ID:** `SEMIO1-A7-F02`
+**Figura-ID:** SEMIO1-A7-F01  
+**Momento:** após esta abertura.  
+**O que mostrar:** estação OSCE de joelho com aluno, paciente padronizado e checklist visível.  
+**Tipo sugerido:** foto/ilustração didática, sem aparência decorativa.  
+**Legenda:** "Simulação: técnica, comunicação e segurança antes do ambulatório."  
 
-- **Momento:** após a sequência operacional do exame.
-- **O que mostrar:** esquema simples com fluxo do exame do joelho (inspeção -> palpação -> ADM -> testes especiais -> neurovascular).
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Fluxo mínimo para não perder etapas no exame musculoesquelético."
-- **Notas (opcional):** diagrama vertical com pouco texto, legível em tela pequena.
+**Figura-ID:** SEMIO1-A7-F02  
+**Momento:** após o checklist operacional.  
+**O que mostrar:** fluxo vertical da estação: abertura -> inspeção -> palpação -> ADM -> testes indicados -> neurovascular -> fechamento.  
+**Tipo sugerido:** fluxograma mobile-first.  
+**Legenda:** "Fluxo mínimo para não perder etapa em OSCE musculoesquelético."  
 
-## Debriefing: onde a simulação realmente vira aprendizado
+---
 
-A parte mais valiosa da simulação é o debriefing.
-Sem debriefing, há repetição de erro.
-Com debriefing estruturado, há correção progressiva.
+## 1. O que a simulação precisa automatizar
 
-Um bom debriefing responde três perguntas:
-- o que foi bem executado;
-- o que comprometeu segurança ou precisão;
-- qual comportamento técnico/comunicacional mudar na próxima rodada.
+Simulação não é teatro. O objetivo é transformar uma sequência segura em hábito: abrir a estação, explicar o que será feito, examinar com método, verbalizar achados e reconhecer limites.
 
-No aparelho locomotor, dois erros recorrentes merecem vigilância:
-examinar rápido demais por ansiedade de tempo e esquecer comparação bilateral.
-Ambos reduzem qualidade clínica e aparecem em prova.
+Manequim ajuda a repetir gesto técnico sem medo de causar dor. Paciente padronizado acrescenta fala, ansiedade, resistência, consentimento, expressão de dor e necessidade de linguagem simples.
 
-## Comunicação de achados e registro clínico
+**Macete MedGradPlus:** em OSCE, pense em **abrir, examinar, proteger e fechar**. Quem examina bem, mas não explica nem registra, deixa ponto na mesa.
 
-Após o exame, você deve traduzir achados para linguagem compreensível.
-Exemplo adequado: "Encontrei sinais de instabilidade anterior no joelho, então nossa principal hipótese é lesão ligamentar; precisamos confirmar com avaliação complementar."
-Essa frase mostra raciocínio sem prometer diagnóstico fechado.
+| Recurso | Melhor uso | Limitação |
+|---|---|---|
+| **Manequim** | Repetir posição, mão e sequência | Não reproduz emoção/dor real |
+| **Paciente padronizado** | Comunicação, consentimento e dor | Achado físico fino pode ser limitado |
+| **Simulação híbrida** | Técnica com comunicação | Exige mais organização docente |
 
-O registro também precisa ser objetivo.
-Descrever "dor no joelho" é fraco.
-Descrever "dor em linha articular medial à palpação, teste de McMurray doloroso, sem déficit neurovascular distal" é útil para continuidade.
+## 2. Checklist de estação musculoesquelética
+
+Uma estação prática de joelho, ombro ou tornozelo precisa de ordem. O estudante deve mostrar segurança antes de buscar teste especial.
+
+1. Identificar-se, confirmar paciente e higienizar as mãos.
+2. Explicar objetivo e pedir consentimento.
+3. Posicionar e expor a região com privacidade.
+4. Inspecionar estático e dinâmico.
+5. Palpar de forma progressiva e comparativa.
+6. Testar ADM ativa/passiva e força quando indicado.
+7. Fazer testes especiais apenas se fizerem sentido.
+8. Checar neurovascular quando houver trauma, dor intensa ou risco.
+9. Comunicar achados, pendências e próxima conduta.
+
+**Pegadinha de prova:** fazer Lachman, Jobe ou Neer sem contexto pode parecer "decorou manobra". Teste especial vem depois de história, inspeção e palpação.
+
+## 3. Dor, consentimento e segurança
+
+O paciente padronizado serve para treinar resposta à dor. Se a manobra provoca dor intensa, pare, explique, reduza amplitude e registre. Continuar forçando não demonstra habilidade; demonstra falta de segurança.
+
+Em trauma, suspeita de artrite séptica, déficit neurológico progressivo ou dor desproporcional, a simulação deve treinar contenção: examinar o necessário, reconhecer alarme e encaminhar o raciocínio.
+
+Quando estiver incerto sobre um achado, diga o que percebeu e o que faria para confirmar. Inventar positividade é pior que reconhecer incerteza.
+
+## 4. Debriefing: onde a prática vira aprendizado
+
+Debriefing bom não é bronca genérica. Ele identifica comportamento observável: o que foi bem feito, o que comprometeu segurança, o que precisa mudar na próxima rodada.
+
+| Erro comum | Como corrigir |
+|---|---|
+| Esquecer consentimento | Abrir sempre com identificação, explicação e permissão |
+| Pular comparação bilateral | Criar gatilho verbal: "vou comparar com o outro lado" |
+| Testar forte demais | Começar leve e parar se dor intensa |
+| Não fechar estação | Resumir achados, hipótese e pendência |
+
+O debriefing deve transformar erro em ajuste prático para a rodada seguinte. Sem isso, a repetição só automatiza vício.
+
+## 5. Registro e comunicação final
+
+Ao terminar a estação, registre o que fez e o que faltou. Em OSCE, verbalizar pendências é melhor do que fingir que completou tudo. Exemplo: "examinei inspeção, palpação, ADM e neurovascular; testes ligamentares ficariam para depois da analgesia pela dor intensa".
+
+Comunicação boa usa linguagem simples: "vou mover seu joelho devagar; me avise se a dor ficar forte". Isso vale ponto e melhora segurança.
 
 ## Ponte com a Clínica
 
-No ambulatório real, a consulta frequentemente começa com dor e expectativa alta do paciente.
-Quem treinou em simulação chega com script mental mais estável,
-consegue acolher melhor e reduz risco de exame incompleto.
-Além disso, competências éticas treinadas em estação prática
-(privacidade, consentimento, comunicação clara)
-são exatamente as mesmas exigidas na prática clínica supervisionada.
+No ambulatório real, a prática simulada aparece quando o paciente sente dor no teste. O aluno treinado interrompe, explica e muda estratégia. O aluno que só decorou manobra força e perde confiança.
 
----
+Em um caso simulado de lombalgia com anestesia em sela, a nota alta não vem de examinar tudo: vem de reconhecer urgência e verbalizar a prioridade.
 
 ## Pontos-Chave para Prova
 
-- **Higiene das Mãos:** É o **PRIMEIRO item** do checklist de qualquer prova prática. Nunca pule.
-- **Abertura:** "Olá, sou o Dr. [Nome], posso examinar seu joelho?" (**Consentimento**).
-- **Sequência:** Se você fizer um teste especial antes da palpação, perde pontos de **Método**.
-- **Comparação Lateral:** Se o paciente reclama do joelho direito, você DEVE olhar o esquerdo primeiro.
-- **Fechamento:** Resuma o achado e diga a hipótese (ex: "Sinais de **Lesão Meniscal**").
+- **Identificação, higiene e consentimento** abrem a estação.
+- **Manequim** treina repetição técnica; **paciente padronizado** treina comunicação e dor.
+- **Sequência canônica** evita perda de etapa: inspeção, palpação, ADM, testes, neurovascular.
+- **Teste especial sem hipótese** parece exame mecanizado.
+- **Dor intensa durante manobra** exige pausar, explicar e adaptar.
+- **Comparação bilateral** é ponto fácil e frequentemente esquecido.
+- **Debriefing** deve gerar uma mudança observável para a próxima rodada.
+- **Incerteza deve ser verbalizada** com plano de confirmação.
+- **Registro final** inclui feito, achado, pendência e orientação.
+- **Trauma e dor intensa** pedem checagem neurovascular.
+- **Cauda equina simulada** exige reconhecer urgência.
+- **Comunicação simples** é parte da habilidade, não enfeite.
 
----
+## Mini Quiz
+
+1. **Ao entrar em uma estação OSCE, a primeira atitude correta é:**
+- [x] Identificar-se, confirmar o paciente, higienizar as mãos e pedir consentimento.
+- [ ] Iniciar diretamente o teste especial.
+- [ ] Palpar o ponto doloroso sem aviso.
+- [ ] Registrar antes de examinar.
+> **Explicação:** Abertura segura organiza a estação e protege paciente e aluno.
+
+2. **Paciente padronizado acrescenta principalmente:**
+- [ ] Repetição mecânica ilimitada.
+- [x] Comunicação, consentimento, dor e resposta emocional.
+- [ ] Ausência total de variabilidade.
+- [ ] Substituição completa do exame real.
+> **Explicação:** Atores treinados simulam interação humana e resposta à dor.
+
+3. **Se houver dor intensa durante uma manobra, o estudante deve:**
+- [ ] Forçar para completar o checklist.
+- [ ] Ignorar a reação se o tempo estiver acabando.
+- [x] Pausar, explicar, adaptar o exame e registrar a limitação.
+- [ ] Declarar o teste positivo sem contexto.
+> **Explicação:** Segurança e comunicação valem mais que completar manobra agressiva.
+
+4. **Debriefing estruturado serve para:**
+- [ ] Punir erro de forma genérica.
+- [ ] Substituir prática repetida.
+- [ ] Aumentar tempo sem objetivo.
+- [x] Transformar erro observado em ajuste concreto para a próxima rodada.
+> **Explicação:** Debriefing bom produz mudança técnica ou comunicacional específica.
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
 ### Síntese para a prova
 
-- **Checklist de OSCE:** Se a manobra está correta mas o paciente sentiu dor desnecessária, a nota cai.
-- **Manequim:** Ótimo para treinar **Gaveta Anterior** e **Lachman** até a exaustão.
-- **Paciente Padronizado:** Use para treinar como dar uma notícia ruim ou explicar um procedimento.
-- **Exame Neurovascular:** Sempre cheque **Pulso Distal** e **Enchimento Capilar** ao final.
+OSCE musculoesquelético cobra técnica e comportamento. Abra corretamente, explique, peça consentimento, preserve privacidade, siga sequência, compare lados, adapte se houver dor e feche com achados e pendências.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **OSCE** | **Prova Teórica** | Avalia **Atitude** vs Avalia Conhecimento |
-| **Manequim** | **Ator** | Técnico vs **Comportamental** |
-| **Inspeção Atenta**| **Teste "da Moda"**| Diagnóstico Lógico vs Tentativa de Sorte |
-| **Debriefing** | **Correção de Prova** | Reflexão em Grupo vs Nota Individual |
+Manequim treina gesto; paciente padronizado treina gente. A habilidade completa une os dois.
 
-### Frase-âncora para não esquecer
+### Diferenciações
 
-> "Na semiologia prática, quem segue método erra menos do que quem tenta adivinhar rápido."
+| Diferenciar | Primeiro | Segundo |
+|---|---|---|
+| **Manequim vs paciente padronizado** | Repetição técnica | Comunicação e dor |
+| **Checklist vs raciocínio** | Garante etapas mínimas | Decide quais testes fazem sentido |
+| **Erro técnico vs erro de segurança** | Mão/posição inadequada | Forçar dor, não consentir, não higienizar |
+| **Achado incerto vs inventado** | Verbaliza dúvida e plano | Declara positividade sem base |
+| **Fechamento bom vs fraco** | Feito, achado e pendência | "Acabou" sem síntese |

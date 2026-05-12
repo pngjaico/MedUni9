@@ -2,18 +2,33 @@
   "aula_id": "semio1_a9",
   "materia": "semiologia1",
   "modulo": 1,
-  "tema": "Reunião Clínica — Casos Musculoesqueléticos",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Reunião Clínica - Casos Musculoesqueléticos",
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "apresentação de caso, raciocínio e comunicação clínica"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "síntese semiológica e discussão de hipóteses"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "casos musculoesqueléticos e priorização de risco"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula fecha Semiologia1 ensinando apresentação clínica: perfil de risco, gravidade antes de probabilidade, dados negativos, exames que mudam conduta, vieses e plano com prazo.",
+  "pontos_de_prova": [
+    "abertura do caso",
+    "gravidade antes de probabilidade",
+    "dados negativos",
+    "artrite séptica",
+    "cauda equina",
+    "exame muda conduta",
+    "viés de confirmação",
+    "plano com prazo"
+  ],
+  "observacoes": "Imagem posterior pode ser template de apresentação."
 }

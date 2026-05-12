@@ -1,114 +1,162 @@
-# PMH — Aula 7: Beta-Oxidação e Síntese de Ácidos Graxos
+# PMH - Aula 7: Beta-oxidação e Síntese de Ácidos Graxos
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-A **Beta-Oxidação** (via de quebra) e a **Lipogênese** (via de síntese) são os processos que gerenciam nossas vastas reservas lipídicas. Enquanto a oxidação fornece **ATP** essencial durante o jejum prolongado, a síntese armazena o excesso de energia como **Triglicerídeos**. Domine o sistema da **L-Carnitina**, o papel inibitório do **Malonil-CoA** e a formação de **Corpos Cetônicos** no fígado como sinal de adaptação metabólica.
+Lipídios são reserva energética concentrada; a beta-oxidação é a forma de transformar ácido graxo em acetil-CoA.
+
+A prova cobra carnitina, malonil-CoA, diferença entre degradação e síntese e relação com corpos cetônicos.
+
+Na clínica, jejum, exercício prolongado e cetoacidose ficam muito mais claros quando essa aula é bem fixada.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A7-F01`
+**Figura-ID:** PMH-A7-F01
 
-- **Momento:** Após o bloco de relevância.
-- **O que mostrar:** Esquema do Shuttle de Carnitina na membrana mitocondrial interna e a regulação recíproca entre síntese e quebra.
-- **Tipo sugerido:** Infográfico didático colorido.
-- **Legenda (rascunho):** O transporte de gordura: carnitina e a regulação pelo malonil-CoA.
-
----
-
-## Ativação e transporte à mitocôndria
-
-Os **Ácidos graxos livres** são ativados a **acil-CoA** no citoplasma. Para entrar na mitocôndria, os de cadeia longa dependem da **Carnitina Palmitoiltransferase I (CPT I)**, que converte o acil-CoA em **acilcarnitina** para atravessar a membrana interna. Este é o principal **passo regulatório** da quebra de gordura.
-
-> **Dica de Prova:** O **Malonil-CoA** (primeiro intermediário da síntese) **inibe a CPT I**. Isso impede um "curto-circuito" metabólico, evitando que a célula queime gordura no mesmo momento em que está fabricando.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Comparativo beta-oxidação mitocondrial, síntese citosólica de ácidos graxos e inibição por malonil-CoA.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Beta-oxidação e Síntese de Ácidos Graxos: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Beta-oxidação: ciclo espiral
+## 1. Mobilização
 
-O processo ocorre na matriz mitocondrial e segue uma sequência repetitiva: **oxidação** → **hidratação** → **oxidação** → **tiólise**. A cada volta, libera-se um **Acetil-CoA** (que vai para o Krebs) e uma cadeia de **acil-CoA** encurtada em dois carbonos. **FAD** e **NAD⁺** captam os elétrons para a **Cadeia Respiratória**.
+No jejum, glucagon e catecolaminas ativam lipólise no tecido adiposo.
 
----
+Ácidos graxos viajam ligados à albumina e são captados por tecidos oxidativos.
 
-## Cetogênese (visão integrada)
-
-O excesso de **Acetil-CoA** proveniente da beta-oxidação massiva (jejum severo ou DM descompensado) é desviado para a **cetogênese hepática**. A enzima **HMG-CoA Sintase** (específica do fígado) produz os **corpos cetônicos**: **Acetacetato**, **Beta-hidroxibutirato** e **Acetona**.
-
-O **Cérebro** e o músculo cardíaco utilizam as cetonas como combustível alternativo, poupando a glicose escassa.
-
-> **Pegadinha de Prova:** **Cetose fisiológica** (jejum normal) é diferente da **Cetoacidose diabética (CAD)**. Na CAD, há deficiência de insulina, hiperglicemia e acidose metabólica com **ânion gap** elevado.
+Glicerol retorna ao fígado e pode alimentar gliconeogênese.
 
 ---
 
-## Síntese de ácidos graxos (citoplasma)
+## 2. Entrada mitocondrial
 
-Ocorre no citosol, utilizando Acetil-CoA (transportado para fora da mitocôndria como **Citrato**).
-- **Acetil-CoA Carboxilase (ACC):** Converte acetil-CoA em **malonil-CoA** (passo limitante e regulado pela insulina).
-- **Ácido Graxo Sintase:** Complexo que elonga a cadeia até o **Palmitato (C16)**.
-- **NADPH:** Fornece o poder redutor necessário (vindo principalmente da **Via das Pentoses**).
+Ácidos graxos longos precisam do sistema carnitina para entrar na matriz mitocondrial.
 
----
+CPT-1 é inibida por malonil-CoA, evitando síntese e degradação simultâneas.
 
-## Comparativo: oxidação vs síntese
-
-| Característica | Beta-Oxidação (Catabolismo) | Lipogênese (Anabolismo) |
-|-----------------|----------------|-------------|
-| **Localização** | **Matriz Mitocondrial** | **Citosol** (Citoplasma) |
-| **Transportador**| **Shuttle de Carnitina** | **Shuttle de Citrato** |
-| **Inibidor Chave**| **Malonil-CoA** (Bloqueia CPT1) | **Glucagon** e Jejum (Inibem ACC) |
-| **Cofator Redox**| **NAD+** e **FAD** (Captam elétrons) | **NADPH** (Doa elétrons) |
-| **Hormônio** | **Glucagon** e Adrenalina | **Insulina** (Ativador Máster) |
+Esse ponto é muito cobrado porque une vias opostas.
 
 ---
 
+## 3. Beta-oxidação
+
+A beta-oxidação remove unidades de dois carbonos como acetil-CoA.
+
+Cada volta gera FADH2, NADH e acetil-CoA.
+
+O acetil-CoA entra no Krebs ou vira corpo cetônico no fígado em jejum prolongado.
+
+---
+
+## 4. Síntese de ácidos graxos
+
+Síntese ocorre no citosol e usa acetil-CoA, ATP e NADPH.
+
+Acetil-CoA carboxilase forma malonil-CoA, passo regulado e comprometido.
+
+Insulina favorece síntese; jejum favorece oxidação.
+
+> **Macete MedGradPlus:** Malonil-CoA é a placa de pare: se está sintetizando gordura, não entra para queimar.
+
+> **Pegadinha de prova:** Fígado produz corpos cetônicos, mas não os usa bem porque falta tiotransferase.
+
+---
+
+## Mapa mental da aula
+Comece pelo transporte: ácido graxo de cadeia longa precisa da carnitina/CPT para entrar na matriz mitocondrial.
+
+Depois separe vias opostas: **beta-oxidação** gera acetil-CoA, NADH e FADH2; **síntese de ácidos graxos** consome NADPH.
+
+O freio central é malonil-CoA. Quando a célula está sintetizando gordura, ele inibe CPT-1 para impedir oxidação simultânea.
 ## Ponte com a Clínica
+Jejum prolongado aumenta beta-oxidação hepática e pode gerar corpos cetônicos; isso é adaptação, não automaticamente doença.
 
-A **Deficiência de Carnitina** ou defeitos genéticos na beta-oxidação causam crises de **hipoglicemia hipocetótica** (baixo açúcar e ausência de cetonas) durante o jejum. Medicamentos como os **Fibratos** atuam em receptores (PPAR-alpha) que estimulam genes da beta-oxidação, ajudando a reduzir os níveis de triglicerídeos séricos.
+Defeito de carnitina/CPT aparece como incapacidade de usar gordura em jejum ou esforço, com hipoglicemia e baixa cetogênese.
 
----
-
+A armadilha é misturar acetil-CoA com glicose: excesso de acetil-CoA vira cetona ou entra em Krebs, mas não vira glicose líquida.
 ## Pontos-Chave para Prova
 
-- **CPT1:** A "porteira" de entrada na mitocôndria. Bloqueada se o organismo estiver em fase de síntese.
-- **Cetogênese:** Estratégia de sobrevivência do fígado. O fígado **produz**, mas **não consome** corpos cetônicos (falta a enzima tioforase).
-- **NADPH:** Co-fator obrigatório para "construir" cadeias de gordura.
-- **Ácidos Graxos Ímpares:** Casos raros que podem gerar **glicose** através do intermediário **Succinil-CoA**.
-- **Acetil-CoA Carboxilase (ACC):** Enzima marcapasso da síntese, altamente sensível à **Insulina**.
+- **Lipólise** libera ácidos graxos e glicerol.
+- **Albumina** transporta ácidos graxos livres.
+- **Carnitina** leva ácido graxo longo à mitocôndria.
+- **CPT-1** é inibida por malonil-CoA.
+- **Beta-oxidação** gera acetil-CoA, NADH e FADH2.
+- **Síntese** de ácido graxo ocorre no citosol.
+- **ACC** forma malonil-CoA.
+- **NADPH** é usado na síntese lipídica.
+- **Corpos** cetônicos aumentam no jejum prolongado.
+- **Fígado** exporta corpos cetônicos.
+
+---
+
+## Mini Quiz
+
+1. **CPT-1 é inibida por:**
+- [x] malonil-CoA
+- [ ] lactato
+- [ ] ureia
+- [ ] HDL
+> **Explicação:** Malonil-CoA inibe CPT-1 para bloquear entrada de ácidos graxos na mitocôndria durante síntese lipídica.
+
+2. **Beta-oxidação gera:**
+- [ ] ribose e NADPH
+- [x] acetil-CoA, NADH e FADH2
+- [ ] ureia e amônia
+- [ ] colesterol e bile
+> **Explicação:** Beta-oxidação quebra ácidos graxos e produz acetil-CoA, NADH e FADH2 para energia mitocondrial.
+
+3. **Síntese de ácidos graxos usa principalmente:**
+- [ ] NADH como único redutor
+- [ ] oxigênio como substrato direto
+- [x] NADPH
+- [ ] ureia
+> **Explicação:** A síntese de ácidos graxos usa NADPH como poder redutor, frequentemente vindo da via das pentoses.
+
+4. **No jejum prolongado, excesso hepático de acetil-CoA pode virar:**
+- [ ] glicogênio muscular
+- [ ] LDL receptor
+- [ ] amônia livre
+- [x] corpos cetônicos
+> **Explicação:** No jejum prolongado, acetil-CoA hepático excedente é convertido em corpos cetônicos para exportação energética.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Foco da **Uninove** em Metabolismo Lipídico:
-- **Ácidos de Cadeia Longa:** São os únicos que necessitam obrigatoriamente do **Shuttle de Carnitina**.
-- **Impedimento de Via:** Você não queima e fabrica gordura ao mesmo tempo no mesmo lugar devido ao **Malonil-CoA**.
-- **HMG-CoA Redutase:** É da síntese de **Colesterol**, não confunda com a **HMG-CoA Sintase** da Cetogênese.
-- **Corpos Cetônicos:** São solúveis em água; não precisam de transportadores proteicos no sangue.
+Lipídios são reserva energética concentrada; a beta-oxidação é a forma de transformar ácido graxo em acetil-CoA.
 
-### Diferenciações que a Uninove adora cobrar
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Cadeia Par** | **Cadeia Ímpar** | Gera apenas Acetil-CoA vs Gera **Propionil-CoA** |
-| **CAD** | **Jejum** | **Hiperglicemia** severa vs Glicemia normal ou baixa |
-| **Lipoproteína** | **Ácido Graxo Livre** | Gordura em **Vesícula** vs Gordura na **Albumina** |
-| **L-Carnitina** | **Citrato** | Move gordura **para dentro** vs Move **para fora** da mito |
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **beta-oxidação** vs **síntese de ácido graxo** | mitocôndria/catabolismo vs citosol/anabolismo |
+| **NADH** vs **NADPH** | energia mitocondrial vs síntese |
+| **malonil-CoA** vs **acetil-CoA** | freio da CPT-1 vs produto da oxidação |
+| **fígado** vs **músculo** | produz cetônicos vs usa cetônicos |
+
+### Figura sugerida
+
+Use a figura PMH-A7-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> **“O Malonil-CoA tranca a porta da mitocôndria para garantir que você não queime o que acabou de fabricar no citoplasma.”**
-ta **para dentro** da mito vs **para fora** |
-
-### Frase-âncora para não esquecer
-
-> “Malonil-CoA fecha a porta da mitocôndria para não queimar o que acabou de fazer.”
+> **Queimar gordura pede carnitina; fabricar gordura levanta malonil-CoA.**

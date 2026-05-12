@@ -2,18 +2,34 @@
   "aula_id": "semio1_a8",
   "materia": "semiologia1",
   "modulo": 1,
-  "tema": "Prática Real — Ambulatório Supervisionado",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Prática Real - Ambulatório Supervisionado",
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "consulta, registro e exame supervisionado"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "relação clínica, exame físico e registro"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "avaliação ambulatorial musculoesquelética"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula treina consulta real supervisionada: red flags, imagem racional, SOAP, segurança, pé diabético, plano funcional e retorno.",
+  "pontos_de_prova": [
+    "SOAP",
+    "red flags",
+    "imagem racional",
+    "pé diabético",
+    "osteoartrite",
+    "dor difusa",
+    "neurovascular",
+    "plano de retorno",
+    "preceptor"
+  ],
+  "observacoes": "Imagem posterior pode ser foto contextual ou fluxograma."
 }

@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Transaminação, Desaminação e Ciclo da Ureia",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:41:16.806Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Transaminação, Desaminação e Ciclo da Ureia",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Transaminação, Desaminação e Ciclo da Ureia",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Transaminação, Desaminação e Ciclo da Ureia",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Transaminação, Desaminação e Ciclo da Ureia.",
+  "pontos_de_prova": [
+    "ALT e AST são transaminases.",
+    "Vitamina B6 é cofator de transaminação.",
+    "Glutamato centraliza nitrogênio.",
+    "Amônia livre é neurotóxica.",
+    "Ciclo da ureia ocorre no fígado.",
+    "CPS I inicia ciclo da ureia.",
+    "N-acetilglutamato ativa CPS I.",
+    "Ureia é excretada pelo rim.",
+    "Alanina transporta nitrogênio do músculo ao fígado.",
+    "Hiperamonemia causa alteração neurológica."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

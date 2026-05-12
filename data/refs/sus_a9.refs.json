@@ -3,17 +3,33 @@
   "materia": "sus",
   "modulo": 1,
   "tema": "Ferramentas de Abordagem Familiar e Comunitária",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-11T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Tratado de Medicina de Família e Comunidade",
+      "relevancia": "ferramentas familiares e abordagem comunitária"
+    },
+    {
+      "titulo": "Cadernos de Atenção Básica - Núcleo de Apoio à Saúde da Família",
+      "orgao": "Ministério da Saúde",
+      "relevancia": "prática multiprofissional e territorial"
+    },
+    {
+      "titulo": "Educação Popular em Saúde",
+      "orgao": "Ministério da Saúde",
+      "relevancia": "autonomia, diálogo e participação social"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre genograma, ecomapa, APGAR, PRACTICE, FIRO, educação popular, sigilo e uso clínico de ferramentas familiares na APS.",
+  "pontos_de_prova": [
+    "genograma versus ecomapa",
+    "simbologia e vínculos familiares",
+    "APGAR familiar",
+    "PRACTICE e FIRO",
+    "educação popular em saúde",
+    "sigilo e registro ético",
+    "intersetorialidade e rede de apoio"
+  ],
+  "observacoes": "Priorizar finalidade clínica das ferramentas e evitar uso burocrático de desenhos sem interpretação."
 }

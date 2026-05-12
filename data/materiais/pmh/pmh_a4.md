@@ -1,113 +1,162 @@
-# PMH — Aula 4: Ciclo de Krebs e Fosforilação Oxidativa
+# PMH - Aula 4: Ciclo de Krebs e Fosforilação Oxidativa
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-O **Ciclo de Krebs** e a **Fosforilação Oxidativa** são o coração da usina energética. O **Acetil-CoA** é oxidado para produzir **NADH** e **FADH₂**, que entregam elétrons para a **Cadeia Respiratória**, criando um **gradiente de prótons** para a síntese de **ATP**. Domine os efeitos letais de inibidores como o **Cianeto**.
+Krebs e cadeia respiratória explicam por que oxigênio é tão importante para gerar ATP em grande escala.
 
+A prova cobra acetil-CoA entrando no ciclo, produção de NADH/FADH2, gradiente de prótons e papel da ATP sintase.
+
+Na clínica, hipóxia, cianeto, desacopladores e doenças mitocondriais são aplicações diretas.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A4-F01`
+**Figura-ID:** PMH-A4-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Do piruvato ao acetil-CoA
-
-**Piruvato desidrogenase** (complexo mitocondrial) oxida **piruvato** → **acetil-CoA** + **CO₂** + **NADH**. Regulada por **fosforilação** (inativo) e **produtos** (ATP, acetil-CoA, NADH inibem).
-
-> **Dica de Prova:** Deficiência de **PDH** ou **tiamina** (B1) → acúmulo de **piruvato** e **lactato**.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Esquema integrando acetil-CoA, ciclo de Krebs, NADH/FADH2, cadeia respiratória e ATP sintase.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Ciclo de Krebs e Fosforilação Oxidativa: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Ciclo de Krebs: uma volta conceitual
+## 1. Ciclo de Krebs
 
-**acetil-CoA + oxaloacetato → citrato** e segue até **regenerar oxaloacetato**. Por volta, produz-se **GTP**, **NADH**, **FADH₂** e **CO₂**.
+O ciclo de Krebs ocorre na matriz mitocondrial e oxida acetil-CoA a CO2.
 
-**Pontos de saída anabólicos:** **α-cetoglutarato** e **oxaloacetato** alimentam **aminoácidos** e **gliconeogênese**.
+Sua função mais importante é gerar NADH e FADH2 para a cadeia respiratória, além de GTP/ATP.
 
-> **Pegadinha:** Ciclo **não** gera glicose diretamente; mas **oxaloacetato** pode ser **drenado** para **gliconeogênese** em certas condições.
-
----
-
-## Cadeia respiratória e gradiente de prótons
-
-**Complexos I–IV** transferem elétrons de **NADH/FADH₂** até **O₂** (redução a água). **Bombeamento de prótons** cria **força protonmotriz** (Δp).
-
-**ATP sintase (F₀F₁)** usa **fluxo de H⁺** para **fosforilar ADP**.
-
-**Rendimento:** regra prática de estudo — **NADH** mitocondrial ~ **2,5 ATP**; **FADH₂** ~ **1,5 ATP** (valores exatos dependem do shuttling citoplasmático).
+Ele também fornece intermediários para biossíntese, por isso é anfibólico.
 
 ---
 
-## Inibidores e desacopladores (clássicos de prova)
+## 2. Complexos da cadeia respiratória
 
-- **Cianeto/CO:** bloqueiam **transferência de elétrons** (complexo IV ou citocromo oxidase).
-- **Oligomicina:** inibe **ATP sintase**.
-- **Desacopladores** (ex.: **DNP** histórico): dissipam **gradiente** → **calor** sem ATP útil.
+NADH entrega elétrons ao complexo I; FADH2 entra pelo complexo II.
 
----
+Os complexos I, III e IV bombeiam prótons para o espaço intermembrana. O complexo II não bombeia prótons.
 
-## Comparativo: NADH vs FADH₂ na cadeia
-
-| Molécula | Ponto de Entrada (Cadeia) | Produção de ATP (Aprox.) |
-|-----------|---------------------------|--------------------------|
-| **NADH** | **Complexo I** (NADH Deidrog.) | **2,5 ATP** |
-| **FADH₂** | **Complexo II** (Succinato Deidrog.)| **1,5 ATP** |
-| **GTP** | Produzido no **Krebs** | **1,0 ATP** (Direto) |
+O oxigênio recebe elétrons no complexo IV e vira água.
 
 ---
 
-## Shuttles: NADH citoplasmático
+## 3. ATP sintase
 
-O **NADH** da **glicólise** não atravessa a membrana mitocondrial livremente. **Shuttle do malato-aspartato** e **do glicerol-3-fosfato** movem equivalentes redutores; o **rendimento de ATP** por **glicose** pode variar levemente conforme o tecido e o shuttle predominante — tema de prova quando comparam **fígado** e **músculo**.
+O gradiente de prótons retorna pela ATP sintase, que converte ADP em ATP.
+
+Se o gradiente é dissipado por desacoplamento, a cadeia pode consumir oxigênio sem produzir ATP adequadamente.
+
+Essa lógica explica febre tóxica por desacopladores e termogênese marrom fisiológica.
 
 ---
 
+## 4. Inibidores e hipóxia
+
+Cianeto bloqueia complexo IV e impede uso de oxigênio pela cadeia.
+
+Hipóxia reduz aceptor final de elétrons e derruba fosforilação oxidativa.
+
+A célula tenta compensar com glicólise anaeróbia, elevando lactato.
+
+> **Macete MedGradPlus:** I, III e IV bombeiam; II só entrega elétrons.
+
+> **Pegadinha de prova:** Complexo II recebe FADH2, mas não bombeia prótons.
+
+---
+
+## Mapa mental da aula
+Comece pelo destino do acetil-CoA: o ciclo de Krebs extrai elétrons e os entrega como **NADH/FADH2**.
+
+Depois siga esses elétrons na cadeia respiratória: complexos I, III e IV bombeiam prótons; o complexo II entra com FADH2, mas não bombeia.
+
+Feche com oxigênio e ATP sintase. Sem O2 como aceptor final, o gradiente cai e a produção mitocondrial de ATP despenca.
 ## Ponte com a Clínica
+Cianeto, hipóxia e desacopladores viram questões clínicas porque todos quebram a mesma lógica: elétron, próton, gradiente e ATP.
 
-**Choque**, **asfixia** e **intoxicação por cianeto** interrompem **cadeia respiratória** → **queda de ATP** e **desvio para lactato**. **Doenças mitocondriais** podem afetar **complexos** específicos — **acidose**, **miopatia** e **encefalopatia**. **Tiamina** é cofator de **PDH** e **α-cetoglutarato desidrogenase** — falha em **alcoólicos** e **desnutridos**.
+Na vinheta, acidose lática com hipóxia aponta para bloqueio da fosforilação oxidativa, não para defeito primário da ureia ou do colesterol.
 
----
-
+A pegadinha é esquecer o complexo II: ele participa da cadeia, mas não bombeia prótons, por isso rende menos ATP.
 ## Pontos-Chave para Prova
 
-- **Complexo PDH:** O elo entre o citoplasma (Glicólise) e a mitocôndria (Krebs). Exige **Tiamina (B1)**.
-- **Ciclo de Krebs:** Gera **3 NADH**, **1 FADH₂** e **1 GTP** por cada Acetil-CoA.
-- **Cadeia Respiratória:** Transforma energia de elétrons em um **Gradiente Eletroquímico de Prótons**.
-- **Incritores do C. IV:** **Cianeto (CN-)** e **Monóxido de Carbono (CO)** matam por asfixia celular.
-- **Desacopladores:** Dissipam o gradiente como **Calor**; usados para termogênese (ex: **Tecido Adiposo Marrom**).
+- **Krebs** ocorre na matriz mitocondrial.
+- **Acetil-CoA** entra condensando com oxaloacetato.
+- **NADH** entra no complexo I.
+- **FADH2** entra no complexo II.
+- **Complexos** I, III e IV bombeiam prótons.
+- **Complexo** II não bombeia prótons.
+- **Oxigênio** é aceptor final no complexo IV.
+- **ATP** sintase usa gradiente de prótons.
+- **Cianeto** bloqueia complexo IV.
+- **Desacoplamento** aumenta calor e reduz ATP.
+
+---
+
+## Mini Quiz
+
+1. **Qual complexo não bombeia prótons?**
+- [x] Complexo II
+- [ ] Complexo I
+- [ ] Complexo III
+- [ ] Complexo IV
+> **Explicação:** O complexo II transfere elétrons do FADH2 para a cadeia, mas não contribui diretamente para o bombeamento de prótons.
+
+2. **O oxigênio atua como:**
+- [ ] doador de acetil-CoA
+- [x] aceptor final de elétrons
+- [ ] enzima da ureia
+- [ ] transportador de glicose
+> **Explicação:** Oxigênio é o aceptor final de elétrons; sem ele, a cadeia trava e o gradiente de prótons não se mantém.
+
+3. **Cianeto bloqueia principalmente:**
+- [ ] PFK-1
+- [ ] glicogênio sintase
+- [x] complexo IV
+- [ ] LDL receptor
+> **Explicação:** Cianeto bloqueia o complexo IV, impedindo a redução do oxigênio e colapsando a fosforilação oxidativa.
+
+4. **ATP sintase depende de:**
+- [ ] ureia plasmática
+- [ ] colesterol HDL
+- [ ] lactato hepático
+- [x] gradiente de prótons
+> **Explicação:** ATP sintase usa o gradiente de prótons como força motriz para fosforilar ADP em ATP.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Acetil-CoA:** O substrato universal; sua oxidação completa gera **CO2**.
-- **O2:** O **aceptor final** de elétrons; se faltar, a cadeia para e o ATP cai.
-- **ATP Sintase:** Funciona como uma turbina movida pela força **Próton-Motriz**.
-- **Termogenina (UCP-1):** Desacoplador fisiológico que gera calor em **recém-nascidos**.
+Krebs e cadeia respiratória explicam por que oxigênio é tão importante para gerar ATP em grande escala.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Inibidores** | **Desacopladores** | **Bloqueiam** o fluxo vs **Dissipam** o gradiente |
-| **Complexo I** | **Complexo II** | Bombeia Prótons vs **Não bombeia** (gera menos ATP) |
-| **Tiamina (B1)** | **Acidose Lática** | Deficiência de cofator causa bloqueio da **PDH** |
-| **Cianeto** | **Oligomicina** | Inibe o **Complexo IV** vs Inibe a **ATP Sintase** |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **NADH** vs **FADH2** | complexo I vs complexo II |
+| **complexo II** vs **complexos I/III/IV** | não bombeia vs bombeiam prótons |
+| **hipóxia** vs **desacoplamento** | falta aceptor vs gradiente desperdiçado |
+| **Krebs** vs **cadeia respiratória** | gera carreadores vs usa carreadores |
+
+### Figura sugerida
+
+Use a figura PMH-A4-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Krebs gera redutores; a cadeia transforma redox em ATP.”
+> **Krebs carrega caminhões; cadeia descarrega na usina.**

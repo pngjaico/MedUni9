@@ -3,17 +3,35 @@
   "materia": "sus",
   "modulo": 1,
   "tema": "PNAB e Estratégia Saúde da Família",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-11T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Política Nacional de Atenção Básica",
+      "orgao": "Ministério da Saúde",
+      "ano": "2017",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Primary Care: Balancing Health Needs, Services, and Technology",
+      "autor": "Barbara Starfield",
+      "ano": "1998",
+      "relevancia": "atributos da APS"
+    },
+    {
+      "titulo": "Constituição Federal de 1988 e Leis Orgânicas da Saúde",
+      "orgao": "Brasil",
+      "relevancia": "base normativa do SUS"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre a organização da atenção básica no SUS, atributos da APS, ESF, territorialização, ACS, acolhimento e coordenação do cuidado.",
+  "pontos_de_prova": [
+    "PNAB como organização da atenção básica",
+    "Atributos essenciais da APS",
+    "Atributos derivados da APS",
+    "ESF, território adscrito e ACS",
+    "Acolhimento, demanda espontânea e demanda programada",
+    "Coordenação com referência e contrarreferência"
+  ],
+  "observacoes": "Evitar cobrança frágil de números isolados; priorizar lógica territorial, responsabilidade sanitária e atributos da APS."
 }

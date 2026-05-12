@@ -1,148 +1,153 @@
-# Semiologia 1 — Aula 6: síndromes musculoesqueléticas e propedêutica
+# Semiologia 1 - Aula 6: Síndromes Musculoesqueléticas e Propedêutica
 
-**Disciplina:** Semiologia do Aparelho Locomotor  
-**Módulo:** 1
+**Disciplina:** Semiologia do Sistema Musculoesquelético  
+**Módulo:** 1 | **Referência principal:** triagem sindrômica locomotora  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-O raciocínio por **Síndromes Musculoesqueléticas** é o que separa o médico generalista do especialista. Para a prova, domine a tríade da **Radiculopatia** (Dor, Déficit e Lasègue), a urgência da **Artrite Séptica** e as características da **Fibromialgia**. Na clínica, o seu maior desafio é não comer bola em sinais de alerta como a **Síndrome da Cauda Equina** (anestesia em sela e perda de esfíncteres).
+Depois de anamnese, inspeção, palpação, mobilidade e força, o aluno precisa juntar achados em síndromes. Síndrome não é diagnóstico fechado; é um agrupamento de sinais e sintomas que organiza risco e próximos passos.
+
+Na prova, os cortes mais importantes são: **radiculopatia versus dor mecânica**, **cauda equina**, **mielopatia**, **monoartrite séptica**, **poliartrite inflamatória**, **osteoartrite**, **fibromialgia**, **gota**, **estenose lombar** e **síndrome dolorosa regional complexa**.
 
 ### Figura sugerida
 
-**Figura-ID:** `SEMIO1-A6-F01`
+**Figura-ID:** SEMIO1-A6-F01  
+**Momento:** após esta abertura.  
+**O que mostrar:** fluxograma de triagem sindrômica: dor axial/radicular, monoartrite, poliartrite, dor difusa e sinais de alarme.  
+**Tipo sugerido:** esquema didático mobile-first.  
+**Legenda:** "Triagem sindrômica: separar risco urgente de dor comum."  
 
-- **Momento:** após esta seção de relevância.
-- **O que mostrar:** fluxograma simples de triagem da dor musculoesquelética com três saídas: mecânica, inflamatória e síndrome de alarme.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Triagem semiológica inicial das principais síndromes musculoesqueléticas."
-
----
-
-## Lombociatalgia e síndrome radicular
-
-A lombociatalgia não é apenas "dor que desce para a perna". O **padrão de irradiação**, o **exame neurológico segmentar** e os **sinais de tensão radicular** aumentam ou reduzem a chance de comprometimento de raiz nervosa.
-
-Lasègue positivo, dor em trajeto dermatomérico e déficit motor focal sustentam radiculopatia. Já dor lombar inespecífica sem déficit neurológico e com piora ao esforço costuma ser mecânica.
-
-| Síndrome | Característica Chave | Conduta "High-Yield" |
-|----------|----------------------|-----------------------|
-| **Radiculopatia** | Dor em **Dermátomo** + Fraqueza | Testar Reflexos e **Lasègue** |
-| **Cauda Equina** | **Anestesia em Sela** + Esfíncter | **Emergência Cirúrgica** |
-| **Mecanismo Axial**| Dor lombar pura, sem irradiação | Conservador (Fisio/Analgesia) |
-| **Mielopatia** | **Hiperreflexia** e Marcha atáxica | Imagem de Coluna (RM) |
-
-> **Dica de Prova:** em enunciado com **disfunção esfincteriana** e **anestesia em sela**, a resposta correta prioriza urgência, não analgesia ambulatorial.
+**Figura-ID:** SEMIO1-A6-SPOT01  
+**Momento:** após a seção de red flags.  
+**O que mostrar:** painel de red flags: anestesia em sela, déficit progressivo, monoartrite quente, Babinski/hiperreflexia, pé frio/pulsos ausentes.  
+**Tipo sugerido:** painel de decisão clínica.  
+**Legenda:** "Red flags musculoesqueléticas que mudam prioridade."  
 
 ---
 
-## Cervicalgia e sinais de mielorradiculopatia
+## 1. Pensar por síndrome: primeiro risco, depois rótulo
 
-Na cervicalgia, o maior erro é reduzir tudo a "contratura muscular". Irradiação para membro superior, alteração sensitiva em dermátomos cervicais e fraqueza segmentar exigem investigação de radiculopatia.
+O raciocínio começa com uma pergunta simples: existe urgência? Cauda equina, artrite séptica, mielopatia progressiva, fratura, isquemia e infecção não podem entrar na mesma fila mental de dor mecânica simples.
 
-Se houver **hiperreflexia difusa**, **alteração de marcha** ou **sinal piramidal**, pense em **mielopatia cervical**. Esse padrão muda completamente o risco clínico.
+Se não há urgência, organize a queixa por padrão: axial, radicular, monoarticular, poliarticular, periarticular, neuropático ou dor crônica difusa.
 
-| Padrão | Hipótese favorecida | Conduta inicial |
-|--------|---------------------|-----------------|
-| Dor cervical + parestesia unilateral em braço | **Radiculopatia cervical** | Avaliar déficit neurológico e gravidade |
-| Dor cervical + hiperreflexia/babinski | **Mielopatia** | Encaminhamento prioritário |
-| Dor cervical mecânica sem sinais neurológicos | **Síndrome miofascial**/cervicalgia mecânica | Tratamento conservador orientado |
+| Eixo sindrômico | Pistas principais | Prioridade |
+|---|---|---|
+| **Radiculopatia** | Dor em dermátomo, parestesia, déficit, Lasègue | Exame neurológico segmentar |
+| **Cauda equina** | Anestesia em sela, retenção urinária, disfunção esfincteriana | Urgência |
+| **Mielopatia** | Hiperreflexia, Babinski, marcha alterada | Prioridade neurológica |
+| **Monoartrite aguda** | Articulação quente, dolorosa, limitada | Excluir infecção/cristal |
+| **Dor difusa crônica** | Fadiga, sono ruim, hipersensibilidade sem sinovite | Dor centralizada/fibromialgia |
 
----
+**Macete MedGradPlus:** antes de nomear síndrome, pergunte: **tem déficit, febre, esfíncter, articulação quente ou pé frio?** Se sim, a prioridade muda.
 
-## Monoartrite aguda: nunca banalizar
+## 2. Coluna: radiculopatia, cauda equina e mielopatia
 
-Toda monoartrite aguda deve ser tratada como potencial **artrite séptica** até exclusão adequada. Dor intensa, calor, edema e limitação importante com ou sem febre já justificam atenção imediata.
+Radiculopatia é dor em trajeto de raiz, geralmente com parestesia, alteração de reflexo ou fraqueza segmentar. Lasègue positivo reforça compressão radicular lombossacra quando reproduz dor irradiada típica.
 
-A análise do líquido sinovial é ferramenta central quando indicada. **Cristais** sugerem gota ou pseudogota, mas não excluem infecção em todos os cenários, especialmente em pacientes de risco.
+Cauda equina é outro patamar: retenção urinária, anestesia em sela, perda de controle esfincteriano e déficit neurológico progressivo exigem urgência. Não é lombalgia comum.
 
-| Tipo de Artrite | Perfil do Paciente | Chave Diagnóstica |
-|-----------------|-------------------|-------------------------|
-| **Sética** (Infecciosa)| Febre + Incapacidade | **Monoartrite** Aguda Grave |
-| **Gota** (Cristais) | Pós-churrasco/Álcool | **Podagra** (Hálux) |
-| **Artrite Reumatoide**| Mulher jovem/meia idade| **Poliartrite** Simétrica |
-| **Espondilite** | Homem jovem com uveíte | Dor **Lombar Inflamatória** |
+Mielopatia aparece quando há sinal de trato longo: hiperreflexia, Babinski, alteração de marcha, mão desajeitada ou déficit bilateral. Cervicalgia com esses achados não deve ser tratada como contratura.
 
-> **Pegadinha:** melhora parcial com anti-inflamatório não exclui artrite séptica. A evolução pode mascarar gravidade no início.
+**Pegadinha de prova:** dor que "desce" sem trajeto, sem parestesia e sem déficit não basta para radiculopatia. O padrão precisa respeitar raiz/dermátomo ou exame neurológico.
 
----
+## 3. Monoartrite, gota e artrite séptica
 
-## Poliartrite: padrão inflamatório versus mecânico
+Monoartrite aguda quente, dolorosa e limitada é infecção até prova em contrário. Gota é comum e clássica, mas cristal não autoriza ignorar infecção em paciente de risco.
 
-A diferenciação entre poliartrite inflamatória e dor articular mecânica depende de padrão temporal, distribuição e sintomas sistêmicos. Rigidez matinal prolongada, edema articular objetivo e padrão simétrico de pequenas articulações sugerem etiologia inflamatória.
+| Síndrome | Pistas semiológicas | O que não perder |
+|---|---|---|
+| **Artrite séptica** | Febre, dor intensa, calor, incapacidade funcional | Destruição articular rápida |
+| **Gota** | Podagra, crise súbita, hiperemia, gatilho alimentar/álcool | Cristal não exclui infecção sempre |
+| **Pseudogota** | Idoso, joelho/punho, crise aguda | Diferencial com séptica |
+| **Hemartrose** | Trauma, derrame rápido, anticoagulante | Lesão intra-articular/sangramento |
 
-Já dor de piora ao uso, rigidez breve e ausência de sinais inflamatórios exuberantes favorecem mecanismo degenerativo.
+Na prática, monoartrite aguda com febre ou grande limitação precisa de raciocínio urgente. Anti-inflamatório melhorar um pouco não prova benignidade.
 
-| Critério semiológico | Inflamatório | Mecânico |
-|----------------------|--------------|----------|
-| **Rigidez matinal** | Prolongada | Curta |
-| **Piora da dor** | Em repouso/início do movimento | Com uso repetitivo |
-| **Edema articular** | Frequente | Menos proeminente |
-| **Sintomas sistêmicos** | Podem estar presentes | Raros |
+## 4. Poliartrite, osteoartrite e dor inflamatória
 
-### Figura sugerida
+Poliartrite simétrica de pequenas articulações, com rigidez matinal prolongada e edema objetivo, sugere artrite inflamatória, como artrite reumatoide. Dor mecânica piora com uso, tem rigidez breve e menos sinais inflamatórios.
 
-**Figura-ID:** `SEMIO1-A6-F02`
+Osteoartrite é síndrome mecânico-degenerativa: dor com carga, rigidez curta, crepitação, limitação progressiva e nódulos em mãos. Não confunda com poliartrite inflamatória ativa apenas por haver várias articulações dolorosas.
 
-Briefing: quadro comparativo visual entre dor inflamatória e dor mecânica (tempo, rigidez matinal, distribuição e sinais associados). Legenda rascunho: "Como diferenciar padrão inflamatório de padrão mecânico na prática."
+Em espondiloartrites, procure dor lombar inflamatória, entesite, dactilite, uveíte, psoríase e doença inflamatória intestinal. O padrão pode ser oligoarticular e assimétrico.
 
----
+## 5. Dor crônica centralizada e SDRC
 
-## Fibromialgia e dor crônica centralizada
+Fibromialgia é dor crônica generalizada com fadiga, sono não reparador e queixas cognitivas, geralmente sem sinovite objetiva. A ausência de edema articular verdadeiro ajuda a diferenciar de artrite inflamatória.
 
-A **fibromialgia** é síndrome de dor crônica generalizada associada a **fadiga**, **sono não reparador** e **queixa cognitiva**. O diagnóstico é clínico e exige exclusão racional de causas inflamatórias, infecciosas e endócrinas relevantes.
+Síndrome dolorosa regional complexa é dor regional desproporcional, muitas vezes após trauma, associada a alteração de cor, temperatura, edema, sudorese e limitação funcional. É uma síndrome de desregulação dolorosa/autonômica, não "dor local comum".
 
-Semiologicamente, o exame costuma mostrar **hipersensibilidade difusa** sem sinais objetivos de sinovite. Essa dissociação entre intensidade da dor referida e **ausência de inflamação articular** franca aparece com frequência em casos clínicos de prova.
-
----
-
-## Síndrome dolorosa regional complexa
-
-Após trauma ou imobilização, dor desproporcional com edema, alteração de temperatura/cor da pele e **alodinia** deve levantar hipótese de **síndrome dolorosa regional complexa**. O diagnóstico é clínico e o tratamento precoce multidisciplinar melhora prognóstico.
-
-Reconhecer esse padrão evita rotular o paciente como "simulador" e reduz atraso terapêutico.
-
----
+Estenose de canal lombar entra como síndrome de claudicação neurogênica: dor ou cansaço em membros inferiores que piora em pé/andando e melhora ao sentar ou flexionar a coluna.
 
 ## Ponte com a Clínica
 
-Paciente idoso com joelho quente, derrame importante e febre baixa: mesmo com história prévia de gota, a conduta segura é tratar como possível **artrite séptica** até investigação adequada.
+Um paciente com lombalgia, anestesia em sela e retenção urinária precisa de urgência; analgesia isolada é erro. Um joelho quente e febril exige excluir artrite séptica. Um pé frio com pulsos ausentes sai do eixo articular e entra no vascular.
 
-Paciente jovem com lombalgia de início insidioso, **rigidez matinal prolongada** e melhora ao movimento, associada a história de uveíte, sugere **espondiloartrite** e não lombalgia mecânica simples. O padrão clínico, aqui, vale mais do que um raio X isolado inicial.
-
----
+Em dor difusa, fadiga e sono ruim sem sinovite objetiva, o raciocínio não deve inventar artrite. Fibromialgia exige acolher a dor e procurar sinais objetivos antes de fechar outra síndrome.
 
 ## Pontos-Chave para Prova
 
-- **Sinal de Lasègue:** Dor que "choque" ao elevar a perna entre **30º e 70º**. Sugere hérnia discal.
-- **Artrite Séptica:** Monoartrite aguda é **Infecção** até que se prove o contrário. Requer punção.
-- **Cauda Equina:** Perda de xixi/cocô + dormência onde senta no selim é **Centro Cirúrgico** imediato.
-- **Fibromialgia:** Dor em **Tender Points** sem edema nas juntas. Exames laboratoriais normais.
-- **Lombalgia Inflamatória:** Melhora com o exercício e piora no repouso (típico de Espondiloartrites).
+- **Síndrome organiza risco**, não substitui diagnóstico final.
+- **Lasègue positivo** reforça radiculopatia lombossacra quando reproduz dor irradiada típica.
+- **Cauda equina** combina anestesia em sela, retenção urinária/esfíncter e déficit.
+- **Babinski/hiperreflexia** em cervicalgia sugerem mielopatia.
+- **Monoartrite quente e febril** é artrite séptica até exclusão adequada.
+- **Podagra súbita** após álcool/frutos do mar sugere gota.
+- **Poliartrite simétrica de pequenas articulações** sugere artrite inflamatória.
+- **Osteoartrite** tem dor mecânica, rigidez curta, crepitação e nódulos.
+- **Fibromialgia** tem dor difusa, fadiga e sono ruim sem sinovite objetiva.
+- **SDRC** combina dor desproporcional com alterações autonômicas regionais.
+- **Estenose lombar** melhora ao sentar ou flexionar a coluna.
+- **Red flags** mudam prioridade antes de qualquer rótulo.
 
----
+## Mini Quiz
+
+1. **Lasègue positivo reforça principalmente suspeita de:**
+- [x] Radiculopatia lombossacra.
+- [ ] Osteoartrite nodal.
+- [ ] Dactilite isolada.
+- [ ] Fibromialgia sem sinais neurológicos.
+> **Explicação:** Lasègue reproduz dor irradiada por tensão radicular, quando típico.
+
+2. **Anestesia em sela com retenção urinária após lombalgia intensa sugere:**
+- [ ] Dor mecânica simples.
+- [x] Síndrome da cauda equina.
+- [ ] Epicondilalgia lateral.
+- [ ] De Quervain.
+> **Explicação:** Esse conjunto é urgência neurológica até prova em contrário.
+
+3. **Dor difusa, fadiga e sono não reparador sem sinovite objetiva favorecem:**
+- [ ] Artrite séptica.
+- [ ] Hemartrose traumática.
+- [x] Fibromialgia/dor crônica centralizada.
+- [ ] Lesão isolada de LCA.
+> **Explicação:** A ausência de sinovite objetiva diferencia de artrite inflamatória.
+
+4. **Dor lombar que piora em pé/andando e melhora ao sentar ou flexionar a coluna sugere:**
+- [ ] Artrite séptica do joelho.
+- [ ] Túnel do carpo.
+- [ ] Podagra.
+- [x] Estenose de canal lombar com claudicação neurogênica.
+> **Explicação:** A melhora em flexão é pista clássica de estenose lombar.
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
 ### Síntese para a prova
 
-Quando a questão trouxer dor musculoesquelética, o primeiro passo é classificar o padrão: mecânico, inflamatório, neuropático/radicular ou síndrome de alarme. Essa classificação inicial orienta toda a tomada de decisão.
+Na triagem sindrômica, não comece pelo nome bonito. Comece por risco: cauda equina, mielopatia, artrite séptica, isquemia, fratura e infecção. Depois separe padrão radicular, monoarticular, poliarticular, mecânico, inflamatório ou dor crônica centralizada.
 
-- **Dermátomos:** Decorre as raízes (**L4** - joelho, **L5** - hálux, **S1** - calcâneo/lateral).
-- **Mielopatia:** Diferencia-se da Radiculopatia pelos sinais de **Primeiro Neurônio Motor** (Babinski+, Hiperreflexia).
-- **Artrite Psoriásica:** Dedos em **Salsicha** (**Dactilite**) + lesões de pele.
-- **Gota:** Procure por **Cristais de Urato Monossódico** (agulhas com birrefringência negativa).
+Se a síndrome for bem reconhecida, o próximo passo fica lógico: exame neurológico, punção/investigação, imagem, encaminhamento ou manejo conservador.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Radiculopatia** | **Mielopatia** | Fraqueza **Flácida** vs Fraqueza **Espástica** |
-| **Lombalgia Mecânica**| **Inflamatória** | Ruim com carga vs Ruim com repouso |
-| **Artrite Séptica** | **Gota** | Febre/Toxemia vs Recorrência/Dieta |
-| **Phalen** | **Tinel** | Pressão mantida vs **Percussão** do nervo |
+### Diferenciações
 
-### Frase-âncora para não esquecer
-
-> "Primeiro reconheça o padrão da síndrome; depois procure a causa com prioridade clínica."
+| Diferenciar | Pista do primeiro | Pista do segundo |
+|---|---|---|
+| **Radiculopatia vs dor mecânica** | Dermátomo, parestesia, déficit, Lasègue | Dor local sem déficit |
+| **Cauda equina vs ciatalgia comum** | Sela/esfíncter/retenção | Dor irradiada sem disfunção esfincteriana |
+| **Séptica vs gota** | Febre, incapacidade, risco infeccioso | Podagra, crise súbita, gatilho alimentar |
+| **AR vs osteoartrite** | Simétrica, pequenas articulações, rigidez prolongada | Carga, rigidez curta, crepitação |
+| **Fibromialgia vs artrite** | Dor difusa, sono ruim, sem sinovite | Edema/calor articular objetivo |

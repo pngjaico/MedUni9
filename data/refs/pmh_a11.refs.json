@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Aplicações Clínicas de Proteínas e Aminoácidos",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:41:32.802Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Aplicações Clínicas de Proteínas e Aminoácidos.",
+  "pontos_de_prova": [
+    "PKU envolve fenilalanina hidroxilase/BH4.",
+    "Fenilalanina alta lesiona desenvolvimento neurológico.",
+    "Triagem neonatal é decisiva.",
+    "Hiperamonemia causa encefalopatia.",
+    "Defeitos da ureia podem ter alcalose respiratória inicial.",
+    "Acidemias orgânicas causam acidose metabólica.",
+    "Jejum e infecção descompensam erros inatos.",
+    "Marasmo é falta calórica global.",
+    "Kwashiorkor tem edema por baixa proteína.",
+    "Caquexia é inflamatória e catabólica."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

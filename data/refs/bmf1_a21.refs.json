@@ -3,17 +3,40 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Anatomia do Fígado, Vias Biliares e Pâncreas",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Abdome: fígado, vias biliares, pâncreas e baço",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Fígado, vesícula biliar, vias biliares e pâncreas",
+      "paginas": "",
+      "relevancia": "apoio visual"
+    },
+    {
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Glândulas anexas do sistema digestório",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula exige integração entre anatomia hepatobiliar, porta hepática, ductos biliares, pâncreas e relações clínicas de obstrução biliar e pancreatite.",
+  "pontos_de_prova": [
+    "Porta hepática e tríade portal",
+    "Veia porta versus veias hepáticas",
+    "Ducto hepático comum versus colédoco",
+    "Função da vesícula biliar",
+    "Ampola de Vater e papila maior",
+    "Ducto de Wirsung versus Santorini",
+    "Cabeça do pâncreas e duodeno",
+    "Cauda do pâncreas e hilo esplênico",
+    "Icterícia obstrutiva",
+    "Pancreatite biliar"
+  ],
+  "observacoes": "Referências indicativas; páginas variam conforme edição."
 }

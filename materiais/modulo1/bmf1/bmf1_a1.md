@@ -1,98 +1,172 @@
-# BMF1 — Aula 1: Introdução à Anatomia — O Mapa do Corpo
+# BMF1 - Aula 1: Introdução ao Estudo da Anatomia Humana
 
-A anatomia não é apenas decorar nomes; é aprender a ler um **mapa 3D constante**. Na prova, os temas centrais são a **Posição Anatômica**, os **Planos de Seção** e os **Termos Direcionais**.
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Moore, capítulo de introdução à anatomia  
+**Tempo de estudo sugerido:** 15-20 min
 
-Na prática, a anatomia é o que impede você de operar o lado errado ou de descrever um exame de forma ambígua. Se você diz que uma lesão é **"Proximal"** ou **"Distal"**, você está dando uma coordenada exata que todo médico no mundo entende. Aprender anatomia é aprender o **"GPS" da medicina**: sem ele, você está perdido antes mesmo de começar o exame físico.
+---
+
+## Relevância clínica e acadêmica
+
+Antes de decorar músculo, osso ou nervo, o aluno precisa aprender a falar a língua da anatomia. **Posição anatômica**, **planos**, **termos direcionais** e **movimentos** são o vocabulário mínimo para descrever uma lesão sem ambiguidade.
+
+Na prova, isso aparece em frases curtas: "estrutura medial", "corte axial", "lesão distal ao cotovelo", "face anterior da perna". Na prática, é o que impede erro de lado, erro de topografia e descrição inútil no prontuário.
+
+Aqui no MedGradPlus, a regra é simples: primeiro defina a **posição de referência**; depois escolha o **plano**; só então use o **termo direcional**. Se pular essa ordem, você começa a responder a questão pela visão do observador, não pela anatomia.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A1-F01`
+**Figura-ID:** BMF1-A1-F01
 
-- **Momento:** Seção de Planos e Cortes.
-- **O que mostrar:** O **"Corte de Vidro"**: Um modelo humano em posição anatômica atravessado por três placas de vidro coloridas: uma vertical dividindo em direita/esquerda (**Sagital**), uma vertical dividindo em frente/atrás (**Coronal**) e uma horizontal dividindo em cima/baixo (**Axial**). 
-- **Tipo sugerido:** Infográfico 3D de referência espacial.
-- **Legenda (rascunho):** Os três planos universais de orientação anatômica e radiológica.
-
-## 1. A Posição de Referência (Obrigatória)
-
-Toda descrição anatômica assume que o paciente está na **Posição Anatômica**:
-- **O Corpo:** Em pé, olhar no horizonte.
-- **Membros Superiores:** Estendidos ao lado do corpo com as **Palmas voltadas para frente**.
-- **Membros Inferiores:** Pés ligeiramente afastados e voltados para frente.
-- **Regra:** Se você disser **"medial"** e o paciente estiver com a mão virada, você erra. A referência é **sempre** com a **palma para frente**!
+- **Momento:** após a explicação de posição anatômica e planos.
+- **O que mostrar:** corpo em posição anatômica com palmas para frente e três planos coloridos: sagital, coronal e axial.
+- **Tipo sugerido:** esquema anatômico didático ou ilustração de atlas em licença aberta.
+- **Legenda:** Posição anatômica e planos universais de orientação do corpo.
 
 ---
 
-## 2. Planos e Cortes: Fatiando a Realidade
+## A posição anatômica é o contrato
 
-| Plano de Seção | Divisão do Corpo | Aplicação em Imagem |
-|-----------------|-------------------|-----------------------------|
-| **Plano Sagital** | **Direita ↔ Esquerda**| Ver **perfil** e linha média |
-| **Plano Coronal** | **Anterior ↔ Posterior** | Ver **simetria** (frente/trás) |
-| **Plano Axial** | **Superior ↔ Inferior** | Ver **"fatias"** (comum na TC) |
+A posição anatômica padrão é o corpo **em pé**, olhando para frente, membros superiores ao lado do corpo e **palmas das mãos voltadas para frente**. Ela não descreve como o paciente está naquele momento; descreve a referência universal usada para nomear direção.
 
----
+Esse detalhe muda tudo no membro superior. Em posição anatômica, o **polegar é lateral** e o quinto dedo é medial. Se o paciente estiver deitado, sentado ou com o antebraço rodado, a referência continua a mesma. A banca adora confundir o aluno colocando uma figura rodada ou uma peça anatômica em outra orientação.
 
-## 3. Termos Direcionais: O GPS Médico
-
-- **Medial vs Lateral:** O que está mais perto da **Linha Média** do corpo é **medial** (ex: o minguinho é medial na posição anatômica).
-- **Proximal vs Distal:** Usado para **Membros**. **Proximal** está perto da raiz (ombro); **Distal** está longe (dedos).
-- **Superficial vs Profundo:** O que está mais perto da **Pele** é **superficial** (veias); o que está longe é **profundo** (órgãos).
+> **Pegadinha de prova:** direita e esquerda são sempre do **paciente/cadáver**, não do observador. Se você responde pela sua direita olhando a peça, erra uma questão fácil.
 
 ---
 
-## 4. Movimentos Fundamentais
+## Planos: como o corpo é cortado
 
-| Movimento | O que acontece | Exemplo Prático |
-|-------------------|-------------------|----------------------|
-| **Flexão** | Reduz o **Ângulo** | Dobrar o cotovelo |
-| **Extensão** | Aumenta o **Ângulo** | Esticar o braço |
-| **Abdução** | **Afasta** da linha média | Abrir os braços lateralmente |
-| **Adução** | **Aproxima** da linha média | Colar o braço no tronco |
-| **Supinação** | Palma para **Cima** | **"Suplicar"** (segurar sopa) |
-| **Pronação** | Palma para **Baixo** | Colocar a mão na mesa |
+Os planos servem para imaginar cortes. O **sagital** separa direita e esquerda; quando passa exatamente na linha média, vira sagital mediano. O **coronal**, ou frontal, separa anterior e posterior. O **axial**, ou transversal, separa superior e inferior.
+
+Em tomografia, o aluno costuma lembrar primeiro do axial porque ele aparece como uma "fatia" horizontal. Em anatomia prática, o mais importante é reconhecer o que o plano está separando, não decorar o nome isolado.
+
+| Plano | Divide em | Palavra que destrava |
+|---|---|---|
+| **Sagital** | direita e esquerda | lado |
+| **Coronal** | anterior e posterior | frente/costas |
+| **Axial** | superior e inferior | fatia horizontal |
+
+> **Macete MedGradPlus - SCA dos planos:**
+> **S**agital separa **S**ides; **C**oronal corta **C**ara/costas; **A**xial parece **A**ndares do corpo.
+> **Regra prática:** antes de interpretar uma imagem, diga em voz baixa qual plano está vendo.
+
+---
+
+## Termos direcionais: o mapa em palavras
+
+Termo direcional não é enfeite. Ele transforma "dor no braço" em informação útil: superficial ou profunda? medial ou lateral? proximal ou distal? anterior ou posterior?
+
+Use **medial/lateral** quando a referência for a linha média. Use **superficial/profundo** quando a referência for a pele. Use **proximal/distal** principalmente em membros, porque a referência é a raiz do membro: ombro no superior, quadril no inferior.
+
+Exemplo bom: "nódulo superficial na face medial do braço direito, 4 cm proximal ao epicôndilo medial". Essa frase tem lado, região, profundidade, direção e ponto fixo. Ela serve para exame físico, imagem e discussão com outro profissional.
+
+---
+
+## Movimentos: descreva direção, não chute nome
+
+Movimento anatômico sempre compara uma posição inicial com uma direção. **Flexão** reduz o ângulo; **extensão** aumenta. **Abdução** afasta da linha média; **adução** aproxima. No antebraço, **supinação** deixa a palma para cima; **pronação** deixa a palma para baixo.
+
+No tornozelo, a linguagem muda: **dorsiflexão** aproxima o dorso do pé da perna, como tirar o pé do acelerador; **flexão plantar** aponta a planta para baixo, como pisar no acelerador.
+
+A circundução não é um movimento isolado. Ela combina flexão, abdução, extensão e adução em sequência, formando um cone. Essa é uma pegadinha simples, mas recorrente.
+
+---
+
+## Marcos de superfície e descrição clínica
+
+A anatomia começa a ficar útil quando você usa marcos fixos. **Acrômio**, **olécrano**, **crista ilíaca**, **patela**, **maléolos** e **fossa poplítea** são pontos que ajudam a localizar lesões, orientar exame físico e evitar descrições vagas.
+
+Compare "machucado na perna" com "escoriação superficial na face lateral da perna direita, terço proximal, 5 cm distal à cabeça da fíbula". A segunda frase permite que outra pessoa encontre a lesão.
+
+Na peça anatômica, a mesma regra vale: primeiro identifique o lado do corpo, depois o plano, depois a relação entre estruturas. Não comece pela sua visão de observador.
 
 ---
 
 ## Ponte com a Clínica
 
-Ao relatar uma queda em telemedicina ou em um prontuário, a precisão economiza tempo e evita erros de conduta. Dizer "ralou o braço" é vago. Dizer **"escoriação em face lateral do antebraço, 3 cm distal ao cotovelo"** é ciência. Isso permite que qualquer outro colega saiba exatamente onde está a lesão sem precisar ver o paciente.
+Um pedido de imagem, um relatório cirúrgico ou uma evolução de trauma dependem dessa linguagem. "Dor no joelho" é pobre. "Dor na face medial do joelho direito, superficial ao trajeto do ligamento colateral medial" já orienta exame físico e hipótese.
+
+Essa aula parece básica, mas sustenta todo o módulo. Quando você errar medial/lateral ou proximal/distal, vai errar anatomia de membro, semiologia, imagem e até procedimento.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Posição Anatômica**: Palmas **Sempre** para frente.
-- **Sagital Mediano**: Divide em duas metades **Exatas**.
-- **Termos de Membros**: Sempre use **Proximal/Distal**; nunca use superior/inferior para o braço na anatomia.
-- **Circundução**: É a união de **todos os movimentos** em um cone (ombro).
-- **Decúbitos**: **Dorsal** (olha pro teto) vs **Ventral** (olha pro chão).
+- **Posição anatômica:** em pé, olhar para frente e **palmas para frente**.
+- **Direita/esquerda:** sempre do **paciente ou cadáver**, não do observador.
+- **Plano sagital:** divide em direita e esquerda; o mediano passa na linha média.
+- **Plano coronal:** divide em anterior e posterior.
+- **Plano axial:** divide em superior e inferior; é a "fatia" da TC.
+- **Medial/lateral:** referência é a linha média.
+- **Proximal/distal:** referência é a raiz do membro.
+- **Superficial/profundo:** referência é a pele.
+- **Flexão/extensão:** reduz ou aumenta ângulo.
+- **Abdução/adução:** afasta ou aproxima da linha média.
+- **Supinação/pronação:** palma para cima ou para baixo.
+- **Circundução:** combinação de movimentos, não movimento puro isolado.
+
+## Mini Quiz
+
+1. **Na posição anatômica padrão, como ficam as palmas das mãos?**
+   - [ ] Voltadas para trás.
+   - [x] Voltadas para frente.
+   - [ ] Voltadas medialmente.
+   - [ ] Cruzadas sobre o abdome.
+   > **Explicação:** A referência universal usa as palmas voltadas para frente; isso fixa medial/lateral no membro superior.
+
+2. **Qual plano divide o corpo em porções anterior e posterior?**
+   - [ ] Sagital.
+   - [ ] Axial.
+   - [x] Coronal.
+   - [ ] Transversal.
+   > **Explicação:** O plano coronal, ou frontal, separa frente e trás.
+
+3. **Uma estrutura mais próxima da raiz do membro é descrita como:**
+   - [x] Proximal.
+   - [ ] Distal.
+   - [ ] Lateral.
+   - [ ] Superficial.
+   > **Explicação:** Proximal indica proximidade com a origem do membro, como ombro ou quadril.
+
+4. **Afastar o braço da linha média do corpo é um movimento de:**
+   - [ ] Adução.
+   - [ ] Pronação.
+   - [ ] Extensão.
+   - [x] Abdução.
+   > **Explicação:** Abdução afasta da linha média; adução aproxima.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> Se a questão te mostrar peça, paciente ou imagem, volte primeiro para a **posição anatômica**. Ela é o norte.
 
 ### Síntese para a prova
 
-Para gabaritar a introdução, foque na **Palma da Mão**. Sem ela voltada para frente, toda a lateralidade do membro superior inverte. 
-**Sagital** = Lados. **Coronal** = Frente/Trás. **Axial** = Cima/Baixo.
+A ordem mental é: **posição**, **plano**, **termo direcional**, **movimento**. Posição anatômica fixa as palmas para frente e impede erro de direita/esquerda. Plano sagital separa lados, coronal separa frente/costas e axial separa andares superior/inferior.
 
-A Uninove adora o conceito de **Eixos**. Lembre-se: Movimentos de **Flexão/Extensão** ocorrem no **Eixo Transversal**. Outro ponto forte: **Abdução (Abrir)** vs **Adução (Aproximar/Adicionar)**. Por fim, saiba que a **Supinação** gira o rádio lateralmente para deixar a **palma para cima (suplicar)**. Se não souber descrever a posição, você não consegue nem começar a descrever uma patologia.
+Para localização, use a referência correta: **linha média** para medial/lateral, **pele** para superficial/profundo e **raiz do membro** para proximal/distal. Para movimento, decore os pares: flexão/extensão, abdução/adução e supinação/pronação.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|-------------------------|
-| **Plano Sagital** | **Plano Coronal** | Divide em **Lados** vs Divide em **Frente/Trás** |
-| **Medial** | **Proximal** | Perto do **Centro** vs Perto da **Raiz** do membro |
-| **Supinação** | **Pronação** | **Palma para Cima** vs **Palma para Baixo** |
-| **Dorsiflexão** | **Flexão Plantar** | **Pé para Cima** vs **Pé para Baixo** (Acelerar) |
-| **Ipsilateral** | **Contralateral** | No **Mesmo lado** vs No **Lado oposto** |
+| Conceito A | Conceito B | Diferencial crítico |
+|---|---|---|
+| **Sagital** | **Coronal** | direita/esquerda versus frente/costas |
+| **Medial** | **Proximal** | linha média versus raiz do membro |
+| **Abdução** | **Adução** | afasta versus aproxima |
+| **Supinação** | **Pronação** | palma para cima versus palma para baixo |
+
+### Erros que custam ponto
+
+- Usar a direita do observador no lugar da direita anatômica.
+- Esquecer que as palmas ficam voltadas para frente.
+- Trocar plano coronal por axial em imagem.
+- Usar proximal/distal sem referência de membro.
+- Chamar circundução de movimento puro isolado.
 
 ### Frase-âncora para não esquecer
 
-> **"A anatomia começa na palma da mão e termina na precisão do termo. O plano corta, o eixo gira e a posição anatômica é a lei que não vira. Se é proximal tá perto da raiz, se é distal tá longe do nariz (em membros). Localize, descreva e nunca mais erre o lado da cirurgia."**
+> **Palma para frente, plano antes do termo:** primeiro oriente o corpo, depois localize a estrutura.

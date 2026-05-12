@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Bioenergética e Termodinâmica do Metabolismo",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:39:09.904Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Bioenergética e Termodinâmica do Metabolismo",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Bioenergética e Termodinâmica do Metabolismo",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Bioenergética e Termodinâmica do Metabolismo",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Bioenergética e Termodinâmica do Metabolismo.",
+  "pontos_de_prova": [
+    "ΔG negativo favorece reação espontânea.",
+    "Enzima acelera reação, mas não muda ΔG final.",
+    "ATP acopla reação endergônica a processo exergônico.",
+    "NADH e FADH2 alimentam cadeia respiratória.",
+    "NADPH sustenta anabolismo e antioxidantes.",
+    "Oxigênio é aceptor final de elétrons.",
+    "Hipoxia aumenta dependência de glicólise anaeróbia.",
+    "Lactato regenera NAD+ quando a mitocôndria não dá conta.",
+    "Desacoplamento aumenta calor e reduz ATP útil.",
+    "Catabolismo libera energia; anabolismo consome energia."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

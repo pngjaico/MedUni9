@@ -3,17 +3,36 @@
   "materia": "semiologia1",
   "modulo": 1,
   "tema": "Testes de Mobilidade e Força Muscular",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "força, amplitude de movimento e exame neurolocomotor"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "mobilidade, força e interpretação funcional"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "testes especiais de joelho, ombro, punho e cotovelo"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre ADM ativa/passiva, escala MRC, pseudo-fraqueza, testes de joelho, ombro, punho e cotovelo, com ênfase em execução segura e interpretação integrada.",
+  "pontos_de_prova": [
+    "ADM ativa versus passiva",
+    "MRC 0-5",
+    "MRC 2 e 3",
+    "pseudo-fraqueza",
+    "Lachman",
+    "gaveta anterior",
+    "Jobe",
+    "Neer/Hawkins",
+    "Phalen/Tinel",
+    "Finkelstein",
+    "Cozen",
+    "artrite séptica e segurança"
+  ],
+  "observacoes": "Aula com spot técnico; imagens finais ficam para rodada posterior."
 }

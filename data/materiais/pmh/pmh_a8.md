@@ -1,114 +1,162 @@
-# PMH — Aula 8: Colesterol, Lipoproteínas e Homeostase Lipídica
+# PMH - Aula 8: Colesterol, Lipoproteínas e Homeostase Lipídica
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-O **Colesterol** é vital para as membranas, mas seu transporte define o risco de **Aterosclerose**. Domine a cascata das **Lipoproteínas** (**VLDL → LDL**) e o papel do **HDL** no transporte reverso. Entenda o uso das **Estatinas** (alvo: **HMG-CoA Redutase**) e como o **LDL Oxidado** inicia a formação da placa de gordura.
+Colesterol é estrutural, hormonal e biliar; o problema é transporte e excesso em contexto errado.
 
+A prova cobra quilomícron, VLDL, LDL, HDL, receptor de LDL e HMG-CoA redutase.
+
+Clinicamente, dislipidemia e aterosclerose exigem saber quem carrega triglicerídeo e quem entrega colesterol.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A8-F01`
+**Figura-ID:** PMH-A8-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Colesterol: síntese e regulação
-
-**HMG-CoA redutase** (ER) é **enzima limitante** da síntese — **inibida por** **estatina** e **regulada** por **concentração intracelular** de colesterol (feedback via **SREBP**).
-
-**Síntese** ocorre principalmente **fígado**; **depósito** periférico depende de **lipoproteínas**.
-
-> **Dica de Prova:** **Colesterol dietético** modula menos a homeostase que **síntese endógena** em muitos indivíduos — por isso **estatina** funciona mesmo com dieta.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Fluxo de lipoproteínas: quilomícron, VLDL, LDL e HDL entre intestino, fígado e tecidos.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Colesterol, Lipoproteínas e Homeostase Lipídica: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Lipoproteínas: função e densidade
+## 1. Colesterol
 
-- **Quilomícrons:** transportam **TG dietéticos** (intestino → tecidos).
-- **VLDL:** exporta **TG** hepáticos.
-- **LDL:** **colesterol** para tecidos periféricos — **receptor LDL (LDLR)** medeia captação.
-- **HDL:** **transporte reverso** — coleta colesterol periférico e retorna ao fígado (**SR-B1**, etc.).
+Colesterol compõe membranas, sais biliares e hormônios esteroides.
 
-> **Pegadinha:** **LDL “ruim”** não é toxina intrínseca — é **partícula** que, quando **oxidada** e em excesso, promove **aterogênese**.
+A síntese endógena passa por HMG-CoA redutase, alvo das estatinas.
 
----
-
-## Esterificação e transporte reverso
-
-**LECITHIN-CHOLESTEROL ACYLTRANSFERASE (LCAT)** esterifica colesterol no **HDL**. **CETP** transfere **ésteres** entre lipoproteínas — relevância em **fármacos** experimentais/terapêuticos.
+O fígado regula síntese, captação e excreção biliar.
 
 ---
 
-## Ácidos biliares
+## 2. Lipoproteínas
 
-**Colesterol** → **ácidos biliares** (fígado) → **excreção** fecal (parte) e **ciclo entero-hepático**. **Secuestrantes** de ácidos biliares aumentam **conversão** hepática de colesterol em **ácidos biliares** (↓ LDL).
+Quilomícrons transportam lipídios da dieta.
 
----
+VLDL leva triglicerídeos produzidos pelo fígado para tecidos.
 
-## LDL oxidado e inflamação vascular
-
-**Macrofagos** internalizam **LDL oxidado** → **células espumosas** → **ateroma**. **Estatinas** e **controle glicêmico** reduzem **estresse oxidativo** e **carga** de lipoproteínas aterogênicas — mecanismo **além** da simples queda numérica de LDL.
-
-O **microbioma** intestinal modula o **pool** de **ácidos biliares** e **sinalização** metabólica — área ativa de pesquisa em **cardiometabolismo**.
+LDL é mais rico em colesterol e entrega colesterol a tecidos.
 
 ---
 
-## Comparativo clínico rápido
+## 3. HDL e transporte reverso
 
-| Partícula | Carga Principal | Risco Clínico | "High-Yield" |
-|-----------|-----------------|---------------|--------------|
-| **Quilomícron**| **Triglicerídeos** (Dieta) | Pancreatite (se >1000) | Leva gordura ao tecido adiposo |
-| **VLDL** | **Triglicerídeos** (Fígado) | Esteatose Hepática | Exporta gordura endógena |
-| **LDL** | **Colesterol** | **Aterosclerose** | Entrega colesterol na periferia |
-| **HDL** | Proteína / Éster | **Cardioprotetor** | **Transporte Reverso** (Faxina) |
+HDL participa do transporte reverso do colesterol, recolhendo excesso periférico.
+
+ApoA-I e LCAT aparecem em níveis mais avançados, mas a ideia central é retorno ao fígado.
+
+HDL não é escudo absoluto; contexto inflamatório também importa.
 
 ---
 
+## 4. Receptores e aterosclerose
+
+Receptor de LDL remove LDL da circulação.
+
+Defeito no receptor aumenta LDL e risco aterosclerótico precoce.
+
+LDL oxidada em parede arterial alimenta inflamação e placa.
+
+> **Macete MedGradPlus:** Quilo vem da comida; VLDL vem do fígado; LDL entrega; HDL recolhe.
+
+> **Pegadinha de prova:** HDL alto não anula LDL muito alto ou risco inflamatório.
+
+---
+
+## Mapa mental da aula
+Siga o lipídio pelo trajeto: quilomícron leva gordura da dieta, VLDL sai do fígado, LDL entrega colesterol e HDL faz transporte reverso.
+
+Depois fixe o alvo farmacológico: estatina inibe **HMG-CoA redutase**, reduz síntese hepática de colesterol e aumenta captação de LDL.
+
+Feche com risco: LDL alto alimenta aterosclerose; HDL participa da retirada de colesterol dos tecidos, mas não anula risco sozinho.
 ## Ponte com a Clínica
+Painel lipídico vira raciocínio clínico quando você separa triglicerídeo, LDL, HDL e contexto de risco cardiovascular.
 
-**Paciente com LDL muito alto** e **xantomas** → pensar **FH** (defeito **LDLR**). **Hipertrigliceridemia severa** → risco de **pancreatite**. **Estatinas** reduzem síntese de colesterol; **ezetimiba** bloqueia **absorção intestinal** de colesterol. **PCSK9** aumenta degradação de **LDLR** — inibidores **mAbs** elevam captação de LDL.
+A prova costuma trocar lipoproteínas: quilomícron é dieta; LDL é entrega periférica; HDL é retorno ao fígado.
 
----
-
+A pegadinha é tratar estatina como remédio que 'dissolve placa'. O efeito central é reduzir síntese hepática e LDL circulante.
 ## Pontos-Chave para Prova
 
-- **HMG-CoA Redutase:** A enzima marcapasso da síntese de colesterol. Inibida por **Estatinas**.
-- **LDL Oxidado:** O verdadeiro vilão. Ativa a formação de **Células Espumosas** na parede arterial.
-- **HDL:** Esterifica o colesterol via **LCAT** para facilitar o transporte de volta ao fígado.
-- **Ezetimiba:** Bloqueia o transportador **NPC1L1**, reduzindo a absorção de colesterol no intestino.
-- **PCSK9:** Uma proteína que "come" receptores de LDL; inibi-la faz o fígado captar mais LDL do sangue.
+- **HMG-CoA** redutase é alvo das estatinas.
+- **Quilomícron** transporta lipídio dietético.
+- **VLDL** transporta triglicerídeo hepático.
+- **LDL** entrega colesterol aos tecidos.
+- **HDL** faz transporte reverso de colesterol.
+- **Receptor** de LDL reduz LDL plasmática.
+- **ApoB** ajuda reconhecer partículas aterogênicas.
+- **LDL** oxidada participa da placa.
+- **Fígado** regula colesterol por síntese e bile.
+- **Sais** biliares derivam de colesterol.
+
+---
+
+## Mini Quiz
+
+1. **Qual partícula carrega lipídios da dieta?**
+- [x] Quilomícron
+- [ ] LDL
+- [ ] HDL
+- [ ] Albumina
+> **Explicação:** Quilomícron carrega lipídios absorvidos no intestino, principalmente triglicerídeos da dieta.
+
+2. **Estatinas inibem:**
+- [ ] PFK-1
+- [x] HMG-CoA redutase
+- [ ] CPT-1
+- [ ] G6PD
+> **Explicação:** Estatinas inibem HMG-CoA redutase, etapa limitante da síntese hepática de colesterol.
+
+3. **LDL é mais associado a:**
+- [ ] transporte reverso
+- [ ] ureia
+- [x] entrega de colesterol
+- [ ] lactato
+> **Explicação:** LDL entrega colesterol para tecidos e se associa diretamente ao risco aterosclerótico quando elevado.
+
+4. **HDL participa de:**
+- [ ] cetogênese
+- [ ] glicogenólise
+- [ ] transaminação
+- [x] transporte reverso do colesterol
+> **Explicação:** HDL participa do transporte reverso, retirando colesterol de tecidos e levando ao fígado.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- Densidade **↑** → mais **proteína** por lipídeo (HDL/LDL nomenclatura clássica).
-- **Estatinas:** Devem ser tomadas à **noite**, pois a síntese de colesterol é maior durante o sono.
-- **Xantomas:** Sinal clínico de acúmulo de colesterol na pele, sugerindo **Hipercolesterolemia Familiar**.
-- **Ácidos Biliares:** O único caminho de **excreção** do colesterol.
-- **Apo B-100:** Proteína presente no VLDL e LDL; marcador de partículas **Aterogênicas**.
+Colesterol é estrutural, hormonal e biliar; o problema é transporte e excesso em contexto errado.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **VLDL** | **Quilomícron** | **Gordura do Fígado** vs **Gordura da Dieta** |
-| **Estatina** | **Ezetimiba** | **Bloqueia Síntese** (Fígado) vs **Bloqueia Absorção** (Intestino) |
-| **LDL** | **Apo B** | Partícula vs Proteína que "carimba" a partícula ruim |
-| **HDL** | **LCAT** | A partícula "faxineira" vs A enzima que ajuda na "faxina" |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **quilomícron** vs **VLDL** | dieta vs fígado |
+| **LDL** vs **HDL** | entrega vs recolhe colesterol |
+| **estatinas** vs **fibratos** | síntese de colesterol vs triglicerídeos |
+| **colesterol** vs **triglicerídeo** | membrana/hormônio vs reserva energética |
+
+### Figura sugerida
+
+Use a figura PMH-A8-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Partícula transporta lipídio; receptor decide onde o colesterol para.”
+> **Aterogênese começa quando transporte lipídico vira inflamação de parede.**

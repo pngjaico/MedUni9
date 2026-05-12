@@ -3,17 +3,36 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Generalidades do Sistema Esquelético",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Sistema esquelético: funções, classificação e ossos longos",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Gray's Anatomy for Students",
+      "capitulo": "Skeletal system and bone anatomy",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido ósseo e ossificação",
+      "paginas": "",
+      "relevancia": "apoio histológico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula fixa a linguagem inicial do sistema esquelético: funções, divisão axial/apendicular, classificação dos ossos, regiões do osso longo e modelos de ossificação.",
+  "pontos_de_prova": [
+    "funções do sistema esquelético",
+    "esqueleto axial versus apendicular",
+    "classificação morfológica dos ossos",
+    "diáfise, epífise, metáfise, fise e periósteo",
+    "osso compacto versus esponjoso",
+    "ossificação endocondral versus intramembranosa"
+  ],
+  "observacoes": "Material corrigido por curadoria aula a aula; imagem anatômica registrada para rodada posterior."
 }

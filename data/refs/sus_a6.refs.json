@@ -2,18 +2,37 @@
   "aula_id": "sus_a6",
   "materia": "sus",
   "modulo": 1,
-  "tema": "Pacto pela Gestão — RAS e Regionalização",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Pacto pela Gestão - RAS e Regionalização",
+  "revisado": true,
+  "revisado_em": "2026-05-11",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Decreto nº 7.508, de 28 de junho de 2011",
+      "capitulo": "Regiões de Saúde, portas de entrada, RENASES, RENAME, planejamento e articulação interfederativa",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Lei nº 8.080, de 19 de setembro de 1990",
+      "capitulo": "Organização, direção e gestão do SUS",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Ministério da Saúde - Diretrizes Operacionais dos Pactos pela Vida, em Defesa do SUS e de Gestão",
+      "capitulo": "Pacto de Gestão e regionalização",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula consolida a organização regional do SUS, RAS, Região de Saúde, pactuação intergestores, RENASES/RENAME e referência/contrarreferência como base da integralidade real.",
+  "pontos_de_prova": [
+    "RAS como rede articulada, não lista de serviços",
+    "Região de Saúde e seus componentes mínimos",
+    "Decreto 7.508/2011",
+    "RENASES versus RENAME",
+    "CIB versus CIT",
+    "Referência versus contrarreferência"
+  ],
+  "observacoes": "Financiamento macro e Pacto em Defesa do SUS ficam para sus_a7; esta aula prioriza fluxo regional e gestão da rede."
 }

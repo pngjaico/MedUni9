@@ -1,142 +1,142 @@
-# Semiologia 1 — Aula 8: prática real em ambulatório supervisionado
+# Semiologia 1 - Aula 8: Prática Real - Ambulatório Supervisionado
 
-## Relevância Clínica e Acadêmica
+**Disciplina:** Semiologia do Sistema Musculoesquelético  
+**Módulo:** 1 | **Referência principal:** consulta real supervisionada  
+**Tempo de estudo sugerido:** 15-20 min
 
-O **Ambulatório Supervisionado** é onde a teoria se torna decisão clínica. Para a prova, entenda que a **Indicação de Imagem** deve ser baseada em dúvidas reais, não em rotina. Na clínica, a prioridade absoluta é a triagem de **Red Flags**; um paciente com dor lombar sem sinais de alarme pode e deve ser tratado inicialmente de forma **conservadora**. Domine a arte de documentar achados **Objetivos** para garantir a continuidade do cuidado.
+---
 
-### Figura sugerida
+## Relevância clínica e acadêmica
 
-**Figura-ID:** `SEMIO1-A8-F01`
+O ambulatório supervisionado é a transição entre estação simulada e paciente real. Aqui, o aluno precisa unir vínculo, tempo curto, hipótese, exame focal, segurança e registro.
 
-- **Momento:** após a seção de relevância da prática ambulatorial.
-- **O que mostrar:** aluno e preceptor avaliando paciente com queixa de dor no joelho, com postura de exame e comunicação ativa.
-- **Tipo sugerido:** foto de propedêutica.
-- **Legenda (rascunho):** "No ambulatório, técnica semiológica e vínculo terapêutico acontecem ao mesmo tempo."
-- **Notas (opcional):** privilegiar cena com contexto realista de consulta supervisionada.
-
-## Estrutura operacional da consulta musculoesquelética (15 a 20 minutos)
-
-No ambulatório, o exame eficiente não é exame apressado.
-É exame com objetivo claro, sequência enxuta e registro adequado.
-
-| Etapa | Objetivo prático | Erro comum | Conduta esperada |
-|------|-------------------|------------|------------------|
-| **Acolhimento** | Definir queixa principal e impacto funcional | Interromper relato cedo demais | Ouvir primeiro, organizar depois |
-| **História dirigida** | Caracterizar dor, mecanismo, tempo e **sinais de alarme** | Fazer perguntas soltas sem hierarquia | Usar roteiro clínico consistente |
-| **Exame físico focal** | Confirmar ou refutar hipóteses iniciais | Pular inspeção e ir direto ao teste especial | **Inspeção -> palpação -> mobilidade -> testes** |
-| **Plano inicial** | Definir tratamento, exame complementar e retorno | Prescrever sem explicar critério de evolução | Explicar objetivos e sinais de piora |
-| **Registro** | Garantir continuidade do cuidado | Evolução vaga e não mensurável | Documentar **achados objetivos** |
-
-> **Dica de Prova:** Em questão prática, descreva primeiro o objetivo da consulta ("confirmar hipótese e excluir gravidade"), depois o passo a passo do exame.
-
-> **Pegadinha:** Solicitar imagem apenas porque "o paciente pediu". A banca costuma cobrar indicação clínica e custo-benefício.
-
-## Segurança, ética e conforto do paciente
-
-A consulta musculoesquelética exige exposição corporal seletiva.
-Expor apenas a área necessária, manter privacidade e explicar cada manobra
-são atitudes clínicas e éticas que podem mudar adesão ao tratamento.
-
-Se a dor aumentar de forma importante durante o exame, **interrompa, reposicione, adapte técnica** e registre o motivo. Isso demonstra julgamento clínico e respeito ao paciente.
-
-A **checagem neurovascular** deve ser lembrada sempre que houver trauma, manobra de estresse articular ou queixa neurológica associada.
-
-## Quando pedir exame de imagem no ambulatório
-
-Pedir exame não substitui exame físico bem feito.
-A imagem deve responder uma pergunta clínica objetiva.
-
-| Cenário Clínico | Exame de Escolha | Justificativa "High-Yield" |
-|-----------------|------------------|-----------------------------|
-| **Trauma Agudo** | **Radiografia** (RX) | Avaliar **Fraturas** e Luxações |
-| **Instabilidade** | **Ressonância** (RM)| Avaliar **Ligamentos** e Meniscos |
-| **Deficit Motor** | **RM de Coluna** | Urgência para excluir **Compressão**|
-| **Lombalgia Comum**| **Nenhum** (Inicial) | Tratar Red Flags e reavaliar |
-| **Suspeita Gota** | **Punção Articular** | Padrão-ouro (**Cristais**) |
+Na prova e na prática, o erro comum é pedir exame para compensar consulta mal estruturada. No locomotor, imagem só deve responder pergunta clínica. Antes dela, é preciso excluir red flags, medir função, examinar com objetivo e registrar achados observáveis.
 
 ### Figura sugerida
 
-**Figura-ID:** `SEMIO1-A8-F02`
+**Figura-ID:** SEMIO1-A8-F01  
+**Momento:** após esta abertura.  
+**O que mostrar:** aluno e preceptor avaliando joelho/ombro com comunicação ativa e checklist discreto.  
+**Tipo sugerido:** foto contextual ou ilustração didática.  
+**Legenda:** "Ambulatório supervisionado: técnica, vínculo e decisão no mesmo encontro."  
 
-- **Momento:** após a tabela de indicação de imagem.
-- **O que mostrar:** fluxograma simples de decisão ("red flags?" -> "imagem/urgência" ou "conduta conservadora e reavaliação").
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Imagem deve responder hipótese clínica, não substituir raciocínio."
-- **Notas (opcional):** usar poucos nós, leitura vertical, foco em decisão prática.
+**Figura-ID:** SEMIO1-A8-F02  
+**Momento:** após a seção de estrutura da consulta.  
+**O que mostrar:** fluxo da consulta: queixa -> red flags -> exame focal -> decisão de imagem -> plano/retorno -> SOAP.  
+**Tipo sugerido:** fluxograma mobile-first.  
+**Legenda:** "Consulta locomotora objetiva: do sintoma ao plano rastreável."  
 
-## Erros de início de ambulatório e como corrigir
+---
 
-Os erros mais frequentes no começo da prática são previsíveis e corrigíveis.
-O primeiro é confundir rapidez com eficiência.
-O segundo é fechar diagnóstico cedo demais sem colher dados suficientes.
-O terceiro é terminar consulta sem combinar critérios objetivos de retorno.
+## 1. Estrutura mínima da consulta real
 
-Uma forma simples de reduzir esses erros é usar fechamento obrigatório em três pontos:
-- hipótese principal;
-- conduta imediata;
-- sinal de alarme para retorno antecipado.
+Consulta real não é OSCE com paciente de verdade. Há ansiedade, tempo, múltiplas queixas, expectativa de exame, medo de diagnóstico e necessidade de retorno.
 
-## Relação médico-paciente e agenda terapêutica
+O roteiro mínimo é: acolher, definir queixa principal, buscar red flags, caracterizar dor/função, fazer exame focal, explicar hipótese, pactuar plano e registrar.
 
-Perguntar o que o paciente espera da consulta muda a qualidade da conduta.
-Alguns querem alívio da dor; outros querem atestado; outros temem doença grave.
-Quando essa expectativa não é discutida, aumenta a chance de conflito e baixa adesão.
+| Etapa | Pergunta prática | Erro comum |
+|---|---|---|
+| **Acolhimento** | O que mais limita hoje? | Interromper cedo demais |
+| **Triagem de risco** | Há febre, trauma, déficit, perda de peso, esfíncter? | Tratar tudo como dor comum |
+| **Exame focal** | O achado confirma ou enfraquece a hipótese? | Teste especial automático |
+| **Plano** | O que fazer, quando voltar e quando procurar urgência? | Prescrever sem orientação |
 
-No aparelho locomotor, educação em dor e movimento é parte do tratamento.
-Explicar por que manter mobilidade progressiva pode ser mais eficaz
-do que repouso absoluto melhora prognóstico funcional em muitos casos.
+**Macete MedGradPlus:** ambulatório bom termina com três coisas claras: **hipótese**, **conduta** e **sinal de retorno/alarme**.
 
-## Feedback do preceptor: como transformar correção em desempenho
+## 2. Imagem e exame complementar: pergunta antes do pedido
 
-Feedback supervisionado não é crítica pessoal.
-É ferramenta para reduzir erro repetitivo.
-Perguntas de alto valor após consulta:
-"qual dado da história eu deveria ter explorado melhor?" e
-"qual teste físico teria maior impacto para diferenciar minhas hipóteses?".
+Imagem deve responder dúvida que muda conduta. Dor lombar sem red flags, com exame neurológico normal, geralmente não precisa de imagem inicial. Trauma, suspeita de fratura, déficit progressivo, infecção, tumor ou falha de evolução mudam a conversa.
 
-Registrar essas respostas e aplicar na próxima consulta
-acelera a curva de aprendizado clínico.
+No ambulatório, o preceptor frequentemente pergunta: "este exame vai mudar o que você fará?". Se a resposta for não, o pedido provavelmente é fraco.
+
+**Pegadinha de prova:** "o paciente pediu ressonância" não é indicação. A indicação nasce de hipótese, gravidade, tempo de evolução, exame e impacto no plano.
+
+## 3. SOAP e registro objetivo
+
+O registro precisa permitir continuidade do cuidado. SOAP ajuda a separar fala do paciente, achados do examinador, interpretação e plano.
+
+| Letra | Significado | Exemplo no locomotor |
+|---|---|---|
+| **S** | Subjetivo | dor, tempo, impacto funcional, red flags negadas |
+| **O** | Objetivo | inspeção, palpação, ADM, força, testes, neurovascular |
+| **A** | Avaliação | hipótese principal e diferenciais relevantes |
+| **P** | Plano | analgesia, exercício, imagem se indicada, retorno e alarme |
+
+Registro ruim diz "joelho doloroso". Registro útil diz "dor medial há 3 semanas, sem febre/trauma, ADM preservada, dor em linha articular medial, marcha sem claudicação, plano de analgesia, exercício e retorno".
+
+## 4. Segurança, ética e supervisão
+
+Paciente real exige consentimento, privacidade e exposição mínima. Em dor intensa, pare, explique e adapte. Se houver dúvida sobre red flag, não esconda: comunique ao preceptor.
+
+Pé diabético é exemplo clássico: úlcera plantar indolor não é tranquilizadora; pode significar neuropatia e perda de sensibilidade protetora. A ausência de dor pode aumentar, não reduzir, o risco.
+
+História ocupacional e lazer entram porque mudam carga, biomecânica e adesão. Profissão, esporte e atividades domésticas explicam dor e definem metas funcionais realistas.
 
 ## Ponte com a Clínica
 
-Na vida real, a maior parte das queixas musculoesqueléticas no ambulatório não exige conduta de alta complexidade imediata, mas exige boa triagem de gravidade. Quem aprende a reconhecer red flags, orientar conduta conservadora quando apropriado e definir reavaliação segura evita tanto subdiagnóstico quanto excesso de exames.
+Um paciente com osteoartrite de joelho que não consegue limpar a casa precisa de plano funcional, não apenas comprimido. Exercício, fortalecimento, perda ponderal quando aplicável, educação e retorno programado são parte da conduta.
 
-Por isso, o ambulatório supervisionado é mais do que "treino de exame".
-Ele ensina medicina centrada em decisão clínica progressiva:
-avaliar, intervir, reavaliar e ajustar.
-
----
+Um paciente com dor difusa e exames normais repetidos precisa de reavaliação clínica, sono, humor, função e sinais objetivos. Pedir nova imagem sem pergunta tende a reforçar ciclo de ansiedade.
 
 ## Pontos-Chave para Prova
 
-- **Triagem de Risco:** Não peça exame de imagem para pacientes sem **Red Flags** no primeiro mês de sintomas.
-- **Registro Clínico:** "Dor no joelho" não vale nada. "Dor em **Interlinha Medial**" direciona a cirurgia.
-- **Comunicação:** Sempre explique que a **Fisioterapia** é tratamento ativo, não apenas passivo.
-- **Eficiência:** Foque o exame na queixa. Se o problema é no pé, não precisa de testes de ombro.
-- **Custo-Benefício:** O **RX** é ótimo para osso; a **RM** é para o que o RX não vê (ligamento/menisco).
+- **Ambulatório supervisionado** integra técnica, vínculo, tempo e decisão.
+- **Red flags** vêm antes de pedir imagem.
+- **Imagem só vale** se responder pergunta que muda conduta.
+- **SOAP O** é objetivo: exame físico, sinais e dados mensuráveis.
+- **Profissão e lazer** explicam carga, sobrecarga e meta funcional.
+- **Osteoartrite de joelho** precisa de exercício, fortalecimento e educação.
+- **Dor difusa com exames normais** pede abordagem clínica ampla, não cascata de imagem.
+- **Pé diabético com úlcera indolor** sugere neuropatia e risco.
+- **Consentimento e privacidade** valem no ambulatório real.
+- **Dúvida com red flag** deve ser comunicada ao preceptor.
+- **Plano bom** inclui retorno e sinais de alarme.
+- **Registro objetivo** sustenta continuidade do cuidado.
 
----
+## Mini Quiz
+
+1. **No SOAP, a letra O representa:**
+- [x] Dados objetivos, como exame físico e achados mensuráveis.
+- [ ] Opinião do paciente sobre o diagnóstico.
+- [ ] Orientação sem plano.
+- [ ] Ordem cronológica livre da consulta.
+> **Explicação:** O é objetivo: inspeção, palpação, ADM, força, testes e dados observáveis.
+
+2. **Dor lombar sem red flags e exame neurológico normal, no início do quadro, geralmente pede:**
+- [ ] Ressonância imediata por rotina.
+- [x] Manejo conservador e orientação, com retorno e sinais de alarme.
+- [ ] Cirurgia preventiva.
+- [ ] Punção articular.
+> **Explicação:** Sem sinais de gravidade, imagem inicial não costuma mudar conduta.
+
+3. **Úlcera plantar indolor em pé diabético sugere:**
+- [ ] Quadro benigno por ausência de dor.
+- [ ] Lesão exclusiva de LCA.
+- [x] Neuropatia/perda de sensibilidade protetora e risco elevado.
+- [ ] Dactilite por espondiloartrite.
+> **Explicação:** A ausência de dor pode indicar neuropatia e aumentar risco de lesão grave.
+
+4. **Exame complementar ambulatorial deve ser pedido quando:**
+- [ ] O paciente pede, independentemente da hipótese.
+- [ ] O aluno não conseguiu examinar.
+- [ ] Sempre que houver qualquer dor.
+- [x] Responde pergunta clínica que pode mudar a conduta.
+> **Explicação:** Exame sem impacto no plano tende a gerar custo, ansiedade e ruído.
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
 ### Síntese para a prova
 
-No ambulatório supervisionado, o foco da avaliação acadêmica é mostrar raciocínio clínico organizado. Isso significa estruturar a consulta em etapas claras: acolher, definir problema, examinar com método, propor plano e registrar de forma útil. O aluno que apenas "fala diagnóstico" sem demonstrar processo tende a perder pontos.
+No ambulatório supervisionado, organize a consulta em risco, função, exame focal, plano e registro. Peça imagem com pergunta clínica. Documente em SOAP. Comunique dúvida ao preceptor, principalmente diante de red flags.
 
-- **Urgência:** Monoartrite aguda com febre é **Internação** e **Punção**.
-- **Expectativa:** Pergunte ao paciente: "O que o senhor(a) acha que tem?". Isso evita conflito ético.
-- **Red Flags Cardinais:** Perda de peso, **Sudorese Noturna**, Dor que não cede ao repouso.
-- **Follow-up:** Sempre marque o retorno. Tratamento sem reavaliação é conduta incompleta.
+O aluno forte mostra julgamento: sabe quando examinar, quando parar, quando pedir ajuda e quando não pedir exame.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Raio-X** | **Ressonância** | Busca por **Osso** vs Busca por **Partes Moles** |
-| **Conservador** | **Cirúrgico** | Analgesia/Fisio vs Falha de tratamento/Grave |
-| **Red Flag** | **Yellow Flag** | Risco de vida/sequela vs Risco de **Cronicidade** |
-| **Subclínico** | **Sintomático** | Achado de imagem vs O que o paciente sente |
+### Diferenciações
 
-### Frase-âncora para não esquecer
-
-> "No ambulatório, decidir bem vale mais do que pedir muito."
+| Diferenciar | Primeiro | Segundo |
+|---|---|---|
+| **SOAP S vs O** | Relato do paciente | Achados objetivos do exame |
+| **Imagem indicada vs automática** | Muda conduta | Só atende ansiedade/rotina |
+| **Plano forte vs fraco** | Conduta, retorno e alarme | Prescrição sem orientação |
+| **Dor difusa vs sinovite** | Função, sono, exame normal | Edema/calor articular objetivo |
+| **Úlcera indolor benigna vs neuropática** | Não é inferência segura | Perda sensitiva aumenta risco |

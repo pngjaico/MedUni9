@@ -1,109 +1,174 @@
-# SUS — Aula 1: Processo saúde-doença e determinantes sociais da saúde
+# SUS - Aula 1: Processo Saúde-Doença e Determinantes Sociais
 
 **Disciplina:** Princípios e Diretrizes do SUS  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** Saúde coletiva, DSS e níveis de prevenção  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-A saúde não é apenas a ausência de doença; é o resultado do **Modo de Vida**. Para a prova, domine a diferença entre os níveis de **Prevenção** (Primária, Secundária e Terciária) e como os **Determinantes Sociais** (renda, moradia, saneamento) moldam a saúde da população. Na clínica, entender a **Equidade** é o segredo para tratar pacientes com realidades diferentes sem oferecer a mesma conduta genérica para todos.
+Esta é a base conceitual do SUS: saúde não é só ausência de doença, e doença não nasce apenas no corpo. Renda, moradia, saneamento, trabalho, escolaridade, transporte, gênero, raça e rede de apoio mudam risco, acesso e desfecho.
+
+Para prova, a cobrança costuma girar em três blocos: **conceito ampliado de saúde**, **determinantes sociais** e **níveis de prevenção**. A pegadinha é confundir rastreamento com prevenção primária, ou tratar equidade como privilégio.
+
+Na prática, a aula explica por que duas pessoas com o mesmo diagnóstico podem precisar de planos diferentes. O SUS é universal, mas a forma de organizar cuidado precisa reconhecer desigualdades.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `SUS-A1-F01`
+**Figura-ID:** SUS-A1-F01
 
-- **Momento:** após a definição de processo saúde-doença.
-- **O que mostrar:** esquema em camadas com indivíduo no centro e determinantes proximais, intermediários e estruturais ao redor.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** DSS em camadas: do contexto estrutural ao risco individual.
-
-### Figura sugerida
-
-**Figura-ID:** `SUS-A1-F02`
-
-- **Momento:** após a tabela de níveis de prevenção.
-- **O que mostrar:** linha contínua da história natural da doença com pontos de intervenção primária, secundária e terciária.
-- **Tipo sugerido:** infográfico.
-- **Legenda (rascunho):** Onde cada nível de prevenção atua no tempo do adoecimento.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** camadas dos determinantes sociais, com indivíduo no centro, estilo de vida, redes, condições de vida/trabalho e macrodeterminantes.
+- **Tipo sugerido:** esquema didático inspirado em Dahlgren e Whitehead, sem copiar figura licenciada.
+- **Legenda:** Determinantes sociais em camadas: do risco individual às condições estruturais.
 
 ---
 
-## Conceito ampliado de saúde e processo saúde-doença
+## 1. Processo saúde-doença: visão dinâmica
 
-No referencial clássico da OMS e na tradição da Reforma Sanitária brasileira, saúde é mais do que ausência de doença: envolve bem-estar físico, mental e social, com capacidade funcional e autonomia para viver no território. Isso não significa ideal inalcançável de perfeição, mas uma abordagem ampla para cuidado, prevenção e promoção da saúde.
+O processo saúde-doença é uma trajetória. A pessoa passa por risco, exposição, alterações iniciais, doença manifesta, possível sequela e recuperação parcial ou plena. A intervenção em saúde tenta mudar essa trajetória.
 
-O processo saúde-doença é dinâmico. Uma pessoa transita por estados de risco, agravos subclínicos, doença manifesta, possíveis sequelas e recuperação parcial ou plena. Fatores protetores e fatores de risco atuam o tempo todo, o que exige raciocínio clínico integrado com vigilância e ações intersetoriais.
+O conceito ampliado de saúde rompe com a ideia de que basta não ter diagnóstico. Bem-estar físico, mental e social, autonomia e capacidade de viver no território entram na análise. Isso não significa exigir perfeição; significa olhar para necessidades reais.
 
-> **Dica de Prova:** Se o enunciado discutir **risco antes de sintomas**, pense em **prevenção primária**; se discutir **rastreio em assintomático**, pense em **prevenção secundária**.
+Na APS, essa visão evita a conduta rasa. Um hipertenso sem dinheiro para transporte, uma gestante sem saneamento e um idoso isolado não são apenas casos clínicos individuais: são expressões de condições sociais que entram no cuidado.
 
-> **Pegadinha:** Tratar **prevenção secundária** como sinônimo de tratamento. Secundária é **detecção precoce** em população-alvo; tratamento já integra linha de cuidado após diagnóstico.
-
-### História natural da doença e prevenção
-
-| Nível de Prevenção | Momento da Intervenção | Exemplo de Prova |
-|--------------------|------------------------|-------------------|
-| **Primária** | Antes da doença (Risco) | **Vacinação** / Camisinha |
-| **Secundária** | Doença Assintomática | **Papanicolau** / Mamografia |
-| **Terciária** | Doença Manifesta | **Reabilitação** (Fisio pós-AVC) |
-| **Quaternária** | Risco de Iatrogenia | Evitar exames desnecessários |
-
-> **Gatilho de Prova:** Se a questão fala em "evitar que a doença ocorra", é **Primária**. Se fala em "descobrir cedo/rastreio", é **Secundária**.
+> **Pegadinha de prova:** conceito ampliado de saúde não nega biologia. Ele soma biologia, contexto social e organização do cuidado.
 
 ---
 
-## Determinantes sociais da saúde: base normativa e implicações
+## 2. História natural e níveis de prevenção
 
-A Comissão Nacional sobre Determinantes Sociais da Saúde (CNDSS) e a literatura de Saúde Coletiva reforçam que saúde é produzida socialmente. Condições de renda, escolaridade, emprego, segurança alimentar, saneamento, transporte e ambiente urbano moldam exposição a riscos e capacidade de cuidado.
+A história natural da doença ajuda a localizar o momento da intervenção. Antes da doença, a estratégia tenta reduzir risco. Na fase subclínica, tenta detectar cedo. Depois da doença instalada, tenta tratar, reabilitar e reduzir dano.
 
-No campo normativo brasileiro, o princípio da equidade obriga reconhecer necessidades distintas. Isso tem tradução prática: flexibilizar horários de atendimento, articular cuidado com assistência social, priorizar busca ativa de grupos vulneráveis e organizar linhas de cuidado com maior apoio para quem enfrenta barreiras estruturais.
+**Prevenção primária** atua antes do agravo: vacinação, preservativo, controle de vetores, atividade física, alimentação adequada, segurança no trânsito. **Prevenção secundária** detecta precocemente: Papanicolau, mamografia indicada, teste de triagem em população-alvo.
 
-A Constituição Federal de 1988 estabelece saúde como direito de todos e dever do Estado, a ser garantido por políticas sociais e econômicas. Portanto, DSS não são detalhe periférico; são núcleo do dever público de reduzir risco de doença e garantir acesso universal e igualitário às ações e serviços.
+**Prevenção terciária** reduz incapacidade e complicação após doença manifesta, como reabilitação pós-AVC. **Prevenção quaternária** evita excesso de intervenção, exames sem benefício e iatrogenia.
 
-### Determinantes e exemplos clínicos no território
+| Nível | Momento | Exemplo típico |
+|---|---|---|
+| **Primária** | antes da doença | vacina, preservativo, controle de risco |
+| **Secundária** | doença assintomática ou inicial | rastreamento e diagnóstico precoce |
+| **Terciária** | doença instalada | reabilitação e prevenção de incapacidade |
+| **Quaternária** | risco de excesso médico | evitar exame ou tratamento sem benefício |
 
-| Determinante Social (DSS) | Impacto na Saúde |
-|---------------------------|-------------------|
-| **Saneamento Básico** | Doenças infectocontagiosas (Diarreia)|
-| **Renda/Emprego** | Acesso a alimentos e medicações |
-| **Escolaridade** | Compreensão da terapia e autocuidado |
-| **Moradia** | Exposição a vetores e aglomeração |
-
-A **Equidade** é dar mais a quem precisa de mais. Se um paciente mora longe e não tem dinheiro para o ônibus, a unidade deve priorizar sua consulta ou realizar **Visita Domiciliar**. Isso não é privilégio, é justiça social.
+> **Macete MedGradPlus:** primária evita aparecer; secundária acha cedo; terciária reduz dano; quaternária evita exagero.
 
 ---
 
-## Especificidade histórica do tema no SUS
+## 3. Determinantes sociais da saúde
 
-A transição do modelo previdenciário segmentado para o SUS universal reposicionou o entendimento de doença no Brasil. Antes, parte relevante da população dependia de vínculo formal de trabalho para acessar assistência regular. Com a Reforma Sanitária, consolidou-se a noção de cidadania sanitária: o direito à saúde independe de contribuição previdenciária individual.
+Determinantes sociais são condições em que pessoas nascem, crescem, vivem, trabalham e envelhecem. Eles moldam exposição a risco e capacidade de buscar cuidado.
 
-Esse deslocamento histórico é central para prova: quando a questão compara igualdade e equidade, ela cobra justamente a mudança de paradigma de um sistema excludente para uma política pública universal orientada por necessidades de saúde.
+No modelo em camadas, fatores individuais ficam mais próximos da pessoa; estilo de vida e redes sociais vêm depois; condições de vida e trabalho ocupam camada intermediária; e fatores estruturais, como economia, políticas públicas e desigualdade, ficam mais externos.
+
+Saneamento precário aumenta diarreia, dengue e leptospirose. Baixa escolaridade dificulta compreensão terapêutica. Trabalho informal reduz disponibilidade para consulta. Moradia ruim aumenta exposição a vetores, frio, umidade e violência.
+
+Esses fatores não servem para desculpar tudo; servem para planejar melhor. A equipe que reconhece DSS consegue fazer busca ativa, ajustar horário, articular assistência social e priorizar risco.
+
+---
+
+## 4. Vulnerabilidade, equidade e justiça sanitária
+
+Vulnerabilidade amplia a ideia antiga de grupo de risco. Ela considera dimensões individual, social e programática. Uma pessoa pode conhecer o risco, mas não conseguir se proteger por falta de renda, rede, acesso ou serviço organizado.
+
+Equidade é a resposta ética e organizacional a essa desigualdade. Igualdade seria oferecer a mesma coisa para todos. Equidade é oferecer mais apoio a quem enfrenta mais barreiras para chegar ao mesmo direito.
+
+No SUS, isso aparece quando a equipe prioriza visita domiciliar para acamado, busca ativa de gestante faltosa, transporte sanitário quando indicado ou agenda adaptada para trabalhador que perderia renda se faltasse ao serviço.
+
+| Conceito | Ideia central | Erro comum |
+|---|---|---|
+| **Universalidade** | todos têm direito | achar que basta abrir a porta |
+| **Igualdade** | mesma oferta para todos | ignorar desigualdade real |
+| **Equidade** | mais apoio a quem precisa mais | chamar justiça de privilégio |
+| **Vulnerabilidade** | risco produzido por contexto | reduzir tudo a escolha individual |
+
+---
+
+## 5. Promoção, proteção e cuidado no território
+
+Promoção da saúde atua sobre condições que produzem saúde: praça segura, alimentação adequada, escola, renda, mobilidade, cultura, lazer e saneamento. Proteção atua sobre riscos específicos, como vacina, EPI, controle vetorial ou preservativo.
+
+Na prática, as duas se misturam. Vacinar é proteção específica; melhorar saneamento, alimentação escolar e mobilidade segura é promoção de saúde. A APS precisa reconhecer essa diferença para não reduzir prevenção a campanha pontual.
+
+A clínica continua importante. O ponto é integrar diagnóstico, tratamento, prevenção e ação territorial. Uma prescrição tecnicamente correta pode falhar se o plano ignora renda, alfabetização, transporte, trabalho e rede de apoio.
 
 ---
 
 ## Ponte com a Clínica
 
-Em ambulatório de APS, um paciente hipertenso faltoso pode não ser “não aderente” por escolha, mas por barreira de transporte, trabalho informal e ausência de apoio familiar para cuidado contínuo. A conduta tecnicamente correta inclui prescrição apropriada, mas também ajuste de plano terapêutico à realidade social, coordenação com equipe multiprofissional e acompanhamento longitudinal no território.
+Uma gestante inicia pré-natal tarde porque trabalha sem vínculo formal, mora longe da UBS e não tem dinheiro para transporte. Chamar isso de "falta de adesão" é análise pobre.
 
-Na prática, isso reduz risco cardiovascular de modo mais efetivo do que repetir orientações descontextualizadas. Em prova, o melhor item costuma ser o que combina clínica com organização de rede e abordagem de DSS.
+A leitura pelo SUS pergunta: quais DSS explicam a trajetória? Qual barreira programática o serviço pode reduzir? A equipe pode ajustar agenda, acionar ACS, articular transporte, incluir assistência social e priorizar acompanhamento.
+
+Essa é a diferença entre atendimento biomédico isolado e cuidado orientado por território, equidade e determinantes sociais.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Promoção da Saúde:** Foca nos determinantes (ex: criar ciclovias, praças).
-- **Proteção da Saúde:** Foca em riscos específicos (ex: vacinar contra Influenza).
-- **História Natural da Doença:** Curso da doença sem intervenção médica.
-- **Determinantes Intermediários:** Estilo de vida e condições de trabalho.
-- **Determinantes Estruturais:** Política, economia e estratificação social.
+- **Saúde ampliada** inclui dimensões física, mental, social, autonomia e contexto.
+- **Processo saúde-doença** é dinâmico, com risco, exposição, agravo, sequela e recuperação.
+- **Prevenção primária** atua antes da doença.
+- **Prevenção secundária** é rastreamento ou diagnóstico precoce.
+- **Prevenção terciária** reduz incapacidade e complicação.
+- **Prevenção quaternária** evita iatrogenia e excesso de intervenção.
+- **DSS** explicam como renda, saneamento, trabalho e moradia produzem risco.
+- **Vulnerabilidade** combina dimensão individual, social e programática.
+- **Equidade** é tratar desigualmente os desiguais para garantir direito real.
+- **Promoção** muda condições de vida; **proteção** atua sobre riscos específicos.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Igualdade** | **Equidade** | Mesmo para todos vs **Mais para quem precisa** |
-| **Primária** | **Secundária** | Evitar vs **Rastrear (Diagnóstico Precoce)** |
-| **Determinante** | **Condicionante** | Causa Social vs Fator Ambiental/Biológico|
-| **Universalidade** | **Equidade** | Todos têm direito vs **Tratar desigualdades** |
+---
 
-### Frase-âncora para não esquecer
+## Mini Quiz
 
-> "No SUS, clínica sem contexto social vira conduta incompleta."
+1. **Vacinação contra HPV antes de qualquer lesão é exemplo de:**
+- [x] Prevenção primária.
+- [ ] Prevenção secundária.
+- [ ] Prevenção terciária.
+- [ ] Prevenção quaternária.
+> **Explicação:** Prevenção primária atua antes da doença ou agravo, reduzindo risco de ocorrência.
+
+2. **Papanicolau em pessoa assintomática, dentro da população-alvo, é exemplo de:**
+- [ ] Prevenção primária.
+- [x] Prevenção secundária.
+- [ ] Prevenção terciária.
+- [ ] Promoção sem rastreamento.
+> **Explicação:** O objetivo é detectar precocemente alteração ainda sem sintomas.
+
+3. **Oferecer mais apoio a quem tem maior barreira de acesso expressa o princípio da:**
+- [ ] Igualdade formal.
+- [ ] Universalidade abstrata.
+- [x] Equidade.
+- [ ] Centralização.
+> **Explicação:** Equidade ajusta a oferta conforme necessidade para tornar o direito efetivo.
+
+4. **Evitar exame sem benefício em pessoa de baixo risco é exemplo de:**
+- [ ] Prevenção primária.
+- [ ] Prevenção secundária.
+- [ ] Prevenção terciária.
+- [x] Prevenção quaternária.
+> **Explicação:** Prevenção quaternária reduz medicalização excessiva e iatrogenia.
+
+---
+
+## Pré-Prova
+
+### Síntese para a prova
+
+Pense em camadas. A doença não vem só do agente biológico; ela é atravessada por moradia, renda, saneamento, trabalho, escolaridade, transporte e acesso ao serviço. O SUS trabalha melhor quando a equipe enxerga essas camadas.
+
+Na hora de classificar prevenção, localize o tempo: antes da doença é primária; rastrear assintomático é secundária; reabilitar ou evitar complicação é terciária; evitar excesso médico é quaternária.
+
+### Diferenciações
+
+| Par confundível | Como separar |
+|---|---|
+| **Primária** vs **secundária** | evitar doença vs detectar cedo |
+| **Promoção** vs **proteção** | melhorar condições de vida vs reduzir risco específico |
+| **Igualdade** vs **equidade** | mesma oferta vs oferta proporcional à necessidade |
+| **DSS** vs **escolha individual** | contexto que molda risco vs decisão isolada |
+
+Feche revisando o raciocínio central: clínica boa no SUS não ignora contexto. Ela combina diagnóstico, prevenção, equidade e plano viável para o território.

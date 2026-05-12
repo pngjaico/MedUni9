@@ -3,17 +3,37 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Anatomia da Boca, Língua, Glândulas Salivares e Faringe",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Cabeça e pescoço: cavidade oral, língua, glândulas salivares e faringe",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Pranchas de cavidade oral, glândulas salivares, língua e faringe",
+      "paginas": "",
+      "relevancia": "atlas"
+    },
+    {
+      "titulo": "Junqueira - Histologia Básica",
+      "capitulo": "Glândulas salivares",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula exige mapa anatômico funcional de boca, língua, glândulas salivares e faringe, com foco em ductos, inervação e correlações clínicas de prova.",
+  "pontos_de_prova": [
+    "Vestíbulo oral versus cavidade oral propriamente dita",
+    "Inervação motora, sensitiva e gustativa da língua",
+    "Parótida, ducto de Stensen e nervo facial",
+    "Submandibular, ducto de Wharton e sialolitíase",
+    "Sublingual, ductos de Rivinus e relação com milo-hióideo",
+    "Nasofaringe, orofaringe e laringofaringe",
+    "Deglutição, palato mole, epiglote e risco de broncoaspiração"
+  ],
+  "observacoes": "Referências indicativas; páginas variam conforme edição."
 }

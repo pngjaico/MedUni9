@@ -1,123 +1,162 @@
-# PMH — Aula 1: Bioenergética e Termodinâmica do Metabolismo
+# PMH - Aula 1: Bioenergética e Termodinâmica do Metabolismo
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-**Bioenergética** é a lógica de como a célula capta e usa energia. Para a prova, domine o conceito de **espontaneidade (ΔG)**, o papel do **acoplamento** e a diferença entre **NADH** (energia) e **NADPH** (biossíntese). Na clínica, a **hipóxia** explica a **acidose lática** por falha nesse balanço energético.
+Bioenergética é o idioma comum das vias metabólicas. A pergunta central não é decorar uma seta isolada, mas entender se uma reação libera energia, consome energia ou precisa ser acoplada para acontecer dentro da célula.
 
+Na prova, três ideias derrubam muitas alternativas: **ΔG negativo indica espontaneidade**, enzima muda velocidade e não equilíbrio, e ATP/NADH/NADPH não são sinônimos.
+
+Na clínica, hipoxia, acidose lática e desacoplamento mitocondrial são traduções diretas dessa aula. Se a célula não consegue usar oxigênio, ela tenta manter glicólise regenerando NAD+ e paga com lactato.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A1-F01`
+**Figura-ID:** PMH-A1-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Primeira e segunda lei (visão biológica)
-
-A **primeira lei** (conservação de energia) diz que energia não nasce nem morre: transforma-se. No metabolismo, isso significa que o **calor** e o **trabalho químico** somam o que entrou e saiu do sistema — útil para lembrar que **perda de calor** não é “falha”, é **dispersão inevitável**.
-
-A **segunda lei** introduz **entropia**: processos espontâneos no universo aumentam desordem global. Células mantêm **baixa entropia interna** à custa de **aumentar entropia** no meio (dispersão de calor). Por isso **vida é anti-entropia local**, financiada por **fluxo de energia** (alimento → oxidação → ATP).
-
-> **Dica de Prova:** Uma reação **espontânea** na célula exige um **ΔG negativo** (< 0). Isso não define a velocidade (enzimas fazem isso), apenas a direção termodinâmica.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Fluxograma de energia: nutrientes gerando NADH/FADH2, cadeia respiratória, ATP e trabalhos celulares.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Bioenergética e Termodinâmica do Metabolismo: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Energia livre de Gibbs (ΔG)
+## 1. Energia livre e direção da reação
 
-O critério de **espontaneidade** a **pressão e temperatura constantes** é a **variação de energia livre de Gibbs (ΔG)**. Reações com **ΔG < 0** são **exergônicas** (liberam energia livre); **ΔG > 0** são **endergônicas** e **não** ocorrem sozinhas de forma significativa — precisam de **acoplamento** com uma reação exergônica.
+A variação de energia livre de Gibbs, ou ΔG, indica se uma reação é favorável nas condições celulares. **ΔG < 0** aponta tendência espontânea; **ΔG > 0** exige acoplamento.
 
-Na prática de estudo, associe:
+Esse valor não diz se a reação será rápida. Velocidade depende de enzimas, concentração de substrato e regulação. Misturar termodinâmica com cinética é erro clássico.
 
-- **Catabolismo** (oxidar glicose, ácidos graxos): trechos **exergônicos** que alimentam síntese de ATP ou equivalentes.
-- **Anabolismo** (sintetizar macromoléculas): trechos **endergônicos**, pagos com ATP/GTP e **poder redutor** (NADPH em várias vias).
-
-> **Pegadinha:** ΔG **não** diz velocidade. **Enzimas** regulam **taxa**; ΔG diz **direção termodinâmica favorável**.
+Reações endergônicas podem ocorrer se forem acopladas a reações exergônicas, como hidrólise de ATP ou oxidação de combustíveis.
 
 ---
 
-## ATP: moeda e “bateria” molecular
+## 2. ATP e acoplamento
 
-O **ATP** é o eixo central da bioenergética médica. A hidrólise de **ATP → ADP + Pᵢ** libera a energia livre necessária para realizar **trabalho químico**, como a contração muscular ou o transporte ativo de íons.
+ATP funciona como moeda energética porque sua hidrólise pode ser ligada a transporte ativo, contração, fosforilação e biossíntese.
 
----
+A célula não libera energia em explosão; ela organiza a liberação em etapas. Isso reduz perda em calor e aumenta trabalho útil.
 
-## Acoplamento: por que a célula “funciona”
-
-Uma reação **endergônica** (por exemplo, um passo de síntese) acopla-se a uma **exergônica** (hidrólise de ATP ou oxidação segmentada). Sem acoplamento enzimático, calor dissiparia sem realizar **trabalho químico** útil. **Complexos enzimáticos** e **transportadores** organizam esse fluxo — tema que retorna na **fosforilação oxidativa**.
+O ponto de prova é simples: ATP paga reações desfavoráveis, mas não torna qualquer processo biologicamente possível sem enzima e via adequada.
 
 ---
 
-## Oxidação, redução e carreadores (NAD⁺/NADH, FAD/FADH₂)
+## 3. NADH, FADH2 e NADPH
 
-Reações de **oxidação** removem elétrons; **redução** os adiciona. No metabolismo, **NAD⁺** e **FAD** captam elétrons em etapas oxidativas e os encaminham para a **cadeia respiratória** (via **NADH** e **FADH₂**), onde a energia redox alimenta **gradiente de prótons** e, por fim, **síntese de ATP**.
+NADH e FADH2 carregam elétrons para a cadeia respiratória, alimentando gradiente de prótons e síntese de ATP.
 
-> **Dica de Prova:** **NADPH** costuma aparecer em **vias anabólicas** e **defesa antioxidante** (pentose-fosfato); **NADH** em **catabolismo energético** — não troque papéis em questão de encaminhamento metabólico.
+NADPH é mais ligado a biossíntese redutora e defesa antioxidante, especialmente via glutationa reduzida.
 
----
-
-## Oxigênio, hipóxia e “volta” anaeróbica
-
-A **fosforilação oxidativa** depende de **oxigênio** como aceptor final de elétrons. Em **hipóxia**, a célula recua para **glicólise anaeróbica** + **redução do piruvato a lactato** para **regenerar NAD⁺** e manter fluxo mínimo de ATP — com custo de **acidose lática** se o quadro for maciço. Esse é o elo clínico entre **termodinâmica** e **emergência**.
+Trocar NADH por NADPH em questão de anabolismo ou antioxidante costuma ser a pegadinha.
 
 ---
 
-## Comparativo rápido: exergônica vs endergônica
+## 4. Hipoxia e lactato
 
-| Tipo de Reação | ΔG (Variação de Energia) | Papel Metabólico |
-|-----------------|--------------------------|-------------------|
-| **Exergônica** | **Negativo (ΔG < 0)** | Liberação de energia; **Oxidação** |
-| **Endergônica** | **Positivo (ΔG > 0)** | Requer **Acoplamento**; Biossíntese |
+Oxigênio é o aceptor final de elétrons na cadeia respiratória. Sem oxigênio suficiente, NADH não é reoxidado de modo eficiente.
+
+Para manter glicólise, o piruvato vira lactato e regenera NAD+. Isso preserva ATP mínimo, mas pode gerar acidose lática.
+
+Lactato alto não é só exercício: choque, sepse e disfunção mitocondrial também entram no raciocínio.
+
+> **Macete MedGradPlus:** NADH é caminhão para a usina de ATP; NADPH é verba para construir e proteger.
+
+> **Pegadinha de prova:** ΔG negativo indica direção favorável, não velocidade alta.
 
 ---
 
+## Mapa mental da aula
+Comece pela pergunta energética: a reação libera energia suficiente para avançar ou precisa ser acoplada a ATP?
+
+Depois separe carreadores. **NADH/FADH2** levam elétrons para a cadeia respiratória; **NADPH** sustenta biossíntese redutora e defesa antioxidante.
+
+Feche com hipóxia: se a cadeia respiratória falha, o piruvato vira lactato para regenerar **NAD+** e manter a glicólise funcionando por curto prazo.
 ## Ponte com a Clínica
+Na hipoxemia, choque ou isquemia, a bioenergética deixa de ser abstrata: menos oxigênio limita fosforilação oxidativa e empurra a célula para lactato.
 
-Paciente em **choque** ou **sepse** com **lactato elevado** reflete, em parte, **desvio metabólico** por **disponibilidade limitada de oxigênio** ou **disfunção mitocondrial** — o mesmo arcabouço bioenergético da aula. Já **intoxicações** que **descasam** oxidação de fosforilação (histórico: **desacopladores**) aumentam **consumo de O₂** e **produção de calor** sem ATP útil: o organismo “queima combustível” sem converter adequadamente em trabalho bioquímico.
+Em prova da Uni9, a vinheta costuma mostrar cansaço, acidose lática ou contexto de baixa perfusão. A resposta correta normalmente separa **direção termodinâmica** de **velocidade enzimática**.
 
----
-
+Armadilha comum: achar que ΔG negativo significa reação rápida. Quem muda velocidade é enzima; ΔG informa favorabilidade e necessidade de acoplamento.
 ## Pontos-Chave para Prova
 
-- **1ª Lei:** Energia se transforma; metabolicamente, nada se perde, tudo vira **trabalho** ou **calor**.
-- **ΔG < 0:** Único critério de **espontaneidade**. Se o ΔG for positivo, a reação **não ocorre** sem **ATP**.
-- **Acoplamento:** A célula usa a "quebra" do **ATP** (exergônico) para "comprar" reações endergônicas.
-- **NADPH vs NADH:** **NADPH** é para **anabolismo** (fábrica) e **antioxidante**; **NADH** é para gerar **ATP** (usina).
-- **Lactato:** É o plano B na **hipóxia** para regenerar **NAD+** e manter a glicólise rodando.
+- **ΔG** negativo favorece reação espontânea.
+- **Enzima** acelera reação, mas não muda ΔG final.
+- **ATP** acopla reação endergônica a processo exergônico.
+- **NADH** e FADH2 alimentam cadeia respiratória.
+- **NADPH** sustenta anabolismo e antioxidantes.
+- **Oxigênio** é aceptor final de elétrons.
+- **Hipoxia** aumenta dependência de glicólise anaeróbia.
+- **Lactato** regenera NAD+ quando a mitocôndria não dá conta.
+- **Desacoplamento** aumenta calor e reduz ATP útil.
+- **Catabolismo** libera energia; anabolismo consome energia.
+
+---
+
+## Mini Quiz
+
+1. **O que ΔG negativo indica?**
+- [x] Reação termodinamicamente favorável
+- [ ] Reação sempre rápida
+- [ ] Ausência de enzima
+- [ ] Bloqueio da cadeia respiratória
+> **Explicação:** ΔG negativo indica favorabilidade termodinâmica, mas não garante velocidade; enzimas aceleram, não mudam sozinhas a direção final da reação.
+
+2. **Qual carreador é mais ligado à biossíntese redutora?**
+- [ ] NADH
+- [x] NADPH
+- [ ] FADH2
+- [ ] ATP sintase
+> **Explicação:** NADPH é o carreador redutor típico de biossíntese e defesa antioxidante; NADH e FADH2 são mais ligados à produção de ATP na cadeia respiratória.
+
+3. **Na hipoxia, por que o piruvato vira lactato?**
+- [ ] Para produzir ureia
+- [ ] Para formar colesterol
+- [x] Para regenerar NAD+
+- [ ] Para bloquear glicólise
+> **Explicação:** Na hipóxia, converter piruvato em lactato regenera NAD+, permitindo que a glicólise continue produzindo ATP mesmo sem boa fosforilação oxidativa.
+
+4. **Qual afirmação diferencia termodinâmica de cinética?**
+- [ ] ΔG fala velocidade; enzima fala direção
+- [ ] ATP elimina necessidade de enzima
+- [ ] NADPH substitui oxigênio
+- [x] ΔG fala direção; enzima fala velocidade
+> **Explicação:** A distinção central é: ΔG orienta direção/favorabilidade, enquanto enzimas controlam a velocidade e a barreira de ativação.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **ΔG Negativo:** Define a **direção** da via; **Enzimas** definem a **velocidade**.
-- **ATP:** Intermediário comum entre **oxidação** de nutrientes e **trabalho celular**.
-- **Hipóxia:** Bloqueia a **Cadeia Respiratória**; sobra **NADH**, piruvato vira **Lactato** (**Acidose**).
-- **Poder Redutor:** **NADPH** é o combustível da **biossíntese** e proteção contra **Radicais Livres**.
+Bioenergética é o idioma comum das vias metabólicas. A pergunta central não é decorar uma seta isolada, mas entender se uma reação libera energia, consome energia ou precisa ser acoplada para acontecer dentro da célula.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
 
-### Diferenciações que a Uninove adora cobrar
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
 
-| Diferença Central | Conceito A (ΔG) | Conceito B (Cinética) |
-|-------------------|-----------------|-----------------------|
-| **O que define?** | **Se ocorre** (direção) | **Quão rápido** ocorre |
-| **Dependência** | Estado inicial/final | **Enzimas** (catalisadores) |
-| **Lactato** | Marcador de **Hipóxia** | Pode subir na **Sepse** por disfunção mitocondrial |
-| **Oxidação** | Libera elétrons (**NADH**) | **Aceptor Final** é o **Oxigênio (O2)** |
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **ΔG** vs **cinética** | direção da reação vs velocidade |
+| **NADH** vs **NADPH** | ATP mitocondrial vs biossíntese/antioxidante |
+| **catabolismo** vs **anabolismo** | libera energia vs consome energia |
+| **hipoxia** vs **desacoplamento** | falta aceptor final vs gradiente não vira ATP |
+
+### Figura sugerida
+
+Use a figura PMH-A1-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Sem acoplamento, energia vira calor; com acoplamento, vira trabalho químico.”
+> **Energia só vira medicina quando você separa direção, velocidade e acoplamento.**

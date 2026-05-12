@@ -1,114 +1,162 @@
-# PMH — Aula 11: Aplicações Clínicas de Proteínas e Aminoácidos
+# PMH - Aula 11: Aplicações Clínicas de Proteínas e Aminoácidos
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-As **Proteínas Plasmáticas** são marcadores de **inflamação**, **nutrição** e **função hepática**. Domine por que a **Albumina** é um péssimo marcador agudo e como a **Pré-albumina** ajuda no monitoramento. Domine o **Teste do Pezinho** e os **Erros Inatos** como a **PKU** e a **Homocistinúria**.
+Aqui a bioquímica vira triagem neonatal, encefalopatia, desnutrição e caquexia.
 
+A prova costuma cobrar fenilcetonúria, hiperamonemia, acidemias orgânicas e diferença entre marasmo, kwashiorkor e caquexia.
+
+O foco é reconhecer pista clínica e ligar à via metabólica afetada.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A11-F01`
+**Figura-ID:** PMH-A11-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Albumina e estado nutricional
-
-**Albumina** tem **longa meia-vida** (~20 dias) — reflete **síntese hepática** e **status** **crônico**, mas cai também em **inflamação** (capillar leaky, consumo) — **não** é marcador nutricional **isolado** em paciente **grave**.
-
-**Pré-albumina (transtirretina)** tem **meia-vida curta** — melhor para **resposta** a nutrição em **contexto não exclusivamente inflamatório** (interpretação cautelosa).
-
-> **Dica de Prova:** **Albumina baixa** no **crítico** pode ser **doença aguda**, não só “falta de proteína oral”.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Mapa clínico de aminoácidos: fenilalanina, amônia, acidemias orgânicas, desnutrição e caquexia.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Aplicações Clínicas de Proteínas e Aminoácidos: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Proteínas de fase aguda
+## 1. Fenilcetonúria
 
-**PCR** sobe rapidamente com **IL-6**; **ferritina** também é **reactante**. **Anemia da doença crônica** associa **hepcidina** ↑ e **ferro** preso em **macrófagos**.
+Fenilcetonúria clássica envolve deficiência de fenilalanina hidroxilase ou metabolismo de BH4.
 
----
+Acúmulo de fenilalanina prejudica desenvolvimento neurológico.
 
-## Marcadores específicos (visão integrada)
-
-- **HbA1c:** média glicêmica (ver aula de carboidratos).
-- **Proteína C-reativa ultra-sensível:** risco cardiovascular **inflamatório** (contexto populacional).
-- **Imunoglobulinas:** gamopatias, deficiências.
+Triagem e dieta precoce mudam prognóstico.
 
 ---
 
-## Erros inatos do metabolismo de aminoácidos (exemplos clássicos)
+## 2. Hiperamonemia
 
-| Patologia | Defeito Enzimático | Manifestação / Screening |
-|------------|--------------------|--------------------------|
-| **PKU (Fenilcetonúria)** | **Fenilalanina Hidroxilase** | **Odor de mofo**; Teste do Pezinho |
-| **Homocistinúria** | **Cistationina Sintase** | **Tromboses** prematuras; Marfanoide |
-| **Urina de Xarope** | **BCKDC** (Ramificados) | **Odor adocicado** na urina; Acidose |
-| **Galactosemia** | **GALT** | Catarata precoce; **Hepatopatia** |
+Hiperamonemia pode vir de defeitos do ciclo da ureia ou falência hepática.
 
-> **Pegadinha:** **Dieta** restritiva precoce em **PKU** previne **dano neurológico** — tempo importa.
+A apresentação inclui vômitos, letargia, irritabilidade, convulsões e coma.
+
+A pista de prova é alteração neurológica sem explicação com amônia alta.
 
 ---
 
-## Nitrogênio ureico e balanço
+## 3. Acidemias orgânicas
 
-**BUN** (ureia) depende de **ingesta proteica**, **hidratação** e **função renal**. **Balanço nitrogenado** negativo em **catabolismo** (trauma, sepse).
+Defeitos no catabolismo de aminoácidos podem acumular ácidos orgânicos.
 
----
+Podem causar acidose metabólica, cetose, vômitos e descompensação em jejum ou infecção.
 
-## Eletróforese de proteínas (visão de prova)
-
-**Pico monoclonal** em **gamaglobulina** → investigar **mieloma**; **hipogamaglobulinemia** → imunodeficiência ou **perda** urinária (síndrome nefrótica).
-
-**Proteína C-reativa** alta com **albumina** baixa no **idoso** = **inflamação** crônica de base — interpretar **risco** global (fragilidade, infecção oculta).
-
-**Transferrina** e **receptores** de **ferro** solúveis ajudam a distinguir **anemia ferropriva** de **anemia de doença crônica** — par com **ferritina** e **saturação**.
+O tratamento combina restrição específica, suporte energético e cofatores quando indicados.
 
 ---
 
+## 4. Desnutrição e caquexia
+
+Marasmo é deficiência calórica global com emagrecimento importante.
+
+Kwashiorkor é deficiência proteica relativa, com edema e fígado gorduroso.
+
+Caquexia envolve inflamação, perda muscular e não se corrige apenas com calorias.
+
+> **Macete MedGradPlus:** PKU é fenilalanina alta; ureia falha é amônia alta; caquexia é inflamação alta.
+
+> **Pegadinha de prova:** Caquexia não é sinônimo simples de jejum voluntário.
+
+---
+
+## Mapa mental da aula
+Organize proteínas por três destinos: estrutura, enzimas/transportadores e combustível em jejum ou doença.
+
+Depois separe deficiência nutricional de erro inato: kwashiorkor fala falta proteica; fenilcetonúria fala acúmulo de fenilalanina.
+
+Feche com caquexia: inflamação mantém catabolismo muscular mesmo quando a lógica parece parecida com jejum.
 ## Ponte com a Clínica
+Edema em desnutrição proteica mostra que proteína plasmática não é detalhe bioquímico; ela sustenta pressão oncótica.
 
-**Paciente cirúrgico** com **albumina 2,0** — avaliar **inflamação**, **perda** (nefropatia), **hepatopatia** antes de atribuir só à “falta de comer”. **Criança** com **PKU** não tratada → **deficiência intelectual** evitável. **Homocist(e)ina** elevada liga **vitamina B12/folato** e **risco trombótico**.
+Na triagem neonatal, erro inato importa porque dieta e diagnóstico precoce mudam dano neurológico futuro.
 
----
-
+A armadilha é tratar caquexia como jejum simples. Inflamação e catabolismo persistente tornam a resposta nutricional mais complexa.
 ## Pontos-Chave para Prova
 
-- **Albumina:** Meia-vida de **20 dias**. Cai na **inflamação** (escape capilar) e sinaliza **cronoficidade**.
-- **Pré-albumina:** Meia-vida de **2 dias**. Melhor para avaliar a **eficácia da dieta** recente.
-- **PCR:** Proteína de fase aguda positiva. Sobe no **trauma**, **infecção** e **cirurgia**.
-- **Balanço Nitrogenado:** Se **negativo**, indica que o paciente está perdendo **músculo** (catabolismo).
-- **PKU:** A dieta restritiva deve começar **imediatamente** para evitar lesão cerebral.
+- **PKU** envolve fenilalanina hidroxilase/BH4.
+- **Fenilalanina** alta lesiona desenvolvimento neurológico.
+- **Triagem** neonatal é decisiva.
+- **Hiperamonemia** causa encefalopatia.
+- **Defeitos** da ureia podem ter alcalose respiratória inicial.
+- **Acidemias** orgânicas causam acidose metabólica.
+- **Jejum** e infecção descompensam erros inatos.
+- **Marasmo** é falta calórica global.
+- **Kwashiorkor** tem edema por baixa proteína.
+- **Caquexia** é inflamatória e catabólica.
+
+---
+
+## Mini Quiz
+
+1. **Fenilcetonúria clássica eleva:**
+- [x] fenilalanina
+- [ ] LDL
+- [ ] amônia por ureia sempre
+- [ ] triglicerídeo isolado
+> **Explicação:** Fenilcetonúria clássica eleva fenilalanina por defeito na conversão adequada desse aminoácido.
+
+2. **Hiperamonemia grave causa:**
+- [ ] aterosclerose isolada
+- [x] encefalopatia
+- [ ] esteatose sem sintomas
+- [ ] hiperuricemia apenas
+> **Explicação:** Hiperamonemia grave causa encefalopatia porque a amônia é neurotóxica e altera metabolismo cerebral.
+
+3. **Kwashiorkor é associado a:**
+- [ ] LDL receptor
+- [ ] excesso de purina
+- [x] edema por deficiência proteica
+- [ ] defeito de CPT-1
+> **Explicação:** Kwashiorkor se associa a deficiência proteica importante, com hipoalbuminemia e edema.
+
+4. **Caquexia difere de jejum simples porque:**
+- [ ] sempre melhora só com glicose
+- [ ] não perde músculo
+- [ ] é excesso de HDL
+- [x] tem inflamação e catabolismo persistente
+> **Explicação:** Caquexia envolve inflamação e catabolismo persistente, diferente da adaptação mais poupadora do jejum simples.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Albumina:** Proteína negativa de fase aguda (cai no estresse). O edema deve-se à perda de **Pressão Oncótica**.
-- **Ferro:** Em inflamação, a **Ferritina** sobe (estoque), mas o ferro livre cai (sequestro pela **Hepcidina**).
-- **Mieloma:** Suspeite no idoso com **Pico Monoclonal** na eletroforese e anemia.
-- **Homocisteína:** Seu aumento causa lesão no **endotélio** e risco cardiovascular.
+Aqui a bioquímica vira triagem neonatal, encefalopatia, desnutrição e caquexia.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Albumina** | **Pré-albumina** | **Crônico** (20d) vs **Agudo** (2d) |
-| **Desnutrição** | **Inflamação** | PCR **Baixo** vs PCR **Alto** |
-| **PKU** | **Xarope de Bordo** | **Fenilalanina** vs **Leucina/Isoleucina/Valina** |
-| **Hepcidina** | **Ferritina** | **Bloqueador** de absorção vs **Estoque** tecidual |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **PKU** vs **hiperamonemia** | fenilalanina alta vs amônia alta |
+| **marasmo** vs **kwashiorkor** | caloria global vs proteína/edema |
+| **caquexia** vs **jejum** | inflamação catabólica vs adaptação poupadora |
+| **acidemia orgânica** vs **defeito da ureia** | acidose metabólica vs hiperamonemia predominante |
+
+### Figura sugerida
+
+Use a figura PMH-A11-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Proteína plasmática fala do fígado, do rim e da inflamação — não só do prato.”
+> **Erro de aminoácido cobra pista: cheiro, ácido, amônia ou atraso neurológico.**

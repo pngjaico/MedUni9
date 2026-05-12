@@ -2,18 +2,36 @@
   "aula_id": "semio1_a3",
   "materia": "semiologia1",
   "modulo": 1,
-  "tema": "Exame Físico — Inspeção",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Exame Físico - Inspeção",
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "inspeção, marcha e exame musculoesquelético"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "descrição de achados físicos e inspeção segmentar"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "observação de marcha, eixo, deformidades e correlação ortopédica"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre reconhecimento visual no exame locomotor: comparação bilateral, eixo, marcha, edema, dactilite, nódulos, hemartrose, bursite e sinais que orientam a etapa seguinte.",
+  "pontos_de_prova": [
+    "comparação bilateral",
+    "genu varo e valgo",
+    "Heberden",
+    "dactilite",
+    "marcha antálgica",
+    "steppage",
+    "anserina",
+    "bursite pré-patelar",
+    "hemartrose",
+    "criança claudicante",
+    "escoliose e exame neurológico"
+  ],
+  "observacoes": "Aula com alto valor visual; manter spot específico na rodada posterior de imagens."
 }

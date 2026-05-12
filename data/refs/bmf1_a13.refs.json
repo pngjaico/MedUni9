@@ -2,18 +2,32 @@
   "aula_id": "bmf1_a13",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Prática - Músculos da Coluna, Membros Superiores e Inferiores",
+  "gerado_em": "2026-05-11T19:46:05.524Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Dorso, membro superior e membro inferior",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Músculos e nervos dos membros",
+      "paginas": "consultar pranchas anatômicas correspondentes",
+      "relevancia": "visual"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula transforma músculos em compartimentos, nervos e movimentos testáveis, preparando o aluno para prova prática e exame neuromuscular básico.",
+  "pontos_de_prova": [
+    "deltoide, supraespinhal e manguito",
+    "nervo radial e mão caída",
+    "quadríceps e nervo femoral",
+    "adutores e nervo obturador",
+    "tibial anterior, fibular e pé caído",
+    "tríceps sural e tendão de Aquiles",
+    "diafragma e nervo frênico"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

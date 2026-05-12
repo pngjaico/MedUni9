@@ -3,17 +3,35 @@
   "materia": "sus",
   "modulo": 1,
   "tema": "Pacto pela Vida",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-11",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Portaria GM/MS nº 399, de 22 de fevereiro de 2006",
+      "capitulo": "Divulga o Pacto pela Saúde 2006 - Consolidação do SUS",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ministério da Saúde - Diretrizes Operacionais dos Pactos pela Vida, em Defesa do SUS e de Gestão",
+      "capitulo": "Prioridades do Pacto pela Vida e responsabilidades sanitárias",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Ministério da Saúde - Política Nacional de Atenção Básica",
+      "capitulo": "Atenção Básica como coordenadora do cuidado e ordenadora da rede",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula aborda o Pacto pela Vida como instrumento de pactuação de prioridades sanitárias, metas e indicadores, conectando gestão, APS, vigilância e cuidado territorial.",
+  "pontos_de_prova": [
+    "Três componentes do Pacto pela Saúde",
+    "Seis prioridades originais do Pacto pela Vida",
+    "Diferença entre indicador, meta e ação",
+    "Indicador de processo versus desfecho",
+    "Papel da APS e da vigilância na execução das prioridades"
+  ],
+  "observacoes": "Detalhes de Pacto de Gestão, regionalização e Decreto 7.508 ficam para sus_a6; Pacto em Defesa do SUS fica para sus_a7."
 }

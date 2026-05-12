@@ -2,18 +2,37 @@
   "aula_id": "bmf1_a9",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Prática — Articulações da Coluna e Membros",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Prática - Articulações da Coluna e Membros",
+  "gerado_em": "2026-05-11T19:11:21.203Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Coluna vertebral, membro superior e membro inferior",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Gray's Anatomia para Estudantes",
+      "capitulo": "Back, Upper Limb e Lower Limb",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Coluna, ombro, punho, quadril, joelho e tornozelo",
+      "paginas": "consultar prancha anatômica correspondente",
+      "relevancia": "visual"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula conecta classificação articular, biomecânica e mecanismos clássicos de trauma em coluna e membros, com foco em cobranças práticas do ciclo básico.",
+  "pontos_de_prova": [
+    "disco intervertebral versus faceta zigapofisária",
+    "atlantoaxial como pivô de rotação",
+    "ombro móvel e quadril estável",
+    "LCA e teste de Lachman/gaveta anterior",
+    "escafóide e tabaqueira anatômica",
+    "entorse por inversão e ligamento talofibular anterior"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

@@ -1,114 +1,162 @@
-# PMH — Aula 13: Integração Metabólica entre Órgãos
+# PMH - Aula 13: Integração Metabólica entre Órgãos
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-A **Integração Metabólica** estuda como os órgãos cooperam. O **Fígado** é o hub central; o **Músculo** é o consumidor e reserva de glicogênio local; e o **Tecido Adiposo** é o estoque de gordura. Domine os ciclos de comunicação (**Cori** e **Alanina**) e como o **Cérebro** se adapta ao jejum prolongado.
+Integração metabólica é entender que fígado, músculo, adipócito, cérebro e intestino não estudam separados no paciente.
 
+A prova cobra estado alimentado, jejum, ciclos de Cori e alanina-glicose, e prioridade de combustível por órgão.
+
+O raciocínio certo começa perguntando: qual órgão está exportando, qual está consumindo e qual hormônio domina?
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A13-F01`
+**Figura-ID:** PMH-A13-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Fígado: hub central
-
-**Gliconeogênese**, **cetogênese**, **β-oxidação**, **síntese de VLDL**, **ciclo da ureia** e **biotransformação** concentram-se no **hepatócito**. **Insuficiência hepática** quebra **vários eixos** ao mesmo tempo: **glicose**, **amônia**, **coagulação**, **lipídios**.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Mapa órgão-a-órgão: fígado, músculo, tecido adiposo, cérebro e intestino no alimentado e no jejum.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Integração Metabólica entre Órgãos: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Músculo esquelético
+## 1. Fígado
 
-**Armazena glicogênio** para **uso local**. **Exporta lactato** (Cori) e **alanina** no jejum. **Exercício aeróbio** ↑ **oxidação mitocondrial**; **anaeróbio** ↑ **lactato**.
+O fígado estabiliza glicemia, armazena glicogênio, faz gliconeogênese, cetogênese e exporta lipoproteínas.
 
-> **Dica de Prova:** Músculo **não** libera glicose livre — **sem G6Pase**.
+No alimentado, armazena e sintetiza; no jejum, produz glicose e corpos cetônicos.
 
----
-
-## Tecido adiposo
-
-**Armazena TAG**; **lipólise** hormônio-sensível (β-adrenérgico, GH, cortisol) libera **glicerol** (substrato gluconeogênico) e **ácidos graxos** (β-oxidação muscular/hepática).
-
-**Insulina** inibe **lipólise**.
+Ele é o grande integrador metabólico.
 
 ---
 
-## Cérebro
+## 2. Músculo
 
-**Alta demanda** de **glicose**; em **jejum prolongado**, **cetônicos** substituem parte do combustível — **menor** dependência absoluta de glicose.
+Músculo usa glicose, ácidos graxos e corpos cetônicos conforme estado.
 
----
+No exercício, libera lactato; no jejum, alanina ajuda transportar nitrogênio e carbono ao fígado.
 
-## Rim
-
-**Gliconeogênese** em **córtex** (glutamina → glicose) relevante em **jejum prolongado** e **acidose metabólica** (contribui para **amônia** e **bicarbonato** em contextos específicos).
+Glicogênio muscular é uso local.
 
 ---
 
-## Ciclos inter-orgânicos
+## 3. Tecido adiposo
 
-| Ciclo Metabólico | Órgãos Envolvidos | Função "High-Yield" |
-|-------------------|-------------------|---------------------|
-| **Ciclo de Cori** | **Músculo ↔ Fígado** | Recicla **Lactato** em Glicose |
-| **Glicose-Alanina** | **Músculo ↔ Fígado** | Transporta **Nitrogênio** e Carbono |
-| **B-Oxidação** | Músculo/Fígado | Transforma **Gordura** em ATP |
-| **Cetogênese** | **Fígado → Cérebro** | Combustível alternativo p/ o **SNC** |
+Adipócito armazena triglicerídeos no alimentado e libera ácidos graxos no jejum.
 
----
+Insulina freia lipólise; catecolaminas e glucagon favorecem mobilização indiretamente.
 
-## Gravidez: metabolismo materno-fetal
-
-**Placenta** permite **transporte** de **glicose**, **aminoácidos** e **ácidos graxos**; **gestação** induz **resistência insulínica** fisiológica para favorecer **transferência** de nutrientes ao **feto** — **glicemias** de corte específicos para **DM gestacional**.
-
-Pós-parto, **eixos** voltam ao **basal** em semanas — acompanhamento **glicêmico** em quem teve **GDM** reduz **DM2** tardio.
+Também secreta adipocinas que modulam inflamação e sensibilidade à insulina.
 
 ---
 
+## 4. Cérebro e intestino
+
+Cérebro usa glicose, mas em jejum prolongado passa a usar corpos cetônicos.
+
+Hemácias dependem de glicólise e produzem lactato.
+
+Intestino e microbiota influenciam absorção, sinalização e produção de metabólitos.
+
+> **Macete MedGradPlus:** Fígado distribui, músculo gasta, adipócito guarda ou libera, cérebro exige prioridade.
+
+> **Pegadinha de prova:** Músculo não exporta glicose livre para salvar a glicemia.
+
+---
+
+## Mapa mental da aula
+Monte o corpo como rede: fígado estabiliza glicemia, músculo consome e exporta lactato/alanina, adipócito libera ácidos graxos, cérebro prioriza glicose e cetonas.
+
+Depois siga os ciclos: Cori leva lactato ao fígado; alanina leva nitrogênio e carbono do músculo ao fígado.
+
+Feche com jejum prolongado: cérebro aumenta uso de corpos cetônicos e poupa glicose, enquanto músculo muda combustível.
 ## Ponte com a Clínica
+A integração metabólica explica por que um exame isolado raramente basta: glicemia, lactato, cetonas e estado nutricional conversam entre órgãos.
 
-**Sepse** aumenta **gliconeogênese** e **resistência insulínica** (**hiperglicemia** de estresse). **Cirrose** reduz **estoque** e **síntese** hepática de **glicose** e **fatores** — **hipoglicemia** pode ocorrer em **criança** ou **desnutrição grave**. **Débito cardíaco** baixo → **hipóxia tecidual** → **lactato** ↑.
+Na prova, identifique quem exporta e quem consome. Músculo tem glicogênio, mas não sustenta glicemia de outros tecidos.
 
----
-
+A armadilha é esquecer o fígado como central logística: ele recebe substratos, produz glicose/cetonas e coordena o jejum.
 ## Pontos-Chave para Prova
 
-- **Fígado:** O único que pode exportar glicose livre no sangue (**Glicose-6-Fosfatase**).
-- **Músculo:** Reserva de **Glicogênio** é egoísta; só ele usa. No esforço, gera **Lactato**.
-- **Tecido Adiposo:** No jejum, a **Lípase Hormônio-Sensível** libera **Ácidos Graxos** e **Glicerol**.
-- **Cérebro:** Consome **Glicose** (GLUT1/3), mas aceita **Corpos Cetônicos** em crises.
-- **Rins:** Responsáveis por até 20% da **Gliconeogênese** no jejum prolongado.
+- **Fígado** mantém glicemia.
+- **Músculo** usa glicogênio local.
+- **Adipócito** libera ácidos graxos no jejum.
+- **Cérebro** usa cetônicos no jejum prolongado.
+- **Hemácia** depende de glicólise.
+- **Ciclo** de Cori leva lactato ao fígado.
+- **Ciclo** alanina-glicose leva nitrogênio ao fígado.
+- **Insulina** domina estado alimentado.
+- **Glucagon** domina jejum.
+- **Microbiota** produz metabólitos que modulam metabolismo.
+
+---
+
+## Mini Quiz
+
+1. **Qual órgão é principal estabilizador da glicemia?**
+- [x] Fígado
+- [ ] Hemácia
+- [ ] Pele
+- [ ] Cartilagem
+> **Explicação:** O fígado é o principal estabilizador da glicemia porque libera glicose e organiza glicogenólise/gliconeogênese.
+
+2. **Ciclo de Cori transporta:**
+- [ ] LDL para o rim
+- [x] lactato para o fígado
+- [ ] ureia para músculo
+- [ ] colesterol para hemácia
+> **Explicação:** O ciclo de Cori leva lactato produzido por tecidos periféricos ao fígado, onde pode virar glicose.
+
+3. **No jejum prolongado, o cérebro passa a usar mais:**
+- [ ] ácidos graxos livres diretamente
+- [ ] glicogênio muscular
+- [x] corpos cetônicos
+- [ ] quilomícrons
+> **Explicação:** No jejum prolongado, corpos cetônicos passam a suprir parte importante da demanda energética cerebral.
+
+4. **Músculo não sustenta glicemia porque:**
+- [ ] não tem glicogênio
+- [ ] não usa ATP
+- [ ] não produz lactato
+- [x] não exporta glicose livre de modo relevante
+> **Explicação:** Músculo não exporta glicose livre de modo relevante, pois usa seu glicogênio para consumo local.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Cori:** Essencial para evitar a **acidose lática** excessiva durante o exercício.
-- **Alanina:** O principal aminoácido que o músculo "doa" para o fígado fazer glicose.
-- **Insulina:** Desliga a **Lipólise** e a **Gliconeogênese**; liga a **Glicogênese**.
-- **Glucagon:** Age quase exclusivamente no **Fígado**, estimulando a saída de glicose.
+Integração metabólica é entender que fígado, músculo, adipócito, cérebro e intestino não estudam separados no paciente.
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|----------------------|
-| **Glicogenólise Hepática** | **Muscular** | Mantém a **Glicemia** vs Gera **ATP Local** |
-| **Pós-Prandial** | **Jejum** | Governo da **Insulina** vs Governo do **Glucagon** |
-| **Glicerol** | **Ácido Graxo** | Usado na **Gliconeogênese** vs Usado na **B-Oxidação** |
-| **Cérebro** | **Hemácia** | Usa **Cetonas/Glicose** vs Usa **Apenas Glicose** |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **fígado** vs **músculo** | exporta glicose vs usa local |
+| **Cori** vs **alanina-glicose** | lactato vs nitrogênio/carbono |
+| **alimentado** vs **jejum** | insulina/estoque vs glucagon/mobilização |
+| **cérebro** vs **hemácia** | cetônicos no jejum vs glicólise sempre |
+
+### Figura sugerida
+
+Use a figura PMH-A13-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Metabolismo é rede — fígado é o nó que mais recebe linhas.”
+> **Metabolismo integrado é logística: quem envia, quem recebe, quem paga.**

@@ -2,18 +2,35 @@
   "aula_id": "bmf1_a22",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Prática — Sistema Digestório em Anatomia",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Prática - Sistema Digestório em Anatomia",
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Abdome: tubo digestório, peritônio e vísceras anexas",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Abdome: vísceras digestórias e relações peritoneais",
+      "paginas": "",
+      "relevancia": "apoio visual"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A prática exige reconhecimento topográfico do tubo digestório, pontos de junção, cólon, peritônio e vasos-âncora para prova prática e raciocínio anatômico-clínico.",
+  "pontos_de_prova": [
+    "Orientação anatômica direita/esquerda",
+    "Cárdia versus piloro",
+    "Duodeno e cabeça do pâncreas",
+    "Válvula ileocecal",
+    "Tênias, haustras e apêndices epiploicos",
+    "Flexura hepática versus esplênica",
+    "Omento maior versus menor",
+    "Papila maior",
+    "Tronco celíaco, AMS e AMI",
+    "Veia porta"
+  ],
+  "observacoes": "Referências indicativas; páginas variam conforme edição."
 }

@@ -2,18 +2,39 @@
   "aula_id": "bmf1_a16",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Prática — Histologia do Tegumento e Tecido Adiposo",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Prática - Histologia do Tegumento e Tecido Adiposo",
+  "gerado_em": "2026-05-11T20:44:07.543Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Pele e anexos; tecido adiposo",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross e Pawlina - Histologia",
+      "capitulo": "Integumentary system; adipose tissue",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Pele, fáscia superficial e tecido subcutâneo",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula treina leitura prática de lâmina de pele e tecido adiposo, cobrindo epiderme, derme, hipoderme, pele espessa/delgada, adiposo branco/marrom e artefatos de microscopia.",
+  "pontos_de_prova": [
+    "epiderme avascular",
+    "derme papilar versus reticular",
+    "pele espessa versus delgada",
+    "adipócito branco unilocular",
+    "adipócito marrom multilocular",
+    "UCP1 e termogênese",
+    "glândula sebácea holócrina",
+    "baixo aumento antes de alta magnificação"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

@@ -1,115 +1,162 @@
-# PMH — Aula 5: Metabolismo de Glicogênio e Via das Pentoses-Fosfato
+# PMH - Aula 5: Metabolismo de Glicogênio e Via das Pentoses
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-O **Glicogênio** é o nosso estoque rápido de energia, essencial para manter a **glicemia** e a força muscular. Paralelamente, a **Via das Pentoses (PPP)** produz **NADPH** e **Ribose**. Domine a **regulação recíproca** e a **Deficiência de G6PD**, elo entre metabolismo e **anemia hemolítica**.
+Glicogênio e via das pentoses respondem a perguntas diferentes: estoque rápido de glicose e produção de NADPH/ribose.
 
+A prova cobra glicogênio hepático versus muscular, glicogênio fosforilase, glicogênio sintase e deficiência de G6PD.
+
+Clinicamente, o tema aparece em hipoglicemia, exercício e hemólise por estresse oxidativo.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A5-F01`
+**Figura-ID:** PMH-A5-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Glicogênio: onde e para quê
-
-- **Fígado:** armazena glicogênio para **manter glicemia** (exporta glicose via **glicose-6-fosfatase**).
-- **Músculo:** armazena para **uso local** (sem G6Pase → sem exportação de glicose livre).
-
-> **Dica de Prova:** Glicogênio muscular alimenta **exercício**; hepático alimenta **jejum** e **cérebro**.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Mapa com glicogênese, glicogenólise e via das pentoses produzindo NADPH e ribose-5-fosfato.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Metabolismo de Glicogênio e Via das Pentoses: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Glicogenólise: enzima-chave
+## 1. Glicogênio hepático
 
-**Glicogênio fosforilase** cliva **α-1,4** liberando **glicose-1-fosfato** → **glicose-6-fosfato**. **Ramificações α-1,6** exigem **enzima de desramificação** (transferase + glucosidase).
+O fígado armazena glicose para manter glicemia entre refeições.
 
-**Regulação:** **fosforilação** ativa fosforilase no **músculo** (cascata **AMP**); **glucagon** ativa vias hepáticas via **cAMP**.
+Glicogenólise hepática libera glicose livre porque o fígado tem glicose-6-fosfatase.
 
----
-
-## Glicogênese: síntese e ramificação
-
-**Glicogênio sintase** forma **α-1,4**; **enzima ramificadora** cria **α-1,6**. **UDP-glicose** é doadora de glicose.
-
-**Insulina** favorece **desfosforilação** ativando **sintase** e inibindo **fosforilase** (recíproco).
+Glucagon é sinal importante de jejum para mobilizar esse estoque.
 
 ---
 
-## Via das pentoses-fosfato (PPP)
+## 2. Glicogênio muscular
 
-**Fase oxidativa:** **glicose-6-fosfato desidrogenase (G6PD)** oxida G6P → **6-fosfogluconolactona** → **NADPH**.
+O músculo armazena glicogênio para uso local durante contração.
 
-**NADPH** sustenta **glutationa reduzida** (detox de **peróxidos**) e **síntese lipídica**.
+Ele não exporta glicose livre de modo relevante porque não tem glicose-6-fosfatase.
 
-**Fase não oxidativa:** rearranja carbonos para **ribose-5P** (nucleotídeos) ou reverte para **glicólise/gliconeogênese**.
-
-> **Pegadinha:** **PPP** não gera ATP diretamente — gera **NADPH** e **açúcares pentoses**.
+Adrenalina ativa mobilização rápida durante exercício.
 
 ---
 
-## Deficiência de G6PD
+## 3. Glicogênese e glicogenólise
 
-**Hemólise** sob **estresse oxidativo** (fármacos, infecção, favas) por **NADPH** insuficiente para manter **glutationa**. **Herança ligada ao X** — mais sintomática em **hemizigotos masculinos**.
+Glicogênio sintase constrói glicogênio e é favorecida por insulina.
 
----
+Glicogênio fosforilase quebra glicogênio e é favorecida por glucagon/adrenalina.
 
-## Comparativo rápido
-
-| Via Metabólica | Produto de Ouro | Função / Destino |
-|-----------------|------------------|-------------------|
-| **Glicogênese** | Glicogênio (Estoque) | Armazenar excesso de **G6P** |
-| **Glicogenólise**| **Glicose livre** (Fígado) | Manter **Glicemia** no jejum |
-| **Via das Pentoses**| **NADPH** | Defesa **Antioxidante** e Síntese de Gordura |
-| **Fase Não-Oxidativa**| **Ribose-5P** | Produção de **Ácidos Nucleicos** (DNA/RNA) |
+A coordenação evita síntese e quebra fortes ao mesmo tempo.
 
 ---
 
+## 4. Via das pentoses
+
+A via das pentoses produz NADPH e ribose-5-fosfato.
+
+NADPH mantém glutationa reduzida, essencial contra estresse oxidativo em hemácias.
+
+Deficiência de G6PD causa hemólise após oxidantes, infecções ou alguns fármacos.
+
+> **Macete MedGradPlus:** Fígado empresta glicose; músculo gasta em casa.
+
+> **Pegadinha de prova:** Músculo tem glicogênio, mas não sustenta glicemia sistêmica.
+
+---
+
+## Mapa mental da aula
+Separe função por tecido: fígado guarda glicogênio para manter glicemia; músculo guarda glicogênio para uso próprio.
+
+A via das pentoses tem dois produtos que sempre devem aparecer juntos: **NADPH** para redução/antioxidante e **ribose-5-fosfato** para nucleotídeos.
+
+Conecte G6PD à hemácia: sem NADPH suficiente, a glutationa reduzida cai e o eritrócito sofre com estresse oxidativo.
 ## Ponte com a Clínica
+Jejum curto cobra glicogenólise hepática; exercício cobra glicogênio muscular. Misturar esses destinos é erro comum em prova.
 
-Paciente **G6PD deficiente** com **anemia hemolítica** após **primaquina** ou **antimalárico** — liga **farmaco** a **via**. **Glicogenoses** (defeitos enzimáticos) causam **hipoglicemia** ou **cardiomiopatia** conforme o passo bloqueado — o mapa **glicogênio** é o mapa do **teste ergométrico** e da **biopsia** em alguns casos.
+Crise hemolítica após fármaco oxidante, infecção ou fava é pista de G6PD, não de defeito de LDL ou de ciclo da ureia.
 
----
-
+A armadilha é achar que todo glicogênio vira glicose para o sangue. Músculo não exporta glicose livre de modo relevante.
 ## Pontos-Chave para Prova
 
-- **Fígado vs Músculo:** O fígado doa glicose para o corpo (**G6Pase**); o músculo usa tudo para si (faltam bypasses).
-- **Glicogênio Fosforilase:** Ativada por **Glucagon** e **Adrenalina** (via fosforilação).
-- **Glicogênio Sintase:** Ativada por **Insulina** (via desfosforilação).
-- **NADPH:** O "segurança" da célula. Sem ele, os **Radicais Livres** matam a hemácia (**Hemólise**).
-- **G6PD:** A enzima marcapasso da via das pentoses; sua falta causa **Corpusculos de Heinz**.
+- **Fígado** tem glicose-6-fosfatase.
+- **Músculo** usa glicogênio localmente.
+- **Glicogênio** sintase é favorecida por insulina.
+- **Glicogênio** fosforilase quebra glicogênio.
+- **Glucagon** age forte no fígado.
+- **Adrenalina** mobiliza músculo no exercício.
+- **Via** das pentoses gera NADPH.
+- **NADPH** mantém glutationa reduzida.
+- **G6PD** deficiente causa hemólise oxidativa.
+- **Ribose-5-fosfato** alimenta nucleotídeos.
+
+---
+
+## Mini Quiz
+
+1. **Qual tecido exporta glicose a partir do glicogênio?**
+- [x] Fígado
+- [ ] Músculo esquelético
+- [ ] Hemácia
+- [ ] Adipócito
+> **Explicação:** O fígado tem glicose-6-fosfatase e consegue liberar glicose para sustentar a glicemia; músculo usa seu glicogênio localmente.
+
+2. **A via das pentoses produz principalmente:**
+- [ ] ureia e amônia
+- [x] NADPH e ribose-5-fosfato
+- [ ] LDL e HDL
+- [ ] lactato e acetil-CoA
+> **Explicação:** A via das pentoses fornece NADPH para reações redutoras/antioxidantes e ribose-5-fosfato para síntese de nucleotídeos.
+
+3. **Deficiência de G6PD causa risco de:**
+- [ ] hipercolesterolemia familiar
+- [ ] gota
+- [x] hemólise oxidativa
+- [ ] fenilcetonúria
+> **Explicação:** Deficiência de G6PD reduz NADPH na hemácia e aumenta vulnerabilidade a dano oxidativo, gerando hemólise.
+
+4. **Insulina favorece:**
+- [ ] glicogênio fosforilase hepática
+- [ ] cetogênese
+- [ ] proteólise muscular
+- [x] glicogênio sintase
+> **Explicação:** Insulina favorece a forma ativa da glicogênio sintase, direcionando glicose para armazenamento como glicogênio.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Glicogênio Hepático:** Sustenta o **cérebro** por até **24 horas** de jejum.
-- **Glicogênio Muscular:** Não libera glicose no sangue; falta a enzima **Glicose-6-Fosfatase**.
-- **PPP:** Única via que gera **NADPH**, vital para a **Glutationa** combater o estresse oxidativo.
-- **Hemólise:** Ocorre após comer **favas** ou usar **antimaláricos** em pacientes com **G6PD baixo**.
+Glicogênio e via das pentoses respondem a perguntas diferentes: estoque rápido de glicose e produção de NADPH/ribose.
 
-| Diferença Central | Conceito A (Hepático) | Conceito B (Muscular) |
-|-------------------|-----------------------|-----------------------|
-| **Exporta Glicose?** | **Sim** (Uso Sistêmico) | **Não** (Uso Local) |
-| **Hormônio Chave** | **Glucagon** estimula | **Adrenalina** e **AMP** estimulam |
-| **Finalidade** | **Glicemia** Constante | **Contração Muscular** |
-| **NADPH** | **NADH** | **Defesa/Anabolismo** vs **Geração de ATP** |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **glicogênio hepático** vs **glicogênio muscular** | glicemia sistêmica vs uso local |
+| **glicogênese** vs **glicogenólise** | sintase vs fosforilase |
+| **NADPH** vs **NADH** | antioxidante/anabolismo vs ATP |
+| **G6PD** vs **glicose-6-fosfatase** | pentoses/hemólise vs liberação de glicose |
+
+### Figura sugerida
+
+Use a figura PMH-A5-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Glicogênio é bateria de curto prazo; PPP é cofre de NADPH.”
+> **Glicogênio guarda glicose; pentoses guardam poder redutor.**

@@ -2,18 +2,36 @@
   "aula_id": "semio1_a7",
   "materia": "semiologia1",
   "modulo": 1,
-  "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Prática Simulada - Manequins e Pacientes Padronizados",
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "comunicação, segurança e exame físico estruturado"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "relação médico-paciente e execução do exame"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "sequência prática do exame musculoesquelético"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula treina OSCE musculoesquelético: abertura, consentimento, checklist, manejo de dor, simulação com manequim/paciente padronizado, debriefing e registro.",
+  "pontos_de_prova": [
+    "identificação",
+    "higiene",
+    "consentimento",
+    "manequim",
+    "paciente padronizado",
+    "checklist",
+    "dor durante manobra",
+    "debriefing",
+    "registro",
+    "neurovascular",
+    "OSCE"
+  ],
+  "observacoes": "Aula prática; imagem posterior deve ser fluxograma/spot de estação, não decoração."
 }

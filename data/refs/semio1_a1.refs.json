@@ -3,17 +3,32 @@
   "materia": "semiologia1",
   "modulo": 1,
   "tema": "Fundamentos da Semiologia Musculoesquelética",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "sequência do exame físico e sinais de alarme"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "exame musculoesquelético sistemático"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "sinais, sintomas e raciocínio semiológico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula introduz a base do exame locomotor: padrão da dor, localização, inspeção, palpação, ADM ativa/passiva, força MRC, red flags e spots visuais.",
+  "pontos_de_prova": [
+    "dor mecânica versus inflamatória",
+    "dor neuropática",
+    "sequência do exame locomotor",
+    "origem articular versus periarticular",
+    "ADM ativa versus passiva",
+    "escala MRC",
+    "red flags",
+    "terminologia de movimento"
+  ],
+  "observacoes": "Semio1 terá mais slots visuais/spot semiológico por solicitação do usuário; imagens finais ficam para rodada posterior."
 }

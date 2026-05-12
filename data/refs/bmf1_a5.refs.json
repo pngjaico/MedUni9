@@ -3,17 +3,36 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Tecido Ósseo — Estrutura e Ossificação",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido ósseo e ossificação",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross & Pawlina - Histology: A Text and Atlas",
+      "capitulo": "Bone tissue and bone formation",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Sistema esquelético e crescimento ósseo",
+      "paginas": "",
+      "relevancia": "apoio anatômico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre estrutura do tecido ósseo, células ósseas, osteon, matriz orgânica/inorgânica, ossificação e correlações clínicas com osteoporose, osteomalácia e consolidação de fratura.",
+  "pontos_de_prova": [
+    "osso compacto versus esponjoso",
+    "osteon, canais de Havers e Volkmann",
+    "osteoblasto, osteoclasto e osteócito",
+    "colágeno I e hidroxiapatita",
+    "ossificação endocondral versus intramembranosa",
+    "osteoporose versus osteomalácia"
+  ],
+  "observacoes": "Material corrigido por curadoria aula a aula; imagem de osteon preservada e demais imagens deixadas para rodada posterior."
 }

@@ -3,17 +3,35 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Introdução ao Estudo da Anatomia Humana",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Introdução à anatomia: terminologia anatômica, planos e movimentos",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Gray's Anatomy for Students",
+      "capitulo": "What is anatomy? Anatomical position, planes and terms",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Pranchas introdutórias de posição anatômica e planos do corpo",
+      "paginas": "",
+      "relevancia": "apoio visual"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula estabelece a linguagem espacial mínima para todo o ciclo morfofuncional: posição anatômica, planos, termos direcionais, movimentos e aplicação em peça, imagem e exame físico.",
+  "pontos_de_prova": [
+    "posição anatômica com palmas para frente",
+    "plano sagital, coronal e axial",
+    "medial/lateral, anterior/posterior, superficial/profundo",
+    "proximal/distal nos membros",
+    "flexão/extensão, abdução/adução e pronação/supinação"
+  ],
+  "observacoes": "Material corrigido por curadoria aula a aula; imagem anatômica registrada para rodada posterior."
 }

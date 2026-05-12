@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Regulação Metabólica Geral",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:39:23.155Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Regulação Metabólica Geral",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Regulação Metabólica Geral",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Regulação Metabólica Geral",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Regulação Metabólica Geral.",
+  "pontos_de_prova": [
+    "Alosteria muda atividade rapidamente.",
+    "Fosforilação é reversível e depende da enzima.",
+    "Insulina favorece armazenamento e anabolismo.",
+    "Glucagon favorece produção hepática de glicose.",
+    "Adrenalina prepara resposta aguda ao estresse.",
+    "AMP alto sinaliza baixa energia.",
+    "Citrato alto pode frear glicólise.",
+    "Frutose-2,6-bisfosfato ativa PFK-1.",
+    "Controle gênico é mais lento e duradouro.",
+    "Vias opostas precisam ser coordenadas para evitar ciclo fútil."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

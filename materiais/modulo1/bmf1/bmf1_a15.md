@@ -1,93 +1,179 @@
-# BMF1 — Aula 15: Tegumento — Tecido Epitelial Glandular
+# BMF1 - Aula 15: Tegumento - Tecido Epitelial Glandular
 
-As **Glândulas** são as fábricas químicas do corpo. Na prova, os temas centrais são a grande cisão entre glândulas **Exócrinas** (usam **Ductos** e focam no revestimento externo/interior de órgãos ocos) e as **Endócrinas** (jogam o hormônio direto no **Sangue**). 
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Junqueira e Carneiro, epitélio glandular  
+**Tempo de estudo sugerido:** 15-20 min
 
-Na prática clínica, o detalhe histológico molda o tratamento. O fato da glândula sebácea explodir para secretar (**Holócrina**) explica por que folículos entopem gerando **Acne**. Saber que a glândula **Parótida** envelopa o **Nervo Facial** impede que um cirurgião cause uma paralisia iatrogênica ao remover um nódulo salivar.
+---
+
+## Relevância clínica e acadêmica
+
+Glândula é epitélio especializado em secreção. A prova costuma cobrar duas perguntas simples: a secreção sai por ducto ou vai para o sangue? A célula perde só o produto, parte do citoplasma ou a célula inteira?
+
+No tegumento, isso aparece em glândulas sudoríparas, sebáceas, mamárias e salivares. A acne depende de glândula sebácea holócrina; a termorregulação depende de sudorípara écrina; obstrução de ducto salivar causa dor que piora ao comer.
+
+O ganho desta aula é classificar com segurança: **exócrina tem ducto**, **endócrina não tem ducto**, **merócrina preserva a célula**, **apócrina perde ápice**, **holócrina sacrifica a célula**.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A15-F01`
+**Figura-ID:** BMF1-A15-F01
 
-- **Momento:** Seção de Modos de Secreção.
-- **O que mostrar:** O **"Destino Celular"**: Um esquema lado a lado de 3 glândulas: **Merócrina** (vesículas saindo ilesas da célula intacta), **Apócrina** (o teto da célula sendo arrancado junto com a secreção) e **Holócrina** (a célula inteira gorda explodindo virando secreção).
-- **Tipo sugerido:** Infográfico celular esquemático.
-- **Legenda (rascunho):** Modos de Secreção Exócrina: quanto da célula é sacrificado para secretar o produto?
-
-## 1. Classificação Exócrina (Os Três Modos de Sacrifício)
-
-As glândulas exócrinas são classificadas pelo quanto a célula se destrói ao secretar:
-
-| Modo de Secreção | Destino do Citoplasma | Exemplo de Prova |
-|-------------------|-----------------------------|-------------------|
-| **Secreção Merócrina** | A célula exocita o produto e fica **Mero/Intacta** | **Écrinas** (Suor comum) |
-| **Secreção Apócrina** | A célula perde o **Ápice (teto)** na secreção | Glândula **Mamária** (Leite) |
-| **Secreção Holócrina** | A célula **Inteira (Holo)** morre e vira a secreção | Glândula **Sebácea** (Acne) |
-
-> **Dica de Prova:** Acne é excesso de produção e entupimento de uma glândula **Holócrina** associada a um folículo.
-
-## 2. A Arquitetura e o Conteúdo (Como elas se parecem)
-
-- **Unicelulares:** O melhor exemplo de glândula de **uma única célula** é a **Célula Caliciforme** (vias aéreas e intestinos). Ela secreta musina e não possui ducto; simplesmente **exocita**.
-- **Morfologia:** **Tubulares** (forma de tubo) ou **Acinares** (forma de cacho de uva).
-- **Serosa vs Mucosa (Coloração):**
-    - Os adenômeros **Serosos** secretam substâncias ricas em proteínas/enzimas. Coram-se **escuro (HE)**.
-    - Os adenômeros **Mucosos** secretam muco grosso. A célula em lâmina fica **clara/transparente**, com núcleo achatado na base.
+- **Momento:** após os modos de secreção.
+- **O que mostrar:** três painéis comparando secreção merócrina, apócrina e holócrina, com exemplo de sudorípara écrina, mamária e sebácea.
+- **Tipo sugerido:** esquema didático simples.
+- **Legenda:** Modos de secreção exócrina: o destino da célula define o nome.
 
 ---
 
-## 3. As Grandes Glândulas Salivares
+## Exócrina versus endócrina
 
-| Glândula Salivar | Tipo de Saliva Dominante | Associação Clínica Crítica |
-|------------------|-----------------|------------------------|
-| **Glândula Parótida** | Puramente **Serosa** (Aquosa) | Cruzada pelo **Nervo Facial (VII)**. |
-| **Glândula Submandibular**| **Mista** (Sero-Mucosa) | Drena pelo **Ducto de Wharton (Cálculos)**. |
-| **Glândula Sublingual** | Predominantemente **Mucosa** | Entupimento causa bolha abaixo da língua (**Rânula**). |
+Glândula **exócrina** mantém conexão com a superfície por ducto. O produto pode ir para pele, cavidade oral, lúmen intestinal ou outra superfície epitelial.
+
+Glândula **endócrina** perde o ducto e libera hormônio para o sangue, geralmente próximo a capilares. Tireoide, paratireoides e suprarrenal entram melhor em aulas próprias, mas aqui ajudam a fixar o contraste.
+
+Também existe glândula unicelular. A **célula caliciforme** é o exemplo clássico: uma única célula produtora de muco no epitélio respiratório ou intestinal.
+
+> **Pegadinha de prova:** se tem ducto, pense exócrina; se lança no sangue, pense endócrina. Não classifique pela importância clínica, classifique pelo caminho da secreção.
 
 ---
 
-## 4. Endócrinas (As que aboliram o ducto)
+## Merócrina, apócrina e holócrina
 
-Células com função **Endócrina** invaginam na embriologia, mas perdem contato com a superfície epidérmica. Elas jogam seus produtos (**hormônios**) diretamente na pesada circulação dos **Capilares Fenestrados** a seu redor. Exemplos: Tireoide, Glândula Adrenal e a Ilhota de Langerhans no Pâncreas.
+Na secreção **merócrina**, a célula libera apenas o produto por exocitose e permanece íntegra. Glândulas sudoríparas écrinas e células acinares serosas usam esse padrão.
+
+Na secreção **apócrina**, parte do citoplasma apical sai junto com o produto. A glândula mamária é o exemplo clássico em muitos textos, especialmente para componente lipídico do leite.
+
+Na secreção **holócrina**, a célula inteira se desintegra e vira parte do produto. A glândula sebácea é a associação obrigatória. Por isso ela depende de renovação celular contínua.
+
+> **Macete MedGradPlus - mero mantém, apo arranca ponta, holo morre:** merócrina preserva; apócrina perde ápice; holócrina sacrifica a célula.
+
+---
+
+## Forma da unidade secretora
+
+Glândulas exócrinas podem ser tubulares, acinares/alveolares ou túbulo-acinares. O nome descreve a forma da porção secretora.
+
+Uma unidade **tubular** lembra um tubo. Uma unidade **acinar** lembra um saco arredondado. A unidade **túbulo-acinar** mistura os dois padrões.
+
+Também classificamos o produto: secreção **serosa** é aquosa, rica em proteínas/enzimas e costuma corar mais escura; secreção **mucosa** é viscosa, rica em mucinas e costuma parecer mais clara.
+
+---
+
+## Glândulas do tegumento
+
+Glândulas sudoríparas **écrinas** participam da termorregulação e usam secreção merócrina. Estão distribuídas amplamente, com destaque para palmas, plantas e fronte.
+
+Glândulas sudoríparas **apócrinas** aparecem em axila, aréola e região anogenital. Seu produto é mais viscoso e o odor depende muito do metabolismo bacteriano sobre a secreção.
+
+Glândulas **sebáceas** produzem sebo, geralmente associadas a folículos pilosos. São holócrinas. A acne envolve aumento de sebo, obstrução folicular, proliferação bacteriana e inflamação.
+
+---
+
+## Glândulas salivares
+
+A parótida é predominantemente serosa e seu ducto parotídeo, ou de Stenon, abre na mucosa oral próximo ao segundo molar superior. O nervo facial atravessa a parótida, detalhe cirúrgico clássico.
+
+A submandibular é mista, com predomínio seroso, e drena pelo ducto de Wharton no assoalho da boca. É muito lembrada em sialolitíase porque seu ducto favorece estase e cálculo.
+
+A sublingual é mais mucosa e possui múltiplos ductos pequenos. Na prática, inchaços no assoalho da boca exigem pensar em ductos e glândulas da região.
+
+---
+
+## Mama: glândula modificada
+
+A mama é uma glândula sudorípara modificada, organizada em lóbulos e ductos lactíferos. Durante lactação, secreta componentes aquosos, proteicos e lipídicos.
+
+Do ponto de vista do ciclo básico, o principal é entender arquitetura: unidade secretora, ducto, papila mamária e influência hormonal. Patologia ductal e lobular fica para outro momento.
+
+Não confunda glândula mamária com sebácea. A mamária é especializada para leite; a sebácea produz sebo e sacrifica células no padrão holócrino.
 
 ---
 
 ## Ponte com a Clínica
 
-O **Ducto de Wharton** sai da glândula submandibular e viaja para a frente da boca **subindo** contra a gravidade. Esse fluxo difícil explica por que há tanta formação de pedra salivar calcificada nela (**Sialolitíase**), entupindo a saída. O paciente sente uma cólica absurda abaixo da mandíbula na hora de comer. Na anatomia da **Mama**, saber que a unidade final produtora de leite é o **Lóbulo** e o tubo condutor é o **Ducto** difere o diagnóstico imagológico e o subtipo de câncer (**Carcinoma Ductal vs Carcinoma Lobular**).
+Na acne, o bloqueio do folículo e a atividade sebácea criam o ambiente para inflamação. A palavra-chave histológica é **holócrina**, porque o sebo vem da célula que se desintegra.
+
+Na sialolitíase, a dor piora nas refeições porque a produção salivar aumenta contra um ducto obstruído. Ducto de Wharton aponta para submandibular; ducto de Stenon aponta para parótida.
+
+Em cirurgia de parótida, a preocupação não é só a glândula: o nervo facial atravessa seu parênquima e pode ser lesionado, causando déficit da mímica facial.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Capilares Fenestrados:** Vasos com buracos minúsculos encontrados nas glândulas **Endócrinas**, pois facilitam a entrada rápida dos hormônios na corrente sanguínea. 
-- **Adenômero:** É a parte final (o fundo do saco) criadora do produto nas glândulas exócrinas compostas.
-- **Acne:** É uma doença de glândulas sebáceas; lembre-se, todas associam-se a **folículos pilosos**. Onde não tem pelo, não tem espinha.
+- **Exócrina** secreta por ducto para superfície ou lúmen.
+- **Endócrina** lança produto no sangue e não tem ducto.
+- **Célula caliciforme** é glândula exócrina unicelular.
+- **Merócrina** preserva a célula e libera só o produto.
+- **Apócrina** perde porção apical do citoplasma.
+- **Holócrina** elimina a célula inteira no produto.
+- **Sebácea** é holócrina e associada a folículo piloso.
+- **Écrina** é sudorípara de termorregulação.
+- **Parótida** é principalmente serosa e é atravessada pelo facial.
+- **Submandibular** drena pelo ducto de Wharton.
+
+---
+
+## Mini Quiz
+
+1. **Qual característica define uma glândula exócrina?**
+- [x] Presença de ducto levando secreção à superfície/lúmen
+- [ ] Liberação obrigatória no sangue
+- [ ] Ausência de epitélio secretor
+- [ ] Produção exclusiva de hormônios tireoidianos
+> **Explicação:** exócrinas mantêm ductos; endócrinas lançam no sangue.
+
+2. **A glândula sebácea secreta por qual mecanismo?**
+- [ ] Merócrino
+- [ ] Apócrino
+- [x] Holócrino
+- [ ] Sinovial
+> **Explicação:** na holócrina, a célula inteira se desintegra e vira parte do produto.
+
+3. **Obstrução do ducto de Wharton envolve qual glândula?**
+- [ ] Parótida
+- [x] Submandibular
+- [ ] Sublingual exclusivamente pelos ductos de Rivinus
+- [ ] Tireóide
+> **Explicação:** o ducto de Wharton drena a glândula submandibular.
+
+4. **Qual célula é exemplo de glândula exócrina unicelular?**
+- [ ] Melanócito
+- [ ] Adipócito
+- [ ] Osteócito
+- [x] Célula caliciforme
+> **Explicação:** a célula caliciforme secreta muco e é uma glândula unicelular.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Para gabaritar tecido glandular, foque em mapear **o Destino do Conteúdo** e a **Sobrevivência da Célula**.
-**Destino do Conteúdo:** Para superfície/ducto = **Exócrina**. Para sangue = **Endócrina**.
+Comece pelo caminho: **exócrina tem ducto**, **endócrina vai ao sangue**. Depois veja o destino da célula: merócrina libera produto, apócrina perde ápice, holócrina morre inteira.
 
-A **Uninove** adora o método de destruição celular. Decore o trio: **Merócrina** (Normal/Seguro), **Apócrina** (Gordurosa, Arranca o teto da Mama) e **Holócrina** (Suicida Sebácea). Se a questão descrever células claras em microscopia, o gabarito é glândula **Mucosa**. Além disso, nunca perca o "nervo mestre": a **Parótida** é perpassada pelo **Nervo Facial** — lesão nela paralisa metade do rosto do paciente.
+Glândula sebácea é holócrina e ligada a folículo piloso. Sudorípara écrina é merócrina e termorregula. Célula caliciforme é a glândula unicelular clássica.
 
-### Diferenciações que a Uninove adora cobrar
+Nas salivares: parótida é serosa e atravessada pelo facial; submandibular drena por Wharton e costuma ser lembrada em cálculo; sublingual é mais mucosa.
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|-------------------------|
-| **Holócrina** | **Merócrina** | A Célula **Morre Escapando** vs A célula **sobrevive Exocitando** |
-| **Parótida** | **Submandibular** | Saliva 100% **Serosa (Líquida)** vs Saliva **Mista** (Cálculos de Wharton) |
-| **Glândula Exócrina**| **Glândula Endócrina** | Possui **Ducto** (Tubo de saída) vs Despeja no **Sangue** (Capilares) |
-| **Ácino Seroso** | **Ácino Mucoso** | Célula cora **Escura (Enzima)** vs Célula fica **Clara (Muco)** |
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **Exócrina** vs **endócrina** | ducto vs sangue |
+| **Merócrina** vs **holócrina** | produto sai vs célula inteira sai |
+| **Sebácea** vs **écrina** | sebo holócrino vs suor termorregulador |
+| **Serosa** vs **mucosa** | aquosa/enzimas vs viscosa/mucinas |
+| **Parótida** vs **submandibular** | Stenon/facial vs Wharton/sialolitíase |
+
+### Figura sugerida
+
+Use a figura BMF1-A15-F01 para revisar merócrina, apócrina e holócrina lado a lado. A imagem deve deixar claro o que acontece com a célula em cada modo.
 
 ### Frase-âncora para não esquecer
 
-> **"Sem ducto, o hormônio corre no sangue e o sistema atua endócrino. O muco é claro, a enzima serosa pinta escuro a Parótida que o VII par cruza num rasante noturno."**
-
+> **Ducto decide exócrina; destino da célula decide mero, apo ou holo.**

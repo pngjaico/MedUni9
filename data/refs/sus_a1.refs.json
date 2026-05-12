@@ -3,17 +3,32 @@
   "materia": "sus",
   "modulo": 1,
   "tema": "Processo Saúde-Doença e Determinantes Sociais",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-11T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Comissão Nacional sobre Determinantes Sociais da Saúde - relatório final",
+      "orgao": "CNDSS",
+      "relevancia": "determinantes sociais"
+    },
+    {
+      "titulo": "Constituição Federal de 1988 - art. 196",
+      "orgao": "Brasil",
+      "relevancia": "direito à saúde e políticas sociais"
+    },
+    {
+      "titulo": "Leavell and Clark - níveis de prevenção",
+      "relevancia": "história natural da doença e prevenção"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula introduz conceito ampliado de saúde, processo saúde-doença, história natural, níveis de prevenção, DSS, vulnerabilidade, equidade, promoção e proteção.",
+  "pontos_de_prova": [
+    "conceito ampliado de saúde",
+    "prevenção primária/secundária/terciária/quaternária",
+    "determinantes sociais em camadas",
+    "vulnerabilidade individual/social/programática",
+    "equidade versus igualdade",
+    "promoção versus proteção"
+  ],
+  "observacoes": "A prova costuma cobrar exemplos práticos de prevenção e distinção entre igualdade, universalidade e equidade."
 }

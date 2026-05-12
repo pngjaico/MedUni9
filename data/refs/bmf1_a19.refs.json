@@ -3,17 +3,32 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Anatomia dos Intestinos Delgado e Grosso",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Abdome: intestino delgado, intestino grosso, mesentérios e peritônio",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Intestino delgado, intestino grosso e mesentérios",
+      "paginas": "",
+      "relevancia": "atlas"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre mapa anatômico de delgado e grosso, marcas do cólon, topografia clínica e mobilidade mesentérica, pontos essenciais para prova e clínica básica.",
+  "pontos_de_prova": [
+    "Duodeno em C e papila duodenal maior",
+    "Jejuno versus íleo",
+    "Válvula ileocecal",
+    "Tênias, haustras e apêndices epiploicos",
+    "Apendicite versus diverticulite sigmoide",
+    "Flexura hepática e flexura esplênica",
+    "Segmentos fixos versus móveis do cólon",
+    "Mesentério, mesocólon e volvo"
+  ],
+  "observacoes": "Referências indicativas; páginas variam conforme edição."
 }

@@ -1,102 +1,162 @@
-# PMH — Aula 9: Aplicações Clínicas dos Lipídios
+# PMH - Aula 9: Aplicações Clínicas dos Lipídios
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-O manejo das **Dislipidemias** é um dos pilares da medicina preventiva contemporânea. Compreender como interpretar o **Perfil Lipídico**, as limitações das fórmulas de cálculo (como a de **Friedewald**) e as indicações para o uso de **Estatinas** e **Fibratos** é essencial. Na clínica, a identificação precoce do risco de **Aterosclerose** e de **Pancreatite Aguda** (em casos de **TG > 500-1000 mg/dL**) salva vidas.
+Esta aula traduz metabolismo lipídico em doenças frequentes: dislipidemia, aterosclerose, esteatose, cetoacidose e síndrome metabólica.
+
+A prova costuma trazer vinhetas com triglicerídeos, LDL alto, dor abdominal, cetonas ou gordura hepática.
+
+O objetivo é diferenciar mecanismo, não decorar nomes soltos.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A9-F01`
+**Figura-ID:** PMH-A9-F01
 
-- **Momento:** Após o bloco de relevância.
-- **O que mostrar:** Gráfico de decisão clínica baseado no risco cardiovascular e fluxograma de quando priorizar o tratamento de Triglicerídeos vs LDL.
-- **Tipo sugerido:** Infográfico ou esquema didático.
-- **Legenda (rascunho):** Decisão clínica nas dislipidemias.
-
----
-
-## Painel básico: o que medir
-
-O exame laboratorial padrão inclui a dosagem de:
-- **Colesterol Total (CT)**, **HDL-C**, **Triglicerídeos (TG)** e o **LDL-C** (que pode ser calculado ou medido diretamente).
-- Atualmente, o **jejum prolongado** não é obrigatório para a dosagem de colesterol, mas o estado pós-prandial pode influenciar significativamente os níveis de **Triglicerídeos**.
-
-> **Dica de Prova:** Em casos de **TG muito elevados**, o cálculo indireto do LDL torna-se impreciso, sendo necessária a dosagem pelo **método direto**.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Mapa clínico conectando resistência insulínica, VLDL/TG, LDL, esteatose e aterosclerose.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Aplicações Clínicas dos Lipídios: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Friedewald e limitações
+## 1. Dislipidemias
 
-A fórmula de Friedewald estima o LDL:
-**LDL-C ≈ CT − HDL-C − (TG/5)**
-- **Condição:** Só é válida quando os **Triglicerídeos (TG) são < 400 mg/dL**.
-- **Erro:** A precisão cai drasticamente na presença de quilomícrons ou hipertrigliceridemia severa.
+LDL alto aumenta risco de aterosclerose; triglicerídeo muito alto aumenta risco de pancreatite.
 
----
+Hipercolesterolemia familiar sugere defeito de receptor de LDL ou vias relacionadas.
 
-## Hipertrigliceridemia: gravidade
-
-- **Leve a Moderada:** Associada à **Resistência Insulínica**, **Síndrome Metabólica** e **DM2**.
-- **Severa (TG > 1000 mg/dL):** O risco principal deixa de ser a aterosclerose e passa a ser a **Pancreatite Aguda**. Nestes casos, a prioridade máxima é a redução dos triglicerídeos.
-
-**Causas secundárias comuns:** Consumo excessivo de **álcool**, **hipotireoidismo** não tratado, **gravidez** e uso de certos fármacos (ex: retinoides).
+A abordagem depende de risco global e perfil lipídico.
 
 ---
 
-## Hipolipemiantes: mecanismo em uma linha
+## 2. Aterosclerose
 
-| Classe de Droga | Mecanismo Prático | Alvo Principal |
-|-----------------|-------------------|----------------|
-| **Estatinas** | Inibe a **HMG-CoA Redutase** | Redução potente de **LDL-C** |
-| **Ezetimiba** | Inibe a proteína **NPC1L1** | Bloqueia **absorção** de colesterol |
-| **Fibratos** | Ativa os receptores **PPAR-alfa** | Redução de **Triglicerídeos** |
-| **Ômega-3** | Reduz a síntese de **VLDL** | Adjuvante nos **TG severos** |
-| **PCSK9i** | Preserva os **Receptores de LDL** | **LDL fixo** em alto risco |
-| **Colestiramina**| Sequestra **Ácidos Biliares** | Aumenta excreção fecal |
+LDL entra na parede arterial, sofre modificação e é captada por macrófagos.
+
+Células espumosas e inflamação sustentam placa.
+
+Ruptura de placa leva a trombose e eventos agudos.
 
 ---
 
+## 3. Esteatose hepática
+
+Resistência insulínica aumenta fluxo de ácidos graxos ao fígado e produção de VLDL.
+
+Quando entrada/síntese supera exportação/oxidação, triglicerídeo acumula no hepatócito.
+
+Pode progredir para esteato-hepatite e fibrose.
+
+---
+
+## 4. Cetoacidose e síndrome metabólica
+
+Na baixa ação de insulina, lipólise aumenta e fígado produz corpos cetônicos.
+
+Na síndrome metabólica, obesidade visceral, resistência insulínica, TG alto, HDL baixo e pressão alta se agrupam.
+
+Ambas exigem ligar hormônio, tecido adiposo e fígado.
+
+> **Macete MedGradPlus:** LDL machuca artéria; TG extremo irrita pâncreas; falta de insulina liga cetona.
+
+> **Pegadinha de prova:** Esteatose não é simplesmente comer gordura; resistência insulínica muda fluxo hepático.
+
+---
+
+## Mapa mental da aula
+Organize a dislipidemia pelo risco dominante: LDL alto fala aterosclerose; triglicerídeo muito alto fala pancreatite.
+
+Depois conecte resistência insulínica: ela aumenta lipólise, fluxo de ácidos graxos ao fígado, VLDL e esteatose metabólica.
+
+Feche com síndromes: hipercolesterolemia familiar aponta para receptor de LDL; cetoacidose aponta para baixa ação de insulina e cetogênese.
 ## Ponte com a Clínica
+Na prática, síndrome metabólica junta cintura, pressão, glicose, triglicerídeos e HDL baixo, mostrando risco cardiometabólico integrado.
 
-No paciente com **Diabetes Tipo 2**, é comum encontrarmos a "tríade aterogênica": **TG alto**, **HDL baixo** e partículas de LDL pequenas e densas. O aparecimento de **Xantomas** ou **Arco Corneano** em pacientes jovens deve sempre levantar a suspeita de **Hipercolesterolemia Familiar (FH)**, exigindo tratamento agressivo e triagem da família.
+TG muito alto não é só número de laudo: acima de faixas extremas, a complicação temida é pancreatite aguda.
 
----
-
+A armadilha é enxergar diabetes, esteatose e dislipidemia como problemas separados; eles compartilham resistência insulínica.
 ## Pontos-Chave para Prova
 
-- **Fórmula de Friedewald:** Decore a regra: **Total - HDL - (TG/5)**. Lembrar do limite de **400 mg/dL** de TG.
-- **Risco de Pancreatite:** Prioridade clínica absoluta se **Triglicerídeos > 500 mg/dL**.
-- **Metas Terapêuticas:** Não são fixas; dependem do **Risco Cardiovascular** (Escore de Risco Global).
-- **Tratamento Combinado:** A associação **Estatina + Ezetimiba** é a conduta padrão quando a monoterapia falha.
-- **Causas Secundárias:** Sempre excluir **Hipotireoidismo** antes de diagnosticar dislipidemia primária.
+- **LDL** alto aumenta risco aterosclerótico.
+- **Triglicerídeo** muito alto aumenta risco de pancreatite.
+- **Hipercolesterolemia** familiar sugere receptor de LDL.
+- **LDL** oxidada vira alvo de macrófagos.
+- **Célula** espumosa compõe placa.
+- **Esteatose** envolve resistência insulínica.
+- **Cetoacidose** exige baixa ação de insulina.
+- **Corpos** cetônicos são ácidos orgânicos.
+- **Síndrome** metabólica reúne obesidade visceral e resistência.
+- **HDL** baixo e TG alto são padrão comum da resistência insulínica.
+
+---
+
+## Mini Quiz
+
+1. **Triglicerídeo muito alto aumenta risco de:**
+- [x] pancreatite
+- [ ] gota
+- [ ] fenilcetonúria
+- [ ] hiperamonemia
+> **Explicação:** Triglicerídeos muito elevados aumentam risco de pancreatite, especialmente em níveis extremos.
+
+2. **Hipercolesterolemia familiar clássica envolve:**
+- [ ] G6PD
+- [x] receptor de LDL
+- [ ] CPT-1
+- [ ] PFK-1
+> **Explicação:** Hipercolesterolemia familiar clássica envolve defeitos no receptor de LDL ou vias relacionadas à depuração de LDL.
+
+3. **Cetoacidose diabética decorre de:**
+- [ ] excesso de HDL
+- [ ] defeito de ribose
+- [x] baixa ação de insulina com lipólise/cetogênese
+- [ ] ativação de glicogênio sintase
+> **Explicação:** Na cetoacidose, baixa ação de insulina favorece lipólise, excesso de ácidos graxos hepáticos e cetogênese.
+
+4. **Esteatose metabólica se liga fortemente a:**
+- [ ] deficiência isolada de vitamina C
+- [ ] hiperuricemia congênita
+- [ ] falta de lactase
+- [x] resistência insulínica
+> **Explicação:** Esteatose metabólica se liga à resistência insulínica, que aumenta fluxo de gordura para o fígado e lipogênese.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Para a **Uninove**, o painel lipídico deve ser interpretado com o contexto do paciente: presença de **comorbidades**, uso de medicações e histórico familiar. O erro clássico em provas é tratar apenas o número sem olhar para o risco de **pancreatite** ou sem excluir causas reversíveis como o **álcool**.
+Esta aula traduz metabolismo lipídico em doenças frequentes: dislipidemia, aterosclerose, esteatose, cetoacidose e síndrome metabólica.
 
-### Diferenciações que a Uninove adora cobrar
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Fibratos** | **Estatinas** | Primeira linha para **TG** vs Primeira linha para **LDL** |
-| **LDL Calculado** | **LDL Direto** | Barato (limitado pelo TG) vs Preciso (qualquer nível TG) |
-| **LDLR** | **PCSK9** | Porta de **entrada** vs Proteína que **fecha a porta** |
-| **Hipotireoidismo** | **Hiperlipidemia** | Causa **Secundária** tratável vs Doença Primária |
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **LDL alto** vs **TG muito alto** | aterosclerose vs pancreatite |
+| **esteatose** vs **cetoacidose** | acúmulo hepático de TG vs excesso de cetonas |
+| **síndrome metabólica** vs **DM1** | resistência crônica vs falta absoluta de insulina |
+| **HDL** vs **LDL** | transporte reverso vs aterogenicidade |
+
+### Figura sugerida
+
+Use a figura PMH-A9-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> **“Triglicerídeo muito alto ( > 500) pede proteção do pâncreas; LDL alto pede proteção do coração.”**
-
+> **Lipídio clínico é risco de vaso, pâncreas, fígado ou cetona.**

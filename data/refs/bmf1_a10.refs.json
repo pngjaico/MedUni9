@@ -3,17 +3,36 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Generalidades do Sistema Muscular",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T19:20:39.458Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Sistema muscular e biomecânica básica",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido muscular",
+      "paginas": "consultar edição local",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Guyton e Hall - Tratado de Fisiologia Médica",
+      "capitulo": "Contração do músculo esquelético",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio fisiológico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula organiza estrutura, ativação, arquitetura e adaptação do músculo esquelético, formando base para anatomia regional, semiologia neuromuscular e reabilitação.",
+  "pontos_de_prova": [
+    "endomísio, perimísio e epimísio",
+    "unidade motora",
+    "origem, inserção, agonista e antagonista",
+    "fibras tipo I e tipo II",
+    "contração isométrica, concêntrica e excêntrica",
+    "fáscia e síndrome compartimental"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

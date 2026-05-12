@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Integração Metabólica entre Órgãos",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:41:58.057Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Integração Metabólica entre Órgãos",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Integração Metabólica entre Órgãos",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Integração Metabólica entre Órgãos",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Integração Metabólica entre Órgãos.",
+  "pontos_de_prova": [
+    "Fígado mantém glicemia.",
+    "Músculo usa glicogênio local.",
+    "Adipócito libera ácidos graxos no jejum.",
+    "Cérebro usa cetônicos no jejum prolongado.",
+    "Hemácia depende de glicólise.",
+    "Ciclo de Cori leva lactato ao fígado.",
+    "Ciclo alanina-glicose leva nitrogênio ao fígado.",
+    "Insulina domina estado alimentado.",
+    "Glucagon domina jejum.",
+    "Microbiota produz metabólitos que modulam metabolismo."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

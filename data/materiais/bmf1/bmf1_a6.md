@@ -1,134 +1,191 @@
-# BMF1 — Aula 6: Prática — Ossos e Regiões do Esqueleto
+# BMF1 - Aula 6: Prática - Ossos da Coluna, Membros Superiores e Inferiores
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Moore, anatomia do sistema esquelético  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-Dominar a **Anatomia Esquelética** não é "decorar nomes", mas criar um **Mapa Mental** para descrever fraturas e localizar pulsos. Para a prova, foque nos **Marcos Palpáveis** e nas zonas de vulnerabilidade como o **Colo do Fêmur**, o **Escafóide** e a **Vértebra C7**. Lembre-se: em radiologia, o que você não sabe nomear, você não consegue enxergar.
+Esta aula é prática de reconhecimento. O objetivo não é decorar uma lista solta de ossos; é localizar regiões, nomear marcos palpáveis e prever onde lesões comuns acontecem. O aluno precisa sair sabendo apontar eixo, cinturas, membros e acidentes ósseos com linguagem anatômica básica.
 
+Para a Uninove, os blocos mais cobrados são **axial versus apendicular**, **crânio**, **coluna e curvaturas**, **costelas e esterno**, **cintura escapular**, **rádio versus ulna**, **pelve**, **fêmur**, **tíbia/fíbula** e marcos clínicos como **C7**, **escafoide**, **colo do fêmur** e **maléolos**.
+
+Na prática, nomear bem muda o raciocínio. Dor na tabaqueira anatômica após queda não é “dor no punho”; é suspeita de fratura de escafoide. Queda de idoso com dor no quadril não é só contusão; pode ser fratura de colo do fêmur.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A6-F01`
+**Figura-ID:** BMF1-A6-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Esqueleto axial — visão geral
-
-| Componente | Principais elementos |
-|------------|----------------------|
-| Crânio | Neurocrânio (vault) e viscerocrânio (face) |
-| Coluna | Vértebras cervicais, torácicas, lombares, sacro, cóccix |
-| Tórax | Esterno, costelas (verdadeiras, falsas, flutuantes) |
+- **Momento:** após a visão geral de esqueleto axial e apendicular.
+- **O que mostrar:** esquema do esqueleto humano em vista anterior e lateral, separando axial e apendicular, com destaque para curvaturas da coluna, C7, esterno/costelas, clavícula, escápula, rádio, ulna, pelve, colo do fêmur, tíbia, fíbula e maléolos.
+- **Tipo sugerido:** infográfico anatômico ou atlas rotulado.
+- **Legenda:** Mapa prático do esqueleto: eixo, cinturas, membros e marcos clínicos.
 
 ---
 
-## Crânio — foco prático
+## Comece pelo mapa: eixo ou membro?
 
-O neurocrânio protege o encéfalo; suturas (sagital, lambdóide, coronal) são pontos de referência em TC e em crianças (fontanelas). A base do crânio abriga forames — o estudante deve saber ao menos o trio clássico de prova: óptico (II), redondo (V2), oval (V3), forame magno (medula).
+A primeira separação é simples. O **esqueleto axial** forma o eixo: crânio, coluna vertebral, costelas e esterno. Ele protege encéfalo, medula, coração e pulmões, além de organizar a postura.
 
----
+O **esqueleto apendicular** inclui cinturas e membros. A cintura escapular conecta membro superior ao tronco; a cintura pélvica transfere peso do tronco para os membros inferiores. Clavícula e escápula ficam perto do tronco, mas pertencem ao apendicular.
 
-## Coluna vertebral — curvaturas e números
+> **Pegadinha de prova:** clavícula, escápula e osso do quadril não viram axial por estarem próximos do tronco. Se fazem parte de cintura ou membro, pense em **apendicular**.
 
-| Região da Coluna | Curvatura | Característica Diagnóstica |
-|------------------|-----------|----------------------------|
-| **Cervical** (C1-C7) | **Lordose** | **Forames Transversários** |
-| **Torácica** (T1-T12)| **Cifose** | Articulação com **Costelas** |
-| **Lombar** (L1-L5) | **Lordose** | **Corpos Vertebrais** Massivos |
-| **Sacro e Cóccix** | **Cifose** | Vértebras Fundidas |
-
-O canal vertebral abriga a **medula espinal**. Estreitamentos (**Estenose**) podem causar **claudicação neurogênica**, enquanto hérnias em níveis baixos podem levar à **Síndrome da Cauda Equina**.
+O jeito prático de revisar é perguntar: “isso é eixo de proteção ou peça de movimento?”. Eixo de proteção puxa axial. Peça de movimento ou cintura de membro puxa apendicular.
 
 ---
 
-## Tórax
+## Crânio: proteção, face e passagem
 
-Costelas 1–7 articulam diretamente com o esterno (verdadeiras); 8–10 indiretamente (falsas); 11–12 sem articulação anterior (flutuantes). A angulação costal protege órgãos e participa da mecânica respiratória — fraturas múltiplas podem gerar tórax instável.
+No crânio, pense em duas funções. O **neurocrânio** protege o encéfalo. O **viscerocrânio** forma a face, orbitas, cavidade nasal e parte da mastigação.
 
----
+O **forame magno** é o marco de passagem entre encéfalo/bulbo e medula espinal. A **mandíbula** é o principal osso móvel da face. As **maxilas** formam parte da face, do palato e dos seios paranasais. As **suturas** são articulações fibrosas, importantes para reconhecer que nem toda articulação precisa se mover muito.
 
-## Cinto escapular e membro superior
-
-| Osso do Membro Superior | Marco / Clínica "High-Yield" |
-|-------------------------|--------------------------------|
-| **Escápula** | **Acrômio** (Teto do ombro) |
-| **Clavícula** | Fratura comum em quedas |
-| **Úmero** | **Colo Cirúrgico** (Risco Nervo) |
-| **Rádio** | **Lateral** (Lado do polegar) |
-| **Ulna** | **Medial** (Lado do V dedo) |
-| **Escafóide** | Dor na **Tabaqueira Anatômica** |
+Em prova prática, a banca não quer só o nome. Ela quer que você relacione localização e função: órbita protege globo ocular, forame magno conecta crânio e canal vertebral, mandíbula participa da mastigação.
 
 ---
 
-## Cinto pélvico e membro inferior
+## Coluna: número, curvatura e pista visual
 
-| Osso / Região | Destaque Clínico | Por que cai em Prova? |
-|-----------------|------------------|------------------------|
-| **Acetábulo** | Encontro do ílio, ísquio e púbis | Alvo de **artroplastia** de quadril |
-| **Colo do Fêmur**| Zona de fragilidade no idoso | Fratura por **Osteoporose**; risco de necrose |
-| **Patela** | Osso sesamoide | Melhora a alavanca do **Quadríceps** |
-| **Platô Tibial** | Superfície superior da tíbia | Comum em traumas de alta energia (atropelamento) |
-| **Maléolos** | Tornozelo (medial/lateral) | Estabilidade da pinça bimaleolar |
+A coluna cervical tem **7 vértebras** e lordose. A marca típica das cervicais é o **forame transverso**. C1 é o atlas, que sustenta a cabeça; C2 é o axis, com o dente que permite rotação; C7 é a vértebra proeminente palpável na base do pescoço.
+
+A coluna torácica tem **12 vértebras** e cifose. A pista é articulação com costelas. A lombar tem **5 vértebras**, lordose e corpos grandes, porque sustenta mais carga. Sacro e cóccix são segmentos fundidos que compõem a base posterior da pelve.
+
+> **Macete MedGradPlus - 7-12-5-funde:**
+> Cervical **7**, torácica **12**, lombar **5**, sacro/cóccix **fundem**. Cervical olha o forame transverso; torácica procura costela; lombar pesa.
+
+Essa sequência ajuda na identificação de peças. Se você vê forame transverso, pense cervical. Se vê fóvea costal, pense torácica. Se o corpo vertebral é grande e sem costela, pense lombar.
 
 ---
 
-## Articulações para não confundir
+## Tórax ósseo: costelas e esterno
 
-| Articulação | Tipo | Nota |
-|-------------|------|------|
-| Ombro | Sinovial esferóide | Grande amplitude; instável |
-| Cotovelo | Dobradiça + pivô | Complexo úmero-rádio-ulnar |
-| Punho | Múltiplas superfícies | Queda em extensão — escafóide |
-| Quadril | Esferóide profundo | Estável |
-| Joelho | Dobradiça | meniscos, LCA/LCP |
-| Tornozelo | Dobradiça | ligamentos laterais |
+O tórax ósseo protege vísceras e participa da mecânica respiratória. As costelas verdadeiras são os pares 1 a 7, ligados diretamente ao esterno. As falsas são 8 a 10, que se ligam indiretamente pela cartilagem da sétima. As flutuantes são 11 e 12, sem ligação anterior ao esterno.
+
+O esterno tem manúbrio, corpo e processo xifoide. O ângulo do esterno é referência anatômica importante porque se relaciona com a segunda costela. Mesmo em aula prática básica, esse marco ajuda a orientar contagem.
+
+Não memorize costela como lista isolada. Associe com proteção, respiração e articulação com vértebras torácicas. Isso reduz confusão entre coluna torácica e cervical.
+
+---
+
+## Membro superior: clavícula, escápula, rádio e ulna
+
+A clavícula é uma ponte entre esterno e escápula, e fratura com frequência. A escápula tem espinha, acrômio e cavidade glenoidal, que recebe a cabeça do úmero. O úmero conversa com ombro e cotovelo; o colo cirúrgico é marco relevante em fraturas.
+
+No antebraço, a orientação é obrigatória: em posição anatômica, **rádio fica lateral, no lado do polegar**, e **ulna fica medial, no lado do quinto dedo**. A ulna forma o olécrano, aquele “cotovelo” palpável.
+
+No punho, o escafoide merece atenção. Ele fica no assoalho da tabaqueira anatômica e pode fraturar em queda com a mão espalmada. Dor nesse ponto depois de trauma precisa acender alerta, mesmo quando a radiografia inicial não é óbvia.
+
+| Região | Marco que precisa sair rápido | Por que importa |
+|---|---|---|
+| **Coluna cervical** | C7 palpável e forame transverso | localização e exame físico |
+| **Punho** | escafoide na tabaqueira anatômica | fratura após queda |
+| **Quadril** | colo do fêmur | fratura de fragilidade |
+| **Tornozelo** | maléolo medial/tibial e lateral/fibular | entorse e fratura |
+
+---
+
+## Pelve e membro inferior
+
+A pelve óssea combina ílio, ísquio e púbis. O **acetábulo** recebe a cabeça do fêmur e transmite carga do tronco para o membro inferior. Essa região é central para marcha, equilíbrio e trauma.
+
+O fêmur tem cabeça, colo, trocânteres e corpo. O **colo do fêmur** é ponto clássico de fratura em idoso osteoporótico após queda de baixa energia. A patela é o maior osso sesamoide e aumenta a eficiência do quadríceps.
+
+Na perna, a **tíbia** é o principal osso de carga e forma o maléolo medial. A **fíbula** é lateral, mais fina, importante para inserções musculares e forma o maléolo lateral. Não troque: maléolo medial é tíbia; maléolo lateral é fíbula.
 
 ---
 
 ## Ponte com a Clínica
 
-Fratura do colo do fêmur em idoso associa-se a mortalidade elevada — contexto de osteoporose. Fratura de escafóide pode comprometer vascularização (necrose). Fratura de úmero proximal classifica-se (Neer) — o nome importa para conduta.
+Queda com mão espalmada e dor na tabaqueira anatômica deve levantar suspeita de fratura de **escafoide**. O risco é negligenciar a lesão porque a radiografia inicial pode ser pouco evidente.
+
+Idoso que cai da própria altura e passa a ter dor no quadril ou incapacidade de apoiar peso exige suspeita de fratura de **colo do fêmur**. Essa lesão muda independência, risco cirúrgico e reabilitação.
+
+Entorse por inversão costuma doer na região lateral do tornozelo. O marco ósseo é o **maléolo lateral da fíbula**. Já a dor medial leva o olhar para tíbia, deltoide e maléolo medial. Anatomia de superfície vira exame físico.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **C1 (Atlas) e C2 (Áxis):** Permitem a rotação da cabeça. O Áxis tem o **Processo Odontoide**.
-- **Vértebra Proeminente:** É a **C7**, facilmente palpável na base do pescoço.
-- **Rádio vs Ulna:** O **Rádio** é o osso que gira (pronossupinação) e fica do lado do polegar.
-- **Ossos do Carpo:** O **Escafóide** é o mais fraturado; o **Semilunar** é o que mais luxa.
-- **Pelve:** O **Acetábulo** é a cavidade que recebe a cabeça do fêmur.
+- **Axial:** crânio, coluna, costelas e esterno.
+- **Apendicular:** cinturas escapular/pélvica e membros.
+- **Forame magno:** passagem para medula espinal.
+- **Cervicais:** 7 vértebras e forames transversos.
+- **C7:** vértebra proeminente palpável.
+- **Torácicas:** 12 vértebras articuladas com costelas.
+- **Costelas verdadeiras:** 1 a 7.
+- **Rádio:** lateral, lado do polegar.
+- **Ulna:** medial, forma o olécrano.
+- **Escafoide:** dor na tabaqueira anatômica após queda.
+- **Colo do fêmur:** fratura de fragilidade no idoso.
+- **Maléolo medial/lateral:** tíbia/fíbula.
+
+## Mini Quiz
+
+1. **Qual conjunto pertence ao esqueleto axial?**
+   - [ ] Clavícula, escápula, úmero e rádio.
+   - [x] Crânio, coluna vertebral, costelas e esterno.
+   - [ ] Pelve, fêmur, tíbia e fíbula.
+   - [ ] Cinturas escapular e pélvica.
+   > **Explicação:** O axial forma o eixo corporal; cinturas e membros pertencem ao apendicular.
+
+2. **Qual característica ajuda a reconhecer vértebras cervicais?**
+   - [x] Forames transversos.
+   - [ ] Fóveas costais.
+   - [ ] Corpos vertebrais mais volumosos da coluna.
+   - [ ] Fusão em bloco ósseo único.
+   > **Explicação:** Forames transversos são marca típica das cervicais; fóveas costais são torácicas.
+
+3. **Dor na tabaqueira anatômica após queda com a mão espalmada sugere fratura de:**
+   - [ ] Ulna.
+   - [ ] Capitato.
+   - [x] Escafoide.
+   - [ ] Patela.
+   > **Explicação:** O escafoide fica no assoalho da tabaqueira anatômica e fratura nesse mecanismo.
+
+4. **Em idoso com queda da própria altura e dor no quadril, o sítio clássico de fratura por fragilidade é:**
+   - [ ] Patela.
+   - [ ] Maléolo medial.
+   - [ ] Acrômio.
+   - [x] Colo do fêmur.
+   > **Explicação:** O colo femoral é local típico de fratura osteoporótica após trauma de baixa energia.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> Em 30 minutos, revise: axial/apendicular, C7, curvaturas, costelas, rádio/ulna, escafoide, colo do fêmur e maléolos.
 
 ### Síntese para a prova
 
-- **Lordose vs Cifose:** As lordoses são **Cervical** e **Lombar**. As cifoses são **Torácica** e **Sacral**.
-- **Costelas Flutuantes:** Pares **11 e 12**. Não se articulam com o esterno.
-- **Colo do Fêmur:** Fratura clássica do idoso com osteoporose. Risco de **Necrose Avascular**.
-- **Maléolos:** O **Medial** é da Tíbia; o **Lateral** (mais distal) é da Fíbula.
+O **esqueleto axial** é eixo e proteção; o **apendicular** é cintura e membro. Na coluna, fixe cervical 7 com forame transverso, torácica 12 com costelas, lombar 5 com corpos grandes e sacro/cóccix fundidos.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Neurocrânio** | **Viscerocrânio** | Protege o cérebro vs Forma a face |
-| **Olécrano** | **Acrômio** | Ponta do **Cotovelo** vs Ponta do **Ombro** |
-| **Tíbia** | **Fíbula** | Suporte de **Carga** vs Inserções Musculares |
-| **Sesamoide** | **Pneumático** | Dentro do tendão vs Cavidade de ar |
+No membro superior, **rádio é polegar** e **ulna é olécrano/quinto dedo**. No membro inferior, **tíbia carrega peso e faz maléolo medial**; **fíbula é lateral e faz maléolo lateral**. Escafoide, colo femoral e C7 são marcos clínicos de prova.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial crítico |
+|---|---|---|
+| **Axial** | **Apendicular** | eixo/proteção versus cinturas/membros |
+| **Atlas (C1)** | **Axis (C2)** | sustenta cabeça versus dente/rotação |
+| **Cervical** | **Torácica** | forame transverso versus articulação com costela |
+| **Rádio** | **Ulna** | polegar/lateral versus quinto dedo/medial |
+| **Maléolo medial** | **Maléolo lateral** | tíbia versus fíbula |
+| **Escafoide** | **Colo do fêmur** | queda na mão versus queda do idoso |
+
+### Erros que custam ponto
+
+- Colocar clavícula e escápula no esqueleto axial.
+- Trocar rádio e ulna em posição anatômica.
+- Dizer que todas as costelas se articulam diretamente com o esterno.
+- Confundir maléolo lateral com tíbia.
+- Ignorar escafoide em queda sobre mão espalmada.
+- Tratar fratura de colo do fêmur como detalhe raro no idoso.
 
 ### Frase-âncora para não esquecer
 
-> “Nomear osso é nomear o mapa onde a lesão acontece.”
+> Axial é eixo; apendicular é movimento. Rádio no polegar, ulna no cotovelo, fíbula no maléolo lateral e fêmur no risco do idoso.

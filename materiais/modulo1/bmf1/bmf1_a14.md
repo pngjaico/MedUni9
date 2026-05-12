@@ -1,103 +1,179 @@
-# BMF1 — Aula 14: Tegumento — Tecido Epitelial de Revestimento
+# BMF1 - Aula 14: Tegumento - Tecido Epitelial de Revestimento
 
-A **Pele** é o maior órgão do corpo e a principal barreira do sistema imune contra o mundo externo. Na prova, os temas centrais são a hierarquia de camadas da **Epiderme** (da Basal à Córnea), a função das células intraepidérmicas e a diferença entre **Pele Fina** e **Pele Espessa**.
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Junqueira e Carneiro, pele e epitélios  
+**Tempo de estudo sugerido:** 15-20 min
 
-Na prática clínica, entender a estratificação epitelial e a vascularização da derme subjacente é o que explica a gravidade das **Queimaduras**. Se uma queimadura de **3º grau** destrói a **camada basal (células-tronco)**, a pele não se regenera sozinha. Da mesma forma, entender os anexos epidérmicos (**glândulas sebáceas**) decifra o mecanismo fisiopatológico clássico da **Acne**.
+---
+
+## Relevância clínica e acadêmica
+
+O tegumento é barreira, sensor, regulador térmico e interface imunológica. A parte mais cobrada nesta aula é a epiderme: um epitélio estratificado pavimentoso queratinizado que se renova continuamente a partir do estrato basal.
+
+Não trate pele como "capa". A epiderme é avascular e depende da derme; a derme sustenta, vasculariza e abriga anexos; a hipoderme isola, reserva energia e amortece. Essa organização explica queimadura, úlcera por pressão, melanoma e cicatrização.
+
+O aluno precisa sair sabendo classificar epitélios de revestimento, reconhecer as camadas da epiderme, diferenciar células epidérmicas e entender por que pele espessa, pele fina e mucosa não são equivalentes.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A14-F01`
+**Figura-ID:** BMF1-A14-F01
 
-- **Momento:** Após a seção das camadas da epiderme.
-- **O que mostrar:** O **"Muro de Proteção"**: Um corte em 3D da pele mostrando a **Epiderme** no topo, com suas células empilhadas e a grossa camada amarela do **Estrato Córneo** descamando em cima. Abaixo, as "ondas" das **Papilas Dérmicas** se interdigitando com a epiderme. Mostrar a raiz de um **Pelo** mergulhada na Derme com uma **Glândula Sebácea** agrupada a ele.
-- **Tipo sugerido:** Infográfico de anatomia tegumentar.
-- **Legenda (rascunho):** A arquitetura da pele: defesa na epiderme avascular e suporte estrutural na derme vascularizada.
-
-## 1. Princípios de Classificação Epitelial
-
-O tecido epitelial serve para revestir ou secretar. A regra de ouro é: **"A forma dita a função"**.
-1.  **Número de Camadas:** 
-    - **Epitélio Simples** (Uma camada): Ideal para secreção e absorção (Ex: Intestino).
-    - **Epitélio Estratificado** (Várias camadas): Ideal para áreas de alto atrito e proteção (Ex: Pele).
-2.  **Forma da Célula (Da mais externa):** **Escamoso/Pavimentoso** (chato), **Cúbico** (quadrado) ou **Colunar** (cilíndrico).
-3.  **Presença de Queratina:** Secreção de uma proteína morta e seca na base que cria a impermeabilização máxima (Esôfago é **não** queratinizado; a Pele é **queratinizada**).
+- **Momento:** após a seção de camadas da epiderme.
+- **O que mostrar:** corte de pele com epiderme em camadas, junção dermoepidérmica, derme papilar/reticular, hipoderme, folículo piloso e glândulas.
+- **Tipo sugerido:** esquema histológico didático ou ilustração de atlas.
+- **Legenda:** Pele em corte: epiderme avascular apoiada por derme vascularizada.
 
 ---
 
-## 2. A Epiderme: Ascensão e Descamamento
+## Como classificar epitélio de revestimento
 
-A epiderme é um epitélio **Estratificado Pavimentoso Queratinizado**. Ela é completamente **Avascular** (não sangra); depende dos vasos da derme que estão logo abaixo para se nutrir por **difusão**.
+Classifique primeiro pelo número de camadas. Epitélio **simples** tem uma camada e costuma estar ligado a troca, secreção ou absorção. Epitélio **estratificado** tem várias camadas e costuma estar ligado a proteção.
 
-As células iniciam a vida no fundo e morrem secas no topo:
-| Camada | Função Biológica | Importância Clínica |
-|--------------------|-------------------------|----------------------|
-| **Estrato Córneo** | A superfície morta com **Queratina**. | Proteção Absoluta contra perda de água. |
-| **Estrato Lúcido** | Camada translúcida extra. | **Exclusiva da Pele Espessa** (Palma e Planta). |
-| **Estrato Granuloso**| Acúmulo de **Querato-hialina**. | É o ponto sem volta da **Morte Celular**. |
-| **Estrato Espinhoso**| Rico em **Desmossomos** (fortes conexões).| Cria enorme **Resistência ao Atrito (Rasgo)**. |
-| **Estrato Basal** | Assenta na Membrana Basal; faz mitoses. | Aqui residem as **Células-tronco** da Renovação. |
+Depois classifique pela forma da célula mais superficial: pavimentosa, cúbica ou colunar. No epitélio estratificado, quem dá o nome é a célula da superfície, não a camada basal.
+
+Por fim, veja se há queratina. Epitélio estratificado pavimentoso **queratinizado** é típico da pele. Epitélio estratificado pavimentoso **não queratinizado** aparece em mucosas sujeitas a atrito, como boca, esôfago e vagina.
+
+> **Pegadinha de prova:** no estratificado, não olhe a célula da base para nomear. O nome vem da célula superficial.
 
 ---
 
-## 3. As Patrulhas Invisíveis da Epiderme
+## Epiderme: renovação de baixo para cima
 
-A epiderme não é feita apenas de queratinócitos. Outros especialistas moram nela:
-- **Melanócitos (Camada Basal):** Produzem **Melanina** e a "injetam" nos queratinócitos para agir como **guarda-sol nuclear**, protegendo o DNA contra a **Radiação UV** (Câncer de Pele).
-- **Células de Langerhans:** Células Imunes da linha de frente. Capturam bactérias (**Apresentadoras de Antígeno**) e correm para o linfonodo.
-- **Células de Merkel:** Receptores neurais para o **Tato Fino** (pressão leve).
+A epiderme é avascular e recebe nutrientes por difusão a partir da derme. Os queratinócitos nascem no estrato basal, sobem, acumulam queratina, perdem núcleo e formam a barreira córnea.
+
+O **estrato basal** é a camada proliferativa, rica em mitoses. O **estrato espinhoso** tem desmossomos marcantes, dando resistência mecânica. O **estrato granuloso** marca a queratinização intensa. O **estrato córneo** é a camada mais superficial, feita de células mortas queratinizadas.
+
+Na pele espessa, como palmas e plantas, aparece também o **estrato lúcido**, entre granuloso e córneo. Ele não é esperado com destaque na pele fina.
+
+> **Macete MedGradPlus - Base nasce, córneo protege:** basal renova, espinhoso segura, granuloso queratiniza e córneo barreira.
 
 ---
 
-## 4. Derme (O Suporte) e Os Anexos 
+## Células da epiderme
 
-A derme fixa a epiderme. Ela tem uma fina camada **Papilar** no topo (que faz "ondas" para aumentar a área de ancoragem e nutrir a epiderme) e uma grossa camada **Reticular** embaixo, cheia de **Colágeno Tipo I** para resistência extrema.
+O **queratinócito** é a célula dominante da epiderme e produz queratina, formando a principal barreira física.
 
-Os **Anexos** nascem como invaginações da epiderme, mas vivem fundos na derme e hipoderme:
-- **Folículo Piloso + Músculo Eretor:** A raiz do pelo e o músculo involuntário que o arrepia para reter calor (**horripilação**).
-- **Glândulas Sebáceas:** Estão sempre anexadas aos pelos. Secretam **sebo** (óleo hidrofóbico). É o entupimento e inflamação bacteriana deste duto que gera a **Acne Vulgar**.
-- **Glândulas Écrinas:** O **suor térmico**. Estão em toda a pele, e os dutos se abrem direto na superfície para a **Termorregulação**.
-- **Glândulas Apócrinas:** Suor espesso descarregado junto ao folículo no assoalho capilar de regiões restritas (**Axilas/Púbis**); ao serem degradadas por bactérias geram o **Odor** e não participam do controle térmico.
+O **melanócito** produz melanina e transfere pigmento para queratinócitos. A função central é proteger o DNA contra radiação ultravioleta. Cor da pele depende mais de atividade e distribuição de melanina do que do número absoluto de melanócitos.
+
+A **célula de Langerhans** participa da vigilância imune e apresentação de antígeno. A **célula de Merkel** está ligada a tato fino e mecanorrecepção, especialmente em áreas sensíveis.
+
+---
+
+## Derme e hipoderme
+
+A derme papilar é superficial, mais frouxa, vascularizada e forma papilas dérmicas que aumentam a interface com a epiderme. Ela ajuda na nutrição da epiderme e na sensibilidade.
+
+A derme reticular é mais profunda e rica em tecido conjuntivo denso irregular, principalmente colágeno tipo I. Ela dá resistência, elasticidade relativa e suporte aos anexos.
+
+A hipoderme fica abaixo da derme e é rica em tecido adiposo. Ela participa de isolamento térmico, reserva energética e amortecimento. Lesões profundas que chegam à hipoderme já ultrapassaram o plano superficial da pele.
+
+---
+
+## Pele espessa, pele fina e mucosa
+
+Pele espessa aparece em palmas e plantas. Ela tem estrato córneo muito desenvolvido, estrato lúcido evidente e não possui pelos ou glândulas sebáceas associadas a folículos.
+
+Pele fina cobre a maior parte do corpo. Tem estrato córneo mais discreto, folículos pilosos, glândulas sebáceas e glândulas sudoríparas.
+
+Mucosas como boca e esôfago usam epitélio estratificado pavimentoso não queratinizado. Protegem contra atrito sem criar uma camada córnea seca como a pele.
+
+---
+
+## Queimaduras, bolhas e úlceras
+
+Queimadura superficial preserva derme e anexos, permitindo regeneração mais eficiente. Queimaduras profundas destroem estruturas de regeneração e podem exigir enxerto.
+
+A bolha aparece quando há separação entre epiderme e derme ou dentro da epiderme, com acúmulo de líquido. Em queimaduras de segundo grau, esse descolamento é clássico.
+
+Úlcera por pressão surge por isquemia em áreas de proeminência óssea. Se aprofunda, atravessa epiderme e derme e pode atingir hipoderme, fáscia e músculo.
 
 ---
 
 ## Ponte com a Clínica
 
-Quando um paciente fica muito tempo deitado na mesma posição (acamados em UTIs), o peso do seu osso contra a cama esmaga a vascularização da **Derme**. Sem sangue, as células não respiram e o tecido sofre necrose; a pele despenca e forma um buraco chamado de **Úlcera de Pressão (Escara)** na proeminência óssea (ex: Sacro, Calcanhar). Na suspeita oncológica (**Melanoma**), uma **Biópsia excisional** jamais retira apenas a epiderme; ela deve buscar **profundidade** suficiente (até a hipoderme) para o patologista documentar a margem e até que camada o tumor infiltrou (**Índice de Breslow**).
+Melanoma preocupa porque invade em profundidade. Como a epiderme é avascular, a relação com derme e vasos importa para risco de disseminação.
+
+Queimadura profunda não é apenas "mais vermelha"; ela destrói derme e anexos, reduzindo capacidade de regeneração. A avaliação de profundidade tem consequência prática.
+
+Na ferida crônica por pressão, entender derme e hipoderme evita subestimar a lesão. Se há gordura visível, a lesão já passou da derme.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Membrana Basal:** É o **"cimento"** que une a Epiderme e a Derme. Um tumor **in situ** é câncer que ainda **não cruzou** a membrana basal.
-- **Epitélio Mucoso:** Exige ambiente úmido para as células da superfície viverem, como na Boca e Esôfago. É **Não-Queratinizado**.
-- **Microvilosidades:** Extensões da membrana para **Absorção** no Trato Gastrointestinal (Epitélio Simples Colunar com Vilos).
-- **Pele Grossa vs Pele Fina:** Pele grossa tem **Estrato Lúcido** e uma gigantesca camada de **Estrato Córneo**; **Não possui folículo piloso**, nem glândulas sebáceas (ex: Sola do Pé).
+- **Epiderme** é epitélio estratificado pavimentoso queratinizado.
+- **Estrato basal** é proliferativo e repõe queratinócitos.
+- **Estrato espinhoso** tem desmossomos fortes.
+- **Estrato granuloso** marca queratinização intensa.
+- **Estrato córneo** forma barreira com células mortas queratinizadas.
+- **Estrato lúcido** aparece na pele espessa.
+- **Melanócito** produz melanina e protege DNA contra UV.
+- **Langerhans** participa da imunidade.
+- **Merkel** participa do tato fino.
+- **Derme reticular** é profunda, densa e rica em colágeno I.
+
+---
+
+## Mini Quiz
+
+1. **Qual camada da epiderme contém células com maior atividade mitótica?**
+- [x] Estrato basal
+- [ ] Estrato córneo
+- [ ] Estrato lúcido
+- [ ] Hipoderme
+> **Explicação:** o estrato basal repõe os queratinócitos que migram para a superfície.
+
+2. **Qual célula epidérmica produz melanina?**
+- [ ] Langerhans
+- [x] Melanócito
+- [ ] Merkel
+- [ ] Fibroblasto reticular
+> **Explicação:** melanócitos produzem melanina e a transferem para queratinócitos.
+
+3. **Uma lesão cutânea chega ao tecido adiposo abaixo da derme. Qual camada foi atingida?**
+- [ ] Estrato granuloso
+- [ ] Derme papilar
+- [x] Hipoderme
+- [ ] Estrato lúcido
+> **Explicação:** a hipoderme é rica em tecido adiposo e fica abaixo da derme.
+
+4. **Qual epitélio é típico da epiderme?**
+- [ ] Simples colunar
+- [ ] Simples pavimentoso
+- [ ] Pseudoestratificado ciliado
+- [x] Estratificado pavimentoso queratinizado
+> **Explicação:** a pele precisa de múltiplas camadas e queratina para barreira.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Para gabaritar tecido epitelial tegumentar, foque na **Organização Laminar**.
-**Queratina** = **Barreira invencível e seca na Epiderme**. **Colágeno Tipo I** = **Super-resistência tensional da Derme**. As glândulas e os folículos moram afundados no **"sótão" (derme)** mas derivam da **"sacada" (epiderme)**. 
+Pele é epitélio estratificado pavimentoso queratinizado apoiado por derme vascularizada. A epiderme é avascular, então depende da difusão pela derme.
 
-A **Uninove** adora cobrar o eixo das células especializadas. O **Melanócito** faz o **escudo biológico**; se ele sofre mutação agressiva, surge o **Melanoma**. As **Células de Langerhans** fazem a **polícia imunológica**. Não confunda a secreção **Écrina** (suor aquoso normal termorregulador espalhado pelo corpo) com a **Apócrina** (suor nas axilas atrelado a odor via digestão bacteriana). Nos epitélios em si, se fala de atrito e ingestão ríspida (boca, esôfago), pense no pavimento para aguentar: **Estratificado Pavimentoso Não Queratinizado**.
+A sequência funcional é: basal renova, espinhoso resiste, granuloso queratiniza, córneo protege. Lúcido só ganha destaque em pele espessa.
 
-### Diferenciações que a Uninove adora cobrar
+Células: queratinócito faz barreira; melanócito faz melanina; Langerhans faz vigilância imune; Merkel faz tato fino. Derme reticular dá força; hipoderme tem gordura.
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|-------------------------|
-| **Estrato Basal** | **Estrato Córneo** | **Células-Tronco Vivas (Base) vs Células Sem Núcleo/Mortas (Superfície)** |
-| **Derme Papilar** | **Derme Reticular** | **Topo nutritivo ondulado vs Parte profunda cheia de colágeno forte** |
-| **Glândula Écrina** | **Glândula Apócrina** | **Drena na superfície da derme (Febre/Calor) vs Drena no Folículo Pilar (Axila)** |
-| **Melanócito** | **Célula de Langerhans**| **Faz Proteína Melanina vs Faz a Defesa Imunológica Local** |
-| **Simples Colunar** | **Estratificado Pavimentoso** | **Órgãos focados em Absorção vs Focados em Proteção contra Atrito** |
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **Pele espessa** vs **pele fina** | espessa tem córneo forte e lúcido; fina tem pelos e sebáceas |
+| **Basal** vs **córneo** | basal divide; córneo protege |
+| **Melanócito** vs **queratinócito** | melanócito produz pigmento; queratinócito faz barreira |
+| **Derme papilar** vs **reticular** | papilar superficial e vascular; reticular profunda e forte |
+| **Derme** vs **hipoderme** | derme conjuntiva; hipoderme adiposa |
+
+### Figura sugerida
+
+Use a figura BMF1-A14-F01 para revisar camadas da epiderme, derme e hipoderme. A imagem precisa mostrar pele espessa/fina ou pelo menos destacar onde fica cada camada.
 
 ### Frase-âncora para não esquecer
 
-> **"O basal faz a tropa, o espinhoso amarra tudo; o granuloso avisa do fim, o córneo seca e fica mudo. A derme segura a onda com vaso, papila e colar; se queimar até o fundo, a pele perde o dom de se recuperar."**
+> **A epiderme protege, mas quem alimenta é a derme.**

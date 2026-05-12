@@ -3,17 +3,41 @@
   "materia": "sus",
   "modulo": 1,
   "tema": "O SUS e as Leis Orgânicas da Saúde",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-11",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Lei nº 8.080, de 19 de setembro de 1990",
+      "capitulo": "Disposições gerais, princípios, diretrizes, organização e competências do SUS",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Lei nº 8.142, de 28 de dezembro de 1990",
+      "capitulo": "Participação da comunidade e transferências intergovernamentais de recursos",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Constituição da República Federativa do Brasil de 1988",
+      "capitulo": "Artigos 196 a 200",
+      "paginas": "",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Ministério da Saúde - Para entender o SUS",
+      "capitulo": "Princípios, diretrizes, participação social e organização do sistema",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula consolida a base operacional do SUS, diferenciando Lei 8.080 e Lei 8.142, princípios, diretrizes, controle social, financiamento e organização de rede.",
+  "pontos_de_prova": [
+    "Lei 8.080 como organização e campo de atuação do SUS",
+    "Lei 8.142 como participação social e transferências",
+    "Universalidade, integralidade, equidade, descentralização, regionalização e hierarquização",
+    "Conselho permanente/deliberativo versus conferência periódica/propositiva",
+    "Complementaridade privada sem substituição do dever estatal"
+  ],
+  "observacoes": "A aula anterior cobre a gênese histórico-constitucional; esta aprofunda o funcionamento normativo e de gestão."
 }

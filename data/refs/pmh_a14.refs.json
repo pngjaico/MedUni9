@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Adaptações Metabólicas e Aplicações Clínicas",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:42:11.149Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Adaptações Metabólicas e Aplicações Clínicas",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Adaptações Metabólicas e Aplicações Clínicas",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Adaptações Metabólicas e Aplicações Clínicas",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Adaptações Metabólicas e Aplicações Clínicas.",
+  "pontos_de_prova": [
+    "Jejum curto usa glicogênio hepático.",
+    "Jejum prolongado aumenta cetogênese.",
+    "Cérebro adapta uso de corpos cetônicos.",
+    "Exercício intenso aumenta lactato.",
+    "Exercício prolongado usa mais ácidos graxos.",
+    "Sepse gera hiperglicemia de estresse.",
+    "Cortisol e catecolaminas são contrarreguladores.",
+    "Refeeding causa hipofosfatemia.",
+    "Obesidade visceral aumenta resistência insulínica.",
+    "Caquexia é catabolismo inflamatório."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

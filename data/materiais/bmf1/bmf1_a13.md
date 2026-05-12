@@ -1,123 +1,179 @@
-# BMF1 — Aula 13: Prática — Músculos da Coluna, Membros Superiores e Inferiores
+# BMF1 - Aula 13: Prática - Músculos da Coluna, Membros Superiores e Inferiores
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Moore, anatomia dos membros e dorso  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-Saber o **Nome**, **Ação** e **Inervação** dos músculos permite realizar um exame físico preciso. Para a prova, não decore listas; entenda os **Compartimentos** e quais nervos os comandam (ex: **Radial** para extensores). Na prática, quadros como o **Manguito Rotador** e a **Marcha Escavante** (pé caído) são os grandes favoritos das bancas de anatomia clínica.
+Esta prática fecha o bloco muscular do locomotor. O objetivo não é decorar listas enormes de origem e inserção, mas aprender a localizar músculos por compartimento, prever ação e associar nervo a déficit motor.
 
+Na prova prática, o professor pode apontar um músculo, uma região ou um movimento. A pergunta real costuma ser: qual ação se perde se esse nervo lesar? Qual músculo inicia esse movimento? Qual compartimento está envolvido?
+
+Use três perguntas para estudar qualquer músculo: **onde está?**, **qual articulação cruza?**, **qual nervo manda nele?**. Com isso, bíceps, tríceps, deltoide, quadríceps, isquiotibiais, tibial anterior e tríceps sural deixam de ser nomes soltos.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A13-F01`
+**Figura-ID:** BMF1-A13-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Como estudar músculos sem “decorar livro fechado”
-
-| Etapa | O que fazer |
-|-------|-------------|
-| 1 | Desenhar **osso** → **inserção proximal** → **inserção distal** |
-| 2 | Perguntar: qual **articulação** cruza? Essa é a **ação principal** |
-| 3 | Agrupar por **compartimento** (anterior/posterior/medial) |
-| 4 | Associar **nervo** ao **compartimento** do membro |
+- **Momento:** após o bloco de compartimentos dos membros.
+- **O que mostrar:** mapa anatômico simples dos principais compartimentos: braço anterior/posterior, antebraço flexor/extensor, coxa anterior/medial/posterior e perna anterior/posterior/lateral, com nervos principais.
+- **Tipo sugerido:** infográfico anatômico didático para mobile.
+- **Legenda:** Compartimentos musculares e nervos: ação perdida é anatomia aplicada.
 
 ---
 
-## Coluna vertebral: estabilizadores e movimentos
+## Como raciocinar em prática
 
-| Grupo | Músculos (representativos) | Ação principal |
-|-------|----------------------------|----------------|
-| Extensores superficiais | Erector spinae (sacroespinal) | Extensão, sustentação |
-| Flexores profundos | Psoas maior (com coluna) | Flexão de quadril |
-| Região cervical | Esternocleidomastoideo, escalenos | Flexão lateral, rotação, elevação de costelas |
+Comece pelo osso e pela articulação. Um músculo só produz movimento se cruza uma articulação e traciona em uma direção útil. Se cruza o cotovelo por anterior, tende a flexionar; se cruza por posterior, tende a estender.
 
-> **Dica de Prova:** **Hérnia de disco** com déficit — relacione **nível** com **dermatoma** e **músculo** testável (ex.: extensão do hálux para L5 em contexto clássico).
+Depois agrupe por compartimento. Compartimentos juntam músculos com função e inervação parecidas. Isso é mais eficiente que decorar cada músculo isolado.
 
----
+Por fim, transforme anatomia em exame físico. Se o paciente não estende punho, pense em radial. Se não dorsiflete o pé, pense em fibular profundo/comum. Se não estende joelho, pense em quadríceps e nervo femoral.
 
-## Membro superior: manguito e deltoide
-
-| Músculo do Manguito | Função no Ombro | Nervo Responsável |
-|---------------------|-----------------|-------------------|
-| **Supraespinhal** | Inicia Abdução | Supraescapular |
-| **Infraespinhal** | Rotação Lateral | Supraescapular |
-| **Redondo Menor** | Rotação Lateral | Axilar |
-| **Subescapular** | Rotação Medial | Subescapular |
-| **Deltoide** | Abdução Principal | Axilar |
-
-O **Manguito Rotador** estabiliza a cabeça do úmero na glenoide. A fraqueza no **Supraespinhal** é a causa mais comum de dor crônica no ombro do adulto.
+> **Macete MedGradPlus - compartimento entrega o nervo:** anterior da coxa lembra femoral; medial da coxa lembra obturador; posterior da perna lembra tibial.
 
 ---
 
-## Braço e antebraço: flexores vs extensores
+## Coluna e dorso
 
-| Membro Superior | Nervo Dominante | Ação Perdida na Lesão |
-|-----------------|------------------|-----------------------|
-| **Braço Anterior**| **Musculocutâneo**| Flexão do Cotovelo |
-| **Braço Posterior**| **Radial** | Extensão do Cotovelo |
-| **Antebr. Post.** | **Radial** | **Mão Caída** (Extensão) |
-| **Antebr. Ant.** | **Mediano / Ulnar** | Flexão de Punho/Dedos |
+Os músculos paravertebrais sustentam postura e estendem a coluna. O grupo eretor da espinha é o nome que você deve reconhecer como estabilizador e extensor do dorso.
 
----
+Na cervical, esternocleidomastoideo participa de rotação contralateral e flexão cervical. Escalenos ajudam em flexão lateral e podem atuar como acessórios da respiração. Não tente decorar tudo no mesmo peso: para prova básica, função principal e localização valem mais.
 
-## Membro inferior: quadril — flexores, extensores, adutores, rotadores
-
-| Grupo | Músculos-chave | Ação |
-|-------|----------------|------|
-| Flexores | Ilíopsoas, reto femoral | Flexão de quadril |
-| Extensores | Glúteo máximo, isquiotibiais (extensão de quadril com joelho flexo) | Extensão |
-| Adutores | Adutor longo/magno, grácil | Adução |
-| Rotadores laterais | Piriforme, pequeno glúteo, médio glúteo (abdução) | Estabilidade de quadril |
-
-> **Pegadinha:** **Piriforme** pode comprimir **ciático** quando espasmado ou **hipertrofiado** — síndrome do piriforme (diagnóstico de exclusão na prática).
+O diafragma merece destaque separado. É o principal músculo respiratório e recebe inervação do nervo frênico, raízes C3-C5. A frase clássica é: C3, C4 e C5 mantêm o diafragma vivo.
 
 ---
 
-## Coxa: compartimento anterior / medial / posterior
+## Ombro: deltoide e manguito
 
-| Segmento Inferior | Nervo Principal | "Gatilho" Clínico |
-|-------------------|------------------|--------------------|
-| **Coxa Anterior** | **Femoral** | Extensão do Joelho |
-| **Coxa Medial** | **Obturador** | Adução da Coxa |
-| **Coxa Posterior** | **Ciático** | Flexão do Joelho |
-| **Perna Anterior** | **Fibular Profundo**| **Pé Caído** (Dorsiflexão)|
-| **Perna Posterior** | **Tibial** | Ponta do pé (Flexão) |
+O deltoide é o grande abdutor do ombro após os primeiros graus. Sua inervação é pelo nervo axilar. Lesão do axilar causa dificuldade de abdução e perda sensitiva na região lateral do ombro.
 
-**Marcha Escavante (Steppage):** Ocorre na lesão do **Nervo Fibular Comum**. O paciente não consegue levantar o pé e tropeça na própria ponta dos dedos.
+O manguito rotador estabiliza a cabeça do úmero na glenoide. O supraespinhal inicia a abdução; infraespinhal e redondo menor fazem rotação lateral; subescapular faz rotação medial.
+
+O supraespinhal é muito cobrado porque se relaciona com dor crônica no ombro e teste de abdução inicial. Mas não esqueça: manguito não é só movimento, é estabilização dinâmica da glenoumeral.
+
+> **Pegadinha de prova:** deltoide não inicia sozinho toda a abdução. O supraespinhal inicia; o deltoide assume como grande motor depois.
+
+---
+
+## Braço, antebraço e mão
+
+No braço anterior, bíceps braquial e braquial participam da flexão do cotovelo. O bíceps também é supinador importante, especialmente com o cotovelo flexionado. A inervação predominante desse compartimento é musculocutânea.
+
+No braço posterior, o tríceps estende o cotovelo e é comandado pelo nervo radial. A lógica continua no antebraço: extensores do punho e dedos dependem do radial; lesão radial produz a clássica mão caída.
+
+Flexores do antebraço são principalmente mediano e ulnar. Em nível básico, o essencial é não errar o mapa: radial estende; mediano e ulnar flexionam e controlam grande parte da mão.
+
+---
+
+## Quadril e coxa
+
+O iliopsoas é o principal flexor do quadril. O glúteo máximo é extensor potente do quadril, importante ao levantar da cadeira ou subir escadas. O glúteo médio estabiliza a pelve durante a marcha.
+
+Na coxa anterior, o quadríceps estende o joelho e é inervado pelo nervo femoral. O reto femoral é especial porque também cruza o quadril, participando da flexão do quadril.
+
+Na coxa medial, os adutores aproximam a coxa da linha média e recebem inervação do obturador. Na coxa posterior, os isquiotibiais flexionam o joelho e estendem o quadril, com inervação relacionada ao ciático.
+
+---
+
+## Perna e marcha
+
+Na perna anterior, o tibial anterior e extensores fazem dorsiflexão. O nervo fibular profundo é a associação forte. Quando ele falha, o pé cai e o paciente eleva exageradamente o joelho para não arrastar a ponta: marcha escavante ou steppage.
+
+Na perna posterior, gastrocnêmio e sóleo fazem flexão plantar pelo tendão calcâneo. A inervação é pelo tibial. Teste simples: ficar na ponta dos pés.
+
+Na perna lateral, fibulares fazem eversão do pé. Eles ajudam a estabilizar o tornozelo contra inversão, conectando esta prática com a aula de articulações.
 
 ---
 
 ## Ponte com a Clínica
 
-**Teste de força** por **segmento** documenta **déficit** motor antes da imagem. **Rabdomiólise** atinge **músculos** de maior massa (quadríceps, glúteo) — **CK** elevada. **Síndrome compartimental** = dor desproporcional + **dor** à **extensão** passiva — **emergência** cirúrgica.
+O exame neurológico motor é anatomia aplicada. Dorsiflexão testa compartimento anterior da perna e nervo fibular profundo. Extensão de joelho testa quadríceps e nervo femoral. Abdução do ombro testa deltoide/axilar e supraespinhal/supraescapular conforme o arco.
+
+Na síndrome compartimental, a dor desproporcional e a dor à extensão passiva surgem porque músculos, nervos e vasos estão comprimidos dentro da fáscia. Na rabdomiólise, músculos grandes como quadríceps e glúteos podem liberar muita CK e mioglobina.
+
+Na prática de anatomia, isso significa que cada músculo precisa virar movimento testável. Nome isolado vende pouco; nome com ação e nervo vira raciocínio clínico.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Diafragma:** Principal músculo respiratório. Inervado pelo **Nervo Frênico** (C3-C5).
-- **Glúteo Médio:** Estabiliza a pelve. Sua fraqueza causa a **Marcha de Trendelenburg**.
-- **Quadríceps:** Formado por 4 ventres. O **Reto Femoral** é o único que também flexiona o quadril.
-- **Tríceps Sural:** Gastrocnêmios + Sóleo. Inserem-se no Calcâneo pelo **Tendão de Aquiles**.
-- **Músculos da Mastigação:** Temporal e Masseter. Inervados pelo **Trigemio (V3)**.
+- **Diafragma** é principal músculo respiratório e depende do frênico C3-C5.
+- **Supraespinhal** inicia abdução do ombro.
+- **Deltoide** é grande abdutor do ombro e depende do nervo axilar.
+- **Bíceps braquial** flexiona cotovelo e supina antebraço.
+- **Tríceps braquial** estende cotovelo e depende do radial.
+- **Quadríceps** estende joelho e depende do femoral.
+- **Adutores** da coxa dependem principalmente do obturador.
+- **Isquiotibiais** flexionam joelho e estendem quadril.
+- **Tibial anterior** faz dorsiflexão e depende do fibular profundo.
+- **Tríceps sural** faz flexão plantar pelo tendão de Aquiles.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Nervo Radial** | **Nervo Mediano** | Extensores vs Flexores (Mão) |
-| **Nervo Femoral** | **Nervo Obturador** | Extensão Joelho vs Adução Coxa |
-| **Supraespinhal** | **Deltoide** | Início da abdução vs Abdução total |
-| **Agonista** | **Antagonista** | Faz o movimento vs Se opõe a ele |
+---
+
+## Mini Quiz
+
+1. **Paciente com mão caída após lesão nervosa perdeu principalmente qual função?**
+- [ ] Flexão do punho por nervo mediano
+- [x] Extensão do punho por nervo radial
+- [ ] Adução da coxa por nervo obturador
+- [ ] Dorsiflexão por nervo fibular profundo
+> **Explicação:** lesão radial compromete extensores do punho e dedos, gerando mão caída.
+
+2. **Fraqueza para extensão do joelho aponta primeiro para qual músculo e nervo?**
+- [x] Quadríceps e nervo femoral
+- [ ] Isquiotibiais e nervo ciático
+- [ ] Adutores e nervo obturador
+- [ ] Gastrocnêmio e nervo tibial
+> **Explicação:** quadríceps é o extensor do joelho e recebe inervação femoral.
+
+3. **Qual músculo inicia a abdução do ombro antes do deltoide dominar o movimento?**
+- [ ] Subescapular
+- [ ] Redondo maior
+- [x] Supraespinhal
+- [ ] Tríceps braquial
+> **Explicação:** supraespinhal inicia a abdução e estabiliza a cabeça do úmero.
+
+4. **Pé caído com marcha escavante sugere lesão relacionada a qual nervo?**
+- [ ] Tibial
+- [ ] Obturador
+- [ ] Femoral
+- [x] Fibular comum/profundo
+> **Explicação:** perda de dorsiflexão por comprometimento fibular causa pé caído e steppage.
+
+---
+
+## Pré-Prova
+
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+
+### Síntese para a prova
+
+Não revise músculo como lista. Revise como compartimento: braço anterior flexiona cotovelo; braço posterior estende. Coxa anterior estende joelho; coxa medial aduz; coxa posterior flexiona joelho. Perna anterior dorsiflete; posterior faz ponta do pé.
+
+Associações obrigatórias: radial = extensão do punho; femoral = quadríceps; obturador = adutores; fibular profundo = dorsiflexão; tibial = flexão plantar.
+
+No ombro, supraespinhal inicia abdução e deltoide sustenta a abdução principal. No quadril, glúteo médio estabiliza pelve e glúteo máximo estende.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **Supraespinhal** vs **deltoide** | supra inicia abdução; deltoide domina depois |
+| **Radial** vs **mediano/ulnar** | radial estende; mediano/ulnar flexionam e controlam mão |
+| **Femoral** vs **obturador** | femoral estende joelho; obturador aduz coxa |
+| **Fibular profundo** vs **tibial** | fibular dorsiflete; tibial faz flexão plantar |
+| **Glúteo máximo** vs **glúteo médio** | máximo estende quadril; médio estabiliza pelve |
+
+### Figura sugerida
+
+Use a figura BMF1-A13-F01 para revisar compartimentos e nervos. A imagem deve funcionar em mobile: poucos músculos, nervos grandes e movimentos perdidos.
 
 ### Frase-âncora para não esquecer
 
-> “Músculo é vetor — origem, inserção e nervo fecham o triângulo da prova.”
+> **Compartimento aponta o nervo; nervo aponta a ação perdida.**

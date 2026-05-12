@@ -3,17 +3,38 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Fisiologia da Contração Muscular",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T19:40:59.543Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Guyton e Hall - Tratado de Fisiologia Médica",
+      "capitulo": "Contração do músculo esquelético",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Berne e Levy - Fisiologia",
+      "capitulo": "Músculo esquelético",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido muscular",
+      "paginas": "consultar edição local",
+      "relevancia": "base histológica"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula organiza o acoplamento excitação-contração, ciclo das pontes cruzadas, cálcio, ATP e tipos de contração, ligando fisiologia básica a rigidez, fadiga e hipertermia maligna.",
+  "pontos_de_prova": [
+    "acetilcolina e receptor nicotínico",
+    "potencial de placa versus potencial de ação",
+    "túbulo T e retículo sarcoplasmático",
+    "cálcio, troponina C e tropomiosina",
+    "miosina ATPase e pontes cruzadas",
+    "SERCA, relaxamento e rigor mortis",
+    "recrutamento, somação e tétano fisiológico",
+    "hipertermia maligna e receptor de rianodina"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

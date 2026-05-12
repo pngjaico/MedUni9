@@ -2,18 +2,38 @@
   "aula_id": "bmf1_a14",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Tegumento — Tecido Epitelial de Revestimento",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Tegumento - Tecido Epitelial de Revestimento",
+  "gerado_em": "2026-05-11T19:51:48.943Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Pele e anexos / epitélios",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross e Pawlina - Histologia",
+      "capitulo": "Integumentary system",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Pele e tecido subcutâneo",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula organiza classificação dos epitélios de revestimento, camadas da epiderme, células epidérmicas, derme/hipoderme e aplicações em queimaduras e feridas.",
+  "pontos_de_prova": [
+    "epitélio estratificado pavimentoso queratinizado",
+    "camadas da epiderme",
+    "melanócitos, Langerhans e Merkel",
+    "derme papilar e reticular",
+    "hipoderme",
+    "pele espessa versus fina",
+    "queimaduras e bolhas"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

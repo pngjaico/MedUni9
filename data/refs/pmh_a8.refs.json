@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Colesterol, Lipoproteínas e Homeostase Lipídica",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:40:49.026Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Colesterol, Lipoproteínas e Homeostase Lipídica.",
+  "pontos_de_prova": [
+    "HMG-CoA redutase é alvo das estatinas.",
+    "Quilomícron transporta lipídio dietético.",
+    "VLDL transporta triglicerídeo hepático.",
+    "LDL entrega colesterol aos tecidos.",
+    "HDL faz transporte reverso de colesterol.",
+    "Receptor de LDL reduz LDL plasmática.",
+    "ApoB ajuda reconhecer partículas aterogênicas.",
+    "LDL oxidada participa da placa.",
+    "Fígado regula colesterol por síntese e bile.",
+    "Sais biliares derivam de colesterol."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

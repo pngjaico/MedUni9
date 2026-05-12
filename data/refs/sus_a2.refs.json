@@ -2,18 +2,33 @@
   "aula_id": "sus_a2",
   "materia": "sus",
   "modulo": 1,
-  "tema": "Antecedentes Históricos do SUS — Período Colonial ao Regime Militar",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Antecedentes Históricos do SUS - Colônia ao Regime Militar",
+  "revisado": true,
+  "revisado_em": "2026-05-11T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "História das Políticas de Saúde no Brasil",
+      "relevancia": "marcos históricos pré-SUS"
+    },
+    {
+      "titulo": "Lei Eloy Chaves e organização previdenciária",
+      "relevancia": "CAPs e previdência social"
+    },
+    {
+      "titulo": "Reforma Sanitária Brasileira",
+      "relevancia": "crítica ao modelo previdenciário e privatista"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre a evolução histórica pré-SUS: caridade, campanhas sanitárias, previdência, CAPs, IAPs, INAMPS, sistema dicotômico e modelo privatista.",
+  "pontos_de_prova": [
+    "Santas Casas e caridade",
+    "campanhas sanitárias",
+    "CAPs e Lei Eloy Chaves",
+    "IAPs e Era Vargas",
+    "INAMPS",
+    "sistema dicotômico",
+    "modelo médico-assistencial privatista",
+    "exclusão de informais e rurais"
+  ],
+  "observacoes": "Não deslocar Constituição de 1988, Leis Orgânicas e 8ª Conferência para esta aula; esses temas pertencem a sus_a3/sus_a4."
 }

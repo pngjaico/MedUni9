@@ -3,17 +3,36 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Histologia do Tecido Muscular",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T19:34:00.453Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido muscular",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross e Pawlina - Histologia",
+      "capitulo": "Muscle Tissue",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Guyton e Hall - Tratado de Fisiologia Médica",
+      "capitulo": "Contração do músculo esquelético",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio fisiológico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula diferencia os três tipos musculares, organiza o sarcômero e conecta túbulos T, retículo sarcoplasmático e discos intercalares a função e clínica básica.",
+  "pontos_de_prova": [
+    "músculo esquelético, cardíaco e liso",
+    "núcleo periférico versus central",
+    "discos intercalares",
+    "sarcômero, disco Z, banda A, banda I e zona H",
+    "túbulos T, retículo sarcoplasmático e tríade",
+    "rabdomiólise e mioglobina"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

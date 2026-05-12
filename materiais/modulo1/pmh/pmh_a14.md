@@ -1,116 +1,162 @@
-# PMH — Aula 14: Adaptações Metabólicas e Aplicações Clínicas
+# PMH - Aula 14: Adaptações Metabólicas e Aplicações Clínicas
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-A **Adaptação Metabólica** é a estratégia biológica para sobreviver a situações de desafio como o **Jejum Prolongado**, **Exercício Físico Intenso** e o **Estresse Metabólico (Sepse/Trauma)**. Domine como a queda drástica da **Insulina** e o aumento dos **Hormônios Contrarreguladores** reprogramam o metabolismo sistêmico. Na prática clínica, o ponto de maior atenção é a **Síndrome de Realimentação (Refeeding Syndrome)**, que pode ser fatal se não prevenida.
+A última aula de PMH pergunta como o corpo muda de estratégia em jejum, exercício, estresse, gravidez, obesidade e câncer.
+
+A prova cobra fases do jejum, realimentação, hiperglicemia de estresse e diferença entre jejum adaptativo e caquexia.
+
+O ponto clínico mais importante é que adaptação pode salvar, mas também pode causar dano quando exagerada ou mal manejada.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A14-F01`
+**Figura-ID:** PMH-A14-F01
 
-- **Momento:** Após o bloco de relevância.
-- **O que mostrar:** Gráfico de "Fuel Shift" (transição de combustíveis) ao longo das semanas de jejum, mostrando o cruzamento entre a quebra de proteínas e a produção de corpos cetônicos.
-- **Tipo sugerido:** Gráfico de linhas didático.
-- **Legenda (rascunho):** Transição metabólica: da glicose aos corpos cetônicos.
-
----
-
-## Jejum curto (horas)
-
-- **Glicogenólise:** O fígado libera glicose para o sangue, enquanto o músculo consome seu próprio **glicogênio** local.
-- **Manutenção:** A **Glicemia** é mantida inicialmente pela quebra do glicogênio e, conforme as horas passam, pela **Gliconeogênese** hepática crescente.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Linha do tempo comparando alimentado, jejum curto, jejum prolongado, exercício e estresse com combustíveis dominantes.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Adaptações Metabólicas e Aplicações Clínicas: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Jejum prolongado (dias a semanas)
+## 1. Jejum
 
-- **Esgotamento:** O glicogênio hepático acaba em cerca de 24 horas. A vida passa a depender da **Gliconeogênese** (usando aminoácidos musculares, glicerol e lactato).
-- **Ketoadaptação:** O fígado acelera a **Cetogênese**. O **Cérebro** gradualmente adapta seu metabolismo para utilizar **Corpos Cetônicos**, poupando a destruição excessiva da massa muscular (**Proteólise**).
+No jejum curto, glicogenólise hepática sustenta glicemia.
 
-> **Dica de Prova:** A adaptação completa ao uso de cetonas pelo SNC leva dias. Não confunda a cetose leve de um jejum de 12 horas com a adaptação metabólica profunda de um jejum prolongado.
+Com o tempo, gliconeogênese aumenta e o glicogênio hepático se esgota.
 
----
-
-## Estresse metabólico: trauma e sepse
-
-Diferente do jejum (que é hipometabólico), o estresse é **Hipermetabólico**:
-- **Tempestade Hormonal:** Aumento massivo de **Cortisol**, **Catecolaminas** (adrenalina) e **Glucagon**.
-- **Resistência Insulínica:** O corpo induz uma **Hiperglicemia de Estresse** para garantir oferta de energia aos tecidos lesionados e ao sistema imune.
-- **Catabolismo:** Ocorre proteólise e lipólise intensas, com risco de perda rápida de massa magra se não houver suporte nutricional adequado.
+No jejum prolongado, cetogênese aumenta e o cérebro passa a usar corpos cetônicos, poupando proteína.
 
 ---
 
-## Síndrome de Realimentação (Refeeding)
+## 2. Exercício
 
-Ocorre ao reintroduzir calorias (especialmente carboidratos) de forma rápida em pacientes severamente desnutridos.
-- **Mecanismo:** A glicose gera um pico súbito de **Insulina**, que empurra eletrólitos para dentro das células.
-- **Consequência:** Queda perigosa nos níveis sanguíneos de **Fosfato (P)**, **Potássio (K)** e **Magnésio (Mg)**.
-- **Manifestações:** Pode causar **Insuficiência Cardíaca Aguda**, arritmias e colapso neurológico.
+Exercício intenso usa glicogênio e glicólise anaeróbia, produzindo lactato.
 
----
+Exercício prolongado aumenta oxidação de ácidos graxos e depende de adaptação mitocondrial.
 
-## Câncer e o Efeito Warburg
-
-Células tumorais reprogramam seu metabolismo para favorecer a **Glicólise Aeróbia** (produção de lactato mesmo na presença de oxigênio). Isso permite um crescimento rápido e o fornecimento de precursores para a síntese de novas células.
+Treino melhora captação de glicose e capacidade oxidativa.
 
 ---
 
-## Comparativo: estado metabólico
+## 3. Estresse e sepse
 
-| Estado Metabólico | Hormônio Dominante | Combustível Principal | Glicemia |
-|-------------------|--------------------|-----------------------|----------|
-| **Pós-Prandial** | **Insulina** | **Glicose** da Dieta | Estável / Pico Leve |
-| **Jejum Curto** | **Glucagon** | **Glicogênio** Hepático | Mantida (Eunoglicemia) |
-| **Jejum Prolongado**| **Glucagon e Cortisol**| **Corpos Cetônicos** | Baixa-Normal |
-| **Estresse / Sepse**| **Adrenalina / Cortisol**| **Aminoácidos e Gordura** | **Elevada** (Hiperglicemia) |
+Trauma e sepse elevam catecolaminas, cortisol, glucagon e citocinas.
+
+O resultado é hiperglicemia de estresse, resistência insulínica e proteólise.
+
+Diferente do jejum simples, sepse é hipercatabólica e inflamatória.
 
 ---
 
+## 4. Realimentação, obesidade e caquexia
+
+Realimentação rápida após desnutrição aumenta insulina e joga fosfato, potássio e magnésio para dentro das células.
+
+Obesidade visceral se liga a resistência insulínica e inflamação crônica.
+
+Caquexia oncológica envolve citocinas, anorexia e perda muscular que não se corrige apenas com calorias.
+
+> **Macete MedGradPlus:** Jejum poupa; sepse queima; realimentação rápida derruba fósforo.
+
+> **Pegadinha de prova:** Refeeding não é falta de caloria; é choque eletrolítico após voltar a alimentar.
+
+---
+
+## Mapa mental da aula
+Organize por cenário: jejum adapta e poupa proteína; exercício mobiliza combustível; estresse/sepses aumentam hormônios contrarreguladores e catabolismo.
+
+Depois marque os riscos: realimentação pode causar hipofosfatemia; diabetes descompensado pode virar cetose e acidose.
+
+Feche com caquexia e doença grave: inflamação muda o metabolismo e impede ler perda muscular como simples falta de comida.
 ## Ponte com a Clínica
+Paciente crítico, diabético descompensado ou desnutrido cobra integração: glicose, lipólise, proteína muscular, eletrólitos e hormônios.
 
-No paciente diabético, uma infecção (sepse) descompensa gravemente a glicemia devido aos hormônios de estresse. Já no tratamento da **Anorexia Nervosa** ou de pacientes em isolamento social com desnutrição, a regra de ouro é: **"Start low, go slow"** (começar com poucas calorias e repor eletrólitos antes do alimento) para evitar a síndrome de realimentação.
+Síndrome de realimentação é armadilha porque o perigo aparece quando o alimento volta, especialmente com queda de fosfato.
 
----
-
+A pegadinha é chamar toda perda de peso de jejum adaptativo. Na caquexia, inflamação e catabolismo sustentam perda muscular.
 ## Pontos-Chave para Prova
 
-- **Jejum:** O corpo tenta poupar energia e massa muscular (Hipometabolismo).
-- **Sepse:** O corpo gasta energia de forma agressiva (Hipermetabolismo).
-- **Hipofosfatemia:** É o marcador laboratorial "chave" da Síndrome de Realimentação.
-- **Warburg:** Estratégia metabólica do câncer para proliferação rápida.
-- **Caquexia:** Desnutrição inflamada (**TNF-Alpha**) que não responde apenas à oferta de comida.
+- **Jejum** curto usa glicogênio hepático.
+- **Jejum** prolongado aumenta cetogênese.
+- **Cérebro** adapta uso de corpos cetônicos.
+- **Exercício** intenso aumenta lactato.
+- **Exercício** prolongado usa mais ácidos graxos.
+- **Sepse** gera hiperglicemia de estresse.
+- **Cortisol** e catecolaminas são contrarreguladores.
+- **Refeeding** causa hipofosfatemia.
+- **Obesidade** visceral aumenta resistência insulínica.
+- **Caquexia** é catabolismo inflamatório.
+
+---
+
+## Mini Quiz
+
+1. **No jejum prolongado, o cérebro aumenta uso de:**
+- [x] corpos cetônicos
+- [ ] ácidos graxos livres diretamente
+- [ ] quilomícrons
+- [ ] ureia
+> **Explicação:** No jejum prolongado, o cérebro aumenta uso de corpos cetônicos, poupando parte da necessidade de glicose.
+
+2. **Síndrome de realimentação tem marcador clássico:**
+- [ ] LDL baixo
+- [x] hipofosfatemia
+- [ ] ácido úrico zero
+- [ ] hipercalcemia obrigatória
+> **Explicação:** Hipofosfatemia é marcador clássico da síndrome de realimentação, porque a entrada de glicose aumenta demanda intracelular por fosfato.
+
+3. **Sepse tende a causar:**
+- [ ] estado puramente poupador
+- [ ] queda de cortisol
+- [x] hiperglicemia de estresse e proteólise
+- [ ] bloqueio de catecolaminas
+> **Explicação:** Sepse induz resposta contrarreguladora e inflamatória, com hiperglicemia de estresse e proteólise muscular.
+
+4. **Caquexia oncológica envolve:**
+- [ ] apenas jejum adaptativo
+- [ ] excesso de HDL
+- [ ] defeito de HGPRT
+- [x] inflamação e perda muscular
+> **Explicação:** Caquexia oncológica envolve inflamação sistêmica e perda muscular, não apenas redução voluntária de ingesta.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Foco total da **Uninove**:
-- **Fosfato:** Sempre que houver a palavra "Refeeding", procure pela queda do **Fósforo**.
-- **Hormônios do Estresse:** Cortisol e Adrenalina são os vilões da insulina na UTI.
-- **Cori e Alanina:** São os eixos que mantêm a glicemia quando o estoque de glicogênio acaba.
-- **Morte Celular:** Diferente do jejum fisiológico, na sepse a perda proteica é muito acelerada e perigosa.
+A última aula de PMH pergunta como o corpo muda de estratégia em jejum, exercício, estresse, gravidez, obesidade e câncer.
 
-### Diferenciações Críticas
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|----------------------|
-| **Jejum Simples** | **Sepse/Trauma** | **Consome pouco** vs **Consome muito** (Hipermetabólico) |
-| **Realimentação** | **Hipofosfatemia** | O gatilho vs **A marca laboratorial** fatal |
-| **Marasmo** | **Kwashiorkor** | Pele e osso vs **Edema e Fígado Gorduroso** (falta proteína) |
-| **Glicogênio** | **Ácido Graxo** | Reserva de **curto prazo** vs Reserva de **longo prazo** |
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **jejum prolongado** vs **sepse** | poupança adaptativa vs hipercatabolismo |
+| **refeeding** vs **desnutrição simples** | queda de fósforo após insulina vs déficit prévio |
+| **exercício intenso** vs **prolongado** | glicólise/lactato vs oxidação lipídica |
+| **obesidade** vs **caquexia** | excesso energético inflamatório vs perda muscular inflamatória |
+
+### Figura sugerida
+
+Use a figura PMH-A14-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> **“O metabolismo agudo queima o estoque; o estresse crônico consome a estrutura; e a realimentação precipitada pode parar o coração.”**
-
+> **O mesmo metabolismo que adapta também mata quando o contexto muda rápido demais.**

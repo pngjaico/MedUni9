@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-05-12T16:06:43.137Z",
+  "scope": "Modulo 1 - 28 essenciais sinalizadas",
+  "rule": "Heurística não foi tratada como erro automático; cada item foi revisado contra aula/material.",
+  "summary": {
+    "reviewed": 28,
+    "keepFalsePositive": 23,
+    "fixed": 3,
+    "rewritten": 2,
+    "demoted": 0,
+    "replaced": 0
+  },
+  "decisions": [
+    {
+      "id": 346,
+      "decision": "keep",
+      "notes": "Falso positivo: questão central de glândula submandibular, ducto de Wharton e sialolitíase; mantida."
+    },
+    {
+      "id": 347,
+      "decision": "keep",
+      "notes": "Falso positivo: diferencia sublingual por Rivinus/milo-hióideo, alinhada ao material."
+    },
+    {
+      "id": 349,
+      "decision": "keep",
+      "notes": "Falso positivo: vinheta de sialolitíase é essencial e clinicamente útil."
+    },
+    {
+      "id": 439,
+      "decision": "keep",
+      "notes": "Falso positivo: ossificação endocondral é conceito nuclear da aula de osso."
+    },
+    {
+      "id": 445,
+      "decision": "fix",
+      "notes": "Corrigidos acentos e explicações; conceito C7 vértebra proeminente mantido."
+    },
+    {
+      "id": 3005,
+      "decision": "keep",
+      "notes": "Falso positivo: movimento de flexão cervical é base anatômica da aula."
+    },
+    {
+      "id": 3175,
+      "decision": "keep",
+      "notes": "Falso positivo: omento menor/maior é central para peritônio."
+    },
+    {
+      "id": 7406,
+      "decision": "keep",
+      "notes": "Falso positivo: diferencia mesentério e omento maior com função anatômica."
+    },
+    {
+      "id": 7610,
+      "decision": "keep",
+      "notes": "Falso positivo: abdução/adução é vocabulário anatômico essencial."
+    },
+    {
+      "id": 7614,
+      "decision": "keep",
+      "notes": "Falso positivo: circundução integra movimentos básicos."
+    },
+    {
+      "id": 3095,
+      "decision": "keep",
+      "notes": "Falso positivo: tétano fisiológico é conceito central de contração muscular."
+    },
+    {
+      "id": 5002006,
+      "decision": "keep",
+      "notes": "Falso positivo: participação complementar privada no SUS é ponto constitucional essencial."
+    },
+    {
+      "id": 5002009,
+      "decision": "keep",
+      "notes": "Falso positivo: Lei 8.142/90 é item essencial de controle social/financiamento."
+    },
+    {
+      "id": 5002011,
+      "decision": "keep",
+      "notes": "Falso positivo: ruptura cidadania versus vínculo previdenciário está alinhada à aula."
+    },
+    {
+      "id": 3385,
+      "decision": "keep",
+      "notes": "Falso positivo: Lei 8.080/90 como organização do SUS é central."
+    },
+    {
+      "id": 5002012,
+      "decision": "keep",
+      "notes": "Falso positivo: regionalização/hierarquização aparece em fluxo assistencial real."
+    },
+    {
+      "id": 5002013,
+      "decision": "keep",
+      "notes": "Falso positivo: descentralização federativa é diretriz essencial."
+    },
+    {
+      "id": 3406,
+      "decision": "keep",
+      "notes": "Falso positivo: CIB/CIT são pacto interfederativo essencial."
+    },
+    {
+      "id": 5002031,
+      "decision": "keep",
+      "notes": "Falso positivo: COAP é instrumento regional e pertence ao eixo da aula."
+    },
+    {
+      "id": 5002036,
+      "decision": "keep",
+      "notes": "Falso positivo: desabastecimento liga gestão, financiamento, logística e controle social."
+    },
+    {
+      "id": 624,
+      "decision": "keep",
+      "notes": "Falso positivo: dor neuropática por qualidade sensitiva é essencial em Semiologia1."
+    },
+    {
+      "id": 625,
+      "decision": "keep",
+      "notes": "Falso positivo: dor periarticular por tendão/contração resistida é conceito central."
+    },
+    {
+      "id": 629,
+      "decision": "keep",
+      "notes": "Falso positivo: red flags locomotoras são prioridade semiótica."
+    },
+    {
+      "id": 630,
+      "decision": "keep",
+      "notes": "Falso positivo: MRC 3/5 é corte básico de força."
+    },
+    {
+      "id": 663,
+      "decision": "fix",
+      "notes": "Normalizada dificuldade e explicações por alternativa; gaveta anterior/LCA mantida."
+    },
+    {
+      "id": 671,
+      "decision": "fix",
+      "notes": "Normalizada dificuldade e explicações por alternativa; Neer/Hawkins mantida."
+    },
+    {
+      "id": 3351,
+      "decision": "rewrite",
+      "notes": "Reescritas alternativas fracas; conceito de úlcera indolor neuropática preservado."
+    },
+    {
+      "id": 3357,
+      "decision": "rewrite",
+      "notes": "Removido enquadramento metadidático; questão agora cobra racionalidade de exame por impacto em conduta."
+    }
+  ]
+}

@@ -1,0 +1,4100 @@
+{
+  "generatedAt": "2026-05-12T17:16:59.068Z",
+  "scope": {
+    "modulo": 1,
+    "excluded": [
+      "pe1"
+    ],
+    "lessons": 54,
+    "subjects": [
+      "sus",
+      "semiologia1",
+      "bmf1",
+      "pmh"
+    ]
+  },
+  "summaryBySubject": [
+    {
+      "materia": "sus",
+      "aulas": 9,
+      "ok": 9,
+      "questions": 108,
+      "essentials": 108,
+      "flashcards": 108,
+      "figures": 9,
+      "suspicious": 9,
+      "minLines": 168,
+      "maxLines": 181,
+      "materialIssueLessons": 0,
+      "questionIssueLessons": 0,
+      "cardIssueLessons": 0
+    },
+    {
+      "materia": "semiologia1",
+      "aulas": 9,
+      "ok": 9,
+      "questions": 108,
+      "essentials": 108,
+      "flashcards": 108,
+      "figures": 17,
+      "suspicious": 6,
+      "minLines": 143,
+      "maxLines": 177,
+      "materialIssueLessons": 0,
+      "questionIssueLessons": 0,
+      "cardIssueLessons": 0
+    },
+    {
+      "materia": "bmf1",
+      "aulas": 22,
+      "ok": 22,
+      "questions": 387,
+      "essentials": 264,
+      "flashcards": 264,
+      "figures": 24,
+      "suspicious": 11,
+      "minLines": 152,
+      "maxLines": 200,
+      "materialIssueLessons": 0,
+      "questionIssueLessons": 0,
+      "cardIssueLessons": 0
+    },
+    {
+      "materia": "pmh",
+      "aulas": 14,
+      "ok": 14,
+      "questions": 494,
+      "essentials": 168,
+      "flashcards": 168,
+      "figures": 14,
+      "suspicious": 0,
+      "minLines": 163,
+      "maxLines": 163,
+      "materialIssueLessons": 0,
+      "questionIssueLessons": 0,
+      "cardIssueLessons": 0
+    }
+  ],
+  "totals": {
+    "lessons": 54,
+    "cleanLessons": 54,
+    "structuralIssueLessons": 0,
+    "questions": 1097,
+    "essentials": 648,
+    "flashcards": 648,
+    "figures": 64,
+    "suspiciousEssentials": 26
+  },
+  "figureStatusCounts": {
+    "pendente_curadoria": 20,
+    "pendente": 43,
+    "encontrada": 1
+  },
+  "pmhDebt": {
+    "mapaUnique": 14,
+    "ponteUnique": 14,
+    "mapaDuplicates": [],
+    "ponteDuplicates": [],
+    "miniQuizGeneric": []
+  },
+  "module1FlashcardIssues": {
+    "frenteLonga": [],
+    "metatexto": [],
+    "explicacaoVazia": []
+  },
+  "suspiciousM1": [
+    {
+      "id": 346,
+      "aula_id": "bmf1_a17",
+      "materia": "bmf1",
+      "enunciado": "A glândula submandibular é melhor reconhecida por qual conjunto anatômico-clínico?"
+    },
+    {
+      "id": 347,
+      "aula_id": "bmf1_a17",
+      "materia": "bmf1",
+      "enunciado": "Qual característica identifica melhor a glândula sublingual?"
+    },
+    {
+      "id": 349,
+      "aula_id": "bmf1_a17",
+      "materia": "bmf1",
+      "enunciado": "Paciente relata dor abaixo da mandíbula e aumento local que surgem principalmente ao iniciar a refeição. Qual mecanismo explica melhor esse quadro?"
+    },
+    {
+      "id": 439,
+      "aula_id": "bmf1_a5",
+      "materia": "bmf1",
+      "enunciado": "A maioria dos ossos longos se forma principalmente por:"
+    },
+    {
+      "id": 445,
+      "aula_id": "bmf1_a6",
+      "materia": "bmf1",
+      "enunciado": "Durante o exame físico, o processo espinhoso mais evidente na base do pescoço costuma ser usado como marco para contar níveis vertebrais. Qual vértebra é esse marco?"
+    },
+    {
+      "id": 624,
+      "aula_id": "semio1_a1",
+      "materia": "semiologia1",
+      "enunciado": "Queimação, choque, formigamento e irradiação em trajeto sugerem mais fortemente dor:"
+    },
+    {
+      "id": 625,
+      "aula_id": "semio1_a1",
+      "materia": "semiologia1",
+      "enunciado": "Dor máxima sobre tendão patelar, fora da interlinha, reproduzida por extensão resistida do joelho, sugere origem:"
+    },
+    {
+      "id": 629,
+      "aula_id": "semio1_a1",
+      "materia": "semiologia1",
+      "enunciado": "Dor vertebral com febre, perda de peso, trauma relevante ou déficit neurológico deve levar o examinador a:"
+    },
+    {
+      "id": 630,
+      "aula_id": "semio1_a1",
+      "materia": "semiologia1",
+      "enunciado": "Na escala MRC, grau 3 significa:"
+    },
+    {
+      "id": 663,
+      "aula_id": "semio1_a5",
+      "materia": "semiologia1",
+      "enunciado": "A manobra de gaveta anterior no joelho avalia principalmente:"
+    },
+    {
+      "id": 671,
+      "aula_id": "semio1_a5",
+      "materia": "semiologia1",
+      "enunciado": "Neer e Hawkins são manobras relacionadas principalmente a:"
+    },
+    {
+      "id": 3005,
+      "aula_id": "bmf1_a1",
+      "materia": "bmf1",
+      "enunciado": "O movimento de aproximar o queixo do tórax, reduzindo o ângulo na região cervical, é chamado de:"
+    },
+    {
+      "id": 3095,
+      "aula_id": "bmf1_a12",
+      "materia": "bmf1",
+      "enunciado": "Como se chama a fusão de contrações musculares quando estímulos chegam em frequência muito alta?"
+    },
+    {
+      "id": 3175,
+      "aula_id": "bmf1_a22",
+      "materia": "bmf1",
+      "enunciado": "Qual relação diferencia corretamente omento menor e omento maior?"
+    },
+    {
+      "id": 3385,
+      "aula_id": "sus_a4",
+      "materia": "sus",
+      "enunciado": "A Lei 8.080/90 é mais bem associada a qual função dentro do SUS?"
+    },
+    {
+      "id": 3406,
+      "aula_id": "sus_a6",
+      "materia": "sus",
+      "enunciado": "Qual alternativa diferencia corretamente CIB e CIT?"
+    },
+    {
+      "id": 7406,
+      "aula_id": "bmf1_a18",
+      "materia": "bmf1",
+      "enunciado": "Qual alternativa diferencia corretamente mesentério e omento maior?"
+    },
+    {
+      "id": 7610,
+      "aula_id": "bmf1_a1",
+      "materia": "bmf1",
+      "enunciado": "Qual alternativa diferencia corretamente abdução e adução?"
+    },
+    {
+      "id": 7614,
+      "aula_id": "bmf1_a1",
+      "materia": "bmf1",
+      "enunciado": "A circundução do ombro é melhor entendida como:"
+    },
+    {
+      "id": 5002006,
+      "aula_id": "sus_a3",
+      "materia": "sus",
+      "enunciado": "No desenho constitucional do SUS, a participação da iniciativa privada deve ser entendida principalmente como:"
+    },
+    {
+      "id": 5002009,
+      "aula_id": "sus_a3",
+      "materia": "sus",
+      "enunciado": "A Lei 8.142/90 deve acender qual associação imediata?"
+    },
+    {
+      "id": 5002011,
+      "aula_id": "sus_a3",
+      "materia": "sus",
+      "enunciado": "Um trabalhador informal com hipertensão procura seguimento na UBS e não apresenta contribuição previdenciária. Pela ruptura trazida pelo SUS, a conduta institucional correta é reconhecer que:"
+    },
+    {
+      "id": 5002012,
+      "aula_id": "sus_a4",
+      "materia": "sus",
+      "enunciado": "Uma UBS encaminha usuário para serviço regional de cardiologia e depois recebe contrarreferência para seguimento. O arranjo combina principalmente:"
+    },
+    {
+      "id": 5002013,
+      "aula_id": "sus_a4",
+      "materia": "sus",
+      "enunciado": "A descentralização no SUS significa principalmente:"
+    },
+    {
+      "id": 5002031,
+      "aula_id": "sus_a6",
+      "materia": "sus",
+      "enunciado": "O COAP foi pensado como instrumento para:"
+    },
+    {
+      "id": 5002036,
+      "aula_id": "sus_a7",
+      "materia": "sus",
+      "enunciado": "Paciente com diabetes fica sem medicação por desabastecimento recorrente da farmácia municipal. A leitura mais completa é:"
+    }
+  ],
+  "globalAudits": {
+    "validateQuestoesLatest": 4965,
+    "questoesAuditSummary": {
+      "totalQuestoes": 4965,
+      "semAulaId": 0,
+      "aulaIdInvalido": 0,
+      "temaIdInvalido": 0,
+      "materiaMismatch": 0,
+      "temaDivergente": 0,
+      "legacyMateriaAlias": 0,
+      "naoCorrigivelAutomaticamente": 0,
+      "aulasComMaterial": 374,
+      "aulasComMaterialSemQuestoes": 0,
+      "aulasComMaterialSemEssenciais": 0,
+      "aulasComMaterialAbaixoMinimoEssenciais": 0,
+      "aulasComMaterialFilaGeracao": 0
+    },
+    "essentialsSuspiciousGlobal": 380,
+    "cicloBasicoAudit": {
+      "generatedAt": "2026-05-12T17:15:37.346Z",
+      "modules": "1-4",
+      "activeSubjectsBasicIncludingPE": 19,
+      "activeLessonsBasicIncludingPE": 263,
+      "peLessonsOutOfRemediationScope": 0,
+      "subjectsInScope": 19,
+      "lessonsInScope": 263,
+      "lessonsWithAnyMaterial": 263,
+      "lessonsMissingDataMaterial": 0,
+      "lessonsMissingAppMirror": 0,
+      "lessonMirrorsDivergent": 0,
+      "materialLintFailures": 38,
+      "materialRefsMissing": 0,
+      "resumoA4MissingForMaterialLessons": 263,
+      "totalQuestionsInScope": 3558,
+      "lessonsWithoutQuestions": 0,
+      "lessonsBelow12Questions": 8,
+      "lessonsWithoutEssentials": 0,
+      "lessonsBelow12Essentials": 8,
+      "suspiciousEssentialsInScope": 242,
+      "metatextQuestionsInScope": 9,
+      "questionCategoryMissingInScope": 189,
+      "questionOptionsInvalidInScope": 0,
+      "questionCorrectInvalidInScope": 0,
+      "questionModuleDivergentInScope": 0,
+      "questionModuleMissingInScope": 56,
+      "questionWeakGeneralExplanationInScope": 224,
+      "questionWeakOptionExplanationInScope": 193,
+      "duplicateQuestionIds": 0,
+      "totalFlashcardsInScope": 3060,
+      "lessonsWithoutFlashcards": 8,
+      "lessonsBelow12Flashcards": 0,
+      "flashcardCategoryInvalid": 0,
+      "flashcardOriginInvalid": 0,
+      "flashcardClozeInvalid": 0,
+      "flashcardTemaInvalid": 0,
+      "flashcardMateriaDivergent": 0,
+      "flashcardTagsInvalid": 0,
+      "flashcardDifficultyOffPattern": 1361,
+      "duplicateFlashcardIds": 0
+    },
+    "queueCounts": {
+      "lessons": 263,
+      "pending": 209,
+      "ready": 54
+    }
+  },
+  "rows": [
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a1",
+      "tema": "Processo Saúde-Doença e Determinantes Sociais",
+      "materialHash": "f9beb10dab5efe3be4461194e8ddbb08d44f5fe4b5c9b7964f0a4d4fb14342c6",
+      "material": {
+        "lines": 175,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 11,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Vacinação contra HPV antes de qualquer lesão é exemplo de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Papanicolau em pessoa assintomática, dentro da população-alvo, é exemplo de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Oferecer mais apoio a quem tem maior barreira de acesso expressa o princípio da:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Evitar exame sem benefício em pessoa de baixo risco é exemplo de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 3,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a2",
+      "tema": "Antecedentes Históricos do SUS — Período Colonial ao Regime Militar",
+      "materialHash": "aafe8b1b1014a4fe75f5cbe890e746c03a4d2fd2c6d4fcff7fad1d5f370a3b4e",
+      "material": {
+        "lines": 181,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "No período colonial e imperial, o cuidado dos pobres dependia principalmente de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A Lei Eloy Chaves de 1923 está associada à criação das:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A transição das CAPs para os IAPs na Era Vargas significou principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "O INAMPS era voltado sobretudo para:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 2,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a3",
+      "tema": "Antecedentes Históricos do SUS — Nova República e Reforma Sanitária",
+      "materialHash": "e5c8651e2534dfb4a1aa6841c24fe511a62b79f58299afee555ce152582c882b",
+      "material": {
+        "lines": 173,
+        "tableLines": 13,
+        "tableBlocks": 2,
+        "bulletLines": 32,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual afirmação resume melhor a Reforma Sanitária brasileira?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A 8ª Conferência Nacional de Saúde, em 1986, deve ser lembrada como:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "O artigo 196 da Constituição de 1988 fixou principalmente que a saúde é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A diferença mais útil entre as Leis 8.080 e 8.142 é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 5002006,
+          "aula_id": "sus_a3",
+          "materia": "sus",
+          "enunciado": "No desenho constitucional do SUS, a participação da iniciativa privada deve ser entendida principalmente como:",
+          "overlap": []
+        },
+        {
+          "id": 5002009,
+          "aula_id": "sus_a3",
+          "materia": "sus",
+          "enunciado": "A Lei 8.142/90 deve acender qual associação imediata?",
+          "overlap": []
+        },
+        {
+          "id": 5002011,
+          "aula_id": "sus_a3",
+          "materia": "sus",
+          "enunciado": "Um trabalhador informal com hipertensão procura seguimento na UBS e não apresenta contribuição previdenciária. Pela ruptura trazida pelo SUS, a conduta institucional correta é reconhecer que:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a4",
+      "tema": "O SUS e as Leis Orgânicas da Saúde",
+      "materialHash": "81dc3aa794997f5d003f90e9423fd3d0c2b80217519b0e1d3663288a05cd8faa",
+      "material": {
+        "lines": 179,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 32,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "A associação mais correta para a Lei 8.080/90 é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A Lei 8.142/90 é lembrada principalmente por:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual alternativa diferencia corretamente conselho e conferência de saúde?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A participação privada dentro do SUS deve ser entendida como:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 5,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 3385,
+          "aula_id": "sus_a4",
+          "materia": "sus",
+          "enunciado": "A Lei 8.080/90 é mais bem associada a qual função dentro do SUS?",
+          "overlap": []
+        },
+        {
+          "id": 5002012,
+          "aula_id": "sus_a4",
+          "materia": "sus",
+          "enunciado": "Uma UBS encaminha usuário para serviço regional de cardiologia e depois recebe contrarreferência para seguimento. O arranjo combina principalmente:",
+          "overlap": []
+        },
+        {
+          "id": 5002013,
+          "aula_id": "sus_a4",
+          "materia": "sus",
+          "enunciado": "A descentralização no SUS significa principalmente:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a5",
+      "tema": "Pacto pela Vida",
+      "materialHash": "f887642ff4cf36384806cf4b135ea380344d8a7a6635427b428e34e7c1aa48ef",
+      "material": {
+        "lines": 177,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 32,
+        "pontosBullets": 12,
+        "pontosBold": 14,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual componente do Pacto pela Saúde define prioridades sanitárias e metas de resultado?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual conjunto pertence às prioridades originais do Pacto pela Vida?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Município aumenta coleta de Papanicolau, mas segue com câncer invasivo tardio. A falha mais provável é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Indicador, meta e ação significam, respectivamente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a6",
+      "tema": "Pacto pela Gestão — RAS e Regionalização",
+      "materialHash": "859e0243dba264272d216e562665bba6928381d7a2d650dccdc5ba8960a0f2d8",
+      "material": {
+        "lines": 170,
+        "tableLines": 14,
+        "tableBlocks": 2,
+        "bulletLines": 32,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual alternativa define melhor uma RAS?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Para formalizar uma Região de Saúde, o território deve conter, entre outros pontos:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A diferença correta entre RENASES e RENAME é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Quando o especialista devolve à UBS diagnóstico, conduta e plano de seguimento, ocorre:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 3406,
+          "aula_id": "sus_a6",
+          "materia": "sus",
+          "enunciado": "Qual alternativa diferencia corretamente CIB e CIT?",
+          "overlap": []
+        },
+        {
+          "id": 5002031,
+          "aula_id": "sus_a6",
+          "materia": "sus",
+          "enunciado": "O COAP foi pensado como instrumento para:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a7",
+      "tema": "Pacto em Defesa do SUS",
+      "materialHash": "4fea3b6f450c00627250647c12e0058b9649f656845daa5821bceb985361f06d",
+      "material": {
+        "lines": 168,
+        "tableLines": 12,
+        "tableBlocks": 2,
+        "bulletLines": 32,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "O Pacto em Defesa do SUS tem como foco principal:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A diferença mais correta entre Pacto pela Vida e Pacto em Defesa do SUS é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Quando falta medicamento crônico por desabastecimento recorrente, o problema revela principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Defender o SUS de forma madura significa:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 5002036,
+          "aula_id": "sus_a7",
+          "materia": "sus",
+          "enunciado": "Paciente com diabetes fica sem medicação por desabastecimento recorrente da farmácia municipal. A leitura mais completa é:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a8",
+      "tema": "PNAB e Estratégia Saúde da Família",
+      "materialHash": "da94f892c9d17bec9ec1d85c23cb0e54d1bcf914754564fb5d2eed5716ce110e",
+      "material": {
+        "lines": 179,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual atributo da APS está mais ligado a vínculo e seguimento do usuário pela mesma equipe ao longo do tempo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Uma UBS acompanha hipertensos, gestantes, vacinação e saúde mental, além de tratar queixas agudas. Qual atributo aparece com mais força?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual ação melhor representa territorialização na ESF?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Paciente retorna do especialista sem informação para a UBS e fica sem seguimento. O atributo mais prejudicado é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "sus",
+      "materiaNome": "Princípios e Diretrizes do SUS",
+      "modulo": 1,
+      "aulaId": "sus_a9",
+      "tema": "Ferramentas de Abordagem Familiar e Comunitária",
+      "materialHash": "7e34b364654e43f0d203feac73e366d692324ae66fe66763eb6569361e4977ba",
+      "material": {
+        "lines": 174,
+        "tableLines": 17,
+        "tableBlocks": 3,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual instrumento é mais adequado para representar três gerações, vínculos familiares e padrões de doença?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual instrumento mostra vínculos da família com UBS, escola, CRAS, trabalho e comunidade?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Educação popular em saúde se baseia principalmente em:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Ao registrar genograma e ecomapa, a conduta ética mais adequada é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 3,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a1",
+      "tema": "Fundamentos da Semiologia Musculoesquelética",
+      "materialHash": "70cd7c0d077a6eef1efa4a2a2e14ceb773286cd32e19aec3d1a2fc3657b0edf7",
+      "material": {
+        "lines": 177,
+        "tableLines": 17,
+        "tableBlocks": 3,
+        "bulletLines": 26,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Dor que piora com uso e melhora com repouso sugere principalmente padrão:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A ordem mais segura do exame locomotor inicial é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Paciente não eleva ativamente o ombro, mas o examinador consegue movimentá-lo passivamente. A leitura inicial mais adequada é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Na escala MRC, grau 3 significa:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 3,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente",
+        "pendente_curadoria"
+      ],
+      "suspicious": [
+        {
+          "id": 624,
+          "aula_id": "semio1_a1",
+          "materia": "semiologia1",
+          "enunciado": "Queimação, choque, formigamento e irradiação em trajeto sugerem mais fortemente dor:",
+          "overlap": []
+        },
+        {
+          "id": 625,
+          "aula_id": "semio1_a1",
+          "materia": "semiologia1",
+          "enunciado": "Dor máxima sobre tendão patelar, fora da interlinha, reproduzida por extensão resistida do joelho, sugere origem:",
+          "overlap": []
+        },
+        {
+          "id": 629,
+          "aula_id": "semio1_a1",
+          "materia": "semiologia1",
+          "enunciado": "Dor vertebral com febre, perda de peso, trauma relevante ou déficit neurológico deve levar o examinador a:",
+          "overlap": []
+        },
+        {
+          "id": 630,
+          "aula_id": "semio1_a1",
+          "materia": "semiologia1",
+          "enunciado": "Na escala MRC, grau 3 significa:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a2",
+      "tema": "Anamnese Dirigida do Aparelho Locomotor",
+      "materialHash": "455f25a053d7f59ad7bfdb4ea8644fe02957cdc3cee6077da8069e224df07843",
+      "material": {
+        "lines": 157,
+        "tableLines": 21,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 13,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Na anamnese OPQRST, a letra O deve registrar principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dor lombar com rigidez matinal prolongada e melhora ao caminhar sugere mais:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Duas a quatro articulações dolorosas caracterizam:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual dado da história aumenta suspeita de espondiloartrite?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a3",
+      "tema": "Exame Físico — Inspeção",
+      "materialHash": "852931a747ed096f5675ff18bf949759fb1ca51927745eb5576724b45ac883eb",
+      "material": {
+        "lines": 154,
+        "tableLines": 20,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 13,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual regra reduz erro na inspeção locomotora?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Nódulos em interfalângicas distais sugerem classicamente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Marcha steppage/escarvante sugere:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual achado é mais compatível com dactilite?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a4",
+      "tema": "Exame Físico — Palpação",
+      "materialHash": "41c8deec797848f593da789089cf58976532c6d32207924c586cb0de6361bb8a",
+      "material": {
+        "lines": 155,
+        "tableLines": 21,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual técnica torna a palpação locomotora mais confiável?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dor na tabaqueira anatômica após queda sobre mão espalmada lembra:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Pé frio com pulso pedioso e tibial posterior ausentes sugere:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Sinal da tecla no joelho é usado para avaliar:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 5,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a5",
+      "tema": "Testes de Mobilidade e Força Muscular",
+      "materialHash": "fbb6338aabfd892d808f292b5c66b02d5a890d699202f1d990b5c19f297d7ae3",
+      "material": {
+        "lines": 161,
+        "tableLines": 28,
+        "tableBlocks": 4,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 13,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "ADM ativa reduzida com passiva preservada sugere mais:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "MRC 3/5 significa:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Lachman avalia principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Phalen e Tinel no punho ajudam a suspeitar de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 2,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [
+        {
+          "id": 663,
+          "aula_id": "semio1_a5",
+          "materia": "semiologia1",
+          "enunciado": "A manobra de gaveta anterior no joelho avalia principalmente:",
+          "overlap": []
+        },
+        {
+          "id": 671,
+          "aula_id": "semio1_a5",
+          "materia": "semiologia1",
+          "enunciado": "Neer e Hawkins são manobras relacionadas principalmente a:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a6",
+      "tema": "Síndromes Musculoesqueléticas e Propedêutica",
+      "materialHash": "6e2d4d927a915d6fa83fcf0ae8eca3ad4f44dab079fdcd776d989614f849fa6b",
+      "material": {
+        "lines": 154,
+        "tableLines": 20,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Lasègue positivo reforça principalmente suspeita de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Anestesia em sela com retenção urinária após lombalgia intensa sugere:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dor difusa, fadiga e sono não reparador sem sinovite objetiva favorecem:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dor lombar que piora em pé/andando e melhora ao sentar ou flexionar a coluna sugere:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 7,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a7",
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
+      "materialHash": "26d7c33a25a39904489b5ba775c7fe4b5baf1f8834c685e156e6f463b893378f",
+      "material": {
+        "lines": 156,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 13,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Ao entrar em uma estação OSCE, a primeira atitude correta é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Paciente padronizado acrescenta principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Se houver dor intensa durante uma manobra, o estudante deve:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Debriefing estruturado serve para:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 1,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a8",
+      "tema": "Prática Real — Ambulatório Supervisionado",
+      "materialHash": "fd1c3b6fb27671766b07d80b54d493a80a3a427218262c56d648c152b3ac481e",
+      "material": {
+        "lines": 143,
+        "tableLines": 19,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "No SOAP, a letra O representa:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dor lombar sem red flags e exame neurológico normal, no início do quadro, geralmente pede:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Úlcera plantar indolor em pé diabético sugere:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Exame complementar ambulatorial deve ser pedido quando:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        4,
+        3,
+        3,
+        2
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "semiologia1",
+      "materiaNome": "Semiologia do Sistema Musculoesquelético",
+      "modulo": 1,
+      "aulaId": "semio1_a9",
+      "tema": "Reunião Clínica — Casos Musculoesqueléticos",
+      "materialHash": "875395fa355dd4d49c59a2af6ac85105e1ebf9837991cf0905747791e37a1040",
+      "material": {
+        "lines": 150,
+        "tableLines": 20,
+        "tableBlocks": 3,
+        "bulletLines": 28,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Na abertura de caso, o dado mais útil é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Em monoartrite súbita com febre, a regra de ouro é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dados negativos relevantes são importantes porque:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Para evitar viés de confirmação, o estudante deve:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 2,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 2,
+      "figureStatuses": [
+        "pendente_curadoria",
+        "pendente_curadoria"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a1",
+      "tema": "Introdução ao Estudo da Anatomia Humana",
+      "materialHash": "6230a1e8a19783562848c8fb79cf64a7daa55b22cc9e9fb4c4a121f8151cf951",
+      "material": {
+        "lines": 173,
+        "tableLines": 11,
+        "tableBlocks": 2,
+        "bulletLines": 37,
+        "pontosBullets": 12,
+        "pontosBold": 14,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Na posição anatômica padrão, como ficam as palmas das mãos?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual plano divide o corpo em porções anterior e posterior?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Uma estrutura mais próxima da raiz do membro é descrita como:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Afastar o braço da linha média do corpo é um movimento de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 3005,
+          "aula_id": "bmf1_a1",
+          "materia": "bmf1",
+          "enunciado": "O movimento de aproximar o queixo do tórax, reduzindo o ângulo na região cervical, é chamado de:",
+          "overlap": []
+        },
+        {
+          "id": 7610,
+          "aula_id": "bmf1_a1",
+          "materia": "bmf1",
+          "enunciado": "Qual alternativa diferencia corretamente abdução e adução?",
+          "overlap": []
+        },
+        {
+          "id": 7614,
+          "aula_id": "bmf1_a1",
+          "materia": "bmf1",
+          "enunciado": "A circundução do ombro é melhor entendida como:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a2",
+      "tema": "Introdução aos Tecidos Humanos",
+      "materialHash": "7ad6a829b9168d28b11d5896457f5f4bd62585b02c7d6b24251216d6ea4ddd6f",
+      "material": {
+        "lines": 174,
+        "tableLines": 12,
+        "tableBlocks": 2,
+        "bulletLines": 37,
+        "pontosBullets": 12,
+        "pontosBold": 16,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual tecido tem células justapostas, pouca matriz e função de revestimento?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "No epitélio estratificado, o formato usado para classificar o tecido é o da:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual célula do conjuntivo é central na produção de colágeno durante a cicatrização?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual célula produz mielina no sistema nervoso central?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a3",
+      "tema": "Generalidades do Sistema Esquelético",
+      "materialHash": "318a2da049a7c8b2d11e2d566ee798740903160310fff13080d2e2acfc0831cd",
+      "material": {
+        "lines": 197,
+        "tableLines": 13,
+        "tableBlocks": 2,
+        "bulletLines": 38,
+        "pontosBullets": 12,
+        "pontosBold": 14,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Crânio, coluna vertebral, costelas e esterno pertencem ao:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A região central tubular de um osso longo é chamada de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A estrutura externa muito inervada que participa de dor e reparo é o:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A ossificação endocondral se caracteriza por:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a4",
+      "tema": "Tecido Conjuntivo — Células e Matriz",
+      "materialHash": "4e6d927dafa1e82fdd0adaa862a437562dbfaaee35e24e94e91ee259bacb1294",
+      "material": {
+        "lines": 186,
+        "tableLines": 14,
+        "tableBlocks": 2,
+        "bulletLines": 38,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual célula é a principal produtora de matriz extracelular no conjuntivo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual fibra forma redes delicadas em órgãos como baço e linfonodo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Tendões são exemplo clássico de qual conjuntivo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Na anafilaxia, a liberação rápida de histamina vem principalmente de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a5",
+      "tema": "Tecido Ósseo — Estrutura e Ossificação",
+      "materialHash": "d67b0527d02e41d2851a1ce51029cc77fb44f5d70700541b3f2d5f85cf408998",
+      "material": {
+        "lines": 198,
+        "tableLines": 14,
+        "tableBlocks": 2,
+        "bulletLines": 38,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "A unidade funcional clássica do osso compacto é o:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual célula forma osteoide?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A dureza do osso depende principalmente de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A maioria dos ossos longos se forma por ossificação:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 3,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 3,
+      "figureStatuses": [
+        "encontrada",
+        "pendente",
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 439,
+          "aula_id": "bmf1_a5",
+          "materia": "bmf1",
+          "enunciado": "A maioria dos ossos longos se forma principalmente por:",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a6",
+      "tema": "Prática — Ossos da Coluna, Membros Superiores e Inferiores",
+      "materialHash": "8a033c73cbec51fda3045455e4dc196a07249d7f8001f00c6901e86069d8f6ca",
+      "material": {
+        "lines": 192,
+        "tableLines": 14,
+        "tableBlocks": 2,
+        "bulletLines": 38,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual conjunto pertence ao esqueleto axial?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual característica ajuda a reconhecer vértebras cervicais?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Dor na tabaqueira anatômica após queda com a mão espalmada sugere fratura de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Em idoso com queda da própria altura e dor no quadril, o sítio clássico de fratura por fragilidade é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 445,
+          "aula_id": "bmf1_a6",
+          "materia": "bmf1",
+          "enunciado": "Durante o exame físico, o processo espinhoso mais evidente na base do pescoço costuma ser usado como marco para contar níveis vertebrais. Qual vértebra é esse marco?",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a7",
+      "tema": "Generalidades do Sistema Articular",
+      "materialHash": "bf78a412945a455c9c9a1226975ead5014b39ec46f52300d9cfa9cdfd484be00",
+      "material": {
+        "lines": 183,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 37,
+        "pontosBullets": 12,
+        "pontosBold": 20,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual tipo estrutural inclui suturas do crânio e sindesmoses?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual componente produz o líquido sinovial?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Cotovelo e articulações interfalângicas são exemplos de qual subtipo sinovial?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Luxação significa:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a8",
+      "tema": "Tecido Cartilaginoso",
+      "materialHash": "91fa6e24c5242f9bf6630a8f8a29b20bfc9f6cf57659001924c18e040d6eb12f",
+      "material": {
+        "lines": 178,
+        "tableLines": 12,
+        "tableBlocks": 2,
+        "bulletLines": 38,
+        "pontosBullets": 12,
+        "pontosBold": 12,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual característica explica o reparo limitado da cartilagem?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual tipo de cartilagem é típico de traqueia e superfície articular?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual cartilagem aparece em meniscos e discos intervertebrais?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Grupos isogênicos indicam principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 5,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a9",
+      "tema": "Prática — Articulações da Coluna e Membros",
+      "materialHash": "d4be29d461836ee788b9f4119192dc78e3fcea218345016b3214a44d110cfe87",
+      "material": {
+        "lines": 200,
+        "tableLines": 7,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Um paciente torce o tornozelo com a planta do pé virando para dentro. Qual estrutura é mais esperada na lesão inicial?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual articulação da coluna é o exemplo clássico de pivô associado ao movimento de \"não\"?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Queda com mão espalmada e dor na tabaqueira anatômica sugere lesão de qual osso?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual comparação resume melhor ombro e quadril?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a10",
+      "tema": "Generalidades do Sistema Muscular",
+      "materialHash": "459094faebebc053b14ac81cdcca639aa5f707ad393171c7d83ee7792f9d92e5",
+      "material": {
+        "lines": 199,
+        "tableLines": 11,
+        "tableBlocks": 2,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual envoltório conjuntivo cerca cada fibra muscular individualmente?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual perfil descreve melhor uma fibra muscular tipo I?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Durante a descida controlada de um halter, o bíceps gera força enquanto alonga. Isso é contração:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual alternativa resume melhor músculo fusiforme e músculo pennado?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 5,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a11",
+      "tema": "Histologia do Tecido Muscular",
+      "materialHash": "ce7551e459835a28e45253084a8cc2bb18fb1454ac13d6afc2fd8bed062963b0",
+      "material": {
+        "lines": 180,
+        "tableLines": 7,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual achado histológico favorece músculo esquelético?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Durante a contração do sarcômero, qual região mantém comprimento praticamente constante?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual estrutura do músculo cardíaco permite coordenação elétrica entre células?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual característica diferencia o músculo liso do estriado?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 111,
+      "essentials": 12,
+      "clinicalCases": 3,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a12",
+      "tema": "Fisiologia da Contração Muscular",
+      "materialHash": "fc8d8cfee18a18f31b2491bcf774da6809443153dbac1c6a98c808cf014852a7",
+      "material": {
+        "lines": 190,
+        "tableLines": 7,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 11,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual evento permite que a miosina encontre sítios de ligação na actina?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual estrutura recaptura cálcio para permitir o relaxamento muscular?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A fusão de contrações por estímulos muito frequentes é chamada de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual contração ocorre quando o músculo gera força enquanto alonga?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 20,
+      "essentials": 12,
+      "clinicalCases": 2,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 3095,
+          "aula_id": "bmf1_a12",
+          "materia": "bmf1",
+          "enunciado": "Como se chama a fusão de contrações musculares quando estímulos chegam em frequência muito alta?",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a13",
+      "tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
+      "materialHash": "c08fa55ed6a3d72e599d20798fc90ed42c3cac0cee79ec056fa5aa7c362322cf",
+      "material": {
+        "lines": 180,
+        "tableLines": 7,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Paciente com mão caída após lesão nervosa perdeu principalmente qual função?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Fraqueza para extensão do joelho aponta primeiro para qual músculo e nervo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual músculo inicia a abdução do ombro antes do deltoide dominar o movimento?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Pé caído com marcha escavante sugere lesão relacionada a qual nervo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 17,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a14",
+      "tema": "Tegumento — Tecido Epitelial de Revestimento",
+      "materialHash": "acabbcb32e42ad538dc63ffe245a5c5bf76d1d7c08a16042e0283efe0f113c51",
+      "material": {
+        "lines": 180,
+        "tableLines": 7,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual camada da epiderme contém células com maior atividade mitótica?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual célula epidérmica produz melanina?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Uma lesão cutânea chega ao tecido adiposo abaixo da derme. Qual camada foi atingida?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual epitélio é típico da epiderme?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 14,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a15",
+      "tema": "Tegumento — Tecido Epitelial Glandular",
+      "materialHash": "08924524c55ba6f46dc6c7e5074be60b9392a24f6569ca272736d8139b2dcbf9",
+      "material": {
+        "lines": 180,
+        "tableLines": 7,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual característica define uma glândula exócrina?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A glândula sebácea secreta por qual mecanismo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Obstrução do ducto de Wharton envolve qual glândula?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual célula é exemplo de glândula exócrina unicelular?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 15,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a16",
+      "tema": "Prática — Histologia do Tegumento e Tecido Adiposo",
+      "materialHash": "a3792f3f48b6451d602b7caf62665bc6bd59b6256cad8ad874699dce3f40189f",
+      "material": {
+        "lines": 199,
+        "tableLines": 13,
+        "tableBlocks": 2,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Ao observar vasos sanguíneos em uma lâmina de pele, qual camada está excluída?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual achado favorece tecido adiposo branco?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Recém-nascido exposto ao frio depende mais de qual tecido para termogênese sem tremor?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual achado favorece pele espessa?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 5,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a17",
+      "tema": "Anatomia da Boca, Língua, Glândulas Salivares e Faringe",
+      "materialHash": "9ae7dd29eae48f8a3ace03d7d798006987a47b470ed768528e666702089ea421",
+      "material": {
+        "lines": 168,
+        "tableLines": 23,
+        "tableBlocks": 4,
+        "bulletLines": 37,
+        "pontosBullets": 12,
+        "pontosBold": 16,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual estrutura separa a cavidade oral propriamente dita da orofaringe?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Um paciente protrui a língua e ela desvia para a direita. Qual nervo deve ser testado com mais atenção?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual associação entre glândula e ducto está correta?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A tonsila faríngea hipertrofiada recebe qual nome clínico comum?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 346,
+          "aula_id": "bmf1_a17",
+          "materia": "bmf1",
+          "enunciado": "A glândula submandibular é melhor reconhecida por qual conjunto anatômico-clínico?",
+          "overlap": []
+        },
+        {
+          "id": 347,
+          "aula_id": "bmf1_a17",
+          "materia": "bmf1",
+          "enunciado": "Qual característica identifica melhor a glândula sublingual?",
+          "overlap": []
+        },
+        {
+          "id": 349,
+          "aula_id": "bmf1_a17",
+          "materia": "bmf1",
+          "enunciado": "Paciente relata dor abaixo da mandíbula e aumento local que surgem principalmente ao iniciar a refeição. Qual mecanismo explica melhor esse quadro?",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a18",
+      "tema": "Anatomia da Parede Abdominal e Peritônio",
+      "materialHash": "18821b377dbdef177021397c0e1ad68490467eff89aafceab1ef4454e68fc32c",
+      "material": {
+        "lines": 163,
+        "tableLines": 22,
+        "tableBlocks": 3,
+        "bulletLines": 34,
+        "pontosBullets": 12,
+        "pontosBold": 18,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual camada superficial da parede abdominal é predominantemente gordurosa?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A hérnia inguinal direta atravessa principalmente qual região?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Por que a linha alba é útil em laparotomia mediana?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual folheto peritoneal explica dor abdominal bem localizada quando irritado?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        4,
+        3,
+        2,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 7406,
+          "aula_id": "bmf1_a18",
+          "materia": "bmf1",
+          "enunciado": "Qual alternativa diferencia corretamente mesentério e omento maior?",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a19",
+      "tema": "Anatomia dos Intestinos Delgado e Grosso",
+      "materialHash": "ae1949e9e71cece2fb4c004c82a102ab16390c0e4511435075960c77d53b9784",
+      "material": {
+        "lines": 158,
+        "tableLines": 17,
+        "tableBlocks": 3,
+        "bulletLines": 36,
+        "pontosBullets": 12,
+        "pontosBold": 17,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual segmento intestinal forma um C ao redor da cabeça do pâncreas?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Quais marcas externas ajudam a reconhecer o cólon?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual topografia é mais esperada na apendicite clássica?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual segmento do cólon costuma ser mais móvel?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a20",
+      "tema": "Inervação e Vascularização Gastrointestinal",
+      "materialHash": "602c98ad809abd256807c8e59b6ef7fe877c164e59928b0a90681265e4b0c563",
+      "material": {
+        "lines": 152,
+        "tableLines": 18,
+        "tableBlocks": 3,
+        "bulletLines": 35,
+        "pontosBullets": 12,
+        "pontosBold": 14,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual tronco arterial irriga estômago, fígado e baço?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A flexura esplênica é uma fronteira principalmente entre quais territórios?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual plexo entérico se relaciona mais diretamente à motilidade?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual vaso leva sangue venoso rico em nutrientes para o fígado?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 3,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a21",
+      "tema": "Anatomia do Fígado, Vias Biliares e Pâncreas",
+      "materialHash": "ec50c75e2fd1d6adbcbf180959b6ff6495c05e7e5a8fc9d9b00260044d5a62ce",
+      "material": {
+        "lines": 170,
+        "tableLines": 15,
+        "tableBlocks": 3,
+        "bulletLines": 45,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual ducto se une ao ducto hepático comum para formar o colédoco?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual vaso entra no fígado trazendo sangue rico em nutrientes do tubo digestivo?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual parte do pâncreas se relaciona diretamente com o duodeno?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual ducto pancreático principal costuma desembocar na papila maior?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 18,
+      "essentials": 12,
+      "clinicalCases": 2,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "bmf1",
+      "materiaNome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
+      "modulo": 1,
+      "aulaId": "bmf1_a22",
+      "tema": "Prática — Sistema Digestório em Anatomia",
+      "materialHash": "a48a530cf8d11e8db61a31ebda4bdc8af4fd6f4ec5e1e3a073dacba5c16ae450",
+      "material": {
+        "lines": 192,
+        "tableLines": 14,
+        "tableBlocks": 2,
+        "bulletLines": 38,
+        "pontosBullets": 12,
+        "pontosBold": 15,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Na peça anatômica, qual estrutura marca a saída do estômago para o duodeno?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Quais sinais externos ajudam a reconhecer o intestino grosso?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A flexura cólica direita é também chamada de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual vaso organiza boa parte do território do intestino médio?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 4,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [
+        {
+          "id": 3175,
+          "aula_id": "bmf1_a22",
+          "materia": "bmf1",
+          "enunciado": "Qual relação diferencia corretamente omento menor e omento maior?",
+          "overlap": []
+        }
+      ],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a1",
+      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "materialHash": "bdc4cb3c8d5a6ea2390cbf7fdc206756bf1455124904ecfa690a5b841ef20fad",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "O que ΔG negativo indica?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual carreador é mais ligado à biossíntese redutora?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Na hipoxia, por que o piruvato vira lactato?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual afirmação diferencia termodinâmica de cinética?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 19,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a2",
+      "tema": "Regulação Metabólica Geral",
+      "materialHash": "e086bcd18bdf238c6206810460896e7dacd757ee9114803c3563b47d533d40df",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual regulação costuma ser mais rápida?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Insulina favorece principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Glucagon no fígado tende a aumentar:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual é a pegadinha da fosforilação?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 62,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a3",
+      "tema": "Glicólise e Gliconeogênese",
+      "materialHash": "068e0a35e113cd1f7b8f8e7dc6805affb8a83c0b9e1f7c75ba857a4b46238f90",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual enzima é a etapa comprometida da glicólise?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "O lactato permite manter glicólise anaeróbia porque:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Qual substrato entra na gliconeogênese?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "F2,6BP faz o quê?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 23,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a4",
+      "tema": "Ciclo de Krebs e Fosforilação Oxidativa",
+      "materialHash": "79670abc36c939f957d444cf7e5e6ce956851248cbc25b6de502c32934373c32",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual complexo não bombeia prótons?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "O oxigênio atua como:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Cianeto bloqueia principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "ATP sintase depende de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 23,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a5",
+      "tema": "Metabolismo de Glicogênio e Via das Pentoses",
+      "materialHash": "1561d28af14493098abcf3ea29ac7a1408b3ec1ef96658805f35a7da8a25dc9a",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual tecido exporta glicose a partir do glicogênio?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "A via das pentoses produz principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Deficiência de G6PD causa risco de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Insulina favorece:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 17,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a6",
+      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "materialHash": "8220335b5a3a22f9891009d1c4f542a5c9dfda171dab3f30817b13f85c86103f",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "GLUT4 é mais relevante em:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "DM1 tem maior risco de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Glucagon estimula no fígado:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "G6PD baixa aumenta risco de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 20,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a7",
+      "tema": "Beta-oxidação e Síntese de Ácidos Graxos",
+      "materialHash": "27ae277d3286f9118021a308e232511abe1107cb8d09b4ccfe2a3277e7e2cfa6",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "CPT-1 é inibida por:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Beta-oxidação gera:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Síntese de ácidos graxos usa principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "No jejum prolongado, excesso hepático de acetil-CoA pode virar:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 67,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a8",
+      "tema": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "materialHash": "591cd4ed53993c0ab216166d345fc19241ee4fefaaaaea37bd4bc3986ba85e08",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual partícula carrega lipídios da dieta?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Estatinas inibem:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "LDL é mais associado a:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "HDL participa de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 24,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a9",
+      "tema": "Aplicações Clínicas dos Lipídios",
+      "materialHash": "71760dcbbbfaa5ce3beccdf05eca88c4e0cc21ccb6860397b2d5a6aa929751a5",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Triglicerídeo muito alto aumenta risco de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Hipercolesterolemia familiar clássica envolve:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Cetoacidose diabética decorre de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Esteatose metabólica se liga fortemente a:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 24,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a10",
+      "tema": "Transaminação, Desaminação e Ciclo da Ureia",
+      "materialHash": "4b7ca0ffec8a21c4a996622b749ef6ec03e6b0710b91182de1f7e272b0eebee1",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Transaminases dependem de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "O órgão central do ciclo da ureia é:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "CPS I é ativada por:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Amônia elevada causa principalmente:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 161,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a11",
+      "tema": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "materialHash": "cc37e21290ea8a2385c74c435d761cd66263fc54619ad7525426ae592ab7488d",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Fenilcetonúria clássica eleva:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Hiperamonemia grave causa:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Kwashiorkor é associado a:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Caquexia difere de jejum simples porque:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 17,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a12",
+      "tema": "Biossíntese e Degradação de Nucleotídeos",
+      "materialHash": "460b0df5209b0612b574ff40392e381ccf0dc498b0ab17a2519d86228186f3cb",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Purinas degradam até:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "HGPRT participa de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Lesch-Nyhan envolve deficiência de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Alopurinol inibe:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a13",
+      "tema": "Integração Metabólica entre Órgãos",
+      "materialHash": "01849441ea56159e4823303b83e4c0a3db7d61b01d688fbf7d85978f962ca025",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "Qual órgão é principal estabilizador da glicemia?",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Ciclo de Cori transporta:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "No jejum prolongado, o cérebro passa a usar mais:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Músculo não sustenta glicemia porque:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 13,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    },
+    {
+      "materiaId": "pmh",
+      "materiaNome": "Processos Metabólicos Humanos",
+      "modulo": 1,
+      "aulaId": "pmh_a14",
+      "tema": "Adaptações Metabólicas e Aplicações Clínicas",
+      "materialHash": "ff736fae55f8cd9e6499e887e1cff658e513a8bbeaccda772dc4ca46eb9c9abd",
+      "material": {
+        "lines": 163,
+        "tableLines": 6,
+        "tableBlocks": 1,
+        "bulletLines": 30,
+        "pontosBullets": 10,
+        "pontosBold": 10,
+        "miniQuiz": {
+          "hasSection": true,
+          "questions": [
+            {
+              "text": "No jejum prolongado, o cérebro aumenta uso de:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Síndrome de realimentação tem marcador clássico:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Sepse tende a causar:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            },
+            {
+              "text": "Caquexia oncológica envolve:",
+              "options": 4,
+              "correct": 1,
+              "hasExplanation": true
+            }
+          ]
+        },
+        "issues": []
+      },
+      "questionsTotal": 12,
+      "essentials": 12,
+      "clinicalCases": 6,
+      "answerBalance": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "flashcards": 12,
+      "figures": 1,
+      "figureStatuses": [
+        "pendente"
+      ],
+      "suspicious": [],
+      "issues": [],
+      "materialIssues": [],
+      "questionIssues": [],
+      "cardIssues": [],
+      "refsIssues": []
+    }
+  ]
+}

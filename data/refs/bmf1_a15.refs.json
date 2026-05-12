@@ -2,18 +2,39 @@
   "aula_id": "bmf1_a15",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Tegumento — Tecido Epitelial Glandular",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Tegumento - Tecido Epitelial Glandular",
+  "gerado_em": "2026-05-11T20:44:59.421Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Epitélio glandular",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross e Pawlina - Histologia",
+      "capitulo": "Epithelial tissue and glands",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
+    },
+    {
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Glândulas salivares e pele",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula organiza epitélio glandular, classificação exócrina/endócrina, modos de secreção, glândulas cutâneas e salivares com aplicação em acne e sialolitíase.",
+  "pontos_de_prova": [
+    "exócrina versus endócrina",
+    "merócrina, apócrina e holócrina",
+    "sebácea holócrina",
+    "écrina e termorregulação",
+    "célula caliciforme",
+    "serosa versus mucosa",
+    "ductos de Wharton e Stenon",
+    "nervo facial na parótida"
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

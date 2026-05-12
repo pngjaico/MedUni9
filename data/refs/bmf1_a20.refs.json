@@ -3,17 +3,32 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Inervação e Vascularização Gastrointestinal",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Abdome: vascularização, sistema porta e inervação gastrointestinal",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Guyton e Hall - Tratado de Fisiologia Médica",
+      "capitulo": "Sistema nervoso entérico e controle autonômico do trato gastrointestinal",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula exige integração entre territórios arteriais, sistema porta, controle autonômico e plexos entéricos para explicar prova e clínica digestiva básica.",
+  "pontos_de_prova": [
+    "Territórios do tronco celíaco, AMS e AMI",
+    "Flexura esplênica como fronteira vascular",
+    "Formação da veia porta",
+    "Veia porta versus veias hepáticas",
+    "Vago versus simpático",
+    "Plexo de Auerbach versus Meissner",
+    "Isquemia mesentérica",
+    "Hipertensão portal e varizes"
+  ],
+  "observacoes": "Referências indicativas; páginas variam conforme edição."
 }

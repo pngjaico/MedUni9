@@ -3,17 +3,32 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Anatomia da Parede Abdominal e Peritônio",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Abdome: parede anterolateral, canal inguinal e peritônio",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Parede abdominal, canal inguinal e peritônio",
+      "paginas": "",
+      "relevancia": "atlas"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula integra planos da parede abdominal, canal inguinal, hérnias, peritônio e retroperitônio, pontos essenciais para prova e raciocínio cirúrgico básico.",
+  "pontos_de_prova": [
+    "Camadas da parede abdominal anterolateral",
+    "Camper versus Scarpa",
+    "Linha alba e laparotomia mediana",
+    "Canal inguinal e seus conteúdos",
+    "Hérnia direta versus indireta",
+    "Peritônio parietal versus visceral",
+    "Mesentério, omento maior e retroperitônio",
+    "Pneumoperitônio e irritação peritoneal"
+  ],
+  "observacoes": "Referências indicativas; páginas variam conforme edição."
 }

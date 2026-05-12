@@ -1,153 +1,160 @@
-# Semiologia 1 — Aula 5: testes de mobilidade e força muscular
+# Semiologia 1 - Aula 5: Testes de Mobilidade e Força Muscular
 
-**Disciplina:** Semiologia do Aparelho Locomotor  
-**Módulo:** 1
+**Disciplina:** Semiologia do Sistema Musculoesquelético  
+**Módulo:** 1 | **Referência principal:** função, amplitude e força  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-Testar a **Mobilidade** e a **Força Muscular** é o núcleo funcional do exame locomotor. A anamnese nos dá a queixa, mas é aqui que medimos a **Capacidade Real** do paciente. Para a prova, domine a **Escala MRC** (especialmente o Grau 3) e a diferença entre limitação **Ativa** (dor/fraqueza) e **Passiva** (bloqueio articular). Na clínica, os testes de **Estabilidade Ligamentar** (como o Lachman) definem a conduta cirúrgica ou conservadora.
+Mobilidade e força traduzem a queixa em função. Depois de ouvir, olhar e palpar, o aluno precisa medir o que o paciente consegue fazer: mover ativamente, aceitar mobilização passiva, vencer gravidade, resistir ao examinador e executar testes específicos.
+
+Na prova, dois raciocínios aparecem muito: **ADM ativa reduzida com passiva preservada** sugere dor, fraqueza ou lesão musculotendínea; **ADM ativa e passiva reduzidas** sugere limitação articular/capsular ou bloqueio mecânico. A escala **MRC** padroniza a força e evita descrições vagas.
 
 ### Figura sugerida
 
-**Figura-ID:** `SEMIO1-A5-F01`
+**Figura-ID:** SEMIO1-A5-F01  
+**Momento:** após esta abertura.  
+**O que mostrar:** esquema comparando ADM ativa, ADM passiva e escala MRC 0-5.  
+**Tipo sugerido:** diagrama funcional mobile-first.  
+**Legenda:** "ADM ativa/passiva e força MRC: transformar movimento em dado clínico."  
 
-- **Momento:** após esta seção de relevância.
-- **O que mostrar:** esquema com diferença entre amplitude ativa e passiva, incluindo exemplo de limitação dolorosa versus limitação estrutural.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Leitura clínica da amplitude de movimento ativa e passiva."
-
----
-
-## Amplitude de movimento: ativa x passiva
-
-A amplitude **ativa** depende de comando motor, força, coordenação e dor. A **passiva** depende mais da **integridade articular, capsular e da complacência** de tecidos periarticulares. Comparar as duas, no mesmo segmento, é uma das etapas mais informativas da semiologia musculoesquelética.
-
-Se ambas estão reduzidas, pense primeiro em limitação estrutural articular, rigidez capsular ou bloqueio mecânico. Se apenas a ativa está prejudicada, as hipóteses principais são dor, inibição antálgica ou déficit neuromuscular.
-
-| Tipo de Limitação | Ativa | Passiva | Interpretação Clínica |
-|-------------------|-------|---------|------------------------|
-| **Estrutural/Capsular**| **Reduzida**| **Reduzida** | Artropatia, **Capsulite** ou Bloqueio |
-| **Dor/Fraqueza**| **Reduzida**| Normal | **Lesão de Tendão, Músculo ou Nervo** |
-| **Impacto** | Dor no arco | Normal | Conflito mecânico subacromial |
-| **Hipermobilidade**| Aumentada | **Aumentada** | **Frouxidão Ligamentar** |
-
-> **Dica de Prova:** quando o enunciado descreve limitação ativa com passiva preservada, a banca geralmente espera raciocínio funcional (dor/fraqueza), não anquilose.
+**Figura-ID:** SEMIO1-A5-SPOT01  
+**Momento:** após a seção de testes frequentes.  
+**O que mostrar:** painel com posições resumidas de Lachman, Jobe, Phalen/Tinel, Finkelstein e Cozen.  
+**Tipo sugerido:** painel de execução técnica, sem foto decorativa.  
+**Legenda:** "Testes musculoesqueléticos frequentes: o que cada um tenta provocar."  
 
 ---
 
-## Força muscular e escala MRC
+## 1. ADM ativa e passiva: a pergunta funcional principal
 
-O registro padronizado da força pela escala MRC permite comparar evolução entre consultas e comunicar gravidade entre equipes. Não basta dizer "força diminuída"; é preciso graduar por movimento e por grupo muscular.
+Amplitude ativa é o movimento feito pelo paciente. Depende de dor, força, comando motor, coordenação e medo. Amplitude passiva é o movimento feito pelo examinador; depende mais de cápsula, articulação, bloqueio mecânico e resistência de tecidos.
 
-| Grau MRC | Definição prática | Interpretação clínica |
-|----------|-------------------|-----------------------|
-| **5/5** | Movimento completo contra resistência plena | **Força normal** |
-| **4/5** | Movimento completo contra resistência parcial | **Déficit leve** |
-| **3/5** | Movimento completo contra gravidade, sem resistência | **Déficit moderado** |
-| **2/5** | Movimento sem gravidade | **Déficit importante** |
-| **1/5** | Contração palpável sem movimento útil | **Déficit grave** |
-| **0/5** | Sem contração detectável | **Paralisia completa** do grupo avaliado |
+Se a ativa está limitada e a passiva está preservada, pense em dor, fraqueza, lesão tendínea, inibição antálgica ou déficit neurológico. Se ambas estão limitadas, o problema tende a ser estrutural articular, capsular ou mecânico.
 
-Sempre documente lado, movimento testado e condição de dor durante o teste. Essa informação evita confusão entre fraqueza verdadeira e limitação por dor.
+| Padrão | ADM ativa | ADM passiva | Interpretação de prova |
+|---|---|---|---|
+| **Dor/fraqueza** | Reduzida | Preservada | Músculo, tendão, nervo ou inibição por dor |
+| **Capsular/articular** | Reduzida | Reduzida | Capsulite, artropatia, bloqueio ou rigidez |
+| **Hipermobilidade** | Aumentada | Aumentada | Frouxidão ligamentar ou tecido conjuntivo |
+| **Impacto doloroso** | Arco doloroso | Pode ser quase normal | Conflito mecânico, especialmente no ombro |
 
-> **Pegadinha:** pseudo-fraqueza dolorosa é frequente. Se o paciente não vence resistência por dor intensa, não conclua paresia sem reavaliar em contexto analgésico adequado.
+**Macete MedGradPlus:** ADM ativa pergunta "o paciente consegue?"; ADM passiva pergunta "a articulação permite?". Essa diferença resolve muita questão.
 
----
+## 2. Força muscular: escala MRC sem decorar errado
 
-## Testes do joelho: estabilidade ligamentar
+Força deve ser testada por movimento, lado e grupo muscular. O registro "fraco" não serve. Use MRC de 0 a 5 e descreva se a dor limitou o esforço.
 
-No joelho, os testes têm maior valor quando combinados com mecanismo de trauma, edema precoce e sensação de falseio. Em trauma rotacional com derrame rápido, o Lachman ganha peso para suspeita de lesão do ligamento cruzado anterior (LCA).
+| Grau MRC | Definição prática | Tradução rápida |
+|---|---|---|
+| **0/5** | Sem contração detectável | Paralisia completa do movimento |
+| **1/5** | Contração visível/palpável sem movimento | Esboço de contração |
+| **2/5** | Movimento com gravidade eliminada | Não vence a gravidade |
+| **3/5** | Movimento completo contra gravidade | Vence gravidade, não resistência |
+| **4/5** | Movimento contra alguma resistência | Déficit leve/moderado |
+| **5/5** | Movimento contra resistência plena | Força normal |
 
-| Teste Especial | Estrutura Avaliada | Interpretação "High-Yield" |
-|-----------------|--------------------|----------------------------|
-| **Lachman** | **LCA** (Cruzado Ant.) | O mais sensível para ruptura aguda |
-| **Gaveta Anterior**| **LCA** (Cruzado Ant.) | Teste clássico (menos sensível que Lachman) |
-| **Estresse em Valgo**| **Colateral Medial** | Abertura medial patológica |
-| **Gaveta Posterior**| **LCP** (Cruzado Post.)| Translação posterior da tíbia |
-| **McMurray** | **Meniscos** | Estalido ou dor à rotação |
+**Pegadinha de prova:** dor pode gerar pseudo-fraqueza. Se o paciente interrompe por dor, não chame automaticamente de paresia. Reavalie posição, dor, amplitude passiva e padrão neurológico.
 
-Teste positivo isolado não fecha diagnóstico definitivo; ele aumenta ou reduz probabilidade. O conjunto anamnese + inspeção + palpação + teste funcional é que sustenta decisão clínica.
+## 3. Joelho: testes de estabilidade e menisco
 
----
+Testes especiais só têm valor quando combinam com mecanismo e achados prévios. Joelho torcido, estalo, derrame precoce e falseio aumentam valor de testes para LCA e menisco.
 
-## Ombro: mobilidade, dor e manguito rotador
+| Teste | Estrutura principal | Leitura prática |
+|---|---|---|
+| **Lachman** | Ligamento cruzado anterior | Muito útil para LCA, especialmente agudo |
+| **Gaveta anterior** | Ligamento cruzado anterior | Clássico, depende de relaxamento |
+| **Gaveta posterior** | Ligamento cruzado posterior | Translação posterior da tíbia |
+| **Estresse em valgo/varo** | Colaterais medial/lateral | Abertura patológica do compartimento |
+| **McMurray** | Meniscos | Dor/estalido com rotação e compressão |
 
-No ombro, a combinação entre arco doloroso, limitação ativa e testes de resistência direciona o raciocínio. **Jobe** sugere comprometimento de **supraespinal**, mas não distingue sozinho tendinopatia de rotura parcial.
+Em suspeita de artrite séptica, a prioridade não é "testar tudo". Dor intensa, calor, febre e limitação exigem cautela, investigação e possível punção/encaminhamento, conforme contexto.
 
-| Manobra | O que sugere | Limitação da manobra |
-|---------|--------------|----------------------|
-| **Jobe** | Disfunção do **Supraespinal** | Dor isolada pode ser impacto sem rotura |
-| **Neer** | **Impacto subacromial** | Baixa especificidade isolada |
-| **Hawkins-Kennedy** | **Conflito subacromial** | Deve ser interpretado com outros achados |
-| **Apreensão** | Instabilidade anterior | Exige correlação com história de luxação |
+## 4. Ombro, punho e cotovelo: testes que a prova gosta
 
-### Figura sugerida
+No ombro, Jobe avalia principalmente o supraespinal; Neer e Hawkins provocam impacto subacromial. Dor isolada não prova ruptura completa, mas orienta hipótese do manguito e conflito.
 
-**Figura-ID:** `SEMIO1-A5-F02`
+No punho, Phalen e Tinel sustentam suspeita de síndrome do túnel do carpo quando reproduzem parestesia no território do nervo mediano. Finkelstein provoca dor em De Quervain. No cotovelo, Cozen se relaciona à epicondilalgia lateral.
 
-Briefing: sequência ilustrada das posições de Lachman, Jobe e Phalen, destacando gesto técnico correto e erro comum de execução. Legenda rascunho: "Execução padronizada de testes musculoesqueléticos frequentes em prova."
+Guarde os pares mais cobrados: **Jobe** aponta para supraespinal/manguito; **Neer e Hawkins** provocam impacto subacromial; **Phalen e Tinel** investigam mediano/túnel do carpo; **Finkelstein** sugere De Quervain; **Cozen** sugere epicondilalgia lateral.
 
----
+## 5. Como integrar teste, dor e segurança
 
-## Punho, mão e cotovelo: testes frequentes
+Teste positivo isolado não fecha diagnóstico. Ele aumenta probabilidade. O resultado precisa bater com história, inspeção, palpação, ADM e força.
 
-No membro superior distal, o valor dos testes aumenta quando a topografia da dor e os sintomas neurológicos são bem descritos. Em síndrome do túnel do carpo, por exemplo, Phalen e Tinel são complementares, não equivalentes.
+Se a manobra é muito dolorosa, reduza agressividade. Teste mal executado piora dor e gera falso positivo. Em trauma agudo, suspeita infecciosa ou déficit neurológico progressivo, o exame deve ser objetivo e seguro.
 
-| Teste | Região | Hipótese principal | Erro frequente |
-|-------|--------|--------------------|----------------|
-| **Phalen** | Punho | Compressão do **nervo mediano** | Considerar positivo sem parestesia típica |
-| **Tinel** no túnel do carpo | Punho | Irritabilidade do nervo mediano | Usar como diagnóstico definitivo isolado |
-| **Finkelstein** | Punho/polegar | **Tenossinovite de De Quervain** | Confundir com teste mal executado de Eichhoff |
-| **Cozen** | Cotovelo lateral | **Epicondilalgia lateral** | Ignorar dor à palpação do epicôndilo |
-
----
-
-## Quando não insistir em manobras de estresse
-
-Há situações em que forçar teste piora desfecho e não acrescenta informação útil no momento inicial. Suspeita de fratura instável, artrite séptica, luxação recente e déficit neurológico progressivo exigem abordagem de segurança antes da propedêutica completa.
-
-Nesses cenários, priorize analgesia, estabilização, exame neurológico objetivo e imagem adequada. O exame funcional completo pode ser retomado em momento seguro.
-
----
+Documente o resultado com precisão: lado, teste, resposta dolorosa, fraqueza, amplitude, resistência e limitação. "Jobe positivo" é menos útil do que "Jobe à direita com dor e fraqueza por dor, sem perda passiva global".
 
 ## Ponte com a Clínica
 
-Em paciente jovem com trauma no futebol, estalido no joelho e edema em poucas horas, Lachman com frouxidão comparativa fortalece hipótese de lesão de LCA e acelera encaminhamento ortopédico.
+Um paciente não consegue elevar ativamente o braço, mas permite elevação passiva quase completa. Isso não parece anquilose; o raciocínio vai para dor, manguito, inibição ou fraqueza.
 
-Em paciente com dor no ombro que não eleva o braço, limitação ativa importante com passiva parcialmente preservada e dor ao Jobe orienta lesão de manguito, mas a decisão terapêutica exige integração com idade, tempo de sintomas e imagem quando indicada.
+Outro paciente tem ombro duro, com ativa e passiva globalmente reduzidas. Aqui o eixo muda para rigidez capsular, capsulite ou bloqueio estrutural.
 
----
+No joelho traumático com derrame rápido, Lachman positivo tem peso. No punho com parestesia típica, Phalen e Tinel ajudam. Em qualquer caso, o teste só vale se a execução for coerente.
 
 ## Pontos-Chave para Prova
 
-- **Ativa vs Passiva:** Se a passiva não vai, a junta está **travada**. Se a passiva vai e a ativa não, o motor está **quebrado** (músculo/nervo) ou dói.
-- **Escala MRC:** No **Grau 3**, o paciente levanta o braço/perna contra a gravidade, mas "cai" se você apertar.
-- **Lachman:** Realizado em **20-30 graus de flexão**. É o padrão-ouro clínico para **LCA**.
-- **Jobe:** Braços a 90º, polegares para baixo. Testa especificamente o **Supraespinal**.
-- **Phalen:** Juntar as costas das mãos por 1 minuto. Busca o choque da **Síndrome do Túnel do Carpo**.
+- **ADM ativa** depende do paciente; **ADM passiva** depende mais da articulação/tecidos.
+- **Ativa reduzida e passiva normal** sugere dor, fraqueza, tendão ou nervo.
+- **Ativa e passiva reduzidas** sugerem limitação articular/capsular.
+- **MRC 3/5** vence gravidade, mas não resistência.
+- **MRC 2/5** move apenas com gravidade eliminada.
+- **MRC 1/5** é contração sem movimento útil.
+- **Lachman** avalia principalmente LCA.
+- **Gaveta anterior** também avalia LCA.
+- **Jobe** mira supraespinal/manguito.
+- **Phalen/Tinel** investigam túnel do carpo/mediano.
+- **Finkelstein** sugere De Quervain.
+- **Pseudo-fraqueza dolorosa** não é paresia comprovada.
 
----
+## Mini Quiz
+
+1. **ADM ativa reduzida com passiva preservada sugere mais:**
+- [x] Dor, fraqueza, lesão musculotendínea ou déficit neurológico.
+- [ ] Anquilose obrigatória.
+- [ ] Derrame articular sempre infeccioso.
+- [ ] Genu valgo.
+> **Explicação:** Passiva preservada indica que a articulação permite movimento; a limitação ativa vem de dor, força ou comando.
+
+2. **MRC 3/5 significa:**
+- [ ] Contração sem movimento.
+- [x] Movimento completo contra gravidade, sem vencer resistência.
+- [ ] Movimento apenas com gravidade eliminada.
+- [ ] Força normal.
+> **Explicação:** Grau 3 vence a gravidade, mas não vence resistência adicional.
+
+3. **Lachman avalia principalmente:**
+- [ ] Nervo mediano.
+- [ ] Supraespinal.
+- [x] Ligamento cruzado anterior.
+- [ ] Tendão de Aquiles.
+> **Explicação:** Lachman é teste de estabilidade anterior do joelho, voltado ao LCA.
+
+4. **Phalen e Tinel no punho ajudam a suspeitar de:**
+- [ ] Lesão de LCA.
+- [ ] De Quervain.
+- [ ] Impacto subacromial.
+- [x] Síndrome do túnel do carpo.
+> **Explicação:** Eles buscam reproduzir parestesia no território do nervo mediano.
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
 ### Síntese para a prova
 
-- **Lachman vs Gaveta:** O **Lachman** é soberano no agudo porque o espasmo dos isquiotibiais atrapalha menos a manobra.
-- **Manguito Rotador:** Composto por **Supraespinal**, **Infraespinal**, **Redondo Menor** e **Subescapular**. O Supra é o que mais sofre.
-- **Epicondilite:** Dor no lado de fora (**Lateral**) é do Tenista; dor no lado de dentro (**Medial**) é do Golfista.
-- **Trendelenburg:** Se a bacia cai quando ele tira o pé do chão, a fraqueza é do **Glúteo Médio**.
+Antes de decorar teste especial, separe ADM ativa, ADM passiva e MRC. Depois conecte testes a estruturas: Lachman/Gaveta anterior para LCA, Jobe para supraespinal, Neer/Hawkins para impacto, Phalen/Tinel para mediano, Finkelstein para De Quervain e Cozen para epicôndilo lateral.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|-------------------------|
-| **Lachman** | **Gaveta Anterior** | Padrão-ouro (Agudo) vs Complementar |
-| **Jobe** | **Gerdber (Lift-off)** | Supraespinal vs **Subescapular** |
-| **Finkelstein** | **Phalen** | De Quervain (Tendão) vs Túnel do Carpo (Nervo) |
-| **Grau 3 MRC** | **Grau 2 MRC** | Vence a gravidade vs Não vence a gravidade |
+O raciocínio seguro é: função primeiro, estrutura depois. Se o teste não combina com história, inspeção e palpação, ele não deve mandar sozinho no diagnóstico.
 
-### Frase-âncora para não esquecer
+### Diferenciações
 
-> "Quem mede mobilidade e força com método erra menos no diagnóstico e no tratamento."
+| Diferenciar | Pista do primeiro | Pista do segundo |
+|---|---|---|
+| **ADM ativa vs passiva** | Movimento feito pelo paciente | Movimento feito pelo examinador |
+| **Fraqueza real vs dor** | Padrão neurológico, déficit consistente | Esforço interrompido por dor |
+| **MRC 2 vs 3** | Move sem gravidade | Move contra gravidade |
+| **Lachman vs gaveta anterior** | LCA com joelho menos flexionado | LCA em flexão maior |
+| **Jobe vs Neer/Hawkins** | Supraespinal/manguito | Impacto subacromial |

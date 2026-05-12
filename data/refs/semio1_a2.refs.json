@@ -3,17 +3,34 @@
   "materia": "semiologia1",
   "modulo": 1,
   "tema": "Anamnese Dirigida do Aparelho Locomotor",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "revisado": true,
+  "revisado_em": "2026-05-12T00:00:00-03:00",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
-      "relevancia": "principal"
+      "titulo": "Bates - Propedêutica Médica",
+      "relevancia": "estrutura de anamnese, dor e red flags"
+    },
+    {
+      "titulo": "Semiologia Médica - Porto",
+      "relevancia": "história clínica, dor, rigidez e exame locomotor"
+    },
+    {
+      "titulo": "Hoppenfeld - Propedêutica Ortopédica",
+      "relevancia": "mecanismo de trauma e correlação com exame musculoesquelético"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula sustenta a transição de queixa vaga para hipótese semiológica: OPQRST, padrão da dor, função, distribuição articular, antecedentes, trauma, exposições e red flags.",
+  "pontos_de_prova": [
+    "OPQRST interpretado",
+    "dor inflamatória versus mecânica",
+    "dor neuropática",
+    "monoartrite aguda",
+    "oligoartrite",
+    "antecedentes de espondiloartrite",
+    "fluoroquinolona e tendão",
+    "criança claudicante",
+    "história ocupacional",
+    "red flags"
+  ],
+  "observacoes": "Semiologia1 deve manter spots/diagramas quando eles melhorarem a aprendizagem; imagens finais ficam para rodada posterior."
 }

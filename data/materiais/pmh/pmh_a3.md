@@ -1,117 +1,162 @@
-# PMH — Aula 3: Glicólise e Gliconeogênese
+# PMH - Aula 3: Glicólise e Gliconeogênese
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-A **Glicólise** (quebra) e a **Gliconeogênese** (síntese) são as vias centrais da glicose. Enquanto a primeira gera **ATP** rápido (mesmo sem O₂), a segunda fabrica glicose no **jejum** a partir de **Lactato**, **Glicerol** e **Aminoácidos**. Domine a **regulação recíproca** e as enzimas de **bypass** que permitem ao fígado exportar glicose.
+Glicólise e gliconeogênese são vias opostas, mas não são simplesmente a mesma estrada em sentidos contrários.
 
+A prova cobra enzimas irreversíveis, regulação por energia e hormônios, e a lógica clínica de lactato, jejum e hipoglicemia.
+
+O aluno que sabe PFK-1, frutose-2,6-bisfosfato e bypasses da gliconeogênese já resolve a maior parte das questões.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A3-F01`
+**Figura-ID:** PMH-A3-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Glicólise: visão geral
-
-Fase **preparatória** gasta ATP; fase **pagadora** gera **ATP** e **NADH**. O **piruvato** pode seguir para **acetil-CoA** (aeróbio), **lactato** (anaeróbio) ou **transaminação** para **alanina**.
-
-**Enzimas regulatórias clássicas:** **hexoquinase** (fígado: glucoquinase), **fosfofrutoquinase-1 (PFK-1)**, **piruvato quinase**.
-
-> **Dica de Prova:** A **PFK-1** é o principal **sensor metabólico**; ela para a via se houver muito **ATP** (energia de sobra) e acelera se houver **AMP** (crise energética). No fígado, a **Frutose-2,6-bifosfato** é o sinalizador que força a glicólise mesmo com ATP alto, garantindo o processamento do excesso de açúcar.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Mapa comparativo glicólise versus gliconeogênese com enzimas irreversíveis e bypasses.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Glicólise e Gliconeogênese: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Glicólise anaeróbica e lactato
+## 1. Glicólise
 
-Sob **hipóxia** ou **exercício máximo**, **NAD⁺** é regenerado pela **lactato desidrogenase**: piruvato → lactato. O **lactato** entra no **ciclo de Cori** (musculatura → fígado → glicose) — liga **periferia** e **hepatócito**.
+A glicólise quebra glicose em piruvato, gerando ATP e NADH. Ela ocorre no citosol e pode funcionar mesmo sem oxigênio, desde que NAD+ seja regenerado.
 
----
+Hexoquinase/glucoquinase, PFK-1 e piruvato quinase são os pontos de controle mais lembrados.
 
-## Gliconeogênese: não é glicólise ao contrário
-
-Requer **enzimas de bypass** para contornar **passos irreversíveis** da glicólise:
-
-1. **Piruvato carboxilase** (mitocôndria → oxaloacetato).
-2. **PEP carboxiquinase (PEPCK)** (oxaloacetato → fosfoenolpiruvato).
-3. **Frutose-1,6-bifosfatase** (frutose-1,6-bisP → frutose-6P).
-4. **Glicose-6-fosfatase** (só **fígado/rim** — libera glicose livre).
-
-> **Pegadinha:** Músculo **não** possui a **Glicose-6-fosfatase**. Logo, o glicogênio muscular só serve para o próprio músculo; o **Fígado** e o **Rim** são os únicos que podem doar glicose para o sangue.
+PFK-1 é a etapa comprometida: responde a ATP, AMP, citrato e frutose-2,6-bisfosfato.
 
 ---
 
-## Regulação recíproca (insulina/glucagon)
+## 2. Anaerobiose e lactato
 
-**Insulina** favorece **glicólise** e reprime **gliconeogênese** (expressão de **PEPCK**, etc.). **Glucagon** (via **cAMP**) **fosforila** enzimas e **aumenta gliconeogênese** enquanto **inibe glicólise** hepática.
+Sem reoxidação mitocondrial adequada de NADH, o piruvato é reduzido a lactato.
 
-**Frutose-2,6-bifosfato** (fígado): **alta** ativa PFK-1 (glicólise); **baixa** favorece **gliconeogênese**.
+Isso regenera NAD+ e permite que a glicólise continue, especialmente em hemácias e músculo em exercício intenso.
 
----
-
-## Substratos da gliconeogênese
-
-- **Lactato** (Cori).
-- **Glicerol** (lipólise de triacilgliceróis).
-- **Aminoácidos glicogênicos** (alanina via **ciclo glicose-alanina**).
+A pegadinha é chamar lactato de lixo: ele também é substrato para fígado no ciclo de Cori.
 
 ---
 
-## Comparativo rápido
+## 3. Gliconeogênese
 
-| Característica | Glicólise | Gliconeogênese |
-|-----------------|-----------|-----------------|
-| **Local Principal**| Praticamente **todas as células** | **Fígado** e Córtex Renal |
-| **Saldo de ATP** | **Produz** ATP líquido | **Consome** ATP/GTP |
-| **Aceptor Final** | **Piruvato** (ou Lactato) | **Glicose Livre** |
-| **Hormônio Ativador** | **Insulina** | **Glucagon** e Cortisol |
+A gliconeogênese produz glicose a partir de lactato, glicerol e aminoácidos glicogênicos, principalmente no fígado.
+
+Ela contorna etapas irreversíveis da glicólise com piruvato carboxilase, PEPCK, frutose-1,6-bisfosfatase e glicose-6-fosfatase.
+
+É estimulada por glucagon, cortisol e jejum prolongado.
 
 ---
 
+## 4. Regulação recíproca
+
+Quando a glicólise está ligada, a gliconeogênese deve estar freada, e vice-versa.
+
+Frutose-2,6-bisfosfato ativa PFK-1 e inibe frutose-1,6-bisfosfatase.
+
+Esse controle evita ciclo fútil e gasto inútil de ATP.
+
+> **Macete MedGradPlus:** PFK-1 é o pedágio da glicólise; F1,6BPase é o retorno da gliconeogênese.
+
+> **Pegadinha de prova:** Gliconeogênese não usa acetil-CoA para virar glicose líquida.
+
+---
+
+## Mapa mental da aula
+Monte o raciocínio como uma bifurcação: glicólise quebra glicose para gerar ATP; gliconeogênese reconstrói glicose quando o corpo precisa manter glicemia.
+
+A chave de prova é **PFK-1**, estimulada por AMP e F2,6BP e freada por ATP/citrato. Ela decide se a glicose segue para degradação.
+
+Conecte com Cori: músculo ou hemácia geram lactato; fígado reconverte lactato em glicose, gastando energia para sustentar tecidos dependentes.
 ## Ponte com a Clínica
+Exercício intenso e hipóxia explicam lactato sem precisar inventar falência hepática: o objetivo imediato é regenerar NAD+ para manter glicólise.
 
-**Hipoglicemia** por **excesso de insulina** ou **deficiência de contrarregulação** fecha o fluxo **gliconeogênico**. Em **sepse** ou **cirrose**, **distúrbio hepático** reduz capacidade de **gerar glicose** — **glicemia** pode oscilar mesmo com nutrição. **Lactato alto** com **hipoperfusão** reflete **glicólise anaeróbica** acelerada com **backlog** no fígado.
+No jejum, o fígado usa lactato, alanina e glicerol para produzir glicose. A prova costuma misturar substrato certo com acetil-CoA, que não vira glicose líquida.
 
----
-
+A armadilha é tratar glicólise e gliconeogênese como setas reversíveis simples; as etapas irreversíveis exigem enzimas próprias.
 ## Pontos-Chave para Prova
 
-- **PFK-1 vs F1,6BPase:** A **regulação recíproca** impede o "ciclo fútil" (queimar e sintetizar ao mesmo tempo).
-- **Enzima Chave:** A **F-2,6-BP** liga a Glicólise e desliga a Gliconeogênese.
-- **Bypasses:** São os **4 passos termodinâmicos** que contornam as reações irreversíveis da glicólise.
-- **Ciclo de Cori:** Reciclagem de **Lactato** muscular em glicose hepática — evita o desperdício de carbono.
-- **Alanina:** O aminoácido mais usado para fabricar glicose via **Ciclo Alanina-Glicose**.
+- **Glicólise** ocorre no citosol.
+- **PFK-1** é etapa comprometida da glicólise.
+- **ATP** e citrato freiam PFK-1.
+- **AMP** e F2,6BP ativam PFK-1.
+- **Lactato** regenera NAD+ em anaerobiose.
+- **Gliconeogênese** usa lactato, glicerol e aminoácidos.
+- **Piruvato** carboxilase depende de biotina.
+- **PEPCK** participa do bypass do piruvato.
+- **F1,6BPase** é freada por F2,6BP.
+- **Ciclo** de Cori liga músculo/hemácia ao fígado.
+
+---
+
+## Mini Quiz
+
+1. **Qual enzima é a etapa comprometida da glicólise?**
+- [x] PFK-1
+- [ ] PEPCK
+- [ ] Glicose-6-fosfatase
+- [ ] Piruvato carboxilase
+> **Explicação:** PFK-1 é a etapa comprometida da glicólise porque decide a entrada efetiva da glicose na via degradativa.
+
+2. **O lactato permite manter glicólise anaeróbia porque:**
+- [ ] forma ureia
+- [x] regenera NAD+
+- [ ] ativa colesterol
+- [ ] bloqueia ATP
+> **Explicação:** Formar lactato regenera NAD+, indispensável para manter a glicólise quando a reoxidação mitocondrial está limitada.
+
+3. **Qual substrato entra na gliconeogênese?**
+- [ ] acetil-CoA como carbono líquido
+- [ ] colesterol
+- [x] lactato
+- [ ] corpo cetônico
+> **Explicação:** Lactato é substrato clássico da gliconeogênese hepática no ciclo de Cori; acetil-CoA não gera glicose líquida.
+
+4. **F2,6BP faz o quê?**
+- [ ] inibe PFK-1
+- [ ] ativa ureia
+- [ ] é aceptor final de elétrons
+- [x] ativa PFK-1 e freia F1,6BPase
+> **Explicação:** F2,6BP coordena as vias opostas ao ativar PFK-1 e inibir frutose-1,6-bisfosfatase.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Diferencial de Exportação:** Só o fígado libera glicose pois possui a **G6-Pase**.
-- **Piruvato Carboxilase:** Reação mitocondrial que exige **Biotina** para iniciar a Gliconeogênese.
-- **Lactato:** Não é lixo; é **combustível** para o fígado durante o exercício.
-- **Glicogenólise vs Gliconeogênese:** A primeira é rápida (estoque); a segunda é o **sustento de longo prazo**.
+Glicólise e gliconeogênese são vias opostas, mas não são simplesmente a mesma estrada em sentidos contrários.
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|----------------------|
-| **Glicólise** | **Gliconeogênese** | **Aeróbio/Anaeróbio** vs Apenas **Aeróbio** (consome ATP) |
-| **Hexoquinase** | **Glucoquinase** | **Inibida por G6P** vs **Sem inibição** (trabalha no excesso) |
-| **F-2,6-BP** | **Amp/ATP** | Controle **Hormonal** vs Controle **Energético** |
-| **Córtex Renal** | **Medula Renal** | Faz **Gliconeogênese** vs Faz **Glicólise** (anaeróbia) |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **glicólise** vs **gliconeogênese** | gera piruvato/ATP vs produz glicose |
+| **PFK-1** vs **F1,6BPase** | glicólise vs gliconeogênese |
+| **lactato** vs **acetil-CoA** | vira glicose via Cori vs não vira glicose líquida |
+| **insulina** vs **glucagon** | favorece glicólise/estoque vs gliconeogênese |
+
+### Figura sugerida
+
+Use a figura PMH-A3-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Irreversível na glicólise exige bypass na gliconeogênese.”
+> **Glicólise gasta glicose; gliconeogênese salva glicemia.**

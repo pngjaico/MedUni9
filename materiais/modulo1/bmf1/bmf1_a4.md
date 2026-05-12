@@ -1,88 +1,185 @@
-# BMF1 — Aula 4: Tecido Conjuntivo — Células e Matriz
+# BMF1 - Aula 4: Tecido Conjuntivo - Células e Matriz
 
-O tecido conjuntivo é o **"esqueleto invisível"** e dinâmico que une e protege cada órgão do corpo. Na prova, os temas centrais são a **Diferença de Colágenos (I vs III)**, as **Células Residentes/Migratórias** e a **Composição da Matriz**.
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Junqueira e Carneiro, capítulo de tecido conjuntivo  
+**Tempo de estudo sugerido:** 15-20 min
 
-Na prática, o conhecimento sobre **Fibroblastos** e **Mastócitos** explica desde como uma cicatriz se torna um **Queloide** até por que um paciente entra em **Choque Anafilático**. Aprender o conjuntivo é entender o palco onde ocorre a **inflamação**, a defesa imunológica e a reparação de todos os outros tecidos.
+---
+
+## Relevância clínica e acadêmica
+
+Tecido conjuntivo é o tecido da sustentação, do preenchimento e do reparo. Ele fica por baixo dos epitélios, acompanha vasos e nervos, participa da inflamação, forma cicatriz e dá origem a tecidos especializados como osso, cartilagem, sangue e tecido adiposo.
+
+O erro comum é estudar conjuntivo como lista de células soltas. A aula fica mais simples quando você enxerga dois protagonistas: **células** e **matriz extracelular**. As células constroem, defendem e sinalizam; a matriz dá resistência, elasticidade, hidratação e caminho para migração celular.
+
+Na clínica, essa base explica cicatrização, queloide, fibrose, alergia imediata, inflamação crônica e até estroma tumoral. O que parece histologia inicial vira linguagem de patologia o tempo todo.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A4-F01`
+**Figura-ID:** BMF1-A4-F01
 
-- **Momento:** Seção de Células do Conjuntivo.
-- **O que mostrar:** A **"Vigilância dos Tecidos"**: Uma célula grande com tentáculos (**Macrófago**) comendo uma bactéria, ao lado de uma célula cheia de grânulos roxos (**Mastócito**) prestes a explodir e um **Fibroblasto** tecendo fios de colágeno ao fundo. 
-- **Tipo sugerido:** Ilustração histológica didática.
-- **Legenda (rascunho):** Os guardiões e construtores da matriz extracelular.
-
-## 1. A Matriz Extracelular: Muito Além de "Preenchimento"
-
-A matriz não é um espaço vazio; ela é um **gel complexo** que dita as propriedades mecânicas do órgão.
-- **Fibroblastos:** As células operárias. Elas sintetizam o **colágeno** e a substância fundamental.
-- **Colágeno Tipo I:** Resistente à tração (**Forte como corda**). Presente em **Ossos**, Tendões e **Cicatrizes maduras**.
-- **Colágeno Tipo III (Reticulina):** Forma uma rede de suporte frouxa. É o **primeiro** a ser usado na **Cicatrização** e forma o esqueleto de órgãos moles (fígado, linfonodos).
-- **Fibras Elásticas:** Permitem o retorno ao estado original. Essenciais em **Artérias Grandes** e Pulmões.
+- **Momento:** após a seção de células do conjuntivo.
+- **O que mostrar:** esquema de tecido conjuntivo frouxo com fibroblasto, macrófago, mastócito, plasmócito, fibras colágenas, fibras elásticas, fibras reticulares e substância fundamental.
+- **Tipo sugerido:** ilustração histológica didática.
+- **Legenda:** Células e matriz extracelular do tecido conjuntivo propriamente dito.
 
 ---
 
-## 2. Células do Conjuntivo: Os Habitantes do Território
+## A ideia-mãe: célula trabalhando dentro de matriz
 
-| Célula | Papel Fisiológico | Relevância Clínica |
-|-----------------------|-------------------|--------------------|
-| **Fibroblasto** | Constrói a Matriz | **Cicatriz** e **Fibrose** |
-| **Macrófago** | "Faxina" e Defesa | **Limpeza** de debris e bactérias |
-| **Mastócito** | Resposta Alérgica | Libera **Histamina** e **Heparina** |
-| **Plasmócito** | Produção de Anticorpos| **Inflamação Crônica** |
-| **Adipócito** | Reserva de Gordura | Proteção térmica e mecânica |
+Diferente do epitélio, em que as células ficam muito próximas, o conjuntivo costuma ter células separadas por matriz. Essa matriz não é espaço vazio. Ela é um material biológico ativo, composto por fibras e substância fundamental.
+
+As **fibras colágenas** dão resistência à tração. As **fibras elásticas** permitem retorno elástico. As **fibras reticulares**, ricas em colágeno tipo III, formam redes delicadas de sustentação em órgãos como linfonodo, baço e medula óssea.
+
+A **substância fundamental** é rica em água, GAGs, proteoglicanos e glicoproteínas adesivas. Ela permite difusão, hidratação e resistência à compressão. Quando a prova fala que GAGs atraem água, está cobrando justamente a carga negativa dessas moléculas.
+
+> **Pegadinha de prova:** matriz extracelular não é “fora do tecido”. Ela é parte essencial do tecido conjuntivo. Sem matriz, não há sustentação, reparo nem cicatriz funcional.
 
 ---
 
-## 3. Classificação Prática (Onde encontrar?)
+## Quem faz o quê no conjuntivo?
 
-- **Conjuntivo Frouxo:** Muitas células, poucas fibras. Fica logo abaixo dos epitélios (nutrição e defesa).
-- **Conjuntivo Denso Regular:** Fibras paralelas. Resistência máxima em uma direção (**Tendões**).
-- **Conjuntivo Denso Irregular:** Fibras entrelaçadas. Suporta tração em todas as direções (**Derme** da pele).
-- **Tecido Adiposo:** Especializado em reserva de energia e amortecimento.
+O **fibroblasto** é a célula construtora. Ele produz colágeno, elastina e substância fundamental. Quando uma ferida cicatriza ou uma fibrose se forma, o fibroblasto está no centro do processo.
+
+O **macrófago** é sentinela e faxineiro: fagocita detritos, apresenta antígenos e conversa com outras células imunes. O **mastócito** participa de alergia e inflamação imediata por liberação de histamina e heparina. O **plasmócito** deriva de linfócito B e produz anticorpos.
+
+Adipócitos armazenam energia e têm função endócrina. Leucócitos migratórios aparecem conforme o tipo de inflamação: neutrófilos em processos agudos, linfócitos e plasmócitos em processos crônicos, eosinófilos em alergias e parasitoses.
+
+| Célula | Função que fixa | Cobrança típica |
+|---|---|---|
+| **Fibroblasto** | produz matriz | cicatriz, colágeno e fibrose |
+| **Macrófago** | fagocita e apresenta antígeno | limpeza de ferida e inflamação |
+| **Mastócito** | libera histamina | alergia e anafilaxia |
+| **Plasmócito** | produz anticorpos | inflamação crônica |
+
+> **Macete MedGradPlus - CoLiADe:**
+> **Co**nstrói = fibroblasto. **Li**mpa = macrófago. **A**larga vaso = mastócito. **De**fende com anticorpo = plasmócito.
+
+---
+
+## Colágeno I, colágeno III e o tempo da cicatriz
+
+O colágeno tipo I é o colágeno da resistência. Ele aparece em tendão, osso, derme e cicatriz madura. Quando a questão fala em força tensil, pense em colágeno I.
+
+O colágeno tipo III forma fibras reticulares. Ele aparece em redes delicadas e em cicatriz inicial. Durante a cicatrização, o corpo deposita uma matriz inicial mais frouxa e depois remodela para uma matriz mais resistente, com maior participação do colágeno I.
+
+Essa troca é importante para entender por que ferida recente abre mais fácil. A cicatriz não nasce forte. Ela ganha resistência com tempo, vascularização, fibroblastos ativos e remodelamento da matriz.
+
+Fibras elásticas entram quando o tecido precisa deformar e voltar. Artérias grandes, pulmão e pele usam elasticidade de modo importante. Já GAGs e proteoglicanos mantêm água e ajudam na resistência à compressão, algo muito cobrado quando a aula conversa com cartilagem.
+
+---
+
+## Frouxo, denso regular e denso irregular
+
+O tecido conjuntivo **frouxo** tem mais células, mais substância fundamental, fibras delicadas e boa vascularização. Ele costuma ficar sob epitélios, como na lâmina própria, porque permite difusão, defesa e reparo rápido.
+
+O **denso regular** tem fibras colágenas paralelas. Ele resiste muito bem à tração em uma direção, por isso tendão e ligamento são os exemplos principais. Se a prova descreve feixes paralelos e força em linha, vá para denso regular.
+
+O **denso irregular** tem fibras em várias direções. Ele resiste a forças multidirecionais, como na derme reticular e em cápsulas de órgãos. Se a descrição fala em resistência em vários planos, pense nele.
+
+O conjuntivo reticular cria arcabouço delicado de órgãos moles. O adiposo armazena energia e secreta mediadores. Sangue, osso e cartilagem são conjuntivos especializados porque têm células e matriz próprias, mesmo que a aparência seja muito diferente.
+
+---
+
+## Cicatrização, fibrose e inflamação
+
+Na ferida, o corpo primeiro limpa, vasculariza e deposita matriz. O tecido de granulação tem vasos novos, fibroblastos e matriz imatura. Depois ocorre remodelamento, com aumento de colágeno I e organização das fibras.
+
+Quando a deposição de matriz passa do necessário, aparecem cicatrizes hipertróficas e queloides. Quando o estímulo de lesão é crônico, o tecido pode evoluir para fibrose, como acontece em fígado, pulmão ou rim sob agressão persistente.
+
+Na anafilaxia, o protagonista não é o fibroblasto. É o mastócito, que desgranula e libera histamina rapidamente. Na inflamação crônica rica em anticorpos, o plasmócito aparece mais. Essa separação por função evita muitas trocas de alternativa.
 
 ---
 
 ## Ponte com a Clínica
 
-A **Fibrose** nada mais é do que uma atividade descontrolada do **Fibroblasto**. Quando um tecido é agredido repetidamente (como no fígado de um alcoólatra), os fibroblastos depositam colágeno excessivo, destruindo a arquitetura do órgão e causando **Cirrose**. Já no **Choque Anafilático**, os **Mastócitos** liberam **histamina** de forma sistêmica, causando vasodilatação brusca e queda da pressão arterial; sem **adrenalina** para reverter, o desfecho pode ser fatal.
+Um corte superficial precisa de conjuntivo para reparar. Primeiro vem inflamação e limpeza por células de defesa; depois entram fibroblastos, vasos novos e matriz. A qualidade da cicatriz depende do equilíbrio entre produção e remodelamento.
+
+Em uma reação alérgica imediata, mastócitos liberam histamina e causam vasodilatação, edema e broncoconstrição em cenários graves. Em uma doença fibrosante, fibroblastos e matriz assumem papel exagerado, endurecendo o órgão e reduzindo função.
+
+Em tumores, o estroma conjuntivo ao redor pode ficar denso, fenômeno chamado desmoplasia. A histologia básica ajuda a entender por que a matriz não é passiva: ela muda a arquitetura, a circulação e a resposta inflamatória do tecido.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Avascularidade do Epitélio**: O conjuntivo é quem o alimenta via vasos sanguíneos (**Difusão**).
-- **Cicatrização**: O corpo usa o **Tipo III** primeiro (tecido de granulação) e troca pelo **Tipo I** depois.
-- **Miofibroblastos**: Fibroblastos com "músculo" que fecham a ferida (**contração cicatricial**).
-- **Substância Fundamental**: É o gel de **GAGs** que retém água (**Hidratação tecidual**).
-- **Denso Regular**: O único exemplo clássico é o **Tendão**.
+- **Conjuntivo:** células separadas por matriz extracelular abundante.
+- **Fibroblasto:** produz colágeno, elastina e substância fundamental.
+- **Macrófago:** fagocita detritos e apresenta antígenos.
+- **Mastócito:** libera histamina em alergia e anafilaxia.
+- **Plasmócito:** produz anticorpos.
+- **Colágeno I:** resistência final; tendão, osso, derme e cicatriz madura.
+- **Colágeno III:** fibras reticulares e cicatriz inicial.
+- **GAGs/proteoglicanos:** atraem água e resistem à compressão.
+- **Conjuntivo frouxo:** mais células, matriz hidratada e defesa sob epitélio.
+- **Denso regular:** fibras paralelas, força em uma direção.
+- **Denso irregular:** fibras em várias direções, força multidirecional.
+- **Sangue, osso e cartilagem:** conjuntivos especializados.
+
+## Mini Quiz
+
+1. **Qual célula é a principal produtora de matriz extracelular no conjuntivo?**
+   - [x] Fibroblasto.
+   - [ ] Mastócito.
+   - [ ] Plasmócito.
+   - [ ] Adipócito.
+   > **Explicação:** O fibroblasto sintetiza colágeno, elastina e substância fundamental.
+
+2. **Qual fibra forma redes delicadas em órgãos como baço e linfonodo?**
+   - [ ] Colágeno tipo I.
+   - [x] Fibra reticular, rica em colágeno tipo III.
+   - [ ] Fibra muscular lisa.
+   - [ ] Queratina.
+   > **Explicação:** Fibras reticulares são compostas por colágeno III e formam arcabouço de órgãos moles.
+
+3. **Tendões são exemplo clássico de qual conjuntivo?**
+   - [x] Denso regular.
+   - [ ] Frouxo areolar.
+   - [ ] Denso irregular.
+   - [ ] Reticular.
+   > **Explicação:** Tendões precisam resistir à tração em uma direção, por isso têm fibras paralelas.
+
+4. **Na anafilaxia, a liberação rápida de histamina vem principalmente de:**
+   - [ ] Fibroblastos.
+   - [ ] Plasmócitos.
+   - [x] Mastócitos.
+   - [ ] Adipócitos.
+   > **Explicação:** Mastócitos desgranulam e liberam histamina, causando vasodilatação, edema e broncoconstrição.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> Em 30 minutos, revise: matriz extracelular, fibroblasto, macrófago, mastócito, plasmócito, colágeno I/III e conjuntivo frouxo/denso.
 
 ### Síntese para a prova
 
-Para **gabaritar** o tecido conjuntivo, foque no **Duelo de Colágenos e Células**. 
-**Tipo I** = **Resistência/Osso/Tendão**. **Tipo III** = **Cicatriz Inicial/Fibras Reticulares**.
+Conjuntivo é matriz viva com células especializadas. **Fibroblasto constrói**, **macrófago limpa**, **mastócito dispara histamina** e **plasmócito produz anticorpo**. A matriz tem fibras e substância fundamental; colágeno I dá resistência, colágeno III faz rede e GAGs seguram água.
 
-A **Uninove** adora cobrar o **Mastócito**: lembre-se que ele é a **bomba de Histamina** da alergia. Outro ponto forte: **Frouxo vs Denso**. O frouxo é o "jardim" por onde as células de defesa passeiam sob a pele; o denso é a "armadura" de fibras que aguenta o tranco. Por fim, saiba que o **Sangue** é tecnicamente um **tecido conjuntivo especializado** com matriz líquida (**Plasma**).
+Na classificação, o **frouxo** fica sob epitélios e favorece troca/defesa. O **denso regular** organiza fibras paralelas para tração em uma direção, como tendão. O **denso irregular** resiste a forças em várias direções, como derme.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|-------------------------|
-| **Colágeno I** | **Colágeno III** | **Força Máxima** vs **Suporte Inicial** |
-| **Fibroblasto** | **Macrófago** | **Construtor** da casa vs **Faxineiro/Segurança** |
-| **Denso Regular** | **Denso Irregular** | **Tendão** (Força 1D) vs **Pele** (Força 360º) |
-| **Frouxo** | **Denso** | Muitos **Vasos/Células** vs Muitas **Fibras** |
-| **Mastócito** | **Plasmócito** | Libera **Histamina** (Alergia) vs Libera **Anticorpos** |
+| Conceito A | Conceito B | Diferencial crítico |
+|---|---|---|
+| **Colágeno I** | **Colágeno III** | resistência final versus rede reticular/cicatriz inicial |
+| **Fibroblasto** | **Macrófago** | produz matriz versus fagocita |
+| **Mastócito** | **Plasmócito** | histamina versus anticorpos |
+| **Denso regular** | **Denso irregular** | fibras paralelas versus multidirecionais |
+| **Frouxo** | **Denso** | mais células e substância fundamental versus mais fibras |
+| **GAGs** | **Colágeno** | hidratação/compressão versus tração |
+
+### Erros que custam ponto
+
+- Dizer que matriz extracelular é espaço vazio.
+- Trocar fibroblasto por macrófago na produção de colágeno.
+- Confundir mastócito com plasmócito.
+- Dizer que tendão é denso irregular.
+- Esquecer que colágeno III é reticular e aparece cedo na cicatriz.
+- Ignorar que sangue, osso e cartilagem são conjuntivos especializados.
 
 ### Frase-âncora para não esquecer
 
-> **"O conjuntivo é a liga que mantém o corpo em pé: o fibroblasto tece, o macrófago limpa e o mastócito explode se a imunidade erra o pé. Do colágeno tipo I pro tipo III, a vida se repara de fase em fase."**
+> Conjuntivo é matriz com equipe: fibroblasto constrói, macrófago limpa, mastócito alarma e plasmócito defende.

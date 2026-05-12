@@ -3,17 +3,37 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Generalidades do Sistema Articular",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Articulações",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Gray's Anatomy for Students",
+      "capitulo": "Joints",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Cartilagem e estruturas articulares",
+      "paginas": "",
+      "relevancia": "apoio histológico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre classificação estrutural e funcional das articulações, componentes da articulação sinovial, subtipos sinoviais, estabilidade versus mobilidade e correlações clínicas como entorse, luxação, sinovite, gota e osteoartrose.",
+  "pontos_de_prova": [
+    "fibrosas, cartilaginosas e sinoviais",
+    "sinartrose, anfiartrose e diartrose",
+    "cápsula, membrana sinovial, líquido sinovial e cartilagem articular",
+    "gínglimo, trocoide, selar, condilar e esferoide",
+    "ligamento versus tendão",
+    "menisco, bursa e labrum",
+    "luxação, subluxação e entorse"
+  ],
+  "observacoes": "Material corrigido por curadoria aula a aula; imagem anatômica/fisiológica registrada para rodada posterior."
 }

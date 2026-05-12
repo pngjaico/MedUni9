@@ -3,17 +3,36 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Tecido Cartilaginoso",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido cartilaginoso",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross & Pawlina - Histology: A Text and Atlas",
+      "capitulo": "Cartilage",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Moore - Anatomia Orientada para a Clínica",
+      "capitulo": "Sistema esquelético e articulações",
+      "paginas": "",
+      "relevancia": "apoio clínico-anatômico"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre matriz cartilaginosa, condrócito/condroblasto, cartilagem hialina, elástica e fibrocartilagem, pericôndrio, crescimento, reparo e aplicações em osteoartrite, menisco, traqueia e placa epifisária.",
+  "pontos_de_prova": [
+    "cartilagem avascular e nutrida por difusão",
+    "condroblasto versus condrócito",
+    "colágeno II, proteoglicanos e água",
+    "hialina versus elástica versus fibrocartilagem",
+    "pericôndrio, crescimento intersticial e aposicional",
+    "reparo limitado, osteoartrite e fibrocartilagem de reparo"
+  ],
+  "observacoes": "Material refeito por curadoria aula a aula; imagem histológica segue pendente para rodada posterior de imagens."
 }

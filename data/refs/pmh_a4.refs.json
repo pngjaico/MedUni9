@@ -3,17 +3,40 @@
   "materia": "pmh",
   "modulo": 1,
   "tema": "Ciclo de Krebs e Fosforilação Oxidativa",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11T21:39:52.364Z",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
-      "paginas": "",
+      "titulo": "Lehninger - Princípios de Bioquímica",
+      "capitulo": "Ciclo de Krebs e Fosforilação Oxidativa",
+      "paginas": "consultar edição local",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Marks - Bioquímica Médica Básica",
+      "capitulo": "Ciclo de Krebs e Fosforilação Oxidativa",
+      "paginas": "consultar edição local",
+      "relevancia": "clínica"
+    },
+    {
+      "titulo": "Harper - Bioquímica Ilustrada",
+      "capitulo": "Ciclo de Krebs e Fosforilação Oxidativa",
+      "paginas": "consultar edição local",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "Aula de PMH revisada para integrar mecanismo bioquímico, ponto de prova e aplicação clínica em Ciclo de Krebs e Fosforilação Oxidativa.",
+  "pontos_de_prova": [
+    "Krebs ocorre na matriz mitocondrial.",
+    "Acetil-CoA entra condensando com oxaloacetato.",
+    "NADH entra no complexo I.",
+    "FADH2 entra no complexo II.",
+    "Complexos I, III e IV bombeiam prótons.",
+    "Complexo II não bombeia prótons.",
+    "Oxigênio é aceptor final no complexo IV.",
+    "ATP sintase usa gradiente de prótons.",
+    "Cianeto bloqueia complexo IV.",
+    "Desacoplamento aumenta calor e reduz ATP."
+  ],
+  "observacoes": "Referências devem ser conferidas contra a edição física/local usada pelo curso."
 }

@@ -2,18 +2,42 @@
   "aula_id": "sus_a3",
   "materia": "sus",
   "modulo": 1,
-  "tema": "Antecedentes Históricos do SUS — Nova República e Reforma Sanitária",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Antecedentes Históricos do SUS - Nova República e Reforma Sanitária",
+  "revisado": true,
+  "revisado_em": "2026-05-11",
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Constituição da República Federativa do Brasil de 1988",
+      "capitulo": "Título VIII, Seção II - Saúde, artigos 196 a 200",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Lei nº 8.080, de 19 de setembro de 1990",
+      "capitulo": "Disposições gerais, objetivos, atribuições e organização do SUS",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Lei nº 8.142, de 28 de dezembro de 1990",
+      "capitulo": "Participação da comunidade e transferências intergovernamentais",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Relatório Final da 8ª Conferência Nacional de Saúde",
+      "capitulo": "Direito à saúde, reformulação do sistema nacional de saúde e financiamento setorial",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre a transição do modelo previdenciário para a saúde como direito de cidadania, articulando Reforma Sanitária, 8ª CNS, Constituição de 1988 e Leis Orgânicas da Saúde.",
+  "pontos_de_prova": [
+    "Reforma Sanitária como movimento, não lei isolada",
+    "8ª CNS como marco político-programático",
+    "Artigos 196, 198, 199 e 200 da Constituição",
+    "Lei 8.080 como organização e campo de atuação",
+    "Lei 8.142 como participação social e recursos"
+  ],
+  "observacoes": "Aprofundamento de princípios doutrinários e organizativos fica para sus_a4; aqui o foco é histórico-constitucional."
 }

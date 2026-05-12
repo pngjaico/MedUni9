@@ -3,17 +3,35 @@
   "materia": "bmf1",
   "modulo": 1,
   "tema": "Tecido Conjuntivo — Células e Matriz",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Junqueira e Carneiro - Histologia Básica",
+      "capitulo": "Tecido conjuntivo: células, fibras e matriz extracelular",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Ross & Pawlina - Histology: A Text and Atlas",
+      "capitulo": "Connective tissue",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Gartner - Tratado de Histologia",
+      "capitulo": "Tecido conjuntivo propriamente dito e especializado",
+      "paginas": "",
+      "relevancia": "apoio"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula cobre os componentes centrais do tecido conjuntivo: células residentes/migratórias, matriz extracelular, fibras, substância fundamental, classificação e aplicações em cicatrização, alergia e fibrose.",
+  "pontos_de_prova": [
+    "fibroblasto, macrófago, mastócito e plasmócito",
+    "colágeno tipo I versus tipo III",
+    "fibras elásticas e GAGs",
+    "conjuntivo frouxo, denso regular e denso irregular",
+    "cicatrização, fibrose e anafilaxia"
+  ],
+  "observacoes": "Material corrigido por curadoria aula a aula; imagem histológica registrada para rodada posterior."
 }

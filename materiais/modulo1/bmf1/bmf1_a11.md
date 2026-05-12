@@ -1,106 +1,179 @@
-# BMF1 — Aula 11: Histologia do Tecido Muscular — A Microestrutura do Movimento
+# BMF1 - Aula 11: Histologia do Tecido Muscular
 
-O movimento humano nasce na microestrutura invisível das fibras contráteis. Na prova, os temas centrais são a anatomia do **Sarcômero** (a unidade funcional), a diferença entre as bandas (**Banda A, I e H**) e a clássica **Tríade Muscular Histológica**: **Esquelético** (estriado e voluntário), **Cardíaco** (sincício elétrico) e **Liso** (visceral involuntário).
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório  
+**Módulo:** 1 | **Referência principal:** Junqueira e Carneiro, tecido muscular  
+**Tempo de estudo sugerido:** 15-20 min
 
-Na prática clínica, entender que falhas no acoplamento entre o **Retículo Sarcoplasmático** (o grande estoque de Cálcio) e os **Túbulos T** explicam desde cãibras até arritmias graves. Aprender a base histológica do músculo é o que permite entender por que uma **Rabdomiólise** destrói os rins ou por que um infarto paralisa o coração permanentemente.
+---
+
+## Relevância clínica e acadêmica
+
+Esta aula olha o músculo por dentro. Depois de entender organização geral e função, agora o foco é histológico: como reconhecer músculo esquelético, cardíaco e liso; como o sarcômero organiza as estriações; e por que túbulos T, retículo sarcoplasmático e discos intercalares mudam a fisiologia de cada tecido.
+
+A prova costuma cobrar o contraste entre os três tipos musculares. O esquelético é estriado, voluntário, longo e multinucleado com núcleos periféricos. O cardíaco é estriado, involuntário, ramificado e tem discos intercalares. O liso é involuntário, fusiforme, mononucleado e não mostra estriações.
+
+Na clínica, essa diferença aparece em miopatias, infarto, miocardite, alterações de motilidade intestinal, espasmo vascular e rabdomiólise. O ciclo básico não exige diagnóstico avançado, mas exige que você saiba reconhecer a estrutura que sustenta cada função.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A11-F01`
+**Figura-ID:** BMF1-A11-F01
 
-- **Momento:** Seção do Músculo Esquelético e Sarcômero.
-- **O que mostrar:** O **"Motor Biológico"**: Um diagrama detalhado de um sarcômero delimitado por dois **Discos Z**. Destacar a **Banda A** (escura, filamentos de miosina grossos) no centro e a **Banda I** (clara, actina fina) nas laterais. Incluir uma visão lateral da **Tríade** (um Túbulo T amarelo abraçado por duas cisternas azuis de Retículo Sarcoplasmático).
-- **Tipo sugerido:** Infográfico histológico estrutural.
-- **Legenda (rascunho):** Sarcômero e Tríade: a arquitetura contrátil e o reservatório de cálcio.
-
-## 1. Músculo Esquelético: O Contrato Voluntário
-
-As células do músculo esquelético são longos cilindros multinucleados, com núcleos **"empurrados" para a periferia** da fibra. 
-
-- **O Sarcômero:** É a menor unidade contrátil, definida como o espaço entre dois **Discos Z** consecutivos.
-- **Banda A (Anisotrópica / Escura):** Ocupa o comprimento da **Miosina** (filamento grosso). **Não muda de tamanho** durante a contração (as cabeças apenas puxam a actina).
-- **Banda I (Isotrópica / Clara):** Contém apenas **Actina** (filamento fino). Ela **encurta visualmente** na contração, pois a actina desliza sobre a miosina.
-- **Banda H:** É o **"vão livre"** no centro da Banda A, contendo apenas miosina. **"Desaparece"** na contração máxima.
-- **A Tríade (Gatilho da Contração):** Um **Túbulo T** (uma invaginação da membrana que traz o choque elétrico de fora) ladeado por duas cisternas do **Retículo Sarcoplasmático (RS)**, que guarda o **Cálcio**. O choque entra, o RS libera o cálcio e a contração acontece.
+- **Momento:** após a seção de sarcômero.
+- **O que mostrar:** diagrama de sarcômero com discos Z, banda A, banda I, zona H e linha M; em painel lateral, comparação histológica entre músculo esquelético, cardíaco e liso.
+- **Tipo sugerido:** esquema didático ou composição com micrografias histológicas.
+- **Legenda:** Sarcômero e tipos musculares: a forma microscópica explica a função.
 
 ---
 
-## 2. Músculo Cardíaco: A Orquestra Sincronizada
+## Três músculos, três assinaturas
 
-Diferente do esquelético, o músculo cardíaco é formado por células curtas, bifurcadas, com apenas um (ou dois) **Núcleos Centrais**. 
-- A grande diferença: as fibras são unidas pelas extremidades por **Discos Intercalados**. 
-- Esses discos possuem **Junções Comunicantes (Gap Junctions)** que deixam o íon passar de uma célula para a outra. O coração não contrai fibra por fibra; ele bate como uma onda única (**Sincício Funcional**).
+O **músculo esquelético** forma fibras longas, cilíndricas, multinucleadas e estriadas. Os núcleos ficam na periferia da fibra. Essa localização ajuda a diferenciar do músculo cardíaco, que costuma ter núcleo central.
 
----
+O **músculo cardíaco** também é estriado, mas suas células são menores, ramificadas e conectadas por discos intercalares. Esses discos unem mecanicamente as células e permitem comunicação elétrica por junções comunicantes, coordenando a contração do miocárdio.
 
-## 3. Músculo Liso: A Resistência Contínua
+O **músculo liso** não tem estriações visíveis porque não organiza actina e miosina em sarcômeros. Suas células são fusiformes, mononucleadas e contraem de forma lenta e sustentada, típica de vasos, tubo digestivo, vias aéreas e útero.
 
-Encontrado em órgãos ocos (estômago, bexiga) e vasos sanguíneos. Suas células são **Fusiformes** (como um fuso ou palito), mononucleadas e **Sem Estriações** visíveis (por isso **"liso"**). 
-Ao contrário da contração explosiva do esquelético, o liso gera contrações lentas, rítmicas e altamente resistentes à fadiga, perfeito para manter o **Tônus Vascular** a vida inteira sem cansar. Ele não possui sarcômeros perfeitamente alinhados, usando estruturas chamadas **Corpos Densos** para ancorar as fibras.
+> **Pegadinha de prova:** estriado não significa voluntário. O cardíaco é estriado e involuntário. Voluntário, na regra geral, é o esquelético.
 
 ---
 
-## 4. Diferenciação das Fibras Esqueléticas
+## Sarcômero: a unidade da estriação
 
-Dentro de um mesmo músculo do braço ou da perna, coexistem diferentes **"motores"**:
+O **sarcômero** é a unidade contrátil repetida do músculo estriado. Ele vai de um disco Z ao próximo disco Z. Filamentos finos de actina se ancoram no disco Z; filamentos grossos de miosina ocupam a região central.
 
-| Aspecto | Tipo I (Lenta, Oxidativa) | Tipo II (Rápida, Glicolítica) |
-|---------|---------------------------|-------------------------------|
-| **Energia** | Puxa **Oxigênio** (Via Mitocôndria) | Puxa **Glicose** (Metabolismo Anaeróbico) |
-| **Resistência** | Não fadiga fácil (**Resistência pura**) | **Fadiga precocemente** (Gera ácido lático) |
-| **Cor Macroscópica** | **Vermelha Escura** (Mioglobina / Vasos)| **Mais Branca/Pálida** (Menos Mioglobina) |
-| **Uso Clínico/Esportivo** | Músculos posturais (**Costas**) e **Maratonistas** | Músculos de Explosão e **Levantamento de Peso** |
+A **banda A** corresponde ao comprimento dos filamentos grossos de miosina e não encurta durante a contração. A **banda I** contém apenas filamentos finos e encurta. A **zona H**, região central com apenas miosina, diminui ou pode quase desaparecer na contração forte.
+
+Essa lógica evita decoreba: na contração, os filamentos deslizam, mas actina e miosina não encurtam. O que muda é a sobreposição entre eles.
+
+> **Macete MedGradPlus - A aguenta, I some:** a banda **A** mantém tamanho; a banda **I** encurta quando o sarcômero contrai.
 
 ---
 
-## 5. Junção Neuromuscular (Placa Motora)
+## Túbulos T, retículo sarcoplasmático e tríade
 
-O músculo esquelético é **"surdo e cego"** até que o nervo grite. A **Placa Motora** é a sinapse onde o neurônio motor joga o neurotransmissor **Acetilcolina** sobre os receptores nicotínicos no músculo. Essa ligação despolariza a membrana muscular, abrindo as comportas de sódio e mandando o choque elétrico pelo **Túbulo T**.
+O túbulo T é uma invaginação do sarcolema que leva o potencial de ação para o interior da fibra muscular. Sem esse sistema, o comando elétrico ficaria superficial demais para ativar a fibra inteira de modo coordenado.
+
+O **retículo sarcoplasmático** armazena cálcio. Quando o sinal elétrico chega, o cálcio é liberado e permite a interação entre actina e miosina. Depois, bombas devolvem cálcio ao retículo, permitindo relaxamento.
+
+No músculo esquelético, uma **tríade** é formada por um túbulo T e duas cisternas terminais do retículo sarcoplasmático. Essa organização favorece contração rápida e sincronizada.
+
+---
+
+## Cardíaco: discos intercalares e sincício funcional
+
+O músculo cardíaco precisa contrair de forma coordenada, mas suas células não são uma fibra gigante multinucleada como no esquelético. A solução histológica são os **discos intercalares**.
+
+Neles há componentes de adesão, que ajudam a célula a suportar tração, e junções comunicantes, que permitem passagem de íons. Essa comunicação elétrica faz o coração se comportar como um **sincício funcional**.
+
+Na lâmina, procure estriações, ramificações, núcleo central e linhas transversais mais escuras sugerindo discos intercalares. Isso separa cardíaco de esquelético.
+
+---
+
+## Liso: sem sarcômero, mas com força sustentada
+
+O músculo liso usa actina e miosina, mas não organiza os filamentos em sarcômeros alinhados. Por isso não apresenta bandas A e I visíveis.
+
+Os filamentos se ancoram em **corpos densos**, que funcionam como pontos de tração dentro da célula. A contração muda o formato da célula de maneira mais difusa, gerando encurtamento lento e sustentado.
+
+Esse padrão é ideal para controlar calibre vascular, peristaltismo, broncoconstrição e contrações uterinas. A contração não precisa ser explosiva; precisa ser mantida e regulável.
+
+---
+
+## Como reconhecer na lâmina
+
+No músculo esquelético em corte longitudinal, espere fibras paralelas estriadas, longas e com núcleos periféricos. Em corte transversal, as fibras parecem polígonos e os núcleos ficam perto da borda.
+
+No músculo cardíaco, espere células ramificadas, estriações, núcleo central e discos intercalares. No músculo liso, espere feixes de células fusiformes, núcleo central alongado e ausência de estriações.
+
+O erro comum é chamar qualquer estriação de esquelético. Antes de responder, veja núcleo e arranjo celular: periférico e multinucleado aponta esquelético; central, ramificado e com disco aponta cardíaco.
 
 ---
 
 ## Ponte com a Clínica
 
-A **Rabdomiólise** ocorre quando o músculo esquelético é severamente esmagado ou exigido a um nível extremo. A fibra **"rompe"** a membrana celular (**sarcolema**) e vaza a sua preciosa **Mioglobina** na corrente sanguínea. Esse pigmento sobrecarrega os rins e causa uma insuficiência renal aguda letal, tornando a urina do paciente cor de **coca-cola**. Nas **Distrofias Musculares** (como Duchenne), a culpa não é do nervo, mas da falta de proteínas estruturais (**distrofina**) que prendem o sarcômero à membrana, fazendo o músculo **"rasgar"** ao contrair gradativamente ao longo da infância do paciente.
+Na rabdomiólise, fibras esqueléticas são destruídas e liberam mioglobina, podendo lesar rim. A base histológica é simples: a fibra muscular esquelética é grande, rica em proteínas contráteis e mioglobina.
+
+No infarto, cardiomiócitos morrem e a condução elétrica pode ser afetada. Discos intercalares e junções comunicantes explicam por que lesão local pode prejudicar sincronização da contração.
+
+No músculo liso, alterações de contração aparecem como broncoespasmo, cólica intestinal, vasoconstrição ou contrações uterinas. O aluno não precisa decorar tratamento aqui, mas precisa reconhecer que o tecido liso é feito para contração involuntária sustentada.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Localização dos Núcleos:** Esquelético = Periféricos e múltiplos. Cardíaco e Liso = Centrais e únicos.
-- **Banda A vs Banda I**: A **banda A (escura)** nunca encurta. A **banda I (clara)** encurta na contração.
-- **Discos Z:** São os **"muros"** do limite do sarcômero. Eles se aproximam quando o sarcômero deforma.
-- **Túbulos T:** Extensões da membrana externa que permitem que o potencial de ação **"mergulhe"** no miolo da célula imediatamente.
-- **Coloração HE:** As fibras coram intensamente em **rosa/vermelho (Eosina)** graças à imensa densidade de proteínas (**actina e miosina**) no citoplasma.
+- **Esquelético** é estriado, voluntário, multinucleado e com núcleos periféricos.
+- **Cardíaco** é estriado, involuntário, ramificado e com discos intercalares.
+- **Liso** é involuntário, fusiforme, mononucleado e sem estriações.
+- **Sarcômero** vai de disco Z a disco Z.
+- **Banda A** mantém seu tamanho durante a contração.
+- **Banda I** encurta durante a contração.
+- **Zona H** diminui quando a sobreposição actina-miosina aumenta.
+- **Túbulo T** leva o potencial de ação para dentro da fibra.
+- **Retículo sarcoplasmático** armazena e libera cálcio.
+- **Tríade** é um túbulo T com duas cisternas terminais.
+
+---
+
+## Mini Quiz
+
+1. **Qual achado histológico favorece músculo esquelético?**
+- [ ] Núcleo central único e ausência de estriações
+- [x] Fibras estriadas multinucleadas com núcleos periféricos
+- [ ] Células ramificadas com discos intercalares
+- [ ] Células fusiformes sem sarcômero
+> **Explicação:** músculo esquelético é estriado, multinucleado e com núcleos periféricos.
+
+2. **Durante a contração do sarcômero, qual região mantém comprimento praticamente constante?**
+- [ ] Banda I
+- [ ] Zona H
+- [x] Banda A
+- [ ] Espaço entre discos Z
+> **Explicação:** a banda A corresponde ao comprimento da miosina; quem encurta é a banda I e a zona H diminui.
+
+3. **Qual estrutura do músculo cardíaco permite coordenação elétrica entre células?**
+- [ ] Endomísio
+- [ ] Tríade
+- [ ] Disco Z
+- [x] Disco intercalar com junções comunicantes
+> **Explicação:** discos intercalares contêm junções comunicantes, permitindo sincronização elétrica do miocárdio.
+
+4. **Qual característica diferencia o músculo liso do estriado?**
+- [x] Ausência de sarcômeros organizados em bandas visíveis
+- [ ] Presença obrigatória de discos intercalares
+- [ ] Núcleos periféricos múltiplos
+- [ ] Contração exclusivamente voluntária
+> **Explicação:** músculo liso tem actina e miosina, mas não organizadas em sarcômeros estriados.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Para gabaritar a microestrutura muscular, o foco absoluto é o traçado do **Sarcômero** e o diferencial do **Disco Intercalado**. 
-Lembre-se: **Banda A = Miosina Fixa**. **Banda I = Actina Deslizante**. 
+Primeiro, reconheça o tipo muscular. **Esquelético**: estriado, voluntário, multinucleado, núcleo periférico. **Cardíaco**: estriado, involuntário, ramificado, núcleo central e disco intercalar. **Liso**: sem estriações, fusiforme, involuntário e sustentado.
 
-A **Uninove** adora testar o mecanismo de transmissão: a **Tríade** (1 Túbulo T + 2 Cisternas de RS) é típica do músculo Estriado Esquelético. O **RS (Retículo Sarcoplasmático)** é a garagem do íon supremo da contração: o **Cálcio**. Sem cálcio saindo do RS, não há ponte cruzada. Ao interpretar a contração cardíaca, o gabarito invariavelmente citará o **Sincício Funcional** garantido pelas **Gap Junctions** nos Discos Intercalados. Sem eles, as câmaras do coração bateriam fora de compasso.
+Depois, revise sarcômero: disco Z delimita; banda A fica; banda I encurta; zona H diminui. Túbulo T leva sinal elétrico, retículo sarcoplasmático libera cálcio e tríade organiza esse encontro no esquelético.
 
-### Diferenciações que a Uninove adora cobrar
+Por fim, conecte com clínica: rabdomiólise destrói fibra esquelética, infarto lesa cardiomiócito e músculo liso explica contrações viscerais e vasculares sustentadas.
 
-| Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|-------------------------|
-| **Esquelético** | **Cardíaco** | Multinucleado Periférico vs Uninucleado Central com Disco Intercalado |
-| **Banda A** | **Banda I** | Fica Parada (Miosina) vs **Encurta Visivelmente** (Actina) |
-| **Fibra Tipo I** | **Fibra Tipo II** | **Vermelha/Maratona** vs **Branca/Explosão** |
-| **Tríade** | **Disco Intercalado** | Traz Cálcio pro fundo (**Esquelético**) vs Traz Eletricidade pro vizinho (**Cardíaco**) |
-| **Sarcômero** | **Corpo Denso** | Organização Estriada (Esquelético) vs Ancoragem em Rede (**Liso**) |
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **Esquelético** vs **cardíaco** | ambos estriados; esquelético tem núcleo periférico, cardíaco tem disco intercalar |
+| **Cardíaco** vs **liso** | cardíaco é estriado; liso não tem estriações |
+| **Banda A** vs **banda I** | A mantém; I encurta |
+| **Túbulo T** vs **retículo sarcoplasmático** | T leva sinal; RS libera cálcio |
+| **Sarcômero** vs **corpos densos** | sarcômero é estriado; corpos densos organizam força no liso |
+
+### Figura sugerida
+
+Use a figura BMF1-A11-F01 para revisar discos Z, bandas A/I, zona H e a comparação visual entre os três tipos musculares. Essa aula precisa de imagem histológica na rodada posterior.
 
 ### Frase-âncora para não esquecer
 
-> **"O cálcio mora no Retículo Sarcoplasmático, a acetilcolina abre a porta da membrana. O disco Z ancora a actina, e a miosina, soberana na banda A, puxa o mundo sem encolher um milímetro. A fibra vermelha corre longe e a fibra branca grita e queima."**
-er
-
-> "O cálcio mora no Retículo Sarcoplasmático, a acetilcolina abre a porta da membrana. O disco Z ancora a actina, e a miosina, soberana na banda A, puxa o mundo sem encolher um milímetro. A fibra vermelha corre longe e a fibra branca grita e queima."
+> **Estria mostra sarcômero; disco intercalar mostra coração; célula lisa sem banda sustenta órgão oco.**

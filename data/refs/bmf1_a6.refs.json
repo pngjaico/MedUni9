@@ -2,18 +2,39 @@
   "aula_id": "bmf1_a6",
   "materia": "bmf1",
   "modulo": 1,
-  "tema": "Prática — Ossos da Coluna, Membros Superiores e Inferiores",
-  "gerado_em": "02/04/2026 23:12",
-  "revisado": false,
+  "tema": "Pratica - Ossos da Coluna, Membros Superiores e Inferiores",
+  "gerado_em": "2026-05-11",
+  "revisado": true,
   "livros": [
     {
-      "titulo": "A ser preenchido pelo agente revisor",
-      "capitulo": "",
+      "titulo": "Moore - Anatomia Orientada para a Clinica",
+      "capitulo": "Sistema esqueletico, coluna vertebral, membros e pelve",
       "paginas": "",
       "relevancia": "principal"
+    },
+    {
+      "titulo": "Gray's Anatomy for Students",
+      "capitulo": "Skeletal system, back, upper limb and lower limb",
+      "paginas": "",
+      "relevancia": "principal"
+    },
+    {
+      "titulo": "Netter - Atlas de Anatomia Humana",
+      "capitulo": "Esqueleto axial, membro superior, pelve e membro inferior",
+      "paginas": "",
+      "relevancia": "atlas"
     }
   ],
-  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
-  "pontos_de_prova": [],
-  "observacoes": ""
+  "justificativa": "A aula e pratica e cobre reconhecimento de esqueleto axial/apendicular, cranio, coluna, torax osseo, cintura escapular, membro superior, pelve e membro inferior, com correlacoes de exame fisico e trauma.",
+  "pontos_de_prova": [
+    "esqueleto axial versus apendicular",
+    "forame magno e marcos do cranio",
+    "curvaturas e numeros da coluna",
+    "C7 e forames transversos cervicais",
+    "costelas verdadeiras, falsas e flutuantes",
+    "radio versus ulna",
+    "escafoide e tabaqueira anatomica",
+    "acetabulo, colo do femur, tibia, fibula e maleolos"
+  ],
+  "observacoes": "Material corrigido por curadoria aula a aula; imagem anatomica registrada para rodada posterior."
 }

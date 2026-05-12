@@ -1,118 +1,162 @@
-# PMH — Aula 2: Regulação Metabólica Geral
+# PMH - Aula 2: Regulação Metabólica Geral
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-A **Regulação Metabólica** garante a **homeostase** entre o comer e o jejuar. O organismo alterna entre **Catabolismo** (quebra) e **Anabolismo** (construção) guiado pela relação **Insulina/Glucagon**. Para a prova, entenda como esse balanço dita o destino dos combustíveis e como o **estresse (Cortisol)** sabota esse equilíbrio no paciente crítico.
+Regulação metabólica é o sistema de freios e aceleradores que impede vias opostas de funcionarem com força máxima ao mesmo tempo.
 
+A prova gira em torno de quatro níveis: alosteria, modificação covalente, quantidade de enzima e hormônios. A clínica aparece quando insulina, glucagon e catecolaminas deixam de coordenar esse fluxo.
+
+Se você entende estado alimentado versus jejum, metade das questões de metabolismo fica previsível.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
+
+---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A2-F01`
+**Figura-ID:** PMH-A2-F01
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
----
-
-## Estados metabólicos: absorção vs jejum
-
-**Pós-prandial (absorção):** glicose e aminoácidos elevados → **insulina** predomina → favorece **glicólise**, **síntese de glicogênio** e **lipogênese** em tecidos sensíveis.
-
-**Jejum prolongado:** queda de insulina, **glucagon** (e, em estresse, **cortisol** e **adrenalina**) → **glicogenólise**, **gliconeogênese**, **lipólise** e **cetogênese** hepáticos.
-
-> **Dica de Prova:** “Estado metabólico” não é humor: é **relação insulina/glucagon** + **disponibilidade de oxigênio** + **função hormonal**.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Esquema comparando regulação alostérica, fosforilação e controle hormonal por insulina/glucagon.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Regulação Metabólica Geral: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Insulina e glucagon: eixos rápidos
+## 1. Alosteria
 
-**Insulina** (ilhotas pancreáticas) sinaliza **abundância**: ativa receptores tirosina-quinase, mobiliza **GLUT4** no músculo/adiposo, inibe **gliconeogênese** hepática e favorece **armazenamento**.
+Regulação alostérica é rápida. Um metabólito se liga fora do sítio ativo e altera atividade da enzima.
 
-**Glucagon** sinaliza **jejum**: estimula **adenil ciclase** no fígado, **cAMP** e **fosforilação** de enzimas-chave (ex.: fosforilação que ativa **glicogenólise** e inibe **síntese de glicogênio**).
+ATP, AMP, citrato e frutose-2,6-bisfosfato são exemplos de sinais que informam energia e fluxo.
 
-> **Pegadinha:** Glucagon age com **efeito mais marcado no fígado**; insulina é **pan-tecidual** nos alvos sensíveis.
-
----
-
-## Cortisol e catecolaminas
-
-**Cortisol** (crônico) favorece **gliconeogênese** e **proteólise** (fornecimento de substrato); **catecolaminas** aceleram **glicogenólise** e **lipólise** agudas. Em prova, cenários de **estresse** ou **IRA** costumam ligar **hiperglicemia** a esse **eixo neuroendócrino**.
+Esse controle responde em segundos ou minutos, sem precisar produzir nova proteína.
 
 ---
 
-## AMPK e mTOR: sensores intracelulares
+## 2. Modificação covalente
 
-**AMPK** (proteína-quinase ativada por AMP) “detecta” **baixa energia** (razão AMP/ATP alta) e **inibe** vias consumidoras (ex.: síntese lipídica) enquanto **estimula** captação de glicose e **oxidação** — papel central em **exercício** e **jejum**.
+Fosforilação e desfosforilação mudam atividade enzimática de forma reversível.
 
-**mTOR** integra **sinal de nutrientes** e **insulina** para **regular síntese proteica** e crescimento; **inibição** de mTOR aparece em **restrição energética** e certas intervenções farmacológicas.
+Em geral, glucagon e adrenalina ativam PKA via AMPc; insulina ativa fosfatases e favorece armazenamento.
 
----
-
-## Regulação alostérica e fosforilação
-
-Enzimas marcapasso, como a **Fosfofrutoquinase-1 (PFK-1)**, respondem a reguladores **alostéricos** (ATP/AMP) e ao sinal hormonal via **fosforilação**. No fígado, a **Insulina** desfosforila para ativar a síntese; o **Glucagon** fosforila para ativar a quebra.
+Não decore que fosforilar sempre ativa: depende da enzima.
 
 ---
 
-## Comparativo: hormônio → efeito hepático típico
+## 3. Controle hormonal
 
-| Sinal Hormonal | Principal Efeito Hepático | Tendência Metabólica |
-|-----------------|---------------------------|----------------------|
-| **Insulina Alta** | **Glicogênese** e Lipogênese | **Anabolismo** (Estoque) |
-| **Glucagon Alto** | **Glicogenólise** e Gliconeogênese | **Catabolismo** (Mobilização) |
-| **Cortisol** | **Gliconeogênese** sustentada | Resposta ao **Estresse Crônico** |
-| **Adrenalina** | **Glicogenólise** rápida | Resposta de **Luta ou Fuga** |
+Insulina sinaliza abundância: aumenta captação de glicose, glicogênese, lipogênese e síntese proteica.
 
----
+Glucagon sinaliza jejum: estimula glicogenólise, gliconeogênese, lipólise e cetogênese hepática.
 
-## Exercício físico: leitura rápida
-
-No **aeróbio prolongado**, **AMPK** favorece **oxidação**; em **sprint**, **glicogenólise** e **anaerobiose** dominam. Por isso o mesmo hormônio basal não descreve **maratonista** vs **levantador** — o **contexto** muda o **fluxo**.
+Catecolaminas são resposta rápida ao estresse, especialmente em músculo e tecido adiposo.
 
 ---
 
+## 4. Controle gênico e epigenético
+
+Quando o estado nutricional persiste, a célula muda quantidade de enzimas por transcrição e degradação proteica.
+
+Epigenética ajuda a explicar memória metabólica: ambiente nutricional pode modular expressão sem alterar sequência do DNA.
+
+Esse nível é mais lento, mas sustenta adaptação crônica.
+
+> **Macete MedGradPlus:** Alosteria é interruptor rápido; hormônio é comando sistêmico; gene é reforma estrutural.
+
+> **Pegadinha de prova:** Fosforilação não é sinônimo universal de ativação.
+
+---
+
+## Mapa mental da aula
+Organize a aula por velocidade de resposta: alosteria muda a atividade em segundos, fosforilação em minutos, expressão gênica em horas.
+
+Depois ancore nos hormônios: **insulina** sinaliza abundância e armazenamento; **glucagon** sinaliza jejum e mobilização hepática.
+
+Por fim, pergunte qual enzima está sendo regulada. A mesma fosforilação pode ativar uma via e inibir outra, dependendo do alvo.
 ## Ponte com a Clínica
+O controle enzimático aparece quando o paciente muda de pós-prandial para jejum: o fígado precisa alternar glicogênio, gliconeogênese e oxidação conforme o sinal hormonal.
 
-**DM2** com **resistência insulínica** força o organismo a manter **hiperinsulinemia** para compensar; **jejum** no **DM1** sem insulina exógena desencadeia **cetose** por **excesso relativo** de contrarreguladores. **Sepse** mistura **resistência insulínica** e **hipermetabolismo** — o mapa hormonal desta aula é o mapa dos **distúrbios glicêmicos** na UTI e no ambulatório.
+Na prova, frases como 'rápido', 'minutos' ou 'nova síntese proteica' indicam o nível de regulação cobrado, não apenas o nome da via.
 
----
-
+A pegadinha é decorar que fosforilação 'ativa'. Isso é falso: o efeito depende da enzima e do contexto metabólico.
 ## Pontos-Chave para Prova
 
-- **Insulina vs Glucagon:** A razão entre eles define o estado metabólico, não apenas o valor isolado.
-- **AMPK:** O sensor de **crise energética** (AMP alto). Desliga o anabolismo e liga a oxidação.
-- **mTOR:** O sensor de **abundância**. Ativado por aminoácidos e insulina para síntese proteica.
-- **Diabetes:** No **DM1**, a falta de insulina permite que o glucagon aja livremente, causando cetoacidose.
-- **Regulação:** Mistura de **curto prazo** (alosterismo) e **médio prazo** (hormonal/fosforilação).
+- **Alosteria** muda atividade rapidamente.
+- **Fosforilação** é reversível e depende da enzima.
+- **Insulina** favorece armazenamento e anabolismo.
+- **Glucagon** favorece produção hepática de glicose.
+- **Adrenalina** prepara resposta aguda ao estresse.
+- **AMP** alto sinaliza baixa energia.
+- **Citrato** alto pode frear glicólise.
+- **Frutose-2,6-bisfosfato** ativa PFK-1.
+- **Controle** gênico é mais lento e duradouro.
+- **Vias** opostas precisam ser coordenadas para evitar ciclo fútil.
+
+---
+
+## Mini Quiz
+
+1. **Qual regulação costuma ser mais rápida?**
+- [x] Alostérica
+- [ ] Genômica
+- [ ] Epigenética hereditária
+- [ ] Síntese de nova mitocôndria
+> **Explicação:** Regulação alostérica é mais rápida porque depende da ligação de metabólitos à enzima já existente, sem precisar produzir nova proteína.
+
+2. **Insulina favorece principalmente:**
+- [ ] cetogênese intensa
+- [x] armazenamento e anabolismo
+- [ ] glicogenólise hepática
+- [ ] proteólise muscular
+> **Explicação:** Insulina marca estado alimentado e favorece captação, síntese e armazenamento de energia em glicogênio, lipídios e proteínas.
+
+3. **Glucagon no fígado tende a aumentar:**
+- [ ] síntese de glicogênio
+- [ ] captação muscular de glicose
+- [x] gliconeogênese
+- [ ] lipogênese pós-prandial
+> **Explicação:** No fígado, glucagon aumenta a produção e liberação de glicose, especialmente por glicogenólise inicial e gliconeogênese.
+
+4. **Qual é a pegadinha da fosforilação?**
+- [ ] sempre ativa
+- [ ] sempre inibe
+- [ ] não é reversível
+- [x] pode ativar ou inibir conforme a enzima
+> **Explicação:** Fosforilação é reversível e contextual: pode ativar uma enzima enquanto inibe outra, coordenando vias opostas.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-- **Insulina:** Hormônio do anabolismo; ativa armazenamento e síntese de proteínas.
-- **Glucagon:** Hormônio do **jejum**; foco absoluto em manter a glicemia via fígado.
-- **AMPK:** Ativado pelo **exercício**; "queima" gordura e glicose para repor ATP.
-- **Cortisol:** Aumenta a **Gliconeogênese** fornecendo **aminoácidos** a partir do músculo.
+Regulação metabólica é o sistema de freios e aceleradores que impede vias opostas de funcionarem com força máxima ao mesmo tempo.
 
-| Ferramenta A | Ferramenta B | Diferencial para Prova |
-|--------------|--------------|-------------------------|
-| **Insulina** | **Glucagon** | **Hipoglicemiante** (estoque) vs **Hiperglicemiante** (quebra) |
-| **AMPK** | **mTOR** | **Gasto** de energia vs **Construção** tecidual |
-| **Jejum Curto** | **Jejum Longo** | **Glicogenólise** (24h) vs **Gliconeogênese** (>24h) |
-| **Adrenalina** | **Cortisol** | Resposta **Aguda** (segundos) vs **Crônica** (horas) |
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
+
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **alosteria** vs **controle gênico** | segundos/minutos vs horas/dias |
+| **insulina** vs **glucagon** | estado alimentado vs jejum |
+| **AMP** vs **ATP** | baixa energia vs energia suficiente |
+| **PKA** vs **fosfatases da insulina** | sinal de jejum/estresse vs armazenamento |
+
+### Figura sugerida
+
+Use a figura PMH-A2-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> “Hormônio não ‘queima caloria’ — redireciona fluxo metabólico.”
+> **Metabolismo bom não é via ligada; é via ligada na hora certa.**

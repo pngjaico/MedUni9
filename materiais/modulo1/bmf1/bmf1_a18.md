@@ -1,101 +1,162 @@
-# BMF1 — Aula 18: Anatomia da Parede Abdominal e Peritônio
+# BMF1 - Aula 18: Anatomia da Parede Abdominal e Peritônio
 
-A **Parede Abdominal** é um cofre flexível; ela protege o tubo digestório enquanto lida com a brutal pressão das dobras e da gravidade. Na prova, o grande foco é saber as fatias do cofre (do **Músculo Oblíquo Externo** ao **Peritônio Parietal**), e dominar os meandros do **Canal Inguinal**.
-
-Na prática clínica, um lapso no conhecimento da parede condena uma cirurgia. Conhecer as origens e limites do **canal inguinal** é dominar praticamente toda a base de emergência cirúrgica estrutural ambulatorial (**Hérnias** diretas e indiretas). Por outro lado, o **Peritônio** dita a velocidade e a localização de infecções fatais no abdome como a **Peritonite**.
+**Disciplina:** Bases Morfofuncionais 1 - Locomotor e Digestório
+**Módulo:** 1
 
 ---
+
+## Relevância Clínica e Acadêmica
+
+A parede abdominal não é apenas uma cobertura muscular. Ela organiza **planos de acesso cirúrgico**, protege vísceras, sustenta pressão intra-abdominal e cria pontos fracos previsíveis, principalmente na região inguinal. Para prova, a sequência de camadas e o raciocínio das **hérnias inguinais** são os alvos mais importantes.
+
+O **peritônio** fecha a aula porque explica por que algumas dores abdominais são vagas e outras são localizadas, por que líquido livre se acumula em recessos específicos e por que o cirurgião respeita planos anatômicos antes de entrar na cavidade abdominal.
+
+---
+
+## Camadas da parede anterolateral
+
+Do superficial ao profundo, a parede abdominal deve ser memorizada como uma sequência de planos:
+
+Na prática, leia essa sequência como uma entrada cirúrgica. Primeiro vêm pele e subcutâneo; depois entram músculos e aponeuroses; mais fundo aparecem fáscia transversal, gordura extraperitoneal e peritônio. O aluno que entende a profundidade de cada plano não se perde em hérnia, laparotomia ou peritonite.
+
+> **Macete MedGradPlus - CaScaOTaPe:**
+> **Ca**mper tem gordura, **Sca**rpa segura, **O**blíquos e **T**ransverso fazem força, **Pe**ritônio sente a cavidade.
+> **Pegadinha de prova:** Camper e Scarpa são fáscias superficiais; a fáscia transversal é profunda ao transverso e pesa muito no canal inguinal.
+
+| Plano | Estrutura | Relevância de prova |
+|---|---|---|
+| **Pele** | Epiderme e derme | Referência para incisões e dermátomos. |
+| **Fáscia de Camper** | Subcutâneo gorduroso | Camada superficial rica em gordura. |
+| **Fáscia de Scarpa** | Subcutâneo membranoso/fibroso | Plano fibroso mais resistente. |
+| **Oblíquo externo** | Fibras inferomediais | Aponeurose forma o anel inguinal superficial. |
+| **Oblíquo interno** | Fibras superomediais | Contribui para parede e canal inguinal. |
+| **Transverso do abdome** | Fibras horizontais | Função de “cinta” abdominal. |
+| **Fáscia transversal** | Profunda ao transverso | Ponto-chave na parede posterior do canal inguinal. |
+| **Gordura extraperitoneal** | Plano pré-peritoneal | Separação entre fáscia e peritônio. |
+| **Peritônio parietal** | Serosa da parede | Dor somática bem localizada quando irritado. |
+
+A **linha alba** é a fusão mediana das aponeuroses. Ela é relativamente avascular e sem fibras musculares importantes, por isso é usada em laparotomia mediana.
 
 ### Figura sugerida
 
-**Figura-ID:** `BMF1-A18-F01`
+**Figura-ID:** BMF1-A18-F01
 
-- **Momento:** Seção de Parede Anterolateral.
-- **O que mostrar:** O **"Cofre Fatiado"**: Uma vista anterior do tronco recortando um lado da barriga em "degraus". Camada 1 revelando as fibras diagonais do **Oblíquo Externo**; camada 2 com o **Oblíquo Interno** invertendo a diagonal; e camada 3 com a placa plana do músculo **Transverso do Abdome**. No centro, o feixe contínuo do **Reto Abdominal** descendo preso pela **Linha Alba**.
-- **Tipo sugerido:** Infográfico anatômico em plano "cutaway" (camadas removidas).
-- **Legenda (rascunho):** O "Sanduíche" Abdominal Muscular: três direções de veto para máximo controle de força.
-
-## 1. Topografia e Os Três Falsos Muros
-
-A parede musculoaponeurótica não é maciça, é inteligente:
-| Camada do Sanduíche | Direção da Fibra | Função |
-|--------|-------------------|-------------------|
-| **M. Oblíquo Externo** | "Mãos no bolso" (Tração inferior/medial) | Flexão e giros lateralizados |
-| **M. Oblíquo Interno** | Reversa (Em X com o externo) | Estabilidade local cruzada |
-| **M. Transverso do Abdome**| Horizontal transversal pura | **"Corset" natural** (Sustenção visceral) |
-
-> A **Fáscia Transversal** é uma fina película interna atrás do músculo transverso. Se essa película vazar na parte de baixo da barriga, você tem a clássica **Hérnia Direta Inguinal**.
+- **Descrição Técnica:** corte em camadas da parede anterolateral mostrando pele, Camper, Scarpa, oblíquo externo, oblíquo interno, transverso, fáscia transversal, gordura extraperitoneal e peritônio parietal.
+- **Busca Commons (PT):** camadas parede abdominal anatomia oblíquo transverso fáscia
+- **Busca Commons (EN):** abdominal wall layers external oblique internal oblique transversus fascia diagram
+- **Legenda Rascunho:** Camadas da parede abdominal anterolateral, do subcutâneo ao peritônio parietal.
 
 ---
 
-## 2. O Canal Inguinal: O Ponto Cego da Carga
+## Canal inguinal e hérnias
 
-O canal inguinal é um pequeno túnel (4cm) no assoalho oblíquo por onde passam vasos:
-- **No Homem (Funiculo Espermático):** Possui o ducto deferente e o plexo pampiniforme (veias testiculares).
-- **Na Mulher (Ligamento Redondo do Útero):** Ancora as tubas uterinas na pelve.
+O canal inguinal é um túnel oblíquo na parede abdominal inferior. Ele conduz o **funículo espermático** no homem e o **ligamento redondo do útero** na mulher.
 
-O drama de prova foca no desvio do caminho:
-1.  **Hérnia Indireta:** A víscera **viaja totalmente por dentro** do túnel inguinal natural anatômico. Desce até o **escroto**. Geralmente congênita (não fechamento do conduto peritônio-vaginal).
-2.  **Hérnia Direta:** A víscera **arrebenta a parede posterior** atravessando a parede enfraquecida da **fáscia transversal** no **Triângulo de Hasselbach**. Comum no idoso. Nunca atinge o testículo no fundo.
+| Tipo de hérnia | Caminho | Perfil clássico |
+|---|---|---|
+| **Indireta** | Entra pelo **anel inguinal profundo** e segue o canal | Pode alcançar o escroto; associada a persistência do processo vaginal. |
+| **Direta** | Atravessa o **triângulo de Hasselbach** | Adquirida, por fraqueza da parede posterior; mais comum em idosos. |
 
----
-
-## 3. A Geometria da Pele
-
-Logo abaixo da epiderme gorda da barriga temos as fáscias superficiais:
-- **Fáscia de Camper:** Camada superficial **gordurosa** ("Camp de banha").
-- **Fáscia de Scarpa:** Camada profunda **fibrosa** de reforço que segura a força inferior.
-
-O corte "limpo e lindo" no umbigo até a púbis de uma **Laparotomia** de urgência sempre é feito furando no centro onde não há fibras musculares: a afamada **Linha Alba** (puro colágeno e avascular).
+A prova gosta da lógica espacial: a hérnia indireta usa o caminho anatômico do canal; a direta “fura” a parede posterior. O **triângulo de Hasselbach** é o marcador da direta.
 
 ---
 
-## 4. Peritônio: O Dique do Infinito
+## Peritônio: parietal, visceral e cavidade
 
-Órgãos que penduram e mexem precisam de um saco escorregadio: 
-- **Peritônio Parietal:** Adere por dentro da parede muscular da barriga. Possui **inervação somática** (dor aguda e bem localizada).
-- **Peritônio Visceral:** Engloba diretamente o órgão. Possui **inervação visceral** (dor surda e mal localizada).
+O peritônio tem dois folhetos principais:
 
-Entre eles, existe a **Cavidade Peritoneal**. Quando ela "alaga" por doença de fígado, temos a famosa **Ascite**.
+- **Peritônio parietal:** reveste a parede abdominal interna; tem inervação somática, portanto gera dor **localizada**.
+- **Peritônio visceral:** reveste órgãos; tem inervação visceral, portanto gera dor **vaga**, mal localizada e muitas vezes referida.
 
-Para que a tripa não embaralhe ou trave o fluxo, ela é unificada por lonas presas atrás: o peritônio que suspende as alças chama-se **Mesentério**. E a famosa "toalha de gordura" móvel que protege o ventre é o **Omento Maior**. Os cirurgiões o amam porque ele isola focos inflamatórios (tampa furos) naturalmente.
+Entre eles existe a **cavidade peritoneal**, um espaço potencial que pode conter líquido, sangue, pus ou ar em doença. **Pneumoperitônio** sugere perfuração de víscera oca até prova em contrário.
+
+---
+
+## Mesentérios, omentos e retroperitônio
+
+O **mesentério** suspende alças intestinais e conduz vasos, linfáticos e nervos. O **omento maior** funciona como uma prega gordurosa móvel que pode aderir a focos inflamatórios e ajudar a limitar contaminação.
+
+Órgãos **intraperitoneais** são mais móveis e revestidos por peritônio visceral. Órgãos **retroperitoneais** ficam atrás do peritônio e tendem a ser mais fixos. Exemplos de alto rendimento: **rins**, **ureteres**, grande parte do **duodeno**, **pâncreas**, **aorta** e **veia cava inferior**.
 
 ---
 
 ## Ponte com a Clínica
 
-O peritônio parietal tem inervação somática. Por isso, a dor de um **Apêndice** inflamado aponta no dedo (**Ponto de McBurney**) da direita baixa quando a irritação atinge a parede. Quando fluidos livres (**Fezes e Pús**) causam a contração de defesa por todo ventre, temos o **Abdome em Tábua (Peritonite)**, um cenário de emergência. Para acessar os rins, as pessoas não abrem a frente da barriga, mas acessam pelos flancos evitando entrar no saco peritoneal (**Acesso Retroperitoneal**).
+Na laparotomia mediana, a linha alba é escolhida por ser um plano relativamente seguro, pouco vascularizado e sem secção muscular relevante. Em hérnias, diferenciar direta de indireta orienta a compreensão do defeito anatômico.
+
+Na dor abdominal, o padrão de dor muda quando a inflamação alcança o peritônio parietal. A dor visceral inicial pode ser vaga; quando há irritação parietal, surgem dor localizada, defesa e sinais de peritonite. Líquido livre pode se acumular em recessos como o **espaço hepatorrenal de Morrison**, especialmente em decúbito.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Canal Inguinal:** O anel inguinal superficial é um rasgo na aponeurose do **Músculo Oblíquo Externo**. A parede traseira (pavimento) é garantida pelo **Músculo Transverso** e sua **Fáscia Transversal**.
-- **Órgãos Intraperitoneais:** Embrulhados por inteiro e flutuantes com mesentério (Estômago, Íleo, Baço).
-- **Órgãos Retroperitoneais:** Ficam atrás da lona peritoneal, fixos à parede posterior (**Rins**, Duodeno, Pâncreas, Aorta/Cava inferior).
+- **Camper** é a camada gordurosa superficial.
+- **Scarpa** é a camada membranosa/fibrosa profunda da fáscia superficial.
+- A sequência muscular é **oblíquo externo**, **oblíquo interno** e **transverso do abdome**.
+- **Fáscia transversal** fica profunda ao transverso e importa no canal inguinal.
+- **Linha alba** é mediana, aponeurótica e relativamente avascular.
+- Canal inguinal contém **funículo espermático** no homem e **ligamento redondo** na mulher.
+- Hérnia **indireta** entra pelo **anel inguinal profundo** e segue o canal.
+- Hérnia **direta** atravessa o **triângulo de Hasselbach**.
+- **Peritônio parietal** gera dor localizada; **visceral** gera dor vaga.
+- **Mesentério** suspende intestino e carrega vasos/nervos.
+- **Omento maior** pode limitar focos inflamatórios.
+- **Retroperitoneais** clássicos: rins, ureteres, duodeno, pâncreas, aorta e cava.
+
+---
+
+## Mini Quiz
+
+1. **Qual camada superficial da parede abdominal é predominantemente gordurosa?**
+   - [x] Fáscia de Camper.
+   - [ ] Fáscia de Scarpa.
+   - [ ] Fáscia transversal.
+   - [ ] Peritônio parietal.
+   > **Explicação:** Camper é a camada gordurosa; Scarpa é a porção membranosa/fibrosa.
+
+2. **A hérnia inguinal direta atravessa principalmente qual região?**
+   - [ ] Anel inguinal profundo.
+   - [x] Triângulo de Hasselbach.
+   - [ ] Forame epiploico.
+   - [ ] Linha alba.
+   > **Explicação:** A direta surge por fraqueza da parede posterior no triângulo de Hasselbach.
+
+3. **Por que a linha alba é útil em laparotomia mediana?**
+   - [ ] Porque é o ponto mais vascularizado do abdome.
+   - [ ] Porque evita totalmente o peritônio.
+   - [x] Porque é um plano aponeurótico mediano, relativamente avascular.
+   - [ ] Porque contém o funículo espermático.
+   > **Explicação:** A linha alba reduz secção muscular e sangramento em comparação a planos laterais.
+
+4. **Qual folheto peritoneal explica dor abdominal bem localizada quando irritado?**
+   - [ ] Peritônio visceral.
+   - [ ] Omento maior.
+   - [ ] Mesentério.
+   - [x] Peritônio parietal.
+   > **Explicação:** O parietal tem inervação somática; o visceral tende a gerar dor vaga.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **LEIA ISSO 30 MINUTOS ANTES DA PROVA. VAI DIRETO AO PONTO.**
+> Leia em 30 minutos: camadas, hérnias e peritônio.
 
 ### Síntese para a prova
 
-Para **gabaritar** aberturas da parede abdominal, alinhe que as **hérnias** possuem **vetores distintos**: a **Hérnia Direta** entra pelo **Triângulo de Hasselbach** (**fraqueza da Fáscia Transversal**) e a **Hérnia Indireta** fura dentro do **Anel Inguinal Profundo** seguindo o canal verdadeiro. 
+Decore a ordem: **pele -> Camper -> Scarpa -> oblíquo externo -> oblíquo interno -> transverso -> fáscia transversal -> gordura extraperitoneal -> peritônio parietal**. A **linha alba** é o plano mediano aponeurótico, relativamente avascular, escolhido em laparotomia.
 
-A **Uninove** não perdoa se esquecer das **Fáscias do Subcutâneo**. Decore a ordem: **Camper (Gordura)** -> **Scarpa (Fibrosa)** -> **Musculatura (3 camadas)** -> **Fáscia Transversal**. No diagnóstico de dor abdominal: a **pancreatite** ou **cólica de rim** tem dores migrando para as **costas** (**retroperitonais**), mas sem o **sinal de Blumberg** positivo (**tábua**), pois não há irritação do **peritônio parietal ventral** inicial.
+Para hérnias, grave a diferença: **indireta** entra pelo **anel inguinal profundo** e segue o canal; **direta** atravessa o **triângulo de Hasselbach** por fraqueza da parede posterior. Para dor, **parietal localiza**, **visceral confunde**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Diferencial Crítico |
-|------------|------------|-------------------------|
-| **Fáscia de Camper** | **Fáscia de Scarpa** | Subcutâneo **Gorduroso** vs Tela **Fibrosa/Reforço** |
-| **Linha Alba** | **Linhas Semilunares**| Ponto médio **avascular** para laparotomia vs Borda lateral do músculo reto |
-| **Hérnia Indireta** | **Hérnia Direta** | Entra pelo **Anel Profundo** (congênita) vs Atravessa o **Triângulo de Hasselbach** (adquirida) |
-| **Mesentério** | **Omento Maior** | Suspende e nutre o **Intestino Delgado** vs "Avental" de gordura protetor móvel |
-| **Órgão Retroperitoneal**| **Intraperitoneal** | Fixo na parede posterior (**Rins/Aorta**) vs Envolvido por serosa e móvel (**Alças**) |
+|---|---|---|
+| **Camper** | **Scarpa** | Gordurosa superficial vs membranosa/fibrosa profunda. |
+| **Hérnia indireta** | **Hérnia direta** | Anel profundo/canal vs triângulo de Hasselbach. |
+| **Linha alba** | **Linha semilunar** | Mediana aponeurótica vs borda lateral do reto abdominal. |
+| **Peritônio parietal** | **Peritônio visceral** | Dor localizada/somática vs dor vaga/visceral. |
+| **Mesentério** | **Omento maior** | Suspende alças e conduz vasos vs avental gorduroso protetor. |
 
 ### Frase-âncora para não esquecer
 
-> **"OBLÍQUO RASGA PRA DESCER E TRANSVERSO ESTICA O CINTO; NO HASSELBACH O BURACO CAI DIRETO E POR DENTRO, PRO FUNDO DA CAÇAPA INGUINAL, CORRE FROUXA E INDIRETA E FAZ O TESTÍCULO TREMER."**
+> **Camper tem gordura, Scarpa segura; indireta entra pelo anel, direta fura Hasselbach; parietal aponta a dor, visceral espalha a pista.**

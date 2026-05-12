@@ -1,118 +1,162 @@
-# PMH — Aula 12: Biossíntese e Degradação de Nucleotídeos
+# PMH - Aula 12: Biossíntese e Degradação de Nucleotídeos
 
 **Disciplina:** Processos Metabólicos Humanos  
-**Módulo:** 1
+**Módulo:** 1 | **Referência principal:** bioquímica médica aplicada  
+**Tempo de estudo sugerido:** 15-20 min
 
 ---
 
-## Relevância Clínica e Acadêmica
+## Relevância clínica e acadêmica
 
-O **Metabolismo de Nucleotídeos** fornece os blocos de construção essenciais para o **DNA/RNA** e moléculas energéticas como o **ATP**. Domine as diferenças fundamentais entre a **Síntese de Purinas** e a de **Pirimidinas**. Entenda a fisiopatologia da **Gota** (excesso de ácido úrico), a **Síndrome de Lesch-Nyhan** e como quimioterápicos como o **Metotrexato** e o **5-FU** agem bloqueando a divisão celular cancerosa.
+Nucleotídeos sustentam DNA, RNA, ATP e sinalização; por isso sua síntese e degradação têm impacto clínico real.
+
+A prova cobra vias de novo e salvage, ácido úrico, gota, Lesch-Nyhan e diferença entre purinas e pirimidinas.
+
+O segredo é separar construção, reciclagem e degradação.
+
+O padrão desta aula é de ciclo básico vendável: conceito bioquímico, pista de prova e ponte clínica curta. Não é para decorar uma tabela isolada; é para reconhecer o mecanismo dentro de uma vinheta.
 
 ---
 
 ### Figura sugerida
 
-**Figura-ID:** `PMH-A12-F01`
+**Figura-ID:** PMH-A12-F01
 
-- **Momento:** Após o bloco de relevância.
-- **O que mostrar:** Comparativo entre as estruturas de anéis das Purinas (A, G) e Pirimidinas (C, U, T) e os pontos de bloqueio de drogas analógicas.
-- **Tipo sugerido:** Infográfico didático colorido.
-- **Legenda (rascunho):** Bioquímica dos nucleotídeos: síntese e alvos terapêuticos.
-
----
-
-## Vias de síntese: visão geral
-
-Existem duas formas de produzir estes compostos:
-- **Via *de novo***: Constrói as bases a partir de precursores simples como **aminoácidos**, **CO₂** e **Tetraidrofolato (THF)**. É um processo energeticamente custoso.
-- **Via de Recuperação (Salvage):** Economiza energia ao reciclar **bases livres** + **PRPP** para formar nucleotídeos novos. A enzima **HGPRT** é a protagonista desta via.
-
-> **Dica de Prova:** O **PRPP** (fosforibosil pirofosfato) é o substrato comum que ativa e conecta ambas as vias de produção de nucleotídeos.
+- **Momento:** após a relevância clínica.
+- **O que mostrar:** Fluxograma purinas/pirimidinas: via de novo, salvage, ácido úrico, gota e Lesch-Nyhan.
+- **Tipo sugerido:** infográfico didático limpo, legível em mobile.
+- **Legenda:** Biossíntese e Degradação de Nucleotídeos: mapa visual dos pontos de prova e da ponte clínica.
 
 ---
 
-## Purinas: ramificação para inosina
+## 1. Síntese de novo
 
-O intermediário **IMP (Inosina Monofosfato)** é o precursor comum para a produção de **AMP** e **GMP**.
-- **Síndrome de Lesch-Nyhan:** Deficiência completa da enzima **HGPRT**. Como o corpo não consegue reciclar as bases, há um **acúmulo massivo de ácido úrico**, além de sintomas neurológicos graves e comportamento de automutilação.
+Na síntese de novo, a célula constrói nucleotídeos a partir de precursores pequenos.
 
----
+Purinas são montadas sobre ribose; pirimidinas montam o anel antes de ligar à ribose.
 
-## Pirimidinas: síntese e regulação
-
-Diferente das purinas, o anel das pirimidinas é montado antes de ser acoplado à ribose.
-- **Enzima CAD (Carbamoil Fosfato Sintetase II):** É o passo limitante e ocorre no **citoplasma**.
-- **Metabolitos:** Inicia com aspartato e carbamoil fosfato, passando pelo **Orotato** até chegar em **UMP, UTP e CTP**.
+O processo consome energia e é regulado por feedback.
 
 ---
 
-## Degradação de purinas → ácido úrico
+## 2. Via salvage
 
-As bases purínicas (**Guanina** e **Adenina**) são degradadas a **Urato** (ácido úrico).
-- **Xantina Oxidase:** Enzima chave que oxida a hipoxantina em xantina e, finalmente, em urato.
-- **Alopurinol:** Medicamento análogo que inibe a xantina oxidase, reduzindo o urato no sangue. Essencial no tratamento da **Gota** e na **Síndrome de Lise Tumoral**.
+A via salvage recicla bases livres, economizando energia.
 
----
+HGPRT recicla hipoxantina e guanina.
 
-## Quimioterapia e precursores de DNA
-
-- **Ribonucleotídeo Redutase:** Converte NDP em dNDP para uso no DNA. É o alvo da **Hidroxiureia**.
-- **Timidilato Sintase:** Gera **Timina** (dTMP) a partir de dUMP. É o alvo do quimioterápico **5-Fluorouracil (5-FU)**.
-- **Metotrexato (MTX):** Compete com o **Folato**, impedindo o fornecimento de carbonos necessários para a síntese das bases nitrogenadas.
+Deficiência grave de HGPRT causa Lesch-Nyhan.
 
 ---
 
-## Comparativo purina vs pirimidina
+## 3. Degradação de purinas
 
-| Característica | Purinas (A, G) | Pirimidinas (C, U, T) |
-|-----------------|----------------|-----------------------|
-| **Estrutura** | **Dois anéis** (Maior) | **Anel simples** (Menor) |
-| **Síntese Base** | Sobre o **PRPP** (Ribose pronta) | Anel montado **antes** da ribose |
-| **Degradação** | **Ácido Úrico** (Solúvel/Ionizado) | Produtos atóxicos (CO2 e Uréia) |
-| **Patologia** | **Gota** e Lesch-Nyhan | Acidúria Orótica |
+Purinas são degradadas até ácido úrico.
+
+Excesso de produção ou redução de excreção aumenta urato e pode causar gota.
+
+Cristais de urato inflamam articulações, especialmente primeira metatarsofalângica.
 
 ---
 
+## 4. Fármacos e clínica
+
+Alopurinol inibe xantina oxidase e reduz produção de ácido úrico.
+
+Antimetabólitos exploram dependência de síntese de nucleotídeos em células proliferativas.
+
+A clínica integra rim, articulação, câncer e metabolismo.
+
+> **Macete MedGradPlus:** Purina termina em ácido úrico; salvage economiza energia.
+
+> **Pegadinha de prova:** Gota não é só produção alta; baixa excreção renal é causa comum.
+
+---
+
+## Mapa mental da aula
+Separe síntese de degradação: purinas e pirimidinas constroem DNA/RNA, mas purinas degradam até ácido úrico.
+
+Depois lembre da via salvage: **HGPRT** reaproveita bases e reduz necessidade de síntese de novo.
+
+Feche com gota e fármacos: xantina oxidase forma ácido úrico; alopurinol bloqueia essa etapa.
 ## Ponte com a Clínica
+Dor súbita no hálux com hiperuricemia cobra metabolismo de purinas, inflamação por cristais e contexto clínico, não só laboratório.
 
-A **Lise Tumoral** (destruição massiva de células no tratamento do câncer) libera uma quantidade enorme de ácidos nucleicos no sangue. Estes se degradam em **Ácido Úrico**, que pode precipitar nos túbulos renais causando **Insuficiência Renal Aguda**. A hidratação agressiva e o uso profilático de **Alopurinol** são condutas padrão.
+Lesch-Nyhan é pista forte de HGPRT: excesso de ácido úrico vem junto de manifestações neurológicas/comportamentais.
 
----
-
+A pegadinha é confundir ureia com ácido úrico. Ureia vem de aminoácidos; ácido úrico vem de purinas.
 ## Pontos-Chave para Prova
 
-- **Ácido Úrico:** Produto final tóxico da degradação das **Purinas**. Solubilidade baixa.
-- **Alopurinol:** "Engana" a **Xantina Oxidase** para bloquear a produção de urato.
-- **HGPRT:** Proteína da "reciclagem". Sua falta causa a tragédia clínica de **Lesch-Nyhan**.
-- **Metotrexato:** Ataca via **Folato**; causa anemia megaloblástica e mucosite como efeito colateral.
-- **5-FU:** Ataca a enzima que fabrica a **Timina** (Timidilato Sintase).
-- **CPS II:** Pirimidina (Citoplasma). Não confunda com a **CPS I** da Ureia (Mitocôndria).
+- **Purinas** são adenina e guanina.
+- **Pirimidinas** incluem citosina, timina e uracila.
+- **Via** de novo consome energia.
+- **Salvage** recicla bases.
+- **HGPRT** recicla hipoxantina e guanina.
+- **Lesch-Nyhan** envolve deficiência de HGPRT.
+- **Purinas** degradam até ácido úrico.
+- **Xantina** oxidase participa da formação de ácido úrico.
+- **Alopurinol** inibe xantina oxidase.
+- **Gota** envolve cristais de urato.
+
+---
+
+## Mini Quiz
+
+1. **Purinas degradam até:**
+- [x] ácido úrico
+- [ ] ureia
+- [ ] lactato
+- [ ] colesterol
+> **Explicação:** Purinas são degradadas até ácido úrico em humanos, por isso excesso de purina pode se ligar à gota.
+
+2. **HGPRT participa de:**
+- [ ] beta-oxidação
+- [x] via salvage
+- [ ] ciclo da ureia
+- [ ] glicogenólise
+> **Explicação:** HGPRT é enzima da via salvage, reaproveitando bases purínicas para formar nucleotídeos.
+
+3. **Lesch-Nyhan envolve deficiência de:**
+- [ ] G6PD
+- [ ] CPT-1
+- [x] HGPRT
+- [ ] LDL receptor
+> **Explicação:** Lesch-Nyhan decorre de deficiência de HGPRT, com falha de salvamento purínico e hiperuricemia.
+
+4. **Alopurinol inibe:**
+- [ ] PFK-1
+- [ ] ATP sintase
+- [ ] HMG-CoA redutase
+- [x] xantina oxidase
+> **Explicação:** Alopurinol inibe xantina oxidase, reduzindo a formação de ácido úrico a partir de xantina/hipoxantina.
 
 ---
 
 ## Pré-Prova
 
-<ctrl94> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
+> **Leia isso 30 minutos antes da prova. Vai direto ao ponto.**
 
 ### Síntese para a prova
 
-Foco total da **Uninove**:
-- **Gota:** Caracterizada por cristais de urato em "agulha" com **birrefringência negativa**.
-- **PRPP:** Se o PRPP estiver sobrando, a via *de novo* acelera, aumentando o ácido úrico.
-- **Folato e DNA:** Sem folato (vitamina B9), não há síntese de DNA, gerando células gigantes e anormais (**Megaloblastose**).
-- **Salvage (Recuperação):** O cérebro depende muito desta via por ter vias *de novo* menos eficientes.
+Nucleotídeos sustentam DNA, RNA, ATP e sinalização; por isso sua síntese e degradação têm impacto clínico real.
 
-### Diferenciações Críticas
+Grave o eixo da aula em três passos: primeiro identifique o estado metabólico, depois a enzima ou transportador regulatório, e por último a consequência clínica. Isso evita confundir vias parecidas.
 
-| Conceito A | Conceito B | Diferencial para Prova |
-|------------|------------|----------------------|
-| **Metotrexato** | **5-FU** | Inibe via do **Folato** vs Inibe via da **Timina** |
-| **Gota** | **Pseudogota** | Urato de Sódio vs **Pirofosfato de Cálcio** |
-| **CPS I** | **CPS II** | Ciclo da **Ureia** vs Síntese de **Pirimidinas** |
-| **Xantina Oxidase** | **HGPRT** | Enzima de **Degradação** vs Enzima de **Reciclagem** |
+Na hora da questão, sublinhe a pista dominante. Se aparece jejum, pense em mobilização; se aparece alimentação, pense em armazenamento; se aparece inflamação ou falência orgânica, pense em metabolismo desadaptado.
+
+### Diferenciações
+
+| Par que confunde | Como diferenciar rápido |
+|---|---|
+| **de novo** vs **salvage** | constrói do zero vs recicla bases |
+| **purinas** vs **pirimidinas** | A/G vs C/T/U |
+| **gota** vs **Lesch-Nyhan** | urato/cristal vs defeito HGPRT grave |
+| **alopurinol** vs **uricosúrico** | reduz produção vs aumenta excreção |
+
+### Figura sugerida
+
+Use a figura PMH-A12-F01 para revisar a via como fluxo, não como lista. A imagem deve destacar o ponto de controle e a consequência clínica.
 
 ### Frase-âncora para não esquecer
 
-> **“O nucleotídeo alimenta o código da vida; quimioterápicos e a gota são os dois lados da moeda do seu metabolismo.”**
-
+> **Nucleotídeo caro se recicla; purina quebrada vira urato.**
