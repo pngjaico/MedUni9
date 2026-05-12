@@ -140,3 +140,7 @@ O aluno forte mostra julgamento: sabe quando examinar, quando parar, quando pedi
 | **Plano forte vs fraco** | Conduta, retorno e alarme | Prescrição sem orientação |
 | **Dor difusa vs sinovite** | Função, sono, exame normal | Edema/calor articular objetivo |
 | **Úlcera indolor benigna vs neuropática** | Não é inferência segura | Perda sensitiva aumenta risco |
+
+### Frase-âncora para não esquecer
+
+> **Ambulatório bom muda plano real, não só preenche SOAP.**

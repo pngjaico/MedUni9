@@ -158,3 +158,7 @@ O raciocínio seguro é: função primeiro, estrutura depois. Se o teste não co
 | **MRC 2 vs 3** | Move sem gravidade | Move contra gravidade |
 | **Lachman vs gaveta anterior** | LCA com joelho menos flexionado | LCA em flexão maior |
 | **Jobe vs Neer/Hawkins** | Supraespinal/manguito | Impacto subacromial |
+
+### Frase-âncora para não esquecer
+
+> **Ativa testa paciente; passiva testa articulação; força testa sistema motor.**

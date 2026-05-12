@@ -176,3 +176,7 @@ Em questões de caso, procure a palavra dominante. Vínculo ao longo dos anos ap
 | **Territorialização** vs **adscrição** | análise ativa do território vs vincular população a uma equipe |
 
 Feche revisando: APS não é triagem pobre para hospital. APS é o lugar que conhece a população, resolve o frequente, previne complicações e organiza a rede quando precisa de outro ponto de atenção.
+
+### Frase-âncora para não esquecer
+
+> **APS forte cadastra, acolhe, acompanha e coordena; não é pronto atendimento barato.**

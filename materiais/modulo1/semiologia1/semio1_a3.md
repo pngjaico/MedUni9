@@ -151,3 +151,7 @@ O aluno precisa sair sabendo nomear spots: genu varo/valgo, Heberden, dactilite,
 | **Antálgica vs steppage** | Pouco apoio por dor | Elevação exagerada por pé caído |
 | **Bursite pré-patelar vs hemartrose** | Abaulamento anterior após ajoelhar | Volume rápido após trauma intra-articular |
 | **Inspeção vs palpação** | Forma, cor, volume e marcha | Calor, dor à pressão e consistência |
+
+### Frase-âncora para não esquecer
+
+> **Inspecione antes de tocar: global, bilateral, segmentar e dinâmico.**

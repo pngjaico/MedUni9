@@ -1,12 +1,12 @@
 # Relatorio de Revisao - Modulo 1 MedGradPlus
 
-Gerado em: 2026-05-12T17:16:59.068Z
+Gerado em: 2026-05-12T20:44:33.927Z
 
 ## Veredito
 
-O Modulo 1 esta **quase pronto**, mas ainda nao esta **fechado**.
+O Modulo 1 esta **fechado textualmente** no escopo combinado, mas ainda nao esta fechado como rodada visual premium.
 
-O contrato bruto aula-aula esta muito avancado: materiais espelhados, Mini Quiz funcional, 12 essenciais, 12 flashcards, refs e decisao visual por aula. Mas a revisao mais critica encontrou lacunas que ainda derrubam o acabamento: flashcards de Semiologia1 com explicacao vazia e PMH com secoes repetidas em bloco.
+O contrato aula-aula esta consistente: materiais espelhados, Mini Quiz funcional, 12 essenciais, 12 flashcards, refs e decisao visual por aula. As pendencias textuais anteriores foram tratadas: Semiologia1 nao tem mais explicacoes vazias, PMH foi individualizado e as essenciais sinalizadas foram triadas.
 
 ## Escopo
 
@@ -16,8 +16,8 @@ O contrato bruto aula-aula esta muito avancado: materiais espelhados, Mini Quiz 
 
 | Materia | Aulas | OK estrut. | Questoes | Essenciais | Flashcards | Figuras | Suspeitas | Linhas |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sus | 9 | 9/9 | 108 | 108 | 108 | 9 | 9 | 168-181 |
-| semiologia1 | 9 | 9/9 | 108 | 108 | 108 | 17 | 6 | 143-177 |
+| sus | 9 | 9/9 | 108 | 108 | 108 | 9 | 9 | 168-185 |
+| semiologia1 | 9 | 9/9 | 108 | 108 | 108 | 17 | 6 | 147-181 |
 | bmf1 | 22 | 22/22 | 387 | 264 | 264 | 24 | 11 | 152-200 |
 | pmh | 14 | 14/14 | 494 | 168 | 168 | 14 | 0 | 163-163 |
 
@@ -31,9 +31,9 @@ O contrato bruto aula-aula esta muito avancado: materiais espelhados, Mini Quiz 
 
 ## Validacoes recentes
 
-- `npm run validate:questoes`: passou com 4965 questoes consistentes com o catalogo.
+- `npm run validate:questoes`: passou com 5012 questoes consistentes com o catalogo.
 - `npm run audit:questoes`: sem `aula_id` invalido, sem `tema` invalido, sem mismatch de materia e sem aula com material abaixo do minimo de essenciais.
-- `npm run audit:essenciais:local`: 380 suspeitas globais; 26 no Modulo 1.
+- `npm run audit:essenciais:local`: 384 suspeitas globais; 26 no Modulo 1, com 26 ja triadas e 0 pendentes.
 - `node scripts/audit_flashcards.cjs`: auditoria global ainda aponta dividas antigas fora do contrato aula-aula; ver secao de pendencias.
 - Observacao operacional: a execucao oficial 54x2 de `validate_ciclo_basico_aula` + `lint_ciclo_basico_v3` ficou lenta e estourou timeout nesta rodada; o consolidado deste relatorio carrega os JSONs uma vez e checa as invariantes centrais mais auditoria adicional de qualidade de flashcards.
 
@@ -43,26 +43,25 @@ O contrato bruto aula-aula esta muito avancado: materiais espelhados, Mini Quiz 
 
 ## Pendencias reais
 
-1. **Semiologia1 precisa reparar explicacoes de flashcards.** O alvo de 12 cards existe, mas `semio1_a2`-`semio1_a9` estao com explicacoes vazias em cards; isso passa no validador por aula, mas falha no acabamento.
-2. **PMH precisa de acabamento editorial fino.** Estruturalmente passa, mas ainda tem trechos repetidos demais e explicacoes de Mini Quiz com molde generico.
-3. **Revisar semanticamente as essenciais sinalizadas.** A heuristica marcou 26 essenciais no Modulo 1; isso nao prova erro, mas exige leitura humana antes do carimbo final.
-4. **Rodada visual separada.** As decisoes/slots existem, mas a maioria esta como pendente de curadoria/licenca/imagem final.
-5. **Resumo A4 continua ausente no ciclo basico.** O auditor global aponta 263 materiais sem Resumo A4.
-6. **Dividas globais fora do Modulo 1 ainda existem.** O ciclo basico ainda tem 38 falhas de material, 8 aulas com menos de 12 questoes e 8 com menos de 12 essenciais.
+1. **Rodada visual premium ainda nao esta pronta.** Existem 64 decisoes/slots visuais, mas 63 ainda nao possuem URL/imagem final.
+2. **Resumo A4 continua ausente no ciclo basico.** O auditor global aponta 263 materiais sem Resumo A4; isso e backlog de produto, nao bloqueio textual deste fechamento.
+3. **Dividas globais fora do Modulo 1 ainda existem.** O ciclo basico ainda tem 38 falhas de material, 8 aulas com menos de 12 questoes e 8 com menos de 12 essenciais.
 
-## PMH - divida editorial
+## PMH - checagem editorial
 
 - Mapa mental da aula: 14 versoes unicas em 14 aulas.
 - Ponte com a Clinica: 14 versoes unicas em 14 aulas.
 - Mini Quiz PMH com explicacao generica padronizada: 0 aulas sinalizadas.
 
-Minha leitura: PMH esta correto como estrutura, mas nao como produto final premium. O aluno percebe repeticao de template. O reparo certo e aula por aula, preservando questoes/cards, reescrevendo apenas Mapa mental, Ponte com a Clinica e explicacoes do Mini Quiz quando estiverem genericas.
+Minha leitura: PMH agora esta coerente como produto do Modulo 1. O relatorio precisa continuar monitorando repeticao de template, mas a triagem atual mostra 14 mapas unicos, 14 pontes unicas e zero explicacao generica de Mini Quiz.
 
 ## Essenciais sinalizadas no Modulo 1
 
 - sus: 9 essenciais sinalizadas
 - semiologia1: 6 essenciais sinalizadas
 - bmf1: 11 essenciais sinalizadas
+
+Triagem: 28 revisadas no log premium; 26 das suspeitas atuais ja estao reconciliadas; 0 seguem pendentes.
 
 - bmf1/bmf1_a17 q346: A glândula submandibular é melhor reconhecida por qual conjunto anatômico-clínico?
 - bmf1/bmf1_a17 q347: Qual característica identifica melhor a glândula sublingual?
@@ -94,15 +93,14 @@ Minha leitura: PMH esta correto como estrutura, mas nao como produto final premi
 ## Imagens
 
 - Status por figura/slot: pendente_curadoria=20, pendente=43, encontrada=1.
+- Sem URL/imagem final: 63/64.
 - BMF1: manter prioridade para anatomia/histologia/fisiologia util.
 - Semiologia1: manter spots e imagens de exame fisico.
 - PMH/SUS: usar infograficos quando simplificarem fluxo, nao como decoracao.
 
 ## Proxima sequencia recomendada
 
-1. Reparar Semiologia1 `semio1_a2`-`semio1_a9`: preencher explicacoes dos flashcards sem alterar a selecao dos 12 cards.
-2. Fazer PMH fino: 14 aulas, uma por vez, material-only, sem mexer em questoes/cards salvo erro claro.
-3. Revisar as 26 essenciais sinalizadas do Modulo 1, item por item.
-4. Rodar novamente `validate:questoes`, `audit:questoes`, `audit:essenciais:local`, `audit_flashcards` e gerar fila.
-5. Fazer rodada visual do Modulo 1: preencher imagem/licenca/credito dos slots ja registrados.
-6. Depois disso, declarar Modulo 1 fechado e seguir para o proximo modulo/materia.
+1. Rodada visual dedicada do Modulo 1, com pausa operacional entre aulas e sem imagem decorativa.
+2. BMF1 primeiro, depois spots/fluxos de Semiologia1, depois PMH/SUS apenas quando o esquema realmente melhorar aprendizagem.
+3. Validar URL, credito, licenca e legenda em `data/materiais_figuras.json`.
+4. Depois disso, declarar Modulo 1 fechado tambem no pacote visual.

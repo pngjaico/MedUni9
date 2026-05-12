@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T17:16:59.068Z",
+  "generatedAt": "2026-05-12T20:44:33.927Z",
   "scope": {
     "modulo": 1,
     "excluded": [
@@ -24,7 +24,7 @@
       "figures": 9,
       "suspicious": 9,
       "minLines": 168,
-      "maxLines": 181,
+      "maxLines": 185,
       "materialIssueLessons": 0,
       "questionIssueLessons": 0,
       "cardIssueLessons": 0
@@ -38,8 +38,8 @@
       "flashcards": 108,
       "figures": 17,
       "suspicious": 6,
-      "minLines": 143,
-      "maxLines": 177,
+      "minLines": 147,
+      "maxLines": 181,
       "materialIssueLessons": 0,
       "questionIssueLessons": 0,
       "cardIssueLessons": 0
@@ -90,6 +90,7 @@
     "pendente": 43,
     "encontrada": 1
   },
+  "figureNoUrl": 63,
   "pmhDebt": {
     "mapaUnique": 14,
     "ponteUnique": 14,
@@ -101,6 +102,19 @@
     "frenteLonga": [],
     "metatexto": [],
     "explicacaoVazia": []
+  },
+  "essenciaisTriage": {
+    "reviewed": 28,
+    "triagedSuspicious": 26,
+    "untriagedSuspicious": 0,
+    "decisions": {
+      "reviewed": 28,
+      "keepFalsePositive": 23,
+      "fixed": 3,
+      "rewritten": 2,
+      "demoted": 0,
+      "replaced": 0
+    }
   },
   "suspiciousM1": [
     {
@@ -261,9 +275,9 @@
     }
   ],
   "globalAudits": {
-    "validateQuestoesLatest": 4965,
+    "validateQuestoesLatest": 5012,
     "questoesAuditSummary": {
-      "totalQuestoes": 4965,
+      "totalQuestoes": 5012,
       "semAulaId": 0,
       "aulaIdInvalido": 0,
       "temaIdInvalido": 0,
@@ -277,9 +291,9 @@
       "aulasComMaterialAbaixoMinimoEssenciais": 0,
       "aulasComMaterialFilaGeracao": 0
     },
-    "essentialsSuspiciousGlobal": 380,
+    "essentialsSuspiciousGlobal": 384,
     "cicloBasicoAudit": {
-      "generatedAt": "2026-05-12T17:15:37.346Z",
+      "generatedAt": "2026-05-12T17:17:38.674Z",
       "modules": "1-4",
       "activeSubjectsBasicIncludingPE": 19,
       "activeLessonsBasicIncludingPE": 263,
@@ -333,9 +347,9 @@
       "modulo": 1,
       "aulaId": "sus_a1",
       "tema": "Processo Saúde-Doença e Determinantes Sociais",
-      "materialHash": "f9beb10dab5efe3be4461194e8ddbb08d44f5fe4b5c9b7964f0a4d4fb14342c6",
+      "materialHash": "12b03d50fbd4cc9b81a1f2ec22def44a2f3b7f81a894f95f2ebf45e98f7a5439",
       "material": {
-        "lines": 175,
+        "lines": 179,
         "tableLines": 18,
         "tableBlocks": 3,
         "bulletLines": 30,
@@ -386,6 +400,7 @@
       "figureStatuses": [
         "pendente_curadoria"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -399,9 +414,9 @@
       "modulo": 1,
       "aulaId": "sus_a2",
       "tema": "Antecedentes Históricos do SUS — Período Colonial ao Regime Militar",
-      "materialHash": "aafe8b1b1014a4fe75f5cbe890e746c03a4d2fd2c6d4fcff7fad1d5f370a3b4e",
+      "materialHash": "5685f15f2e3865d20cc5d7ce5052617b7a435c1da8fa3012b9d36e3241a1db81",
       "material": {
-        "lines": 181,
+        "lines": 185,
         "tableLines": 18,
         "tableBlocks": 3,
         "bulletLines": 30,
@@ -452,6 +467,7 @@
       "figureStatuses": [
         "pendente_curadoria"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -518,6 +534,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 5002006,
@@ -606,6 +623,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 3385,
@@ -694,6 +712,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -760,6 +779,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 3406,
@@ -841,6 +861,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 5002036,
@@ -862,9 +883,9 @@
       "modulo": 1,
       "aulaId": "sus_a8",
       "tema": "PNAB e Estratégia Saúde da Família",
-      "materialHash": "da94f892c9d17bec9ec1d85c23cb0e54d1bcf914754564fb5d2eed5716ce110e",
+      "materialHash": "d30b2382664c251685c9fd294a5456ad71fb1d59f7f8104adea5563e3871a95a",
       "material": {
-        "lines": 179,
+        "lines": 183,
         "tableLines": 18,
         "tableBlocks": 3,
         "bulletLines": 30,
@@ -915,6 +936,7 @@
       "figureStatuses": [
         "pendente_curadoria"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -928,9 +950,9 @@
       "modulo": 1,
       "aulaId": "sus_a9",
       "tema": "Ferramentas de Abordagem Familiar e Comunitária",
-      "materialHash": "7e34b364654e43f0d203feac73e366d692324ae66fe66763eb6569361e4977ba",
+      "materialHash": "eed5bcc1ac4e5d53c9889f6b69e29e82ccb09c370a9b29c4ad515d1b966932cc",
       "material": {
-        "lines": 174,
+        "lines": 178,
         "tableLines": 17,
         "tableBlocks": 3,
         "bulletLines": 30,
@@ -981,6 +1003,7 @@
       "figureStatuses": [
         "pendente_curadoria"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -994,9 +1017,9 @@
       "modulo": 1,
       "aulaId": "semio1_a1",
       "tema": "Fundamentos da Semiologia Musculoesquelética",
-      "materialHash": "70cd7c0d077a6eef1efa4a2a2e14ceb773286cd32e19aec3d1a2fc3657b0edf7",
+      "materialHash": "ec1158263736ccb69ff14d3268fcaf0513ac6ee00800e1a6c99a26197a05e8e0",
       "material": {
-        "lines": 177,
+        "lines": 181,
         "tableLines": 17,
         "tableBlocks": 3,
         "bulletLines": 26,
@@ -1048,6 +1071,7 @@
         "pendente",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [
         {
           "id": 624,
@@ -1090,9 +1114,9 @@
       "modulo": 1,
       "aulaId": "semio1_a2",
       "tema": "Anamnese Dirigida do Aparelho Locomotor",
-      "materialHash": "455f25a053d7f59ad7bfdb4ea8644fe02957cdc3cee6077da8069e224df07843",
+      "materialHash": "dae2e04e491e573db6496f5d74d748d33b995ecf4aab75943de939ec005db64a",
       "material": {
-        "lines": 157,
+        "lines": 161,
         "tableLines": 21,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1143,6 +1167,7 @@
       "figureStatuses": [
         "pendente_curadoria"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1156,9 +1181,9 @@
       "modulo": 1,
       "aulaId": "semio1_a3",
       "tema": "Exame Físico — Inspeção",
-      "materialHash": "852931a747ed096f5675ff18bf949759fb1ca51927745eb5576724b45ac883eb",
+      "materialHash": "3e0e7c30c9fc4f6a0c4eb6cad2a249c6a493858d56bda5880881c83a4aa103da",
       "material": {
-        "lines": 154,
+        "lines": 158,
         "tableLines": 20,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1210,6 +1235,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1223,9 +1249,9 @@
       "modulo": 1,
       "aulaId": "semio1_a4",
       "tema": "Exame Físico — Palpação",
-      "materialHash": "41c8deec797848f593da789089cf58976532c6d32207924c586cb0de6361bb8a",
+      "materialHash": "ab08bfe2f2d05b3ae42664b5579e9647114d250fd3e8424fc926b735646950a2",
       "material": {
-        "lines": 155,
+        "lines": 159,
         "tableLines": 21,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1277,6 +1303,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1290,9 +1317,9 @@
       "modulo": 1,
       "aulaId": "semio1_a5",
       "tema": "Testes de Mobilidade e Força Muscular",
-      "materialHash": "fbb6338aabfd892d808f292b5c66b02d5a890d699202f1d990b5c19f297d7ae3",
+      "materialHash": "4e5580c330e040c400f7e16845e16e2baae2eaff558a2ebf72a5defdca9ed473",
       "material": {
-        "lines": 161,
+        "lines": 165,
         "tableLines": 28,
         "tableBlocks": 4,
         "bulletLines": 28,
@@ -1344,6 +1371,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [
         {
           "id": 663,
@@ -1372,9 +1400,9 @@
       "modulo": 1,
       "aulaId": "semio1_a6",
       "tema": "Síndromes Musculoesqueléticas e Propedêutica",
-      "materialHash": "6e2d4d927a915d6fa83fcf0ae8eca3ad4f44dab079fdcd776d989614f849fa6b",
+      "materialHash": "e5758a5df4b9f3707f28c146483a6e6c87113b5dce50caa38d521b04829b1575",
       "material": {
-        "lines": 154,
+        "lines": 158,
         "tableLines": 20,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1426,6 +1454,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1439,9 +1468,9 @@
       "modulo": 1,
       "aulaId": "semio1_a7",
       "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
-      "materialHash": "26d7c33a25a39904489b5ba775c7fe4b5baf1f8834c685e156e6f463b893378f",
+      "materialHash": "e1dc12532ed4d24e81f8ba6a503564de8b694044012c7394b153268bd736aeeb",
       "material": {
-        "lines": 156,
+        "lines": 160,
         "tableLines": 18,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1493,6 +1522,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1506,9 +1536,9 @@
       "modulo": 1,
       "aulaId": "semio1_a8",
       "tema": "Prática Real — Ambulatório Supervisionado",
-      "materialHash": "fd1c3b6fb27671766b07d80b54d493a80a3a427218262c56d648c152b3ac481e",
+      "materialHash": "95da4946b8ae943b7f0825dda233bda7d87d0c87a9b06801bde8f7d56968c908",
       "material": {
-        "lines": 143,
+        "lines": 147,
         "tableLines": 19,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1560,6 +1590,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1573,9 +1604,9 @@
       "modulo": 1,
       "aulaId": "semio1_a9",
       "tema": "Reunião Clínica — Casos Musculoesqueléticos",
-      "materialHash": "875395fa355dd4d49c59a2af6ac85105e1ebf9837991cf0905747791e37a1040",
+      "materialHash": "9d0c8eee30ac5bfa0d6a17619f5aa611003b1f13a525236ee1ef770caa4dce0b",
       "material": {
-        "lines": 150,
+        "lines": 154,
         "tableLines": 20,
         "tableBlocks": 3,
         "bulletLines": 28,
@@ -1627,6 +1658,7 @@
         "pendente_curadoria",
         "pendente_curadoria"
       ],
+      "figureNoUrl": 2,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1693,6 +1725,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 3005,
@@ -1781,6 +1814,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1847,6 +1881,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1913,6 +1948,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -1981,6 +2017,7 @@
         "pendente",
         "pendente"
       ],
+      "figureNoUrl": 2,
       "suspicious": [
         {
           "id": 439,
@@ -2055,6 +2092,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 445,
@@ -2129,6 +2167,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2195,6 +2234,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2261,6 +2301,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2327,6 +2368,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2393,6 +2435,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2459,6 +2502,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 3095,
@@ -2533,6 +2577,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2599,6 +2644,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2665,6 +2711,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2731,6 +2778,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -2797,6 +2845,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 346,
@@ -2885,6 +2934,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 7406,
@@ -2959,6 +3009,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3025,6 +3076,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3091,6 +3143,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3157,6 +3210,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [
         {
           "id": 3175,
@@ -3231,6 +3285,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3297,6 +3352,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3363,6 +3419,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3429,6 +3486,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3495,6 +3553,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3561,6 +3620,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3627,6 +3687,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3693,6 +3754,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3759,6 +3821,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3825,6 +3888,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3891,6 +3955,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -3957,6 +4022,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -4023,6 +4089,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],
@@ -4089,6 +4156,7 @@
       "figureStatuses": [
         "pendente"
       ],
+      "figureNoUrl": 1,
       "suspicious": [],
       "issues": [],
       "materialIssues": [],

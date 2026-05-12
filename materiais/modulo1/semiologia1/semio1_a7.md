@@ -153,3 +153,7 @@ Manequim treina gesto; paciente padronizado treina gente. A habilidade completa 
 | **Erro técnico vs erro de segurança** | Mão/posição inadequada | Forçar dor, não consentir, não higienizar |
 | **Achado incerto vs inventado** | Verbaliza dúvida e plano | Declara positividade sem base |
 | **Fechamento bom vs fraco** | Feito, achado e pendência | "Acabou" sem síntese |
+
+### Frase-âncora para não esquecer
+
+> **OSCE bom é segurança, sequência e raciocínio verbalizado.**

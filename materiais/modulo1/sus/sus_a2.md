@@ -178,3 +178,7 @@ O ponto essencial é exclusão. O acesso não era direito de cidadania; era cond
 | **Caridade** vs **direito** | favor/oferta local vs dever público |
 
 Feche revisando a frase de prova: antes de 1988, acesso regular à assistência médica dependia fortemente de vínculo formal e contribuição; o SUS rompe essa lógica.
+
+### Frase-âncora para não esquecer
+
+> **Antes do SUS, acesso seguia vínculo e campanha; depois do SUS, saúde passa a ser direito de cidadania.**

@@ -1,0 +1,2647 @@
+{
+  "generatedAt": "2026-05-12T20:51:47.250Z",
+  "source": "data/agent_logs/ciclo_basico_audit.json",
+  "rules": [
+    "Rodada separada de imagens, depois da curadoria de material/questoes/cards.",
+    "BMF geralmente precisa de imagem anatomica, histologica ou fisiologica.",
+    "Prioridade: imagem existente/licenciada/Commons/atlas local.",
+    "Codex Image Generator so para esquema didatico indispensavel.",
+    "Sem imagem decorativa."
+  ],
+  "counts": {
+    "lessons": 263,
+    "bmfRequired": 78
+  },
+  "queue": [
+    {
+      "aula_id": "bmf1_a1",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Introdução ao Estudo da Anatomia Humana",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a2",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Introdução aos Tecidos Humanos",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a3",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Generalidades do Sistema Esquelético",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a4",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Tecido Conjuntivo — Células e Matriz",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a5",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Tecido Ósseo — Estrutura e Ossificação",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a6",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Ossos da Coluna, Membros Superiores e Inferiores",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a7",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Generalidades do Sistema Articular",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a8",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Tecido Cartilaginoso",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a9",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Articulações da Coluna e Membros",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a10",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Generalidades do Sistema Muscular",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a11",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Histologia do Tecido Muscular",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a12",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Fisiologia da Contração Muscular",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a13",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a14",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Tegumento — Tecido Epitelial de Revestimento",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a15",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Tegumento — Tecido Epitelial Glandular",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a16",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Histologia do Tegumento e Tecido Adiposo",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a17",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia da Boca, Língua, Glândulas Salivares e Faringe",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a18",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia da Parede Abdominal e Peritônio",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a19",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia dos Intestinos Delgado e Grosso",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a20",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Inervação e Vascularização Gastrointestinal",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a21",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia do Fígado, Vias Biliares e Pâncreas",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf1_a22",
+      "materia": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Sistema Digestório em Anatomia",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "pmh_a1",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a2",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Regulação Metabólica Geral",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a3",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Glicólise e Gliconeogênese",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a4",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Ciclo de Krebs e Fosforilação Oxidativa",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a5",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Metabolismo de Glicogênio e Via das Pentoses",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a6",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a7",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Beta-oxidação e Síntese de Ácidos Graxos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a8",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a9",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Aplicações Clínicas dos Lipídios",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a10",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Transaminação, Desaminação e Ciclo da Ureia",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a11",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a12",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Biossíntese e Degradação de Nucleotídeos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a13",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Integração Metabólica entre Órgãos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "pmh_a14",
+      "materia": "pmh",
+      "modulo": 1,
+      "tema": "Adaptações Metabólicas e Aplicações Clínicas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a1",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Fundamentos da Semiologia Musculoesquelética",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a2",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Anamnese Dirigida do Aparelho Locomotor",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a3",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Exame Físico — Inspeção",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a4",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Exame Físico — Palpação",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a5",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Testes de Mobilidade e Força Muscular",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a6",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Síndromes Musculoesqueléticas e Propedêutica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a7",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a8",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Prática Real — Ambulatório Supervisionado",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio1_a9",
+      "materia": "semiologia1",
+      "modulo": 1,
+      "tema": "Reunião Clínica — Casos Musculoesqueléticos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a1",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Processo Saúde-Doença e Determinantes Sociais",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a2",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Antecedentes Históricos do SUS — Período Colonial ao Regime Militar",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a3",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Antecedentes Históricos do SUS — Nova República e Reforma Sanitária",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a4",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "O SUS e as Leis Orgânicas da Saúde",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a5",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Pacto pela Vida",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a6",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Pacto pela Gestão — RAS e Regionalização",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a7",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Pacto em Defesa do SUS",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a8",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "PNAB e Estratégia Saúde da Família",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "sus_a9",
+      "materia": "sus",
+      "modulo": 1,
+      "tema": "Ferramentas de Abordagem Familiar e Comunitária",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "registered_or_pending_from_lesson",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a1",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Organização da Célula Eucariótica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a2",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Tampões Biológicos e Gasometria",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a3",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Organização Genômica e Estrutura Gênica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a4",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Sinalização Celular",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a5",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Replicação do DNA e PCR",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a6",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Transcrição e Controle da Expressão Gênica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a7",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Tradução de Proteínas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a8",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Controle da Expressão Gênica e Doenças",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a9",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Necrose vs Apoptose",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a10",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Ciclo Celular — p53 e Rb1",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a11",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Mutações, Agentes Mutagênicos e Reparo de DNA",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a12",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Biotecnologias e Bioinformática",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a13",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Genética Médica — Heredograma e Padrões de Herança",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a14",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Alterações Cromossômicas Numéricas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a15",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Alterações Cromossômicas Estruturais",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a16",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Distúrbios de Diferenciação Sexual",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a17",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Herança Ligada ao X — Dominante e Recessiva",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a18",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Herança Autossômica Recessiva 1",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a19",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a20",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Herança Autossômica Dominante",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bcm1_a21",
+      "materia": "bcm1",
+      "modulo": 2,
+      "tema": "Herança Poligênica e Bases Genéticas do Câncer",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bmf2_a1",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Potencial de Ação Cardíaco e Sistema de Condução",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a2",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Propriedades do Músculo Cardíaco",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a3",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Circulação Sistêmica e Pulmonar; Tipos de Vasos",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a4",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Câmaras, Valvas e Ciclo Cardíaco",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a5",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Histologia Cardíaca",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a6",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "ECG e Ciclo Cardíaco",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a7",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Débito Cardíaco e Lei de Starling",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a8",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Inervação do Coração e Regulação da Pressão Arterial",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a9",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Circulação Coronariana, Microcirculação e Linfática",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a10",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Anatomia da Caixa Torácica e Vias Aéreas",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a11",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Histologia do Sistema Respiratório",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a12",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Volumes, Capacidades e Mecânica Pulmonar",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a13",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Trocas Gasosas e Relação Ventilação/Perfusão",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a14",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Controle Central da Respiração",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a15",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Prática — Anatomia e Histologia Cardiovascular",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf2_a16",
+      "materia": "bmf2",
+      "modulo": 2,
+      "tema": "Prática — Anatomia e Histologia Respiratória",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "ds_a1",
+      "materia": "ds",
+      "modulo": 2,
+      "tema": "Desafios Socioambientais Globais e Saúde",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ds_a2",
+      "materia": "ds",
+      "modulo": 2,
+      "tema": "Sustentabilidade, ODS e Saúde nas Cidades",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ds_a3",
+      "materia": "ds",
+      "modulo": 2,
+      "tema": "Políticas Públicas Socioambientais e Saúde no Brasil",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a1",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "História da Epidemiologia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a2",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "HND e Níveis de Prevenção",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a3",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Transição Epidemiológica, Demogr��fica e Nutricional",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a4",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Indicadores Demográficos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a5",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Indicadores de Morbidade",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a6",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Indicadores de Mortalidade Geral e Específica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a7",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Indicadores de Mortalidade Materno-Infantil e Perinatal",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a8",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Sistemas de Informação em Saúde",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a9",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Bioestatística — Conceitos e Tipos de Variáveis",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a10",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Análise Descritiva — Tendência Central e Dispersão",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ind_a11",
+      "materia": "indicadores",
+      "modulo": 2,
+      "tema": "Análise Inferencial — Testes de Hipóteses",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a1",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Funções Básicas e Componentes do Sistema Imune",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a2",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Imunidade Inata",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a3",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Imunidade Adaptativa",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a4",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Inflamação Aguda e Crônica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a5",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Hemograma — Interpretação e Nomenclatura",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a6",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Imunização — Tipos de Vacinas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a7",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Imunodeficiências",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a8",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Tolerância Imunológica e Autoimunidade",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a9",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Transplantes e Transfusão Sanguínea",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a10",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Hipersensibilidades (Tipos I a IV)",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a11",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Estrutura e Metabolismo Bacteriano",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a12",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "ISTs Bacterianas — Treponema, Neisseria e Chlamydia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a13",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções Bacterianas do Sistema Tegumentar",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a14",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções Bacterianas do Sistema Urinário",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a15",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções por Gram-negativas e Mycobacterium tuberculosis",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a16",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções Respiratórias Virais",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a17",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções por Arbovírus",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a18",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Hepatites Virais (A, B, C, D, E)",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a19",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecção pelo HIV e AIDS",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a20",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções por Herpesvírus",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a21",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções Virais do SNC e Doenças Exantemáticas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a22",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Parasitoses — Protozoários (Chagas, Malária, Leishmaniose)",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a23",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Helmintíases e Cestoidoses",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad1_a24",
+      "materia": "mad1",
+      "modulo": 2,
+      "tema": "Infecções Fúngicas Sistêmicas e Superficiais",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a1",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Fundamentos da Semiologia Cardiorrespiratória",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a2",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Anamnese Cardiorrespiratória",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a3",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Exame Físico Cardiovascular",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a4",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Exame Físico Respiratório",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a5",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Interpretação de Achados e Síndromes Cardiorrespiratórias",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a6",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a7",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Prática Real — Ambulatório Supervisionado",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a8",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Reunião Clínica — Casos Cardiovasculares",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio2_a9",
+      "materia": "semiologia2",
+      "modulo": 2,
+      "tema": "Reunião Clínica — Casos Respiratórios",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bmf3_a1",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Anatomia do TGI Superior — Boca, Faringe, Esôfago e Estômago",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a2",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Anatomia do TGI Inferior — Intestinos Delgado e Grosso",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a3",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Anatomia dos Órgãos Acessórios — Fígado, Pâncreas e Vesícula Biliar",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a4",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Histologia do Esôfago e Estômago",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a5",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Histologia do Intestino Delgado e Grosso",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a6",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Histologia do Fígado, Pâncreas e Vesícula Biliar",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a7",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fisiologia da Motilidade e Regulação Hormonal Digestiva",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a8",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fisiologia das Secreções Digestivas",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a9",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fisiologia da Absorção de Nutrientes",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a10",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Anatomia dos Rins, Ureteres, Bexiga e Uretra",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a11",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Histologia do Néfron e Sistema Coletor",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a12",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fisiologia Renal — Filtração Glomerular e TFG",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a13",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fisiologia Renal — Reabsorção, Secreção e Equilíbrio Hidroeletrolítico",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a14",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fisiologia Renal — Equilíbrio Ácido-Básico",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a15",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Glândula Suprarrenal — Anatomia e Histologia",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a16",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Glândula Suprarrenal — Fisiologia do Córtex e da Medula",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a17",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Anatomia e Histologia do Sistema Reprodutor Masculino",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a18",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Anatomia e Histologia do Sistema Reprodutor Feminino",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a19",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Gametogênese — Espermatogênese e Ovogênese",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a20",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Ciclo Menstrual e Hormônios Sexuais",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a21",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Fertilização, Embriologia Inicial e Implantação",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf3_a22",
+      "materia": "bmf3",
+      "modulo": 3,
+      "tema": "Parto, Puerpério e Lactação",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "fp3_a1",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Patologia Geral — Lesão Celular e Morte Celular",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a2",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Distúrbios Hemodinâmicos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a3",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Princípios de Farmacoterapia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a4",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Farmacologia do SNA Simpático e Substâncias Vasoativas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a5",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Farmacologia do SNA Parassimpático",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a6",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Inflamação — Morfologia e Reparo Tecidual",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a7",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Anti-inflamatórios — AINEs e Corticoides",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a8",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Neoplasias — Carcinogênese, Disseminação e Estadiamento",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a9",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Farmacoterapia Antineoplásica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a10",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Patologia das Vias Urinárias e Glomerulopatias",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a11",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Patologias Endócrinas — Suprarrenal e Próstata",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a12",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Patologias do Sistema Reprodutor Feminino",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a13",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Patologia da Mama — Benigna e Maligna",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a14",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Farmacoterapia do Sistema Genitourinário Masculino",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "fp3_a15",
+      "materia": "fisiopato3",
+      "modulo": 3,
+      "tema": "Farmacoterapia do Sistema Genitourinário Feminino",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a1",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Imunodeficiências Primárias",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a2",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Tolerância Imunológica",
+      "image_policy": "judge_during_lesson",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a3",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Autoimunidade",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a4",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Transplantes e Transfusão Sanguínea",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a5",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "ISTs Bacterianas — Treponema, Neisseria, Chlamydia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a6",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Infecções Bacterianas do Tegumento e Hanseníase",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a7",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Doenças Exantemáticas Virais (Sarampo, Rubéola)",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a8",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Hepatites Virais (A a E)",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a9",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Infecção pelo HIV e AIDS",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a10",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Infecções por Herpesvírus",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a11",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Infecções Virais do SNC — Poliovírus",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a12",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Infecções por Arbovírus",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a13",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Protozooses — Malária, Chagas e Toxoplasmose",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a14",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Helmintíases — Nematódeos e Estrongiloidíase",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a15",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Cestoidoses — Teníase e Cisticercose",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a16",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Antibióticos — Inibidores de Síntese de Parede",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a17",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Antibióticos — Inibidores de Síntese Proteica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a18",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Antibióticos — Inibidores de Síntese de DNA e Antimetabólitos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a19",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Antivirais",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "mad2_a20",
+      "materia": "mad2",
+      "modulo": 3,
+      "tema": "Antiparasitários e Antifúngicos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a1",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "Vigilância em Saúde — Epidemiológica, Sanitária e Ambiental",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a2",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "Notificação Compulsória e Regulamento Sanitário Internacional",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a3",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "Política Nacional de Saúde do Trabalhador (PNSTT)",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a4",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "Legislação Trabalhista e Acidente de Trabalho",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a5",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "Normas Regulamentadoras (NR)",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a6",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "Doenças Ocupacionais — LER/DORT, Pneumoconioses e PAIR",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a7",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "DCNT e Saúde Mental no Trabalho",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "st_a8",
+      "materia": "saude_trabalhador",
+      "modulo": 3,
+      "tema": "ISTs e Sistemas de Informação em Saúde do Trabalhador",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio3_a1",
+      "materia": "semiologia3",
+      "modulo": 3,
+      "tema": "Revisão da Semiologia Abdominal — Anamnese",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio3_a2",
+      "materia": "semiologia3",
+      "modulo": 3,
+      "tema": "Revisão da Semiologia Abdominal — Exame Físico",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio3_a3",
+      "materia": "semiologia3",
+      "modulo": 3,
+      "tema": "Semiologia Renal — Anamnese e Exame Físico",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio3_a4",
+      "materia": "semiologia3",
+      "modulo": 3,
+      "tema": "Semiologia do Aparelho Reprodutor Masculino",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio3_a5",
+      "materia": "semiologia3",
+      "modulo": 3,
+      "tema": "Semiologia do Aparelho Reprodutor Feminino",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio3_a6",
+      "materia": "semiologia3",
+      "modulo": 3,
+      "tema": "Prática Simulada e Real — Aparelhos Renal e Reprodutor",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a1",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Aplicações e Definição de Bioestatística",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a2",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Tipos de Variáveis Estatísticas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a3",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Medidas de Tendência Central e Dispersão",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a4",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Definição da Amostra e Normalidade dos Dados",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a5",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Análise Inferencial — Testes de Hipóteses",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a6",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Pesquisas Qualitativas na Saúde",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a7",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Introdução à Epidemiologia Analítica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a8",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Estudo Transversal",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a9",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Estudo de Coorte",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a10",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Estudo Caso-Controle",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a11",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Estudo Ecológico",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bioe_a12",
+      "materia": "bioestatistica",
+      "modulo": 4,
+      "tema": "Ensaio Clínico Randomizado e Ensaio Comunitário",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "bmf4_a1",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Divisão do Sistema Nervoso — Anatômica e Funcional",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a2",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Embriologia do Sistema Nervoso",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a3",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Formação do Nervo Espinal",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a4",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Crânio e Fossas Cranianas",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a5",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Morfologia do Telencéfalo",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a6",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Córtex Cerebral — Citoarquitetura e Funções",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a7",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Morfologia do Diencéfalo",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a8",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Morfologia do Tronco Encefálico",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a9",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Morfologia do Cerebelo",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a10",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Morfologia da Medula Espinal",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a11",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Histologia do Sistema Nervoso — Neurônios e Glia",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a12",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Neurotransmissão e Fibra Nervosa",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a13",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Nervos Cranianos e Vias Descendentes",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a14",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Vascularização do SNC",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a15",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Meninges, Sistema Ventricular e Barreiras Encefálicas",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a16",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Sensibilidade Geral",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a17",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Órgãos dos Sentidos",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "bmf4_a18",
+      "materia": "bmf4",
+      "modulo": 4,
+      "tema": "Glândulas Endócrinas e Regulação Hormonal",
+      "image_policy": "required_bmf_image_round",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "BMF: deixar para rodada posterior de imagens anatomicas/histologicas/fisiologicas; nao bloquear questoes/cards."
+    },
+    {
+      "aula_id": "ff4_a1",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Patologia Geral — Lesão Celular e Distúrbios Circulatórios",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a2",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Princípios de Farmacoterapia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a3",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "AINEs, Corticoides e Antineoplásicos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a4",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Fisiopatologia das Doenças Cerebrovasculares",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a5",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Neoplasias Primárias do SNC",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a6",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Farmacologia do SNA — Simpático e Parassimpático",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a7",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Bloqueadores Neuromusculares e Opioides",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a8",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Anestésicos Locais e Gerais",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a9",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Psicofarmacologia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a10",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Fisiopatologia da Hipófise",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a11",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Fisiopatologia da Glândula Adrenal",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a12",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Fisiopatologia do Pâncreas Endócrino",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a13",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Hipoglicemiantes e Insulinas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "ff4_a14",
+      "materia": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Diagnósticos Diferenciais — Integração Clínica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a1",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Fundamentos da Semiologia Neurológica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a2",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Anamnese Neurológica",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a3",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Nível de Consciência e Nervos Cranianos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a4",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Exame Motor e Reflexos Tendíneos",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a5",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Exame Sensorial e Provas Cerebelares",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a6",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Funções Cognitivas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a7",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Síndromes Neurológicas Clínicas",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a8",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Propedêutica Complementar em Neurologia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a9",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    },
+    {
+      "aula_id": "semio4_a10",
+      "materia": "semiologia4",
+      "modulo": 4,
+      "tema": "Prática Real — Ambulatório de Neurologia",
+      "image_policy": "optional_only_if_adds_learning",
+      "current_catalog_entry": true,
+      "image_round_status": "pending_after_content_pass",
+      "note": "Julgar durante a aula; usar imagem apenas se melhorar aprendizagem."
+    }
+  ]
+}

@@ -172,3 +172,7 @@ Na hora de classificar prevenção, localize o tempo: antes da doença é primá
 | **DSS** vs **escolha individual** | contexto que molda risco vs decisão isolada |
 
 Feche revisando o raciocínio central: clínica boa no SUS não ignora contexto. Ela combina diagnóstico, prevenção, equidade e plano viável para o território.
+
+### Frase-âncora para não esquecer
+
+> **A doença aparece no corpo, mas nasce também no território; prevenção muda a linha, promoção muda o cenário.**

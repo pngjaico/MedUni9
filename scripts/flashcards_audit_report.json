@@ -1,0 +1,37 @@
+{
+  "total": 3888,
+  "noCloze": [],
+  "tooLongFrente": [
+    {
+      "id": 12562,
+      "len": 129
+    },
+    {
+      "id": 12568,
+      "len": 146
+    },
+    {
+      "id": 12580,
+      "len": 123
+    },
+    {
+      "id": 12625,
+      "len": 129
+    },
+    {
+      "id": 12705,
+      "len": 138
+    },
+    {
+      "id": 12820,
+      "len": 122
+    }
+  ],
+  "tooLongVerso": [],
+  "metalanguage": [
+    16120,
+    16578,
+    18372
+  ],
+  "emptyExplanations": []
+}

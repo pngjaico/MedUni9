@@ -147,3 +147,7 @@ O aluno forte protege o paciente de dois erros: perder urgência e pedir exame s
 | **Exame útil vs automático** | Muda conduta | Não responde pergunta clínica |
 | **Incerteza honesta vs falsa certeza** | Diz como confirmaria | Afirma sem base |
 | **Plano forte vs fraco** | Conduta, prazo e alarme | Conduta vaga sem retorno |
+
+### Frase-âncora para não esquecer
+
+> **Reunião clínica forte prioriza risco, hipótese e plano rastreável.**

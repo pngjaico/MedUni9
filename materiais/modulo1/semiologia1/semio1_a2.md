@@ -154,3 +154,7 @@ Leve para a prova uma sequência mental simples: **padrão da dor -> distribuiç
 | **Monoartrite vs poliartrite** | Uma articulação quente/dolorosa | Cinco ou mais articulações, muitas vezes sistêmico |
 | **Trauma agudo vs sobrecarga** | Estalo, queda, derrame precoce | Dor progressiva ligada a gesto repetido |
 | **Achado simples vs red flag** | Sem febre, sem déficit, função preservada | Febre, perda de peso, déficit, dor noturna ou incapacidade de apoio |
+
+### Frase-âncora para não esquecer
+
+> **OPQRST transforma dor em hipótese; red flag transforma hipótese em prioridade.**

@@ -385,3 +385,13 @@ O `## Mini Quiz` precisa seguir o padrao funcional do Modulo 5: pergunta numerad
 - Auditorias finais: `npm run validate:questoes` passou com 5072 questoes; `npm run audit:questoes` passou sem problemas estruturais; `npm run audit:essenciais:local` atualizou a heuristica para 419 suspeitas globais e 26 no Modulo 1, todas revisadas/registradas como falso positivo ou correcao aceita; `node scripts/audit_flashcards.cjs` ainda aponta dividas fora do Modulo 1 (`bmf2_a1` explicacoes vazias e metatextos globais em outros modulos).
 - `node scripts/generate_ciclo_basico_queue.mjs` regenerou a fila com 263 aulas, 54 prontas e 209 pendentes.
 - Pendencia externa ao fechamento: `npm run validate:materiais` ainda falha por materiais de Cirurgia Ortopedia e Tecnica Operatoria fora do Modulo 1, principalmente falta de `### Figura sugerida` e secoes apos `## Pre-Prova`.
+
+## Modulo 1 - fechamento textual aprovado - 2026-05-12
+
+- Checkpoint Git escopado antes do fechamento final: `117e0fc`.
+- Bloqueio global de materiais no Modulo 1 resolvido: `sus_a1`, `sus_a2`, `sus_a8`, `sus_a9` e `semio1_a1`-`semio1_a9` receberam `### Frase-ancora para nao esquecer` nos dois espelhos.
+- Relatorio atualizado em `data/agent_logs/modulo1_status_report_2026-05-12.md` / `.json`: 54/54 aulas limpas, 648 essenciais, 648 flashcards, 64 decisoes visuais, 26 suspeitas heuristicas no Modulo 1 com 0 pendentes apos triagem.
+- Validacao local completa: BMF1 22/22, PMH 14/14, SUS 9/9 e Semiologia1 9/9 passaram em `lint_ciclo_basico_v3` e `validate_ciclo_basico_aula`.
+- `npm run validate:materiais` ainda falha globalmente por 129 aulas fora do Modulo 1; filtro confirmou zero falhas de `bmf1`, `pmh`, `sus` e `semiologia1`.
+- Rodada visual separada: `data/agent_logs/modulo1_visual_round_queue_2026-05-12.json` com 64 slots, 63 sem URL, atraso padrao de 8 segundos entre itens e pausa de 30 segundos a cada 10 itens.
+- Proxima acao concreta: se o objetivo for pacote visual vendavel, iniciar pela fila visual de BMF1; nao mexer em questoes/cards/material textual do Modulo 1 salvo erro factual novo.

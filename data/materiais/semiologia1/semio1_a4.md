@@ -152,3 +152,7 @@ Grave os pontos de prova: linha articular do joelho, sinal da tecla, abaulamento
 | **Tendão vs bursa** | Dor no trajeto/inserção tendínea | Dor por compressão local/atrito |
 | **Cisto de Baker vs TVP** | Massa poplítea localizada | Edema de perna, dor difusa, risco vascular |
 | **Articular vs vascular** | Calor/derrame/dor articular | Pé frio, pulsos ausentes, isquemia |
+
+### Frase-âncora para não esquecer
+
+> **Palpe comparando e localizando; dor sem mapa vira chute.**

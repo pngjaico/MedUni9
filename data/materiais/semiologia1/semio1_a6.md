@@ -151,3 +151,7 @@ Se a síndrome for bem reconhecida, o próximo passo fica lógico: exame neurol�
 | **Séptica vs gota** | Febre, incapacidade, risco infeccioso | Podagra, crise súbita, gatilho alimentar |
 | **AR vs osteoartrite** | Simétrica, pequenas articulações, rigidez prolongada | Carga, rigidez curta, crepitação |
 | **Fibromialgia vs artrite** | Dor difusa, sono ruim, sem sinovite | Edema/calor articular objetivo |
+
+### Frase-âncora para não esquecer
+
+> **Nomear síndrome vem depois de excluir urgência.**

@@ -171,3 +171,7 @@ Se a banca mencionar autonomia, diálogo, Paulo Freire, troca de saberes ou cons
 | **Registro clínico** vs **curiosidade** | dado necessário ao cuidado vs exposição indevida |
 
 Feche revisando o essencial: essas ferramentas só valem quando mudam o cuidado. O desenho deve ajudar a equipe a entender risco, vínculo, apoio, barreira e plano possível.
+
+### Frase-âncora para não esquecer
+
+> **Genograma mostra família, ecomapa mostra rede; ferramenta boa vira plano, não desenho bonito.**

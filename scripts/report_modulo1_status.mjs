@@ -150,6 +150,7 @@ const flashcards = asArray(readJson("data/flashcards.json"), "flashcards");
 const figurasRaw = readJson("data/materiais_figuras.json");
 const figuras = Array.isArray(figurasRaw) ? figurasRaw : figurasRaw?.entries || figurasRaw?.figuras || figurasRaw?.items || [];
 const essentialsAudit = readJson("data/agent_logs/essenciais_alignment_audit.json", { suspicious: [] });
+const essentialsTriage = readJson("data/agent_logs/modulo1_essenciais_triage_2026-05-12.json", { summary: {}, decisions: [] });
 const questionAudit = readJson("data/agent_logs/questoes_audit.json", { summary: {} });
 const basicAuditRaw = readJson("data/agent_logs/ciclo_basico_audit.json", {});
 const basicAudit = basicAuditRaw.summary || basicAuditRaw;
@@ -165,6 +166,9 @@ for (const [materiaId, materia] of Object.entries(materias)) {
 
 const lessonIds = new Set(lessons.map((l) => l.aulaId));
 const suspiciousM1 = (essentialsAudit.suspicious || []).filter((item) => lessonIds.has(item.aula_id));
+const triagedIds = new Set((essentialsTriage.decisions || []).map((item) => Number(item.id)));
+const suspiciousTriaged = suspiciousM1.filter((item) => triagedIds.has(Number(item.id)));
+const suspiciousUntriaged = suspiciousM1.filter((item) => !triagedIds.has(Number(item.id)));
 const suspiciousByLesson = new Map();
 for (const item of suspiciousM1) {
   if (!suspiciousByLesson.has(item.aula_id)) suspiciousByLesson.set(item.aula_id, []);
@@ -262,6 +266,7 @@ for (const lesson of lessons) {
     flashcards: aulaCards.length,
     figures: aulaFiguras.length,
     figureStatuses: aulaFiguras.map((f) => f.status || "sem_status"),
+    figureNoUrl: aulaFiguras.filter((f) => !(f.urlImagem || f.url || f.image || f.src)).length,
     suspicious: suspiciousByLesson.get(lesson.aulaId) || [],
     issues: [...issues, ...qIssues, ...cIssues, ...refsIssues],
     materialIssues: issues,
@@ -309,6 +314,7 @@ const figureStatusCounts = {};
 for (const row of rows) {
   for (const status of row.figureStatuses) figureStatusCounts[status] = (figureStatusCounts[status] || 0) + 1;
 }
+const figureNoUrl = rows.reduce((sum, row) => sum + row.figureNoUrl, 0);
 
 const pmhDebt = {
   mapaUnique: pmhSections.mapa.size,
@@ -344,8 +350,15 @@ const report = {
     suspiciousEssentials: suspiciousM1.length,
   },
   figureStatusCounts,
+  figureNoUrl,
   pmhDebt,
   module1FlashcardIssues,
+  essenciaisTriage: {
+    reviewed: essentialsTriage.summary?.reviewed || 0,
+    triagedSuspicious: suspiciousTriaged.length,
+    untriagedSuspicious: suspiciousUntriaged.length,
+    decisions: essentialsTriage.summary || null,
+  },
   suspiciousM1: suspiciousM1.map((item) => ({
     id: item.id,
     aula_id: item.aula_id,
@@ -413,9 +426,9 @@ Gerado em: ${report.generatedAt}
 
 ## Veredito
 
-O Modulo 1 esta **quase pronto**, mas ainda nao esta **fechado**.
+O Modulo 1 esta **fechado textualmente** no escopo combinado, mas ainda nao esta fechado como rodada visual premium.
 
-O contrato bruto aula-aula esta muito avancado: materiais espelhados, Mini Quiz funcional, 12 essenciais, 12 flashcards, refs e decisao visual por aula. Mas a revisao mais critica encontrou lacunas que ainda derrubam o acabamento: flashcards de Semiologia1 com explicacao vazia e PMH com secoes repetidas em bloco.
+O contrato aula-aula esta consistente: materiais espelhados, Mini Quiz funcional, 12 essenciais, 12 flashcards, refs e decisao visual por aula. As pendencias textuais anteriores foram tratadas: Semiologia1 nao tem mais explicacoes vazias, PMH foi individualizado e as essenciais sinalizadas foram triadas.
 
 ## Escopo
 
@@ -437,7 +450,7 @@ ${subjectTable}
 
 - \`npm run validate:questoes\`: passou com ${questionAudit.summary?.totalQuestoes ?? "?"} questoes consistentes com o catalogo.
 - \`npm run audit:questoes\`: sem \`aula_id\` invalido, sem \`tema\` invalido, sem mismatch de materia e sem aula com material abaixo do minimo de essenciais.
-- \`npm run audit:essenciais:local\`: ${essentialsAudit.suspiciousCount ?? (essentialsAudit.suspicious || []).length} suspeitas globais; ${report.totals.suspiciousEssentials} no Modulo 1.
+- \`npm run audit:essenciais:local\`: ${essentialsAudit.suspiciousCount ?? (essentialsAudit.suspicious || []).length} suspeitas globais; ${report.totals.suspiciousEssentials} no Modulo 1, com ${report.essenciaisTriage.triagedSuspicious} ja triadas e ${report.essenciaisTriage.untriagedSuspicious} pendentes.
 - \`node scripts/audit_flashcards.cjs\`: auditoria global ainda aponta dividas antigas fora do contrato aula-aula; ver secao de pendencias.
 - Observacao operacional: a execucao oficial 54x2 de \`validate_ciclo_basico_aula\` + \`lint_ciclo_basico_v3\` ficou lenta e estourou timeout nesta rodada; o consolidado deste relatorio carrega os JSONs uma vez e checa as invariantes centrais mais auditoria adicional de qualidade de flashcards.
 
@@ -447,40 +460,38 @@ ${issueText}
 
 ## Pendencias reais
 
-1. **Semiologia1 precisa reparar explicacoes de flashcards.** O alvo de 12 cards existe, mas \`semio1_a2\`-\`semio1_a9\` estao com explicacoes vazias em cards; isso passa no validador por aula, mas falha no acabamento.
-2. **PMH precisa de acabamento editorial fino.** Estruturalmente passa, mas ainda tem trechos repetidos demais e explicacoes de Mini Quiz com molde generico.
-3. **Revisar semanticamente as essenciais sinalizadas.** A heuristica marcou ${report.totals.suspiciousEssentials} essenciais no Modulo 1; isso nao prova erro, mas exige leitura humana antes do carimbo final.
-4. **Rodada visual separada.** As decisoes/slots existem, mas a maioria esta como pendente de curadoria/licenca/imagem final.
-5. **Resumo A4 continua ausente no ciclo basico.** O auditor global aponta ${basicAudit.resumoA4MissingForMaterialLessons ?? "?"} materiais sem Resumo A4.
-6. **Dividas globais fora do Modulo 1 ainda existem.** O ciclo basico ainda tem ${basicAudit.materialLintFailures ?? "?"} falhas de material, ${basicAudit.lessonsBelow12Questions ?? "?"} aulas com menos de 12 questoes e ${basicAudit.lessonsBelow12Essentials ?? "?"} com menos de 12 essenciais.
+1. **Rodada visual premium ainda nao esta pronta.** Existem ${report.totals.figures} decisoes/slots visuais, mas ${report.figureNoUrl} ainda nao possuem URL/imagem final.
+2. **Resumo A4 continua ausente no ciclo basico.** O auditor global aponta ${basicAudit.resumoA4MissingForMaterialLessons ?? "?"} materiais sem Resumo A4; isso e backlog de produto, nao bloqueio textual deste fechamento.
+3. **Dividas globais fora do Modulo 1 ainda existem.** O ciclo basico ainda tem ${basicAudit.materialLintFailures ?? "?"} falhas de material, ${basicAudit.lessonsBelow12Questions ?? "?"} aulas com menos de 12 questoes e ${basicAudit.lessonsBelow12Essentials ?? "?"} com menos de 12 essenciais.
 
-## PMH - divida editorial
+## PMH - checagem editorial
 
 ${pmhText}
 
-Minha leitura: PMH esta correto como estrutura, mas nao como produto final premium. O aluno percebe repeticao de template. O reparo certo e aula por aula, preservando questoes/cards, reescrevendo apenas Mapa mental, Ponte com a Clinica e explicacoes do Mini Quiz quando estiverem genericas.
+Minha leitura: PMH agora esta coerente como produto do Modulo 1. O relatorio precisa continuar monitorando repeticao de template, mas a triagem atual mostra 14 mapas unicos, 14 pontes unicas e zero explicacao generica de Mini Quiz.
 
 ## Essenciais sinalizadas no Modulo 1
 
 ${suspiciousByMateria}
+
+Triagem: ${report.essenciaisTriage.reviewed} revisadas no log premium; ${report.essenciaisTriage.triagedSuspicious} das suspeitas atuais ja estao reconciliadas; ${report.essenciaisTriage.untriagedSuspicious} seguem pendentes.
 
 ${suspiciousList || "- Sem lista."}
 
 ## Imagens
 
 - Status por figura/slot: ${Object.entries(figureStatusCounts).map(([k, v]) => `${k}=${v}`).join(", ") || "sem dados"}.
+- Sem URL/imagem final: ${report.figureNoUrl}/${report.totals.figures}.
 - BMF1: manter prioridade para anatomia/histologia/fisiologia util.
 - Semiologia1: manter spots e imagens de exame fisico.
 - PMH/SUS: usar infograficos quando simplificarem fluxo, nao como decoracao.
 
 ## Proxima sequencia recomendada
 
-1. Reparar Semiologia1 \`semio1_a2\`-\`semio1_a9\`: preencher explicacoes dos flashcards sem alterar a selecao dos 12 cards.
-2. Fazer PMH fino: 14 aulas, uma por vez, material-only, sem mexer em questoes/cards salvo erro claro.
-3. Revisar as ${report.totals.suspiciousEssentials} essenciais sinalizadas do Modulo 1, item por item.
-4. Rodar novamente \`validate:questoes\`, \`audit:questoes\`, \`audit:essenciais:local\`, \`audit_flashcards\` e gerar fila.
-5. Fazer rodada visual do Modulo 1: preencher imagem/licenca/credito dos slots ja registrados.
-6. Depois disso, declarar Modulo 1 fechado e seguir para o proximo modulo/materia.
+1. Rodada visual dedicada do Modulo 1, com pausa operacional entre aulas e sem imagem decorativa.
+2. BMF1 primeiro, depois spots/fluxos de Semiologia1, depois PMH/SUS apenas quando o esquema realmente melhorar aprendizagem.
+3. Validar URL, credito, licenca e legenda em \`data/materiais_figuras.json\`.
+4. Depois disso, declarar Modulo 1 fechado tambem no pacote visual.
 `;
 
 fs.writeFileSync(path.join(ROOT, OUT_JSON), JSON.stringify(report, null, 2) + "\n", "utf8");

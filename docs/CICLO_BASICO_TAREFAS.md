@@ -20,6 +20,7 @@ Este arquivo e o quadro de bordo do ciclo basico. Atualize depois de cada bloco 
 - Modulo 3 - Semiologia3 em execucao: `semio3_a5` fechada no contrato de material/questoes/flashcards; 7 questoes antigas validas foram reaproveitadas e 5 lacunas reais foram criadas.
 - Modulo 3 - Semiologia3 fechada: 6/6 aulas com material espelhado, 12 essenciais, 12 flashcards e validadores locais OK; fila pode seguir amarela apenas por `sem Resumo A4`.
 - Modulo 3 - Fisiopato3 fechada: `fp3_a1`-`fp3_a15` com material espelhado, 12 essenciais, 12 flashcards, refs reais e slot de imagem registrado; fila pode seguir amarela apenas por `sem Resumo A4`.
+- Modulo 3 - Saude do Trabalhador fechada: `st_a1`-`st_a8` com material alinhado ao catálogo canônico, 12 essenciais, 12 flashcards, refs reais e slot de imagem registrado; fila pode seguir amarela apenas por `sem Resumo A4`.
 - Modulo 3 - MAD2 em execucao: revisao pesada registrada em `data/agent_logs/modulo3_mad2_review_plan.md`; `mad2_a1` fechada no contrato de material/questoes/flashcards; questoes contaminadas `311` e `2009` foram quarentenadas.
 - Modulo 3 - MAD2 em execucao: `mad2_a2` fechada no contrato de material/questoes/flashcards; 5 questoes antigas de escopo foram reescritas para remover formato template.
 - Modulo 3 - MAD2 em execucao: `mad2_a3` fechada no contrato de material/questoes/flashcards; 5 questoes antigas de escopo foram reescritas e 7 lacunas reais foram criadas.
@@ -163,6 +164,16 @@ Este arquivo e o quadro de bordo do ciclo basico. Atualize depois de cada bloco 
 - Depois do passe de conteudo: executar uma rodada dedicada apenas para preencher imagens, creditos, licencas e thumbnails.
 - Para outras materias: julgar aula por aula; imagem so entra se melhorar entendimento, nao para decorar.
 
+## Modulo 1 - fechamento textual aprovado - 2026-05-12
+
+- Escopo: `bmf1`, `pmh`, `sus`, `semiologia1`; `pe1` fora.
+- Aulas: 54/54 limpas no relatorio local e 54/54 passaram em `lint_ciclo_basico_v3` + `validate_ciclo_basico_aula`.
+- Essenciais: 648/648; 26 suspeitas restantes sao heuristica triada, com `essenciaisTriage.untriagedSuspicious=0`.
+- Flashcards: 648/648; sem explicacao vazia, metatexto ou frente longa no Modulo 1.
+- Materiais: zero falhas de Modulo 1 em `validate:materiais`; falhas globais restantes pertencem a outros modulos.
+- Rodada visual: ainda pendente; 64 slots/decisoes, 63 sem URL/imagem final. Fila: `data/agent_logs/modulo1_visual_round_queue_2026-05-12.json`.
+- Proxima acao concreta: executar rodada visual com atraso padrao de 8 segundos entre itens, com pausa de 30 segundos a cada 10 itens; BMF1 primeiro, depois Semiologia1, depois PMH/SUS quando houver ganho didatico real.
+
 ## A fazer - primeira onda
 
 Prioridade sugerida: escolher uma aula vermelha de alto impacto, concluir do inicio ao fim e usar como piloto do novo protocolo.
@@ -200,11 +211,11 @@ Prioridade sugerida: escolher uma aula vermelha de alto impacto, concluir do ini
 
 ### Modulo 3
 
-- [ ] BMF3 aula por aula.
+- [x] BMF3 aula por aula. 22/22 aulas fechadas no contrato v3 básico; validadores locais OK aula por aula.
 - [x] Fisiopato3 aula por aula. `fp3_a1`-`fp3_a15` fechadas no contrato v3 basico; 180/180 questoes essenciais, 180/180 flashcards, slots de imagem registrados e validadores locais OK aula por aula.
-- [ ] MAD2 aula por aula.
-- [ ] Saude do Trabalhador aula por aula.
-- [ ] Semiologia3 aula por aula.
+- [x] MAD2 aula por aula. 20/20 aulas fechadas no contrato v3 básico; validadores locais OK aula por aula.
+- [x] Saude do Trabalhador aula por aula. `st_a1`-`st_a8` fechadas no contrato v3 básico; 96/96 questões essenciais, 96/96 flashcards, slots de imagem registrados e validadores locais OK aula por aula.
+- [x] Semiologia3 aula por aula. 6/6 aulas fechadas no contrato v3 básico; validadores locais OK aula por aula.
 
 ### Modulo 4
 
@@ -3188,3 +3199,83 @@ Copiar e preencher apos cada aula trabalhada.
 - Validações previstas: `node scripts\lint_ciclo_basico_v3.mjs mad1_a24`; `node scripts\validate_ciclo_basico_aula.mjs mad1_a24`.
 
 <!-- MAD1_PREMIUM_PASS_END -->
+
+### st_a1 - Vigilância em Saúde - Epidemiológica, Sanitária e Ambiental
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11592`-`11603`.
+- Flashcards: 12/12 novos; IDs `16756`-`16767`.
+- Itens arquivados: 7 questões; 0 flashcards.
+- Imagem: `ST-A1-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a1` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a1` OK.
+
+### st_a2 - Notificação Compulsória e Regulamento Sanitário Internacional
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11604`-`11615`.
+- Flashcards: 12/12 novos; IDs `16768`-`16779`.
+- Itens arquivados: 6 questões; 0 flashcards.
+- Imagem: `ST-A2-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a2` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a2` OK.
+
+### st_a3 - Política Nacional de Saúde do Trabalhador (PNSTT)
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11616`-`11627`.
+- Flashcards: 12/12 novos; IDs `16780`-`16791`.
+- Itens arquivados: 7 questões; 0 flashcards.
+- Imagem: `ST-A3-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a3` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a3` OK.
+
+### st_a4 - Legislação Trabalhista e Acidente de Trabalho
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11628`-`11639`.
+- Flashcards: 12/12 novos; IDs `16792`-`16803`.
+- Itens arquivados: 6 questões; 0 flashcards.
+- Imagem: `ST-A4-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a4` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a4` OK.
+
+### st_a5 - Normas Regulamentadoras (NR)
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11640`-`11651`.
+- Flashcards: 12/12 novos; IDs `16804`-`16815`.
+- Itens arquivados: 6 questões; 0 flashcards.
+- Imagem: `ST-A5-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a5` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a5` OK.
+
+### st_a6 - Doenças Ocupacionais - LER/DORT, Pneumoconioses e PAIR
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11652`-`11663`.
+- Flashcards: 12/12 novos; IDs `16816`-`16827`.
+- Itens arquivados: 6 questões; 0 flashcards.
+- Imagem: `ST-A6-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a6` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a6` OK.
+
+### st_a7 - DCNT e Saúde Mental no Trabalho
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11664`-`11675`.
+- Flashcards: 12/12 novos; IDs `16828`-`16839`.
+- Itens arquivados: 18 questões; 12 flashcards.
+- Imagem: `ST-A7-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a7` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a7` OK.
+
+### st_a8 - ISTs e Sistemas de Informação em Saúde do Trabalhador
+
+- Status: fechada no contrato v3 básico.
+- Material: alinhado ao catálogo canônico, espelhado, Mini Quiz funcional, Pré-Prova e refs reais.
+- Questões essenciais: 12/12 novas; IDs `11676`-`11687`.
+- Flashcards: 12/12 novos; IDs `16840`-`16851`.
+- Itens arquivados: 17 questões; 12 flashcards.
+- Imagem: `ST-A8-F01` registrada para rodada posterior.
+- Validações rodadas: `node scripts\\lint_ciclo_basico_v3.mjs st_a8` OK; `node scripts\\validate_ciclo_basico_aula.mjs st_a8` OK.

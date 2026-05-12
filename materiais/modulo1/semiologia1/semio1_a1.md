@@ -174,3 +174,7 @@ Dor mecânica piora com uso; inflamatória tem rigidez matinal e melhora com mov
 | **MRC 3** vs **MRC 4** | sem resistência vs alguma resistência |
 
 Feche revisando: semiologia musculoesquelética não começa no teste especial. Começa com padrão de dor, inspeção cuidadosa, palpação dirigida, movimento comparado e rastreio de red flags.
+
+### Frase-âncora para não esquecer
+
+> **Primeiro padrão, origem e red flags; depois teste especial.**
