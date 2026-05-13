@@ -9,8 +9,19 @@
     "generate:essenciais:local": "node scripts/generate_essenciais_queue_local.mjs",
     "audit:essenciais:local": "node scripts/audit_essenciais_alignment_local.mjs",
     "trim:essenciais": "node scripts/trim_essenciais_excess.mjs",
+    "generate:curriculum": "node scripts/generate_curriculum_maps.mjs",
+    "validate:curriculum": "node scripts/validate_curriculum_maps.mjs",
     "validate:questoes": "node scripts/validate_questoes_consistency.mjs",
+    "generate:resumo-a4": "node scripts/generate_resumo_a4.mjs",
+    "validate:resumo-a4": "node scripts/validate_resumo_a4.mjs",
     "validate:materiais": "node scripts/validate_materiais_md.mjs",
+    "lint:modulo7": "python scripts/lint_material_v4.py --modulos 7 --markdown docs/RELATORIO_MODULO7_LINTER_V4.md",
+    "validate:modulo7": "node scripts/validate_modulo7_quality_contract.mjs",
+    "build:public": "node scripts/build_public_bundle.mjs",
+    "audit:hosting": "node scripts/audit_hosting_paths.mjs",
+    "audit:repo": "node scripts/audit_repo_structure.mjs",
+    "build:ai-index": "node scripts/build_ai_knowledge_index.mjs",
+    "check:ai-index": "node scripts/build_ai_knowledge_index.mjs --check",
     "restore:firestore-backup": "node scripts/restore-firestore-from-dump.mjs",
     "stripe:list-prices": "node scripts/list-stripe-prices.mjs",
     "deploy:functions": "firebase deploy --only functions"
@@ -19,8 +30,7 @@
     "firebase-admin": "^13.0.0"
   },
   "dependencies": {
-    "@google/genai": "^1.49.0",
-    "@google/generative-ai": "^0.24.1",
+    "@google/genai": "^2.0.1",
     "dotenv": "^17.4.2",
     "pdf-parse": "^2.4.5"
   }

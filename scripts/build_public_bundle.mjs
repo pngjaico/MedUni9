@@ -13,6 +13,8 @@ const PUBLIC = path.join(ROOT, "public");
 const ROOT_FILES = [
   "index.html",
   "comprar.html",
+  "landing.html",
+  "termos.html",
   "admin.html",
   "manifest.json",
   "sw.js",
@@ -21,26 +23,25 @@ const ROOT_FILES = [
   "mascote.webp",
   "mascote_small.webp",
   "mascote_transparent.png",
+  "mascote-auth.webp",
   "mascote.png",
 ];
 
 const INCLUDE_OPTIONAL_ASSETS = process.env.INCLUDE_OPTIONAL_ASSETS === "1";
 
-const MATERIAIS_MODULES = ["modulo1", "modulo2", "modulo3", "modulo4"];
-
-const ROOT_DIRS = INCLUDE_OPTIONAL_ASSETS ? ["figuras-materiais"] : [];
+const ROOT_DIRS = INCLUDE_OPTIONAL_ASSETS ? ["assets", "figuras-materiais"] : ["assets"];
 
 const DATA_FILES = [
   "materias.json",
   "flashcards.json",
   "questoes.json",
-  "questoes_ineditas.json",
   "questoes_antigas.json",
   "materiais_figuras.json",
   "to_instrumentais.json",
   "anatomia_atlas.json",
   "anatomia_revisao.json",
   "histologia_atlas.json",
+  "histologia_atlas_v2.json",
   "histologia_revisao.json",
   "anatomia_data.json",
   "histologia_data.json",
@@ -50,8 +51,8 @@ const DATA_FILES = [
 ];
 
 const DATA_DIRS = INCLUDE_OPTIONAL_ASSETS
-  ? ["instrumentais", "agent_logs", "histologia"]
-  : ["agent_logs", "histologia"];
+  ? ["curriculum", "instrumentais", "histologia", "resumos_a4", "materiais_figuras"]
+  : ["curriculum", "instrumentais", "histologia", "resumos_a4", "materiais_figuras"];
 
 function rmDirSafe(p) {
   if (fs.existsSync(p)) fs.rmSync(p, { recursive: true, force: true });
@@ -75,6 +76,37 @@ function copyDirIfExists(src, dst) {
   return true;
 }
 
+function writeFallbackFavicon(dst) {
+  const size = 16;
+  const pixelBytes = size * size * 4;
+  const maskBytes = Math.ceil(size / 32) * 4 * size;
+  const imageBytes = 40 + pixelBytes + maskBytes;
+  const buffer = Buffer.alloc(22 + imageBytes);
+
+  buffer.writeUInt16LE(0, 0);
+  buffer.writeUInt16LE(1, 2);
+  buffer.writeUInt16LE(1, 4);
+  buffer.writeUInt8(size, 6);
+  buffer.writeUInt8(size, 7);
+  buffer.writeUInt8(0, 8);
+  buffer.writeUInt8(0, 9);
+  buffer.writeUInt16LE(1, 10);
+  buffer.writeUInt16LE(32, 12);
+  buffer.writeUInt32LE(imageBytes, 14);
+  buffer.writeUInt32LE(22, 18);
+
+  const dib = 22;
+  buffer.writeUInt32LE(40, dib);
+  buffer.writeInt32LE(size, dib + 4);
+  buffer.writeInt32LE(size * 2, dib + 8);
+  buffer.writeUInt16LE(1, dib + 12);
+  buffer.writeUInt16LE(32, dib + 14);
+  buffer.writeUInt32LE(0, dib + 16);
+  buffer.writeUInt32LE(pixelBytes, dib + 20);
+
+  fs.writeFileSync(dst, buffer);
+}
+
 function main() {
   rmDirSafe(PUBLIC);
   ensureDir(PUBLIC);
@@ -92,8 +124,16 @@ function main() {
   const materiaisBase = path.join(ROOT, "materiais");
   const materiaisOut = path.join(PUBLIC, "materiais");
   ensureDir(materiaisOut);
-  for (const moduloDir of MATERIAIS_MODULES) {
-    if (copyDirIfExists(path.join(materiaisBase, moduloDir), path.join(materiaisOut, moduloDir))) copiedDirs++;
+  if (fs.existsSync(materiaisBase)) {
+    const moduloDirs = fs
+      .readdirSync(materiaisBase, { withFileTypes: true })
+      .filter((entry) => entry.isDirectory() && /^modulo\d+$/i.test(entry.name))
+      .map((entry) => entry.name)
+      .sort((a, b) => Number(a.replace(/\D/g, "")) - Number(b.replace(/\D/g, "")));
+
+    for (const moduloDir of moduloDirs) {
+      if (copyDirIfExists(path.join(materiaisBase, moduloDir), path.join(materiaisOut, moduloDir))) copiedDirs++;
+    }
   }
 
   const dataOut = path.join(PUBLIC, "data");
@@ -104,6 +144,9 @@ function main() {
   for (const d of DATA_DIRS) {
     if (copyDirIfExists(path.join(ROOT, "data", d), path.join(dataOut, d))) copiedDirs++;
   }
+
+  writeFallbackFavicon(path.join(PUBLIC, "favicon.ico"));
+  copiedFiles++;
 
   console.log(
     JSON.stringify(

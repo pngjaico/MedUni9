@@ -75,25 +75,31 @@ service cloud.firestore {
       allow update: if isAdmin() || (
         request.auth != null &&
         request.auth.uid == userId &&
-        isSafeSelfUserUpdate()
+        (isSafeSelfUserUpdate() || isSafeSelfProfileCompletion())
       );
       allow delete: if false;
     }
 
     // User session telemetry (device + network signal, alert-only mode)
+    // Escrita normal deve passar por Cloud Function/Admin SDK para evitar fraude de evidencias.
     match /users/{userId}/sessions/{sessionId} {
       allow read: if (request.auth != null && request.auth.uid == userId) || isAdmin();
-      allow create, update: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow create, update: if isAdmin();
       allow delete: if false;
+    }
+
+    // Cronograma de estudos do usuario. O app escreve apenas dentro do proprio UID.
+    match /users/{userId}/study_schedule/{scheduleId} {
+      allow read: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow create, update: if (
+        (request.auth != null && request.auth.uid == userId) || isAdmin()
+      ) && isValidStudySchedule();
+      allow delete: if (request.auth != null && request.auth.uid == userId) || isAdmin();
     }
 
     // Security events feed used by admin security panel
     match /security_events/{eventId} {
-      allow create: if isAdmin() || (
-        request.auth != null &&
-        request.resource.data.uid == request.auth.uid &&
-        request.resource.data.keys().hasAll(['uid', 'type', 'riskLevel', 'createdAt'])
-      );
+      allow create: if isAdmin();
       allow read: if isAdmin() || (
         request.auth != null &&
         resource.data.uid == request.auth.uid
@@ -133,9 +139,34 @@ service cloud.firestore {
       allow create, update, delete: if isAdmin();
     }
 
+    match /account_enforcement/{userId} {
+      allow read: if isAdmin();
+      allow create, update, delete: if isAdmin();
+      match /events/{eventId} {
+        allow read: if isAdmin();
+        allow create, update, delete: if isAdmin();
+      }
+    }
+
     // Sobreposição de materiais .md (Hosting estático + Firestore para admin)
     match /material_overrides/{docId} {
       allow read: if request.auth != null;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Renderizacoes rastreaveis de Resumo A4.
+    // Escrita ocorre apenas via Cloud Function/Admin SDK; cliente pode ler o proprio rastro.
+    match /summary_renders/{traceId} {
+      allow read: if isAdmin() || (
+        request.auth != null &&
+        resource.data.uid == request.auth.uid
+      );
+      allow create, update, delete: if false;
+    }
+
+    // Templates confirmados de cronograma por turma. Escrita normal ocorre via Cloud Function/Admin SDK.
+    match /schedule_templates/{templateId} {
+      allow read: if isAdmin() || (request.auth != null && canReadScheduleTemplate());
       allow create, update, delete: if isAdmin();
     }
   }
@@ -172,13 +203,17 @@ service cloud.firestore {
   // D0 hardening: cliente autenticado nao pode auto-elevar plano/modulosAcesso.
   function isSafeSelfUserCreate() {
     let d = request.resource.data;
-    return d.email is string &&
+    return d.keys().hasOnly(selfCreateUserKeys()) &&
+           d.email is string &&
            d.plano is string && d.plano in ['basico', 'gratuito', 'trial'] &&
            d.semestre is number && d.semestre >= 1 && d.semestre <= 6 &&
+           (!('accountStatus' in d) || d.accountStatus == 'active') &&
            (
-             !('modulosAcesso' in d) ||
-             d.modulosAcesso == null ||
-             (d.modulosAcesso is list && d.modulosAcesso.size() <= 1 && d.modulosAcesso[0] == 1)
+             (
+               d.plano in ['gratuito', 'trial'] &&
+               (!('modulosAcesso' in d) || d.modulosAcesso == null)
+             ) ||
+             (d.modulosAcesso is list && d.modulosAcesso.size() == 1 && d.modulosAcesso[0] == 1)
            ) &&
            (
              !('maxDispositivos' in d) ||
@@ -187,14 +222,122 @@ service cloud.firestore {
   }
 
   function isSafeSelfUserUpdate() {
+    let changed = request.resource.data.diff(resource.data).affectedKeys();
     return resource != null &&
-           request.resource.data.plano == resource.data.plano &&
-           request.resource.data.modulosAcesso == resource.data.modulosAcesso &&
-           request.resource.data.maxDispositivos == resource.data.maxDispositivos &&
-           request.resource.data.accessSource == resource.data.accessSource &&
-           request.resource.data.emailGrantId == resource.data.emailGrantId &&
-           request.resource.data.semestre == resource.data.semestre &&
-           request.resource.data.modulo == resource.data.modulo;
+           changed.hasOnly(selfMutableUserKeys()) &&
+           isSafeTelemetryFields();
+  }
+
+  function isSafeSelfProfileCompletion() {
+    return resource != null &&
+           !('plano' in resource.data) &&
+           request.resource.data.keys().hasOnly(selfCreateUserKeys()) &&
+           request.resource.data.termsVersionAccepted == resource.data.termsVersionAccepted &&
+           request.resource.data.termsAcceptedAt == resource.data.termsAcceptedAt &&
+           request.resource.data.privacyAcceptedAt == resource.data.privacyAcceptedAt &&
+           isSafeSelfUserCreate();
+  }
+
+  function selfCreateUserKeys() {
+    return [
+      'email',
+      'plano',
+      'semestre',
+      'modulo',
+      'faculdadeId',
+      'faculdadeNome',
+      'campusId',
+      'campusNome',
+      'codeHash',
+      'modulosAcesso',
+      'deviceId',
+      'deviceIds',
+      'sessionToken',
+      'maxDispositivos',
+      'accessSource',
+      'emailGrantId',
+      'criadoEm',
+      'loginDate',
+      'lastSeenAt',
+      'lastSeenUa',
+      'termsVersionAccepted',
+      'termsAcceptedAt',
+      'privacyAcceptedAt',
+      'termsEvidence',
+      'accountStatus',
+      'updatedAt'
+    ];
+  }
+
+  function selfMutableUserKeys() {
+    return [
+      'deviceId',
+      'deviceIds',
+      'sessionToken',
+      'loginDate',
+      'lastSeenAt',
+      'lastSeenUa',
+      'updatedAt'
+    ];
+  }
+
+  function isSafeTelemetryFields() {
+    let d = request.resource.data;
+    return (!('deviceId' in d) || d.deviceId is string) &&
+           (!('deviceIds' in d) || (d.deviceIds is list && d.deviceIds.size() <= 5)) &&
+           (!('sessionToken' in d) || d.sessionToken is string) &&
+           (!('loginDate' in d) || d.loginDate is string) &&
+           (!('lastSeenAt' in d) || d.lastSeenAt is string) &&
+           (!('lastSeenUa' in d) || (d.lastSeenUa is string && d.lastSeenUa.size() <= 200));
+  }
+
+  function isValidStudySchedule() {
+    let d = request.resource.data;
+    return d.keys().hasOnly([
+             'timezone',
+             'module',
+             'room',
+             'dailyTarget',
+             'examDates',
+             'p1LessonsByMateria',
+             'p2LessonsByMateria',
+             'manualItems',
+             'completedItems',
+             'source',
+             'generatedAt',
+             'updatedAt'
+           ]) &&
+           d.timezone is string &&
+           d.timezone.size() <= 40 &&
+           d.module is number &&
+           d.module >= 1 &&
+           d.module <= 12 &&
+           d.room is string &&
+           d.room.size() <= 2 &&
+           d.dailyTarget is number &&
+           d.dailyTarget >= 1 &&
+           d.dailyTarget <= 12 &&
+           d.examDates is map &&
+           d.p1LessonsByMateria is map &&
+           d.p2LessonsByMateria is map &&
+           d.manualItems is list &&
+           d.manualItems.size() <= 120 &&
+           d.completedItems is list &&
+           d.completedItems.size() <= 1000 &&
+           d.source is string &&
+           d.source in ['manual', 'ai_draft', 'template'] &&
+           d.updatedAt is string;
+  }
+
+  function canReadScheduleTemplate() {
+    let userDoc = get(/databases/$(database)/documents/users/$(request.auth.uid));
+    return userDoc.data.faculdadeId == resource.data.facultyId &&
+           userDoc.data.campusId == resource.data.campusId &&
+           (
+             userDoc.data.modulo == resource.data.module ||
+             userDoc.data.semestre == resource.data.module ||
+             (userDoc.data.modulosAcesso is list && resource.data.module in userDoc.data.modulosAcesso)
+           );
   }
 
   function isValidTipo() {

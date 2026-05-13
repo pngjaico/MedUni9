@@ -1,0 +1,1322 @@
+{
+  "version": 1,
+  "source": "data/medical_glossary.json",
+  "entries": [
+    {
+      "id": "gastric_linitis_plastica",
+      "term": "Linite plastica",
+      "aliases": [
+        "linite plastica",
+        "limite plastica",
+        "linitis plastica",
+        "carcinoma gastrico difuso",
+        "estomago em garrafa de couro"
+      ],
+      "area": "gastroenterologia_oncologia",
+      "definition": "Padrao infiltrativo difuso do cancer gastrico, classico do adenocarcinoma tipo difuso, com parede gastrica rigida e pouco distensivel.",
+      "teaching": "Se o aluno escreveu limite plastica, a correcao provavel e linite plastica. Em prova, associe a carcinoma difuso, celulas em anel de sinete e estomago em garrafa de couro.",
+      "redFlags": [
+        "perda ponderal",
+        "saciedade precoce",
+        "disfagia progressiva",
+        "vomitos persistentes"
+      ]
+    },
+    {
+      "id": "gastric_adenocarcinoma",
+      "term": "Adenocarcinoma gastrico",
+      "aliases": [
+        "cancer gastrico",
+        "neoplasia gastrica",
+        "tumor de estomago",
+        "adenocarcinoma do estomago"
+      ],
+      "area": "gastroenterologia_oncologia",
+      "definition": "Neoplasia maligna epitelial do estomago, com formas intestinal e difusa.",
+      "teaching": "A forma intestinal se associa a gastrite cronica, metaplasia e H. pylori; a difusa pode cursar com linite plastica.",
+      "redFlags": [
+        "anemia ferropriva",
+        "perda de peso",
+        "melena",
+        "vomitos progressivos"
+      ]
+    },
+    {
+      "id": "gerd",
+      "term": "Doenca do refluxo gastroesofagico",
+      "aliases": [
+        "drge",
+        "refluxo gastroesofagico",
+        "pirose",
+        "regurgitacao acida"
+      ],
+      "area": "gastroenterologia",
+      "definition": "Sintomas ou lesoes causados pelo retorno do conteudo gastrico ao esofago.",
+      "teaching": "Pirose e regurgitacao tipicas orientam o diagnostico; disfagia, perda de peso e sangramento pedem investigacao.",
+      "redFlags": [
+        "disfagia",
+        "odinofagia",
+        "perda ponderal",
+        "sangramento digestivo"
+      ]
+    },
+    {
+      "id": "peptic_ulcer",
+      "term": "Ulcera peptica",
+      "aliases": [
+        "ulcera gastrica",
+        "ulcera duodenal",
+        "doenca ulcerosa peptica",
+        "dor epigastrica ulcerosa"
+      ],
+      "area": "gastroenterologia",
+      "definition": "Solucao de continuidade em mucosa gastrica ou duodenal por agressao acido-peptica.",
+      "teaching": "H. pylori e AINEs sao os eixos de prova. Complicacoes principais: sangramento, perfuracao e obstrucao.",
+      "redFlags": [
+        "hematemese",
+        "melena",
+        "abdome em tabua",
+        "sincope"
+      ]
+    },
+    {
+      "id": "acute_pancreatitis",
+      "term": "Pancreatite aguda",
+      "aliases": [
+        "pancreatite",
+        "dor epigastrica irradiada para dorso",
+        "lipase elevada"
+      ],
+      "area": "gastroenterologia_emergencia",
+      "definition": "Inflamacao aguda do pancreas, geralmente por litiases biliares ou alcool, com dor epigastrica e enzimas pancreaticas elevadas.",
+      "teaching": "Diagnostico exige dois de tres: dor tipica, lipase/amilase elevadas e imagem compativel. Gravidade depende de falencia organica e complicacoes.",
+      "redFlags": [
+        "hipotensao",
+        "hipoxemia",
+        "confusao",
+        "oliguria"
+      ]
+    },
+    {
+      "id": "acute_cholangitis",
+      "term": "Colangite aguda",
+      "aliases": [
+        "colangite",
+        "triade de charcot",
+        "pentade de reynolds",
+        "infeccao das vias biliares"
+      ],
+      "area": "gastroenterologia_emergencia",
+      "definition": "Infeccao bacteriana da via biliar obstruida, geralmente por coledocolitiase.",
+      "teaching": "Triade de Charcot: febre, dor em hipocondrio direito e ictericia. Hipotensao e confusao sugerem gravidade.",
+      "redFlags": [
+        "hipotensao",
+        "confusao",
+        "ictericia progressiva",
+        "sepse"
+      ]
+    },
+    {
+      "id": "appendicitis",
+      "term": "Apendicite aguda",
+      "aliases": [
+        "apendicite",
+        "dor em fossa iliaca direita",
+        "sinal de blumberg",
+        "dor migratoria"
+      ],
+      "area": "cirurgia_emergencia",
+      "definition": "Inflamacao aguda do apendice, tipicamente por obstrucao luminal.",
+      "teaching": "Dor periumbilical que migra para fossa iliaca direita, anorexia, nauseas e defesa local formam o roteiro classico.",
+      "redFlags": [
+        "peritonite",
+        "febre alta",
+        "sepse",
+        "massa palpavel"
+      ]
+    },
+    {
+      "id": "bowel_obstruction",
+      "term": "Obstrucao intestinal",
+      "aliases": [
+        "obstrucao intestinal",
+        "abdome distendido",
+        "parada de eliminacao de gases",
+        "vomitos fecaloides"
+      ],
+      "area": "cirurgia_emergencia",
+      "definition": "Interrupcao mecanica ou funcional do transito intestinal.",
+      "teaching": "Dor em colica, distensao, vomitos e parada de gases/fezes sugerem obstrucao. Estrangulamento muda prioridade.",
+      "redFlags": [
+        "dor continua intensa",
+        "febre",
+        "taquicardia",
+        "acidose lactica"
+      ]
+    },
+    {
+      "id": "upper_gi_bleeding",
+      "term": "Hemorragia digestiva alta",
+      "aliases": [
+        "hda",
+        "hematemese",
+        "melena",
+        "sangramento digestivo alto"
+      ],
+      "area": "gastroenterologia_emergencia",
+      "definition": "Sangramento proximal ao ligamento de Treitz, manifesto por hematemese, melena ou instabilidade.",
+      "teaching": "Prioridade inicial e estabilidade hemodinamica; varizes e ulcera peptica mudam conduta especifica.",
+      "redFlags": [
+        "choque",
+        "hematemese volumosa",
+        "rebaixamento",
+        "cirrose"
+      ]
+    },
+    {
+      "id": "acute_coronary_syndrome",
+      "term": "Sindrome coronariana aguda",
+      "aliases": [
+        "sca",
+        "infarto",
+        "iam",
+        "angina instavel",
+        "dor toracica isquemica"
+      ],
+      "area": "cardiologia_emergencia",
+      "definition": "Espectro de isquemia miocardica aguda por reducao abrupta do fluxo coronariano.",
+      "teaching": "ECG precoce separa supra de ST. Troponina ajuda a diferenciar infarto de angina instavel.",
+      "redFlags": [
+        "dor toracica com sudorese",
+        "dispneia",
+        "sincope",
+        "instabilidade hemodinamica"
+      ]
+    },
+    {
+      "id": "heart_failure",
+      "term": "Insuficiencia cardiaca",
+      "aliases": [
+        "ic",
+        "congestao pulmonar",
+        "edema agudo de pulmao",
+        "ortopneia"
+      ],
+      "area": "cardiologia",
+      "definition": "Sindrome em que o coracao nao supre demanda circulatoria ou so o faz com pressoes elevadas.",
+      "teaching": "Dispneia, ortopneia, edema e turgencia jugular apontam congestao. Fração de ejecao classifica fenotipos.",
+      "redFlags": [
+        "edema agudo de pulmao",
+        "hipotensao",
+        "hipoxemia",
+        "confusao"
+      ]
+    },
+    {
+      "id": "atrial_fibrillation",
+      "term": "Fibrilacao atrial",
+      "aliases": [
+        "fa",
+        "fibrilacao atrial",
+        "ritmo irregularmente irregular",
+        "arritmia atrial"
+      ],
+      "area": "cardiologia",
+      "definition": "Taquiarritmia supraventricular com atividade atrial desorganizada e resposta ventricular irregular.",
+      "teaching": "O raciocinio envolve estabilidade, controle de frequencia/ritmo e risco tromboembolico.",
+      "redFlags": [
+        "hipotensao",
+        "dor toracica",
+        "edema agudo de pulmao",
+        "sincope"
+      ]
+    },
+    {
+      "id": "infective_endocarditis",
+      "term": "Endocardite infecciosa",
+      "aliases": [
+        "endocardite",
+        "vegetacao valvar",
+        "sopro novo febre",
+        "criterios de duke"
+      ],
+      "area": "cardiologia_infectologia",
+      "definition": "Infeccao do endocardio, geralmente valvar, com bacteremia persistente e risco embolico.",
+      "teaching": "Febre, sopro novo, hemoculturas positivas e vegetacao no eco sao nucleos do diagnostico.",
+      "redFlags": [
+        "deficit neurologico",
+        "insuficiencia cardiaca",
+        "bloqueio atrioventricular",
+        "sepse"
+      ]
+    },
+    {
+      "id": "hypertensive_emergency",
+      "term": "Emergencia hipertensiva",
+      "aliases": [
+        "emergencia hipertensiva",
+        "crise hipertensiva com lesao de orgao alvo",
+        "pressao alta com lesao alvo"
+      ],
+      "area": "cardiologia_emergencia",
+      "definition": "Elevacao pressorica grave acompanhada de lesao aguda de orgao alvo.",
+      "teaching": "O numero da pressao isolado nao define emergencia; o que define e lesao aguda como EAP, AVC, encefalopatia ou dissecao.",
+      "redFlags": [
+        "dor toracica",
+        "dispneia",
+        "deficit neurologico",
+        "confusao"
+      ]
+    },
+    {
+      "id": "deep_vein_thrombosis",
+      "term": "Trombose venosa profunda",
+      "aliases": [
+        "tvp",
+        "trombose venosa",
+        "panturrilha inchada",
+        "edema unilateral de perna"
+      ],
+      "area": "vascular",
+      "definition": "Trombose em veias profundas, principalmente de membros inferiores.",
+      "teaching": "Edema unilateral, dor e fatores de risco aumentam probabilidade. O risco principal e embolia pulmonar.",
+      "redFlags": [
+        "dispneia subita",
+        "dor toracica pleuritica",
+        "hemoptise",
+        "sincope"
+      ]
+    },
+    {
+      "id": "pulmonary_embolism",
+      "term": "Tromboembolismo pulmonar",
+      "aliases": [
+        "tep",
+        "embolia pulmonar",
+        "dispneia subita",
+        "dor pleuritica"
+      ],
+      "area": "pneumologia_vascular_emergencia",
+      "definition": "Obstrucao arterial pulmonar por embolo, geralmente trombo venoso.",
+      "teaching": "Dispneia subita, dor pleuritica, taquicardia e fatores de risco chamam TEP. Instabilidade muda prioridade.",
+      "redFlags": [
+        "hipotensao",
+        "sincope",
+        "hipoxemia",
+        "taquicardia persistente"
+      ]
+    },
+    {
+      "id": "pneumonia",
+      "term": "Pneumonia",
+      "aliases": [
+        "pneumonia",
+        "infeccao pulmonar",
+        "tosse febre infiltrado",
+        "consolidacao pulmonar"
+      ],
+      "area": "pneumologia_infectologia",
+      "definition": "Infeccao do parenquima pulmonar, com sintomas respiratorios e infiltrado radiologico.",
+      "teaching": "Gravidade, comorbidades e local de aquisicao orientam abordagem. Saturacao e sinais sistemicos pesam muito.",
+      "redFlags": [
+        "hipoxemia",
+        "confusao",
+        "hipotensao",
+        "sepse"
+      ]
+    },
+    {
+      "id": "asthma_exacerbation",
+      "term": "Exacerbacao de asma",
+      "aliases": [
+        "crise de asma",
+        "broncoespasmo",
+        "sibilancia",
+        "asma aguda"
+      ],
+      "area": "pneumologia_emergencia",
+      "definition": "Piora aguda de obstrucao reversivel das vias aereas.",
+      "teaching": "Sibilancia pode desaparecer em crise muito grave. Fala entrecortada e uso de musculatura acessoria indicam gravidade.",
+      "redFlags": [
+        "silencio auscultatorio",
+        "exaustao",
+        "cianose",
+        "rebaixamento"
+      ]
+    },
+    {
+      "id": "copd_exacerbation",
+      "term": "Exacerbacao de DPOC",
+      "aliases": [
+        "dpoc exacerbada",
+        "exacerbacao de dpoc",
+        "piora da dpoc",
+        "bronquite cronica exacerbada"
+      ],
+      "area": "pneumologia",
+      "definition": "Piora aguda de dispneia, tosse e/ou escarro em paciente com DPOC.",
+      "teaching": "Aumento de purulencia, volume de escarro e dispneia orienta infeccao. Retencao de CO2 exige cuidado.",
+      "redFlags": [
+        "sonolencia",
+        "acidose respiratoria",
+        "hipoxemia grave",
+        "exaustao"
+      ]
+    },
+    {
+      "id": "pneumothorax",
+      "term": "Pneumotorax",
+      "aliases": [
+        "pneumotorax",
+        "colapso pulmonar",
+        "dor toracica subita",
+        "hipertensivo"
+      ],
+      "area": "pneumologia_emergencia",
+      "definition": "Ar no espaco pleural causando colapso parcial ou total do pulmao.",
+      "teaching": "Dor pleuritica e dispneia subitas sao tipicas. Hipotensao e desvio traqueal sugerem pneumotorax hipertensivo.",
+      "redFlags": [
+        "hipotensao",
+        "desvio traqueal",
+        "turgencia jugular",
+        "hipoxemia"
+      ]
+    },
+    {
+      "id": "tuberculosis",
+      "term": "Tuberculose",
+      "aliases": [
+        "tb",
+        "tuberculose pulmonar",
+        "tosse cronica",
+        "bacilo de koch"
+      ],
+      "area": "pneumologia_infectologia",
+      "definition": "Infeccao por Mycobacterium tuberculosis, mais frequentemente pulmonar.",
+      "teaching": "Tosse por semanas, febre vespertina, sudorese noturna e perda de peso sao pistas classicas.",
+      "redFlags": [
+        "hemoptise",
+        "dispneia importante",
+        "imunossupressao",
+        "meningite tuberculosa"
+      ]
+    },
+    {
+      "id": "sepsis",
+      "term": "Sepse",
+      "aliases": [
+        "sepse",
+        "sepsis",
+        "infeccao com disfuncao organica",
+        "qsofa"
+      ],
+      "area": "infectologia_emergencia",
+      "definition": "Disfuncao organica potencialmente fatal causada por resposta desregulada a infeccao.",
+      "teaching": "Nao e sinonimo de febre. Hipotensao, rebaixamento, lactato alto e oliguria apontam disfuncao.",
+      "redFlags": [
+        "hipotensao",
+        "lactato elevado",
+        "oliguria",
+        "confusao"
+      ]
+    },
+    {
+      "id": "septic_shock",
+      "term": "Choque septico",
+      "aliases": [
+        "choque septico",
+        "sepse com choque",
+        "vasopressor lactato",
+        "hipotensao infecciosa"
+      ],
+      "area": "infectologia_emergencia",
+      "definition": "Subtipo de sepse com anormalidade circulatoria/metabolica e maior mortalidade.",
+      "teaching": "Pense em sepse com hipotensao persistente e hipoperfusao apesar de ressuscitacao inicial.",
+      "redFlags": [
+        "necessidade de vasopressor",
+        "lactato alto",
+        "pele moteada",
+        "oliguria"
+      ]
+    },
+    {
+      "id": "meningitis",
+      "term": "Meningite",
+      "aliases": [
+        "meningite",
+        "rigidez de nuca",
+        "febre cefaleia rigidez",
+        "liquor meningite"
+      ],
+      "area": "neurologia_infectologia_emergencia",
+      "definition": "Inflamacao das meninges, infecciosa ou nao, com risco neurologico agudo.",
+      "teaching": "Febre, cefaleia, rigidez de nuca e alteracao mental pedem urgencia. Purpura sugere meningococcemia.",
+      "redFlags": [
+        "rebaixamento",
+        "convulsao",
+        "purpura",
+        "deficit focal"
+      ]
+    },
+    {
+      "id": "stroke",
+      "term": "Acidente vascular cerebral",
+      "aliases": [
+        "avc",
+        "ave",
+        "derrame",
+        "deficit neurologico focal",
+        "isquemia cerebral"
+      ],
+      "area": "neurologia_emergencia",
+      "definition": "Deficit neurologico agudo por isquemia ou hemorragia cerebral.",
+      "teaching": "Tempo de inicio e exame neurologico mandam. Hipoglicemia deve ser lembrada como imitador.",
+      "redFlags": [
+        "afasia",
+        "hemiparesia",
+        "desvio de rima",
+        "rebaixamento"
+      ]
+    },
+    {
+      "id": "subarachnoid_hemorrhage",
+      "term": "Hemorragia subaracnoidea",
+      "aliases": [
+        "hsa",
+        "cefaleia em trovoada",
+        "pior cefaleia da vida",
+        "hemorragia subaracnoide"
+      ],
+      "area": "neurologia_emergencia",
+      "definition": "Sangramento no espaco subaracnoideo, frequentemente por ruptura de aneurisma.",
+      "teaching": "Cefaleia explosiva maximal no inicio e um alarme. Rigidez de nuca e vomitos reforcam suspeita.",
+      "redFlags": [
+        "sincope",
+        "rebaixamento",
+        "deficit focal",
+        "convulsao"
+      ]
+    },
+    {
+      "id": "epileptic_seizure",
+      "term": "Crise epileptica",
+      "aliases": [
+        "convulsao",
+        "crise convulsiva",
+        "epilepsia",
+        "estado de mal epileptico"
+      ],
+      "area": "neurologia_emergencia",
+      "definition": "Manifestacao clinica de descarga neuronal excessiva e sincronica.",
+      "teaching": "Primeira crise exige procurar causa provocada. Crise prolongada ou repetida sem recuperar consciencia e emergencia.",
+      "redFlags": [
+        "estado de mal",
+        "trauma",
+        "febre com rigidez",
+        "gestacao"
+      ]
+    },
+    {
+      "id": "delirium",
+      "term": "Delirium",
+      "aliases": [
+        "confusao aguda",
+        "estado confusional agudo",
+        "delirium",
+        "flutuacao atencional"
+      ],
+      "area": "clinica_medica_geriatria",
+      "definition": "Sindrome aguda e flutuante de alteracao de atencao e consciencia.",
+      "teaching": "Em idoso, delirium e sinal de doenca organica ate prova em contrario: infeccao, droga, disturbio metabolico ou dor.",
+      "redFlags": [
+        "rebaixamento",
+        "sepse",
+        "hipoglicemia",
+        "hipoxemia"
+      ]
+    },
+    {
+      "id": "diabetes_mellitus",
+      "term": "Diabetes mellitus",
+      "aliases": [
+        "diabetes",
+        "dm",
+        "hiperglicemia cronica",
+        "diabetes tipo 2"
+      ],
+      "area": "endocrinologia",
+      "definition": "Grupo de disturbios metabolicos com hiperglicemia cronica por defeito de secrecao ou acao da insulina.",
+      "teaching": "Complicacoes microvasculares e macrovasculares orientam rastreio. Sintomas classicos: poliuria, polidipsia e perda de peso.",
+      "redFlags": [
+        "cetonuria",
+        "rebaixamento",
+        "desidratacao",
+        "vomitos"
+      ]
+    },
+    {
+      "id": "diabetic_ketoacidosis",
+      "term": "Cetoacidose diabetica",
+      "aliases": [
+        "cad",
+        "cetoacidose",
+        "acidose diabetica",
+        "cetose diabetica"
+      ],
+      "area": "endocrinologia_emergencia",
+      "definition": "Emergencia hiperglicemica com cetose e acidose metabolica por deficiencia de insulina.",
+      "teaching": "Triade operacional: hiperglicemia, cetonas e acidose. Potassio define seguranca da insulinoterapia.",
+      "redFlags": [
+        "vomitos",
+        "dor abdominal",
+        "respiracao de kussmaul",
+        "rebaixamento"
+      ]
+    },
+    {
+      "id": "hyperosmolar_state",
+      "term": "Estado hiperosmolar hiperglicemico",
+      "aliases": [
+        "ehh",
+        "estado hiperosmolar",
+        "coma hiperosmolar",
+        "hiperglicemia hiperosmolar"
+      ],
+      "area": "endocrinologia_emergencia",
+      "definition": "Emergencia hiperglicemica com hiperosmolaridade intensa e pouca ou nenhuma cetose.",
+      "teaching": "Mais comum em DM2 e idosos. Desidratacao e alteracao neurologica costumam dominar o quadro.",
+      "redFlags": [
+        "coma",
+        "convulsao",
+        "choque",
+        "hipernatremia"
+      ]
+    },
+    {
+      "id": "hyperthyroidism",
+      "term": "Hipertireoidismo",
+      "aliases": [
+        "tireotoxicose",
+        "hipertireoidismo",
+        "doenca de graves",
+        "tsh baixo t4 alto"
+      ],
+      "area": "endocrinologia",
+      "definition": "Excesso de hormonios tireoidianos ou de seus efeitos nos tecidos.",
+      "teaching": "Perda de peso, tremor, taquicardia e intolerancia ao calor sao pistas. Graves pode ter oftalmopatia.",
+      "redFlags": [
+        "febre",
+        "delirio",
+        "taquiarritmia",
+        "insuficiencia cardiaca"
+      ]
+    },
+    {
+      "id": "hypothyroidism",
+      "term": "Hipotireoidismo",
+      "aliases": [
+        "hipotireoidismo",
+        "tsh alto",
+        "mixedema",
+        "hashimoto"
+      ],
+      "area": "endocrinologia",
+      "definition": "Deficiencia de hormonios tireoidianos, geralmente por tireoidite autoimune em areas iodo-suficientes.",
+      "teaching": "Fadiga, ganho de peso, constipacao, pele seca e bradicardia sugerem. TSH guia triagem na maioria.",
+      "redFlags": [
+        "coma mixedematoso",
+        "hipotermia",
+        "bradicardia grave",
+        "hiponatremia"
+      ]
+    },
+    {
+      "id": "adrenal_insufficiency",
+      "term": "Insuficiencia adrenal",
+      "aliases": [
+        "addison",
+        "crise adrenal",
+        "insuficiencia suprarrenal",
+        "cortisol baixo"
+      ],
+      "area": "endocrinologia_emergencia",
+      "definition": "Deficiencia de glicocorticoide, com ou sem mineralocorticoide, primaria ou secundaria.",
+      "teaching": "Hipotensao, hiponatremia, hipercalemia e hiperpigmentacao sugerem forma primaria.",
+      "redFlags": [
+        "choque",
+        "hipoglicemia",
+        "hipercalemia",
+        "vomitos persistentes"
+      ]
+    },
+    {
+      "id": "siadh",
+      "term": "SIADH",
+      "aliases": [
+        "siadh",
+        "sindrome da secrecao inapropriada de adh",
+        "hiponatremia euvolemica",
+        "adh inapropriado"
+      ],
+      "area": "endocrinologia_nefrologia",
+      "definition": "Hiponatremia hipo-osmolar euvolemica por secrecao ou acao inapropriada de ADH.",
+      "teaching": "Urina inadequadamente concentrada em paciente euvolemico e pista forte. Sintomas neurologicos indicam gravidade.",
+      "redFlags": [
+        "convulsao",
+        "confusao",
+        "sodio muito baixo",
+        "queda rapida do sodio"
+      ]
+    },
+    {
+      "id": "acute_kidney_injury",
+      "term": "Injuria renal aguda",
+      "aliases": [
+        "ira",
+        "lesao renal aguda",
+        "injuria renal aguda",
+        "creatinina subiu"
+      ],
+      "area": "nefrologia",
+      "definition": "Reducao aguda da funcao renal, detectada por creatinina, diurese ou ambos.",
+      "teaching": "Classifique em pre-renal, renal intrinseca e pos-renal. Hipercalemia e sobrecarga mudam prioridade.",
+      "redFlags": [
+        "hipercalemia",
+        "edema agudo de pulmao",
+        "anuria",
+        "uremia sintomatica"
+      ]
+    },
+    {
+      "id": "chronic_kidney_disease",
+      "term": "Doenca renal cronica",
+      "aliases": [
+        "drc",
+        "doenca renal cronica",
+        "insuficiencia renal cronica",
+        "albuminuria cronica"
+      ],
+      "area": "nefrologia",
+      "definition": "Alteracao estrutural ou funcional renal persistente por pelo menos tres meses.",
+      "teaching": "TFG e albuminuria estratificam risco. Diabetes e hipertensao sao causas comuns.",
+      "redFlags": [
+        "hipercalemia",
+        "uremia",
+        "sobrecarga refrataria",
+        "acidose grave"
+      ]
+    },
+    {
+      "id": "nephrotic_syndrome",
+      "term": "Sindrome nefrotica",
+      "aliases": [
+        "sindrome nefrotica",
+        "proteinuria nefrotica",
+        "edema hipoalbuminemia",
+        "hiperlipidemia proteinuria"
+      ],
+      "area": "nefrologia",
+      "definition": "Proteinuria intensa com hipoalbuminemia, edema e frequentemente hiperlipidemia.",
+      "teaching": "A palavra-chave e perda macica de proteina. Risco de trombose e infeccao aumenta.",
+      "redFlags": [
+        "anasarca",
+        "trombose",
+        "dispneia",
+        "infeccao"
+      ]
+    },
+    {
+      "id": "nephritic_syndrome",
+      "term": "Sindrome nefritica",
+      "aliases": [
+        "sindrome nefritica",
+        "hematuria glomerular",
+        "cilindros hematicos",
+        "glomerulonefrite"
+      ],
+      "area": "nefrologia",
+      "definition": "Inflamacao glomerular com hematuria, hipertensao, edema e queda variavel da funcao renal.",
+      "teaching": "Cilindros hematicos e hematuria dismorfica apontam origem glomerular.",
+      "redFlags": [
+        "oliguria",
+        "hipertensao grave",
+        "creatinina subindo",
+        "edema pulmonar"
+      ]
+    },
+    {
+      "id": "pyelonephritis",
+      "term": "Pielonefrite",
+      "aliases": [
+        "pielonefrite",
+        "infeccao renal",
+        "itu alta",
+        "febre dor lombar disuria"
+      ],
+      "area": "nefrologia_infectologia",
+      "definition": "Infeccao bacteriana do trato urinario alto, envolvendo parenquima renal.",
+      "teaching": "Febre, dor lombar e sintomas urinarios diferenciam de cistite simples.",
+      "redFlags": [
+        "sepse",
+        "gestacao",
+        "obstrucao urinaria",
+        "imunossupressao"
+      ]
+    },
+    {
+      "id": "hyperkalemia",
+      "term": "Hipercalemia",
+      "aliases": [
+        "hipercalemia",
+        "potassio alto",
+        "onda t apiculada",
+        "k alto"
+      ],
+      "area": "nefrologia_emergencia",
+      "definition": "Elevacao do potassio serico, com risco de arritmia.",
+      "teaching": "ECG muda prioridade. Gluconato estabiliza membrana; insulina com glicose desloca potassio para o intracelular.",
+      "redFlags": [
+        "alteracao no ECG",
+        "fraqueza importante",
+        "bradicardia",
+        "parada cardiaca"
+      ]
+    },
+    {
+      "id": "iron_deficiency_anemia",
+      "term": "Anemia ferropriva",
+      "aliases": [
+        "anemia ferropriva",
+        "deficiencia de ferro",
+        "microcitose ferropriva",
+        "ferritina baixa"
+      ],
+      "area": "hematologia",
+      "definition": "Anemia por deplecao de ferro, geralmente microcitica e hipocromica.",
+      "teaching": "Ferritina baixa e a pista mais forte quando nao ha inflamacao importante. Em adulto, procure perda cronica de sangue.",
+      "redFlags": [
+        "melena",
+        "perda ponderal",
+        "sangramento uterino intenso",
+        "dispneia aos esforcos"
+      ]
+    },
+    {
+      "id": "megaloblastic_anemia",
+      "term": "Anemia megaloblastica",
+      "aliases": [
+        "anemia megaloblastica",
+        "b12 baixa",
+        "folato baixo",
+        "macrocitose"
+      ],
+      "area": "hematologia",
+      "definition": "Anemia por defeito de sintese de DNA, geralmente por deficiencia de vitamina B12 ou folato.",
+      "teaching": "B12 baixa pode dar sintomas neurologicos; folato nao explica deficit neurologico classico.",
+      "redFlags": [
+        "parestesias",
+        "ataxia",
+        "glossite intensa",
+        "pancitopenia"
+      ]
+    },
+    {
+      "id": "hemolytic_anemia",
+      "term": "Anemia hemolitica",
+      "aliases": [
+        "hemolise",
+        "anemia hemolitica",
+        "ldh alto bilirrubina indireta",
+        "coombs"
+      ],
+      "area": "hematologia",
+      "definition": "Anemia por destruicao acelerada de hemacias, intra ou extravascular.",
+      "teaching": "Reticulocitose, LDH alto, bilirrubina indireta alta e haptoglobina baixa formam o padrao.",
+      "redFlags": [
+        "ictericia intensa",
+        "hemoglobinuria",
+        "choque",
+        "dor lombar transfusional"
+      ]
+    },
+    {
+      "id": "acute_leukemia",
+      "term": "Leucemia aguda",
+      "aliases": [
+        "leucemia aguda",
+        "blastos",
+        "lma",
+        "lla",
+        "pancitopenia blastos"
+      ],
+      "area": "hematologia_oncologia",
+      "definition": "Neoplasia hematologica de curso rapido por proliferacao de blastos.",
+      "teaching": "Infeccao, sangramento e anemia em conjunto com blastos sugerem leucemia aguda.",
+      "redFlags": [
+        "febre neutropenica",
+        "sangramento",
+        "hiperleucocitose",
+        "dispneia"
+      ]
+    },
+    {
+      "id": "lymphoma",
+      "term": "Linfoma",
+      "aliases": [
+        "linfoma",
+        "hodgkin",
+        "nao hodgkin",
+        "linfonodo endurecido",
+        "sintomas b"
+      ],
+      "area": "hematologia_oncologia",
+      "definition": "Neoplasia de linfocitos, com apresentacoes nodais ou extranodais.",
+      "teaching": "Febre, sudorese noturna e perda de peso sao sintomas B. Linfonodo persistente endurecido merece investigacao.",
+      "redFlags": [
+        "compressao mediastinal",
+        "perda ponderal",
+        "febre persistente",
+        "sudorese noturna"
+      ]
+    },
+    {
+      "id": "febrile_neutropenia",
+      "term": "Neutropenia febril",
+      "aliases": [
+        "neutropenia febril",
+        "febre em neutropenico",
+        "anc baixo febre",
+        "paciente quimioterapia febre"
+      ],
+      "area": "hematologia_infectologia_emergencia",
+      "definition": "Febre em paciente com neutropenia, especialmente apos quimioterapia, com alto risco infeccioso.",
+      "teaching": "E emergencia infecciosa mesmo com poucos sinais locais, porque o neutropenico pode nao montar resposta inflamatoria evidente.",
+      "redFlags": [
+        "hipotensao",
+        "mucosite",
+        "cateter venoso",
+        "neutropenia profunda"
+      ]
+    },
+    {
+      "id": "dengue",
+      "term": "Dengue",
+      "aliases": [
+        "dengue",
+        "prova do laco",
+        "dor retroorbitaria",
+        "plaquetopenia dengue"
+      ],
+      "area": "infectologia",
+      "definition": "Arbovirose febril por virus dengue, com risco de extravasamento plasmatico e choque.",
+      "teaching": "Dor retroorbitaria, mialgia e leucopenia ajudam. O perigo real e sinal de alarme e choque.",
+      "redFlags": [
+        "dor abdominal intensa",
+        "vomitos persistentes",
+        "sangramento",
+        "letargia"
+      ]
+    },
+    {
+      "id": "hiv",
+      "term": "HIV",
+      "aliases": [
+        "hiv",
+        "aids",
+        "sida",
+        "imunodeficiencia adquirida",
+        "cd4"
+      ],
+      "area": "infectologia",
+      "definition": "Infeccao pelo virus da imunodeficiencia humana, com deplecao progressiva de linfocitos CD4 sem tratamento.",
+      "teaching": "A carga viral mede replicacao; CD4 estima risco oportunista. Testagem e tratamento precoce mudam prognostico.",
+      "redFlags": [
+        "dispneia com hipoxemia",
+        "cefaleia com deficit",
+        "perda de peso",
+        "candidiase esofagica"
+      ]
+    },
+    {
+      "id": "syphilis",
+      "term": "Sifilis",
+      "aliases": [
+        "sifilis",
+        "treponema pallidum",
+        "vdlr",
+        "cancro duro"
+      ],
+      "area": "infectologia",
+      "definition": "Infeccao sexualmente transmissivel por Treponema pallidum, com fases clinicas variadas.",
+      "teaching": "Cancro duro indolor e sifilis primaria; rash palmoplantar sugere secundaria. VDRL ajuda seguimento.",
+      "redFlags": [
+        "neurosifilis",
+        "gestacao",
+        "sifilis congenita",
+        "alteracao visual"
+      ]
+    },
+    {
+      "id": "cellulitis_erysipelas",
+      "term": "Celulite e erisipela",
+      "aliases": [
+        "celulite infecciosa",
+        "erisipela",
+        "pele vermelha dolorosa",
+        "infeccao de pele"
+      ],
+      "area": "infectologia_dermatologia",
+      "definition": "Infeccoes bacterianas de pele e subcutaneo, geralmente por estreptococos e estafilococos.",
+      "teaching": "Erisipela tende a ser mais superficial e bem delimitada; celulite e mais profunda e mal delimitada.",
+      "redFlags": [
+        "dor desproporcional",
+        "bolhas",
+        "necrose",
+        "sepse"
+      ]
+    },
+    {
+      "id": "anaphylaxis",
+      "term": "Anafilaxia",
+      "aliases": [
+        "anafilaxia",
+        "choque anafilatico",
+        "reacao alergica grave",
+        "urticaria dispneia hipotensao"
+      ],
+      "area": "emergencia_alergologia",
+      "definition": "Reacao de hipersensibilidade sistemica aguda, potencialmente fatal.",
+      "teaching": "Pele, respiratorio, cardiovascular e gastrointestinal em combinacao sugerem anafilaxia. Adrenalina e eixo da emergencia.",
+      "redFlags": [
+        "estridor",
+        "broncoespasmo",
+        "hipotensao",
+        "edema de glote"
+      ]
+    },
+    {
+      "id": "shock",
+      "term": "Choque",
+      "aliases": [
+        "choque",
+        "hipoperfusao",
+        "hipotensao choque",
+        "lactato alto"
+      ],
+      "area": "emergencia",
+      "definition": "Estado de falencia circulatoria com oferta inadequada de oxigenio aos tecidos.",
+      "teaching": "Classifique em hipovolemico, distributivo, cardiogenico e obstrutivo; pele, pulso, turgor e historia ajudam.",
+      "redFlags": [
+        "rebaixamento",
+        "oliguria",
+        "pele fria ou moteada",
+        "lactato elevado"
+      ]
+    },
+    {
+      "id": "systemic_lupus",
+      "term": "Lupus eritematoso sistemico",
+      "aliases": [
+        "les",
+        "lupus",
+        "fan positivo",
+        "nefrite lupica"
+      ],
+      "area": "reumatologia",
+      "definition": "Doenca autoimune sistemica com autoanticorpos e acometimento multiorganico.",
+      "teaching": "Mulher jovem com artrite, rash, fotossensibilidade, citopenias ou rim deve acender LES.",
+      "redFlags": [
+        "nefrite",
+        "convulsao",
+        "psicose",
+        "serosite importante"
+      ]
+    },
+    {
+      "id": "rheumatoid_arthritis",
+      "term": "Artrite reumatoide",
+      "aliases": [
+        "artrite reumatoide",
+        "ar",
+        "rigidez matinal",
+        "poliartrite simetrica"
+      ],
+      "area": "reumatologia",
+      "definition": "Doenca autoimune inflamatoria cronica, principalmente de articulacoes sinoviais.",
+      "teaching": "Poliartrite simetrica de pequenas articulacoes com rigidez matinal prolongada e o padrao classico.",
+      "redFlags": [
+        "vasculite",
+        "doenca pulmonar intersticial",
+        "compressao cervical",
+        "febre persistente"
+      ]
+    },
+    {
+      "id": "gout",
+      "term": "Gota",
+      "aliases": [
+        "gota",
+        "artrite gotosa",
+        "podagra",
+        "cristais de urato"
+      ],
+      "area": "reumatologia",
+      "definition": "Artrite por deposicao de cristais de urato monossodico.",
+      "teaching": "Podagra aguda e muito sugestiva. Cristais com birrefringencia negativa fecham diagnostico em liquido sinovial.",
+      "redFlags": [
+        "febre",
+        "imunossupressao",
+        "monoartrite septica possivel",
+        "dor intensa persistente"
+      ]
+    },
+    {
+      "id": "vasculitis",
+      "term": "Vasculite",
+      "aliases": [
+        "vasculite",
+        "purpura palpavel",
+        "anca",
+        "inflamacao vascular"
+      ],
+      "area": "reumatologia",
+      "definition": "Inflamacao de vasos sanguineos com manifestacoes dependentes do calibre e orgao acometido.",
+      "teaching": "Purpura palpavel, rim, pulmao e neuropatia periferica sao pistas fortes de vasculite sistemica.",
+      "redFlags": [
+        "hemoptise",
+        "glomerulonefrite",
+        "mononeurite multiplex",
+        "isquemia"
+      ]
+    },
+    {
+      "id": "preeclampsia",
+      "term": "Pre-eclampsia",
+      "aliases": [
+        "pre eclampsia",
+        "preeclampsia",
+        "hipertensao na gestacao",
+        "proteinuria gestacional"
+      ],
+      "area": "obstetricia",
+      "definition": "Hipertensao apos 20 semanas associada a proteinuria ou lesao de orgao alvo.",
+      "teaching": "Cefaleia, escotomas, dor epigastrica e plaquetopenia indicam gravidade.",
+      "redFlags": [
+        "convulsao",
+        "dor epigastrica",
+        "alteracao visual",
+        "dispneia"
+      ]
+    },
+    {
+      "id": "ectopic_pregnancy",
+      "term": "Gravidez ectopica",
+      "aliases": [
+        "gestacao ectopica",
+        "gravidez ectopica",
+        "beta hcg dor pelvica",
+        "prenhez ectopica"
+      ],
+      "area": "ginecologia_obstetricia_emergencia",
+      "definition": "Implantacao gestacional fora da cavidade uterina, mais frequentemente tubaria.",
+      "teaching": "Atraso menstrual, dor pelvica e sangramento vaginal compoem triade classica. Instabilidade sugere ruptura.",
+      "redFlags": [
+        "choque",
+        "dor intensa",
+        "sangramento",
+        "sinal de irritacao peritoneal"
+      ]
+    },
+    {
+      "id": "pelvic_inflammatory_disease",
+      "term": "Doenca inflamatoria pelvica",
+      "aliases": [
+        "dip",
+        "doenca inflamatoria pelvica",
+        "dor pelvica corrimento",
+        "cervicite dor anexial"
+      ],
+      "area": "ginecologia_infectologia",
+      "definition": "Infeccao ascendente do trato genital superior feminino.",
+      "teaching": "Dor pelvica, dor a mobilizacao do colo e dor anexial sustentam diagnostico clinico.",
+      "redFlags": [
+        "abscesso tubo-ovariano",
+        "gestacao",
+        "sepse",
+        "dor intensa"
+      ]
+    },
+    {
+      "id": "abnormal_uterine_bleeding",
+      "term": "Sangramento uterino anormal",
+      "aliases": [
+        "sua",
+        "sangramento uterino anormal",
+        "menorragia",
+        "metrorragia"
+      ],
+      "area": "ginecologia",
+      "definition": "Sangramento uterino fora do padrao esperado em volume, duracao, frequencia ou regularidade.",
+      "teaching": "PALM-COEIN organiza causas estruturais e nao estruturais. Sempre considere gestacao em idade fertil.",
+      "redFlags": [
+        "choque",
+        "gestacao",
+        "sangramento pos menopausa",
+        "anemia sintomatica"
+      ]
+    },
+    {
+      "id": "cervical_cancer_screening",
+      "term": "Rastreamento do cancer do colo uterino",
+      "aliases": [
+        "papanicolau",
+        "preventivo",
+        "cancer de colo",
+        "rastreamento colo uterino",
+        "hpv colo"
+      ],
+      "area": "ginecologia_oncologia",
+      "definition": "Estrategia de deteccao de lesoes precursoras e cancer cervical, ligada ao HPV.",
+      "teaching": "O ponto de prova costuma ser faixa etaria, periodicidade e conduta diante de citologia alterada.",
+      "redFlags": [
+        "sangramento pos coito",
+        "lesao visivel",
+        "sangramento pos menopausa",
+        "dor pelvica persistente"
+      ]
+    },
+    {
+      "id": "bronchiolitis",
+      "term": "Bronquiolite",
+      "aliases": [
+        "bronquiolite",
+        "vrs",
+        "lactente chiando",
+        "sibilancia lactente"
+      ],
+      "area": "pediatria_pneumologia",
+      "definition": "Infeccao viral de vias aereas inferiores em lactentes, frequentemente por VRS.",
+      "teaching": "Tratamento e principalmente suporte. Idade pequena, desconforto respiratorio e dificuldade alimentar indicam gravidade.",
+      "redFlags": [
+        "apneia",
+        "cianose",
+        "desidratacao",
+        "tiragem intensa"
+      ]
+    },
+    {
+      "id": "febrile_seizure",
+      "term": "Convulsao febril",
+      "aliases": [
+        "convulsao febril",
+        "crise febril",
+        "febre convulsao crianca"
+      ],
+      "area": "pediatria_neurologia",
+      "definition": "Crise convulsiva associada a febre em crianca sem infeccao do SNC ou causa metabolica aguda.",
+      "teaching": "Simples: generalizada, curta e unica em 24h. Focal, prolongada ou repetida muda risco.",
+      "redFlags": [
+        "meningismo",
+        "crise focal",
+        "mais de 15 minutos",
+        "rebaixamento persistente"
+      ]
+    },
+    {
+      "id": "pediatric_dehydration",
+      "term": "Desidratacao em pediatria",
+      "aliases": [
+        "desidratacao infantil",
+        "diarreia crianca desidratacao",
+        "soro de reidratacao oral",
+        "turgor diminuido"
+      ],
+      "area": "pediatria",
+      "definition": "Deficit de agua e eletrolitos, comum em gastroenterite aguda.",
+      "teaching": "Estado geral, sede, olhos, mucosas, lagrimas e perfusao ajudam classificar gravidade.",
+      "redFlags": [
+        "letargia",
+        "choque",
+        "incapaz de beber",
+        "olhos muito fundos"
+      ]
+    },
+    {
+      "id": "kawasaki_disease",
+      "term": "Doenca de Kawasaki",
+      "aliases": [
+        "kawasaki",
+        "febre cinco dias crianca",
+        "conjuntivite lingua em morango",
+        "aneurisma coronariano"
+      ],
+      "area": "pediatria_reumatologia",
+      "definition": "Vasculite de medio calibre em criancas, com risco de aneurisma coronariano.",
+      "teaching": "Febre prolongada com conjuntivite, alteracoes orais, rash, extremidades e linfonodo cervical aponta Kawasaki.",
+      "redFlags": [
+        "choque",
+        "miocardite",
+        "aneurisma coronariano",
+        "febre persistente"
+      ]
+    },
+    {
+      "id": "trauma_atls",
+      "term": "Atendimento inicial ao trauma",
+      "aliases": [
+        "atls",
+        "abcde trauma",
+        "trauma atendimento inicial",
+        "avaliacao primaria trauma"
+      ],
+      "area": "emergencia_cirurgia",
+      "definition": "Abordagem sistematica inicial do politraumatizado para identificar e tratar ameacas imediatas a vida.",
+      "teaching": "ABCDE organiza prioridade: via aerea, respiracao, circulacao, neurologico e exposicao.",
+      "redFlags": [
+        "via aerea ameacada",
+        "choque",
+        "pneumotorax hipertensivo",
+        "rebaixamento"
+      ]
+    },
+    {
+      "id": "burns",
+      "term": "Queimaduras",
+      "aliases": [
+        "queimadura",
+        "queimaduras",
+        "regra dos nove",
+        "queimadura eletrica",
+        "queimadura inalatoria"
+      ],
+      "area": "emergencia_cirurgia",
+      "definition": "Lesao tecidual por calor, quimico, eletricidade ou radiacao.",
+      "teaching": "Extensao, profundidade, local e mecanismo definem gravidade. Lesao inalatoria muda prioridade.",
+      "redFlags": [
+        "rouquidao",
+        "fuligem oral",
+        "queimadura eletrica",
+        "circunferencial"
+      ]
+    },
+    {
+      "id": "melanoma",
+      "term": "Melanoma",
+      "aliases": [
+        "melanoma",
+        "abcde melanoma",
+        "pinta assimetrica",
+        "lesao pigmentada suspeita"
+      ],
+      "area": "dermatologia_oncologia",
+      "definition": "Neoplasia maligna de melanocitos, agressiva e com potencial metastatico.",
+      "teaching": "ABCDE: assimetria, bordas irregulares, cor variada, diametro/evolucao. Evolucao pesa muito.",
+      "redFlags": [
+        "crescimento rapido",
+        "sangramento",
+        "ulceracao",
+        "lesao muito irregular"
+      ]
+    }
+  ]
+}
