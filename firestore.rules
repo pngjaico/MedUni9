@@ -97,6 +97,32 @@ service cloud.firestore {
       allow delete: if (request.auth != null && request.auth.uid == userId) || isAdmin();
     }
 
+    // Progresso do aluno: cache multi-dispositivo para flashcards, questoes, erros e sessoes.
+    // O cliente escreve apenas IDs/estado de estudo dentro do proprio UID; conteudo fica estatico em Hosting.
+    match /users/{userId}/flashcard_progress/{cardId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create, update: if (isOwner(userId) || isAdmin()) && isValidFlashcardProgress();
+      allow delete: if isOwner(userId) || isAdmin();
+    }
+
+    match /users/{userId}/quiz_progress/{questionId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create, update: if (isOwner(userId) || isAdmin()) && isValidQuizProgress();
+      allow delete: if isOwner(userId) || isAdmin();
+    }
+
+    match /users/{userId}/quiz_errors/{questionId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create, update: if (isOwner(userId) || isAdmin()) && isValidQuizError();
+      allow delete: if isOwner(userId) || isAdmin();
+    }
+
+    match /users/{userId}/quiz_sessions/{sessionId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create, update: if (isOwner(userId) || isAdmin()) && isValidQuizSession();
+      allow delete: if isOwner(userId) || isAdmin();
+    }
+
     // Security events feed used by admin security panel
     match /security_events/{eventId} {
       allow create: if isAdmin();
@@ -176,6 +202,10 @@ service cloud.firestore {
            request.auth.token.email_verified == true &&
            request.auth.token.email is string &&
            request.auth.token.email.lower() == 'pngjaico@gmail.com';
+  }
+
+  function isOwner(userId) {
+    return request.auth != null && request.auth.uid == userId;
   }
 
   // ===============================================================
@@ -327,6 +357,151 @@ service cloud.firestore {
            d.source is string &&
            d.source in ['manual', 'ai_draft', 'template'] &&
            d.updatedAt is string;
+  }
+
+  function isValidFlashcardProgress() {
+    let d = request.resource.data;
+    return d.keys().hasOnly([
+             'cardId',
+             'materiaId',
+             'aulaId',
+             'reps',
+             'ef',
+             'interval',
+             'due',
+             'lastReviewedAt',
+             'buried',
+             'updatedAt'
+           ]) &&
+           d.cardId is string &&
+           d.cardId.size() <= 160 &&
+           d.materiaId is string &&
+           d.materiaId.size() <= 80 &&
+           d.aulaId is string &&
+           d.aulaId.size() <= 120 &&
+           d.reps is number &&
+           d.reps >= 0 &&
+           d.reps <= 5000 &&
+           d.ef is number &&
+           d.ef >= 1 &&
+           d.ef <= 5 &&
+           d.interval is number &&
+           d.interval >= 0 &&
+           d.interval <= 36500 &&
+           d.due is number &&
+           d.lastReviewedAt is number &&
+           d.buried is bool &&
+           d.updatedAt is number;
+  }
+
+  function isValidQuizProgress() {
+    let d = request.resource.data;
+    return d.keys().hasOnly([
+             'questionId',
+             'materiaId',
+             'aulaId',
+             'attempts',
+             'correctAttempts',
+             'wrongAttempts',
+             'done',
+             'level',
+             'nextReview',
+             'lastResult',
+             'lastAnsweredAt',
+             'updatedAt'
+           ]) &&
+           d.questionId is string &&
+           d.questionId.size() <= 160 &&
+           d.materiaId is string &&
+           d.materiaId.size() <= 80 &&
+           d.aulaId is string &&
+           d.aulaId.size() <= 120 &&
+           d.attempts is number &&
+           d.attempts >= 0 &&
+           d.attempts <= 5000 &&
+           d.correctAttempts is number &&
+           d.correctAttempts >= 0 &&
+           d.correctAttempts <= d.attempts &&
+           d.wrongAttempts is number &&
+           d.wrongAttempts >= 0 &&
+           d.wrongAttempts <= d.attempts &&
+           d.done is bool &&
+           d.level is number &&
+           d.level >= 0 &&
+           d.level <= 5 &&
+           (d.nextReview == null || d.nextReview is number) &&
+           d.lastResult is string &&
+           d.lastResult in ['', 'correct', 'wrong'] &&
+           d.lastAnsweredAt is number &&
+           d.updatedAt is number;
+  }
+
+  function isValidQuizError() {
+    let d = request.resource.data;
+    return d.keys().hasOnly([
+             'questionId',
+             'materiaId',
+             'aulaId',
+             'active',
+             'wrongCount',
+             'addedAt',
+             'updatedAt'
+           ]) &&
+           d.questionId is string &&
+           d.questionId.size() <= 160 &&
+           d.materiaId is string &&
+           d.materiaId.size() <= 80 &&
+           d.aulaId is string &&
+           d.aulaId.size() <= 120 &&
+           d.active is bool &&
+           d.wrongCount is number &&
+           d.wrongCount >= 0 &&
+           d.wrongCount <= 5000 &&
+           d.addedAt is number &&
+           d.updatedAt is number;
+  }
+
+  function isValidQuizSession() {
+    let d = request.resource.data;
+    return d.keys().hasOnly([
+             'sessionId',
+             'materiaId',
+             'aulaIds',
+             'score',
+             'total',
+             'accuracy',
+             'completedAt',
+             'durationMs',
+             'mode',
+             'date',
+             'time',
+             'updatedAt'
+           ]) &&
+           d.sessionId is string &&
+           d.sessionId.size() <= 180 &&
+           d.materiaId is string &&
+           d.materiaId.size() <= 80 &&
+           d.aulaIds is list &&
+           d.aulaIds.size() <= 80 &&
+           d.score is number &&
+           d.score >= 0 &&
+           d.total is number &&
+           d.total >= 0 &&
+           d.total <= 500 &&
+           d.score <= d.total &&
+           d.accuracy is number &&
+           d.accuracy >= 0 &&
+           d.accuracy <= 100 &&
+           d.completedAt is number &&
+           d.durationMs is number &&
+           d.durationMs >= 0 &&
+           d.mode is string &&
+           d.mode.size() <= 40 &&
+           d.date is string &&
+           d.date.size() <= 40 &&
+           d.time is string &&
+           d.time.size() <= 40 &&
+           d.updatedAt is number;
   }
 
   function canReadScheduleTemplate() {
